@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-28T18:53:45Z",
+  "generationMode": "ai",
+  "domestic": {
+    "overview": "国内方面，西藏吉隆泥石流灾害救援持续，尼泊尔山洪致579死1924失联；中央政治局召开会议部署救灾；个人住房贷款期限延长至40年，现房销售推进；美联储官员发表鹰派言论；蒋超良受贿案宣判。",
+    "items": [
+      {
+        "id": "3fbdc9b82840332bbf13",
+        "title": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，中共中央总书记习近平主持会议",
+        "summary": "中共中央政治局召开会议，部署西藏吉隆泥石流灾害救援，习近平主持。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33966449",
+        "publishedAt": "2026-08-28T18:53:45Z"
+      },
+      {
+        "id": "3b50a6d34b00a3987cc2",
+        "title": "尼泊尔山洪已致579死1924失联",
+        "summary": "尼泊尔山洪已致579死1924失联，中国西藏吉隆受灾严重。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7679080760577396233/",
+        "publishedAt": "2026-08-28T18:53:45Z"
+      },
+      {
+        "id": "79d4b937f1299da1dc92",
+        "title": "两部门：将个人住房贷款期限由最长30年延长至最长40年",
+        "summary": "两部门将个人住房贷款期限由30年延长至40年，支持合理住房需求。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468038",
+        "publishedAt": "2026-08-28T18:53:45Z"
+      },
+      {
+        "id": "4c5b0baf00f1c213882c",
+        "title": "三部门：完善商品住房预售管理，有力有序推行商品住房现房销售",
+        "summary": "三部门完善商品房预售管理，推行现房销售，促进行业健康发展。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33967726",
+        "publishedAt": "2026-08-28T18:53:45Z"
+      },
+      {
+        "id": "86ad53b2c670fb207dbf",
+        "title": "受贿7.46亿余元，蒋超良一审被判死缓",
+        "summary": "蒋超良受贿7.46亿余元，一审被判死缓，彰显反腐决心。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33967455",
+        "publishedAt": "2026-08-28T18:53:45Z"
+      },
+      {
+        "id": "0c7c0a734bf66994d0a5",
+        "title": "全国社会物流总额同比增长5.0%",
+        "summary": "全国社会物流总额同比增长5.0%，显示经济持续恢复。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7679052426330295818/",
+        "publishedAt": "2026-08-28T18:53:45Z"
+      },
+      {
+        "id": "433959f736a2c293a859",
+        "title": "河北省委原书记倪岳峰履新职",
+        "summary": "河北省委原书记倪岳峰履新职，省部级人事调整。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7679062269354839603/",
+        "publishedAt": "2026-08-28T18:53:45Z"
+      },
+      {
+        "id": "f5225d690286f2d50d7e",
+        "title": "美对伊制裁或涉及多家中国银行，外交部回应",
+        "summary": "美对伊制裁涉及中国银行，外交部回应反对单边制裁。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8vxWyHjGzaK",
+        "publishedAt": "2026-08-28T18:53:45Z"
+      }
+    ]
+  },
+  "global": {
+    "overview": "国际方面，尼泊尔山洪引发国际关注，多国公民失踪；挪威国王哈拉尔五世逝世；俄罗斯袭击乌克兰平民目标；美国与伊朗局势持续紧张；美联储主席沃什发表鹰派言论。",
+    "items": [
+      {
+        "id": "c8058fad2e22ee918aae",
+        "title": "At least 90 Americans missing in Nepal flood among 2,000 unaccounted for",
+        "summary": "尼泊尔山洪致至少90名美国人失踪，国际救援持续进行。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/aug/28/nepal-flood-missing-americans",
+        "publishedAt": "2026-08-28T10:35:00Z"
+      },
+      {
+        "id": "1395ce97717057096468",
+        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+        "summary": "挪威国王哈拉尔五世逝世，享年89岁，哈康八世继位。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-28T10:13:28Z"
+      },
+      {
+        "id": "5aa9fcd6cde1d1fcdaa5",
+        "title": "Deadly Russian strikes hit civilian targets in Ukraine",
+        "summary": "俄罗斯导弹袭击乌克兰平民目标，基辅郊区受损严重。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss",
+        "publishedAt": "2026-08-28T10:37:17Z"
+      },
+      {
+        "id": "d8c480a58c94d26711b3",
+        "title": "6 months of war on Iran",
+        "summary": "美国以色列对伊朗战争持续半年，局势未见缓和。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/6-months-of-war-on-iran?traffic_source=rss",
+        "publishedAt": "2026-08-28T07:09:27Z"
+      },
+      {
+        "id": "345eb7a70207efa2cb28",
+        "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+        "summary": "美联储主席沃什暗示若通胀不降可能加息，市场承压。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-28T07:15:26Z"
+      },
+      {
+        "id": "0b9ed7cead466af494c2",
+        "title": "London Science Museum cuts links with BP after decades of partnership",
+        "summary": "伦敦科学博物馆与英国石油公司终止合作，环保压力所致。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/culture/2026/aug/28/london-science-museum-cuts-links-with-bp-after-decades-of-partnership",
+        "publishedAt": "2026-08-28T08:57:06Z"
+      },
+      {
+        "id": "9b0605c8e8a993b71a71",
+        "title": "Can Trump really rename Lake Ontario, ‘Lake America’?",
+        "summary": "特朗普签署行政令将安大略湖改名“美国湖”，引发争议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss",
+        "publishedAt": "2026-08-28T06:36:19Z"
+      },
+      {
+        "id": "3c18519d8755e6b82f88",
+        "title": "US judge denies injunction against Trump’s new birthright citizenship order",
+        "summary": "美法官驳回对特朗普出生公民权行政令的禁令请求。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss",
+        "publishedAt": "2026-08-28T09:32:55Z"
+      }
+    ]
+  }
+}
