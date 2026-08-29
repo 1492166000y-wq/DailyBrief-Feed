@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T06:19:38Z",
+  "generatedAt": "2026-08-29T08:19:09Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻涵盖西藏泥石流灾害、住房金融改革、美联储政策影响、长鑫科技量产等重大事件。",
+    "overview": "国内要闻聚焦尼泊尔山洪、西藏吉隆口岸灾情、美联储主席沃什鹰派言论、房地产信贷新规及长鑫存储动态。",
     "items": [
       {
-        "id": "3fbdc9b82840332bbf13",
-        "title": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，中共中央总书记习近平主持会议",
-        "summary": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33966449",
-        "publishedAt": "2026-08-29T06:19:38Z"
+        "id": "3229683a3f958f3cae99",
+        "title": "尼泊尔山洪626人遇难2426人失联",
+        "summary": "尼泊尔山洪致626人遇难，2426人失联，搜救持续，灾情严重。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7679270172456259122/",
+        "publishedAt": "2026-08-29T08:19:09Z"
+      },
+      {
+        "id": "bbf7a8c0de5eb2d5812a",
+        "title": "吉隆口岸大楼只剩钢筋骨架",
+        "summary": "西藏吉隆口岸建筑损毁严重，仅剩钢筋骨架，救援加紧进行。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%A4%A7%E6%A5%BC%E5%8F%AA%E5%89%A9%E9%92%A2%E7%AD%8B%E9%AA%A8%E6%9E%B6%23",
+        "publishedAt": "2026-08-29T08:19:09Z"
       },
       {
         "id": "4c683ad9ca32d644f03c",
         "title": "沃什杰克逊霍尔首秀放鹰，称美联储“还有工作要做”，暗示通胀不快速下降准备加息",
-        "summary": "美联储主席沃什发表鹰派言论，暗示若通胀不降可能加息，引发市场震荡。",
+        "summary": "美联储主席沃什称通胀未降需加息，市场震动，美股承压。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780593",
-        "publishedAt": "2026-08-29T06:19:38Z"
-      },
-      {
-        "id": "4c5b0baf00f1c213882c",
-        "title": "三部门：完善商品住房预售管理，有力有序推行商品住房现房销售",
-        "summary": "三部门发文完善商品住房预售管理，推行现房销售，住房制度迎来变革。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33967726",
-        "publishedAt": "2026-08-29T06:19:38Z"
-      },
-      {
-        "id": "20456f066bb3e00778ef",
-        "title": "两部门：个人住房贷款期限由最长30年延长至最长40年，存量房贷还款困难可协商调整",
-        "summary": "两部门明确个人住房贷款期限延长至40年，存量房贷还款困难可协商调整。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780570",
-        "publishedAt": "2026-08-29T06:19:38Z"
+        "publishedAt": "2026-08-29T08:19:09Z"
       },
       {
         "id": "86ad53b2c670fb207dbf",
         "title": "受贿7.46亿余元，蒋超良一审被判死缓",
-        "summary": "受贿7.46亿余元，蒋超良一审被判死缓，彰显反腐决心。",
+        "summary": "蒋超良因受贿7.46亿余元一审被判死缓，引发关注。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33967455",
-        "publishedAt": "2026-08-29T06:19:38Z"
+        "publishedAt": "2026-08-29T08:19:09Z"
       },
       {
-        "id": "0533d55f39af4639663b",
-        "title": "长鑫官宣：LPDDR6内存量产",
-        "summary": "长鑫官宣LPDDR6内存量产，雷军发文祝贺，半导体产业再突破。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468507",
-        "publishedAt": "2026-08-29T06:19:38Z"
-      },
-      {
-        "id": "900983b31f83009e4bfd",
-        "title": "西藏吉隆泥石流已致7死554人失联",
-        "summary": "西藏吉隆泥石流已致7死554人失联，救援持续进行中。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7678627673343377414/",
-        "publishedAt": "2026-08-29T06:19:38Z"
-      },
-      {
-        "id": "bcba8c88ec785c79bf51",
-        "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
-        "summary": "沃什放鹰，美股指承压收跌，黄金重挫3%，全球市场关注。",
+        "id": "20456f066bb3e00778ef",
+        "title": "两部门：个人住房贷款期限由最长30年延长至最长40年，存量房贷还款困难可协商调整",
+        "summary": "两部门发布个人住房贷款新规，期限延长至40年，金融政策调整。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780532",
-        "publishedAt": "2026-08-29T06:19:38Z"
+        "url": "https://wallstreetcn.com/articles/3780570",
+        "publishedAt": "2026-08-29T08:19:09Z"
+      },
+      {
+        "id": "32df886895ef4063bb72",
+        "title": "长鑫存储起诉五角大楼",
+        "summary": "长鑫存储起诉五角大楼，涉及科技领域法律纠纷。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7678448738088042547/",
+        "publishedAt": "2026-08-29T08:19:09Z"
+      },
+      {
+        "id": "a7a082ccbaa364e40ac9",
+        "title": "教师被安排在“耻辱”背景板前合影，四川雷波县致歉：将依法依规严肃处理",
+        "summary": "四川雷波县教师被安排不当背景板合影，官方致歉并处理。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33968943",
+        "publishedAt": "2026-08-29T08:19:09Z"
+      },
+      {
+        "id": "4a1c141abc4ff57b6298",
+        "title": "日媒：迫于压力，高市早苗欲改组内阁",
+        "summary": "日媒报道高市早苗迫于压力将改组内阁，政治动态受关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8vyYwYfFhaK",
+        "publishedAt": "2026-08-29T08:19:09Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻重点包括尼泊尔山洪灾害、美国委内瑞拉石油协议、美联储鹰派言论及挪威国王逝世。",
+    "overview": "国际关注尼泊尔-西藏洪灾、美委石油协议、美联储主席沃什讲话、冰岛欧盟公投及多国动态。",
     "items": [
+      {
+        "id": "11fa4673cbcc0b63a4ec",
+        "title": "Death toll from Nepal-Tibet floods rises to over 600",
+        "summary": "尼泊尔-西藏洪灾死亡人数超600，数百人仍失联，救援困难。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/death-toll-from-nepal-tibet-floods-rises-to-over-600/a-78555290?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-29T00:06:00Z"
+      },
       {
         "id": "7c46d6a1497e548b95b6",
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "summary": "特朗普宣布美委石油协议，美国将控制委内瑞拉650亿桶石油储量。",
+        "summary": "特朗普宣布美委石油协议，美国将控制委内瑞拉650亿桶石油。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-28T18:42:27Z"
       },
       {
-        "id": "94907a55d5994ca715b2",
-        "title": "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89",
-        "summary": "挪威国王哈拉尔五世逝世，享年89岁，欧洲最年长君主离世。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss",
-        "publishedAt": "2026-08-28T20:14:51Z"
-      },
-      {
         "id": "345eb7a70207efa2cb28",
         "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-        "summary": "美联储主席沃什称若通胀不降需进一步行动，市场等待后续政策。",
+        "summary": "美联储主席沃什称若通胀不降将有更多行动，市场关注。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-28T07:15:26Z"
       },
       {
-        "id": "3bfa3c7ae852c0e499dd",
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "summary": "西藏洪水部分画面未在中国公开，外界对受害者情况了解有限。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-28T19:54:11Z"
+        "id": "495414d542456d3d7d01",
+        "title": "Iceland holds knife-edge referendum on EU membership talks",
+        "summary": "冰岛就重启欧盟谈判举行公投，结果难料。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/iceland-holds-knife-edge-referendum-on-eu-membership-talks/a-78554025?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-28T22:35:00Z"
       },
       {
-        "id": "e9c2a3899763db93c41f",
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "summary": "OpenAI就Cursor被SpaceX收购发表决定，引发科技界关注。",
-        "source": "Hacker News",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-        "publishedAt": "2026-08-28T17:47:53Z"
-      },
-      {
-        "id": "c4af8d822344d1483c99",
-        "title": "What we know about the Australians missing in the Nepal floods",
-        "summary": "尼泊尔洪水中至少有41名澳大利亚人失踪，澳方增派救援人员。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/29/what-we-know-about-the-australians-missing-in-the-nepal-floods",
-        "publishedAt": "2026-08-28T19:54:59Z"
+        "id": "9e407060be25be5fbaeb",
+        "title": "Niger: Gunfire and explosions heard in capital",
+        "summary": "尼日尔首都尼亚美发生枪击爆炸，局势紧张。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/niger-gunfire-and-explosions-heard-in-capital/a-78554001?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-28T19:32:00Z"
       },
       {
         "id": "1251a3d70a949ff82294",
         "title": "Ebola spreads to two new zones in DRC; 60 areas now affected",
-        "summary": "刚果（金）埃博拉疫情蔓延至新地区，影响60个区域，形势严峻。",
+        "summary": "刚果（金）埃博拉疫情蔓延，已影响60个区域，形势严峻。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/8/28/ebola-spreads-to-two-new-zones-in-drc-60-areas-now-affected?traffic_source=rss",
         "publishedAt": "2026-08-28T13:49:27Z"
       },
       {
-        "id": "d4bae515b26f4a0e7528",
-        "title": "Households could save up to £173 a year by switching to fixed energy deal",
-        "summary": "Moving tariffs will cushion the blow from the October price cap rise and the inc",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/money/2026/aug/29/households-could-save-up-to-173-a-year-by-switching-to-fixed-energy-deal",
-        "publishedAt": "2026-08-28T22:00:21Z"
+        "id": "94907a55d5994ca715b2",
+        "title": "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89",
+        "summary": "挪威国王哈拉尔五世去世，享年89岁，全国哀悼。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss",
+        "publishedAt": "2026-08-28T20:14:51Z"
+      },
+      {
+        "id": "e02a4096bea023fc1cdf",
+        "title": "US revises statements suggesting Chinese hackers attacked agencies",
+        "summary": "美国修正关于中国黑客攻击的声明，澄清参议院和美联储未遭成功入侵。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
+        "publishedAt": "2026-08-28T16:46:20Z"
       }
     ]
   }
