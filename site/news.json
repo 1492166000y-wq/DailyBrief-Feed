@@ -1,135 +1,127 @@
 {
   "version": 1,
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T14:19:18Z",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-29T16:19:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，重点关注尼泊尔山洪及西藏吉隆口岸灾情救援进展、美联储主席沃什鹰派讲话引发的市场波动、中国住房金融制度改革、以及长鑫存储起诉五角大楼等热点事件。",
+    "overview": "国内要闻聚焦吉隆口岸失联女警确认平安、住房金融制度改革、美联储鹰派言论冲击市场、半导体产业进展及食品安全事件等。",
     "items": [
       {
-        "id": "786f50067c27acc0977a",
-        "title": "尼泊尔山洪遇难人数升至579人，1924人失联",
-        "summary": "尼泊尔山洪遇难人数升至579人，1924人失联，救援持续进行。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33969264",
-        "publishedAt": "2026-08-29T14:19:18Z"
+        "id": "44a5c7abbe445050d024",
+        "title": "吉隆口岸小邬警官确认平安",
+        "summary": "此前失联的吉隆口岸女警确认平安，引发关注。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89%23",
+        "publishedAt": "2026-08-29T16:19:20Z"
       },
       {
-        "id": "619a17f70d4950b215fc",
-        "title": "钢筋石笼首次运抵吉隆抢险现场",
-        "summary": "钢筋石笼首次运抵吉隆抢险现场，用于加固堤防。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7678682396962721286/",
-        "publishedAt": "2026-08-29T14:19:18Z"
+        "id": "e051bc525c215c80bf03",
+        "title": "“三箭齐发”，中国住房金融制度迎来划时代变革",
+        "summary": "中国住房金融制度迎来划时代变革，三箭齐发。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780620",
+        "publishedAt": "2026-08-29T16:19:20Z"
       },
       {
         "id": "4c683ad9ca32d644f03c",
         "title": "沃什杰克逊霍尔首秀放鹰，称美联储“还有工作要做”，暗示通胀不快速下降准备加息",
-        "summary": "美联储主席沃什杰克逊霍尔首秀放鹰，暗示若通胀不降可能加息。",
+        "summary": "美联储主席沃什发表鹰派言论，称通胀不降可能加息。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780593",
-        "publishedAt": "2026-08-29T14:19:18Z"
+        "publishedAt": "2026-08-29T16:19:20Z"
       },
       {
-        "id": "bcba8c88ec785c79bf51",
-        "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
-        "summary": "沃什鹰派言论致美股承压收跌，金价重挫3%，美债收益率攀升。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780532",
-        "publishedAt": "2026-08-29T14:19:18Z"
+        "id": "d6135880fd753572d969",
+        "title": "一文读懂｜商品住房销售制度究竟改了什么，将带来哪些新变化？",
+        "summary": "商品住房销售制度改革，解读新变化及影响。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33969418",
+        "publishedAt": "2026-08-29T16:19:20Z"
       },
       {
         "id": "0533d55f39af4639663b",
         "title": "长鑫官宣：LPDDR6内存量产",
-        "summary": "长鑫存储官宣LPDDR6内存量产，国产存储技术再突破。",
+        "summary": "长鑫存储官宣LPDDR6内存量产，国产内存突破。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468507",
-        "publishedAt": "2026-08-29T14:19:18Z"
+        "publishedAt": "2026-08-29T16:19:20Z"
       },
       {
-        "id": "dab7e65f85914197370a",
-        "title": "长鑫存储起诉五角大楼，将赫格塞思列为被告",
-        "summary": "长鑫存储起诉五角大楼，将赫格塞思列为被告，涉军事指控。",
+        "id": "85391304d33fe53935ea",
+        "title": "独家｜涉张家口康保县“甲醛保鲜”事件，3名嫌疑人被刑事拘留",
+        "summary": "张家口'甲醛保鲜'事件3名嫌疑人被刑拘。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33971875",
+        "publishedAt": "2026-08-29T16:19:20Z"
+      },
+      {
+        "id": "c54ba22c6e6e88094338",
+        "title": "创纪录！5家券商半年净利破百亿，业绩排名深度洗牌",
+        "summary": "5家券商半年净利破百亿，行业排名洗牌。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468546",
-        "publishedAt": "2026-08-29T14:19:18Z"
+        "url": "https://www.cls.cn/detail/2468449",
+        "publishedAt": "2026-08-29T16:19:20Z"
       },
       {
-        "id": "d2edc929e79bd609ba0b",
-        "title": "房地产融资迎来五项新规：个人住房贷款最长可达40年，预售房贷竣工备案后发放",
-        "summary": "房地产融资新规：个人房贷最长40年，预售房贷款竣工后发放。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33968936",
-        "publishedAt": "2026-08-29T14:19:18Z"
-      },
-      {
-        "id": "a7a082ccbaa364e40ac9",
-        "title": "教师被安排在“耻辱”背景板前合影，四川雷波县致歉：将依法依规严肃处理",
-        "summary": "四川雷波县教师被安排“耻辱”背景板前合影，官方致歉并将处理。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33968943",
-        "publishedAt": "2026-08-29T14:19:18Z"
+        "id": "50597c804b81b95358e3",
+        "title": "我国首次实现地月双向高速激光通信",
+        "summary": "我国首次实现地月双向高速激光通信，航天突破。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468508",
+        "publishedAt": "2026-08-29T16:19:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，尼泊尔-西藏边境洪灾伤亡持续上升成为全球焦点，俄罗斯袭击基辅仓库致数十人死亡，美国与委内瑞拉达成石油协议，以及冰岛公投决定是否重启入欧谈判等事件备受关注。",
+    "overview": "国际关注尼泊尔西藏洪水救援、俄罗斯袭击基辅、委内瑞拉石油协议、美联储主席讲话及欧洲政治动态。",
     "items": [
       {
-        "id": "ed1b66f36f24d2c74d66",
-        "title": "Chinese rescuers find ‘nothing but ruins’ at border crossing as Nepal seeks help to ID and store the dead",
-        "summary": "尼泊尔洪灾死亡人数升至675人，中国救援队发现边境口岸已成废墟。",
+        "id": "c1a351d3dd4514804d12",
+        "title": "Number of missing in Nepal and Tibet rises to nearly 3,000 as operations continue",
+        "summary": "尼泊尔西藏洪水失踪人数升至近3000，救援持续。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-        "publishedAt": "2026-08-29T06:13:12Z"
+        "publishedAt": "2026-08-29T07:00:37Z"
       },
       {
-        "id": "88cd356851a14283d08e",
-        "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
-        "summary": "俄无人机袭击基辅附近武器仓库，至少37人死亡，引发调查。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
-        "publishedAt": "2026-08-29T05:34:02Z"
+        "id": "7b2662e91b809d3e20a4",
+        "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+        "summary": "俄袭击基辅附近武器库致37死，今年最致命之一。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+        "publishedAt": "2026-08-29T07:54:40Z"
       },
       {
         "id": "7c46d6a1497e548b95b6",
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "summary": "特朗普宣布与委内瑞拉达成“历史性”协议，美国控制650亿桶石油。",
+        "summary": "特朗普宣布与委内瑞拉达成石油协议，控制650亿桶。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-29T06:18:11Z"
-      },
-      {
-        "id": "6ed92033ea045083527f",
-        "title": "Iceland votes on whether to restart talks on joining EU",
-        "summary": "冰岛就重启入欧谈判举行公投，结果悬而未决。",
-        "source": "Hacker News",
-        "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-        "publishedAt": "2026-08-29T03:39:38Z"
+        "publishedAt": "2026-08-29T08:15:56Z"
       },
       {
         "id": "345eb7a70207efa2cb28",
         "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-        "summary": "美联储主席沃什称若通胀不降将有更多行动，暗示可能加息。",
+        "summary": "美联储主席沃什称若通胀不降将有更多行动，暗示加息。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-28T07:15:26Z"
       },
       {
-        "id": "b80964c00b10f3cd8bf9",
-        "title": "Ireland will be united, says Gordon Brown",
-        "summary": "英国前首相布朗称爱尔兰统一不可避免，但反对苏格兰独立。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
-        "publishedAt": "2026-08-28T21:00:18Z"
-      },
-      {
         "id": "c4aee720ea4739b5fed8",
         "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-        "summary": "欧盟天然气库存降至13年最低，引发“冬季恐慌”担忧。",
+        "summary": "欧盟天然气库存降至13年最低，引发冬季恐慌。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
         "publishedAt": "2026-08-28T21:00:19Z"
+      },
+      {
+        "id": "048b1dddca0c340269ca",
+        "title": "Saxony-Anhalt election: Why the AfD is so strong",
+        "summary": "德国萨安州选举前民调显示极右翼AfD支持率超40%。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-29T08:17:00Z"
       },
       {
         "id": "e02a4096bea023fc1cdf",
@@ -138,6 +130,14 @@
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
         "publishedAt": "2026-08-28T16:46:20Z"
+      },
+      {
+        "id": "8b07f540eb2e5bfc7f5b",
+        "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+        "summary": "以军袭击加沙致2死，击中医院物资仓库。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+        "publishedAt": "2026-08-29T07:25:43Z"
       }
     ]
   }
