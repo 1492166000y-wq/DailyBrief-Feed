@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T00:19:17Z",
+  "generatedAt": "2026-08-29T02:19:26Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "西藏泥石流救援、政治局会议、美联储鹰派言论、房贷新政、伊朗局势等",
+    "overview": "西藏吉隆泥石流致7死554人失联，中共中央政治局召开会议部署救援；美联储主席沃什发表鹰派言论，暗示可能加息；三部门延长个人住房贷款期限至40年并推行现房销售。",
     "items": [
-      {
-        "id": "3fbdc9b82840332bbf13",
-        "title": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，中共中央总书记习近平主持会议",
-        "summary": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，习近平总书记主持会议。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33966449",
-        "publishedAt": "2026-08-29T00:19:17Z"
-      },
       {
         "id": "900983b31f83009e4bfd",
         "title": "西藏吉隆泥石流已致7死554人失联",
-        "summary": "西藏吉隆泥石流已致7人死亡，554人失联，救援工作持续进行。",
+        "summary": "西藏吉隆县泥石流已致7人遇难，554人失联，救援工作紧张进行。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7678627673343377414/",
-        "publishedAt": "2026-08-29T00:19:17Z"
+        "publishedAt": "2026-08-29T02:19:26Z"
+      },
+      {
+        "id": "3fbdc9b82840332bbf13",
+        "title": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，中共中央总书记习近平主持会议",
+        "summary": "中共中央政治局召开会议，部署西藏吉隆县泥石流灾害抢险救援工作。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33966449",
+        "publishedAt": "2026-08-29T02:19:26Z"
       },
       {
         "id": "4c683ad9ca32d644f03c",
         "title": "沃什杰克逊霍尔首秀放鹰，称美联储“还有工作要做”，暗示通胀不快速下降准备加息",
-        "summary": "美联储主席沃什在杰克逊霍尔发表鹰派讲话，暗示若通胀不快速下降可能加息。",
+        "summary": "美联储主席沃什在杰克逊霍尔讲话称美联储还有工作要做，暗示可能加息。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780593",
-        "publishedAt": "2026-08-29T00:19:17Z"
-      },
-      {
-        "id": "20456f066bb3e00778ef",
-        "title": "两部门：个人住房贷款期限由最长30年延长至最长40年，存量房贷还款困难可协商调整",
-        "summary": "两部门发布新政，个人住房贷款期限由30年延长至40年，存量房贷还款困难可协商调整。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780570",
-        "publishedAt": "2026-08-29T00:19:17Z"
+        "publishedAt": "2026-08-29T02:19:26Z"
       },
       {
         "id": "4c5b0baf00f1c213882c",
         "title": "三部门：完善商品住房预售管理，有力有序推行商品住房现房销售",
-        "summary": "三部门完善商品住房预售管理，有力有序推行现房销售。",
+        "summary": "三部门完善商品房预售管理，推行商品住房现房销售，促进市场平稳。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33967726",
-        "publishedAt": "2026-08-29T00:19:17Z"
+        "publishedAt": "2026-08-29T02:19:26Z"
       },
       {
-        "id": "5d18b6d02599537c0637",
-        "title": "伊朗外交部发表声明",
-        "summary": "伊朗外交部发表声明，回应美国制裁及地区局势。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8vxhTsH4n78",
-        "publishedAt": "2026-08-29T00:19:17Z"
+        "id": "20456f066bb3e00778ef",
+        "title": "两部门：个人住房贷款期限由最长30年延长至最长40年，存量房贷还款困难可协商调整",
+        "summary": "两部门延长个人住房贷款期限至40年，允许协商调整存量房贷还款。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780570",
+        "publishedAt": "2026-08-29T02:19:26Z"
       },
       {
         "id": "86ad53b2c670fb207dbf",
         "title": "受贿7.46亿余元，蒋超良一审被判死缓",
-        "summary": "蒋超良因受贿7.46亿余元，一审被判死缓。",
+        "summary": "蒋超良因受贿7.46亿余元，一审被判处死刑缓期二年执行。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33967455",
-        "publishedAt": "2026-08-29T00:19:17Z"
+        "publishedAt": "2026-08-29T02:19:26Z"
       },
       {
-        "id": "0c7c0a734bf66994d0a5",
-        "title": "全国社会物流总额同比增长5.0%",
-        "summary": "全国社会物流总额同比增长5.0%，显示经济持续恢复。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679052426330295818/",
-        "publishedAt": "2026-08-29T00:19:17Z"
+        "id": "ec213fc8a00a2e1b998c",
+        "title": "美国非农就业初步下修7.9万人，就业市场降温仍在延续",
+        "summary": "美国非农就业初步下修7.9万人，就业市场降温趋势延续。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780594",
+        "publishedAt": "2026-08-29T02:19:26Z"
+      },
+      {
+        "id": "95d719a27c59f1f39184",
+        "title": "泽连斯基设定目标：每天1000架无人机打击俄罗斯",
+        "summary": "乌克兰总统泽连斯基设定每天1000架无人机打击俄罗斯的目标。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8vyjDirYEzp",
+        "publishedAt": "2026-08-29T02:19:26Z"
       }
     ]
   },
   "global": {
-    "overview": "尼泊尔山洪、美伊冲突、特朗普政策、美联储讲话、国际财经动态等",
+    "overview": "特朗普宣布与委内瑞拉达成石油协议，控制650亿桶石油储备；尼泊尔-西藏山洪失踪人数升至2478人；美联储主席沃什发表讲话，称通胀不下降将采取更多行动。",
     "items": [
       {
-        "id": "84535f9c22858e096f33",
-        "title": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
-        "summary": "尼泊尔山洪死亡人数升至584人，1924人失联，救援工作持续。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
-        "publishedAt": "2026-08-28T13:53:43Z"
+        "id": "87566aeeff8c17cd5a49",
+        "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+        "summary": "特朗普宣布与委内瑞拉达成协议，美国将控制该国650亿桶石油储备。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+        "publishedAt": "2026-08-28T18:07:55Z"
       },
       {
-        "id": "90f37cb5b4868db5ba85",
-        "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
-        "summary": "伊朗伊斯兰革命卫队宣称控制霍尔木兹海峡，美国实施海上封锁。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
-        "publishedAt": "2026-08-28T16:00:00Z"
+        "id": "e1c0704b475b11525169",
+        "title": "Nepal-Tibet flash flood: number of missing rises to 2,478; bodies recovered down rivers in India – latest updates",
+        "summary": "尼泊尔-西藏山洪失踪人数升至2478人，尼泊尔允许外国团队参与救援。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+        "publishedAt": "2026-08-28T18:02:14Z"
       },
       {
         "id": "345eb7a70207efa2cb28",
         "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-        "summary": "美联储主席沃什称若通胀不降，需采取更多行动，市场承压。",
+        "summary": "美联储主席沃什称若通胀不降需采取更多行动，市场承压。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-28T07:15:26Z"
       },
       {
-        "id": "93ddb9c3863f77d30512",
-        "title": "US and Venezuela reach 'historic' oil deal, Trump says",
-        "summary": "特朗普宣布美国与委内瑞拉达成石油协议，美方将控制65亿桶石油储备。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-28T15:54:19Z"
+        "id": "352c5673ace6676b9c40",
+        "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
+        "summary": "尼日尔首都尼亚美多个地区传出枪声和爆炸声，局势紧张。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
+        "publishedAt": "2026-08-28T17:30:08Z"
       },
       {
-        "id": "3bfa3c7ae852c0e499dd",
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "summary": "西藏洪水部分画面在中国未公开，外界对遇难者信息了解有限。",
+        "id": "bd732938a42aac439f3d",
+        "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+        "summary": "美国-伊朗战争影响外溢，索马里海盗袭击事件激增，已至少13起。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-28T14:05:41Z"
+        "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-28T17:14:13Z"
       },
       {
         "id": "1251a3d70a949ff82294",
         "title": "Ebola spreads to two new zones in DRC; 60 areas now affected",
-        "summary": "埃博拉疫情在刚果（金）蔓延，已波及60个地区，超5700例确诊。",
+        "summary": "刚果（金）埃博拉疫情蔓延至两个新地区，累计确诊逾5794例。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/8/28/ebola-spreads-to-two-new-zones-in-drc-60-areas-now-affected?traffic_source=rss",
         "publishedAt": "2026-08-28T13:49:27Z"
       },
       {
-        "id": "4ed919cc26d8cefcc02b",
-        "title": "Norway’s King Harald dies aged 89",
-        "summary": "挪威国王哈拉尔五世去世，享年89岁，其子继位为哈康八世。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
-        "publishedAt": "2026-08-28T07:52:57Z"
+        "id": "47bf13f3188c134603a7",
+        "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+        "summary": "美国法官驳回特朗普将封口费案移交联邦法院的请求。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss",
+        "publishedAt": "2026-08-28T16:19:00Z"
       },
       {
-        "id": "cf15a97b3247b31ca60f",
-        "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-        "summary": "美国计划削减对伊拉克库尔德地区的军事援助，引发地区安全担忧。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-28T11:45:39Z"
+        "id": "80ef823e06adec3525d0",
+        "title": "Walmart settles US government’s opioid lawsuit",
+        "summary": "沃尔玛就美国政府的阿片类药物诉讼达成和解，条款未披露。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/8/28/walmart-settles-us-governments-opioid-lawsuit?traffic_source=rss",
+        "publishedAt": "2026-08-28T14:59:41Z"
       }
     ]
   }
