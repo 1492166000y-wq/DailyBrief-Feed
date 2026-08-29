@@ -1,100 +1,100 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-29T16:19:20Z",
+  "generatedAt": "2026-08-29T18:19:42Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦吉隆口岸失联女警确认平安、住房金融制度改革、美联储鹰派言论冲击市场、半导体产业进展及食品安全事件等。",
+    "overview": "国内新闻聚焦住房金融改革、吉隆口岸失联事件确认平安、美联储鹰派言论及市场反应、长鑫存储起诉美国国防部等热点。",
     "items": [
-      {
-        "id": "44a5c7abbe445050d024",
-        "title": "吉隆口岸小邬警官确认平安",
-        "summary": "此前失联的吉隆口岸女警确认平安，引发关注。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89%23",
-        "publishedAt": "2026-08-29T16:19:20Z"
-      },
       {
         "id": "e051bc525c215c80bf03",
         "title": "“三箭齐发”，中国住房金融制度迎来划时代变革",
-        "summary": "中国住房金融制度迎来划时代变革，三箭齐发。",
+        "summary": "中国住房金融制度迎来划时代变革，三箭齐发，影响深远。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780620",
-        "publishedAt": "2026-08-29T16:19:20Z"
-      },
-      {
-        "id": "4c683ad9ca32d644f03c",
-        "title": "沃什杰克逊霍尔首秀放鹰，称美联储“还有工作要做”，暗示通胀不快速下降准备加息",
-        "summary": "美联储主席沃什发表鹰派言论，称通胀不降可能加息。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780593",
-        "publishedAt": "2026-08-29T16:19:20Z"
+        "publishedAt": "2026-08-29T18:19:42Z"
       },
       {
         "id": "d6135880fd753572d969",
         "title": "一文读懂｜商品住房销售制度究竟改了什么，将带来哪些新变化？",
-        "summary": "商品住房销售制度改革，解读新变化及影响。",
+        "summary": "商品住房销售制度改革解读，分析新变化及影响。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33969418",
-        "publishedAt": "2026-08-29T16:19:20Z"
+        "publishedAt": "2026-08-29T18:19:42Z"
       },
       {
-        "id": "0533d55f39af4639663b",
-        "title": "长鑫官宣：LPDDR6内存量产",
-        "summary": "长鑫存储官宣LPDDR6内存量产，国产内存突破。",
+        "id": "44a5c7abbe445050d024",
+        "title": "吉隆口岸小邬警官确认平安",
+        "summary": "吉隆口岸失联女警确认平安，引发社会关注。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89%23",
+        "publishedAt": "2026-08-29T18:19:42Z"
+      },
+      {
+        "id": "be2713c1ae1d553e6a95",
+        "title": "上外毕业后赴吉隆口岸工作的“小邬”警官，确认平安",
+        "summary": "上外毕业赴吉隆口岸工作的“小邬”警官确认平安。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33973454",
+        "publishedAt": "2026-08-29T18:19:42Z"
+      },
+      {
+        "id": "bcba8c88ec785c79bf51",
+        "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
+        "summary": "美联储主席沃什鹰派讲话，美股收跌，黄金重挫3%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780532",
+        "publishedAt": "2026-08-29T18:19:42Z"
+      },
+      {
+        "id": "dab7e65f85914197370a",
+        "title": "长鑫存储起诉五角大楼，将赫格塞思列为被告",
+        "summary": "长鑫存储起诉美国国防部，将赫格塞思列为被告。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468507",
-        "publishedAt": "2026-08-29T16:19:20Z"
+        "url": "https://www.cls.cn/detail/2468546",
+        "publishedAt": "2026-08-29T18:19:42Z"
       },
       {
         "id": "85391304d33fe53935ea",
         "title": "独家｜涉张家口康保县“甲醛保鲜”事件，3名嫌疑人被刑事拘留",
-        "summary": "张家口'甲醛保鲜'事件3名嫌疑人被刑拘。",
+        "summary": "张家口康保县“甲醛保鲜”事件，3名嫌疑人被刑拘。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33971875",
-        "publishedAt": "2026-08-29T16:19:20Z"
-      },
-      {
-        "id": "c54ba22c6e6e88094338",
-        "title": "创纪录！5家券商半年净利破百亿，业绩排名深度洗牌",
-        "summary": "5家券商半年净利破百亿，行业排名洗牌。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468449",
-        "publishedAt": "2026-08-29T16:19:20Z"
+        "publishedAt": "2026-08-29T18:19:42Z"
       },
       {
         "id": "50597c804b81b95358e3",
         "title": "我国首次实现地月双向高速激光通信",
-        "summary": "我国首次实现地月双向高速激光通信，航天突破。",
+        "summary": "我国首次实现地月双向高速激光通信，技术突破。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468508",
-        "publishedAt": "2026-08-29T16:19:20Z"
+        "publishedAt": "2026-08-29T18:19:42Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注尼泊尔西藏洪水救援、俄罗斯袭击基辅、委内瑞拉石油协议、美联储主席讲话及欧洲政治动态。",
+    "overview": "国际新闻涵盖尼泊尔西藏洪灾救援、俄罗斯袭击基辅弹药库、委内瑞拉石油协议、美联储主席沃什鹰派讲话等重大事件。",
     "items": [
       {
-        "id": "c1a351d3dd4514804d12",
-        "title": "Number of missing in Nepal and Tibet rises to nearly 3,000 as operations continue",
-        "summary": "尼泊尔西藏洪水失踪人数升至近3000，救援持续。",
+        "id": "222b3f83935609c90950",
+        "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – latest updates",
+        "summary": "尼泊尔西藏洪灾致近3000人失踪，尼泊尔请求国际技术援助。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-        "publishedAt": "2026-08-29T07:00:37Z"
+        "url": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
+        "publishedAt": "2026-08-29T10:14:57Z"
       },
       {
-        "id": "7b2662e91b809d3e20a4",
-        "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-        "summary": "俄袭击基辅附近武器库致37死，今年最致命之一。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-        "publishedAt": "2026-08-29T07:54:40Z"
+        "id": "e227726ba8b73526acc1",
+        "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+        "summary": "俄罗斯袭击基辅附近弹药库引发爆炸，致38人死亡。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
+        "publishedAt": "2026-08-29T08:53:55Z"
       },
       {
         "id": "7c46d6a1497e548b95b6",
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "summary": "特朗普宣布与委内瑞拉达成石油协议，控制650亿桶。",
+        "summary": "特朗普宣布美国控制委内瑞拉650亿桶石油的“历史性”协议。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-29T08:15:56Z"
@@ -102,7 +102,7 @@
       {
         "id": "345eb7a70207efa2cb28",
         "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-        "summary": "美联储主席沃什称若通胀不降将有更多行动，暗示加息。",
+        "summary": "美联储主席沃什称若通胀不降将采取更多行动，暗示加息。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-28T07:15:26Z"
@@ -110,18 +110,10 @@
       {
         "id": "c4aee720ea4739b5fed8",
         "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-        "summary": "欧盟天然气库存降至13年最低，引发冬季恐慌。",
+        "summary": "欧盟天然气库存降至13年最低，引发冬季供应恐慌。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
         "publishedAt": "2026-08-28T21:00:19Z"
-      },
-      {
-        "id": "048b1dddca0c340269ca",
-        "title": "Saxony-Anhalt election: Why the AfD is so strong",
-        "summary": "德国萨安州选举前民调显示极右翼AfD支持率超40%。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-08-29T08:17:00Z"
       },
       {
         "id": "e02a4096bea023fc1cdf",
@@ -132,12 +124,20 @@
         "publishedAt": "2026-08-28T16:46:20Z"
       },
       {
-        "id": "8b07f540eb2e5bfc7f5b",
-        "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-        "summary": "以军袭击加沙致2死，击中医院物资仓库。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-        "publishedAt": "2026-08-29T07:25:43Z"
+        "id": "875317470c05873e4713",
+        "title": "FBI no longer treating applicants’ experience with sex workers as automatic bar against hiring",
+        "summary": "FBI放宽录用标准，有嫖娼前科者不再自动被拒。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/aug/29/fbi-apllicants-sex-workers",
+        "publishedAt": "2026-08-29T06:17:26Z"
+      },
+      {
+        "id": "c6164ac8feb87bd1fef2",
+        "title": "Ex-White House teleprompter operator fined $172,000 for Trump speech bets",
+        "summary": "前白宫提词器操作员因特朗普演讲下注被罚17.2万美元。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi",
+        "publishedAt": "2026-08-29T05:33:29Z"
       }
     ]
   }
