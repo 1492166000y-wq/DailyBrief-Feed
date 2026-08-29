@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-08-29",
-  "generatedAt": "2026-08-28T22:19:41Z",
+  "generatedAt": "2026-08-29T00:19:17Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重点新闻涵盖尼泊尔山洪、中央政治局会议、房贷新政、美联储鹰派言论、房地产现房销售、西藏泥石流救援、蒋超良案判决等。",
+    "overview": "西藏泥石流救援、政治局会议、美联储鹰派言论、房贷新政、伊朗局势等",
     "items": [
-      {
-        "id": "3b50a6d34b00a3987cc2",
-        "title": "尼泊尔山洪已致579死1924失联",
-        "summary": "尼泊尔山洪已致579死1924失联，救援持续。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679080760577396233/",
-        "publishedAt": "2026-08-28T22:19:41Z"
-      },
       {
         "id": "3fbdc9b82840332bbf13",
         "title": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，中共中央总书记习近平主持会议",
-        "summary": "中央政治局会议研究西藏吉隆县泥石流抢险救援。",
+        "summary": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，习近平总书记主持会议。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33966449",
-        "publishedAt": "2026-08-28T22:19:41Z"
+        "publishedAt": "2026-08-29T00:19:17Z"
       },
       {
-        "id": "20456f066bb3e00778ef",
-        "title": "两部门：个人住房贷款期限由最长30年延长至最长40年，存量房贷还款困难可协商调整",
-        "summary": "两部门：个人住房贷款期限延至40年，存量房贷可协商调整。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780570",
-        "publishedAt": "2026-08-28T22:19:41Z"
+        "id": "900983b31f83009e4bfd",
+        "title": "西藏吉隆泥石流已致7死554人失联",
+        "summary": "西藏吉隆泥石流已致7人死亡，554人失联，救援工作持续进行。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7678627673343377414/",
+        "publishedAt": "2026-08-29T00:19:17Z"
       },
       {
         "id": "4c683ad9ca32d644f03c",
         "title": "沃什杰克逊霍尔首秀放鹰，称美联储“还有工作要做”，暗示通胀不快速下降准备加息",
-        "summary": "沃什杰克逊霍尔放鹰，暗示通胀不降可能加息。",
+        "summary": "美联储主席沃什在杰克逊霍尔发表鹰派讲话，暗示若通胀不快速下降可能加息。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780593",
-        "publishedAt": "2026-08-28T22:19:41Z"
+        "publishedAt": "2026-08-29T00:19:17Z"
+      },
+      {
+        "id": "20456f066bb3e00778ef",
+        "title": "两部门：个人住房贷款期限由最长30年延长至最长40年，存量房贷还款困难可协商调整",
+        "summary": "两部门发布新政，个人住房贷款期限由30年延长至40年，存量房贷还款困难可协商调整。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780570",
+        "publishedAt": "2026-08-29T00:19:17Z"
       },
       {
         "id": "4c5b0baf00f1c213882c",
         "title": "三部门：完善商品住房预售管理，有力有序推行商品住房现房销售",
-        "summary": "三部门推行商品住房现房销售，完善预售管理。",
+        "summary": "三部门完善商品住房预售管理，有力有序推行现房销售。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33967726",
-        "publishedAt": "2026-08-28T22:19:41Z"
+        "publishedAt": "2026-08-29T00:19:17Z"
+      },
+      {
+        "id": "5d18b6d02599537c0637",
+        "title": "伊朗外交部发表声明",
+        "summary": "伊朗外交部发表声明，回应美国制裁及地区局势。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8vxhTsH4n78",
+        "publishedAt": "2026-08-29T00:19:17Z"
       },
       {
         "id": "86ad53b2c670fb207dbf",
         "title": "受贿7.46亿余元，蒋超良一审被判死缓",
-        "summary": "受贿7.46亿，蒋超良一审被判死缓。",
+        "summary": "蒋超良因受贿7.46亿余元，一审被判死缓。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33967455",
-        "publishedAt": "2026-08-28T22:19:41Z"
+        "publishedAt": "2026-08-29T00:19:17Z"
       },
       {
         "id": "0c7c0a734bf66994d0a5",
         "title": "全国社会物流总额同比增长5.0%",
-        "summary": "全国社会物流总额同比增长5.0%。",
+        "summary": "全国社会物流总额同比增长5.0%，显示经济持续恢复。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7679052426330295818/",
-        "publishedAt": "2026-08-28T22:19:41Z"
-      },
-      {
-        "id": "e949d323ede761e32c87",
-        "title": "科创50指数调整样本股，多只半导体芯片股被调入",
-        "summary": "科创50指数调整样本股，调入多只半导体芯片股。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468170",
-        "publishedAt": "2026-08-28T22:19:41Z"
+        "publishedAt": "2026-08-29T00:19:17Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括尼泊尔山洪、美联储主席沃什鹰派讲话、挪威国王去世、美加贸易战、刚果埃博拉疫情等。",
+    "overview": "尼泊尔山洪、美伊冲突、特朗普政策、美联储讲话、国际财经动态等",
     "items": [
       {
         "id": "84535f9c22858e096f33",
         "title": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
-        "summary": "尼泊尔山洪致1924人失踪，国际救援持续。",
+        "summary": "尼泊尔山洪死亡人数升至584人，1924人失联，救援工作持续。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
         "publishedAt": "2026-08-28T13:53:43Z"
       },
       {
+        "id": "90f37cb5b4868db5ba85",
+        "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+        "summary": "伊朗伊斯兰革命卫队宣称控制霍尔木兹海峡，美国实施海上封锁。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+        "publishedAt": "2026-08-28T16:00:00Z"
+      },
+      {
         "id": "345eb7a70207efa2cb28",
         "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-        "summary": "美联储主席沃什称若通胀不降，需要采取更多行动。",
+        "summary": "美联储主席沃什称若通胀不降，需采取更多行动，市场承压。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-28T07:15:26Z"
       },
       {
-        "id": "4ed919cc26d8cefcc02b",
-        "title": "Norway’s King Harald dies aged 89",
-        "summary": "挪威国王哈拉尔五世去世，享年89岁。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
-        "publishedAt": "2026-08-28T07:52:57Z"
+        "id": "93ddb9c3863f77d30512",
+        "title": "US and Venezuela reach 'historic' oil deal, Trump says",
+        "summary": "特朗普宣布美国与委内瑞拉达成石油协议，美方将控制65亿桶石油储备。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-28T15:54:19Z"
       },
       {
-        "id": "2b49dbb92c0389405355",
-        "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
-        "summary": "美加贸易战引发经济衰退担忧。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/8/28/with-the-us-and-canada-locked-in-a-trade-war-fears-of-a-recession-lurk?traffic_source=rss",
-        "publishedAt": "2026-08-28T13:39:40Z"
+        "id": "3bfa3c7ae852c0e499dd",
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "summary": "西藏洪水部分画面在中国未公开，外界对遇难者信息了解有限。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-28T14:05:41Z"
       },
       {
         "id": "1251a3d70a949ff82294",
         "title": "Ebola spreads to two new zones in DRC; 60 areas now affected",
-        "summary": "埃博拉疫情扩散至刚果（金）两省，感染近5800例。",
+        "summary": "埃博拉疫情在刚果（金）蔓延，已波及60个地区，超5700例确诊。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/8/28/ebola-spreads-to-two-new-zones-in-drc-60-areas-now-affected?traffic_source=rss",
         "publishedAt": "2026-08-28T13:49:27Z"
       },
       {
+        "id": "4ed919cc26d8cefcc02b",
+        "title": "Norway’s King Harald dies aged 89",
+        "summary": "挪威国王哈拉尔五世去世，享年89岁，其子继位为哈康八世。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
+        "publishedAt": "2026-08-28T07:52:57Z"
+      },
+      {
         "id": "cf15a97b3247b31ca60f",
         "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-        "summary": "美国计划削减对伊拉克库尔德武装的军事援助。",
+        "summary": "美国计划削减对伊拉克库尔德地区的军事援助，引发地区安全担忧。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-28T11:45:39Z"
-      },
-      {
-        "id": "e324288846fd61522326",
-        "title": "National Park Service supports Trump’s arch even though it would have ‘adverse effects’ on other DC monuments, report says – live",
-        "summary": "国家公园管理局支持特朗普拱门，但称影响古迹景观。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
-        "publishedAt": "2026-08-28T13:22:22Z"
-      },
-      {
-        "id": "a4c2cf94a00c603e8a8c",
-        "title": "After 6 months of war, Iran's battered regime remains entrenched",
-        "summary": "伊朗政权在六个月内未崩溃，反而更加强硬。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-        "publishedAt": "2026-08-28T11:35:24Z"
       }
     ]
   }
