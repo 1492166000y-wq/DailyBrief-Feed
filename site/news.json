@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-08-31",
-  "generatedAt": "2026-08-30T18:19:19Z",
+  "generatedAt": "2026-08-30T20:19:17Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内主要关注西藏吉隆泥石流灾害救援、厦门餐饮企业违规使用敌敌畏被刑拘、国产AI芯片龙头即将打新、科研不端通报、长鑫存储起诉五角大楼及芯片进展等事件。",
+    "overview": "国内方面，西藏吉隆泥石流救援持续，厦门通报敌敌畏消杀事件，科研不端行为被通报，长鑫存储起诉五角大楼，国产AI芯片龙头新股申购等引发关注。",
     "items": [
-      {
-        "id": "9ba518c4a3249258ba84",
-        "title": "厦门通报“一公司使用敌敌畏为餐饮门店消杀问题”：6人被刑拘",
-        "summary": "厦门通报餐饮门店使用敌敌畏消杀，6人被刑拘，食品安全引发关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33975502",
-        "publishedAt": "2026-08-30T18:19:19Z"
-      },
-      {
-        "id": "e972e78e6c08d952452c",
-        "title": "下周重磅打新：国产AI芯片龙头，来了",
-        "summary": "国产AI芯片龙头下周打新，市场关注芯片产业投资机会。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468702",
-        "publishedAt": "2026-08-30T18:19:19Z"
-      },
       {
         "id": "8289c5ba979540aa62f8",
         "title": "西藏吉隆泥石流搜救尚未再发现幸存者",
-        "summary": "西藏吉隆泥石流搜救持续，已确认多人遇难，救援难度大。",
+        "summary": "西藏吉隆泥石流搜救未发现新幸存者，救援持续进行。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33974652",
-        "publishedAt": "2026-08-30T18:19:19Z"
+        "publishedAt": "2026-08-30T20:19:17Z"
+      },
+      {
+        "id": "9ba518c4a3249258ba84",
+        "title": "厦门通报“一公司使用敌敌畏为餐饮门店消杀问题”：6人被刑拘",
+        "summary": "厦门通报敌敌畏消杀事件，6人被刑拘，涉事公司被查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33975502",
+        "publishedAt": "2026-08-30T20:19:17Z"
       },
       {
         "id": "630d592441e36f4a92d4",
         "title": "国家自然科学基金委员会通报31起科研不端行为，多笔已拨资金被追回",
-        "summary": "国家自然科学基金委通报31起科研不端，追回已拨资金，维护学术诚信。",
+        "summary": "国家自然科学基金委通报31起科研不端行为，追回多笔资金。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33974903",
-        "publishedAt": "2026-08-30T18:19:19Z"
+        "publishedAt": "2026-08-30T20:19:17Z"
       },
       {
         "id": "dab7e65f85914197370a",
         "title": "长鑫存储起诉五角大楼，将赫格塞思列为被告",
-        "summary": "长鑫存储起诉五角大楼，指控其列入黑名单，涉及芯片技术出口限制。",
+        "summary": "长鑫存储起诉美国五角大楼，将赫格塞思列为被告。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468546",
-        "publishedAt": "2026-08-30T18:19:19Z"
+        "publishedAt": "2026-08-30T20:19:17Z"
       },
       {
-        "id": "0f2d14da6f9fac08d519",
-        "title": "周末要闻汇总：个人住房贷款期限由最长30年延长至最长40年，长鑫LPDDR6内存芯片正式量产",
-        "summary": "个人住房贷款期限延长至40年，长鑫LPDDR6量产，周末财经要闻汇总。",
+        "id": "e972e78e6c08d952452c",
+        "title": "下周重磅打新：国产AI芯片龙头，来了",
+        "summary": "下周国产AI芯片龙头新股申购，引发市场关注。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468733",
-        "publishedAt": "2026-08-30T18:19:19Z"
+        "url": "https://www.cls.cn/detail/2468702",
+        "publishedAt": "2026-08-30T20:19:17Z"
+      },
+      {
+        "id": "72e9b8426897e0b419c7",
+        "title": "网友反馈上海电信发生大面积断网故障",
+        "summary": "上海电信发生大面积断网，网友反馈故障。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7679819531010706985/",
+        "publishedAt": "2026-08-30T20:19:17Z"
       },
       {
         "id": "e7b08565673bbca44089",
         "title": "官方回应“取消ETC”读懂车主真诉求",
-        "summary": "官方回应取消ETC传闻，称关注车主诉求，优化收费服务。",
+        "summary": "官方回应取消ETC传闻，称将听取车主诉求。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7679090762579001386/",
-        "publishedAt": "2026-08-30T18:19:19Z"
+        "publishedAt": "2026-08-30T20:19:17Z"
       },
       {
-        "id": "72ecae16e6b412cd9dd0",
-        "title": "中国芯片出口为何突然爆发",
-        "summary": "中国芯片出口突然爆发，分析原因包括技术突破和全球需求增加。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679683143003033115/",
-        "publishedAt": "2026-08-30T18:19:19Z"
+        "id": "0f2d14da6f9fac08d519",
+        "title": "周末要闻汇总：个人住房贷款期限由最长30年延长至最长40年，长鑫LPDDR6内存芯片正式量产",
+        "summary": "个人住房贷款期限延至40年，长鑫LPDDR6内存量产。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468733",
+        "publishedAt": "2026-08-30T20:19:17Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重点包括尼泊尔洪水灾害与救援、北塞浦路斯渡轮倾覆、特朗普与加拿大湖泊改名争端、美委石油协议、NASA发射罗曼望远镜等。",
+    "overview": "国际方面，尼泊尔-西藏洪灾死亡人数上升，北塞浦路斯渡轮倾覆致数十人死伤，美国与委内瑞拉石油协议引发争议，NASA发射新太空望远镜，冰岛公投拒绝重启入盟谈判等成为焦点。",
     "items": [
       {
         "id": "1c6446956aaba23b2562",
         "title": "Nepal-Tibet deaths from flash flooding rise amid race to free workers in tunnel",
-        "summary": "尼泊尔洪水死亡升至797人，救援持续，仍有3000多人失踪。",
+        "summary": "尼泊尔-西藏洪灾死亡人数升至804人，超3000人失踪。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors",
-        "publishedAt": "2026-08-30T07:43:57Z"
+        "publishedAt": "2026-08-30T10:34:21Z"
       },
       {
-        "id": "3e3e7514d86f4f94e3c5",
-        "title": "At least eight dead and 17 missing after ferry capsizes off northern Cyprus",
-        "summary": "北塞浦路斯渡轮倾覆致8死17失踪，237人获救，船长船员被捕。",
+        "id": "eb95d0e98369e6b24cff",
+        "title": "Captain and crew arrested after at least eight die in northern Cyprus ferry disaster – as it happened",
+        "summary": "北塞浦路斯渡轮倾覆致8死18失踪，船长船员被捕。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
-        "publishedAt": "2026-08-30T07:12:03Z"
+        "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
+        "publishedAt": "2026-08-30T11:18:02Z"
       },
       {
-        "id": "d712038e04058c000861",
-        "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
-        "summary": "加拿大竖立安大略湖标志回应特朗普更名‘美国湖’，争端升级。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-        "publishedAt": "2026-08-30T06:36:44Z"
+        "id": "81ee7dc112e6d4934cd8",
+        "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
+        "summary": "特朗普称将用委内瑞拉石油补充美国战略储备。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
+        "publishedAt": "2026-08-30T07:50:45Z"
       },
       {
-        "id": "7c46d6a1497e548b95b6",
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "summary": "特朗普称美委达成协议，美国控制650亿桶委内瑞拉石油，引发争议。",
+        "id": "e97a6b8f094ae1ceb8ba",
+        "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+        "summary": "NASA发射新型太空望远镜，探索暗能量和暗物质。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-29T20:01:02Z"
+        "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T10:53:53Z"
       },
       {
-        "id": "095a146aefb68d810701",
-        "title": "NASA launches $4.3bn Roman Telescope to uncover universe’s hidden secrets",
-        "summary": "NASA发射43亿美元罗曼望远镜，探索暗能量和系外行星。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss",
-        "publishedAt": "2026-08-30T09:44:57Z"
-      },
-      {
-        "id": "6ea2880e6a9994a87e71",
-        "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
-        "summary": "俄袭击乌武器库致38人死亡，俄称将扩大打击，局势紧张。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
-        "publishedAt": "2026-08-30T04:26:48Z"
+        "id": "1c4e0dcecdf115985088",
+        "title": "Iceland votes against restarting EU membership talks",
+        "summary": "冰岛公投否决重启欧盟入盟谈判。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T08:11:44Z"
       },
       {
         "id": "53a5a01ebdc5be38f65f",
         "title": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
-        "summary": "尼日尔首都发生疑似政变，数十名士兵被捕，军方称已控制局势。",
+        "summary": "尼日尔首都发生疑似政变，数十名士兵被捕。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
         "publishedAt": "2026-08-30T05:03:15Z"
       },
       {
-        "id": "f33a082abaf9b89b1b9c",
-        "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-        "summary": "伊朗最高领袖呼吁海湾团结，霍尔木兹海峡紧张持续。",
+        "id": "335299c49b725d0e8487",
+        "title": "Trump threatens to report journalist Kristen Welker to broadcast regulator",
+        "summary": "特朗普威胁向FCC举报记者克里斯汀·韦尔克。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
-        "publishedAt": "2026-08-30T02:30:57Z"
+        "url": "https://www.aljazeera.com/news/2026/8/30/trump-threatens-to-report-journalist-kristen-welker-to-broadcast-regulator?traffic_source=rss",
+        "publishedAt": "2026-08-30T09:22:06Z"
+      },
+      {
+        "id": "e6103cb2cf558af7da00",
+        "title": "Google Maps renames Lake Ontario after Trump’s decree on ‘Lake America’",
+        "summary": "谷歌地图将安大略湖改名，引加拿大不满。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/google-maps-renames-lake-ontario-after-trumps-decree-on-lake-america?traffic_source=rss",
+        "publishedAt": "2026-08-30T08:57:21Z"
       }
     ]
   }
