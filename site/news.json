@@ -1,103 +1,87 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T00:19:10Z",
+  "generatedAt": "2026-08-30T02:19:22Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻聚焦住房金融改革、长鑫存储起诉美国国防部及量产LPDDR6、券商半年报创纪录、美联储鹰派言论影响、吉隆口岸灾情等。",
+    "overview": "国内要闻聚焦西藏泥石流灾害、长鑫存储起诉美国国防部、美联储鹰派言论影响及多项产业科技动态。",
     "items": [
       {
-        "id": "e051bc525c215c80bf03",
-        "title": "“三箭齐发”，中国住房金融制度迎来划时代变革",
-        "summary": "中国住房金融制度迎来划时代变革，'三箭齐发'，影响广泛。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780620",
-        "publishedAt": "2026-08-30T00:19:10Z"
+        "id": "ea778abb0fb08def2fa2",
+        "title": "吉隆泥石流已致16人遇难546人失联",
+        "summary": "西藏吉隆泥石流已致16人遇难546人失联，救援持续。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94%23",
+        "publishedAt": "2026-08-30T02:19:22Z"
       },
       {
-        "id": "dab7e65f85914197370a",
-        "title": "长鑫存储起诉五角大楼，将赫格塞思列为被告",
-        "summary": "长鑫存储起诉五角大楼并列为被告，涉及科技与法律。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468546",
-        "publishedAt": "2026-08-30T00:19:10Z"
+        "id": "2a49eb12fa794f58e083",
+        "title": "西藏泥石流灾害原因现已查明",
+        "summary": "西藏泥石流灾害原因现已查明，官方公布调查结果。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8E%9F%E5%9B%A0%E7%8E%B0%E5%B7%B2%E6%9F%A5%E6%98%8E",
+        "publishedAt": "2026-08-30T02:19:22Z"
       },
       {
-        "id": "0533d55f39af4639663b",
-        "title": "长鑫官宣：LPDDR6内存量产",
-        "summary": "长鑫官宣LPDDR6内存量产，雷军点赞，科技突破。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468507",
-        "publishedAt": "2026-08-30T00:19:10Z"
+        "id": "4c2f1bda4ee0aaaaf781",
+        "title": "长鑫存储起诉美国国防部",
+        "summary": "长鑫存储起诉美国国防部，涉及实体清单争议。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33973280",
+        "publishedAt": "2026-08-30T02:19:22Z"
       },
       {
-        "id": "c54ba22c6e6e88094338",
-        "title": "创纪录！5家券商半年净利破百亿，业绩排名深度洗牌",
-        "summary": "5家券商半年净利破百亿，业绩排名洗牌。",
+        "id": "89aaf9bbf257d48acec8",
+        "title": "沃什杰克逊霍尔讲话誓言对抗通胀 强调美联储需要“更加安静”（附讲话全文）",
+        "summary": "美联储主席沃什讲话誓言对抗通胀，强调需要更安静政策。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468449",
-        "publishedAt": "2026-08-30T00:19:10Z"
+        "url": "https://www.cls.cn/detail/2468314",
+        "publishedAt": "2026-08-30T02:19:22Z"
       },
       {
         "id": "0f053f4848dd7dea3cf1",
         "title": "【早报】沃什发表鹰派言论；现货黄金跌近3%；芯片股集体走弱；长鑫科技、源杰科技、阳光电源等披露半年报",
-        "summary": "沃什鹰派言论致金价跌，芯片股走弱，多公司披露半年报。",
+        "summary": "早报：沃什放鹰、金价跌、芯片股弱、长鑫等披露半年报。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468431",
-        "publishedAt": "2026-08-30T00:19:10Z"
+        "publishedAt": "2026-08-30T02:19:22Z"
       },
       {
-        "id": "7a88e7a4b131fa8c28e5",
-        "title": "吉隆口岸大楼只剩钢筋骨架",
-        "summary": "吉隆口岸大楼只剩钢筋骨架，灾情严重。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679072449947123731/",
-        "publishedAt": "2026-08-30T00:19:10Z"
-      },
-      {
-        "id": "f1320d636ed41f8bc58e",
-        "title": "中国汽车何以全球圈粉",
-        "summary": "中国汽车何以全球圈粉，探讨产业竞争力。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BD%95%E4%BB%A5%E5%85%A8%E7%90%83%E5%9C%88%E7%B2%89",
-        "publishedAt": "2026-08-30T00:19:10Z"
+        "id": "c5ad289d4bd0924c1518",
+        "title": "加拿大，开始卡美国脖子了",
+        "summary": "加拿大采取措施反制美国，引发关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w0Hagm7Yim",
+        "publishedAt": "2026-08-30T02:19:22Z"
       },
       {
         "id": "50597c804b81b95358e3",
         "title": "我国首次实现地月双向高速激光通信",
-        "summary": "我国首次实现地月双向高速激光通信，航天科技突破。",
+        "summary": "我国首次实现地月双向高速激光通信，突破性进展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468508",
-        "publishedAt": "2026-08-30T00:19:10Z"
+        "publishedAt": "2026-08-30T02:19:22Z"
+      },
+      {
+        "id": "1351c627a063b3738a73",
+        "title": "AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润",
+        "summary": "AI利润格局分析：模型公司收入流向云厂，营业利润分配明确。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780632",
+        "publishedAt": "2026-08-30T02:19:22Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻涵盖美加湖泊命名争端、委内瑞拉石油协议、尼泊尔西藏洪水救援、美联储主席讲话、乌克兰核电站断电等。",
+    "overview": "国际焦点包括尼泊尔-西藏洪灾救援、美联储主席沃什鹰派言论、美国与委内瑞拉石油协议、冰岛欧盟公投等。",
     "items": [
       {
-        "id": "567e9fb57eee8d6dd154",
-        "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
-        "summary": "加拿大安大略省立'安大略湖'标牌回应特朗普改名'美国湖'。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
-        "publishedAt": "2026-08-29T14:50:27Z"
-      },
-      {
-        "id": "cd485d254edadec2fd36",
-        "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
-        "summary": "美委石油协议被批掠夺委内瑞拉资源，控制650亿桶石油。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss",
-        "publishedAt": "2026-08-29T14:33:01Z"
-      },
-      {
-        "id": "404c0ea1fa01b844e9d5",
-        "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – as it happened",
-        "summary": "尼泊尔西藏洪水失踪近3000人，救援艰难，尼泊尔求技术支持。",
+        "id": "6ed32168df97812218ac",
+        "title": "Number of missing in Nepal and Tibet rises to 3,000 as bad weather hampers search",
+        "summary": "尼泊尔和西藏失踪人数升至3000，恶劣天气阻碍救援。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
-        "publishedAt": "2026-08-29T14:27:09Z"
+        "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
+        "publishedAt": "2026-08-29T17:25:41Z"
       },
       {
         "id": "345eb7a70207efa2cb28",
@@ -108,12 +92,20 @@
         "publishedAt": "2026-08-28T07:15:26Z"
       },
       {
-        "id": "9207ba1863cb125d895b",
-        "title": "Ukrainian nuclear power plant without external power for over a week",
-        "summary": "乌克兰扎波罗热核电站断电超一周，依赖应急柴油。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
-        "publishedAt": "2026-08-29T15:25:07Z"
+        "id": "7c46d6a1497e548b95b6",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "summary": "特朗普称美委石油协议历史性，美控制650亿桶石油。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-29T14:40:51Z"
+      },
+      {
+        "id": "15f53cffc9840aff6609",
+        "title": "Icelanders vote on whether they want to join the EU",
+        "summary": "冰岛就加入欧盟举行公投，结果极为接近。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
+        "publishedAt": "2026-08-29T17:47:44Z"
       },
       {
         "id": "c4aee720ea4739b5fed8",
@@ -124,20 +116,28 @@
         "publishedAt": "2026-08-28T21:00:19Z"
       },
       {
-        "id": "80874944cdee1c7e0bea",
-        "title": "Getting help to Nepal's flood survivors is proving difficult",
-        "summary": "尼泊尔洪水救援困难，道路阻断，物资难以送达。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/29/nx-s1-5948125/getting-help-to-nepals-flood-survivors-is-proving-difficult",
-        "publishedAt": "2026-08-29T13:14:10Z"
+        "id": "636c29d8deb4dc291558",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "summary": "基辅军火库遭袭致37死，数百人疏散，调查启动。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-29T12:13:16Z"
       },
       {
-        "id": "52392a88c0b1754fa668",
-        "title": "Canada installs large Lake Ontario sign in latest jab at US",
-        "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the me",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-29T16:17:25Z"
+        "id": "79848de8ccc9dcbf813f",
+        "title": "Norway’s new King Haakon remembers ‘dear father’ Harald in first speech as sovereign",
+        "summary": "挪威新国王哈康发表首次讲话，悼念先父并承诺履职。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/norway-s-new-king-haakon-remembers-dear-father-harald-in-first-speech-as-sovereign/a-78560155?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-29T14:22:00Z"
+      },
+      {
+        "id": "a15ad081503b8c6e93a4",
+        "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
+        "summary": "默克尔敦促选民捍卫民主，德国东部选举在即。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-29T15:09:00Z"
       }
     ]
   }
