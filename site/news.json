@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T12:19:23Z",
+  "generatedAt": "2026-08-30T14:19:22Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，西藏吉隆泥石流灾害救援持续，长鑫存储起诉美国国防部并量产LPDDR6内存，房贷期限延长至40年，油价或下调，金饰销量下滑，多起民生和科技新闻受关注。",
+    "overview": "今日国内要闻聚焦长鑫存储起诉美国国防部并量产LPDDR6内存、西藏吉隆泥石流灾害救援、中国女排亚锦赛失利、以及个人住房贷款期限延长等宏观经济与科技动态。",
     "items": [
-      {
-        "id": "4a1c141abc4ff57b6298",
-        "title": "日媒：迫于压力，高市早苗欲改组内阁",
-        "summary": "日媒称高市早苗迫于压力拟改组内阁。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8vyYwYfFhaK",
-        "publishedAt": "2026-08-30T12:19:23Z"
-      },
-      {
-        "id": "7b806bd496dab4cc0782",
-        "title": "西藏吉隆泥石流灾害新闻发布会实录",
-        "summary": "西藏吉隆泥石流灾害新闻发布会通报救援进展。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9E%E5%BD%95%23",
-        "publishedAt": "2026-08-30T12:19:23Z"
-      },
       {
         "id": "4c2f1bda4ee0aaaaf781",
         "title": "长鑫存储起诉美国国防部",
-        "summary": "长鑫存储起诉美国国防部，涉及五角大楼。",
+        "summary": "长鑫存储起诉美国国防部，将其列入黑名单，涉及法律诉讼。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33973280",
-        "publishedAt": "2026-08-30T12:19:23Z"
+        "publishedAt": "2026-08-30T14:19:22Z"
       },
       {
         "id": "0533d55f39af4639663b",
         "title": "长鑫官宣：LPDDR6内存量产",
-        "summary": "长鑫官宣LPDDR6内存量产，技术突破。",
+        "summary": "长鑫存储官宣LPDDR6内存量产，国产存储芯片取得突破。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468507",
-        "publishedAt": "2026-08-30T12:19:23Z"
+        "publishedAt": "2026-08-30T14:19:22Z"
       },
       {
-        "id": "05f88ecef6e5b3f8e3f3",
-        "title": "中央纪委副书记孙新阳当选新职",
-        "summary": "中央纪委副书记孙新阳当选新职。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679754993324048403/",
-        "publishedAt": "2026-08-30T12:19:23Z"
-      },
-      {
-        "id": "e015dc66a86443f4d73a",
-        "title": "一博主在街头清理地钉被劝阻，河南新乡通报",
-        "summary": "河南新乡通报博主清理地钉被劝阻事件。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33973643",
-        "publishedAt": "2026-08-30T12:19:23Z"
-      },
-      {
-        "id": "0f2d14da6f9fac08d519",
-        "title": "周末要闻汇总：个人住房贷款期限由最长30年延长至最长40年，长鑫LPDDR6内存芯片正式量产",
-        "summary": "个人住房贷款期限延至40年，长鑫内存量产。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468733",
-        "publishedAt": "2026-08-30T12:19:23Z"
+        "id": "e9b43f173e93f4d41034",
+        "title": "吉隆泥石流痕迹近20层楼高",
+        "summary": "西藏吉隆泥石流灾害严重，痕迹高达近20层楼，救援持续。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%97%95%E8%BF%B9%E8%BF%9120%E5%B1%82%E6%A5%BC%E9%AB%98",
+        "publishedAt": "2026-08-30T14:19:22Z"
       },
       {
         "id": "8289c5ba979540aa62f8",
         "title": "西藏吉隆泥石流搜救尚未再发现幸存者",
-        "summary": "西藏吉隆泥石流搜救未再发现幸存者。",
+        "summary": "西藏吉隆泥石流搜救未发现更多幸存者，救援工作面临挑战。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33974652",
-        "publishedAt": "2026-08-30T12:19:23Z"
+        "publishedAt": "2026-08-30T14:19:22Z"
+      },
+      {
+        "id": "0f2d14da6f9fac08d519",
+        "title": "周末要闻汇总：个人住房贷款期限由最长30年延长至最长40年，长鑫LPDDR6内存芯片正式量产",
+        "summary": "个人住房贷款期限延长至40年，长鑫LPDDR6内存量产，政策与科技利好。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468733",
+        "publishedAt": "2026-08-30T14:19:22Z"
+      },
+      {
+        "id": "50597c804b81b95358e3",
+        "title": "我国首次实现地月双向高速激光通信",
+        "summary": "我国首次实现地月双向高速激光通信，航天技术再突破。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468508",
+        "publishedAt": "2026-08-30T14:19:22Z"
+      },
+      {
+        "id": "e588ea52da94b650290c",
+        "title": "丽江通报“不参加付费项目被导游威胁”：吊销其导游证并拘留",
+        "summary": "丽江通报导游威胁游客事件，吊销导游证并拘留，维护旅游市场秩序。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33973790",
+        "publishedAt": "2026-08-30T14:19:22Z"
+      },
+      {
+        "id": "9ba518c4a3249258ba84",
+        "title": "厦门通报“一公司使用敌敌畏为餐饮门店消杀问题”：6人被刑拘",
+        "summary": "厦门一公司使用敌敌畏消杀被通报，6人被刑拘，食品安全问题引关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33975502",
+        "publishedAt": "2026-08-30T14:19:22Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，塞浦路斯海域发生沉船事故，尼泊尔洪灾造成大量伤亡，美国与委内瑞拉石油协议引发争议，冰岛公投拒绝欧盟谈判，瑞士发生枪击事件，NASA新型望远镜发射成功。",
+    "overview": "国际方面，尼泊尔-西藏洪水灾害死亡人数持续上升，冰岛公投拒绝欧盟入盟谈判，北塞浦路斯渡轮倾覆事故，以及美国与委内瑞拉石油协议等事件引发关注。",
     "items": [
       {
-        "id": "b564e442dcd6425ac1e6",
-        "title": "Ferry carrying 260 people capsizes off northern Cyprus coast",
-        "summary": "载260人渡轮在塞浦路斯北部沉没，救援中。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
-        "publishedAt": "2026-08-30T03:52:12Z"
+        "id": "00051c892c85615f5dbd",
+        "title": "Nepal-Tibet death toll rises amid new flood fears and race to free group trapped in tunnel",
+        "summary": "尼泊尔-西藏洪水死亡人数超750，数千人失踪，救援持续。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors",
+        "publishedAt": "2026-08-30T04:55:05Z"
       },
       {
-        "id": "d44449d8f35b1897b781",
-        "title": "Photos: Nepal issues alerts as region’s flash flood death toll reaches 750",
-        "summary": "尼泊尔洪灾死亡升至750人，超3000人失踪。",
+        "id": "f310f07153db2b764c9a",
+        "title": "Photos: Nepal issues alerts as region’s flash flood death toll nears 800",
+        "summary": "尼泊尔洪水死亡人数升至797，数千人失踪，已发布新警报。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss",
         "publishedAt": "2026-08-30T01:51:17Z"
       },
       {
-        "id": "fab0a2793dd0d0b0496c",
-        "title": "The Trump administration claims America will soon get a majority of its oil from Venezuela with new deal",
-        "summary": "特朗普称美国将获委内瑞拉石油多数份额，引质疑。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/30/nx-s1-5948708/the-trump-administration-claims-america-will-soon-get-a-majority-of-its-oil-from-venezuela-with-new-deal",
-        "publishedAt": "2026-08-30T04:02:27Z"
+        "id": "424a6e460b41fa21fe8d",
+        "title": "Iceland votes to reject EU accession talks: What happens next?",
+        "summary": "冰岛公投拒绝重启欧盟入盟谈判，52.5%反对。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
+        "publishedAt": "2026-08-30T05:37:54Z"
       },
       {
-        "id": "742ca830a85a83894eef",
-        "title": "Iceland votes against restarting talks on joining EU",
-        "summary": "冰岛公投拒绝重启欧盟入盟谈判。",
+        "id": "090ee2edce4b1724ae9c",
+        "title": "At least seven dead after ferry capsizes off northern Cyprus",
+        "summary": "北塞浦路斯渡轮倾覆至少7人死亡，237人获救，23人失踪。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
+        "publishedAt": "2026-08-30T03:52:12Z"
+      },
+      {
+        "id": "7c46d6a1497e548b95b6",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "summary": "特朗普宣布与委内瑞拉达成石油协议，美控制650亿桶石油。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-30T02:49:11Z"
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-29T20:01:02Z"
       },
       {
-        "id": "e45f88f79747836340cc",
-        "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-        "summary": "瑞士狂欢节枪击致1死5伤，嫌犯在逃。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-30T03:25:11Z"
+        "id": "53a5a01ebdc5be38f65f",
+        "title": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
+        "summary": "尼日尔首都尼亚美疑似发生未遂政变，数十名士兵被捕。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
+        "publishedAt": "2026-08-30T05:03:15Z"
       },
       {
-        "id": "71715a2217d4a1146dc5",
-        "title": "Nasa space telescope launches after surviving Trump budget cuts",
-        "summary": "NASA罗曼望远镜发射，曾遭特朗普削减预算。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman",
-        "publishedAt": "2026-08-30T04:05:31Z"
+        "id": "6ea2880e6a9994a87e71",
+        "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+        "summary": "俄罗斯袭击乌克兰军火库致38人死亡，俄计划冬季前大规模打击。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
+        "publishedAt": "2026-08-30T04:26:48Z"
       },
       {
-        "id": "a15ad081503b8c6e93a4",
-        "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
-        "summary": "默克尔呼吁选民捍卫民主，应对极右翼。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-08-30T04:06:00Z"
-      },
-      {
-        "id": "13cc1f68e109b741e048",
-        "title": "Boat carrying some 270 people capsizes off northern Cyprus - reports",
-        "summary": "The local mayor says 159 passengers have been reached so far, with a rescue oper",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-30T04:15:50Z"
+        "id": "f33a082abaf9b89b1b9c",
+        "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+        "summary": "伊朗最高领袖呼吁海湾团结，霍尔木兹海峡紧张局势持续。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
+        "publishedAt": "2026-08-30T02:30:57Z"
       }
     ]
   }
