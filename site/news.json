@@ -1,135 +1,119 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T02:19:22Z",
+  "generatedAt": "2026-08-30T04:19:27Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦西藏泥石流灾害、长鑫存储起诉美国国防部、美联储鹰派言论影响及多项产业科技动态。",
+    "overview": "国内新闻聚焦西藏泥石流灾害、长鑫存储起诉美国防部、美联储官员鹰派言论及经济数据、地方政务与民生等热点。",
     "items": [
-      {
-        "id": "ea778abb0fb08def2fa2",
-        "title": "吉隆泥石流已致16人遇难546人失联",
-        "summary": "西藏吉隆泥石流已致16人遇难546人失联，救援持续。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94%23",
-        "publishedAt": "2026-08-30T02:19:22Z"
-      },
       {
         "id": "2a49eb12fa794f58e083",
         "title": "西藏泥石流灾害原因现已查明",
-        "summary": "西藏泥石流灾害原因现已查明，官方公布调查结果。",
+        "summary": "西藏泥石流灾害原因查明，救援工作持续进行。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8E%9F%E5%9B%A0%E7%8E%B0%E5%B7%B2%E6%9F%A5%E6%98%8E",
-        "publishedAt": "2026-08-30T02:19:22Z"
+        "publishedAt": "2026-08-30T04:19:27Z"
+      },
+      {
+        "id": "f6bb7174d70e6fe02f0e",
+        "title": "各方力量持续奋战西藏吉隆救灾一线",
+        "summary": "各方力量持续奋战西藏吉隆救灾一线，全力搜救失联人员。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%90%84%E6%96%B9%E5%8A%9B%E9%87%8F%E6%8C%81%E7%BB%AD%E5%A5%8B%E6%88%98%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%95%91%E7%81%BE%E4%B8%80%E7%BA%BF",
+        "publishedAt": "2026-08-30T04:19:27Z"
       },
       {
         "id": "4c2f1bda4ee0aaaaf781",
         "title": "长鑫存储起诉美国国防部",
-        "summary": "长鑫存储起诉美国国防部，涉及实体清单争议。",
+        "summary": "长鑫存储起诉美国国防部，就相关认定提出法律挑战。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33973280",
-        "publishedAt": "2026-08-30T02:19:22Z"
+        "publishedAt": "2026-08-30T04:19:27Z"
+      },
+      {
+        "id": "dab7e65f85914197370a",
+        "title": "长鑫存储起诉五角大楼，将赫格塞思列为被告",
+        "summary": "长鑫存储起诉五角大楼，将赫格塞思列为被告，引发关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468546",
+        "publishedAt": "2026-08-30T04:19:27Z"
       },
       {
         "id": "89aaf9bbf257d48acec8",
         "title": "沃什杰克逊霍尔讲话誓言对抗通胀 强调美联储需要“更加安静”（附讲话全文）",
-        "summary": "美联储主席沃什讲话誓言对抗通胀，强调需要更安静政策。",
+        "summary": "美联储主席沃什发表鹰派讲话，誓言对抗通胀，强调美联储独立性。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468314",
-        "publishedAt": "2026-08-30T02:19:22Z"
+        "publishedAt": "2026-08-30T04:19:27Z"
       },
       {
-        "id": "0f053f4848dd7dea3cf1",
-        "title": "【早报】沃什发表鹰派言论；现货黄金跌近3%；芯片股集体走弱；长鑫科技、源杰科技、阳光电源等披露半年报",
-        "summary": "早报：沃什放鹰、金价跌、芯片股弱、长鑫等披露半年报。",
+        "id": "825f2dcf16b9fa4c48f2",
+        "title": "美股收盘：沃什鹰派言论推升加息预期 三大指数小幅收跌",
+        "summary": "美股受沃什鹰派言论影响，三大指数小幅收跌，市场关注加息预期。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468431",
-        "publishedAt": "2026-08-30T02:19:22Z"
+        "url": "https://www.cls.cn/detail/2468421",
+        "publishedAt": "2026-08-30T04:19:27Z"
       },
       {
-        "id": "c5ad289d4bd0924c1518",
-        "title": "加拿大，开始卡美国脖子了",
-        "summary": "加拿大采取措施反制美国，引发关注。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w0Hagm7Yim",
-        "publishedAt": "2026-08-30T02:19:22Z"
+        "id": "c54ba22c6e6e88094338",
+        "title": "创纪录！5家券商半年净利破百亿，业绩排名深度洗牌",
+        "summary": "5家券商半年净利破百亿，业绩排名洗牌，行业集中度提升。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468449",
+        "publishedAt": "2026-08-30T04:19:27Z"
       },
       {
         "id": "50597c804b81b95358e3",
         "title": "我国首次实现地月双向高速激光通信",
-        "summary": "我国首次实现地月双向高速激光通信，突破性进展。",
+        "summary": "我国首次实现地月双向高速激光通信，航天技术取得重大突破。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468508",
-        "publishedAt": "2026-08-30T02:19:22Z"
-      },
-      {
-        "id": "1351c627a063b3738a73",
-        "title": "AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润",
-        "summary": "AI利润格局分析：模型公司收入流向云厂，营业利润分配明确。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780632",
-        "publishedAt": "2026-08-30T02:19:22Z"
+        "publishedAt": "2026-08-30T04:19:27Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括尼泊尔-西藏洪灾救援、美联储主席沃什鹰派言论、美国与委内瑞拉石油协议、冰岛欧盟公投等。",
+    "overview": "国际新闻涵盖尼泊尔与西藏洪水灾害、委内瑞拉石油协议、冰岛公投、中东局势及欧洲政治等重大事件。",
     "items": [
       {
         "id": "6ed32168df97812218ac",
         "title": "Number of missing in Nepal and Tibet rises to 3,000 as bad weather hampers search",
-        "summary": "尼泊尔和西藏失踪人数升至3000，恶劣天气阻碍救援。",
+        "summary": "尼泊尔与西藏失踪人数升至3000，恶劣天气阻碍搜救。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
         "publishedAt": "2026-08-29T17:25:41Z"
       },
       {
-        "id": "345eb7a70207efa2cb28",
-        "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-        "summary": "美联储主席沃什警告若通胀不降将加息，偏鹰派。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-28T07:15:26Z"
-      },
-      {
         "id": "7c46d6a1497e548b95b6",
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "summary": "特朗普称美委石油协议历史性，美控制650亿桶石油。",
+        "summary": "特朗普称美委达成历史性协议，美将控制委内瑞拉650亿桶石油。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-29T14:40:51Z"
+        "publishedAt": "2026-08-29T20:01:02Z"
       },
       {
-        "id": "15f53cffc9840aff6609",
-        "title": "Icelanders vote on whether they want to join the EU",
-        "summary": "冰岛就加入欧盟举行公投，结果极为接近。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
-        "publishedAt": "2026-08-29T17:47:44Z"
+        "id": "144567935064d4ae3217",
+        "title": "Venezuela says it retains ‘sovereignty’ following US oil deal",
+        "summary": "委内瑞拉称仍保有主权，美委石油协议引发争议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
+        "publishedAt": "2026-08-29T19:51:26Z"
       },
       {
-        "id": "c4aee720ea4739b5fed8",
-        "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-        "summary": "欧盟天然气库存降至13年最低，冬季恐慌加剧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
-        "publishedAt": "2026-08-28T21:00:19Z"
+        "id": "64b959e611947a22e51c",
+        "title": "Iceland EU referendum on a knife edge as counting continues",
+        "summary": "冰岛公投结果胶着，是否重启入盟谈判尚待计票。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-29T19:57:01Z"
       },
       {
         "id": "636c29d8deb4dc291558",
         "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "summary": "基辅军火库遭袭致37死，数百人疏散，调查启动。",
+        "summary": "基辅军火库遭袭致37死，数百人疏散，调查已启动。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-29T12:13:16Z"
-      },
-      {
-        "id": "79848de8ccc9dcbf813f",
-        "title": "Norway’s new King Haakon remembers ‘dear father’ Harald in first speech as sovereign",
-        "summary": "挪威新国王哈康发表首次讲话，悼念先父并承诺履职。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/norway-s-new-king-haakon-remembers-dear-father-harald-in-first-speech-as-sovereign/a-78560155?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-08-29T14:22:00Z"
       },
       {
         "id": "a15ad081503b8c6e93a4",
@@ -138,6 +122,22 @@
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-08-29T15:09:00Z"
+      },
+      {
+        "id": "c4aee720ea4739b5fed8",
+        "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
+        "summary": "欧盟天然气库存降至13年最低，冬季供应担忧加剧。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
+        "publishedAt": "2026-08-28T21:00:19Z"
+      },
+      {
+        "id": "4e643472b4fb013c4def",
+        "title": "Sudanese repair roads by hand in Darfur to improve emergency access",
+        "summary": "Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged ",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
+        "publishedAt": "2026-08-29T20:05:04Z"
       }
     ]
   }
