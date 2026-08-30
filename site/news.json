@@ -1,116 +1,100 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T08:19:26Z",
+  "generatedAt": "2026-08-30T10:19:21Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，西藏吉隆泥石流灾害救援持续，长鑫存储起诉美国国防部，AI产业利润分配引关注。",
+    "overview": "国内新闻涵盖外交活动、自然灾害救援、宏观经济与科技动态，重点关注国家领导人出访、西藏泥石流事故、长鑫存储事件及市场变化。",
     "items": [
       {
-        "id": "7a88e7a4b131fa8c28e5",
-        "title": "吉隆口岸大楼只剩钢筋骨架",
-        "summary": "西藏吉隆口岸建筑被泥石流损毁，仅剩钢筋骨架，救援正在紧张进行。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679072449947123731/",
-        "publishedAt": "2026-08-30T08:19:26Z"
+        "id": "69ab855f100d139aed5e",
+        "title": "习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+        "summary": "习近平离京出席上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33974849",
+        "publishedAt": "2026-08-30T10:19:21Z"
       },
       {
         "id": "2a49eb12fa794f58e083",
         "title": "西藏泥石流灾害原因现已查明",
-        "summary": "西藏泥石流灾害原因已查明，相关情况在新闻发布会上公布。",
+        "summary": "西藏泥石流灾害原因已查明，相关救援和善后工作持续进行。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8E%9F%E5%9B%A0%E7%8E%B0%E5%B7%B2%E6%9F%A5%E6%98%8E",
-        "publishedAt": "2026-08-30T08:19:26Z"
-      },
-      {
-        "id": "1351c627a063b3738a73",
-        "title": "AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润",
-        "summary": "AI利润格局分析：模型公司收入大部分流向云厂，营业利润占比10-20美元。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780632",
-        "publishedAt": "2026-08-30T08:19:26Z"
-      },
-      {
-        "id": "4c2f1bda4ee0aaaaf781",
-        "title": "长鑫存储起诉美国国防部",
-        "summary": "长鑫存储起诉美国国防部，指控其列入黑名单，要求撤销制裁。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33973280",
-        "publishedAt": "2026-08-30T08:19:26Z"
+        "publishedAt": "2026-08-30T10:19:21Z"
       },
       {
         "id": "dab7e65f85914197370a",
         "title": "长鑫存储起诉五角大楼，将赫格塞思列为被告",
-        "summary": "长鑫存储起诉五角大楼，将赫格塞思列为被告，寻求法律救济。",
+        "summary": "长鑫存储起诉美国国防部及赫格塞思，涉及法律争端。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468546",
-        "publishedAt": "2026-08-30T08:19:26Z"
+        "publishedAt": "2026-08-30T10:19:21Z"
       },
       {
-        "id": "c5ad289d4bd0924c1518",
-        "title": "加拿大，开始卡美国脖子了",
-        "summary": "加拿大在能源领域对美国采取限制措施，可能影响双边贸易关系。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w0Hagm7Yim",
-        "publishedAt": "2026-08-30T08:19:26Z"
-      },
-      {
-        "id": "17340ccc940018484284",
-        "title": "言短意长｜县级政务新媒体被管理员“拿捏”5年，暴露了什么问题？",
-        "summary": "县级政务新媒体被管理员长期操控，暴露基层管理漏洞与治理问题。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33973247",
-        "publishedAt": "2026-08-30T08:19:26Z"
+        "id": "0533d55f39af4639663b",
+        "title": "长鑫官宣：LPDDR6内存量产",
+        "summary": "长鑫官宣LPDDR6内存量产，推动国产存储技术进展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468507",
+        "publishedAt": "2026-08-30T10:19:21Z"
       },
       {
         "id": "0f053f4848dd7dea3cf1",
         "title": "【早报】沃什发表鹰派言论；现货黄金跌近3%；芯片股集体走弱；长鑫科技、源杰科技、阳光电源等披露半年报",
-        "summary": "沃什发表鹰派言论，现货黄金跌近3%，芯片股集体走弱，多家企业披露半年报。",
+        "summary": "沃什鹰派言论影响市场，黄金跌近3%，芯片股走弱。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468431",
-        "publishedAt": "2026-08-30T08:19:26Z"
+        "publishedAt": "2026-08-30T10:19:21Z"
+      },
+      {
+        "id": "630d592441e36f4a92d4",
+        "title": "国家自然科学基金委员会通报31起科研不端行为，多笔已拨资金被追回",
+        "summary": "国家自然科学基金委通报31起科研不端行为，追回已拨资金。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33974903",
+        "publishedAt": "2026-08-30T10:19:21Z"
+      },
+      {
+        "id": "c54ba22c6e6e88094338",
+        "title": "创纪录！5家券商半年净利破百亿，业绩排名深度洗牌",
+        "summary": "5家券商半年净利破百亿，业绩排名深度洗牌创纪录。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468449",
+        "publishedAt": "2026-08-30T10:19:21Z"
+      },
+      {
+        "id": "e588ea52da94b650290c",
+        "title": "丽江通报“不参加付费项目被导游威胁”：吊销其导游证并拘留",
+        "summary": "丽江通报导游威胁游客事件，吊销导游证并拘留。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33973790",
+        "publishedAt": "2026-08-30T10:19:21Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，尼泊尔洪灾失踪人数上升，瑞士发生枪击事件，冰岛公投拒绝欧盟入盟谈判。",
+    "overview": "国际新闻聚焦尼泊尔洪灾、冰岛公投、美委石油协议及俄乌冲突，同时涉及欧洲能源危机和美国政治风波。",
     "items": [
       {
-        "id": "eef86c73a0df2b77283c",
-        "title": "Manhunt after woman, 22, killed and five injured in Swiss shooting",
-        "summary": "瑞士苏黎世夜间狂欢节发生枪击，一名女性死亡，五人受伤，警方搜捕嫌疑人。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-30T00:17:11Z"
-      },
-      {
-        "id": "43ef6d1e7ffcf56735d8",
-        "title": "Iceland on track to reject EU referendum as counting nears end",
-        "summary": "冰岛公投初步结果显示拒绝重启欧盟入盟谈判，计票接近尾声。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-30T00:08:30Z"
-      },
-      {
-        "id": "06f90d720a2ce3ee6c12",
-        "title": "Iceland rejects EU membership plan in referendum",
-        "summary": "冰岛公投正式否决欧盟成员国资格计划，政府将尊重结果。",
+        "id": "8cd8882d41fd2de162c5",
+        "title": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
+        "summary": "中尼边境冰川崩塌引发洪灾，致数千人失踪，救援持续。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
-        "publishedAt": "2026-08-29T23:57:18Z"
+        "url": "https://www.aljazeera.com/news/2026/8/30/nepal-china-flood-disaster-whats-the-latest-toll-how-many-are-missing?traffic_source=rss",
+        "publishedAt": "2026-08-30T01:24:46Z"
       },
       {
-        "id": "6ed32168df97812218ac",
-        "title": "Number of missing in Nepal and Tibet rises to 3,000 as bad weather hampers search",
-        "summary": "尼泊尔和西藏洪灾失踪人数升至3000，恶劣天气阻碍搜救工作。",
+        "id": "60e9788d53b376c14010",
+        "title": "Iceland appears to have rejected EU accession talks in referendum, reports say",
+        "summary": "冰岛公投否决重启加入欧盟谈判，结果接近但反对派领先。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-        "publishedAt": "2026-08-29T17:25:41Z"
+        "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
+        "publishedAt": "2026-08-30T00:51:05Z"
       },
       {
         "id": "7c46d6a1497e548b95b6",
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "summary": "特朗普宣布与委内瑞拉达成协议，美国控制650亿桶石油，引发争议。",
+        "summary": "特朗普宣布达成协议，美国控制委内瑞拉650亿桶石油。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-29T20:01:02Z"
@@ -118,7 +102,7 @@
       {
         "id": "636c29d8deb4dc291558",
         "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "summary": "基辅军火库遭袭致至少37人死亡，数百人疏散，调查已启动。",
+        "summary": "基辅武器库遭袭，至少37人死亡，数百人疏散。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-29T12:13:16Z"
@@ -134,10 +118,26 @@
       {
         "id": "a34e4148fc3bc015501b",
         "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
-        "summary": "加州大苏尔野火面积一夜翻倍，居民被迫紧急疏散。",
+        "summary": "加州大苏尔野火面积一夜翻倍，居民被迫疏散。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
         "publishedAt": "2026-08-29T15:51:26Z"
+      },
+      {
+        "id": "c8eee923626ab982f915",
+        "title": "AA could face £5bn takeover move by German insurer Allianz, reports claim",
+        "summary": "德国安联拟50亿英镑收购英国AA公司，谈判进行中。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/aug/30/aa-takeover-german-insurer-allianz",
+        "publishedAt": "2026-08-30T01:26:18Z"
+      },
+      {
+        "id": "b2e1bb04faa84bc609d7",
+        "title": "Documents leaked by Trump official to bolster a conspiracy show ‘absolutely nothing’",
+        "summary": "Inside the US state department, critics are still attacking a shuttered office e",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/aug/30/state-department-global-engagement-center-leaked-documents-foreign-propaganda",
+        "publishedAt": "2026-08-30T02:00:53Z"
       }
     ]
   }
