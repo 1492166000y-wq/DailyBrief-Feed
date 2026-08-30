@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T10:19:21Z",
+  "generatedAt": "2026-08-30T12:19:23Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻涵盖外交活动、自然灾害救援、宏观经济与科技动态，重点关注国家领导人出访、西藏泥石流事故、长鑫存储事件及市场变化。",
+    "overview": "国内方面，西藏吉隆泥石流灾害救援持续，长鑫存储起诉美国国防部并量产LPDDR6内存，房贷期限延长至40年，油价或下调，金饰销量下滑，多起民生和科技新闻受关注。",
     "items": [
       {
-        "id": "69ab855f100d139aed5e",
-        "title": "习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
-        "summary": "习近平离京出席上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问。",
+        "id": "4a1c141abc4ff57b6298",
+        "title": "日媒：迫于压力，高市早苗欲改组内阁",
+        "summary": "日媒称高市早苗迫于压力拟改组内阁。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8vyYwYfFhaK",
+        "publishedAt": "2026-08-30T12:19:23Z"
+      },
+      {
+        "id": "7b806bd496dab4cc0782",
+        "title": "西藏吉隆泥石流灾害新闻发布会实录",
+        "summary": "西藏吉隆泥石流灾害新闻发布会通报救援进展。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9E%E5%BD%95%23",
+        "publishedAt": "2026-08-30T12:19:23Z"
+      },
+      {
+        "id": "4c2f1bda4ee0aaaaf781",
+        "title": "长鑫存储起诉美国国防部",
+        "summary": "长鑫存储起诉美国国防部，涉及五角大楼。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33974849",
-        "publishedAt": "2026-08-30T10:19:21Z"
-      },
-      {
-        "id": "2a49eb12fa794f58e083",
-        "title": "西藏泥石流灾害原因现已查明",
-        "summary": "西藏泥石流灾害原因已查明，相关救援和善后工作持续进行。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8E%9F%E5%9B%A0%E7%8E%B0%E5%B7%B2%E6%9F%A5%E6%98%8E",
-        "publishedAt": "2026-08-30T10:19:21Z"
-      },
-      {
-        "id": "dab7e65f85914197370a",
-        "title": "长鑫存储起诉五角大楼，将赫格塞思列为被告",
-        "summary": "长鑫存储起诉美国国防部及赫格塞思，涉及法律争端。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468546",
-        "publishedAt": "2026-08-30T10:19:21Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_33973280",
+        "publishedAt": "2026-08-30T12:19:23Z"
       },
       {
         "id": "0533d55f39af4639663b",
         "title": "长鑫官宣：LPDDR6内存量产",
-        "summary": "长鑫官宣LPDDR6内存量产，推动国产存储技术进展。",
+        "summary": "长鑫官宣LPDDR6内存量产，技术突破。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468507",
-        "publishedAt": "2026-08-30T10:19:21Z"
+        "publishedAt": "2026-08-30T12:19:23Z"
       },
       {
-        "id": "0f053f4848dd7dea3cf1",
-        "title": "【早报】沃什发表鹰派言论；现货黄金跌近3%；芯片股集体走弱；长鑫科技、源杰科技、阳光电源等披露半年报",
-        "summary": "沃什鹰派言论影响市场，黄金跌近3%，芯片股走弱。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468431",
-        "publishedAt": "2026-08-30T10:19:21Z"
+        "id": "05f88ecef6e5b3f8e3f3",
+        "title": "中央纪委副书记孙新阳当选新职",
+        "summary": "中央纪委副书记孙新阳当选新职。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7679754993324048403/",
+        "publishedAt": "2026-08-30T12:19:23Z"
       },
       {
-        "id": "630d592441e36f4a92d4",
-        "title": "国家自然科学基金委员会通报31起科研不端行为，多笔已拨资金被追回",
-        "summary": "国家自然科学基金委通报31起科研不端行为，追回已拨资金。",
+        "id": "e015dc66a86443f4d73a",
+        "title": "一博主在街头清理地钉被劝阻，河南新乡通报",
+        "summary": "河南新乡通报博主清理地钉被劝阻事件。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33974903",
-        "publishedAt": "2026-08-30T10:19:21Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_33973643",
+        "publishedAt": "2026-08-30T12:19:23Z"
       },
       {
-        "id": "c54ba22c6e6e88094338",
-        "title": "创纪录！5家券商半年净利破百亿，业绩排名深度洗牌",
-        "summary": "5家券商半年净利破百亿，业绩排名深度洗牌创纪录。",
+        "id": "0f2d14da6f9fac08d519",
+        "title": "周末要闻汇总：个人住房贷款期限由最长30年延长至最长40年，长鑫LPDDR6内存芯片正式量产",
+        "summary": "个人住房贷款期限延至40年，长鑫内存量产。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468449",
-        "publishedAt": "2026-08-30T10:19:21Z"
+        "url": "https://www.cls.cn/detail/2468733",
+        "publishedAt": "2026-08-30T12:19:23Z"
       },
       {
-        "id": "e588ea52da94b650290c",
-        "title": "丽江通报“不参加付费项目被导游威胁”：吊销其导游证并拘留",
-        "summary": "丽江通报导游威胁游客事件，吊销导游证并拘留。",
+        "id": "8289c5ba979540aa62f8",
+        "title": "西藏吉隆泥石流搜救尚未再发现幸存者",
+        "summary": "西藏吉隆泥石流搜救未再发现幸存者。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33973790",
-        "publishedAt": "2026-08-30T10:19:21Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_33974652",
+        "publishedAt": "2026-08-30T12:19:23Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻聚焦尼泊尔洪灾、冰岛公投、美委石油协议及俄乌冲突，同时涉及欧洲能源危机和美国政治风波。",
+    "overview": "国际方面，塞浦路斯海域发生沉船事故，尼泊尔洪灾造成大量伤亡，美国与委内瑞拉石油协议引发争议，冰岛公投拒绝欧盟谈判，瑞士发生枪击事件，NASA新型望远镜发射成功。",
     "items": [
       {
-        "id": "8cd8882d41fd2de162c5",
-        "title": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
-        "summary": "中尼边境冰川崩塌引发洪灾，致数千人失踪，救援持续。",
+        "id": "b564e442dcd6425ac1e6",
+        "title": "Ferry carrying 260 people capsizes off northern Cyprus coast",
+        "summary": "载260人渡轮在塞浦路斯北部沉没，救援中。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/30/nepal-china-flood-disaster-whats-the-latest-toll-how-many-are-missing?traffic_source=rss",
-        "publishedAt": "2026-08-30T01:24:46Z"
+        "url": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
+        "publishedAt": "2026-08-30T03:52:12Z"
       },
       {
-        "id": "60e9788d53b376c14010",
-        "title": "Iceland appears to have rejected EU accession talks in referendum, reports say",
-        "summary": "冰岛公投否决重启加入欧盟谈判，结果接近但反对派领先。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-        "publishedAt": "2026-08-30T00:51:05Z"
+        "id": "d44449d8f35b1897b781",
+        "title": "Photos: Nepal issues alerts as region’s flash flood death toll reaches 750",
+        "summary": "尼泊尔洪灾死亡升至750人，超3000人失踪。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss",
+        "publishedAt": "2026-08-30T01:51:17Z"
       },
       {
-        "id": "7c46d6a1497e548b95b6",
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "summary": "特朗普宣布达成协议，美国控制委内瑞拉650亿桶石油。",
+        "id": "fab0a2793dd0d0b0496c",
+        "title": "The Trump administration claims America will soon get a majority of its oil from Venezuela with new deal",
+        "summary": "特朗普称美国将获委内瑞拉石油多数份额，引质疑。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/08/30/nx-s1-5948708/the-trump-administration-claims-america-will-soon-get-a-majority-of-its-oil-from-venezuela-with-new-deal",
+        "publishedAt": "2026-08-30T04:02:27Z"
+      },
+      {
+        "id": "742ca830a85a83894eef",
+        "title": "Iceland votes against restarting talks on joining EU",
+        "summary": "冰岛公投拒绝重启欧盟入盟谈判。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-29T20:01:02Z"
+        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T02:49:11Z"
       },
       {
-        "id": "636c29d8deb4dc291558",
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "summary": "基辅武器库遭袭，至少37人死亡，数百人疏散。",
+        "id": "e45f88f79747836340cc",
+        "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+        "summary": "瑞士狂欢节枪击致1死5伤，嫌犯在逃。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-29T12:13:16Z"
+        "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T03:25:11Z"
       },
       {
-        "id": "c4aee720ea4739b5fed8",
-        "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-        "summary": "欧盟天然气库存降至13年最低，引发冬季供应恐慌。",
+        "id": "71715a2217d4a1146dc5",
+        "title": "Nasa space telescope launches after surviving Trump budget cuts",
+        "summary": "NASA罗曼望远镜发射，曾遭特朗普削减预算。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
-        "publishedAt": "2026-08-28T21:00:19Z"
+        "url": "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman",
+        "publishedAt": "2026-08-30T04:05:31Z"
       },
       {
-        "id": "a34e4148fc3bc015501b",
-        "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
-        "summary": "加州大苏尔野火面积一夜翻倍，居民被迫疏散。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
-        "publishedAt": "2026-08-29T15:51:26Z"
+        "id": "a15ad081503b8c6e93a4",
+        "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
+        "summary": "默克尔呼吁选民捍卫民主，应对极右翼。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-30T04:06:00Z"
       },
       {
-        "id": "c8eee923626ab982f915",
-        "title": "AA could face £5bn takeover move by German insurer Allianz, reports claim",
-        "summary": "德国安联拟50亿英镑收购英国AA公司，谈判进行中。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/aug/30/aa-takeover-german-insurer-allianz",
-        "publishedAt": "2026-08-30T01:26:18Z"
-      },
-      {
-        "id": "b2e1bb04faa84bc609d7",
-        "title": "Documents leaked by Trump official to bolster a conspiracy show ‘absolutely nothing’",
-        "summary": "Inside the US state department, critics are still attacking a shuttered office e",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/aug/30/state-department-global-engagement-center-leaked-documents-foreign-propaganda",
-        "publishedAt": "2026-08-30T02:00:53Z"
+        "id": "13cc1f68e109b741e048",
+        "title": "Boat carrying some 270 people capsizes off northern Cyprus - reports",
+        "summary": "The local mayor says 159 passengers have been reached so far, with a rescue oper",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T04:15:50Z"
       }
     ]
   }
