@@ -1,84 +1,108 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T06:19:39Z",
+  "generatedAt": "2026-08-30T08:19:26Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，西藏泥石流灾害致重大伤亡，救援持续；长鑫存储起诉美国国防部引发关注；宏观经济与产业动态活跃，包括AI利润格局、券商业绩等。",
+    "overview": "国内方面，西藏吉隆泥石流灾害救援持续，长鑫存储起诉美国国防部，AI产业利润分配引关注。",
     "items": [
       {
-        "id": "c642d531a819ea0cafd9",
-        "title": "西藏泥石流致16人遇难546人失联",
-        "summary": "西藏泥石流已致16人遇难，546人失联，救援工作持续进行。",
+        "id": "7a88e7a4b131fa8c28e5",
+        "title": "吉隆口岸大楼只剩钢筋骨架",
+        "summary": "西藏吉隆口岸建筑被泥石流损毁，仅剩钢筋骨架，救援正在紧张进行。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679611609488297522/",
-        "publishedAt": "2026-08-30T06:19:39Z"
+        "url": "https://www.toutiao.com/trending/7679072449947123731/",
+        "publishedAt": "2026-08-30T08:19:26Z"
       },
       {
         "id": "2a49eb12fa794f58e083",
         "title": "西藏泥石流灾害原因现已查明",
-        "summary": "西藏泥石流灾害原因已查明，相关详情公布。",
+        "summary": "西藏泥石流灾害原因已查明，相关情况在新闻发布会上公布。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8E%9F%E5%9B%A0%E7%8E%B0%E5%B7%B2%E6%9F%A5%E6%98%8E",
-        "publishedAt": "2026-08-30T06:19:39Z"
-      },
-      {
-        "id": "4c2f1bda4ee0aaaaf781",
-        "title": "长鑫存储起诉美国国防部",
-        "summary": "长鑫存储起诉美国国防部，引发关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33973280",
-        "publishedAt": "2026-08-30T06:19:39Z"
+        "publishedAt": "2026-08-30T08:19:26Z"
       },
       {
         "id": "1351c627a063b3738a73",
         "title": "AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润",
-        "summary": "AI利润格局分析：模型公司收入中部分流向云厂，行业盈利模式受关注。",
+        "summary": "AI利润格局分析：模型公司收入大部分流向云厂，营业利润占比10-20美元。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780632",
-        "publishedAt": "2026-08-30T06:19:39Z"
+        "publishedAt": "2026-08-30T08:19:26Z"
       },
       {
-        "id": "0f053f4848dd7dea3cf1",
-        "title": "【早报】沃什发表鹰派言论；现货黄金跌近3%；芯片股集体走弱；长鑫科技、源杰科技、阳光电源等披露半年报",
-        "summary": "早报：沃什鹰派言论，黄金跌近3%，芯片股走弱，多家公司披露半年报。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468431",
-        "publishedAt": "2026-08-30T06:19:39Z"
+        "id": "4c2f1bda4ee0aaaaf781",
+        "title": "长鑫存储起诉美国国防部",
+        "summary": "长鑫存储起诉美国国防部，指控其列入黑名单，要求撤销制裁。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33973280",
+        "publishedAt": "2026-08-30T08:19:26Z"
       },
       {
-        "id": "c54ba22c6e6e88094338",
-        "title": "创纪录！5家券商半年净利破百亿，业绩排名深度洗牌",
-        "summary": "5家券商半年净利破百亿，业绩排名深度洗牌，行业格局变化显著。",
+        "id": "dab7e65f85914197370a",
+        "title": "长鑫存储起诉五角大楼，将赫格塞思列为被告",
+        "summary": "长鑫存储起诉五角大楼，将赫格塞思列为被告，寻求法律救济。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468449",
-        "publishedAt": "2026-08-30T06:19:39Z"
+        "url": "https://www.cls.cn/detail/2468546",
+        "publishedAt": "2026-08-30T08:19:26Z"
       },
       {
         "id": "c5ad289d4bd0924c1518",
         "title": "加拿大，开始卡美国脖子了",
-        "summary": "加拿大开始卡美国脖子，涉及贸易或资源问题，引发关注。",
+        "summary": "加拿大在能源领域对美国采取限制措施，可能影响双边贸易关系。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8w0Hagm7Yim",
-        "publishedAt": "2026-08-30T06:19:39Z"
+        "publishedAt": "2026-08-30T08:19:26Z"
       },
       {
-        "id": "f74e83f8c5da6971ca24",
-        "title": "国家动博馆强烈谴责父亲带娃玩标本",
-        "summary": "国家动博馆强烈谴责父亲带娃玩标本事件，呼吁文明参观。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679662125094030899/",
-        "publishedAt": "2026-08-30T06:19:39Z"
+        "id": "17340ccc940018484284",
+        "title": "言短意长｜县级政务新媒体被管理员“拿捏”5年，暴露了什么问题？",
+        "summary": "县级政务新媒体被管理员长期操控，暴露基层管理漏洞与治理问题。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33973247",
+        "publishedAt": "2026-08-30T08:19:26Z"
+      },
+      {
+        "id": "0f053f4848dd7dea3cf1",
+        "title": "【早报】沃什发表鹰派言论；现货黄金跌近3%；芯片股集体走弱；长鑫科技、源杰科技、阳光电源等披露半年报",
+        "summary": "沃什发表鹰派言论，现货黄金跌近3%，芯片股集体走弱，多家企业披露半年报。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468431",
+        "publishedAt": "2026-08-30T08:19:26Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，尼泊尔与西藏洪灾失踪人数攀升，救援困难；美国与委内瑞拉石油协议引争议；冰岛欧盟公投结果胶着；瑞士枪击事件等。",
+    "overview": "国际方面，尼泊尔洪灾失踪人数上升，瑞士发生枪击事件，冰岛公投拒绝欧盟入盟谈判。",
     "items": [
+      {
+        "id": "eef86c73a0df2b77283c",
+        "title": "Manhunt after woman, 22, killed and five injured in Swiss shooting",
+        "summary": "瑞士苏黎世夜间狂欢节发生枪击，一名女性死亡，五人受伤，警方搜捕嫌疑人。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T00:17:11Z"
+      },
+      {
+        "id": "43ef6d1e7ffcf56735d8",
+        "title": "Iceland on track to reject EU referendum as counting nears end",
+        "summary": "冰岛公投初步结果显示拒绝重启欧盟入盟谈判，计票接近尾声。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T00:08:30Z"
+      },
+      {
+        "id": "06f90d720a2ce3ee6c12",
+        "title": "Iceland rejects EU membership plan in referendum",
+        "summary": "冰岛公投正式否决欧盟成员国资格计划，政府将尊重结果。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
+        "publishedAt": "2026-08-29T23:57:18Z"
+      },
       {
         "id": "6ed32168df97812218ac",
         "title": "Number of missing in Nepal and Tibet rises to 3,000 as bad weather hampers search",
-        "summary": "尼泊尔和西藏洪灾失踪人数升至3000，恶劣天气阻碍搜救。",
+        "summary": "尼泊尔和西藏洪灾失踪人数升至3000，恶劣天气阻碍搜救工作。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
         "publishedAt": "2026-08-29T17:25:41Z"
@@ -86,26 +110,10 @@
       {
         "id": "7c46d6a1497e548b95b6",
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "summary": "特朗普称美委协议具历史性，美国将控制委内瑞拉650亿桶石油。",
+        "summary": "特朗普宣布与委内瑞拉达成协议，美国控制650亿桶石油，引发争议。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-29T20:01:02Z"
-      },
-      {
-        "id": "64b959e611947a22e51c",
-        "title": "Iceland EU referendum on a knife edge as counting continues",
-        "summary": "冰岛欧盟公投结果难分伯仲，计票持续，前景不明。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-29T19:57:01Z"
-      },
-      {
-        "id": "7c328262a27a1126072c",
-        "title": "Swiss police report 'several victims' in Aarau shooting",
-        "summary": "瑞士阿劳发生枪击事件，警方称有数名受害者。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/swiss-police-report-several-victims-in-aarau-shooting/a-78561106?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-08-29T22:12:00Z"
       },
       {
         "id": "636c29d8deb4dc291558",
@@ -118,23 +126,15 @@
       {
         "id": "c4aee720ea4739b5fed8",
         "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
-        "summary": "欧盟天然气库存降至13年最低，引发冬季供应担忧。",
+        "summary": "欧盟天然气库存降至13年最低，引发冬季供应恐慌。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
         "publishedAt": "2026-08-28T21:00:19Z"
       },
       {
-        "id": "aa084947ee21144b3e53",
-        "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
-        "summary": "伊朗战争打击海湾能源，油价后续影响受关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-        "publishedAt": "2026-08-29T21:09:11Z"
-      },
-      {
         "id": "a34e4148fc3bc015501b",
         "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
-        "summary": "加州大苏尔地区野火面积一夜翻倍，居民被迫疏散。",
+        "summary": "加州大苏尔野火面积一夜翻倍，居民被迫紧急疏散。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
         "publishedAt": "2026-08-29T15:51:26Z"
