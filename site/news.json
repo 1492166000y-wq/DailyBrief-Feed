@@ -1,135 +1,127 @@
 {
   "version": 1,
   "date": "2026-09-01",
-  "generatedAt": "2026-08-31T20:19:25Z",
+  "generatedAt": "2026-08-31T22:19:13Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内时政、经济及科技重大新闻，涵盖国常会、商务部政策、反腐调查及市场动态。",
+    "overview": "国内新闻聚焦宏观经济、产业科技及国际冲突影响，涵盖消费刺激、AI政策、华为业绩及美伊局势等。",
     "items": [
-      {
-        "id": "80bf7d016e85d4f20499",
-        "title": "国常会：研究促进招商引资高质量发展有关工作",
-        "summary": "国常会研究促进招商引资高质量发展，部署相关工作。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2469938",
-        "publishedAt": "2026-08-31T20:19:25Z"
-      },
       {
         "id": "d76d206740e4978d3c94",
         "title": "商务部等7部门：到2030年 社会消费品零售总额达60万亿元左右",
-        "summary": "商务部等7部门提出到2030年社会消费品零售总额达60万亿元目标。",
+        "summary": "商务部等7部门提出到2030年社会消费品零售总额达60万亿元左右，推动消费扩容升级。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2469641",
-        "publishedAt": "2026-08-31T20:19:25Z"
-      },
-      {
-        "id": "fd9effaf3df9e44a5073",
-        "title": "江苏省委组织部部长刘建洋被查",
-        "summary": "江苏省委组织部部长刘建洋涉嫌严重违纪违法被查。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680163695116795950/",
-        "publishedAt": "2026-08-31T20:19:25Z"
+        "publishedAt": "2026-08-31T22:19:13Z"
       },
       {
         "id": "82a5ff202ccc85579de2",
         "title": "AI应用迎利好！工信部拟开展专项行动 服务采购、项目出海多维度获支持",
-        "summary": "工信部拟开展专项行动，支持AI应用服务采购和项目出海。",
+        "summary": "工信部拟开展专项行动，从服务采购、项目出海等多维度支持AI应用发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2469551",
-        "publishedAt": "2026-08-31T20:19:25Z"
+        "publishedAt": "2026-08-31T22:19:13Z"
       },
       {
         "id": "6e8ddc68a243889db79a",
         "title": "华为上半年营收同比增10%至4678亿，归母净利234亿，研发投入超1200亿｜财报见闻",
-        "summary": "华为上半年营收4678亿元，研发投入超1200亿元，净利润234亿元。",
+        "summary": "华为上半年营收同比增10%至4678亿元，净利润234亿元，研发投入超1200亿元。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780724",
-        "publishedAt": "2026-08-31T20:19:25Z"
+        "publishedAt": "2026-08-31T22:19:13Z"
+      },
+      {
+        "id": "80bf7d016e85d4f20499",
+        "title": "国常会：研究促进招商引资高质量发展有关工作",
+        "summary": "国常会研究促进招商引资高质量发展有关工作，优化投资环境。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2469938",
+        "publishedAt": "2026-08-31T22:19:13Z"
       },
       {
         "id": "c69657452614eafbf402",
         "title": "中国羽毛球协会副主席夏煊泽被查",
-        "summary": "中国羽毛球协会副主席夏煊泽接受纪律审查和监察调查。",
+        "summary": "中国羽毛球协会副主席夏煊泽涉嫌严重违纪违法，接受审查调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33978395",
-        "publishedAt": "2026-08-31T20:19:25Z"
+        "publishedAt": "2026-08-31T22:19:13Z"
+      },
+      {
+        "id": "d60f64404e7e6822a6a3",
+        "title": "“三桶油”上半年净赚2154亿元，中国石油、中国海油盈利刷新纪录",
+        "summary": "三桶油上半年净赚2154亿元，中国石油、中国海油盈利刷新纪录。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33976911",
+        "publishedAt": "2026-08-31T22:19:13Z"
       },
       {
         "id": "e4eb1849844107e8b0c3",
         "title": "美财长称世界不允许中国有1.2万亿美元贸易顺差，外交部回应",
-        "summary": "美财长称世界不允许中国1.2万亿美元顺差，外交部回应。",
+        "summary": "美财长称世界不允许中国有1.2万亿美元顺差，外交部回应驳斥。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8w2XjWBEwFk",
-        "publishedAt": "2026-08-31T20:19:25Z"
+        "publishedAt": "2026-08-31T22:19:13Z"
       },
       {
-        "id": "1c5c576c4d89e186f003",
-        "title": "中国羽毛球协会原副主席兼秘书长王伟接受监察调查",
-        "summary": "中国羽毛球协会原副主席兼秘书长王伟接受监察调查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33978423",
-        "publishedAt": "2026-08-31T20:19:25Z"
+        "id": "b6d95e020535c2e68ea3",
+        "title": "【焦点复盘】沪指日线5连阳收复年线，AI应用端掀批量涨停，超节点概念午后大放异彩",
+        "summary": "沪指日线五连阳收复年线，AI应用端涨停潮，超节点概念午后走强。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2469672",
+        "publishedAt": "2026-08-31T22:19:13Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括美伊冲突、尼泊尔洪灾、国际政治变动及重大事件。",
+    "overview": "国际新闻重点关注美伊冲突、尼泊尔洪水、大国关系及科技监管动态。",
     "items": [
       {
-        "id": "13a9030a6a36a9254ee6",
-        "title": "Trump threatens further action as US and Iran exchange fire in new flare-up",
-        "summary": "美伊时隔一个月再度交火，互射导弹和无人机，局势升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire",
-        "publishedAt": "2026-08-31T09:13:55Z"
-      },
-      {
-        "id": "d4fa32cf846b1866e241",
-        "title": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened",
-        "summary": "特朗普威胁“狠狠打击”伊朗，此前美军空袭伊朗拉腊克岛。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
-        "publishedAt": "2026-08-31T09:17:13Z"
-      },
-      {
-        "id": "803356b7749fe40ba7c8",
-        "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-        "summary": "尼泊尔泥石流死亡人数升至939人，超4000人失踪。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-31T09:30:47Z"
-      },
-      {
-        "id": "26aaf10a9b07b89d96c3",
-        "title": "Border area between Nepal and China where 33 Australians are missing still almost entirely cut off",
-        "summary": "中尼边境吉隆口岸遭洪水破坏，数十名澳大利亚人失踪。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-china-border-area-gyirong-port-almost-entirely-cut-off-missing-australians-ntwnfb",
-        "publishedAt": "2026-08-31T07:00:28Z"
-      },
-      {
-        "id": "3d72b8164baa3510c7a8",
-        "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
-        "summary": "美国财长贝森特警告伊朗经济可能在数月内崩溃。",
+        "id": "5208124f382565338339",
+        "title": "War on Iran: US bombs Iran",
+        "summary": "美军空袭伊朗拉腊克岛，伊朗击落美军无人机，美伊紧张局势升级。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss",
-        "publishedAt": "2026-08-31T09:04:24Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss",
+        "publishedAt": "2026-08-31T09:22:32Z"
       },
       {
-        "id": "720812320851d729b58d",
-        "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-        "summary": "梅西宣布从阿根廷国家队退役，结束国际比赛生涯。",
+        "id": "ed49880ebc7c37bccf2e",
+        "title": "Some of the victims of the Nepal floods were pilgrims on a sacred journey",
+        "summary": "尼泊尔洪水致大量朝圣者遇难，救援持续进行，遇难人数已超900。",
         "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-        "publishedAt": "2026-08-31T08:37:05Z"
+        "url": "https://www.npr.org/2026/08/31/nx-s1-5950037/some-of-the-victims-of-the-nepal-floods-were-pilgrims-on-a-sacred-journey",
+        "publishedAt": "2026-08-31T13:57:26Z"
+      },
+      {
+        "id": "5b8eb95d3eee16e120f6",
+        "title": "Putin and Xi affirm strategic alliance amid ‘unpredictable’ world",
+        "summary": "普京与习近平在上合峰会会晤，强调战略协作应对不确定世界。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
+        "publishedAt": "2026-08-31T13:14:47Z"
       },
       {
         "id": "c3db7647bef0fd4bdc01",
         "title": "EU puts ChatGPT, Reddit and Roblox under stricter rules",
-        "summary": "欧盟将ChatGPT、Reddit和Roblox纳入更严格的数字服务监管。",
+        "summary": "欧盟将ChatGPT、Reddit和Roblox纳入更严格的数字服务监管规则。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-08-31T05:36:00Z"
+      },
+      {
+        "id": "228d2f900cd127ca273a",
+        "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
+        "summary": "AI工具可在两秒内识别心脏疾病，或加速高危患者治疗。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+        "publishedAt": "2026-08-31T08:00:29Z"
+      },
+      {
+        "id": "6a1df9e74485def1b0a9",
+        "title": "US and Iran trade strikes for first time in weeks",
+        "summary": "美伊数周来首次交火，美军打击霍尔木兹海峡附近目标，致两人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T05:47:30Z"
       },
       {
         "id": "983a234bbc98d23a238c",
@@ -138,6 +130,14 @@
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-31T07:00:11Z"
+      },
+      {
+        "id": "d2dcc3e97884ef7bfe16",
+        "title": "Poland opens terror probe into fire at drone factory",
+        "summary": "波兰对无人机工厂火灾展开恐怖主义调查，疑与外国情报有关。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+        "publishedAt": "2026-08-31T13:24:15Z"
       }
     ]
   }
