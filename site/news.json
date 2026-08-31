@@ -1,140 +1,140 @@
 {
   "version": 1,
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T02:19:16Z",
+  "generatedAt": "2026-08-31T04:19:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦房地产政策、美伊冲突、西藏泥石流救援、经济数据与券商观点，及个别社会事件。",
+    "overview": "国内要闻聚焦经济数据、美伊冲突、市场监管及重大突发事件。",
     "items": [
       {
         "id": "bd9c469cf8c03a5cd955",
         "title": "【早报】房地产行业重磅政策密集推出；长鑫LPDDR6内存量产；美伊局势再升级，国际原油迅速拉升",
-        "summary": "房地产重磅政策密集推出，长鑫LPDDR6内存量产，美伊局势升级推升油价。",
+        "summary": "早报涵盖房地产政策、长鑫LPDDR6量产、美伊局势升级推高油价。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2468988",
-        "publishedAt": "2026-08-31T02:19:16Z"
+        "publishedAt": "2026-08-31T04:19:20Z"
       },
       {
-        "id": "af880c2a2d9e7e37c18b",
-        "title": "火速落地！建设银行开放存量个人房贷延期申请，可延不超原贷款期限一半，合计不超40年",
-        "summary": "建设银行开放存量个人房贷延期申请，最长可延至40年，政策加速落地。",
+        "id": "7424640ccdcc523a0a71",
+        "title": "国家统计局：8月制造业PMI为49.8% 较上月回升",
+        "summary": "国家统计局公布8月制造业PMI为49.8%，较上月回升，经济景气度略有改善。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468738",
-        "publishedAt": "2026-08-31T02:19:16Z"
+        "url": "https://www.cls.cn/detail/2469056",
+        "publishedAt": "2026-08-31T04:19:20Z"
       },
       {
-        "id": "f2a7aec4897b235ee0c1",
-        "title": "美军突然发动袭击，伊朗回应",
-        "summary": "美军突然袭击伊朗，伊朗回应，中东局势再度紧张。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w0UKBPCmNr",
-        "publishedAt": "2026-08-31T02:19:16Z"
+        "id": "235a1ecfa41ce3fbb121",
+        "title": "八大车企上半年业绩盘点：国内市场盈利承压，海外市场成突围关键",
+        "summary": "八大车企中报显示国内盈利承压，海外成突围关键，行业格局生变。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33975857",
+        "publishedAt": "2026-08-31T04:19:20Z"
       },
       {
-        "id": "7b806bd496dab4cc0782",
-        "title": "西藏吉隆泥石流灾害新闻发布会实录",
-        "summary": "西藏吉隆泥石流灾害新闻发布会实录，救援工作持续进行。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9E%E5%BD%95%23",
-        "publishedAt": "2026-08-31T02:19:16Z"
-      },
-      {
-        "id": "6857daa865b3bf737589",
-        "title": "本周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报",
-        "summary": "本周关注中国PMI、美国非农、G20会议及多家科技公司财报。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780528",
-        "publishedAt": "2026-08-31T02:19:16Z"
-      },
-      {
-        "id": "0a384efbdf5d1c9948fb",
-        "title": "尼泊尔泥石流联系到的中方人员已转移",
-        "summary": "尼泊尔泥石流涉及的中方人员已安全转移，后续处置妥善。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7678956989552082986/",
-        "publishedAt": "2026-08-31T02:19:16Z"
+        "id": "b0727d5a342456ac6e11",
+        "title": "局势升级！美军袭击伊朗拉腊克岛 伊朗向美军基地发射导弹",
+        "summary": "美军袭击伊朗拉腊克岛，伊朗反击美军基地，中东局势再度紧张。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2469012",
+        "publishedAt": "2026-08-31T04:19:20Z"
       },
       {
         "id": "9ba518c4a3249258ba84",
         "title": "厦门通报“一公司使用敌敌畏为餐饮门店消杀问题”：6人被刑拘",
-        "summary": "厦门通报公司使用敌敌畏消杀致6人被刑拘，食品安全问题引关注。",
+        "summary": "厦门通报餐饮企业使用敌敌畏消杀，6人被刑拘，食品安全引发关注。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33975502",
-        "publishedAt": "2026-08-31T02:19:16Z"
+        "publishedAt": "2026-08-31T04:19:20Z"
       },
       {
-        "id": "62019ce0ca8868b7bf8f",
-        "title": "市场反弹可能持续到9月下旬？十大券商策略来了",
-        "summary": "十大券商策略称市场反弹或持续至9月下旬，关注结构性机会。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468879",
-        "publishedAt": "2026-08-31T02:19:16Z"
+        "id": "630d592441e36f4a92d4",
+        "title": "国家自然科学基金委员会通报31起科研不端行为，多笔已拨资金被追回",
+        "summary": "国家自然科学基金委通报31起科研不端行为，多名涉事者被追回资金。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33974903",
+        "publishedAt": "2026-08-31T04:19:20Z"
+      },
+      {
+        "id": "2eba6b136e9ac061b8c4",
+        "title": "河南5人吃生淡水鱼片全部确诊肝吸虫病，中疾控发布调查报告",
+        "summary": "河南5人食用生淡水鱼片确诊肝吸虫病，疾控发布提醒注意饮食安全。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33975119",
+        "publishedAt": "2026-08-31T04:19:20Z"
+      },
+      {
+        "id": "0a384efbdf5d1c9948fb",
+        "title": "尼泊尔泥石流联系到的中方人员已转移",
+        "summary": "尼泊尔泥石流中方失联人员已转移，救援工作持续进行。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7678956989552082986/",
+        "publishedAt": "2026-08-31T04:19:20Z"
       }
     ]
   },
   "global": {
-    "overview": "全球焦点包括美伊军事冲突、尼泊尔洪灾、美国大峡谷山洪，及国际政治经济动态。",
+    "overview": "国际关注美伊冲突升级、尼泊尔洪水灾难、国际政治及科技进展。",
     "items": [
       {
-        "id": "dee7e1556c2a2ce24d47",
-        "title": "Iran war: US military strikes Iran's Larak Island",
-        "summary": "美军打击伊朗拉腊克岛，伊朗革命卫队誓言报复，局势升级。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-08-30T16:20:00Z"
-      },
-      {
-        "id": "0048b46550dc63b4bbd6",
-        "title": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
-        "summary": "伊朗革命卫队袭击美军在约旦基地，美伊冲突加剧。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-        "publishedAt": "2026-08-30T16:00:00Z"
+        "id": "d2055145ba996d2a3054",
+        "title": "US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan",
+        "summary": "美国打击霍尔木兹海峡伊朗目标，伊朗反击美军约旦基地，局势升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
+        "publishedAt": "2026-08-30T19:31:42Z"
       },
       {
         "id": "1c6446956aaba23b2562",
         "title": "Nepal-Tibet deaths from flash flooding rise amid race to free workers in tunnel",
-        "summary": "尼泊尔-西藏洪灾死亡人数升至804人，超3000人失踪，救援困难。",
+        "summary": "尼泊尔西藏洪灾致804人死亡，超3000人失踪，隧道工人救援仍困难。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors",
         "publishedAt": "2026-08-30T10:34:21Z"
       },
       {
-        "id": "fd26486cbbafedde8769",
-        "title": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
-        "summary": "美国大峡谷山洪致数十人疏散，约15人失踪，救援进行中。",
+        "id": "80b8f51f9728c81d690c",
+        "title": "Flash flooding in Grand Canyon leaves more than 20 people missing",
+        "summary": "美国大峡谷突发山洪，超20人失踪，数十人撤离，救援持续。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss",
-        "publishedAt": "2026-08-30T16:31:51Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss",
+        "publishedAt": "2026-08-30T16:19:04Z"
       },
       {
-        "id": "8e9d071dc61306b0415a",
-        "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
-        "summary": "尼泊尔洪灾致数千人失踪，家属急切等待消息，救援面临挑战。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
-        "publishedAt": "2026-08-30T15:32:39Z"
+        "id": "b01963e6af25ab213a28",
+        "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+        "summary": "北塞浦路斯渡轮倾覆，8人死亡，18人失踪，搜救正在进行。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T19:56:15Z"
+      },
+      {
+        "id": "e0a2e4d5175e6d9bd09a",
+        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "summary": "欧盟开始执行人工智能法案，已向模型提供商发出首批信息请求。",
+        "source": "Hacker News",
+        "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+        "publishedAt": "2026-08-30T19:45:57Z"
       },
       {
         "id": "81ee7dc112e6d4934cd8",
         "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
-        "summary": "特朗普称将用委内瑞拉石油补充战略储备，引发争议。",
+        "summary": "特朗普称将用委内瑞拉石油补充战略石油储备，引发广泛争议。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
         "publishedAt": "2026-08-30T07:50:45Z"
       },
       {
-        "id": "08848920c6fc803cd0a2",
-        "title": "First images of Maduro in US custody released since his abduction",
-        "summary": "马杜罗在美羁押首张照片公布，委内瑞拉局势持续受关注。",
+        "id": "5d295e9178e27496e2aa",
+        "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+        "summary": "世界中央厨房创始人再次呼吁独立调查以色列袭击致其员工死亡事件。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/first-images-of-maduro-in-us-custody-released-since-his-abduction?traffic_source=rss",
-        "publishedAt": "2026-08-30T10:28:01Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+        "publishedAt": "2026-08-30T12:50:04Z"
       },
       {
         "id": "53a5a01ebdc5be38f65f",
         "title": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
-        "summary": "尼日尔首都发生疑似政变，数十名士兵被捕，局势紧张。",
+        "summary": "尼日尔首都发生未遂政变，数十名士兵被捕，局势紧张。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
         "publishedAt": "2026-08-30T05:03:15Z"
