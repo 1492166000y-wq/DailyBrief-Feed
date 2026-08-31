@@ -1,92 +1,100 @@
 {
   "version": 1,
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T04:19:20Z",
+  "generatedAt": "2026-08-31T06:19:23Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦经济数据、美伊冲突、市场监管及重大突发事件。",
+    "overview": "国内聚焦经济政策、自然灾害与美伊冲突，制造业PMI回升、房地产信贷新规、尼泊尔泥石流及美国伊朗交火引发关注。",
     "items": [
-      {
-        "id": "bd9c469cf8c03a5cd955",
-        "title": "【早报】房地产行业重磅政策密集推出；长鑫LPDDR6内存量产；美伊局势再升级，国际原油迅速拉升",
-        "summary": "早报涵盖房地产政策、长鑫LPDDR6量产、美伊局势升级推高油价。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2468988",
-        "publishedAt": "2026-08-31T04:19:20Z"
-      },
       {
         "id": "7424640ccdcc523a0a71",
         "title": "国家统计局：8月制造业PMI为49.8% 较上月回升",
-        "summary": "国家统计局公布8月制造业PMI为49.8%，较上月回升，经济景气度略有改善。",
+        "summary": "国家统计局数据显示，8月制造业PMI为49.8%，较上月回升，显示经济景气度略有改善。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2469056",
-        "publishedAt": "2026-08-31T04:19:20Z"
+        "publishedAt": "2026-08-31T06:19:23Z"
       },
       {
-        "id": "235a1ecfa41ce3fbb121",
-        "title": "八大车企上半年业绩盘点：国内市场盈利承压，海外市场成突围关键",
-        "summary": "八大车企中报显示国内盈利承压，海外成突围关键，行业格局生变。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33975857",
-        "publishedAt": "2026-08-31T04:19:20Z"
+        "id": "04d973ef28897d25800a",
+        "title": "房地产信贷新规后首个交易日银行板块走强，地产信贷逻辑将迎来根本改变",
+        "summary": "房地产信贷新规后首交易日，银行板块走强，地产信贷逻辑或迎根本改变。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2469306",
+        "publishedAt": "2026-08-31T06:19:23Z"
+      },
+      {
+        "id": "c826c0366f960e871c98",
+        "title": "尼泊尔泥石流已致903死4247失联",
+        "summary": "尼泊尔泥石流已致903人遇难、4247人失联，救援持续进行。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7679653696057212971/",
+        "publishedAt": "2026-08-31T06:19:23Z"
       },
       {
         "id": "b0727d5a342456ac6e11",
         "title": "局势升级！美军袭击伊朗拉腊克岛 伊朗向美军基地发射导弹",
-        "summary": "美军袭击伊朗拉腊克岛，伊朗反击美军基地，中东局势再度紧张。",
+        "summary": "美军袭击伊朗拉腊克岛，伊朗向美军基地发射导弹，局势升级。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2469012",
-        "publishedAt": "2026-08-31T04:19:20Z"
+        "publishedAt": "2026-08-31T06:19:23Z"
       },
       {
         "id": "9ba518c4a3249258ba84",
         "title": "厦门通报“一公司使用敌敌畏为餐饮门店消杀问题”：6人被刑拘",
-        "summary": "厦门通报餐饮企业使用敌敌畏消杀，6人被刑拘，食品安全引发关注。",
+        "summary": "厦门通报公司用敌敌畏为餐饮门店消杀，6人被刑拘，食品安全引关注。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33975502",
-        "publishedAt": "2026-08-31T04:19:20Z"
+        "publishedAt": "2026-08-31T06:19:23Z"
       },
       {
-        "id": "630d592441e36f4a92d4",
-        "title": "国家自然科学基金委员会通报31起科研不端行为，多笔已拨资金被追回",
-        "summary": "国家自然科学基金委通报31起科研不端行为，多名涉事者被追回资金。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33974903",
-        "publishedAt": "2026-08-31T04:19:20Z"
+        "id": "bd9c469cf8c03a5cd955",
+        "title": "【早报】房地产行业重磅政策密集推出；长鑫LPDDR6内存量产；美伊局势再升级，国际原油迅速拉升",
+        "summary": "房地产政策密集推出，长鑫LPDDR6内存量产，美伊局势升级推高油价。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2468988",
+        "publishedAt": "2026-08-31T06:19:23Z"
       },
       {
-        "id": "2eba6b136e9ac061b8c4",
-        "title": "河南5人吃生淡水鱼片全部确诊肝吸虫病，中疾控发布调查报告",
-        "summary": "河南5人食用生淡水鱼片确诊肝吸虫病，疾控发布提醒注意饮食安全。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33975119",
-        "publishedAt": "2026-08-31T04:19:20Z"
+        "id": "8490a5818895e99dbb8f",
+        "title": "万亿总资产券商扩张至5家，谁在上半年加速扩张？万亿已成分水岭",
+        "summary": "万亿总资产券商扩至5家，上半年加速扩张，万亿成券商分水岭。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2469048",
+        "publishedAt": "2026-08-31T06:19:23Z"
       },
       {
-        "id": "0a384efbdf5d1c9948fb",
-        "title": "尼泊尔泥石流联系到的中方人员已转移",
-        "summary": "尼泊尔泥石流中方失联人员已转移，救援工作持续进行。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7678956989552082986/",
-        "publishedAt": "2026-08-31T04:19:20Z"
+        "id": "1d531c4006fb44f400e0",
+        "title": "沃什为9月加息敞开大门？来看看“新美联储通讯社”如何评价！",
+        "summary": "“新美联储通讯社”评价沃什为9月加息敞开大门，市场关注美联储动向。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2469047",
+        "publishedAt": "2026-08-31T06:19:23Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注美伊冲突升级、尼泊尔洪水灾难、国际政治及科技进展。",
+    "overview": "国际新闻聚焦美伊冲突、尼泊尔西藏洪灾、大峡谷洪水及人工智能监管，地缘政治与气候灾害牵动全球。",
     "items": [
       {
-        "id": "d2055145ba996d2a3054",
-        "title": "US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan",
-        "summary": "美国打击霍尔木兹海峡伊朗目标，伊朗反击美军约旦基地，局势升级。",
+        "id": "6a1df9e74485def1b0a9",
+        "title": "US and Iran trade strikes for first time in weeks",
+        "summary": "美国和伊朗数周来首次交火，伊朗称美军袭击拉腊克岛致两人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-30T21:49:37Z"
+      },
+      {
+        "id": "78a9782196044f218e4e",
+        "title": "US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan and UAE",
+        "summary": "美国袭击霍尔木兹海峡伊朗发射器，伊朗报复打击约旦和阿联酋空军基地。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
-        "publishedAt": "2026-08-30T19:31:42Z"
+        "publishedAt": "2026-08-30T21:25:13Z"
       },
       {
         "id": "1c6446956aaba23b2562",
         "title": "Nepal-Tibet deaths from flash flooding rise amid race to free workers in tunnel",
-        "summary": "尼泊尔西藏洪灾致804人死亡，超3000人失踪，隧道工人救援仍困难。",
+        "summary": "尼泊尔和西藏洪灾死亡人数升至804人，超3000人失踪，救援困难。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors",
         "publishedAt": "2026-08-30T10:34:21Z"
@@ -94,18 +102,10 @@
       {
         "id": "80b8f51f9728c81d690c",
         "title": "Flash flooding in Grand Canyon leaves more than 20 people missing",
-        "summary": "美国大峡谷突发山洪，超20人失踪，数十人撤离，救援持续。",
+        "summary": "美国大峡谷突发山洪，超20人失踪，数十人撤离，救援进行中。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss",
         "publishedAt": "2026-08-30T16:19:04Z"
-      },
-      {
-        "id": "b01963e6af25ab213a28",
-        "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-        "summary": "北塞浦路斯渡轮倾覆，8人死亡，18人失踪，搜救正在进行。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-30T19:56:15Z"
       },
       {
         "id": "e0a2e4d5175e6d9bd09a",
@@ -116,20 +116,12 @@
         "publishedAt": "2026-08-30T19:45:57Z"
       },
       {
-        "id": "81ee7dc112e6d4934cd8",
-        "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
-        "summary": "特朗普称将用委内瑞拉石油补充战略石油储备，引发广泛争议。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
-        "publishedAt": "2026-08-30T07:50:45Z"
-      },
-      {
-        "id": "5d295e9178e27496e2aa",
-        "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
-        "summary": "世界中央厨房创始人再次呼吁独立调查以色列袭击致其员工死亡事件。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
-        "publishedAt": "2026-08-30T12:50:04Z"
+        "id": "8fe74a731d357e9666f6",
+        "title": "Monday briefing: Nepal and Tibet’s floods are a warning for the future",
+        "summary": "尼泊尔和西藏洪灾警示气候变化风险，救援人员搜寻幸存者。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future",
+        "publishedAt": "2026-08-30T21:44:13Z"
       },
       {
         "id": "53a5a01ebdc5be38f65f",
@@ -138,6 +130,14 @@
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
         "publishedAt": "2026-08-30T05:03:15Z"
+      },
+      {
+        "id": "81ee7dc112e6d4934cd8",
+        "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
+        "summary": "特朗普称将用委内瑞拉石油补充战略储备，引发争议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
+        "publishedAt": "2026-08-30T07:50:45Z"
       }
     ]
   }
