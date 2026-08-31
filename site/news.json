@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-01",
-  "generatedAt": "2026-08-31T18:19:30Z",
+  "generatedAt": "2026-08-31T20:19:25Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，商务部等部门发布促消费目标，国常会研究招商引资，AI应用获政策支持，江苏省委组织部部长被查，美伊冲突等地缘事件也受关注。",
+    "overview": "国内时政、经济及科技重大新闻，涵盖国常会、商务部政策、反腐调查及市场动态。",
     "items": [
-      {
-        "id": "d76d206740e4978d3c94",
-        "title": "商务部等7部门：到2030年 社会消费品零售总额达60万亿元左右",
-        "summary": "商务部等7部门提出到2030年社会消费品零售总额达60万亿元左右，推动消费扩容升级。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2469641",
-        "publishedAt": "2026-08-31T18:19:30Z"
-      },
       {
         "id": "80bf7d016e85d4f20499",
         "title": "国常会：研究促进招商引资高质量发展有关工作",
-        "summary": "国常会研究促进招商引资高质量发展工作，部署相关措施。",
+        "summary": "国常会研究促进招商引资高质量发展，部署相关工作。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2469938",
-        "publishedAt": "2026-08-31T18:19:30Z"
+        "publishedAt": "2026-08-31T20:19:25Z"
       },
       {
-        "id": "82a5ff202ccc85579de2",
-        "title": "AI应用迎利好！工信部拟开展专项行动 服务采购、项目出海多维度获支持",
-        "summary": "工信部拟开展专项行动，支持AI应用服务采购和项目出海，利好相关产业。",
+        "id": "d76d206740e4978d3c94",
+        "title": "商务部等7部门：到2030年 社会消费品零售总额达60万亿元左右",
+        "summary": "商务部等7部门提出到2030年社会消费品零售总额达60万亿元目标。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2469551",
-        "publishedAt": "2026-08-31T18:19:30Z"
+        "url": "https://www.cls.cn/detail/2469641",
+        "publishedAt": "2026-08-31T20:19:25Z"
       },
       {
         "id": "fd9effaf3df9e44a5073",
         "title": "江苏省委组织部部长刘建洋被查",
-        "summary": "江苏省委组织部部长刘建洋涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+        "summary": "江苏省委组织部部长刘建洋涉嫌严重违纪违法被查。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7680163695116795950/",
-        "publishedAt": "2026-08-31T18:19:30Z"
+        "publishedAt": "2026-08-31T20:19:25Z"
       },
       {
-        "id": "e4eb1849844107e8b0c3",
-        "title": "美财长称世界不允许中国有1.2万亿美元贸易顺差，外交部回应",
-        "summary": "外交部回应美财长言论，驳斥关于中国贸易顺差的不当指责。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w2XjWBEwFk",
-        "publishedAt": "2026-08-31T18:19:30Z"
+        "id": "82a5ff202ccc85579de2",
+        "title": "AI应用迎利好！工信部拟开展专项行动 服务采购、项目出海多维度获支持",
+        "summary": "工信部拟开展专项行动，支持AI应用服务采购和项目出海。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2469551",
+        "publishedAt": "2026-08-31T20:19:25Z"
       },
       {
         "id": "6e8ddc68a243889db79a",
         "title": "华为上半年营收同比增10%至4678亿，归母净利234亿，研发投入超1200亿｜财报见闻",
-        "summary": "华为上半年营收同比增10%至4678亿，净利润234亿，研发投入超1200亿。",
+        "summary": "华为上半年营收4678亿元，研发投入超1200亿元，净利润234亿元。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780724",
-        "publishedAt": "2026-08-31T18:19:30Z"
-      },
-      {
-        "id": "5c1e4b228024a868cd20",
-        "title": "日元再破160！贝森特发声：日元“已得到控制”，日本央行“将做正确的事”，“安倍经济学”已走到尽头",
-        "summary": "日元汇率再度跌破160关口，美财长贝森特称日元已受控，安倍经济学终结。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780669",
-        "publishedAt": "2026-08-31T18:19:30Z"
+        "publishedAt": "2026-08-31T20:19:25Z"
       },
       {
         "id": "c69657452614eafbf402",
         "title": "中国羽毛球协会副主席夏煊泽被查",
-        "summary": "中国羽毛球协会副主席夏煊泽涉嫌严重违纪违法被查，体育反腐持续。",
+        "summary": "中国羽毛球协会副主席夏煊泽接受纪律审查和监察调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33978395",
-        "publishedAt": "2026-08-31T18:19:30Z"
+        "publishedAt": "2026-08-31T20:19:25Z"
+      },
+      {
+        "id": "e4eb1849844107e8b0c3",
+        "title": "美财长称世界不允许中国有1.2万亿美元贸易顺差，外交部回应",
+        "summary": "美财长称世界不允许中国1.2万亿美元顺差，外交部回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w2XjWBEwFk",
+        "publishedAt": "2026-08-31T20:19:25Z"
+      },
+      {
+        "id": "1c5c576c4d89e186f003",
+        "title": "中国羽毛球协会原副主席兼秘书长王伟接受监察调查",
+        "summary": "中国羽毛球协会原副主席兼秘书长王伟接受监察调查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33978423",
+        "publishedAt": "2026-08-31T20:19:25Z"
       }
     ]
   },
   "global": {
-    "overview": "全球方面，美国与伊朗在霍尔木兹海峡等地交火，中东局势紧张；尼泊尔洪灾死亡人数升至近千，救援持续；非洲埃博拉疫情严峻；阿根廷球星梅西宣布退出国家队。",
+    "overview": "国际焦点包括美伊冲突、尼泊尔洪灾、国际政治变动及重大事件。",
     "items": [
       {
-        "id": "5208124f382565338339",
-        "title": "War on Iran: US bombs Iran",
-        "summary": "美国对伊朗发动空袭，中东局势再度紧张，国际油价应声上涨。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss",
-        "publishedAt": "2026-08-31T09:22:32Z"
+        "id": "13a9030a6a36a9254ee6",
+        "title": "Trump threatens further action as US and Iran exchange fire in new flare-up",
+        "summary": "美伊时隔一个月再度交火，互射导弹和无人机，局势升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire",
+        "publishedAt": "2026-08-31T09:13:55Z"
       },
       {
-        "id": "6818ad69cab04db6b6c0",
-        "title": "Photos: Nearly 1,000 dead, thousands missing in Nepal–China border floods",
-        "summary": "尼泊尔和西藏边境地区洪灾已致近千人死亡，数千人失踪，救援持续。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/gallery/2026/8/31/photos-nearly-1000-dead-thousands-missing-in-nepal-china-border?traffic_source=rss",
-        "publishedAt": "2026-08-31T09:04:30Z"
+        "id": "d4fa32cf846b1866e241",
+        "title": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened",
+        "summary": "特朗普威胁“狠狠打击”伊朗，此前美军空袭伊朗拉腊克岛。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
+        "publishedAt": "2026-08-31T09:17:13Z"
       },
       {
-        "id": "dd6c7c75a9609a4d3f6c",
-        "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000",
-        "summary": "刚果（金）埃博拉疫情已确诊超6000例，死亡近3000人，传播速度史上最快。",
+        "id": "803356b7749fe40ba7c8",
+        "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+        "summary": "尼泊尔泥石流死亡人数升至939人，超4000人失踪。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T09:30:47Z"
+      },
+      {
+        "id": "26aaf10a9b07b89d96c3",
+        "title": "Border area between Nepal and China where 33 Australians are missing still almost entirely cut off",
+        "summary": "中尼边境吉隆口岸遭洪水破坏，数十名澳大利亚人失踪。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-china-border-area-gyirong-port-almost-entirely-cut-off-missing-australians-ntwnfb",
+        "publishedAt": "2026-08-31T07:00:28Z"
+      },
+      {
+        "id": "3d72b8164baa3510c7a8",
+        "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
+        "summary": "美国财长贝森特警告伊朗经济可能在数月内崩溃。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss",
-        "publishedAt": "2026-08-31T08:24:20Z"
+        "url": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss",
+        "publishedAt": "2026-08-31T09:04:24Z"
       },
       {
         "id": "720812320851d729b58d",
         "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-        "summary": "梅西宣布从阿根廷国家队退役，结束其辉煌的国际足球生涯。",
+        "summary": "梅西宣布从阿根廷国家队退役，结束国际比赛生涯。",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
         "publishedAt": "2026-08-31T08:37:05Z"
       },
       {
-        "id": "e0cd1dfb84bfa2f7cc4a",
-        "title": "India rejects Hague court order to restore Indus waters pact with Pakistan",
-        "summary": "印度拒绝国际仲裁法院关于恢复印度河水资源条约的裁决，坚持主权立场。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss",
-        "publishedAt": "2026-08-31T08:23:30Z"
+        "id": "c3db7647bef0fd4bdc01",
+        "title": "EU puts ChatGPT, Reddit and Roblox under stricter rules",
+        "summary": "欧盟将ChatGPT、Reddit和Roblox纳入更严格的数字服务监管。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-31T05:36:00Z"
       },
       {
         "id": "983a234bbc98d23a238c",
         "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-        "summary": "特朗普要求苹果地图将安大略湖更名为“美国湖”，引发美加地名争议。",
+        "summary": "特朗普要求苹果地图将安大略湖改名“美国湖”，引发争议。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-31T07:00:11Z"
-      },
-      {
-        "id": "72e1c83e77ad729771d0",
-        "title": "BT on track for estimated £2bn windfall from selling old copper amid AI boom",
-        "summary": "英国电信预计出售旧铜缆可获20亿英镑收益，受益于AI热潮中金属价格上涨。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/aug/31/bt-windfall-selling-old-copper-cables-telecoms-broadband-metal",
-        "publishedAt": "2026-08-31T06:06:29Z"
-      },
-      {
-        "id": "228d2f900cd127ca273a",
-        "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
-        "summary": "医生开发出“超人”AI工具，能在两秒内通过常规心电图发现心脏疾病，加速高危患者治疗。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
-        "publishedAt": "2026-08-31T08:00:29Z"
       }
     ]
   }
