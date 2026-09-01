@@ -1,84 +1,100 @@
 {
   "version": 1,
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T04:25:09Z",
+  "generatedAt": "2026-09-01T06:31:43Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦手机涨价、苹果换帅、金融监管、中美关系及多地灾害救援等，涵盖产业、宏观与科技动态。",
+    "overview": "国内新闻涵盖经济政策、市场监管、科技产业及反腐动态等，重点关注社保基金收益、手机涨价、干部被查等议题。",
     "items": [
       {
-        "id": "40e047ca384ca8da52f8",
-        "title": "华为小米荣耀多款手机集体调价",
-        "summary": "华为小米荣耀多款手机集体调价，部分机型涨价最高达1000元。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680248776607367707/",
-        "publishedAt": "2026-09-01T04:25:09Z"
+        "id": "a103ab28b0497749b14b",
+        "title": "社保基金披露最新成绩单：投资收益率13.22%，累计投资收益2.29万亿元",
+        "summary": "社保基金公布成绩单，投资收益率13.22%，累计收益2.29万亿元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2470353",
+        "publishedAt": "2026-09-01T06:31:43Z"
       },
       {
-        "id": "7597d78b41f30f68babe",
-        "title": "上海医保新政：9月起个人账户结余可抵“分类自负”费用",
-        "summary": "上海医保新政：9月起个人账户结余可抵分类自负费用。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33979511",
-        "publishedAt": "2026-09-01T04:25:09Z"
+        "id": "f7f119c29fcec826eff2",
+        "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
+        "summary": "美伊局势升级叠加鹰派预期，油价大涨，美股8月收官两连跌。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780702",
+        "publishedAt": "2026-09-01T06:31:43Z"
+      },
+      {
+        "id": "465fb1769de1b9325ac5",
+        "title": "华为、小米、荣耀手机今日集体调价，多款机型最高涨价1000元",
+        "summary": "华为、小米、荣耀手机今日集体调价，多款机型最高涨价1000元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2470284",
+        "publishedAt": "2026-09-01T06:31:43Z"
       },
       {
         "id": "726edc25607e0c9accdb",
         "title": "江苏省委常委、组织部部长刘建洋被查",
-        "summary": "江苏省委常委、组织部部长刘建洋接受调查。",
+        "summary": "江苏省委常委、组织部部长刘建洋被查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33979136",
-        "publishedAt": "2026-09-01T04:25:09Z"
+        "publishedAt": "2026-09-01T06:31:43Z"
       },
       {
-        "id": "a103ab28b0497749b14b",
-        "title": "社保基金披露最新成绩单：投资收益率13.22%，累计投资收益2.29万亿元",
-        "summary": "社保基金去年投资收益13.22%，累计收益2.29万亿元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2470353",
-        "publishedAt": "2026-09-01T04:25:09Z"
-      },
-      {
-        "id": "42584c7c0c40f90d2cf5",
-        "title": "沪指低开高走收涨0.9%，液冷服务器、传媒双线爆发，港股AI大模型股午后大涨、MINIMAX飙升17%",
-        "summary": "沪指低开高走收涨0.9%，液冷服务器与传媒板块爆发。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780681",
-        "publishedAt": "2026-09-01T04:25:09Z"
-      },
-      {
-        "id": "691a94fb8d12ed5bfd75",
-        "title": "现场｜“赛考斯”谈中美交流：一棵树、一块砖、一座“桥”",
-        "summary": "中美交流活动“赛考斯”谈沟通桥梁，强调合作重要性。",
+        "id": "7597d78b41f30f68babe",
+        "title": "上海医保新政：9月起个人账户结余可抵“分类自负”费用",
+        "summary": "上海医保新政：9月起个人账户结余可抵“分类自负”费用。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33979300",
-        "publishedAt": "2026-09-01T04:25:09Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_33979511",
+        "publishedAt": "2026-09-01T06:31:43Z"
       },
       {
-        "id": "0a0bb5a7a375145f2ee4",
-        "title": "科技助力田管 推动粮食稳产增收",
-        "summary": "科技助力田管，推动粮食稳产增收。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7679786773908963371/",
-        "publishedAt": "2026-09-01T04:25:09Z"
+        "id": "6e8ddc68a243889db79a",
+        "title": "华为上半年营收同比增10%至4678亿，归母净利234亿，研发投入超1200亿｜财报见闻",
+        "summary": "华为上半年营收增10%至4678亿，净利234亿，研发投入超1200亿。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780724",
+        "publishedAt": "2026-09-01T06:31:43Z"
       },
       {
         "id": "c4a96a2085d4f2341d33",
         "title": "8月共18条中日航线取消全部航班，1120个赴日航班被取消",
-        "summary": "8月中日航线取消18条，1120个赴日航班被取消。",
+        "summary": "8月共18条中日航线取消全部航班，1120个赴日航班被取消。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8w3szKw9da0",
-        "publishedAt": "2026-09-01T04:25:09Z"
+        "publishedAt": "2026-09-01T06:31:43Z"
+      },
+      {
+        "id": "c69657452614eafbf402",
+        "title": "中国羽毛球协会副主席夏煊泽被查",
+        "summary": "中国羽毛球协会副主席夏煊泽被查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33978395",
+        "publishedAt": "2026-09-01T06:31:43Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注美伊冲突、特朗普政策、科技与AI发展、灾难救援及国际政治博弈等热点。",
+    "overview": "国际新闻聚焦美伊冲突、原油价格、国际政治博弈及重大自然灾害，涉及美国最高法院裁决、中东局势及多地灾情。",
     "items": [
+      {
+        "id": "d3a68951ed502344bdf8",
+        "title": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
+        "summary": "美伊相互攻击引发担忧，油价攀升，布伦特原油一度触及94美元。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss",
+        "publishedAt": "2026-08-31T22:07:39Z"
+      },
+      {
+        "id": "002c148cdfc0f902167f",
+        "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+        "summary": "美国最高法院允许特朗普继续建造价值4亿美元的白宫宴会厅。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T14:38:24Z"
+      },
       {
         "id": "a233af411b91549d72b5",
         "title": "Shein shares fall in long-awaited stock market debut",
-        "summary": "SHEIN在港上市首日股价下跌，此前多年寻求纽约和伦敦上市未果。",
+        "summary": "希音（Shein）在香港上市首日股价下跌，结束多年上市努力。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-31T20:15:15Z"
@@ -86,58 +102,42 @@
       {
         "id": "fc9ae02a8e99aa54bbf1",
         "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
-        "summary": "美国邀请俄罗斯财长参加G20会议，欧洲多国表示不满。",
+        "summary": "美国让俄罗斯财长重返G20会谈，欧洲国家表示愤怒。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
         "publishedAt": "2026-08-31T18:23:03Z"
       },
       {
-        "id": "a8777f97268c4241d385",
-        "title": "John Ternus to lead Apple into the age of AI",
-        "summary": "苹果迎来新任CEO约翰·特努斯，开启AI时代。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
-        "publishedAt": "2026-08-31T19:20:25Z"
-      },
-      {
-        "id": "71717d22451e9a127833",
-        "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-        "summary": "美伊冲突再起，特朗普威胁将“严厉打击”伊朗。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-        "publishedAt": "2026-08-31T16:00:00Z"
-      },
-      {
-        "id": "002c148cdfc0f902167f",
-        "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-        "summary": "美国最高法院允许特朗普继续在白宫建造价值4亿美元宴会厅。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-31T14:38:24Z"
-      },
-      {
-        "id": "591c0cad5d32426ca9d8",
-        "title": "Trump's plan for economic D-day for Iran has one big hole: China",
-        "summary": "特朗普对伊经济施压计划面临中国的合作缺口。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
-        "publishedAt": "2026-08-31T12:48:03Z"
-      },
-      {
         "id": "803356b7749fe40ba7c8",
         "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-        "summary": "尼泊尔救援人员爆破山坡，搜寻被困水电站工人，死亡人数达939。",
+        "summary": "尼泊尔救援人员炸开山体搜寻被困工人，洪水死亡人数升至939人。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-08-31T18:18:26Z"
       },
       {
-        "id": "eb056b557d8550996871",
-        "title": "Toxic haze from Indonesian fires chokes Malaysian Borneo",
-        "summary": "印尼森林火灾致马来西亚婆罗洲遭受严重雾霾，呼吸道疾病激增。",
+        "id": "3cd17cdd29bc2414062b",
+        "title": "Toxic haze from Indonesian forest fires chokes Malaysian Borneo",
+        "summary": "印尼森林火灾产生的有毒雾霾笼罩马来西亚婆罗洲，呼吸道疾病激增。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
         "publishedAt": "2026-08-31T18:06:01Z"
+      },
+      {
+        "id": "d4fa32cf846b1866e241",
+        "title": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened",
+        "summary": "特朗普称将“严厉打击”伊朗，美伊在霍尔木兹海峡发生交火。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
+        "publishedAt": "2026-08-31T09:17:13Z"
+      },
+      {
+        "id": "e9be4f2e8e82db696ce5",
+        "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+        "summary": "大峡谷突发山洪致2人死亡，14人失踪，救援持续进行。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T12:47:38Z"
       }
     ]
   }
