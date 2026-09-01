@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T02:24:36Z",
+  "generatedAt": "2026-09-01T04:25:09Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内时政、宏观经济与科技动态，涵盖手机调价、救灾进展、国际局势与政策变化。",
+    "overview": "国内聚焦手机涨价、苹果换帅、金融监管、中美关系及多地灾害救援等，涵盖产业、宏观与科技动态。",
     "items": [
       {
         "id": "40e047ca384ca8da52f8",
         "title": "华为小米荣耀多款手机集体调价",
-        "summary": "华为小米荣耀集体调价，今日起多款手机上涨或调整。",
+        "summary": "华为小米荣耀多款手机集体调价，部分机型涨价最高达1000元。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7680248776607367707/",
-        "publishedAt": "2026-09-01T02:24:36Z"
-      },
-      {
-        "id": "f7f119c29fcec826eff2",
-        "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
-        "summary": "美伊紧张与鹰派预期推升油价，美股8月两连跌，芯片反弹。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780702",
-        "publishedAt": "2026-09-01T02:24:36Z"
+        "publishedAt": "2026-09-01T04:25:09Z"
       },
       {
         "id": "7597d78b41f30f68babe",
         "title": "上海医保新政：9月起个人账户结余可抵“分类自负”费用",
-        "summary": "上海医保新政：个人账户结余可抵分类自负费用，9月实施。",
+        "summary": "上海医保新政：9月起个人账户结余可抵分类自负费用。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33979511",
-        "publishedAt": "2026-09-01T02:24:36Z"
-      },
-      {
-        "id": "eaea90cd83d49b75f138",
-        "title": "尼泊尔泥石流974人遇难",
-        "summary": "尼泊尔泥石流致974人遇难，救援持续，中国公民受影响。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81974%E4%BA%BA%E9%81%87%E9%9A%BE%23",
-        "publishedAt": "2026-09-01T02:24:36Z"
-      },
-      {
-        "id": "80bf7d016e85d4f20499",
-        "title": "国常会：研究促进招商引资高质量发展有关工作",
-        "summary": "国常会研究促进招商引资高质量发展工作，强调政策支持。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2469938",
-        "publishedAt": "2026-09-01T02:24:36Z"
-      },
-      {
-        "id": "55ba80acc8cc851c3779",
-        "title": "云端商业化提速，智谱上半年营收同比增近400%，开放平台及API收入暴增2736%｜财报见闻",
-        "summary": "智谱上半年营收增近400%，开放平台及API收入暴增。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780732",
-        "publishedAt": "2026-09-01T02:24:36Z"
+        "publishedAt": "2026-09-01T04:25:09Z"
       },
       {
         "id": "726edc25607e0c9accdb",
         "title": "江苏省委常委、组织部部长刘建洋被查",
-        "summary": "江苏省委常委、组织部部长刘建洋被查，反腐持续。",
+        "summary": "江苏省委常委、组织部部长刘建洋接受调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33979136",
-        "publishedAt": "2026-09-01T02:24:36Z"
+        "publishedAt": "2026-09-01T04:25:09Z"
       },
       {
-        "id": "d3dbe033e992485ea6c4",
-        "title": "官方通报女子被踢845个群被迫离职",
-        "summary": "官方通报女子被踢845个群被迫离职，介入调查。",
+        "id": "a103ab28b0497749b14b",
+        "title": "社保基金披露最新成绩单：投资收益率13.22%，累计投资收益2.29万亿元",
+        "summary": "社保基金去年投资收益13.22%，累计收益2.29万亿元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2470353",
+        "publishedAt": "2026-09-01T04:25:09Z"
+      },
+      {
+        "id": "42584c7c0c40f90d2cf5",
+        "title": "沪指低开高走收涨0.9%，液冷服务器、传媒双线爆发，港股AI大模型股午后大涨、MINIMAX飙升17%",
+        "summary": "沪指低开高走收涨0.9%，液冷服务器与传媒板块爆发。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780681",
+        "publishedAt": "2026-09-01T04:25:09Z"
+      },
+      {
+        "id": "691a94fb8d12ed5bfd75",
+        "title": "现场｜“赛考斯”谈中美交流：一棵树、一块砖、一座“桥”",
+        "summary": "中美交流活动“赛考斯”谈沟通桥梁，强调合作重要性。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33979300",
+        "publishedAt": "2026-09-01T04:25:09Z"
+      },
+      {
+        "id": "0a0bb5a7a375145f2ee4",
+        "title": "科技助力田管 推动粮食稳产增收",
+        "summary": "科技助力田管，推动粮食稳产增收。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680253002297049114/",
-        "publishedAt": "2026-09-01T02:24:36Z"
+        "url": "https://www.toutiao.com/trending/7679786773908963371/",
+        "publishedAt": "2026-09-01T04:25:09Z"
+      },
+      {
+        "id": "c4a96a2085d4f2341d33",
+        "title": "8月共18条中日航线取消全部航班，1120个赴日航班被取消",
+        "summary": "8月中日航线取消18条，1120个赴日航班被取消。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w3szKw9da0",
+        "publishedAt": "2026-09-01T04:25:09Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重大突发事件及地缘政治变化，包括美伊冲突、尼泊尔洪灾、美国内政等。",
+    "overview": "国际关注美伊冲突、特朗普政策、科技与AI发展、灾难救援及国际政治博弈等热点。",
     "items": [
       {
-        "id": "803356b7749fe40ba7c8",
-        "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-        "summary": "尼泊尔救援爆炸开路寻水电站工人，死亡升至939人。",
+        "id": "a233af411b91549d72b5",
+        "title": "Shein shares fall in long-awaited stock market debut",
+        "summary": "SHEIN在港上市首日股价下跌，此前多年寻求纽约和伦敦上市未果。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-31T18:18:26Z"
+        "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T20:15:15Z"
+      },
+      {
+        "id": "fc9ae02a8e99aa54bbf1",
+        "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+        "summary": "美国邀请俄罗斯财长参加G20会议，欧洲多国表示不满。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
+        "publishedAt": "2026-08-31T18:23:03Z"
+      },
+      {
+        "id": "a8777f97268c4241d385",
+        "title": "John Ternus to lead Apple into the age of AI",
+        "summary": "苹果迎来新任CEO约翰·特努斯，开启AI时代。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+        "publishedAt": "2026-08-31T19:20:25Z"
       },
       {
         "id": "71717d22451e9a127833",
         "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-        "summary": "特朗普誓言狠狠打击伊朗，首次冲突后局势升级。",
+        "summary": "美伊冲突再起，特朗普威胁将“严厉打击”伊朗。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
         "publishedAt": "2026-08-31T16:00:00Z"
       },
       {
-        "id": "d68321da2f768aa94573",
-        "title": "Japan Inc is betting big on India as China risks deepen",
-        "summary": "日本企业加大印度投资，应对中国风险与国内萎缩。",
+        "id": "002c148cdfc0f902167f",
+        "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+        "summary": "美国最高法院允许特朗普继续在白宫建造价值4亿美元宴会厅。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-31T14:07:19Z"
+        "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T14:38:24Z"
       },
       {
-        "id": "c5047783c864c37d5e1b",
-        "title": "Thirty years of waiting, a memoir and a trial: conviction in Tupac Shakur killing brings closure",
-        "summary": "30年悬案告破，陪审团裁定谋杀图帕克罪名成立。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis",
-        "publishedAt": "2026-08-31T17:57:13Z"
+        "id": "591c0cad5d32426ca9d8",
+        "title": "Trump's plan for economic D-day for Iran has one big hole: China",
+        "summary": "特朗普对伊经济施压计划面临中国的合作缺口。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
+        "publishedAt": "2026-08-31T12:48:03Z"
       },
       {
-        "id": "2f8dc91746b13ebf7a55",
-        "title": "Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world",
-        "summary": "普京与习近平在上合峰会会晤，强调俄中关系稳定。",
+        "id": "803356b7749fe40ba7c8",
+        "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+        "summary": "尼泊尔救援人员爆破山坡，搜寻被困水电站工人，死亡人数达939。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T18:18:26Z"
+      },
+      {
+        "id": "eb056b557d8550996871",
+        "title": "Toxic haze from Indonesian fires chokes Malaysian Borneo",
+        "summary": "印尼森林火灾致马来西亚婆罗洲遭受严重雾霾，呼吸道疾病激增。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
-        "publishedAt": "2026-08-31T13:14:47Z"
-      },
-      {
-        "id": "c3db7647bef0fd4bdc01",
-        "title": "EU puts ChatGPT, Reddit and Roblox under stricter rules",
-        "summary": "欧盟对ChatGPT、Reddit、Roblox加强数字监管。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-08-31T05:36:00Z"
-      },
-      {
-        "id": "e0b42e68fa6e627ef208",
-        "title": "Turkish deep-sea search vessel joins efforts to retrieve 20 still missing after Cyprus ferry disaster",
-        "summary": "土耳其深海船参与塞浦路斯渡轮灾难搜救，20人仍失踪。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry",
-        "publishedAt": "2026-08-31T10:37:06Z"
-      },
-      {
-        "id": "fcbfbfe6c2b5ff6295d7",
-        "title": "Australia news live: police locate parents of toddler found wandering Sydney street alone at 2am",
-        "summary": "Follow updates liveGet our breaking news email, free app or daily news podcast43",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
-        "publishedAt": "2026-08-31T18:00:04Z"
+        "url": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
+        "publishedAt": "2026-08-31T18:06:01Z"
       }
     ]
   }
