@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T08:27:55Z",
+  "generatedAt": "2026-09-01T10:28:47Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦宏观经济、外交、科技与民生政策，涵盖金融数据、国际制裁、中俄互动及高校教育等。",
+    "overview": "国内要闻聚焦外交、经济政策、市场动态及重要人事，其中中俄免签、委内瑞拉权益、外籍个税调整、原油上涨及美联储言论等受关注。",
     "items": [
       {
-        "id": "a103ab28b0497749b14b",
-        "title": "社保基金披露最新成绩单：投资收益率13.22%，累计投资收益2.29万亿元",
-        "summary": "社保基金去年投资收益率13.22%，累计收益2.29万亿元，显示长期稳健运营。",
+        "id": "23da7c031a321662187b",
+        "title": "普京称俄愿意将中俄间的免签制度转为永久性安排，外交部回应",
+        "summary": "普京提议中俄免签永久化，外交部回应。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2470353",
-        "publishedAt": "2026-09-01T08:27:55Z"
+        "url": "https://www.cls.cn/detail/2470685",
+        "publishedAt": "2026-09-01T10:28:47Z"
       },
       {
-        "id": "8eae6b0963b17571df26",
-        "title": "外交部：中国在委内瑞拉的合法权益必须得到保障",
-        "summary": "外交部强调中国在委内瑞拉合法权益必须得到保障，凸显外交立场。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w45OcUjPtk",
-        "publishedAt": "2026-09-01T08:27:55Z"
+        "id": "aa2bd76076e77767dbef",
+        "title": "外交部：中国在委合法权益须得到保障",
+        "summary": "外交部强调中国在委内瑞拉合法权益须保障。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7679617633221836836/",
+        "publishedAt": "2026-09-01T10:28:47Z"
       },
       {
-        "id": "a72d67de562d9a5daa70",
-        "title": "一个年级90个班？多地初中现超大校额",
-        "summary": "多地初中出现超大校额，一个年级90个班，教育资源配置引发关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%B9%B4%E7%BA%A790%E4%B8%AA%E7%8F%AD%EF%BC%9F%E5%A4%9A%E5%9C%B0%E5%88%9D%E4%B8%AD%E7%8E%B0%E8%B6%85%E5%A4%A7%E6%A0%A1%E9%A2%9D",
-        "publishedAt": "2026-09-01T08:27:55Z"
+        "id": "a9520c3e514137eb6430",
+        "title": "两部门：9月1日起外籍个人股息红利不再免征个税",
+        "summary": "9月起外籍个人股息红利不再免征个税。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2470820",
+        "publishedAt": "2026-09-01T10:28:47Z"
+      },
+      {
+        "id": "f7f119c29fcec826eff2",
+        "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
+        "summary": "美伊紧张推升原油，美股下跌，芯片逆市涨。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780702",
+        "publishedAt": "2026-09-01T10:28:47Z"
+      },
+      {
+        "id": "75f9248a07895fe4aea5",
+        "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
+        "summary": "特朗普称加息荒谬，沃什将做必要之事。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780764",
+        "publishedAt": "2026-09-01T10:28:47Z"
       },
       {
         "id": "726edc25607e0c9accdb",
         "title": "江苏省委常委、组织部部长刘建洋被查",
-        "summary": "江苏省委常委、组织部部长刘建洋被查，反腐持续深入推进。",
+        "summary": "江苏省委常委、组织部长刘建洋被查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33979136",
-        "publishedAt": "2026-09-01T08:27:55Z"
-      },
-      {
-        "id": "465fb1769de1b9325ac5",
-        "title": "华为、小米、荣耀手机今日集体调价，多款机型最高涨价1000元",
-        "summary": "华为、小米、荣耀今日集体调价，多款机型最高涨价1000元，影响消费市场。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2470284",
-        "publishedAt": "2026-09-01T08:27:55Z"
+        "publishedAt": "2026-09-01T10:28:47Z"
       },
       {
         "id": "7597d78b41f30f68babe",
         "title": "上海医保新政：9月起个人账户结余可抵“分类自负”费用",
-        "summary": "上海医保新政：9月起个人账户结余可抵分类自负费用，减轻患者负担。",
+        "summary": "上海医保新政：个人账户结余可抵分类自负。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33979511",
-        "publishedAt": "2026-09-01T08:27:55Z"
+        "publishedAt": "2026-09-01T10:28:47Z"
       },
       {
-        "id": "c69657452614eafbf402",
-        "title": "中国羽毛球协会副主席夏煊泽被查",
-        "summary": "中国羽毛球协会副主席夏煊泽被查，体育领域反腐再添案例。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33978395",
-        "publishedAt": "2026-09-01T08:27:55Z"
-      },
-      {
-        "id": "23da7c031a321662187b",
-        "title": "普京称俄愿意将中俄间的免签制度转为永久性安排，外交部回应",
-        "summary": "普京称愿将中俄免签制度转为永久性安排，外交部回应加强双边便利化。",
+        "id": "4d7a00ca1be12f2827b4",
+        "title": "抛售潮席卷全球债市！日本10年期国债收益率30年来首破3%",
+        "summary": "全球债市抛售，日债收益率破3%。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2470685",
-        "publishedAt": "2026-09-01T08:27:55Z"
+        "url": "https://www.cls.cn/detail/2470850",
+        "publishedAt": "2026-09-01T10:28:47Z"
       }
     ]
   },
   "global": {
-    "overview": "国际板块突出地缘冲突、自然灾害与重大事件，如美伊紧张、尼泊尔洪水及美国政治动态。",
+    "overview": "国际焦点集中在美伊冲突升级、原油价格上涨、尼泊尔西藏洪灾、Tupac谋杀案判决及G20会议等重大事件。",
     "items": [
       {
-        "id": "2f06e5912c8f59e7d4bb",
-        "title": "At least 12 people killed in Russian overnight attacks on Ukraine – Europe live",
-        "summary": "俄军夜间袭击乌克兰致至少12人死亡，多地断电，局势持续紧张。",
+        "id": "17ea1e26dc421d5523ce",
+        "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
+        "summary": "尼泊尔西藏洪灾死亡超千，救援持续。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
-        "publishedAt": "2026-08-31T23:58:28Z"
+        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
+        "publishedAt": "2026-09-01T02:04:26Z"
       },
       {
-        "id": "6f25f826610e0cd14f73",
-        "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-        "summary": "尼泊尔洪水死亡人数超千人，救援人员搜寻被困隧道工人，失踪人数众多。",
+        "id": "b5b633c6738aea050871",
+        "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+        "summary": "前黑帮头目被判谋杀Tupac Shakur罪名成立。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-31T23:37:24Z"
+        "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T23:02:58Z"
       },
       {
-        "id": "42228aa8049021dbfe48",
-        "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
-        "summary": "加拿大执政自由党在特别选举中横扫三席，支持总理卡尼，选情有利。",
+        "id": "8d9d705e320cfe038127",
+        "title": "Global finance ministers gather in North Carolina for G-20 summit",
+        "summary": "G20财长会议在美国举行，俄代表出席。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit",
+        "publishedAt": "2026-09-01T00:46:27Z"
+      },
+      {
+        "id": "a4146a6964ff6d069c37",
+        "title": "Iran says it will return to ceasefire if US does",
+        "summary": "伊朗称若美国遵守，将重返停火协议。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/iran-says-it-will-return-to-ceasefire-if-us-does/a-78586314?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-01T02:00:00Z"
+      },
+      {
+        "id": "f8e9dbeef1771d5c1480",
+        "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
+        "summary": "俄连续六夜袭击基辅，至少12人死亡。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
-        "publishedAt": "2026-08-31T23:42:50Z"
+        "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+        "publishedAt": "2026-09-01T01:59:40Z"
       },
       {
-        "id": "d4fa32cf846b1866e241",
-        "title": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened",
-        "summary": "特朗普称将严厉打击伊朗，美伊在霍尔木兹海峡发生交火，紧张升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
-        "publishedAt": "2026-08-31T09:17:13Z"
-      },
-      {
-        "id": "179179fd1b6adf91afe7",
-        "title": "White House unveils more details of Trump’s Venezuela oil deal",
-        "summary": "白宫公布特朗普委内瑞拉石油协议细节，新公司获百余年17个油田权益。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss",
-        "publishedAt": "2026-08-31T23:39:52Z"
-      },
-      {
-        "id": "48f15e8e445a2ea6c43f",
-        "title": "Trump’s ballroom construction can resume at White House, supreme court rules – as it happened",
-        "summary": "美国最高法院允许特朗普继续建造4亿美元白宫宴会厅，引发争议。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates",
-        "publishedAt": "2026-08-31T17:58:00Z"
-      },
-      {
-        "id": "e0d73eb7b357e65a463c",
-        "title": "Israeli forces raze West Bank homes as EU weighs ban on settlement goods",
-        "summary": "以色列在约旦河西岸摧毁巴勒斯坦房屋，欧盟考虑制裁定居点商品。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss",
-        "publishedAt": "2026-08-31T21:27:17Z"
-      },
-      {
-        "id": "a233af411b91549d72b5",
-        "title": "Shein shares fall in long-awaited stock market debut",
-        "summary": "希音（Shein）在港上市首日股价下跌，此前在纽约和伦敦上市受挫。",
+        "id": "ab286921e57c80eef2cd",
+        "title": "Shein valued at $26bn after long-awaited stock market debut",
+        "summary": "Shein在港上市，估值260亿美元。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-31T20:15:15Z"
+        "publishedAt": "2026-09-01T02:01:26Z"
+      },
+      {
+        "id": "1ba9d707b09c4c3a3837",
+        "title": "Times Square stabbing in NYC leaves 1 dead, assailant killed",
+        "summary": "纽约时代广场随机刺伤案致1死。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/times-square-stabbing-in-nyc-leaves-1-dead-assailant-killed/a-78582543?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-08-31T23:00:00Z"
+      },
+      {
+        "id": "cc8369352fd1466e9c21",
+        "title": "US irks Germany, Europe with Russian G20 invite, press bans",
+        "summary": "Russia's finance minister is at the G20 meeting in Asheville but some key US pre",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-01T02:23:00Z"
       }
     ]
   }
