@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-01",
-  "generatedAt": "2026-09-01T14:26:41Z",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-01T16:42:24Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面：手机涨价潮引发关注，华为、小米、荣耀等多品牌调价，机构预计压力延续至明年；美伊局势升级推升油价，全球债市抛售加剧，美股承压；尼泊尔泥石流灾害遇难人数升至1066人，救援持续；上海医保新政9月起实施；外籍个人股息红利个税政策调整；大豆贸易为中美关系留下缓和空间。",
+    "overview": "国内新闻聚焦经济与产业，涵盖企业出海、手机涨价、全球债市动荡及外交动态。",
     "items": [
+      {
+        "id": "8f0470f9736719016ffd",
+        "title": "比亚迪海外营收首超大中华区意味什么",
+        "summary": "比亚迪海外营收首超中华区，凸显全球化战略成效，引发市场关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680556049090219583/",
+        "publishedAt": "2026-09-01T16:42:24Z"
+      },
       {
         "id": "3e62f01855b79037a2ed",
         "title": "华为、小米、荣耀回应涨价",
-        "summary": "华为、小米、荣耀等手机品牌宣布涨价，最高涨幅1000元，机构预计压力延续至明年。",
+        "summary": "华为、小米、荣耀回应手机涨价，涉及成本上升等因素，影响消费者。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E3%80%81%E5%B0%8F%E7%B1%B3%E3%80%81%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7",
-        "publishedAt": "2026-09-01T14:26:41Z"
-      },
-      {
-        "id": "214e760d7a73344c872b",
-        "title": "最高涨幅1000元！华为、小米、荣耀多款手机调价，机构预计压力延续至明年",
-        "summary": "华为、小米、荣耀多款手机调价，最高涨幅1000元，机构预计涨价压力将持续至明年。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33982253",
-        "publishedAt": "2026-09-01T14:26:41Z"
-      },
-      {
-        "id": "f7f119c29fcec826eff2",
-        "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
-        "summary": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780702",
-        "publishedAt": "2026-09-01T14:26:41Z"
+        "publishedAt": "2026-09-01T16:42:24Z"
       },
       {
         "id": "cc4fab12e39c79266a80",
         "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
-        "summary": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350。",
+        "summary": "霍尔木兹油轮遇袭推升油价，美股低开纳指跌超1.3%，全球债市抛售加剧。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-01T14:26:41Z"
+        "publishedAt": "2026-09-01T16:42:24Z"
+      },
+      {
+        "id": "954a5894802811c4ad45",
+        "title": "独家｜大众中国：已启动涉星宇股份相关投诉专项调查，“尊重劳动者合法权益”贯穿于供应链管理",
+        "summary": "大众中国就星宇股份投诉启动专项调查，强调尊重劳动者权益。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33981723",
+        "publishedAt": "2026-09-01T16:42:24Z"
       },
       {
         "id": "4d7a00ca1be12f2827b4",
         "title": "抛售潮席卷全球债市！日本10年期国债收益率30年来首破3%",
-        "summary": "全球债市遭遇抛售潮，日本10年期国债收益率30年来首破3%，市场担忧利率上行。",
+        "summary": "日本10年期国债收益率30年来首破3%，全球债市抛售潮持续。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2470850",
-        "publishedAt": "2026-09-01T14:26:41Z"
+        "publishedAt": "2026-09-01T16:42:24Z"
       },
       {
-        "id": "702d299a0333976b11d9",
-        "title": "尼泊尔泥石流灾害遇难人数升至1066人",
-        "summary": "尼泊尔泥石流灾害遇难人数升至1066人，数千人失踪，救援工作持续进行。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B31066%E4%BA%BA",
-        "publishedAt": "2026-09-01T14:26:41Z"
-      },
-      {
-        "id": "7597d78b41f30f68babe",
-        "title": "上海医保新政：9月起个人账户结余可抵“分类自负”费用",
-        "summary": "上海医保新政9月起实施，个人账户结余可抵“分类自负”费用，减轻参保人员负担。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33979511",
-        "publishedAt": "2026-09-01T14:26:41Z"
+        "id": "a9965a0f091d821b5f5a",
+        "title": "美企将接管中企运营的委内瑞拉油田？外交部回应",
+        "summary": "外交部回应美企接管委内瑞拉油田传闻，强调尊重他国主权和法治。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w45OcUjPtk",
+        "publishedAt": "2026-09-01T16:42:24Z"
       },
       {
         "id": "a9520c3e514137eb6430",
         "title": "两部门：9月1日起外籍个人股息红利不再免征个税",
-        "summary": "两部门公告，9月1日起外籍个人股息红利不再免征个税，政策调整涉及外籍人员税收待遇。",
+        "summary": "两部门新规：9月1日起外籍个人股息红利不再免征个税，影响外籍投资者。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2470820",
-        "publishedAt": "2026-09-01T14:26:41Z"
+        "publishedAt": "2026-09-01T16:42:24Z"
+      },
+      {
+        "id": "b99c1b9d3b2924f3e0fa",
+        "title": "特朗普“密友”戴安斯再度访华",
+        "summary": "特朗普‘密友’戴安斯再度访华，外界关注中美高层互动信号。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
+        "publishedAt": "2026-09-01T16:42:24Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面：美伊紧张升级，伊朗呼吁美国遵守停火备忘录，特朗普威胁加大施压；俄罗斯连续夜间袭击基辅，至少12人死亡；尼泊尔洪水死亡人数超千人，救援艰难；挪威新国王宣誓就职；英国30年期国债收益率创28年新高，全球债市动荡；特朗普暗示审查马岛主权立场，英美关系面临考验。",
+    "overview": "国际新闻涵盖地缘政治、经济市场及多国动态，重点关注美国政策、中东局势与欧洲安全。",
     "items": [
       {
-        "id": "d47e7dcf4c01e30cf37e",
-        "title": "Iran urges US to honour commitments under MoU",
-        "summary": "伊朗呼吁美国遵守停火备忘录，此前霍尔木兹海峡袭击加剧紧张局势。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss",
-        "publishedAt": "2026-09-01T05:01:22Z"
+        "id": "5a42d9aaed38d20d73be",
+        "title": "Trump says US position on Falklands 'one of many' under review",
+        "summary": "特朗普称美国对马岛立场‘众多议题之一’正在审查，或影响英美关系。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-01T08:35:28Z"
       },
       {
-        "id": "aaf013fc38da10277063",
-        "title": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
-        "summary": "特朗普暗示对伊朗采取更严厉措施，美伊敌对升级引发海湾冲突持续担忧。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss",
-        "publishedAt": "2026-09-01T03:38:14Z"
+        "id": "4acb987d4717850a89af",
+        "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
+        "summary": "德国调查变电站爆炸物事件，部长指俄罗斯涉嫌混合活动，欧洲紧张升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
+        "publishedAt": "2026-09-01T08:32:21Z"
+      },
+      {
+        "id": "92a721e45ee4fe09ecaa",
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "summary": "德国指俄罗斯应对莱比锡机场无人机袭击负责，事件引发安全担忧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-01T08:31:43Z"
+      },
+      {
+        "id": "79f40fe94e1f8f2dcf19",
+        "title": "‘Start being serious’: Canada’s Carney hits back at US officials as tariff talks stall – live",
+        "summary": "加拿大总理卡尼回击美官员，贸易战谈判陷入僵局，双方态度强硬。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+        "publishedAt": "2026-09-01T08:16:33Z"
+      },
+      {
+        "id": "f12f348cdf77d033424c",
+        "title": "US lawmakers demand investigation into Trump administration’s secret surveillance of Americans",
+        "summary": "美议员要求调查特朗普政府秘密监视记者等行为，称涉嫌违法。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation",
+        "publishedAt": "2026-09-01T08:11:20Z"
+      },
+      {
+        "id": "d08554dd7c2de42c0224",
+        "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+        "summary": "尼泊尔洪水死亡人数超千，救援持续，有工人被困隧道20分钟。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-01T08:11:18Z"
+      },
+      {
+        "id": "849ce42c4339518c5d92",
+        "title": "Summer of 2026 was UK’s hottest on record, Met Office says",
+        "summary": "英国2026年夏季为有记录以来最热，科学家称气候变化使概率增130倍。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data",
+        "publishedAt": "2026-09-01T07:36:10Z"
       },
       {
         "id": "f8e9dbeef1771d5c1480",
         "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
-        "summary": "俄罗斯连续第六晚袭击基辅，至少12人死亡，乌方称导弹拦截弹短缺。",
+        "summary": "俄连续六夜袭击基辅，致至少12人死亡，乌军缺乏反导系统。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
-        "publishedAt": "2026-09-01T01:59:40Z"
-      },
-      {
-        "id": "17ea1e26dc421d5523ce",
-        "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
-        "summary": "尼泊尔-西藏洪水死亡人数超千人，警方请求家属提供DNA以辨认遇难者身份。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
-        "publishedAt": "2026-09-01T02:04:26Z"
-      },
-      {
-        "id": "6f25f826610e0cd14f73",
-        "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-        "summary": "尼泊尔死亡人数突破千人，救援人员争分夺秒寻找被困在泥浆隧道中的工人。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-08-31T23:37:24Z"
-      },
-      {
-        "id": "8d240ff5d6a133335bfd",
-        "title": "Norway's Haakon takes oath as mourners pay respects to late King",
-        "summary": "挪威新国王哈康八世在议会宣誓就职，履行君主立宪制下首个重要机构步骤。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T06:06:58Z"
-      },
-      {
-        "id": "bb1cf34ab993982a5c30",
-        "title": "UK long-term borrowing costs hit 28-year high",
-        "summary": "英国30年期国债收益率升至1998年以来最高5.88%，全球债券抛售加剧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
-        "publishedAt": "2026-09-01T02:44:36Z"
-      },
-      {
-        "id": "e1b090b831d88367c39a",
-        "title": "Trump suggests he is reviewing US support for UK over Falkland Islands",
-        "summary": "特朗普暗示将审查美国对马岛主权的支持立场，可能影响英美“特殊关系”。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
-        "publishedAt": "2026-09-01T00:31:35Z"
+        "publishedAt": "2026-09-01T07:06:27Z"
       }
     ]
   }
