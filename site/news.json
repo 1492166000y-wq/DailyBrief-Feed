@@ -1,58 +1,42 @@
 {
   "version": 1,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-01T20:24:35Z",
+  "generatedAt": "2026-09-01T22:23:05Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻涵盖国际金融风险、手机涨价、全球债市抛售、中美关系及外交动态等话题。",
+    "overview": "国内方面，华为、小米、荣耀等手机涨价引发关注；美伊冲突升级，全球市场动荡；A股农业股逆势涨停，银行股创新高；尼泊尔泥石流已致超千人死亡。",
     "items": [
-      {
-        "id": "1d15186bf193bf6841b6",
-        "title": "世界会迎来大的金融危机吗",
-        "summary": "关于全球金融危机可能性的讨论引发关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680540471264808491/",
-        "publishedAt": "2026-09-01T20:24:35Z"
-      },
       {
         "id": "3e62f01855b79037a2ed",
         "title": "华为、小米、荣耀回应涨价",
-        "summary": "华为、小米、荣耀回应手机涨价，产业链压力引关注。",
+        "summary": "华为、小米、荣耀回应手机涨价，受成本上升影响。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E3%80%81%E5%B0%8F%E7%B1%B3%E3%80%81%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7",
-        "publishedAt": "2026-09-01T20:24:35Z"
+        "publishedAt": "2026-09-01T22:23:05Z"
       },
       {
-        "id": "cc4fab12e39c79266a80",
-        "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
-        "summary": "霍尔木兹油轮遇袭推升油价，美股低开，全球债市抛售，黄金失守4350。",
+        "id": "97fe1527461d7067ebeb",
+        "title": "美伊冲突升级油价飙升5%，美国股债双杀，半导体与软件重挫，黄金失守4350美元",
+        "summary": "美伊冲突升级致油价飙升5%，美股债市双杀。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-01T20:24:35Z"
+        "publishedAt": "2026-09-01T22:23:05Z"
       },
       {
-        "id": "4d7a00ca1be12f2827b4",
-        "title": "抛售潮席卷全球债市！日本10年期国债收益率30年来首破3%",
-        "summary": "日本10年期国债收益率30年来首破3%，全球债市遭遇抛售潮。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2470850",
-        "publishedAt": "2026-09-01T20:24:35Z"
+        "id": "a86ba3477f17ee6ecc9c",
+        "title": "尼泊尔泥石流已致1066人死亡",
+        "summary": "尼泊尔泥石流已致1066人死亡，救援进行中。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680503269885546030/",
+        "publishedAt": "2026-09-01T22:23:05Z"
       },
       {
-        "id": "a9965a0f091d821b5f5a",
-        "title": "美企将接管中企运营的委内瑞拉油田？外交部回应",
-        "summary": "外交部回应美企将接管中企运营的委内瑞拉油田传闻。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w45OcUjPtk",
-        "publishedAt": "2026-09-01T20:24:35Z"
-      },
-      {
-        "id": "b99c1b9d3b2924f3e0fa",
-        "title": "特朗普“密友”戴安斯再度访华",
-        "summary": "特朗普密友戴安斯再度访华，中美关系新动向。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
-        "publishedAt": "2026-09-01T20:24:35Z"
+        "id": "214e760d7a73344c872b",
+        "title": "最高涨幅1000元！华为、小米、荣耀多款手机调价，机构预计压力延续至明年",
+        "summary": "华为、小米、荣耀多款手机涨价最高千元，压力或持续。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33982253",
+        "publishedAt": "2026-09-01T22:23:05Z"
       },
       {
         "id": "2ee44f04e3de65afccc6",
@@ -60,84 +44,100 @@
         "summary": "两部门：9月1日起外籍个人股息红利不再免征个税。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780819",
-        "publishedAt": "2026-09-01T20:24:35Z"
+        "publishedAt": "2026-09-01T22:23:05Z"
       },
       {
-        "id": "214e760d7a73344c872b",
-        "title": "最高涨幅1000元！华为、小米、荣耀多款手机调价，机构预计压力延续至明年",
-        "summary": "华为、小米、荣耀多款手机调价，最高涨幅1000元，机构预计压力延续至明年。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33982253",
-        "publishedAt": "2026-09-01T20:24:35Z"
+        "id": "8141d04670ab46e46198",
+        "title": "A股三大股指集体收跌，农业股逆势掀涨停潮，银行批量创新高，算力硬件下挫，恒指跌1%，科网股普跌",
+        "summary": "A股收跌，农业股涨停潮，银行股创新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780791",
+        "publishedAt": "2026-09-01T22:23:05Z"
+      },
+      {
+        "id": "017c8c2cbab883a3ee66",
+        "title": "超强厄尔尼诺预期“点燃”种业板块行情 业内人士对相关影响看法不一",
+        "summary": "超强厄尔尼诺预期带动种业板块上涨，专家看法不一。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2471186",
+        "publishedAt": "2026-09-01T22:23:05Z"
+      },
+      {
+        "id": "b99c1b9d3b2924f3e0fa",
+        "title": "特朗普“密友”戴安斯再度访华",
+        "summary": "特朗普密友戴安斯再度访华，或为中美沟通铺路。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
+        "publishedAt": "2026-09-01T22:23:05Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻聚焦美伊冲突升级、地区安全、全球市场动荡及多国政治经济事件。",
+    "overview": "国际方面，美国对伊朗发动新一轮空袭，油价大涨；尼泊尔洪水死亡超千人；德国指认俄罗斯涉及无人机袭击；苹果CEO易主。",
     "items": [
       {
-        "id": "b78f2f5ababd7d078c48",
-        "title": "US launches more strikes on Iran as state media reports explosions",
-        "summary": "美国对伊朗发动更多打击，爆炸致地区紧张升级。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T11:50:05Z"
+        "id": "ff6d2cfec6ff460142c8",
+        "title": "US launches new airstrikes on Iranian targets as hostilities flare",
+        "summary": "美国对伊朗发动新空袭，地区紧张升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
+        "publishedAt": "2026-09-01T13:49:45Z"
       },
       {
-        "id": "20105577781c2ed13b17",
-        "title": "Iran: US launches fresh strikes as hostilities flare again",
-        "summary": "美国对伊朗发动新打击，特朗普称“大规模且有力”，伊朗扬言报复。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-01T10:48:00Z"
+        "id": "f89d0cb2a2854544068b",
+        "title": "US strikes Iran as state media reports four killed at wedding party",
+        "summary": "美伊冲突致原油上涨，市场避险情绪升温。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-01T13:48:28Z"
+      },
+      {
+        "id": "0b54d37c7ecd878618bd",
+        "title": "Briton among 119 more people rescued in Nepal after flash floods",
+        "summary": "尼泊尔洪水死亡超千，继续搜救失踪人员。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
+        "publishedAt": "2026-09-01T10:48:40Z"
+      },
+      {
+        "id": "92a721e45ee4fe09ecaa",
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "summary": "德国称俄罗斯参与莱比锡机场无人机袭击。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-01T13:05:22Z"
+      },
+      {
+        "id": "0a6e9f43e2e8580fb2f3",
+        "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
+        "summary": "约翰·特努斯接任苹果CEO，苹果迎来新时代。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
+        "publishedAt": "2026-09-01T09:36:33Z"
       },
       {
         "id": "a92b4fc1c98f77f88501",
         "title": "China’s Xi makes his first visit to Egypt in a decade",
-        "summary": "中国国家主席习近平十年首访埃及，加深经济合作。",
+        "summary": "习近平访问埃及，推动中埃关系发展。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss",
         "publishedAt": "2026-09-01T11:38:37Z"
       },
       {
-        "id": "543e8364cc39a380993b",
-        "title": "Hakainde Hichilema returns as Zambia’s president following disputed vote",
-        "summary": "哈凯恩德·希奇莱马在争议选举后再度就任赞比亚总统。",
+        "id": "fabd04ce48ab53ac520a",
+        "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
+        "summary": "美国能源部长将赴委内瑞拉谈油田协议。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss",
-        "publishedAt": "2026-09-01T11:18:29Z"
-      },
-      {
-        "id": "92a721e45ee4fe09ecaa",
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "summary": "德国指控俄罗斯对莱比锡机场实施无人机袭击。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T11:13:03Z"
+        "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
+        "publishedAt": "2026-09-01T13:54:14Z"
       },
       {
         "id": "17ea1e26dc421d5523ce",
         "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
-        "summary": "尼泊尔西藏洪水死亡人数超千，救援持续。",
+        "summary": "尼泊尔洪水遇难者身份确认困难，亲属提供DNA。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
         "publishedAt": "2026-09-01T09:32:40Z"
-      },
-      {
-        "id": "96a6229bdfe24b4a7a51",
-        "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
-        "summary": "俄罗斯 targeting 乌克兰铁路网络，战争进入致命新阶段。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
-        "publishedAt": "2026-09-01T09:23:15Z"
-      },
-      {
-        "id": "4f46c49170a30bac7aa4",
-        "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
-        "summary": "加拿大总理卡尼敦促美国“认真对待”贸易战。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-        "publishedAt": "2026-09-01T07:48:27Z"
       }
     ]
   }
