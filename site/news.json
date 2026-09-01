@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-01T16:42:24Z",
+  "generatedAt": "2026-09-01T18:29:08Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻聚焦经济与产业，涵盖企业出海、手机涨价、全球债市动荡及外交动态。",
+    "overview": "国内新闻涵盖手机涨价、全球债市动荡、中美关系、俄乌冲突、厄尔尼诺影响及民生事件。",
     "items": [
       {
         "id": "8f0470f9736719016ffd",
         "title": "比亚迪海外营收首超大中华区意味什么",
-        "summary": "比亚迪海外营收首超中华区，凸显全球化战略成效，引发市场关注。",
+        "summary": "比亚迪上半年海外营收首超大中华区，显示全球化战略成效显著。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7680556049090219583/",
-        "publishedAt": "2026-09-01T16:42:24Z"
+        "publishedAt": "2026-09-01T18:29:08Z"
       },
       {
         "id": "3e62f01855b79037a2ed",
         "title": "华为、小米、荣耀回应涨价",
-        "summary": "华为、小米、荣耀回应手机涨价，涉及成本上升等因素，影响消费者。",
+        "summary": "华为、小米、荣耀等手机厂商因成本上涨集体调价，最高涨幅达千元。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E3%80%81%E5%B0%8F%E7%B1%B3%E3%80%81%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7",
-        "publishedAt": "2026-09-01T16:42:24Z"
+        "publishedAt": "2026-09-01T18:29:08Z"
       },
       {
         "id": "cc4fab12e39c79266a80",
         "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
-        "summary": "霍尔木兹油轮遇袭推升油价，美股低开纳指跌超1.3%，全球债市抛售加剧。",
+        "summary": "霍尔木兹油轮遇袭推升油价，全球股市债市动荡，黄金价格下跌。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-01T16:42:24Z"
-      },
-      {
-        "id": "954a5894802811c4ad45",
-        "title": "独家｜大众中国：已启动涉星宇股份相关投诉专项调查，“尊重劳动者合法权益”贯穿于供应链管理",
-        "summary": "大众中国就星宇股份投诉启动专项调查，强调尊重劳动者权益。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33981723",
-        "publishedAt": "2026-09-01T16:42:24Z"
-      },
-      {
-        "id": "4d7a00ca1be12f2827b4",
-        "title": "抛售潮席卷全球债市！日本10年期国债收益率30年来首破3%",
-        "summary": "日本10年期国债收益率30年来首破3%，全球债市抛售潮持续。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2470850",
-        "publishedAt": "2026-09-01T16:42:24Z"
+        "publishedAt": "2026-09-01T18:29:08Z"
       },
       {
         "id": "a9965a0f091d821b5f5a",
         "title": "美企将接管中企运营的委内瑞拉油田？外交部回应",
-        "summary": "外交部回应美企接管委内瑞拉油田传闻，强调尊重他国主权和法治。",
+        "summary": "外交部回应美企接管委内瑞拉油田传闻，强调中国企业合法权益应受保护。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8w45OcUjPtk",
-        "publishedAt": "2026-09-01T16:42:24Z"
+        "publishedAt": "2026-09-01T18:29:08Z"
       },
       {
         "id": "a9520c3e514137eb6430",
         "title": "两部门：9月1日起外籍个人股息红利不再免征个税",
-        "summary": "两部门新规：9月1日起外籍个人股息红利不再免征个税，影响外籍投资者。",
+        "summary": "两部门新规：9月1日起外籍个人股息红利不再免征个税，影响跨境投资。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2470820",
-        "publishedAt": "2026-09-01T16:42:24Z"
+        "publishedAt": "2026-09-01T18:29:08Z"
       },
       {
         "id": "b99c1b9d3b2924f3e0fa",
         "title": "特朗普“密友”戴安斯再度访华",
-        "summary": "特朗普‘密友’戴安斯再度访华，外界关注中美高层互动信号。",
+        "summary": "特朗普密友戴安斯再度访华，中美高层互动引发关注。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
-        "publishedAt": "2026-09-01T16:42:24Z"
+        "publishedAt": "2026-09-01T18:29:08Z"
+      },
+      {
+        "id": "017c8c2cbab883a3ee66",
+        "title": "超强厄尔尼诺预期“点燃”种业板块行情 业内人士对相关影响看法不一",
+        "summary": "超强厄尔尼诺预期刺激种业板块，但业内对实际影响看法不一。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2471186",
+        "publishedAt": "2026-09-01T18:29:08Z"
+      },
+      {
+        "id": "390845c78ed03153c92e",
+        "title": "有银行称办40年房贷需35岁以下",
+        "summary": "有银行称办理40年房贷需35岁以下，引发对房贷政策公平性的讨论。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680397088559562806/",
+        "publishedAt": "2026-09-01T18:29:08Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻涵盖地缘政治、经济市场及多国动态，重点关注美国政策、中东局势与欧洲安全。",
+    "overview": "国际新闻聚焦美国对伊朗军事行动、尼泊尔洪水、英国政局变动、苹果CEO更替及德国指责俄罗斯混合攻击。",
     "items": [
       {
-        "id": "5a42d9aaed38d20d73be",
-        "title": "Trump says US position on Falklands 'one of many' under review",
-        "summary": "特朗普称美国对马岛立场‘众多议题之一’正在审查，或影响英美关系。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T08:35:28Z"
-      },
-      {
-        "id": "4acb987d4717850a89af",
-        "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
-        "summary": "德国调查变电站爆炸物事件，部长指俄罗斯涉嫌混合活动，欧洲紧张升级。",
+        "id": "ff6d2cfec6ff460142c8",
+        "title": "US launches new airstrikes on Iranian targets as hostilities flare",
+        "summary": "美国对伊朗发动新一轮空袭，中东局势再度升级，国际油价大涨。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
-        "publishedAt": "2026-09-01T08:32:21Z"
+        "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
+        "publishedAt": "2026-09-01T10:03:05Z"
       },
       {
-        "id": "92a721e45ee4fe09ecaa",
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "summary": "德国指俄罗斯应对莱比锡机场无人机袭击负责，事件引发安全担忧。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T08:31:43Z"
+        "id": "cf2e7b58f082d473a701",
+        "title": "Nepal rescuers race to reach 900 missing hydropower workers",
+        "summary": "尼泊尔洪水导致超千人死亡，救援人员正在寻找900名失踪水电工人。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss",
+        "publishedAt": "2026-09-01T10:18:16Z"
+      },
+      {
+        "id": "17ea1e26dc421d5523ce",
+        "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
+        "summary": "尼泊尔-西藏洪水死亡人数超千，家属提供DNA以协助辨认遇难者。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
+        "publishedAt": "2026-09-01T09:32:40Z"
       },
       {
         "id": "79f40fe94e1f8f2dcf19",
         "title": "‘Start being serious’: Canada’s Carney hits back at US officials as tariff talks stall – live",
-        "summary": "加拿大总理卡尼回击美官员，贸易战谈判陷入僵局，双方态度强硬。",
+        "summary": "加拿大总理卡尼反击美国官员，贸易战谈判陷入僵局。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
-        "publishedAt": "2026-09-01T08:16:33Z"
+        "publishedAt": "2026-09-01T10:17:16Z"
       },
       {
-        "id": "f12f348cdf77d033424c",
-        "title": "US lawmakers demand investigation into Trump administration’s secret surveillance of Americans",
-        "summary": "美议员要求调查特朗普政府秘密监视记者等行为，称涉嫌违法。",
+        "id": "a9aa9e2fbb761c6fb9f2",
+        "title": "Germany blames Russia for drone attack at Leipzig airport",
+        "summary": "德国指责俄罗斯制造莱比锡机场无人机袭击，称其为混合战一部分。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation",
-        "publishedAt": "2026-09-01T08:11:20Z"
+        "url": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+        "publishedAt": "2026-09-01T10:01:07Z"
       },
       {
-        "id": "d08554dd7c2de42c0224",
-        "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-        "summary": "尼泊尔洪水死亡人数超千，救援持续，有工人被困隧道20分钟。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T08:11:18Z"
+        "id": "0a6e9f43e2e8580fb2f3",
+        "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
+        "summary": "苹果CEO蒂姆·库克卸任，约翰·特努斯接任，延续公司战略。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
+        "publishedAt": "2026-09-01T09:36:33Z"
       },
       {
-        "id": "849ce42c4339518c5d92",
-        "title": "Summer of 2026 was UK’s hottest on record, Met Office says",
-        "summary": "英国2026年夏季为有记录以来最热，科学家称气候变化使概率增130倍。",
+        "id": "96a6229bdfe24b4a7a51",
+        "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
+        "summary": "俄罗斯袭击乌克兰铁路网络，冲突进入新阶段，造成人员伤亡。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data",
-        "publishedAt": "2026-09-01T07:36:10Z"
+        "url": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
+        "publishedAt": "2026-09-01T09:23:15Z"
       },
       {
-        "id": "f8e9dbeef1771d5c1480",
-        "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
-        "summary": "俄连续六夜袭击基辅，致至少12人死亡，乌军缺乏反导系统。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
-        "publishedAt": "2026-09-01T07:06:27Z"
+        "id": "979945bc3d72026200c9",
+        "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
+        "summary": "英国前首相斯塔默退出国内政治，转而专注国际事务。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss",
+        "publishedAt": "2026-09-01T08:56:08Z"
       }
     ]
   }
