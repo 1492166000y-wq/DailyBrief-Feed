@@ -1,80 +1,128 @@
 {
   "version": 1,
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T12:31:41Z",
+  "generatedAt": "2026-09-01T14:26:41Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻聚焦宏观经济、政策调整、科技产业及重要外交动态，涵盖教育、金融、市场监管等民生议题。",
+    "overview": "国内方面：手机涨价潮引发关注，华为、小米、荣耀等多品牌调价，机构预计压力延续至明年；美伊局势升级推升油价，全球债市抛售加剧，美股承压；尼泊尔泥石流灾害遇难人数升至1066人，救援持续；上海医保新政9月起实施；外籍个人股息红利个税政策调整；大豆贸易为中美关系留下缓和空间。",
     "items": [
       {
-        "id": "a9bf35a5fb5e88ee1910",
-        "title": "苏州一学校初一超90个班",
-        "summary": "苏州一学校初一设超90个班，引发对教育资源分配与办学规模的讨论。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680436897470267428/",
-        "publishedAt": "2026-09-01T12:31:41Z"
+        "id": "3e62f01855b79037a2ed",
+        "title": "华为、小米、荣耀回应涨价",
+        "summary": "华为、小米、荣耀等手机品牌宣布涨价，最高涨幅1000元，机构预计压力延续至明年。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E3%80%81%E5%B0%8F%E7%B1%B3%E3%80%81%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7",
+        "publishedAt": "2026-09-01T14:26:41Z"
       },
       {
-        "id": "6c40e7f36735f42cf860",
-        "title": "手握3.8万亿的“国家队”赚了3900亿",
-        "summary": "手握3.8万亿元的“国家队”去年盈利3900亿元，投资表现稳健，受市场关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%8F%A13.8%E4%B8%87%E4%BA%BF%E7%9A%84%E2%80%9C%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E8%B5%9A%E4%BA%863900%E4%BA%BF",
-        "publishedAt": "2026-09-01T12:31:41Z"
+        "id": "214e760d7a73344c872b",
+        "title": "最高涨幅1000元！华为、小米、荣耀多款手机调价，机构预计压力延续至明年",
+        "summary": "华为、小米、荣耀多款手机调价，最高涨幅1000元，机构预计涨价压力将持续至明年。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33982253",
+        "publishedAt": "2026-09-01T14:26:41Z"
       },
       {
         "id": "f7f119c29fcec826eff2",
         "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
-        "summary": "美伊局势升级叠加美联储鹰派预期，原油大涨，美股两连跌，芯片股逆势反弹。",
+        "summary": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780702",
-        "publishedAt": "2026-09-01T12:31:41Z"
+        "publishedAt": "2026-09-01T14:26:41Z"
       },
       {
-        "id": "23da7c031a321662187b",
-        "title": "普京称俄愿意将中俄间的免签制度转为永久性安排，外交部回应",
-        "summary": "普京提议中俄免签制度永久化，外交部回应称愿与俄方相向而行，深化合作。",
+        "id": "cc4fab12e39c79266a80",
+        "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
+        "summary": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780783",
+        "publishedAt": "2026-09-01T14:26:41Z"
+      },
+      {
+        "id": "4d7a00ca1be12f2827b4",
+        "title": "抛售潮席卷全球债市！日本10年期国债收益率30年来首破3%",
+        "summary": "全球债市遭遇抛售潮，日本10年期国债收益率30年来首破3%，市场担忧利率上行。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2470685",
-        "publishedAt": "2026-09-01T12:31:41Z"
+        "url": "https://www.cls.cn/detail/2470850",
+        "publishedAt": "2026-09-01T14:26:41Z"
       },
       {
-        "id": "8eae6b0963b17571df26",
-        "title": "外交部：中国在委内瑞拉的合法权益必须得到保障",
-        "summary": "外交部强调中国在委内瑞拉的合法权益必须得到保障，表明维护海外利益的坚定立场。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w45OcUjPtk",
-        "publishedAt": "2026-09-01T12:31:41Z"
-      },
-      {
-        "id": "17fd8063cde4b9800699",
-        "title": "手机涨价",
-        "summary": "多品牌手机宣布涨价，因芯片等成本上升，预计将持续至明年，影响消费者。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7",
-        "publishedAt": "2026-09-01T12:31:41Z"
+        "id": "702d299a0333976b11d9",
+        "title": "尼泊尔泥石流灾害遇难人数升至1066人",
+        "summary": "尼泊尔泥石流灾害遇难人数升至1066人，数千人失踪，救援工作持续进行。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B31066%E4%BA%BA",
+        "publishedAt": "2026-09-01T14:26:41Z"
       },
       {
         "id": "7597d78b41f30f68babe",
         "title": "上海医保新政：9月起个人账户结余可抵“分类自负”费用",
-        "summary": "上海医保新政：9月起个人账户结余可抵扣“分类自负”费用，减轻患者负担。",
+        "summary": "上海医保新政9月起实施，个人账户结余可抵“分类自负”费用，减轻参保人员负担。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33979511",
-        "publishedAt": "2026-09-01T12:31:41Z"
+        "publishedAt": "2026-09-01T14:26:41Z"
       },
       {
         "id": "a9520c3e514137eb6430",
         "title": "两部门：9月1日起外籍个人股息红利不再免征个税",
-        "summary": "两部门宣布，9月1日起外籍个人股息红利不再免征个税，完善税收政策。",
+        "summary": "两部门公告，9月1日起外籍个人股息红利不再免征个税，政策调整涉及外籍人员税收待遇。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2470820",
-        "publishedAt": "2026-09-01T12:31:41Z"
+        "publishedAt": "2026-09-01T14:26:41Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻重点关注地缘政治冲突、全球金融市场波动、重大自然灾害及多国政经动态，涉及美国、欧洲、中东及南亚地区。",
+    "overview": "国际方面：美伊紧张升级，伊朗呼吁美国遵守停火备忘录，特朗普威胁加大施压；俄罗斯连续夜间袭击基辅，至少12人死亡；尼泊尔洪水死亡人数超千人，救援艰难；挪威新国王宣誓就职；英国30年期国债收益率创28年新高，全球债市动荡；特朗普暗示审查马岛主权立场，英美关系面临考验。",
     "items": [
+      {
+        "id": "d47e7dcf4c01e30cf37e",
+        "title": "Iran urges US to honour commitments under MoU",
+        "summary": "伊朗呼吁美国遵守停火备忘录，此前霍尔木兹海峡袭击加剧紧张局势。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss",
+        "publishedAt": "2026-09-01T05:01:22Z"
+      },
+      {
+        "id": "aaf013fc38da10277063",
+        "title": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
+        "summary": "特朗普暗示对伊朗采取更严厉措施，美伊敌对升级引发海湾冲突持续担忧。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss",
+        "publishedAt": "2026-09-01T03:38:14Z"
+      },
+      {
+        "id": "f8e9dbeef1771d5c1480",
+        "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
+        "summary": "俄罗斯连续第六晚袭击基辅，至少12人死亡，乌方称导弹拦截弹短缺。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+        "publishedAt": "2026-09-01T01:59:40Z"
+      },
+      {
+        "id": "17ea1e26dc421d5523ce",
+        "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
+        "summary": "尼泊尔-西藏洪水死亡人数超千人，警方请求家属提供DNA以辨认遇难者身份。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
+        "publishedAt": "2026-09-01T02:04:26Z"
+      },
+      {
+        "id": "6f25f826610e0cd14f73",
+        "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+        "summary": "尼泊尔死亡人数突破千人，救援人员争分夺秒寻找被困在泥浆隧道中的工人。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-31T23:37:24Z"
+      },
+      {
+        "id": "8d240ff5d6a133335bfd",
+        "title": "Norway's Haakon takes oath as mourners pay respects to late King",
+        "summary": "挪威新国王哈康八世在议会宣誓就职，履行君主立宪制下首个重要机构步骤。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-01T06:06:58Z"
+      },
       {
         "id": "bb1cf34ab993982a5c30",
         "title": "UK long-term borrowing costs hit 28-year high",
@@ -84,60 +132,12 @@
         "publishedAt": "2026-09-01T02:44:36Z"
       },
       {
-        "id": "f8e9dbeef1771d5c1480",
-        "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
-        "summary": "俄连续第六晚袭击基辅，至少12人死亡，乌称因缺乏美制爱国者导弹防空承压。",
+        "id": "e1b090b831d88367c39a",
+        "title": "Trump suggests he is reviewing US support for UK over Falkland Islands",
+        "summary": "特朗普暗示将审查美国对马岛主权的支持立场，可能影响英美“特殊关系”。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
-        "publishedAt": "2026-09-01T01:59:40Z"
-      },
-      {
-        "id": "5f416cfcb5812fc5003c",
-        "title": "Nepal flood: Death toll tops 1,000 as rescue continues",
-        "summary": "尼泊尔洪水死亡人数超1000人，仍约4000人失踪，救援持续进行中。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nepal-flood-death-toll-tops-1-000-as-rescue-continues/a-78589460?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-01T02:53:00Z"
-      },
-      {
-        "id": "aaf013fc38da10277063",
-        "title": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
-        "summary": "特朗普暗示对伊朗采取更严厉回应，美伊敌对升级引发海湾冲突长期化担忧。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss",
-        "publishedAt": "2026-09-01T03:38:14Z"
-      },
-      {
-        "id": "a4146a6964ff6d069c37",
-        "title": "Iran says it will return to ceasefire if US does",
-        "summary": "伊朗总统佩泽希齐扬称若美国重返停火协议，伊方也愿停止敌对行动。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/iran-says-it-will-return-to-ceasefire-if-us-does/a-78586314?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-01T02:00:00Z"
-      },
-      {
-        "id": "ab286921e57c80eef2cd",
-        "title": "Shein valued at $26bn after long-awaited stock market debut",
-        "summary": "快时尚电商希音在香港上市，估值260亿美元，首日股价破发。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T02:01:26Z"
-      },
-      {
-        "id": "80e0377c75d364478590",
-        "title": "AfD's Ulrich Siegmund has plans for Saxony-Anhalt and beyond",
-        "summary": "德国选择党在萨克森-安哈尔特州领跑选情，计划将该州作为右翼政策模板并向全国推广。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/afd-s-ulrich-siegmund-has-plans-for-saxony-anhalt-and-beyond/a-78579499?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-08-31T20:32:00Z"
-      },
-      {
-        "id": "d6a9c126b299a9654f58",
-        "title": "Norway's new King Haakon VIII takes oath in parliament",
-        "summary": "The new king swore to uphold the constitution in parliament in Oslo, the first m",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/norway-s-new-king-haakon-viii-takes-oath-in-parliament/a-78606923?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-01T04:23:00Z"
+        "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
+        "publishedAt": "2026-09-01T00:31:35Z"
       }
     ]
   }
