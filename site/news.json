@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-03",
-  "generatedAt": "2026-09-02T20:25:50Z",
+  "generatedAt": "2026-09-02T22:24:04Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦美伊冲突升级、全球市场动荡、外交回应等重大时政经济动态。",
+    "overview": "国内方面，美伊冲突升级扰动全球市场，多国长债收益率飙升，国内股市调整，成交额萎缩；教育、民生话题亦受关注。",
     "items": [
       {
         "id": "2a1e7b157594d7d32b06",
         "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
-        "summary": "美伊冲突升级推高油价，美股债市波动，戴尔盘后大涨。",
+        "summary": "美伊冲突升级，油价飙升5%，美股债市遭抛售，黄金价格下跌。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-02T20:25:50Z"
+        "publishedAt": "2026-09-02T22:24:04Z"
       },
       {
         "id": "d9e73efd14ccc56cbc73",
         "title": "媒体：“梅姨”已被提起公诉",
-        "summary": "涉嫌多起拐卖案的\"梅姨\"已被提起公诉，引发社会关注。",
+        "summary": "备受关注的“梅姨”已被检察机关提起公诉。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33994925",
-        "publishedAt": "2026-09-02T20:25:50Z"
+        "publishedAt": "2026-09-02T22:24:04Z"
       },
       {
-        "id": "035e7353be0c6cf24d9f",
-        "title": "因中方持不同意见G20财长会未发表公报？外交部答凤凰",
-        "summary": "中方因持不同意见，G20财长会未发表公报，外交部回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w5wgWKFHep",
-        "publishedAt": "2026-09-02T20:25:50Z"
+        "id": "a80ca580f4ca0a0b1596",
+        "title": "一图看懂 | 多国长债拉响“警报”，全球股市面临“压力测试”",
+        "summary": "多国长期国债收益率创新高，全球股市正面临压力测试。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2472044",
+        "publishedAt": "2026-09-02T22:24:04Z"
+      },
+      {
+        "id": "f6d59b4d3d3f0c7fa81d",
+        "title": "“沪八条”效应显现！上海楼市二手房再现连续两日成交破千，改善型需求加速入场",
+        "summary": "上海楼市二手房成交连续两日破千套，改善型需求加速入场。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33984376",
+        "publishedAt": "2026-09-02T22:24:04Z"
       },
       {
         "id": "496cb806229b0ab39986",
         "title": "星宇股份董事长为“批量解约应届生”事件致歉：将构建和谐劳动关系，承担更多社会责任",
-        "summary": "星宇股份董事长就批量解约应届生事件致歉，承诺改进。",
+        "summary": "星宇股份董事长就批量解约应届生致歉，称将承担更多社会责任。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33991998",
-        "publishedAt": "2026-09-02T20:25:50Z"
+        "publishedAt": "2026-09-02T22:24:04Z"
       },
       {
-        "id": "3cc3955409d6f212b831",
-        "title": "美军袭击伊朗举办婚礼的民宅，伊方反击",
-        "summary": "美军袭击伊朗婚礼民宅致伤亡，伊方反击，局势紧张。",
+        "id": "035e7353be0c6cf24d9f",
+        "title": "因中方持不同意见G20财长会未发表公报？外交部答凤凰",
+        "summary": "因中方持不同意见，G20财长会未发表公报，外交部回应凤凰网。",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w4KZ1n8pqs",
-        "publishedAt": "2026-09-02T20:25:50Z"
+        "url": "https://news.ifeng.com/c/8w5wgWKFHep",
+        "publishedAt": "2026-09-02T22:24:04Z"
       },
       {
-        "id": "d3713fbf8ac2b68f1909",
-        "title": "美伊再燃战火！油价把全球债市“逼到墙角”，接下来是股市？",
-        "summary": "美伊再燃战火，油价逼债市，全球股市面临压力。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780866",
-        "publishedAt": "2026-09-02T20:25:50Z"
-      },
-      {
-        "id": "26a6d9840de0dd91fd6f",
-        "title": "山西发生重大刑案警方悬赏捉拿光头男",
-        "summary": "山西发生重大刑案，警方悬赏缉拿嫌犯，案件调查中。",
+        "id": "f3550192320af57ca62a",
+        "title": "吉隆泥石流致21人遇难541人失联",
+        "summary": "吉隆泥石流已致21人遇难，541人失联，救援工作持续。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680777422131695140/",
-        "publishedAt": "2026-09-02T20:25:50Z"
+        "url": "https://www.toutiao.com/trending/7680492476662054954/",
+        "publishedAt": "2026-09-02T22:24:04Z"
       },
       {
-        "id": "80b2f2a35f52988e2906",
-        "title": "“常来祖宗海更能体会飞行意义”",
-        "summary": "“常来祖宗海更能体会飞行意义”",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680517478992219689/",
-        "publishedAt": "2026-09-02T20:25:50Z"
+        "id": "ac34bba952c348653c92",
+        "title": "多地小学老师转教初中",
+        "summary": "多地小学教师转教初中，反映教育资源调配新趋势。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E6%95%99%E5%88%9D%E4%B8%AD",
+        "publishedAt": "2026-09-02T22:24:04Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注美伊冲突、中东局势、欧洲对俄制裁及美国内政经济影响。",
+    "overview": "国际方面，美伊冲突急剧升级引发市场动荡，尼泊尔洪灾与泥石流造成重大伤亡，德国与俄罗斯关系因无人机袭击事件紧张，多国政经动态引发关注。",
     "items": [
       {
-        "id": "c4b2f937373a5a39a8a2",
-        "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-        "summary": "伊朗称美军袭击婚礼系战争罪，美否认，伊方已反击。",
+        "id": "0f3233913456accf103f",
+        "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+        "summary": "以色列总理称正致力于推翻伊朗政府。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
+        "publishedAt": "2026-09-02T13:23:55Z"
+      },
+      {
+        "id": "1a84e11bda73170ddad7",
+        "title": "Nepal families hold symbolic funerals, thousands still missing",
+        "summary": "尼泊尔洪灾致家庭举行象征性葬礼，失踪人数仍达数千。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss",
+        "publishedAt": "2026-09-02T12:30:24Z"
+      },
+      {
+        "id": "5b49ac15a072e75132f6",
+        "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+        "summary": "OpenAI面临新诉讼，被指与Tumbler Ridge大规模枪击案有关。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
+        "publishedAt": "2026-09-02T14:15:32Z"
+      },
+      {
+        "id": "4f80168d382e77dc3aa3",
+        "title": "Trump doubles down on Canada trade war as talks remain stalled – US politics live",
+        "summary": "特朗普对加拿大商品加征50%关税，贸易谈判仍停滞。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
+        "publishedAt": "2026-09-02T14:05:00Z"
+      },
+      {
+        "id": "286c902e408618c97047",
+        "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+        "summary": "共和党参议员呼吁特朗普解雇国防部长赫格塞斯，称其管理不善。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+        "publishedAt": "2026-09-02T13:37:41Z"
+      },
+      {
+        "id": "1f16cb64112144302caa",
+        "title": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
+        "summary": "伊朗指责美国导弹袭击婚礼致4死68伤，称其为战争罪。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
+        "publishedAt": "2026-09-02T07:19:04Z"
+      },
+      {
+        "id": "0d18bdf4971c65ce2297",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "summary": "欧盟与北约誓言加大对俄施压，因德国指控俄发动无人机袭击。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T07:33:19Z"
+        "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T08:49:00Z"
       },
       {
         "id": "d782c59cff1d41941311",
         "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
-        "summary": "特朗普称美国掌握伊朗动向，威胁进一步打击，中东危机升级。",
+        "summary": "特朗普称美国监视伊朗一切行动，并威胁进一步军事打击。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
         "publishedAt": "2026-09-02T12:04:55Z"
-      },
-      {
-        "id": "f3312049351a36b5631c",
-        "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-        "summary": "伊朗报复美打击邻国，油价飙升，全球经济受扰。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-        "publishedAt": "2026-09-02T07:18:09Z"
-      },
-      {
-        "id": "04712a6d192ec98347b2",
-        "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-        "summary": "尼泊尔洪灾死亡超1200人，仍有数千失踪，救援进行。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T07:57:13Z"
-      },
-      {
-        "id": "5c8da4f59b6bc4e3cee7",
-        "title": "Justice department orders US states to expand how they report undocumented immigrants",
-        "summary": "美国司法部要求各州扩大非法移民报告范围。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/02/justice-department-undocumented-immigrants-reports",
-        "publishedAt": "2026-09-02T12:02:39Z"
-      },
-      {
-        "id": "48bc3477e185c3318daa",
-        "title": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
-        "summary": "老虎伍兹就佛州车祸避监禁，与检方达成认罪协议。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss",
-        "publishedAt": "2026-09-02T12:00:34Z"
-      },
-      {
-        "id": "150ea2ab6eb98ff1be8b",
-        "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
-        "summary": "马耳他商人被控谋杀记者无罪，引发争议。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
-        "publishedAt": "2026-09-02T11:48:18Z"
-      },
-      {
-        "id": "d904ff5d3d93f5f0387a",
-        "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-        "summary": "Nigeria - Africa's most populous country - is proving a tough market for ride-ha",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T12:21:04Z"
       }
     ]
   }
