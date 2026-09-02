@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-03",
-  "generatedAt": "2026-09-02T18:28:52Z",
+  "generatedAt": "2026-09-02T20:25:50Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，美伊冲突升级导致油价飙升，引发全球市场震荡；同时，多地教师转岗、星宇股份解约事件等社会新闻引发关注。",
+    "overview": "国内聚焦美伊冲突升级、全球市场动荡、外交回应等重大时政经济动态。",
     "items": [
-      {
-        "id": "80b2f2a35f52988e2906",
-        "title": "“常来祖宗海更能体会飞行意义”",
-        "summary": "中国渔民称常来祖宗海更能体会飞行意义，引发家国情怀讨论。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680517478992219689/",
-        "publishedAt": "2026-09-02T18:28:52Z"
-      },
-      {
-        "id": "ac34bba952c348653c92",
-        "title": "多地小学老师转教初中",
-        "summary": "多地小学老师转教初中，缓解师资结构性短缺，教育布局调整引热议。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E6%95%99%E5%88%9D%E4%B8%AD",
-        "publishedAt": "2026-09-02T18:28:52Z"
-      },
       {
         "id": "2a1e7b157594d7d32b06",
         "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
-        "summary": "美伊冲突升级，油价飙升5%，美股股债双杀，芯片指数回落，黄金下挫。",
+        "summary": "美伊冲突升级推高油价，美股债市波动，戴尔盘后大涨。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-02T18:28:52Z"
+        "publishedAt": "2026-09-02T20:25:50Z"
+      },
+      {
+        "id": "d9e73efd14ccc56cbc73",
+        "title": "媒体：“梅姨”已被提起公诉",
+        "summary": "涉嫌多起拐卖案的\"梅姨\"已被提起公诉，引发社会关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33994925",
+        "publishedAt": "2026-09-02T20:25:50Z"
+      },
+      {
+        "id": "035e7353be0c6cf24d9f",
+        "title": "因中方持不同意见G20财长会未发表公报？外交部答凤凰",
+        "summary": "中方因持不同意见，G20财长会未发表公报，外交部回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w5wgWKFHep",
+        "publishedAt": "2026-09-02T20:25:50Z"
       },
       {
         "id": "496cb806229b0ab39986",
         "title": "星宇股份董事长为“批量解约应届生”事件致歉：将构建和谐劳动关系，承担更多社会责任",
-        "summary": "星宇股份董事长就批量解约应届生致歉，承诺构建和谐劳动关系。",
+        "summary": "星宇股份董事长就批量解约应届生事件致歉，承诺改进。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33991998",
-        "publishedAt": "2026-09-02T18:28:52Z"
+        "publishedAt": "2026-09-02T20:25:50Z"
       },
       {
-        "id": "a80ca580f4ca0a0b1596",
-        "title": "一图看懂 | 多国长债拉响“警报”，全球股市面临“压力测试”",
-        "summary": "多国长债收益率飙升，全球股市面临压力测试，市场避险情绪升温。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2472044",
-        "publishedAt": "2026-09-02T18:28:52Z"
-      },
-      {
-        "id": "f8b8bce6b89576ff9dff",
-        "title": "普京：日本的态度让我惊讶",
-        "summary": "普京对日本态度表示惊讶，俄日关系再引关注。",
+        "id": "3cc3955409d6f212b831",
+        "title": "美军袭击伊朗举办婚礼的民宅，伊方反击",
+        "summary": "美军袭击伊朗婚礼民宅致伤亡，伊方反击，局势紧张。",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w5NxlPLrB6",
-        "publishedAt": "2026-09-02T18:28:52Z"
+        "url": "https://news.ifeng.com/c/8w4KZ1n8pqs",
+        "publishedAt": "2026-09-02T20:25:50Z"
       },
       {
-        "id": "73b23adcb5e93fa236ba",
-        "title": "家长在班级群自报干部身份",
-        "summary": "家长在班级群自报干部身份引争议，教育公平性再受拷问。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E8%87%AA%E6%8A%A5%E5%B9%B2%E9%83%A8%E8%BA%AB%E4%BB%BD%23",
-        "publishedAt": "2026-09-02T18:28:52Z"
+        "id": "d3713fbf8ac2b68f1909",
+        "title": "美伊再燃战火！油价把全球债市“逼到墙角”，接下来是股市？",
+        "summary": "美伊再燃战火，油价逼债市，全球股市面临压力。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780866",
+        "publishedAt": "2026-09-02T20:25:50Z"
       },
       {
-        "id": "d03cc28e515b2d7831f8",
-        "title": "国台办回应郑丽文向西藏灾区捐款",
-        "summary": "国台办回应郑丽文向西藏灾区捐款，体现两岸同胞血浓于水。",
+        "id": "26a6d9840de0dd91fd6f",
+        "title": "山西发生重大刑案警方悬赏捉拿光头男",
+        "summary": "山西发生重大刑案，警方悬赏缉拿嫌犯，案件调查中。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680517478992186921/",
-        "publishedAt": "2026-09-02T18:28:52Z"
+        "url": "https://www.toutiao.com/trending/7680777422131695140/",
+        "publishedAt": "2026-09-02T20:25:50Z"
+      },
+      {
+        "id": "80b2f2a35f52988e2906",
+        "title": "“常来祖宗海更能体会飞行意义”",
+        "summary": "“常来祖宗海更能体会飞行意义”",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680517478992219689/",
+        "publishedAt": "2026-09-02T20:25:50Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊军事冲突再度激化，油价大涨冲击全球股市债市；此外，乌克兰无人机威胁俄领空，德国指责俄罗斯发动混合攻击等事件牵动局势。",
+    "overview": "国际关注美伊冲突、中东局势、欧洲对俄制裁及美国内政经济影响。",
     "items": [
       {
         "id": "c4b2f937373a5a39a8a2",
         "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-        "summary": "伊朗指责美国袭击婚礼致4死，称为战争罪行，美否认袭击平民。",
+        "summary": "伊朗称美军袭击婚礼系战争罪，美否认，伊方已反击。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-02T07:33:19Z"
       },
       {
-        "id": "9dd7b45d5c07467760d5",
-        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-        "summary": "沙特称伊朗袭击油轮致两名菲律宾船员死亡，地区局势紧张。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T09:33:45Z"
-      },
-      {
-        "id": "874075a7cb5ee236405f",
-        "title": "US oil giant Chevron to expand Venezuela operations",
-        "summary": "美国雪佛龙扩大在委内瑞拉业务，日产量将翻倍，引争议。",
+        "id": "d782c59cff1d41941311",
+        "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+        "summary": "特朗普称美国掌握伊朗动向，威胁进一步打击，中东危机升级。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
-        "publishedAt": "2026-09-02T08:57:22Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+        "publishedAt": "2026-09-02T12:04:55Z"
       },
       {
-        "id": "0fde17698fe424097365",
-        "title": "Uber lays off 3,300 employees in largest cuts since the pandemic",
-        "summary": "优步裁3300人，为疫情以来最大规模，旨在精简管理。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
-        "publishedAt": "2026-09-02T08:55:52Z"
-      },
-      {
-        "id": "0d18bdf4971c65ce2297",
-        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "summary": "欧盟和北约誓言对俄施压，德国指责俄袭击莱比锡机场。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T08:49:00Z"
-      },
-      {
-        "id": "312d49b837d3e96a9a58",
-        "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
-        "summary": "泽连斯基称俄领空对民航不安全，俄将加强打击乌能源设施。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
-        "publishedAt": "2026-09-02T07:52:05Z"
+        "id": "f3312049351a36b5631c",
+        "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
+        "summary": "伊朗报复美打击邻国，油价飙升，全球经济受扰。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+        "publishedAt": "2026-09-02T07:18:09Z"
       },
       {
         "id": "04712a6d192ec98347b2",
         "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-        "summary": "尼泊尔洪灾致1200多人死亡，救援持续，联合国呼吁支援。",
+        "summary": "尼泊尔洪灾死亡超1200人，仍有数千失踪，救援进行。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-02T07:57:13Z"
       },
       {
-        "id": "7287a93e9f57869fac31",
-        "title": "US prosecutors refuse to say if they secretly obtained Don Lemon’s phone records",
-        "summary": "Experts have expressed deep concerns that the practice runs afoul of the fourth ",
+        "id": "5c8da4f59b6bc4e3cee7",
+        "title": "Justice department orders US states to expand how they report undocumented immigrants",
+        "summary": "美国司法部要求各州扩大非法移民报告范围。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/02/don-lemon-phone-records",
-        "publishedAt": "2026-09-02T10:17:28Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/justice-department-undocumented-immigrants-reports",
+        "publishedAt": "2026-09-02T12:02:39Z"
+      },
+      {
+        "id": "48bc3477e185c3318daa",
+        "title": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
+        "summary": "老虎伍兹就佛州车祸避监禁，与检方达成认罪协议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss",
+        "publishedAt": "2026-09-02T12:00:34Z"
+      },
+      {
+        "id": "150ea2ab6eb98ff1be8b",
+        "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
+        "summary": "马耳他商人被控谋杀记者无罪，引发争议。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
+        "publishedAt": "2026-09-02T11:48:18Z"
+      },
+      {
+        "id": "d904ff5d3d93f5f0387a",
+        "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+        "summary": "Nigeria - Africa's most populous country - is proving a tough market for ride-ha",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T12:21:04Z"
       }
     ]
   }
