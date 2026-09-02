@@ -1,108 +1,124 @@
 {
   "version": 1,
   "date": "2026-09-03",
-  "generatedAt": "2026-09-02T16:26:55Z",
+  "generatedAt": "2026-09-02T18:28:52Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "美伊冲突升级引发全球市场动荡，国内关注经济数据、民生政策及社会事件。",
+    "overview": "国内方面，美伊冲突升级导致油价飙升，引发全球市场震荡；同时，多地教师转岗、星宇股份解约事件等社会新闻引发关注。",
     "items": [
       {
-        "id": "f726cd19f2a5df652684",
-        "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
-        "summary": "美军打击伊朗境内目标，伊朗反击，油价大涨，全球市场动荡。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780851",
-        "publishedAt": "2026-09-02T16:26:55Z"
-      },
-      {
-        "id": "2a1e7b157594d7d32b06",
-        "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
-        "summary": "美伊冲突升级致油价飙升5%，美股债双杀，黄金重挫，经济风险加剧。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-02T16:26:55Z"
-      },
-      {
-        "id": "d03cc28e515b2d7831f8",
-        "title": "国台办回应郑丽文向西藏灾区捐款",
-        "summary": "国台办回应郑丽文向西藏灾区捐款，体现两岸同胞血脉相连。",
+        "id": "80b2f2a35f52988e2906",
+        "title": "“常来祖宗海更能体会飞行意义”",
+        "summary": "中国渔民称常来祖宗海更能体会飞行意义，引发家国情怀讨论。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680517478992186921/",
-        "publishedAt": "2026-09-02T16:26:55Z"
+        "url": "https://www.toutiao.com/trending/7680517478992219689/",
+        "publishedAt": "2026-09-02T18:28:52Z"
       },
       {
         "id": "ac34bba952c348653c92",
         "title": "多地小学老师转教初中",
-        "summary": "多地小学老师转教初中，折射出生人口下降对教育体系的冲击。",
+        "summary": "多地小学老师转教初中，缓解师资结构性短缺，教育布局调整引热议。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E6%95%99%E5%88%9D%E4%B8%AD",
-        "publishedAt": "2026-09-02T16:26:55Z"
+        "publishedAt": "2026-09-02T18:28:52Z"
       },
       {
-        "id": "f6d59b4d3d3f0c7fa81d",
-        "title": "“沪八条”效应显现！上海楼市二手房再现连续两日成交破千，改善型需求加速入场",
-        "summary": "\"沪八条\"效应显现，上海二手房成交连续破千，改善型需求入场。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33984376",
-        "publishedAt": "2026-09-02T16:26:55Z"
-      },
-      {
-        "id": "035e7353be0c6cf24d9f",
-        "title": "因中方持不同意见G20财长会未发表公报？外交部答凤凰",
-        "summary": "G20财长会未发公报因中方持不同意见，外交部回应凤凰记者。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w5wgWKFHep",
-        "publishedAt": "2026-09-02T16:26:55Z"
+        "id": "2a1e7b157594d7d32b06",
+        "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
+        "summary": "美伊冲突升级，油价飙升5%，美股股债双杀，芯片指数回落，黄金下挫。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780783",
+        "publishedAt": "2026-09-02T18:28:52Z"
       },
       {
         "id": "496cb806229b0ab39986",
         "title": "星宇股份董事长为“批量解约应届生”事件致歉：将构建和谐劳动关系，承担更多社会责任",
-        "summary": "星宇股份董事长就批量解约应届生事件致歉，承诺构建和谐劳动关系。",
+        "summary": "星宇股份董事长就批量解约应届生致歉，承诺构建和谐劳动关系。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33991998",
-        "publishedAt": "2026-09-02T16:26:55Z"
+        "publishedAt": "2026-09-02T18:28:52Z"
       },
       {
-        "id": "f3550192320af57ca62a",
-        "title": "吉隆泥石流致21人遇难541人失联",
-        "summary": "吉隆泥石流致21人遇难541人失联，救援工作持续进行。",
+        "id": "a80ca580f4ca0a0b1596",
+        "title": "一图看懂 | 多国长债拉响“警报”，全球股市面临“压力测试”",
+        "summary": "多国长债收益率飙升，全球股市面临压力测试，市场避险情绪升温。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2472044",
+        "publishedAt": "2026-09-02T18:28:52Z"
+      },
+      {
+        "id": "f8b8bce6b89576ff9dff",
+        "title": "普京：日本的态度让我惊讶",
+        "summary": "普京对日本态度表示惊讶，俄日关系再引关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w5NxlPLrB6",
+        "publishedAt": "2026-09-02T18:28:52Z"
+      },
+      {
+        "id": "73b23adcb5e93fa236ba",
+        "title": "家长在班级群自报干部身份",
+        "summary": "家长在班级群自报干部身份引争议，教育公平性再受拷问。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%9C%A8%E7%8F%AD%E7%BA%A7%E7%BE%A4%E8%87%AA%E6%8A%A5%E5%B9%B2%E9%83%A8%E8%BA%AB%E4%BB%BD%23",
+        "publishedAt": "2026-09-02T18:28:52Z"
+      },
+      {
+        "id": "d03cc28e515b2d7831f8",
+        "title": "国台办回应郑丽文向西藏灾区捐款",
+        "summary": "国台办回应郑丽文向西藏灾区捐款，体现两岸同胞血浓于水。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680492476662054954/",
-        "publishedAt": "2026-09-02T16:26:55Z"
+        "url": "https://www.toutiao.com/trending/7680517478992186921/",
+        "publishedAt": "2026-09-02T18:28:52Z"
       }
     ]
   },
   "global": {
-    "overview": "美伊军事冲突持续，俄罗斯与西方关系紧张，多国遭遇自然灾害，科技与AI领域动态受关注。",
+    "overview": "国际方面，美伊军事冲突再度激化，油价大涨冲击全球股市债市；此外，乌克兰无人机威胁俄领空，德国指责俄罗斯发动混合攻击等事件牵动局势。",
     "items": [
       {
         "id": "c4b2f937373a5a39a8a2",
         "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-        "summary": "伊朗称美军空袭婚礼致4死系战争罪行，美国否认针对平民，伊朗已反击。",
+        "summary": "伊朗指责美国袭击婚礼致4死，称为战争罪行，美否认袭击平民。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-02T07:33:19Z"
       },
       {
-        "id": "1f16cb64112144302caa",
-        "title": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
-        "summary": "伊朗指控美国在婚礼袭击中犯下战争罪，爆炸造成至少4死68伤，局势升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
-        "publishedAt": "2026-09-02T07:19:04Z"
+        "id": "9dd7b45d5c07467760d5",
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "summary": "沙特称伊朗袭击油轮致两名菲律宾船员死亡，地区局势紧张。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T09:33:45Z"
       },
       {
-        "id": "f3312049351a36b5631c",
-        "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-        "summary": "伊朗对海湾邻国开火还击美国空袭，油价飙升，全球经济和美国中期选举受影响。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-        "publishedAt": "2026-09-02T07:18:09Z"
+        "id": "874075a7cb5ee236405f",
+        "title": "US oil giant Chevron to expand Venezuela operations",
+        "summary": "美国雪佛龙扩大在委内瑞拉业务，日产量将翻倍，引争议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
+        "publishedAt": "2026-09-02T08:57:22Z"
+      },
+      {
+        "id": "0fde17698fe424097365",
+        "title": "Uber lays off 3,300 employees in largest cuts since the pandemic",
+        "summary": "优步裁3300人，为疫情以来最大规模，旨在精简管理。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
+        "publishedAt": "2026-09-02T08:55:52Z"
+      },
+      {
+        "id": "0d18bdf4971c65ce2297",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "summary": "欧盟和北约誓言对俄施压，德国指责俄袭击莱比锡机场。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T08:49:00Z"
       },
       {
         "id": "312d49b837d3e96a9a58",
         "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
-        "summary": "泽连斯基称俄领空对民航不安全，警告航空公司避开，俄增加无人机攻击。",
+        "summary": "泽连斯基称俄领空对民航不安全，俄将加强打击乌能源设施。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
         "publishedAt": "2026-09-02T07:52:05Z"
@@ -110,34 +126,18 @@
       {
         "id": "04712a6d192ec98347b2",
         "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-        "summary": "尼泊尔洪灾死亡超1200人，数千人失踪，联合国称救援持续，援助空运。",
+        "summary": "尼泊尔洪灾致1200多人死亡，救援持续，联合国呼吁支援。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-02T07:57:13Z"
       },
       {
-        "id": "9bb066f0f753464903cd",
-        "title": "Russian ‘attempts to intimidate Europe will fail’, says EU’s Kallas as Germany blames Moscow for Leipzig drone incident – Europe live",
-        "summary": "欧盟和北约称将加大对俄施压，德国指控莫斯科与莱比锡无人机事件有关。",
+        "id": "7287a93e9f57869fac31",
+        "title": "US prosecutors refuse to say if they secretly obtained Don Lemon’s phone records",
+        "summary": "Experts have expressed deep concerns that the practice runs afoul of the fourth ",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
-        "publishedAt": "2026-09-02T07:46:30Z"
-      },
-      {
-        "id": "0d18bdf4971c65ce2297",
-        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "summary": "欧盟和北约誓言加强对俄罗斯施压，因德国发生\"新升级\"事件。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T06:34:22Z"
-      },
-      {
-        "id": "05b4f48152375ee4b7e3",
-        "title": "China’s Xi urges new Middle East security framework during rare Egypt visit",
-        "summary": "中国习近平访问埃及，呼吁建立中东安全新框架，讨论美伊战争。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss",
-        "publishedAt": "2026-09-02T07:42:01Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/don-lemon-phone-records",
+        "publishedAt": "2026-09-02T10:17:28Z"
       }
     ]
   }
