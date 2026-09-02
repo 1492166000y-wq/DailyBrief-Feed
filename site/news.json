@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T00:33:45Z",
+  "generatedAt": "2026-09-02T02:37:48Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "美伊冲突升级、油价金价波动、科技产业动态等",
+    "overview": "美伊冲突升级影响全球市场，国内关注新教材、政策调整及科技产业动态。",
     "items": [
+      {
+        "id": "2a1e7b157594d7d32b06",
+        "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
+        "summary": "美伊冲突升级，油价飙升、美股下挫，黄金重挫，戴尔盘后涨超10%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780783",
+        "publishedAt": "2026-09-02T02:37:48Z"
+      },
       {
         "id": "f726cd19f2a5df652684",
         "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
-        "summary": "美军打击伊朗境内目标，特朗普警告若报复将遭更猛烈打击，伊朗反击，美油盘中涨近6%。",
+        "summary": "美军打击伊朗境内目标，特朗普警告，伊朗反击，美油盘中涨近6%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780851",
-        "publishedAt": "2026-09-02T00:33:45Z"
+        "publishedAt": "2026-09-02T02:37:48Z"
+      },
+      {
+        "id": "7c9324099f89e9dff01c",
+        "title": "全国小学初中已全部替换新教材",
+        "summary": "全国小学初中已全部替换新教材，教育领域重大变化。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E5%B7%B2%E5%85%A8%E9%83%A8%E6%9B%BF%E6%8D%A2%E6%96%B0%E6%95%99%E6%9D%90",
+        "publishedAt": "2026-09-02T02:37:48Z"
       },
       {
         "id": "2ee44f04e3de65afccc6",
         "title": "两部门：9月1日起外籍个人股息红利不再免征个税",
-        "summary": "9月1日起外籍个人股息红利不再免征个税，政策调整。",
+        "summary": "两部门规定9月1日起外籍个人股息红利不再免征个税，政策调整。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780819",
-        "publishedAt": "2026-09-02T00:33:45Z"
-      },
-      {
-        "id": "04526f15e09c5421886d",
-        "title": "100元报销需王兴兴亲自审批？宇树科技回应：很多内容不实，切勿当真",
-        "summary": "宇树科技回应报销需亲自审批传闻，称内容不实。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33983507",
-        "publishedAt": "2026-09-02T00:33:45Z"
+        "publishedAt": "2026-09-02T02:37:48Z"
       },
       {
         "id": "214e760d7a73344c872b",
         "title": "最高涨幅1000元！华为、小米、荣耀多款手机调价，机构预计压力延续至明年",
-        "summary": "华为、小米、荣耀多款手机涨价，最高涨1000元，机构预计压力延续至明年。",
+        "summary": "华为、小米、荣耀多款手机调价，最高涨1000元，机构预计压力持续。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33982253",
-        "publishedAt": "2026-09-02T00:33:45Z"
+        "publishedAt": "2026-09-02T02:37:48Z"
       },
       {
-        "id": "a9965a0f091d821b5f5a",
-        "title": "美企将接管中企运营的委内瑞拉油田？外交部回应",
-        "summary": "外交部回应美企接管委内瑞拉油田传闻。",
+        "id": "b99c1b9d3b2924f3e0fa",
+        "title": "特朗普“密友”戴安斯再度访华",
+        "summary": "特朗普“密友”戴安斯再度访华，中美关系受关注。",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w45OcUjPtk",
-        "publishedAt": "2026-09-02T00:33:45Z"
+        "url": "https://news.ifeng.com/c/8w4YuyC1zQl",
+        "publishedAt": "2026-09-02T02:37:48Z"
       },
       {
-        "id": "8141d04670ab46e46198",
-        "title": "A股三大股指集体收跌，农业股逆势掀涨停潮，银行批量创新高，算力硬件下挫，恒指跌1%，科网股普跌",
-        "summary": "A股三大股指收跌，农业股逆势涨停，港股恒指跌1%，科网股普跌。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780791",
-        "publishedAt": "2026-09-02T00:33:45Z"
+        "id": "c0ca6209a45f859b14f7",
+        "title": "多个10万亿级消费新赛道要来了",
+        "summary": "多个10万亿级消费新赛道要来了，涉及消费领域新机遇。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA10%E4%B8%87%E4%BA%BF%E7%BA%A7%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B5%9B%E9%81%93%E8%A6%81%E6%9D%A5%E4%BA%86",
+        "publishedAt": "2026-09-02T02:37:48Z"
       },
       {
-        "id": "a84a60fb3a4fe51e0b96",
-        "title": "智谱电话会：ARR年底指引24亿美元，收入落后Anthropic 17个月，API提价101%后调用量仍增40倍",
-        "summary": "智谱电话会：ARR年底目标24亿美元，API提价后调用量增40倍。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780798",
-        "publishedAt": "2026-09-02T00:33:45Z"
-      },
-      {
-        "id": "4c350c1b0ac739bf0bf3",
-        "title": "众多“香港大药房”网店被国家中医药管理局通报后下架，仍有商家更名再营业",
-        "summary": "香港大药房网店被通报后下架，仍有商家更名再营业。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33983612",
-        "publishedAt": "2026-09-02T00:33:45Z"
+        "id": "017c8c2cbab883a3ee66",
+        "title": "超强厄尔尼诺预期“点燃”种业板块行情 业内人士对相关影响看法不一",
+        "summary": "超强厄尔尼诺预期点燃种业板块，业内人士看法不一。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2471186",
+        "publishedAt": "2026-09-02T02:37:48Z"
       }
     ]
   },
   "global": {
-    "overview": "美伊冲突加剧、国际外交、科技AI发展等",
+    "overview": "美伊冲突加剧，全球市场动荡，德国指认俄罗斯无人机袭击，尼泊尔洪灾持续。",
     "items": [
       {
-        "id": "a476ce6cdfeda5322c10",
-        "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-        "summary": "伊朗报复美军袭击，向美国目标发射导弹和无人机。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T16:13:26Z"
+        "id": "ba5f52aab7e8f3f1092f",
+        "title": "Iran war: US, Tehran trade fire in new flare-up",
+        "summary": "美伊互射导弹，霍尔木兹海峡附近爆炸，局势升级。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-01T17:29:00Z"
       },
       {
-        "id": "ff6d2cfec6ff460142c8",
-        "title": "US launches new airstrikes on Iranian targets as hostilities flare",
-        "summary": "美国对伊朗发动新一轮空袭，油价上涨，冲突升级。",
+        "id": "1c93f9f57f3e4a078840",
+        "title": "US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities",
+        "summary": "美伊新一轮空袭，伊朗报复美军基地，冲突扩大。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
-        "publishedAt": "2026-09-01T13:49:45Z"
+        "publishedAt": "2026-09-01T17:06:08Z"
       },
       {
-        "id": "5a42d9aaed38d20d73be",
-        "title": "Trump says US position on Falklands 'one of many' under review",
-        "summary": "特朗普称美国对福克兰群岛立场正在评估中。",
+        "id": "92a721e45ee4fe09ecaa",
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "summary": "德国指认俄罗斯参与莱比锡机场无人机袭击事件。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T08:35:28Z"
+        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-01T17:59:54Z"
       },
       {
-        "id": "b8d9ea80630b00660676",
-        "title": "News live: Labor has ‘grave concerns’ for missing Australians in Nepal-Tibet flooding; Canavan claims ‘feminisation of curriculum’ led to rise of ‘manosphere’",
-        "summary": "澳大利亚担忧尼泊尔西藏洪水中失踪公民，国内政治话题。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-        "publishedAt": "2026-09-01T16:16:45Z"
-      },
-      {
-        "id": "a92b4fc1c98f77f88501",
-        "title": "China’s Xi makes his first visit to Egypt in a decade",
-        "summary": "习近平十年首次访问埃及，与埃及总统会晤。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss",
-        "publishedAt": "2026-09-01T11:38:37Z"
-      },
-      {
-        "id": "046990ee48b5813ca1d4",
-        "title": "Path to Astra: critical capabilities and frontier safeguards",
-        "summary": "OpenAI发布Path to Astra，强调关键能力和前沿安全措施。",
-        "source": "Hacker News",
-        "url": "https://openai.com/index/path-to-astra/",
-        "publishedAt": "2026-09-01T12:20:41Z"
+        "id": "fef8afa0fc1b322bd871",
+        "title": "Congo's Ebola caseload tops 6,000 as concerns grow",
+        "summary": "刚果（金）埃博拉病例超6000，死亡近3000，疫情严峻。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-01T10:02:00Z"
       },
       {
         "id": "0a6e9f43e2e8580fb2f3",
         "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
-        "summary": "约翰·特努斯接任苹果CEO，库克卸任。",
+        "summary": "约翰·特努斯接任苹果CEO，库克卸任，科技圈关注。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
         "publishedAt": "2026-09-01T09:36:33Z"
       },
       {
+        "id": "a92b4fc1c98f77f88501",
+        "title": "China’s Xi makes his first visit to Egypt in a decade",
+        "summary": "习近平十年内首次访问埃及，中东外交布局。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss",
+        "publishedAt": "2026-09-01T11:38:37Z"
+      },
+      {
         "id": "17ea1e26dc421d5523ce",
         "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
-        "summary": "尼泊尔洪水死亡人数超千，警方要求亲属提供DNA确认身份。",
+        "summary": "尼泊尔-西藏洪水死亡超千人，警方征集DNA确认身份。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
         "publishedAt": "2026-09-01T09:32:40Z"
+      },
+      {
+        "id": "2b8a821f9aaad489219f",
+        "title": "Federal judge tosses Trump lawsuit over young trans athletes in California school sports",
+        "summary": "联邦法官驳回特朗普诉讼，跨性别运动员政策获支持。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-trans-athletes-california-lawsuit-dismissed",
+        "publishedAt": "2026-09-01T16:33:03Z"
       }
     ]
   }
