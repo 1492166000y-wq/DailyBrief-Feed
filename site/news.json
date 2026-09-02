@@ -1,100 +1,124 @@
 {
   "version": 1,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T04:27:18Z",
+  "generatedAt": "2026-09-02T06:35:13Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻聚焦新教材全面替换、温州停课、美伊冲突影响油价及股市、多家企业动态及人事任免等。",
+    "overview": "国内新闻聚焦教育、社保、国际油价及市场动态，同时涉及公共安全与政策调整。",
     "items": [
       {
         "id": "07ec1642503f6cc9b860",
         "title": "全国小学初中已全部替换新教材",
-        "summary": "全国小学初中已全部替换新教材，教育领域重大变革。",
+        "summary": "全国小学初中已全部替换新教材",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7680071437759254079/",
-        "publishedAt": "2026-09-02T04:27:18Z"
+        "publishedAt": "2026-09-02T06:35:13Z"
       },
       {
-        "id": "9affe7b0bda40c755729",
-        "title": "温州多地紧急通知：停课一天",
-        "summary": "温州多地因紧急情况通知停课一天，应对突发事件。",
+        "id": "893823bc044b0dc05a93",
+        "title": "多地社保缴费基数结束连年快涨",
+        "summary": "多地社保缴费基数结束连年快涨",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E%E5%A4%9A%E5%9C%B0%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%EF%BC%9A%E5%81%9C%E8%AF%BE%E4%B8%80%E5%A4%A9",
-        "publishedAt": "2026-09-02T04:27:18Z"
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%A4%BE%E4%BF%9D%E7%BC%B4%E8%B4%B9%E5%9F%BA%E6%95%B0%E7%BB%93%E6%9D%9F%E8%BF%9E%E5%B9%B4%E5%BF%AB%E6%B6%A8",
+        "publishedAt": "2026-09-02T06:35:13Z"
       },
       {
         "id": "2a1e7b157594d7d32b06",
         "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
-        "summary": "美伊冲突升级致油价飙升5%，美股债市双杀，黄金重挫。",
+        "summary": "美伊冲突升级，油价飙升5%，美股债双杀，黄金重挫",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-02T04:27:18Z"
+        "publishedAt": "2026-09-02T06:35:13Z"
       },
       {
-        "id": "04526f15e09c5421886d",
-        "title": "100元报销需王兴兴亲自审批？宇树科技回应：很多内容不实，切勿当真",
-        "summary": "宇树科技回应报销传闻，称内容不实，勿当真。",
+        "id": "286a890ee570880244b3",
+        "title": "黄之锋当庭认罪",
+        "summary": "黄之锋当庭认罪",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680758254154137641/",
+        "publishedAt": "2026-09-02T06:35:13Z"
+      },
+      {
+        "id": "4c350c1b0ac739bf0bf3",
+        "title": "众多“香港大药房”网店被国家中医药管理局通报后下架，仍有商家更名再营业",
+        "summary": "国家中医药管理局通报后下架，仍有商家更名再营业",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33983507",
-        "publishedAt": "2026-09-02T04:27:18Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_33983612",
+        "publishedAt": "2026-09-02T06:35:13Z"
       },
       {
         "id": "c573e68d89014ff4bf8d",
         "title": "我国电力供给迎来新格局",
-        "summary": "我国电力供给迎来新格局，能源结构优化调整。",
+        "summary": "我国电力供给迎来新格局",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7679760134273663039/",
-        "publishedAt": "2026-09-02T04:27:18Z"
+        "publishedAt": "2026-09-02T06:35:13Z"
       },
       {
-        "id": "175cfee861379fd67fc4",
-        "title": "孔绍逊任甘肃省代省长",
-        "summary": "孔绍逊任甘肃省代省长，地方人事变动。",
+        "id": "d03cc28e515b2d7831f8",
+        "title": "国台办回应郑丽文向西藏灾区捐款",
+        "summary": "国台办回应郑丽文向西藏灾区捐款",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680771912805597226/",
-        "publishedAt": "2026-09-02T04:27:18Z"
+        "url": "https://www.toutiao.com/trending/7680517478992186921/",
+        "publishedAt": "2026-09-02T06:35:13Z"
       },
       {
-        "id": "2ee44f04e3de65afccc6",
-        "title": "两部门：9月1日起外籍个人股息红利不再免征个税",
-        "summary": "9月1日起外籍个人股息红利不再免征个税，财税政策调整。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780819",
-        "publishedAt": "2026-09-02T04:27:18Z"
-      },
-      {
-        "id": "214e760d7a73344c872b",
-        "title": "最高涨幅1000元！华为、小米、荣耀多款手机调价，机构预计压力延续至明年",
-        "summary": "华为、小米、荣耀等多款手机调价，最高涨幅1000元。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33982253",
-        "publishedAt": "2026-09-02T04:27:18Z"
+        "id": "1aef351aa8d80614749a",
+        "title": "福建福鼎：全市停工停产停课休市",
+        "summary": "福建福鼎：全市停工停产停课休市",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E7%A6%8F%E9%BC%8E%EF%BC%9A%E5%85%A8%E5%B8%82%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7%E5%81%9C%E8%AF%BE%E4%BC%91%E5%B8%82",
+        "publishedAt": "2026-09-02T06:35:13Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻重点关注美伊冲突升级、全球债市动荡、德国指控俄罗斯无人机袭击、尼泊尔洪灾及AI领域最新进展。",
+    "overview": "国际新闻重点关注美伊冲突升级、尼泊尔泥石流灾害、香港黄之锋认罪等重大事件。",
     "items": [
       {
-        "id": "67ccd0b6228a8019c397",
-        "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-        "summary": "美国袭击伊朗婚礼致4人死亡，伊朗反击美军基地。",
+        "id": "c31222bd6c3cce95c1f2",
+        "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+        "summary": "伊朗袭击美国中东基地，此前美袭婚礼致5死",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T19:19:44Z"
+        "publishedAt": "2026-09-01T22:26:35Z"
       },
       {
-        "id": "1c3c0d557acf73848c78",
-        "title": "US strikes on Iran kill child at wedding ceremony",
-        "summary": "美国空袭伊朗婚礼致5人死亡，数十人受伤。",
+        "id": "5c7aff3ca8e45a1e1606",
+        "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+        "summary": "美军打击伊朗，特朗普威胁更猛烈报复，伊朗反击",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+        "publishedAt": "2026-09-01T22:15:11Z"
+      },
+      {
+        "id": "b695ec3797da7cafe4e1",
+        "title": "Hong Kong activist Joshua Wong pleads guilty in national security case",
+        "summary": "香港活动人士黄之锋在国家安全案件认罪",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
-        "publishedAt": "2026-09-01T19:27:26Z"
+        "url": "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss",
+        "publishedAt": "2026-09-01T21:05:02Z"
+      },
+      {
+        "id": "17ea1e26dc421d5523ce",
+        "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
+        "summary": "尼泊尔-西藏洪水死亡超千人，警方征集DNA",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
+        "publishedAt": "2026-09-01T09:32:40Z"
+      },
+      {
+        "id": "4b678b69157382fde93a",
+        "title": "Global heating will hit at least 1.8C, UN warns, and there are ‘no good outcomes’",
+        "summary": "联合国警告全球升温至少1.8℃，无良好结局",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/environment/2026/sep/02/global-heating-warming-1-8c-best-case-scenario-un-united-nations-environment-programme-report",
+        "publishedAt": "2026-09-01T20:00:22Z"
       },
       {
         "id": "471b2ce1962d59ed8f81",
         "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
-        "summary": "美国对伊朗南部海岸发动新打击，否认其约旦基地被袭。",
+        "summary": "美国对伊朗发动新打击，否认约旦基地被袭",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
         "publishedAt": "2026-09-01T17:06:19Z"
@@ -102,42 +126,18 @@
       {
         "id": "92a721e45ee4fe09ecaa",
         "title": "Germany says Russia behind Leipzig airport drone attack",
-        "summary": "德国指认俄罗斯参与莱比锡机场无人机袭击事件。",
+        "summary": "德国指俄罗斯主导莱比锡机场无人机袭击",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-01T17:59:54Z"
       },
       {
-        "id": "17ea1e26dc421d5523ce",
-        "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
-        "summary": "尼泊尔-西藏洪水死亡超千人，警方征集DNA确认身份。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
-        "publishedAt": "2026-09-01T09:32:40Z"
-      },
-      {
-        "id": "7790477c5152606e8b28",
-        "title": "Architect of British government’s AI strategy joins Anthropic",
-        "summary": "英国政府AI战略设计师加入Anthropic公司任高级职务。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
-        "publishedAt": "2026-09-01T20:00:23Z"
-      },
-      {
-        "id": "0d6be4b1890a63ff7629",
-        "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
-        "summary": "美众议长约翰逊称撒谎是部分伊朗人的宗教，引发争议。",
+        "id": "b28914c8620830bc8207",
+        "title": "US House passes funding bill to avert government shutdown ahead of midterms",
+        "summary": "美国众议院通过临时拨款法案避免政府停摆",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
-        "publishedAt": "2026-09-01T18:20:45Z"
-      },
-      {
-        "id": "4b678b69157382fde93a",
-        "title": "Global heating will hit at least 1.8C, UN warns, and there are ‘no good outcomes’",
-        "summary": "联合国警告全球升温至少1.8℃，无良好结局可循。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/sep/02/global-heating-warming-1-8c-best-case-scenario-un-united-nations-environment-programme-report",
-        "publishedAt": "2026-09-01T20:00:22Z"
+        "url": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
+        "publishedAt": "2026-09-01T14:44:28Z"
       }
     ]
   }
