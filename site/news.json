@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T12:31:57Z",
+  "generatedAt": "2026-09-02T14:25:53Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，国际局势动荡影响市场，美伊冲突升级引发油价上涨；国内政策与经济动态备受关注，如G20会议分歧、楼市新政效应等。",
+    "overview": "国内方面，美伊冲突升级引发油价飙升、股市震荡，国内多地小学教师转教初中反映师资结构变化，微信推出新功能，吉隆泥石流灾害持续引发关注，国台办回应郑丽文捐款等，多条时政财经要闻受关注。",
     "items": [
       {
         "id": "f726cd19f2a5df652684",
         "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
-        "summary": "美军打击伊朗境内目标，伊朗反击，美油盘中涨近6%，市场避险情绪升温。",
+        "summary": "美军打击伊朗境内目标，特朗普威胁更猛烈报复，伊方反击，美油盘中涨近6%，全球市场震荡。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780851",
-        "publishedAt": "2026-09-02T12:31:57Z"
+        "publishedAt": "2026-09-02T14:25:53Z"
       },
       {
-        "id": "2a1e7b157594d7d32b06",
-        "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
-        "summary": "美伊冲突升级，油价飙升5%，美国股债双杀，黄金重挫，全球市场动荡。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-02T12:31:57Z"
+        "id": "ac34bba952c348653c92",
+        "title": "多地小学老师转教初中",
+        "summary": "多地小学教师转教初中，反映教师结构变化及学生减少趋势，引发对教育资源配置的讨论。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E6%95%99%E5%88%9D%E4%B8%AD",
+        "publishedAt": "2026-09-02T14:25:53Z"
+      },
+      {
+        "id": "7d4953be150efef1e4c7",
+        "title": "微信新功能专治各种看不见",
+        "summary": "微信推出新功能，旨在解决用户日常使用中的痛点，引发网友热议。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%9C%8B%E4%B8%8D%E8%A7%81%23",
+        "publishedAt": "2026-09-02T14:25:53Z"
+      },
+      {
+        "id": "9c12a22f20b62790bb90",
+        "title": "“梅姨”被提起公诉",
+        "summary": "“梅姨”被提起公诉，案件将依法审判，彰显法治精神。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680902764173459497/",
+        "publishedAt": "2026-09-02T14:25:53Z"
+      },
+      {
+        "id": "89bb29c5457592808da2",
+        "title": "湖南麻阳县教育局就“开学首日有学生无教室上课”致歉",
+        "summary": "湖南麻阳县教育局就开学首日学生无教室上课致歉，承诺保障教学秩序。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33984802",
+        "publishedAt": "2026-09-02T14:25:53Z"
+      },
+      {
+        "id": "d03cc28e515b2d7831f8",
+        "title": "国台办回应郑丽文向西藏灾区捐款",
+        "summary": "国台办回应郑丽文向西藏灾区捐款，体现两岸同胞血浓于水。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680517478992186921/",
+        "publishedAt": "2026-09-02T14:25:53Z"
       },
       {
         "id": "a03c356947acfb7801e6",
         "title": "因中方持不同意见，G20财长会未发表公报，外交部答凤凰",
-        "summary": "因中方持不同意见，G20财长会未发表公报，外交部回应表示遗憾。",
+        "summary": "G20财长会因中方持不同意见未发表公报，外交部回应称中方基于协商一致原则。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8w5wgWKFHep",
-        "publishedAt": "2026-09-02T12:31:57Z"
+        "publishedAt": "2026-09-02T14:25:53Z"
       },
       {
-        "id": "943c180fba4b800b3745",
-        "title": "中方对G20会议未发表公报深表遗憾",
-        "summary": "中方对G20会议未发表公报深表遗憾，强调多边合作重要性。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%AF%B9G20%E4%BC%9A%E8%AE%AE%E6%9C%AA%E5%8F%91%E8%A1%A8%E5%85%AC%E6%8A%A5%E6%B7%B1%E8%A1%A8%E9%81%97%E6%86%BE",
-        "publishedAt": "2026-09-02T12:31:57Z"
-      },
-      {
-        "id": "f6d59b4d3d3f0c7fa81d",
-        "title": "“沪八条”效应显现！上海楼市二手房再现连续两日成交破千，改善型需求加速入场",
-        "summary": "\"沪八条\"效应显现，上海二手房成交连续破千，改善型需求加速入场。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33984376",
-        "publishedAt": "2026-09-02T12:31:57Z"
-      },
-      {
-        "id": "3d8de9f99aab9e0d1f2d",
-        "title": "读懂这个“50.9%”的分量",
-        "summary": "解读制造业PMI达50.9%，显示经济回暖信号，企业信心增强。",
+        "id": "f3550192320af57ca62a",
+        "title": "吉隆泥石流致21人遇难541人失联",
+        "summary": "吉隆泥石流已致21人遇难，541人失联，救援持续，形势严峻。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680696073110831154/",
-        "publishedAt": "2026-09-02T12:31:57Z"
-      },
-      {
-        "id": "4c350c1b0ac739bf0bf3",
-        "title": "众多“香港大药房”网店被国家中医药管理局通报后下架，仍有商家更名再营业",
-        "summary": "众多\"香港大药房\"网店被通报下架，仍有商家改名继续营业，监管需加强。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33983612",
-        "publishedAt": "2026-09-02T12:31:57Z"
-      },
-      {
-        "id": "94caefdd9f3c675ccc5d",
-        "title": "温州苍南特大暴雨致积涝",
-        "summary": "温州苍南特大暴雨致积涝，救灾工作已展开，需关注极端天气防范。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%8B%8D%E5%8D%97%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%87%B4%E7%A7%AF%E6%B6%9D%23",
-        "publishedAt": "2026-09-02T12:31:57Z"
+        "url": "https://www.toutiao.com/trending/7680492476662054954/",
+        "publishedAt": "2026-09-02T14:25:53Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊冲突加剧，伊朗指责美国袭击婚礼；德国将莱比锡机场无人机事件归咎于俄罗斯；尼泊尔洪水死亡人数超千人。",
+    "overview": "国际方面，美伊冲突愈演愈烈，伊朗袭击美军基地并指责美国空袭婚礼，乌克兰警告航空公司避开俄罗斯领空，俄罗斯被指袭击德国机场等，地缘政治紧张加剧，全球市场波动。",
     "items": [
       {
-        "id": "675c8f8360bafe0b87e9",
-        "title": "Iran accuses US of ‘war crime’ after missile blast kills five people at wedding",
-        "summary": "伊朗指责美国袭击婚礼致5死68伤，称其为战争罪行，局势可能升级。",
+        "id": "1f16cb64112144302caa",
+        "title": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
+        "summary": "美国导弹袭击伊朗南部婚礼现场致4死68伤，伊朗称美犯战争罪，紧张升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
         "publishedAt": "2026-09-02T03:56:00Z"
       },
       {
-        "id": "94de5cbb5321aa4f414f",
-        "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
-        "summary": "美国轰炸伊朗锡里克婚礼致5死，伊朗对美基地发动反击。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
-        "publishedAt": "2026-09-02T02:57:16Z"
-      },
-      {
         "id": "c31222bd6c3cce95c1f2",
         "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-        "summary": "伊朗袭击美军基地，回应美国空袭致婚礼5人死亡事件，紧张加剧。",
+        "summary": "伊朗袭击美军基地，回应美军空袭婚礼致5人死亡事件，局势进一步恶化。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-01T22:26:35Z"
       },
       {
-        "id": "43c3921993e3cd873aac",
-        "title": "Germany’s move to blame Russia for Leipzig drone incident ‘a grave mistake,’ says Putin– Europe live",
-        "summary": "普京称德国归咎俄无人机袭击是\"严重错误\"，欧洲各国反应强烈。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
-        "publishedAt": "2026-09-02T04:18:24Z"
-      },
-      {
-        "id": "421baa5a50c3e55274ab",
-        "title": "EU summons Russian envoy over failed Leipzig drone attack",
-        "summary": "欧盟就莱比锡无人机袭击召见俄特使，指责其\"国家支持恐怖主义\"。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-02T00:00:00Z"
-      },
-      {
-        "id": "92a721e45ee4fe09ecaa",
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "summary": "德国称俄主导莱比锡机场无人机袭击，俄否认，双方外交对抗升级。",
+        "id": "38c8bf6d3802b4d15fb7",
+        "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+        "summary": "泽连斯基警告外国航空公司避开俄领空，乌无人机扩大行动，俄誓言加强袭击。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T17:59:54Z"
+        "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T05:16:26Z"
       },
       {
-        "id": "17ea1e26dc421d5523ce",
-        "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
-        "summary": "尼泊尔-西藏洪水死亡超千人，警方征集DNA确认遇难者身份。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
-        "publishedAt": "2026-09-01T09:32:40Z"
+        "id": "0d18bdf4971c65ce2297",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "summary": "欧盟与北约批评俄罗斯在德国莱比锡无人机袭击中日益鲁莽，承诺加大压力。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T05:04:47Z"
       },
       {
-        "id": "46ca856d3e1713c924bd",
-        "title": "Nepal-Tibet flood response turns to relief and recovery",
-        "summary": "尼泊尔-西藏洪水救援转向恢复，超千人死亡，数千人失踪。",
+        "id": "04712a6d192ec98347b2",
+        "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+        "summary": "联合国称尼泊尔洪灾死亡超千人，数千人失踪，救援与空运持续推进。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T03:36:13Z"
+        "publishedAt": "2026-09-02T05:17:43Z"
+      },
+      {
+        "id": "a046be3b21f54ae8975b",
+        "title": "Video: Chinese President Xi makes first visit to Egypt in a decade",
+        "summary": "中国国家主席习近平十年来首次访问埃及，进行国事访问，推动双边关系发展。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss",
+        "publishedAt": "2026-09-02T02:54:52Z"
+      },
+      {
+        "id": "551c2d94a383be336871",
+        "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+        "summary": "荷兰央行将部分黄金储备从美国、加拿大转移至伦敦，以应对不稳定性。",
+        "source": "Hacker News",
+        "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+        "publishedAt": "2026-09-02T04:55:40Z"
+      },
+      {
+        "id": "a2f35d1f894921da62d7",
+        "title": "Charlie Kirk murder suspect pleads not guilty to murder charge",
+        "summary": "查理·柯克谋杀案嫌疑人否认谋杀指控，案件进入司法程序。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/charlie-kirk-murder-suspect-pleads-not-guilty-to-murder-charge?traffic_source=rss",
+        "publishedAt": "2026-09-02T04:57:45Z"
       }
     ]
   }
