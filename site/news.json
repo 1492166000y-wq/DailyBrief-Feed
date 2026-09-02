@@ -1,79 +1,79 @@
 {
   "version": 1,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T08:27:15Z",
+  "generatedAt": "2026-09-02T10:26:33Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，重点包括美伊冲突升级引发市场震荡、尼泊尔泥石流灾难、黄之锋认罪、宇树科技回应等事件。",
+    "overview": "今日国内要闻涵盖中美俄关系、中东局势引发油价波动、黄之锋认罪、多地灾情及救援、宇树科技回应等。",
     "items": [
       {
-        "id": "2a1e7b157594d7d32b06",
-        "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
-        "summary": "美伊冲突升级，油价飙升5%，美股债双杀，芯片指数回落，黄金重挫。",
+        "id": "f726cd19f2a5df652684",
+        "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
+        "summary": "美军打击伊朗境内目标，特朗普警告若报复将遭更猛烈打击，伊朗反击，美油盘中涨近6%。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-02T08:27:15Z"
+        "url": "https://wallstreetcn.com/articles/3780851",
+        "publishedAt": "2026-09-02T10:26:33Z"
       },
       {
-        "id": "59a1218a6e2c3afda94b",
-        "title": "尼泊尔泥石流已致1118死4858失联",
-        "summary": "尼泊尔泥石流已致1118人死亡，4858人失联，救援进行中。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680811771950534170/",
-        "publishedAt": "2026-09-02T08:27:15Z"
-      },
-      {
-        "id": "286a890ee570880244b3",
-        "title": "黄之锋当庭认罪",
-        "summary": "黄之锋当庭认罪，涉违反国安法，案件引发关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680758254154137641/",
-        "publishedAt": "2026-09-02T08:27:15Z"
-      },
-      {
-        "id": "04526f15e09c5421886d",
-        "title": "100元报销需王兴兴亲自审批？宇树科技回应：很多内容不实，切勿当真",
-        "summary": "宇树科技回应报销传闻，称内容不实，切勿当真。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33983507",
-        "publishedAt": "2026-09-02T08:27:15Z"
-      },
-      {
-        "id": "f8b8bce6b89576ff9dff",
-        "title": "普京：日本的态度让我惊讶",
-        "summary": "普京称日本的态度让他惊讶，涉及俄日关系。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w5NxlPLrB6",
-        "publishedAt": "2026-09-02T08:27:15Z"
-      },
-      {
-        "id": "4c350c1b0ac739bf0bf3",
-        "title": "众多“香港大药房”网店被国家中医药管理局通报后下架，仍有商家更名再营业",
-        "summary": "香港大药房网店被通报后下架，部分商家更名再营业。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33983612",
-        "publishedAt": "2026-09-02T08:27:15Z"
-      },
-      {
-        "id": "a6f52840eff3847e756d",
-        "title": "光伏装机超煤电 电力供给迎新格局",
-        "summary": "光伏装机超煤电，电力供给迎来新格局。",
+        "id": "7e205a0a672ab53b782e",
+        "title": "泥石流救援进入核心区 这一幕泪目",
+        "summary": "泥石流救援进入核心区，现场一幕令人泪目。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%85%89%E4%BC%8F%E8%A3%85%E6%9C%BA%E8%B6%85%E7%85%A4%E7%94%B5+%E7%94%B5%E5%8A%9B%E4%BE%9B%E7%BB%99%E8%BF%8E%E6%96%B0%E6%A0%BC%E5%B1%80",
-        "publishedAt": "2026-09-02T08:27:15Z"
+        "url": "https://www.baidu.com/s?wd=%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%95%91%E6%8F%B4%E8%BF%9B%E5%85%A5%E6%A0%B8%E5%BF%83%E5%8C%BA+%E8%BF%99%E4%B8%80%E5%B9%95%E6%B3%AA%E7%9B%AE",
+        "publishedAt": "2026-09-02T10:26:33Z"
+      },
+      {
+        "id": "649f4985946a43fe7fb7",
+        "title": "黄之锋当庭认罪",
+        "summary": "反中乱港分子黄之锋当庭认罪。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%B9%8B%E9%94%8B%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA",
+        "publishedAt": "2026-09-02T10:26:33Z"
       },
       {
         "id": "78b4328a3f4d2aa855af",
         "title": "算电协同再提速！国家能源局部署新型电网建设 人工智能+等新技术获点名",
-        "summary": "国家能源局部署新型电网建设，点名人工智能等新技术。",
+        "summary": "国家能源局部署新型电网建设，算电协同提速，点名人工智能+等技术。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2471600",
-        "publishedAt": "2026-09-02T08:27:15Z"
+        "publishedAt": "2026-09-02T10:26:33Z"
+      },
+      {
+        "id": "04421999cfadca50907b",
+        "title": "尼泊尔泥石流灾害遇难人数升至1066人",
+        "summary": "尼泊尔泥石流遇难人数升至1066人。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33984537",
+        "publishedAt": "2026-09-02T10:26:33Z"
+      },
+      {
+        "id": "04526f15e09c5421886d",
+        "title": "100元报销需王兴兴亲自审批？宇树科技回应：很多内容不实，切勿当真",
+        "summary": "宇树科技回应“100元报销需王兴兴审批”：内容不实。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33983507",
+        "publishedAt": "2026-09-02T10:26:33Z"
+      },
+      {
+        "id": "2a1e7b157594d7d32b06",
+        "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
+        "summary": "美伊冲突升级油价飙升5%，美股债双杀，黄金重挫。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780783",
+        "publishedAt": "2026-09-02T10:26:33Z"
+      },
+      {
+        "id": "44e241c05eea117d5eb3",
+        "title": "中俄领导人讨论中美俄会晤？中方回应",
+        "summary": "中俄领导人讨论中美俄会晤？中方回应。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680838856903574025/",
+        "publishedAt": "2026-09-02T10:26:33Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，聚焦美伊军事冲突、德国指俄无人机袭击、尼泊尔洪水灾难、香港黄之锋认罪等重大新闻。",
+    "overview": "国际焦点包括美军与伊朗互相打击、莱比锡机场无人机事件、尼泊尔泥石流、黄之锋认罪、美国航母停靠泰国等。",
     "items": [
       {
         "id": "c31222bd6c3cce95c1f2",
@@ -84,12 +84,12 @@
         "publishedAt": "2026-09-01T22:26:35Z"
       },
       {
-        "id": "421baa5a50c3e55274ab",
-        "title": "EU summons Russian envoy over failed Leipzig drone attack",
-        "summary": "欧盟召见俄特使，就莱比锡无人机袭击事件表态。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-02T00:00:00Z"
+        "id": "92a721e45ee4fe09ecaa",
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "summary": "德国称俄主导莱比锡机场无人机袭击，俄方否认。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-01T17:59:54Z"
       },
       {
         "id": "17ea1e26dc421d5523ce",
@@ -108,36 +108,36 @@
         "publishedAt": "2026-09-01T21:05:02Z"
       },
       {
-        "id": "28dd59c6294050855711",
-        "title": "Bus crash on Egypt's Red Sea coast kills 16",
-        "summary": "埃及红海巴士事故致16人死亡，28人受伤。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T00:24:24Z"
+        "id": "e05da5d0e8b080b364d9",
+        "title": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
+        "summary": "5000名美军水兵随林肯号航母停靠泰国芭堤雅。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss",
+        "publishedAt": "2026-09-02T02:08:44Z"
       },
       {
-        "id": "e44b680c16525396cae6",
-        "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
-        "summary": "几内亚比绍公投通过新宪法，扩大总统权力。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T23:48:39Z"
+        "id": "421baa5a50c3e55274ab",
+        "title": "EU summons Russian envoy over failed Leipzig drone attack",
+        "summary": "欧盟就莱比锡无人机事件召见俄罗斯大使。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-02T00:00:00Z"
       },
       {
-        "id": "5c7aff3ca8e45a1e1606",
-        "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
-        "summary": "美军打击伊朗目标，特朗普警告若报复将遭更猛烈打击。",
+        "id": "d934ec6d1d5c82256c50",
+        "title": "Putin signals support for Iran in ongoing war with the U.S.",
+        "summary": "普京支持伊朗对抗美国。",
         "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
-        "publishedAt": "2026-09-01T22:15:11Z"
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s",
+        "publishedAt": "2026-09-02T00:41:42Z"
       },
       {
-        "id": "92a721e45ee4fe09ecaa",
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "summary": "德国称俄主导莱比锡机场无人机袭击，俄方否认。",
+        "id": "38c8bf6d3802b4d15fb7",
+        "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+        "summary": "泽连斯基称俄罗斯领空对民航不安全，建议避开。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-01T17:59:54Z"
+        "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T02:00:08Z"
       }
     ]
   }
