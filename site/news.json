@@ -1,87 +1,135 @@
 {
   "version": 1,
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T00:35:36Z",
+  "generatedAt": "2026-09-03T05:07:39Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻聚焦时政、经济与产业动态，包括美国与伊朗冲突对全球市场的影响、AI与科技进展、国内政策与社会事件。",
+    "overview": "国内要闻涵盖抗日战争纪念、央行货币政策、校园特权事件、台风应急、股市动态、科技进展及社会新闻。",
     "items": [
       {
-        "id": "ae6a8e3819b586036cd9",
-        "title": "【早报】特朗普：随时准备打击伊朗；美股收涨，结束3连跌；原油、黄金、白银齐涨；涉及A股，重要指数调整",
-        "summary": "特朗普称随时准备打击伊朗，美股收涨结束三连跌，油价及黄金、白银齐涨，涉及A股的重要指数将调整。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2472584",
-        "publishedAt": "2026-09-03T00:35:36Z"
-      },
-      {
-        "id": "f2fb4b923abb8d966e11",
-        "title": "“小非农”低于预期！美国8月ADP新增就业3.8万人，创下今年以来最低单月增长纪录",
-        "summary": "美国8月ADP新增就业仅3.8万人，创今年最低，低于预期，显示劳动力市场放缓。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780923",
-        "publishedAt": "2026-09-03T00:35:36Z"
-      },
-      {
-        "id": "17eef06687d46e936fbd",
-        "title": "2万亿美元IPO前夕打出组合拳！Anthropic Fable 5.1发布：基准测试“屠榜”、成本大幅削减、反蒸馏机制落地",
-        "summary": "Anthropic发布Fable 5.1模型，基准测试领先，成本削减并落地反蒸馏机制，为2万亿美元IPO铺垫。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780853",
-        "publishedAt": "2026-09-03T00:35:36Z"
-      },
-      {
-        "id": "d3dfc37a5347734e5f50",
-        "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
-        "summary": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780885",
-        "publishedAt": "2026-09-03T00:35:36Z"
-      },
-      {
-        "id": "c2c99b43cea4aad8e764",
-        "title": "读懂这个“50.9%”的分量",
-        "summary": "解读中国经济数据50.9%的分量，反映经济复苏态势与政策成效。",
+        "id": "ff8e375aa00e4549fea1",
+        "title": "中国人民抗日战争胜利81周年纪念日",
+        "summary": "纪念抗战胜利81周年，多地举行活动缅怀先烈，强调和平珍贵。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E8%BF%99%E4%B8%AA%E2%80%9C50.9%25%E2%80%9D%E7%9A%84%E5%88%86%E9%87%8F",
-        "publishedAt": "2026-09-03T00:35:36Z"
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A981%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%97%A5",
+        "publishedAt": "2026-09-03T05:07:39Z"
       },
       {
-        "id": "e5db52350bcc47891496",
-        "title": "中际旭创前十大股东已无章建平，二季度末其曾位列第九大股东",
-        "summary": "中际旭创前十大股东已无章建平，二季度末其曾列第九，显示大佬持仓变动。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2472250",
-        "publishedAt": "2026-09-03T00:35:36Z"
+        "id": "1d0d15c4055556505da6",
+        "title": "潘功胜：继续实施好适度宽松的货币政策，持续推进货币政策框架转型",
+        "summary": "央行行长潘功胜表示继续实施适度宽松货币政策，推进货币政策框架转型。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780913",
+        "publishedAt": "2026-09-03T05:07:39Z"
       },
       {
-        "id": "035e7353be0c6cf24d9f",
-        "title": "因中方持不同意见G20财长会未发表公报？外交部答凤凰",
-        "summary": "因中方持不同意见，G20财长会未发表公报，外交部回应凤凰卫视提问。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w5wgWKFHep",
-        "publishedAt": "2026-09-03T00:35:36Z"
-      },
-      {
-        "id": "d9e73efd14ccc56cbc73",
-        "title": "媒体：“梅姨”已被提起公诉",
-        "summary": "媒体报道“梅姨”已被提起公诉，涉及相关案件进展。",
+        "id": "00f157a2c07004242018",
+        "title": "家长在班级群自报干部身份“让老师关照孩子”？保定一中：会对所有学生一视同仁",
+        "summary": "保定一中回应家长晒公职求关照事件，承诺对所有学生一视同仁，纪检介入。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33994925",
-        "publishedAt": "2026-09-03T00:35:36Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_33995440",
+        "publishedAt": "2026-09-03T05:07:39Z"
+      },
+      {
+        "id": "53d308a7043f250654aa",
+        "title": "温州发布告全体市民书",
+        "summary": "温州发布告全体市民书，提醒防范台风“沙德尔”，确保安全。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2472432",
+        "publishedAt": "2026-09-03T05:07:39Z"
+      },
+      {
+        "id": "68094187eb0536df823d",
+        "title": "美股收盘：三大指数终于止跌 博通豪迈业绩指引震惊市场",
+        "summary": "美股三大指数止跌，博通财报亮眼带动科技股，AI相关板块强势。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2472571",
+        "publishedAt": "2026-09-03T05:07:39Z"
+      },
+      {
+        "id": "d443297a814bf003edaf",
+        "title": "央视网曝光职校实习黑产",
+        "summary": "央视曝光职校实习黑产：介绍实习生拿人头费，损害学生权益引关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681081563724644371/",
+        "publishedAt": "2026-09-03T05:07:39Z"
+      },
+      {
+        "id": "a870e1a172f7ba86b326",
+        "title": "中国驻俄使馆就征兵类信息发布提醒",
+        "summary": "中国驻俄使馆提醒中国公民注意征兵信息相关风险，防范被骗。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680517479004671507/",
+        "publishedAt": "2026-09-03T05:07:39Z"
+      },
+      {
+        "id": "ac7878f14f50f0dcdc43",
+        "title": "福州全市停课",
+        "summary": "台风“沙德尔”影响，福州全市停课，确保学生安全。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE%23",
+        "publishedAt": "2026-09-03T05:07:39Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻涵盖美伊冲突、欧洲安全、经济市场波动及社会事件，重点关注影响广泛的重大议题。",
+    "overview": "国际焦点包括美伊冲突升级、荷兰黄金储备转移、德国关闭俄机构、乌克兰无人机战、美股与AI投资、NBA重罚快船等。",
     "items": [
       {
-        "id": "47277688b412f7ac0788",
-        "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
-        "summary": "特朗普称美伊新一轮冲突不会持续太久，并称已控制霍尔木兹海峡。",
+        "id": "9bf7670467ee92b3f97e",
+        "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+        "summary": "特朗普威胁继续打击伊朗，称可随时行动，伊朗死亡人数升至18人。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
-        "publishedAt": "2026-09-02T16:00:00Z"
+        "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
+        "publishedAt": "2026-09-02T17:45:32Z"
+      },
+      {
+        "id": "8ba8eb83d86d4c5158d2",
+        "title": "Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical unrest'",
+        "summary": "荷兰央行以地缘政治动荡为由，将86吨黄金从美国转移至伦敦。",
+        "source": "Hacker News",
+        "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+        "publishedAt": "2026-09-02T19:53:12Z"
+      },
+      {
+        "id": "51879d9610f32997c5dd",
+        "title": "Russia to close branches of Germany's Goethe-Institut",
+        "summary": "俄罗斯将关闭德国歌德学院分部，回应德国关闭俄文化机构。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-02T19:44:00Z"
+      },
+      {
+        "id": "38c8bf6d3802b4d15fb7",
+        "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+        "summary": "泽连斯基呼吁航空公司避开俄领空，乌克兰加强无人机行动。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T08:12:43Z"
+      },
+      {
+        "id": "0eff79952703c730742c",
+        "title": "Muse Spark 1.3",
+        "summary": "Meta发布Muse Spark 1.3 AI模型，引发技术社区广泛讨论。",
+        "source": "Hacker News",
+        "url": "https://developer.meta.com/ai/models/muse-spark/",
+        "publishedAt": "2026-09-02T11:35:04Z"
+      },
+      {
+        "id": "754c198b7f217137df5e",
+        "title": "Clippers docked five first-round draft picks and fined $30m over Kawhi Leonard scandal",
+        "summary": "NBA重罚快船：因伦纳德签约违规，剥夺五个首轮签并罚款3000万。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/sport/2026/sep/02/la-clippers-kawhi-leonard-fine-salary-cap-nba",
+        "publishedAt": "2026-09-02T12:52:28Z"
+      },
+      {
+        "id": "64ee2343832b79e6cfec",
+        "title": "Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia",
+        "summary": "马耳他商人因记者谋杀案被判无罪，受害者家属表示将上诉。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/maltese-tycoon-acquitted-of-killing-journalist-daphne-caruana-galizia?traffic_source=rss",
+        "publishedAt": "2026-09-02T19:00:27Z"
       },
       {
         "id": "1f16cb64112144302caa",
@@ -90,54 +138,6 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
         "publishedAt": "2026-09-02T07:19:04Z"
-      },
-      {
-        "id": "f3312049351a36b5631c",
-        "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-        "summary": "伊朗报复性打击海湾邻国，回应美国空袭，六个月冲突推高油价，扰动全球经济。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-        "publishedAt": "2026-09-02T07:18:09Z"
-      },
-      {
-        "id": "c689cf5cf86afd97789a",
-        "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
-        "summary": "荷兰央行以“地缘政治动荡”为由，将86吨黄金从美加转移至伦敦。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-        "publishedAt": "2026-09-02T15:47:15Z"
-      },
-      {
-        "id": "0d18bdf4971c65ce2297",
-        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "summary": "欧盟与北约誓言加大对俄施压，因德国指控俄罗斯发动无人机袭击。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-02T08:49:00Z"
-      },
-      {
-        "id": "b5004ee55d77ddfc8ba9",
-        "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-        "summary": "METR报告发布关于OpenAI/Hugging Face遭黑客攻击事件的调查。",
-        "source": "Hacker News",
-        "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
-        "publishedAt": "2026-09-02T15:08:47Z"
-      },
-      {
-        "id": "385fab1cfb6c30e44cb9",
-        "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-        "summary": "Uber立即停止在尼日利亚和乌干达的运营，引发市场关注。",
-        "source": "Hacker News",
-        "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-        "publishedAt": "2026-09-02T13:46:33Z"
-      },
-      {
-        "id": "286c902e408618c97047",
-        "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-        "summary": "共和党参议员呼吁特朗普解雇国防部长赫格塞斯，称其管理不善。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-        "publishedAt": "2026-09-02T13:37:41Z"
       }
     ]
   }
