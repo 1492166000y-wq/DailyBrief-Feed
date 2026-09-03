@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T08:27:33Z",
+  "generatedAt": "2026-09-03T10:26:35Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内多领域动态：解放军黄岩岛战巡、家长晒公职引关注、美军航母状态、货币政策、美伊局势等成为焦点；国际方面，美伊紧张升级、俄德外交摩擦、英国政治变动及全球财经动态受关注。",
+    "overview": "解放军黄岩岛战巡、淘宝崩溃、美股涨跌等国内时政财经科技动态；国际方面聚焦特朗普对伊朗打击、中美AI竞争、尼泊尔洪灾等。",
     "items": [
       {
         "id": "bb3b84bbedc18dbdc84b",
         "title": "解放军“战巡黄岩岛”透露哪些信号",
-        "summary": "解放军在黄岩岛战巡，展示维护主权决心，信号强烈。",
+        "summary": "解放军在黄岩岛战巡，展示维护主权决心，专家分析其战略信号。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7680773649092050963/",
-        "publishedAt": "2026-09-03T08:27:33Z"
+        "publishedAt": "2026-09-03T10:26:35Z"
       },
       {
-        "id": "1ac188b950f0d95f9092",
-        "title": "官方通报“家长自称纪委书记求关照”",
-        "summary": "家长自称纪委书记要求关照孩子，官方通报称已介入调查处理。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681201653525089802/",
-        "publishedAt": "2026-09-03T08:27:33Z"
+        "id": "41ad83a3575cda7488aa",
+        "title": "淘宝崩了",
+        "summary": "淘宝平台突发崩溃，影响用户购物，官方回应修复中。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86",
+        "publishedAt": "2026-09-03T10:26:35Z"
       },
       {
         "id": "d3dfc37a5347734e5f50",
         "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
-        "summary": "油价涨势暂歇缓解通胀担忧，美股止跌，欧债收益率新高。",
+        "summary": "油价回落缓解通胀，美股反弹但欧债收益率创新高，金融市场分化。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780885",
-        "publishedAt": "2026-09-03T08:27:33Z"
-      },
-      {
-        "id": "9e9fd0a45c432032510f",
-        "title": "特朗普：随时准备新一轮打击，不会持续太久",
-        "summary": "特朗普称随时准备打击伊朗，但不会持续太久，中东局势紧张。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w5qfiJBYnP",
-        "publishedAt": "2026-09-03T08:27:33Z"
+        "publishedAt": "2026-09-03T10:26:35Z"
       },
       {
         "id": "1d0d15c4055556505da6",
         "title": "潘功胜：继续实施好适度宽松的货币政策，持续推进货币政策框架转型",
-        "summary": "潘功胜表示继续实施适度宽松货币政策，推进货币政策框架转型。",
+        "summary": "央行行长潘功胜表示继续实施适度宽松货币政策，推进政策框架转型。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3780913",
-        "publishedAt": "2026-09-03T08:27:33Z"
+        "publishedAt": "2026-09-03T10:26:35Z"
       },
       {
-        "id": "2e833c6ae49ca42f6a5c",
-        "title": "莆田停工停产停课休市",
-        "summary": "莆田因台风或灾害停工停课休市，居民生活受影响。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681179064354213418/",
-        "publishedAt": "2026-09-03T08:27:33Z"
+        "id": "8e2692291b12fa44a881",
+        "title": "商务部：敦促法方立即停止反超快时尚法实施",
+        "summary": "商务部敦促法国停止反超快时尚法实施，维护贸易公平。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2473096",
+        "publishedAt": "2026-09-03T10:26:35Z"
       },
       {
-        "id": "25932069235efb619dc7",
-        "title": "体育总局：将培育积极健康的球迷文化，深化体育“饭圈”乱象整治",
-        "summary": "体育总局将整治体育饭圈乱象，培育积极健康球迷文化。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33999313",
-        "publishedAt": "2026-09-03T08:27:33Z"
+        "id": "5372101f80942065fb7f",
+        "title": "海口一餐厅发生火灾致6死3伤",
+        "summary": "海口一餐厅火灾致6死伤，消防部门已介入调查。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%8F%A3%E4%B8%80%E9%A4%90%E5%8E%85%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E8%87%B46%E6%AD%BB3%E4%BC%A4",
+        "publishedAt": "2026-09-03T10:26:35Z"
       },
       {
-        "id": "a870e1a172f7ba86b326",
-        "title": "中国驻俄使馆就征兵类信息发布提醒",
-        "summary": "中国驻俄使馆就征兵信息发布提醒，提醒公民注意安全。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680517479004671507/",
-        "publishedAt": "2026-09-03T08:27:33Z"
+        "id": "49bc974a0daed060fdb0",
+        "title": "建议取消ETC 热议核心是什么",
+        "summary": "公众热议取消ETC，聚焦收费透明度与通行效率问题。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88ETC+%E7%83%AD%E8%AE%AE%E6%A0%B8%E5%BF%83%E6%98%AF%E4%BB%80%E4%B9%88",
+        "publishedAt": "2026-09-03T10:26:35Z"
+      },
+      {
+        "id": "1f7c3124db1390edb252",
+        "title": "1991年前生人不能新办理40年期房贷",
+        "summary": "网传房贷新政限制40年期贷款申请年龄，引发社会关注。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%231991%E5%B9%B4%E5%89%8D%E7%94%9F%E4%BA%BA%E4%B8%8D%E8%83%BD%E6%96%B0%E5%8A%9E%E7%90%8640%E5%B9%B4%E6%9C%9F%E6%88%BF%E8%B4%B7%23",
+        "publishedAt": "2026-09-03T10:26:35Z"
       }
     ]
   },
   "global": {
-    "overview": "国际局势与财经要闻：美伊冲突风险上升，俄德关系紧张，英国政坛变动；全球市场受小非农数据、博通业绩等影响，关注供应链与能源安全。",
+    "overview": "特朗普发纪念币、美国AI政策、伊朗局势、欧洲政经动态等，重点覆盖地缘政治与宏观经济影响。",
     "items": [
+      {
+        "id": "0bbdd22061d58f82e403",
+        "title": "Trump $1 coin makes him first living president on US currency in a century",
+        "summary": "美铸币局发行特朗普1美元硬币，为百年首次在任总统头像登货币。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-03T02:25:43Z"
+      },
       {
         "id": "9bf7670467ee92b3f97e",
         "title": "Trump threatens more strikes as death toll in Iran rises to 18",
-        "summary": "美伊紧张升级，伊朗死亡人数增至18人，美称将随时打击。",
+        "summary": "特朗普威胁进一步打击伊朗，伊朗死亡人数升至18，中东局势紧张。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
         "publishedAt": "2026-09-02T17:45:32Z"
       },
       {
-        "id": "51879d9610f32997c5dd",
-        "title": "Russia to close branches of Germany's Goethe-Institut",
-        "summary": "俄罗斯将关闭德国歌德学院中心，回应德国关闭俄机构决定。",
+        "id": "8179e38d1ba9ea3854f0",
+        "title": "Will the US or China emerge as the AI superpower?",
+        "summary": "中美竞逐AI主导权，分析两国技术优势与战略路径。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/3/will-the-us-or-china-emerge-as-the-ai-superpower?traffic_source=rss",
+        "publishedAt": "2026-09-03T01:52:38Z"
+      },
+      {
+        "id": "c29fda62a98235abc2ac",
+        "title": "'Supersized' El Nino could be strongest on record, UN says",
+        "summary": "联合国警告超强厄尔尼诺或创纪录，各国需准备应对气候冲击。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-02T19:44:00Z"
+        "url": "https://www.dw.com/en/supersized-el-nino-could-be-strongest-on-record-un-says/a-78841246?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T01:39:00Z"
       },
       {
-        "id": "e8ebe05b667d95b3f0f7",
-        "title": "Greens’ Zack Polanski to stand in byelection for Keir Starmer’s seat – UK politics live",
-        "summary": "英国绿党领袖宣布参加基尔·斯塔默议员席位的补选。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
-        "publishedAt": "2026-09-03T00:18:37Z"
-      },
-      {
-        "id": "a257d1f69336426e45fa",
-        "title": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
-        "summary": "中国碳排放因伊朗战争下降1%，电动车普及助减排。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
-        "publishedAt": "2026-09-02T15:01:37Z"
-      },
-      {
-        "id": "54b0c7cee03a3ca1cda1",
-        "title": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
-        "summary": "亚洲国家增加油气储备，降低对霍尔木兹海峡依赖。",
+        "id": "1bce3630cf50ffe039b5",
+        "title": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+        "summary": "尼泊尔洪灾死亡超1270人，救援持续进行，多国援助。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss",
-        "publishedAt": "2026-09-02T20:26:27Z"
+        "url": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
+        "publishedAt": "2026-09-03T01:38:14Z"
       },
       {
-        "id": "48ca909f4a66dc8d93bf",
-        "title": "OpenAI’s Sam Altman tells G20 AI will be as essential as electricity",
-        "summary": "OpenAI CEO称AI将像电一样重要，在G20论坛发言。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/openais-sam-altman-tells-g20-ai-will-be-as-essential-as-electricity?traffic_source=rss",
-        "publishedAt": "2026-09-03T00:04:36Z"
+        "id": "0d18bdf4971c65ce2297",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "summary": "欧盟北约加强对俄施压，回应德国疑似俄无人机袭击事件。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-02T19:21:24Z"
+      },
+      {
+        "id": "d0aabfc4ad331f1ba29a",
+        "title": "U.S.-Israel relations are on the rocks ahead of elections",
+        "summary": "美以关系因特朗普停火伊朗趋于紧张，影响中东政策走向。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
+        "publishedAt": "2026-09-03T00:06:18Z"
       },
       {
         "id": "8ba8eb83d86d4c5158d2",
         "title": "Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical unrest'",
-        "summary": "荷兰央行将86吨黄金从美转移至伦敦，因担忧地缘政治动荡。",
+        "summary": "荷兰央行因地缘动荡转移黄金回国，反映各国对美元资产担忧。",
         "source": "Hacker News",
         "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
         "publishedAt": "2026-09-02T19:53:12Z"
-      },
-      {
-        "id": "e41f58c12f73e9469662",
-        "title": "EU remains divided over trade sanctions on illegal Israeli settlements",
-        "summary": "欧盟对以色列定居点制裁分歧难解，爱尔兰外长呼吁统一立场。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-        "publishedAt": "2026-09-02T22:35:18Z"
       }
     ]
   }
