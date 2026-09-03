@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-03T16:26:13Z",
+  "generatedAt": "2026-09-03T18:28:59Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，尼泊尔泥石流灾害严重，中方援助获谢；广州取消校服统一订购引发讨论；家长群晒公职事件引央媒批评；G20公报遗憾及多国动态受关注；A股缩量微涨，市场情绪谨慎。",
+    "overview": "时政、经济与科技领域热点纷呈：家长群特权现象引发央媒批评，中国对G20未发表公报表示遗憾，促进中小企业发展“十五五”规划发布，解放军战巡黄岩岛释放信号，信用卡被弃用及手机涨价等消费话题受关注，极端天气警示，电子布供应紧张。",
     "items": [
       {
-        "id": "3e21feaae7a900b0f062",
-        "title": "尼泊尔泥石流遇难人数升至1259人",
-        "summary": "尼泊尔泥石流遇难人数升至1259人，灾情严重。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681107103724994602/",
-        "publishedAt": "2026-09-03T16:26:13Z"
-      },
-      {
-        "id": "157c952d4e1c095ecf9a",
-        "title": "尼泊尔外长：感谢中国紧急援助支持，不会向中国等国家寻求“气候正义赔偿”",
-        "summary": "尼泊尔外长感谢中国援助，称不寻求气候正义赔偿。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2473483",
-        "publishedAt": "2026-09-03T16:26:13Z"
-      },
-      {
-        "id": "b9f654b13bb3778c1544",
-        "title": "广州取消校服统一订购",
-        "summary": "广州取消校服统一订购，新政策引发热议。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8F%96%E6%B6%88%E6%A0%A1%E6%9C%8D%E7%BB%9F%E4%B8%80%E8%AE%A2%E8%B4%AD",
-        "publishedAt": "2026-09-03T16:26:13Z"
-      },
-      {
-        "id": "f95888697f303c1f4c5c",
-        "title": "马上评｜家长群晒公职求关照？特权思维不容闯进校园",
-        "summary": "央媒评家长群晒公职求关照，批特权思维侵校园。",
+        "id": "1b73116d80b9e38b6dbe",
+        "title": "亮干部身份、众筹请保洁、异议被禁言，央媒：家长群不能是攀比的秀场",
+        "summary": "央媒批评家长群成攀比秀场，干部身份晒照被整治，保定已通报属实。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33998990",
-        "publishedAt": "2026-09-03T16:26:13Z"
-      },
-      {
-        "id": "67521c9e1c5ca0e4b710",
-        "title": "澎湃回声｜保定市卫健委通报“家长在群里自报干部身份让老师关照孩子”：属实",
-        "summary": "保定卫健委通报家长群自报干部身份事件属实。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34000407",
-        "publishedAt": "2026-09-03T16:26:13Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34001019",
+        "publishedAt": "2026-09-03T18:28:59Z"
       },
       {
         "id": "081b172770f3de484dad",
         "title": "中国为什么对G20这场会未发表公报表示遗憾",
-        "summary": "中国对G20未发表公报表示遗憾，原因受关注。",
+        "summary": "中国对G20未发表公报表示遗憾，反映国际分歧或影响多边合作。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8w7uXkXhKhr",
-        "publishedAt": "2026-09-03T16:26:13Z"
+        "publishedAt": "2026-09-03T18:28:59Z"
       },
       {
         "id": "234d2066508709b7dfd4",
         "title": "促进中小企业发展“十五五”规划发布",
-        "summary": "'十五五'中小企业发展规划发布，助力发展。",
+        "summary": "促进中小企业发展“十五五”规划发布，旨在支持经济高质量发展。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681227409579868223/",
-        "publishedAt": "2026-09-03T16:26:13Z"
+        "publishedAt": "2026-09-03T18:28:59Z"
       },
       {
-        "id": "83fbf87f04838741de33",
-        "title": "四川绵阳北川县发生4.8级地震",
-        "summary": "四川绵阳北川县发生4.8级地震，暂无伤亡报告。",
+        "id": "bb3b84bbedc18dbdc84b",
+        "title": "解放军“战巡黄岩岛”透露哪些信号",
+        "summary": "解放军战巡黄岩岛，展现维护南海主权决心，警告外部干涉。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680858923076567081/",
-        "publishedAt": "2026-09-03T16:26:13Z"
+        "url": "https://www.toutiao.com/trending/7680773649092050963/",
+        "publishedAt": "2026-09-03T18:28:59Z"
+      },
+      {
+        "id": "139e4d3de9ea23f1782a",
+        "title": "信用卡正在被谁抛弃",
+        "summary": "信用卡使用率下降，或因消费习惯改变及金融科技竞争。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681288366184205870/",
+        "publishedAt": "2026-09-03T18:28:59Z"
+      },
+      {
+        "id": "3d2bfee2566402fe6b90",
+        "title": "手机集体涨价 吓跑了买手机的人",
+        "summary": "手机普遍涨价导致消费者购买意愿下降，市场销量受影响。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7+%E5%90%93%E8%B7%91%E4%BA%86%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA",
+        "publishedAt": "2026-09-03T18:28:59Z"
+      },
+      {
+        "id": "0038b4fe9fde7230853d",
+        "title": "世界进入极端天气“危险区”",
+        "summary": "世界进入极端天气危险区，各国需加强气候适应与减排行动。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681291803198243374/",
+        "publishedAt": "2026-09-03T18:28:59Z"
+      },
+      {
+        "id": "34b589361cc85a229641",
+        "title": "电子布供应持续紧张背后：海外织机交期超两年，国产设备迎窗口期",
+        "summary": "电子布供应紧张，海外织机交付延迟，国产设备迎发展机遇。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2473286",
+        "publishedAt": "2026-09-03T18:28:59Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国对伊朗战争持续，多地冲突升级；委内瑞拉石油协议遭反对派质疑；挪威扣留俄船赔偿乌克兰；德国经济现复苏迹象；AI模型同时宕机引发关注。",
+    "overview": "全球局势紧张：美国对伊朗军事行动持续，乌克兰安全机构内讧，Gloria Steinem逝世，OpenAI发布GPT-6 Astra，英伟达收购Hugging Face，日元飙升，德国柏林机场疏散，全球极端天气频发。",
     "items": [
       {
-        "id": "51577e2d2c67d9bd58be",
-        "title": "Iranian drone damages residential building in Kuwait City",
-        "summary": "伊朗无人机袭击科威特城居民楼，无人员伤亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss",
-        "publishedAt": "2026-09-03T06:47:52Z"
-      },
-      {
-        "id": "9f55b71232c84e452023",
-        "title": "Venezuelan opposition leader questions US oil deal with ‘illegitimate regime’",
-        "summary": "委内瑞拉反对派质疑美国与其临时政府签石油协议。",
+        "id": "79bb48c772542d940226",
+        "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
+        "summary": "伊朗攻击美在阿联酋和科威特基地，以色列警告制裁或致其铤而走险。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
-        "publishedAt": "2026-09-03T08:17:29Z"
+        "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
+        "publishedAt": "2026-09-03T06:16:54Z"
       },
       {
-        "id": "7510a195618957be7492",
-        "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
-        "summary": "挪威扣押俄船以补偿乌克兰，俄方抗议。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T07:23:00Z"
+        "id": "5353a039c3f6d5da3f6c",
+        "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
+        "summary": "乌克兰两安全机构在基辅交火，泽连斯基称事件“耻辱”并致人受伤。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
+        "publishedAt": "2026-09-03T06:04:46Z"
       },
       {
-        "id": "d08c35dc2cd82ee17d3a",
-        "title": "Is Germany's economic slump finally over?",
-        "summary": "德国经济现复苏迹象，但结构问题仍存。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/is-germany-s-economic-slump-finally-over/a-78815447?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T04:30:00Z"
+        "id": "0043a04bd7072159e00e",
+        "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
+        "summary": "女权主义活动家Gloria Steinem去世，享年92岁，各界悼念其贡献。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+        "publishedAt": "2026-09-03T08:42:35Z"
       },
       {
-        "id": "46ed247efa12fe60b1cc",
-        "title": "ChatGPT, Claude, and Grok Are Down",
-        "summary": "ChatGPT、Claude和Grok同时宕机，原因不明。",
+        "id": "a06d4542fd89006a71fb",
+        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+        "summary": "OpenAI发布GPT-6 Astra，宣称进入AGI时代，引发广泛关注。",
         "source": "Hacker News",
-        "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
-        "publishedAt": "2026-09-03T07:30:10Z"
+        "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+        "publishedAt": "2026-09-03T10:01:56Z"
       },
       {
-        "id": "0b05165b703aa8f1ee9d",
-        "title": "ChatGPT Is Throwing 404",
-        "summary": "ChatGPT出现404错误，服务中断。",
-        "source": "Hacker News",
-        "url": "https://chatgpt.com/",
-        "publishedAt": "2026-09-03T06:46:47Z"
-      },
-      {
-        "id": "9431c7341a336cc77646",
-        "title": "Elevated Errors for Multiple Models",
-        "summary": "Claude等多个模型报告错误率升高。",
-        "source": "Hacker News",
-        "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-        "publishedAt": "2026-09-03T05:29:12Z"
+        "id": "6ece24101cf71c21352e",
+        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+        "summary": "英伟达以129亿美元收购Hugging Face，布局开源AI模型平台。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+        "publishedAt": "2026-09-03T08:59:56Z"
       },
       {
         "id": "f12fb73e2ed496667a13",
         "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-        "summary": "日元兑美元大涨超2%，市场预期日本央行加息。",
+        "summary": "日元兑美元飙升逾2%，市场预期日本央行或将加息。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
         "publishedAt": "2026-09-03T06:33:58Z"
+      },
+      {
+        "id": "7e73f97c1f787492ea93",
+        "title": "Berlin BER airport Terminal 1 evacuated after security scare",
+        "summary": "柏林机场1号航站楼因安全警报疏散，警方正调查事件，暂无伤亡。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/berlin-ber-airport-terminal-1-evacuated-after-security-scare/a-78895207?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T09:27:00Z"
+      },
+      {
+        "id": "2d576f038d4d7a843ddd",
+        "title": "Israel releases Lebanese civilian, says five prisoners will be freed",
+        "summary": "The prisoner, identified as Malek Ghazi, is the first Lebanese citizen held by I",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss",
+        "publishedAt": "2026-09-03T10:13:55Z"
       }
     ]
   }
