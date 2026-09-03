@@ -1,116 +1,100 @@
 {
   "version": 1,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-03T20:24:11Z",
+  "generatedAt": "2026-09-03T22:24:03Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "中国房地产政策与市场迎来关键转折；广州取消校服统一订购；美联储官员讲话影响全球市场；解放军黄岩岛战巡引发关注。",
+    "overview": "中国楼市进入分水岭，广州取消校服统一订购引热议，央行媒体评家长群攀比现象，尼泊尔感谢中国援助，中国对G20公报表示遗憾。",
     "items": [
       {
         "id": "a76296807df3dd401c22",
         "title": "媒体：中国房子迎来真正的分水岭",
-        "summary": "中国房地产市场迎来关键转折点，行业分化加剧。",
+        "summary": "媒体分析中国房地产市场迎来重大转折点，引发广泛关注。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7680823899399651347/",
-        "publishedAt": "2026-09-03T20:24:11Z"
+        "publishedAt": "2026-09-03T22:24:03Z"
       },
       {
         "id": "b9f654b13bb3778c1544",
         "title": "广州取消校服统一订购",
-        "summary": "广州取消校服统一订购，改为家长自愿购买。",
+        "summary": "广州取消校服统一订购，引发社会讨论，涉教育政策调整。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8F%96%E6%B6%88%E6%A0%A1%E6%9C%8D%E7%BB%9F%E4%B8%80%E8%AE%A2%E8%B4%AD",
-        "publishedAt": "2026-09-03T20:24:11Z"
-      },
-      {
-        "id": "081b172770f3de484dad",
-        "title": "中国为什么对G20这场会未发表公报表示遗憾",
-        "summary": "中国对G20会议未发表公报表示遗憾，呼吁国际合作。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w7uXkXhKhr",
-        "publishedAt": "2026-09-03T20:24:11Z"
-      },
-      {
-        "id": "bb3b84bbedc18dbdc84b",
-        "title": "解放军“战巡黄岩岛”透露哪些信号",
-        "summary": "解放军在黄岩岛战巡，展示维护南海主权的决心。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680773649092050963/",
-        "publishedAt": "2026-09-03T20:24:11Z"
-      },
-      {
-        "id": "8ff98081512c568ab675",
-        "title": "越南称对西沙群岛拥有主权，叫嚣外国一切活动非法，中方回应",
-        "summary": "越南称拥有西沙主权，中方回应强调主权不容侵犯。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w7Un54ONma",
-        "publishedAt": "2026-09-03T20:24:11Z"
-      },
-      {
-        "id": "234d2066508709b7dfd4",
-        "title": "促进中小企业发展“十五五”规划发布",
-        "summary": "“十五五”规划发布，促进中小企业发展新举措。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681227409579868223/",
-        "publishedAt": "2026-09-03T20:24:11Z"
+        "publishedAt": "2026-09-03T22:24:03Z"
       },
       {
         "id": "157c952d4e1c095ecf9a",
         "title": "尼泊尔外长：感谢中国紧急援助支持，不会向中国等国家寻求“气候正义赔偿”",
-        "summary": "尼泊尔感谢中国援助，并表示不寻求气候赔偿。",
+        "summary": "尼泊尔外长感谢中国紧急援助，并称不会寻求气候正义赔偿。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2473483",
-        "publishedAt": "2026-09-03T20:24:11Z"
+        "publishedAt": "2026-09-03T22:24:03Z"
       },
       {
-        "id": "96140d96f6d39e7fc4aa",
-        "title": "上海多家银行：办40年房贷需35岁以下",
-        "summary": "上海部分银行规定40年房贷申请人需35岁以下。",
+        "id": "081b172770f3de484dad",
+        "title": "中国为什么对G20这场会未发表公报表示遗憾",
+        "summary": "中国对G20未发表公报表示遗憾，反映国际外交立场。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w7uXkXhKhr",
+        "publishedAt": "2026-09-03T22:24:03Z"
+      },
+      {
+        "id": "1b73116d80b9e38b6dbe",
+        "title": "亮干部身份、众筹请保洁、异议被禁言，央媒：家长群不能是攀比的秀场",
+        "summary": "央媒批评家长群攀比现象，强调教育环境需风清气正。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34001019",
+        "publishedAt": "2026-09-03T22:24:03Z"
+      },
+      {
+        "id": "fccf7392665b9caa9735",
+        "title": "华尔街见闻早餐FM-Radio | 2026年9月3日",
+        "summary": "华尔街见闻早报汇总关键市场资讯，涵盖宏观与产业动态。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780948",
+        "publishedAt": "2026-09-03T22:24:03Z"
+      },
+      {
+        "id": "234d2066508709b7dfd4",
+        "title": "促进中小企业发展“十五五”规划发布",
+        "summary": "促进中小企业发展“十五五”规划发布，推动经济高质量发展。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680703592528875071/",
-        "publishedAt": "2026-09-03T20:24:11Z"
+        "url": "https://www.toutiao.com/trending/7681227409579868223/",
+        "publishedAt": "2026-09-03T22:24:03Z"
+      },
+      {
+        "id": "8ff98081512c568ab675",
+        "title": "越南称对西沙群岛拥有主权，叫嚣外国一切活动非法，中方回应",
+        "summary": "越南宣称对西沙群岛拥有主权，中方回应强调主权立场。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w7Un54ONma",
+        "publishedAt": "2026-09-03T22:24:03Z"
       }
     ]
   },
   "global": {
-    "overview": "美伊冲突持续升级，美打击伊朗婚礼引发争议；OpenAI发布GPT-6 Astra开启AGI时代；全球极端天气频发；科技行业重大并购与AI发展并进。",
+    "overview": "中美关系复杂，中东冲突持续，欧洲高温创纪录，人工智能技术快速发展，全球市场关注美联储动向。",
     "items": [
       {
-        "id": "7077ace3cd1f0d3fe6c0",
-        "title": "GPT-6 Astra",
-        "summary": "OpenAI发布GPT-6 Astra，宣称进入AGI时代。",
-        "source": "Hacker News",
-        "url": "https://openai.com/index/gpt-6-astra/",
-        "publishedAt": "2026-09-03T10:41:05Z"
-      },
-      {
-        "id": "bfab024e25e6d047db91",
-        "title": "Vance pushes back on reports that US strikes hit wedding in Iran but says ‘sometimes things happen’ – live",
-        "summary": "美副总统万斯回应美打击伊朗婚礼报道，称\"有时事情会发生\"。",
+        "id": "ceb0d6f073bde9099ab3",
+        "title": "Volkswagen confirms it will cut 100,000 jobs by 2030",
+        "summary": "大众确认2030年前裁员10万，应对关税与中国竞争冲击。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates",
-        "publishedAt": "2026-09-03T11:56:23Z"
+        "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+        "publishedAt": "2026-09-03T14:04:03Z"
       },
       {
-        "id": "a06d4542fd89006a71fb",
-        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "summary": "OpenAI推出GPT-6 Astra，引发行业热议。",
-        "source": "Hacker News",
-        "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-        "publishedAt": "2026-09-03T10:01:56Z"
-      },
-      {
-        "id": "6ece24101cf71c21352e",
-        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-        "summary": "英伟达以129亿美元收购AI平台Hugging Face。",
+        "id": "79bb48c772542d940226",
+        "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
+        "summary": "伊朗攻击美在阿联酋和科威特基地，中东局势急剧升级。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-        "publishedAt": "2026-09-03T08:59:56Z"
+        "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
+        "publishedAt": "2026-09-03T06:16:54Z"
       },
       {
         "id": "5353a039c3f6d5da3f6c",
         "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
-        "summary": "乌克兰两安全机构在基辅交火，泽连斯基称耻辱。",
+        "summary": "乌克兰两大安全机构在基辅交火，泽连斯基斥为耻辱。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
         "publishedAt": "2026-09-03T06:04:46Z"
@@ -118,26 +102,42 @@
       {
         "id": "f12fb73e2ed496667a13",
         "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-        "summary": "日元兑美元飙升逾2%，市场预期日本央行或加息。",
+        "summary": "日元兑美元大幅升值超2%，市场预期日本央行或加息。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
         "publishedAt": "2026-09-03T06:33:58Z"
       },
       {
-        "id": "0043a04bd7072159e00e",
-        "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
-        "summary": "女权主义活动家Gloria Steinem去世，享年92岁。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
-        "publishedAt": "2026-09-03T08:42:35Z"
+        "id": "340ef0edd8d7981d4b46",
+        "title": "France records ‘hottest summer ever’ in 2026",
+        "summary": "法国录得2026年有记录以来最热夏季，凸显气候变化影响。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/3/france-records-hottest-summer-ever-in-2026?traffic_source=rss",
+        "publishedAt": "2026-09-03T13:01:48Z"
       },
       {
-        "id": "79bb48c772542d940226",
-        "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-        "summary": "伊朗攻击美在阿联酋和科威特基地，中东局势升级。",
+        "id": "e314165385e965b52bd0",
+        "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+        "summary": "OpenAI发布GPT-6 Astra，AI技术迎来新里程碑。",
+        "source": "Hacker News",
+        "url": "https://arcprize.org/blog/astra",
+        "publishedAt": "2026-09-03T11:45:00Z"
+      },
+      {
+        "id": "6ece24101cf71c21352e",
+        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+        "summary": "英伟达以129亿美元收购AI平台Hugging Face，加码AI布局。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-        "publishedAt": "2026-09-03T06:16:54Z"
+        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+        "publishedAt": "2026-09-03T08:59:56Z"
+      },
+      {
+        "id": "7dbeaf5f86e9b15f3736",
+        "title": "EU’s ability to defend against invasion remains in doubt, finds official report",
+        "summary": "欧盟报告称其防御能力到2030年仍存疑，依赖美国且碎片化。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
+        "publishedAt": "2026-09-03T07:09:25Z"
       }
     ]
   }
