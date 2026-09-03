@@ -1,119 +1,87 @@
 {
   "version": 1,
   "date": "2026-09-03",
-  "generatedAt": "2026-09-02T22:24:04Z",
+  "generatedAt": "2026-09-03T00:35:36Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，美伊冲突升级扰动全球市场，多国长债收益率飙升，国内股市调整，成交额萎缩；教育、民生话题亦受关注。",
+    "overview": "国内新闻聚焦时政、经济与产业动态，包括美国与伊朗冲突对全球市场的影响、AI与科技进展、国内政策与社会事件。",
     "items": [
       {
-        "id": "2a1e7b157594d7d32b06",
-        "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
-        "summary": "美伊冲突升级，油价飙升5%，美股债市遭抛售，黄金价格下跌。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780783",
-        "publishedAt": "2026-09-02T22:24:04Z"
-      },
-      {
-        "id": "d9e73efd14ccc56cbc73",
-        "title": "媒体：“梅姨”已被提起公诉",
-        "summary": "备受关注的“梅姨”已被检察机关提起公诉。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33994925",
-        "publishedAt": "2026-09-02T22:24:04Z"
-      },
-      {
-        "id": "a80ca580f4ca0a0b1596",
-        "title": "一图看懂 | 多国长债拉响“警报”，全球股市面临“压力测试”",
-        "summary": "多国长期国债收益率创新高，全球股市正面临压力测试。",
+        "id": "ae6a8e3819b586036cd9",
+        "title": "【早报】特朗普：随时准备打击伊朗；美股收涨，结束3连跌；原油、黄金、白银齐涨；涉及A股，重要指数调整",
+        "summary": "特朗普称随时准备打击伊朗，美股收涨结束三连跌，油价及黄金、白银齐涨，涉及A股的重要指数将调整。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2472044",
-        "publishedAt": "2026-09-02T22:24:04Z"
+        "url": "https://www.cls.cn/detail/2472584",
+        "publishedAt": "2026-09-03T00:35:36Z"
       },
       {
-        "id": "f6d59b4d3d3f0c7fa81d",
-        "title": "“沪八条”效应显现！上海楼市二手房再现连续两日成交破千，改善型需求加速入场",
-        "summary": "上海楼市二手房成交连续两日破千套，改善型需求加速入场。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33984376",
-        "publishedAt": "2026-09-02T22:24:04Z"
+        "id": "f2fb4b923abb8d966e11",
+        "title": "“小非农”低于预期！美国8月ADP新增就业3.8万人，创下今年以来最低单月增长纪录",
+        "summary": "美国8月ADP新增就业仅3.8万人，创今年最低，低于预期，显示劳动力市场放缓。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780923",
+        "publishedAt": "2026-09-03T00:35:36Z"
       },
       {
-        "id": "496cb806229b0ab39986",
-        "title": "星宇股份董事长为“批量解约应届生”事件致歉：将构建和谐劳动关系，承担更多社会责任",
-        "summary": "星宇股份董事长就批量解约应届生致歉，称将承担更多社会责任。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33991998",
-        "publishedAt": "2026-09-02T22:24:04Z"
+        "id": "17eef06687d46e936fbd",
+        "title": "2万亿美元IPO前夕打出组合拳！Anthropic Fable 5.1发布：基准测试“屠榜”、成本大幅削减、反蒸馏机制落地",
+        "summary": "Anthropic发布Fable 5.1模型，基准测试领先，成本削减并落地反蒸馏机制，为2万亿美元IPO铺垫。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780853",
+        "publishedAt": "2026-09-03T00:35:36Z"
+      },
+      {
+        "id": "d3dfc37a5347734e5f50",
+        "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
+        "summary": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780885",
+        "publishedAt": "2026-09-03T00:35:36Z"
+      },
+      {
+        "id": "c2c99b43cea4aad8e764",
+        "title": "读懂这个“50.9%”的分量",
+        "summary": "解读中国经济数据50.9%的分量，反映经济复苏态势与政策成效。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E8%BF%99%E4%B8%AA%E2%80%9C50.9%25%E2%80%9D%E7%9A%84%E5%88%86%E9%87%8F",
+        "publishedAt": "2026-09-03T00:35:36Z"
+      },
+      {
+        "id": "e5db52350bcc47891496",
+        "title": "中际旭创前十大股东已无章建平，二季度末其曾位列第九大股东",
+        "summary": "中际旭创前十大股东已无章建平，二季度末其曾列第九，显示大佬持仓变动。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2472250",
+        "publishedAt": "2026-09-03T00:35:36Z"
       },
       {
         "id": "035e7353be0c6cf24d9f",
         "title": "因中方持不同意见G20财长会未发表公报？外交部答凤凰",
-        "summary": "因中方持不同意见，G20财长会未发表公报，外交部回应凤凰网。",
+        "summary": "因中方持不同意见，G20财长会未发表公报，外交部回应凤凰卫视提问。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8w5wgWKFHep",
-        "publishedAt": "2026-09-02T22:24:04Z"
+        "publishedAt": "2026-09-03T00:35:36Z"
       },
       {
-        "id": "f3550192320af57ca62a",
-        "title": "吉隆泥石流致21人遇难541人失联",
-        "summary": "吉隆泥石流已致21人遇难，541人失联，救援工作持续。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680492476662054954/",
-        "publishedAt": "2026-09-02T22:24:04Z"
-      },
-      {
-        "id": "ac34bba952c348653c92",
-        "title": "多地小学老师转教初中",
-        "summary": "多地小学教师转教初中，反映教育资源调配新趋势。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E6%95%99%E5%88%9D%E4%B8%AD",
-        "publishedAt": "2026-09-02T22:24:04Z"
+        "id": "d9e73efd14ccc56cbc73",
+        "title": "媒体：“梅姨”已被提起公诉",
+        "summary": "媒体报道“梅姨”已被提起公诉，涉及相关案件进展。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33994925",
+        "publishedAt": "2026-09-03T00:35:36Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊冲突急剧升级引发市场动荡，尼泊尔洪灾与泥石流造成重大伤亡，德国与俄罗斯关系因无人机袭击事件紧张，多国政经动态引发关注。",
+    "overview": "国际新闻涵盖美伊冲突、欧洲安全、经济市场波动及社会事件，重点关注影响广泛的重大议题。",
     "items": [
       {
-        "id": "0f3233913456accf103f",
-        "title": "Israeli PM says Israel is working to overthrow Iran’s government",
-        "summary": "以色列总理称正致力于推翻伊朗政府。",
+        "id": "47277688b412f7ac0788",
+        "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+        "summary": "特朗普称美伊新一轮冲突不会持续太久，并称已控制霍尔木兹海峡。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-        "publishedAt": "2026-09-02T13:23:55Z"
-      },
-      {
-        "id": "1a84e11bda73170ddad7",
-        "title": "Nepal families hold symbolic funerals, thousands still missing",
-        "summary": "尼泊尔洪灾致家庭举行象征性葬礼，失踪人数仍达数千。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss",
-        "publishedAt": "2026-09-02T12:30:24Z"
-      },
-      {
-        "id": "5b49ac15a072e75132f6",
-        "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
-        "summary": "OpenAI面临新诉讼，被指与Tumbler Ridge大规模枪击案有关。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
-        "publishedAt": "2026-09-02T14:15:32Z"
-      },
-      {
-        "id": "4f80168d382e77dc3aa3",
-        "title": "Trump doubles down on Canada trade war as talks remain stalled – US politics live",
-        "summary": "特朗普对加拿大商品加征50%关税，贸易谈判仍停滞。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
-        "publishedAt": "2026-09-02T14:05:00Z"
-      },
-      {
-        "id": "286c902e408618c97047",
-        "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-        "summary": "共和党参议员呼吁特朗普解雇国防部长赫格塞斯，称其管理不善。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-        "publishedAt": "2026-09-02T13:37:41Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+        "publishedAt": "2026-09-02T16:00:00Z"
       },
       {
         "id": "1f16cb64112144302caa",
@@ -124,20 +92,52 @@
         "publishedAt": "2026-09-02T07:19:04Z"
       },
       {
+        "id": "f3312049351a36b5631c",
+        "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
+        "summary": "伊朗报复性打击海湾邻国，回应美国空袭，六个月冲突推高油价，扰动全球经济。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+        "publishedAt": "2026-09-02T07:18:09Z"
+      },
+      {
+        "id": "c689cf5cf86afd97789a",
+        "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
+        "summary": "荷兰央行以“地缘政治动荡”为由，将86吨黄金从美加转移至伦敦。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+        "publishedAt": "2026-09-02T15:47:15Z"
+      },
+      {
         "id": "0d18bdf4971c65ce2297",
         "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "summary": "欧盟与北约誓言加大对俄施压，因德国指控俄发动无人机袭击。",
+        "summary": "欧盟与北约誓言加大对俄施压，因德国指控俄罗斯发动无人机袭击。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-02T08:49:00Z"
       },
       {
-        "id": "d782c59cff1d41941311",
-        "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
-        "summary": "特朗普称美国监视伊朗一切行动，并威胁进一步军事打击。",
+        "id": "b5004ee55d77ddfc8ba9",
+        "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+        "summary": "METR报告发布关于OpenAI/Hugging Face遭黑客攻击事件的调查。",
+        "source": "Hacker News",
+        "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+        "publishedAt": "2026-09-02T15:08:47Z"
+      },
+      {
+        "id": "385fab1cfb6c30e44cb9",
+        "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+        "summary": "Uber立即停止在尼日利亚和乌干达的运营，引发市场关注。",
+        "source": "Hacker News",
+        "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+        "publishedAt": "2026-09-02T13:46:33Z"
+      },
+      {
+        "id": "286c902e408618c97047",
+        "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+        "summary": "共和党参议员呼吁特朗普解雇国防部长赫格塞斯，称其管理不善。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
-        "publishedAt": "2026-09-02T12:04:55Z"
+        "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+        "publishedAt": "2026-09-02T13:37:41Z"
       }
     ]
   }
