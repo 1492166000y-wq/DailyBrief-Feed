@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-03",
-  "generatedAt": "2026-09-03T14:27:11Z",
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-03T16:26:13Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "聚焦时政、经济与科技重要动态，涵盖政策发布、外交回应、市场波动及民生话题。",
+    "overview": "国内方面，尼泊尔泥石流灾害严重，中方援助获谢；广州取消校服统一订购引发讨论；家长群晒公职事件引央媒批评；G20公报遗憾及多国动态受关注；A股缩量微涨，市场情绪谨慎。",
     "items": [
       {
-        "id": "8e2692291b12fa44a881",
-        "title": "商务部：敦促法方立即停止反超快时尚法实施",
-        "summary": "商务部敦促法方立即停止反超快时尚法实施，维护公平贸易。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2473096",
-        "publishedAt": "2026-09-03T14:27:11Z"
+        "id": "3e21feaae7a900b0f062",
+        "title": "尼泊尔泥石流遇难人数升至1259人",
+        "summary": "尼泊尔泥石流遇难人数升至1259人，灾情严重。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681107103724994602/",
+        "publishedAt": "2026-09-03T16:26:13Z"
       },
       {
-        "id": "8ff98081512c568ab675",
-        "title": "越南称对西沙群岛拥有主权，叫嚣外国一切活动非法，中方回应",
-        "summary": "越南声称对西沙群岛拥有主权，中方回应强调主权不容侵犯。",
+        "id": "157c952d4e1c095ecf9a",
+        "title": "尼泊尔外长：感谢中国紧急援助支持，不会向中国等国家寻求“气候正义赔偿”",
+        "summary": "尼泊尔外长感谢中国援助，称不寻求气候正义赔偿。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2473483",
+        "publishedAt": "2026-09-03T16:26:13Z"
+      },
+      {
+        "id": "b9f654b13bb3778c1544",
+        "title": "广州取消校服统一订购",
+        "summary": "广州取消校服统一订购，新政策引发热议。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8F%96%E6%B6%88%E6%A0%A1%E6%9C%8D%E7%BB%9F%E4%B8%80%E8%AE%A2%E8%B4%AD",
+        "publishedAt": "2026-09-03T16:26:13Z"
+      },
+      {
+        "id": "f95888697f303c1f4c5c",
+        "title": "马上评｜家长群晒公职求关照？特权思维不容闯进校园",
+        "summary": "央媒评家长群晒公职求关照，批特权思维侵校园。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33998990",
+        "publishedAt": "2026-09-03T16:26:13Z"
+      },
+      {
+        "id": "67521c9e1c5ca0e4b710",
+        "title": "澎湃回声｜保定市卫健委通报“家长在群里自报干部身份让老师关照孩子”：属实",
+        "summary": "保定卫健委通报家长群自报干部身份事件属实。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34000407",
+        "publishedAt": "2026-09-03T16:26:13Z"
+      },
+      {
+        "id": "081b172770f3de484dad",
+        "title": "中国为什么对G20这场会未发表公报表示遗憾",
+        "summary": "中国对G20未发表公报表示遗憾，原因受关注。",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w7Un54ONma",
-        "publishedAt": "2026-09-03T14:27:11Z"
+        "url": "https://news.ifeng.com/c/8w7uXkXhKhr",
+        "publishedAt": "2026-09-03T16:26:13Z"
       },
       {
         "id": "234d2066508709b7dfd4",
         "title": "促进中小企业发展“十五五”规划发布",
-        "summary": "促进中小企业发展“十五五”规划发布，推动经济高质量发展。",
+        "summary": "'十五五'中小企业发展规划发布，助力发展。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681227409579868223/",
-        "publishedAt": "2026-09-03T14:27:11Z"
+        "publishedAt": "2026-09-03T16:26:13Z"
       },
       {
-        "id": "8c10cdd0d75991bf5c66",
-        "title": "广州取消校服统一订购后遇开学大考",
-        "summary": "广州取消校服统一订购后遇开学大考，家长学生面临选择。",
+        "id": "83fbf87f04838741de33",
+        "title": "四川绵阳北川县发生4.8级地震",
+        "summary": "四川绵阳北川县发生4.8级地震，暂无伤亡报告。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681268416602751039/",
-        "publishedAt": "2026-09-03T14:27:11Z"
-      },
-      {
-        "id": "09583d25ffde67e99cd1",
-        "title": "河北将部分医疗服务项目纳入医保",
-        "summary": "河北将部分医疗服务项目纳入医保，减轻患者负担。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681287441452351539/",
-        "publishedAt": "2026-09-03T14:27:11Z"
-      },
-      {
-        "id": "25932069235efb619dc7",
-        "title": "体育总局：将培育积极健康的球迷文化，深化体育“饭圈”乱象整治",
-        "summary": "体育总局表示将培育健康球迷文化，深化体育“饭圈”乱象整治。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33999313",
-        "publishedAt": "2026-09-03T14:27:11Z"
-      },
-      {
-        "id": "ac211a15c26e2304cab5",
-        "title": "外媒：土耳其将考虑正式加入上合组织",
-        "summary": "外媒称土耳其将考虑正式加入上合组织，深化合作。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w77WFJecNH",
-        "publishedAt": "2026-09-03T14:27:11Z"
-      },
-      {
-        "id": "c984374503174e78b5c4",
-        "title": "四川地震",
-        "summary": "四川北川发生4.8级地震，救援工作紧急展开。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87",
-        "publishedAt": "2026-09-03T14:27:11Z"
+        "url": "https://www.toutiao.com/trending/7680858923076567081/",
+        "publishedAt": "2026-09-03T16:26:13Z"
       }
     ]
   },
   "global": {
-    "overview": "关注国际冲突、经济形势及科技发展，重要事件包括乌克兰危机、美国制裁、AI行业整合等。",
+    "overview": "国际方面，美国对伊朗战争持续，多地冲突升级；委内瑞拉石油协议遭反对派质疑；挪威扣留俄船赔偿乌克兰；德国经济现复苏迹象；AI模型同时宕机引发关注。",
     "items": [
       {
-        "id": "79bb48c772542d940226",
-        "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-        "summary": "伊朗袭击美军基地，以色列警告制裁或致伊朗铤而走险。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-        "publishedAt": "2026-09-03T06:16:54Z"
+        "id": "51577e2d2c67d9bd58be",
+        "title": "Iranian drone damages residential building in Kuwait City",
+        "summary": "伊朗无人机袭击科威特城居民楼，无人员伤亡。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss",
+        "publishedAt": "2026-09-03T06:47:52Z"
       },
       {
-        "id": "c98e36510de4c5d54e95",
-        "title": "Putin denies fresh mobilization campaign in Ukraine war",
-        "summary": "普京否认新一轮动员，称乌克兰报道为虚假信息。",
+        "id": "9f55b71232c84e452023",
+        "title": "Venezuelan opposition leader questions US oil deal with ‘illegitimate regime’",
+        "summary": "委内瑞拉反对派质疑美国与其临时政府签石油协议。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
+        "publishedAt": "2026-09-03T08:17:29Z"
+      },
+      {
+        "id": "7510a195618957be7492",
+        "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
+        "summary": "挪威扣押俄船以补偿乌克兰，俄方抗议。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/putin-denies-fresh-mobilization-campaign-in-ukraine-war/a-78843002?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T06:16:00Z"
+        "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T07:23:00Z"
       },
       {
-        "id": "5353a039c3f6d5da3f6c",
-        "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
-        "summary": "乌克兰两大情报机构交火，泽连斯基称事件“丢脸”。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
-        "publishedAt": "2026-09-03T06:04:46Z"
+        "id": "d08c35dc2cd82ee17d3a",
+        "title": "Is Germany's economic slump finally over?",
+        "summary": "德国经济现复苏迹象，但结构问题仍存。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/is-germany-s-economic-slump-finally-over/a-78815447?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T04:30:00Z"
       },
       {
-        "id": "6ece24101cf71c21352e",
-        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-        "summary": "英伟达129亿美元收购Hugging Face，保持开放平台。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-        "publishedAt": "2026-09-03T05:15:26Z"
+        "id": "46ed247efa12fe60b1cc",
+        "title": "ChatGPT, Claude, and Grok Are Down",
+        "summary": "ChatGPT、Claude和Grok同时宕机，原因不明。",
+        "source": "Hacker News",
+        "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
+        "publishedAt": "2026-09-03T07:30:10Z"
+      },
+      {
+        "id": "0b05165b703aa8f1ee9d",
+        "title": "ChatGPT Is Throwing 404",
+        "summary": "ChatGPT出现404错误，服务中断。",
+        "source": "Hacker News",
+        "url": "https://chatgpt.com/",
+        "publishedAt": "2026-09-03T06:46:47Z"
+      },
+      {
+        "id": "9431c7341a336cc77646",
+        "title": "Elevated Errors for Multiple Models",
+        "summary": "Claude等多个模型报告错误率升高。",
+        "source": "Hacker News",
+        "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+        "publishedAt": "2026-09-03T05:29:12Z"
       },
       {
         "id": "f12fb73e2ed496667a13",
         "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-        "summary": "日元兑美元飙升近2%，市场预期日本央行将加息。",
+        "summary": "日元兑美元大涨超2%，市场预期日本央行加息。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-        "publishedAt": "2026-09-03T03:28:45Z"
-      },
-      {
-        "id": "4f59cc25f01b04a8ada6",
-        "title": "US sanctions halt TOEFL and GRE tests in Iran, disrupting study plans",
-        "summary": "美国制裁致伊朗托福和GRE考试暂停，扰乱学生留学计划。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-sanctions-halt-toefl-and-gre-tests-in-iran-disrupting-study-plans/a-78764639?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T06:24:00Z"
-      },
-      {
-        "id": "72078e87ae849e416638",
-        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-        "summary": "著名女权活动家格洛丽亚·斯泰纳姆去世，享年92岁。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-03T05:52:18Z"
-      },
-      {
-        "id": "31e7905b3dfdf9387e87",
-        "title": "UN warns El Nino could be ‘off the charts’, strongest in decades",
-        "summary": "联合国警告厄尔尼诺可能成为数十年来最强，影响全球。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/3/un-warns-el-nino-could-be-off-the-charts-strongest-in-decades?traffic_source=rss",
-        "publishedAt": "2026-09-03T03:49:13Z"
+        "publishedAt": "2026-09-03T06:33:58Z"
       }
     ]
   }
