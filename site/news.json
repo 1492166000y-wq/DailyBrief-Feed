@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T12:31:58Z",
+  "generatedAt": "2026-09-03T14:27:11Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内时政与宏观经济动态：四川绵阳地震、中委合作、商务部对法方措施、外交部回应越南西沙争议等；产业科技方面涉台积电扩张、中小企业规划、AI与市场动态。",
+    "overview": "聚焦时政、经济与科技重要动态，涵盖政策发布、外交回应、市场波动及民生话题。",
     "items": [
-      {
-        "id": "b3811ccf6fb57a5ea66b",
-        "title": "中方：中委合作不容第三方置喙",
-        "summary": "中方强调中委合作不容第三方干预，维护双边关系稳定。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680835933459152959/",
-        "publishedAt": "2026-09-03T12:31:58Z"
-      },
-      {
-        "id": "45ac5eaa9e70de896910",
-        "title": "四川绵阳地震",
-        "summary": "四川绵阳发生地震，相关部门启动应急响应，救援工作有序进行。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E5%9C%B0%E9%9C%87",
-        "publishedAt": "2026-09-03T12:31:58Z"
-      },
       {
         "id": "8e2692291b12fa44a881",
         "title": "商务部：敦促法方立即停止反超快时尚法实施",
-        "summary": "商务部敦促法方立即停止反超快时尚法实施，维护贸易公平。",
+        "summary": "商务部敦促法方立即停止反超快时尚法实施，维护公平贸易。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2473096",
-        "publishedAt": "2026-09-03T12:31:58Z"
+        "publishedAt": "2026-09-03T14:27:11Z"
       },
       {
-        "id": "52cd90198be5cb05fa8e",
-        "title": "外交部：越南无权对西沙建设说三道四",
-        "summary": "外交部回应越南称对西沙群岛拥有主权，强调中方立场，反对非法主张。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681208911105507849/",
-        "publishedAt": "2026-09-03T12:31:58Z"
+        "id": "8ff98081512c568ab675",
+        "title": "越南称对西沙群岛拥有主权，叫嚣外国一切活动非法，中方回应",
+        "summary": "越南声称对西沙群岛拥有主权，中方回应强调主权不容侵犯。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w7Un54ONma",
+        "publishedAt": "2026-09-03T14:27:11Z"
       },
       {
         "id": "234d2066508709b7dfd4",
         "title": "促进中小企业发展“十五五”规划发布",
-        "summary": "《促进中小企业发展“十五五”规划》发布，助力企业创新升级。",
+        "summary": "促进中小企业发展“十五五”规划发布，推动经济高质量发展。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681227409579868223/",
-        "publishedAt": "2026-09-03T12:31:58Z"
+        "publishedAt": "2026-09-03T14:27:11Z"
       },
       {
-        "id": "455d3f10e6e2bbdddbf2",
-        "title": "台积电历史性扩张：全球在建晶圆工厂接近20座 设备采购预估值翻倍",
-        "summary": "台积电全球在建晶圆厂近20座，设备采购预估值翻倍，显示扩张态势。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2472825",
-        "publishedAt": "2026-09-03T12:31:58Z"
-      },
-      {
-        "id": "f2fb4b923abb8d966e11",
-        "title": "“小非农”低于预期！美国8月ADP新增就业3.8万人，创下今年以来最低单月增长纪录",
-        "summary": "美国8月ADP就业创年内新低，低于预期，引发经济放缓担忧。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780923",
-        "publishedAt": "2026-09-03T12:31:58Z"
-      },
-      {
-        "id": "9b40fd86cdd0f4572ad6",
-        "title": "重庆机场集团反腐风暴8名高管被抓",
-        "summary": "重庆机场集团反腐风暴，8名高管被抓，彰显反腐决心。",
+        "id": "8c10cdd0d75991bf5c66",
+        "title": "广州取消校服统一订购后遇开学大考",
+        "summary": "广州取消校服统一订购后遇开学大考，家长学生面临选择。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681262122981920275/",
-        "publishedAt": "2026-09-03T12:31:58Z"
+        "url": "https://www.toutiao.com/trending/7681268416602751039/",
+        "publishedAt": "2026-09-03T14:27:11Z"
+      },
+      {
+        "id": "09583d25ffde67e99cd1",
+        "title": "河北将部分医疗服务项目纳入医保",
+        "summary": "河北将部分医疗服务项目纳入医保，减轻患者负担。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681287441452351539/",
+        "publishedAt": "2026-09-03T14:27:11Z"
+      },
+      {
+        "id": "25932069235efb619dc7",
+        "title": "体育总局：将培育积极健康的球迷文化，深化体育“饭圈”乱象整治",
+        "summary": "体育总局表示将培育健康球迷文化，深化体育“饭圈”乱象整治。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33999313",
+        "publishedAt": "2026-09-03T14:27:11Z"
+      },
+      {
+        "id": "ac211a15c26e2304cab5",
+        "title": "外媒：土耳其将考虑正式加入上合组织",
+        "summary": "外媒称土耳其将考虑正式加入上合组织，深化合作。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w77WFJecNH",
+        "publishedAt": "2026-09-03T14:27:11Z"
+      },
+      {
+        "id": "c984374503174e78b5c4",
+        "title": "四川地震",
+        "summary": "四川北川发生4.8级地震，救援工作紧急展开。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87",
+        "publishedAt": "2026-09-03T14:27:11Z"
       }
     ]
   },
   "global": {
-    "overview": "国际政治经济热点：美国政治与移民政策、西班牙首相涉休达危机、马来西亚外交平衡、伊朗制裁、尼泊尔洪水救援、厄尔尼诺警告、英国政局、美中AI竞争等。",
+    "overview": "关注国际冲突、经济形势及科技发展，重要事件包括乌克兰危机、美国制裁、AI行业整合等。",
     "items": [
       {
-        "id": "51c8a13066b13a3f55d2",
-        "title": "Judge blocks new Trump bid against birthright citizenship – US politics live",
-        "summary": "美国法官阻止特朗普新出生公民权行政令，签发初步禁令。",
+        "id": "79bb48c772542d940226",
+        "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
+        "summary": "伊朗袭击美军基地，以色列警告制裁或致伊朗铤而走险。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates",
-        "publishedAt": "2026-09-03T04:18:48Z"
+        "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
+        "publishedAt": "2026-09-03T06:16:54Z"
       },
       {
-        "id": "0355d449ef2cdc32dedd",
-        "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-        "summary": "西班牙首相否认事先知晓休达危机，议会面临压力，多地抗议。",
+        "id": "c98e36510de4c5d54e95",
+        "title": "Putin denies fresh mobilization campaign in Ukraine war",
+        "summary": "普京否认新一轮动员，称乌克兰报道为虚假信息。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/putin-denies-fresh-mobilization-campaign-in-ukraine-war/a-78843002?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T06:16:00Z"
+      },
+      {
+        "id": "5353a039c3f6d5da3f6c",
+        "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
+        "summary": "乌克兰两大情报机构交火，泽连斯基称事件“丢脸”。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
+        "publishedAt": "2026-09-03T06:04:46Z"
+      },
+      {
+        "id": "6ece24101cf71c21352e",
+        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+        "summary": "英伟达129亿美元收购Hugging Face，保持开放平台。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+        "publishedAt": "2026-09-03T05:15:26Z"
+      },
+      {
+        "id": "f12fb73e2ed496667a13",
+        "title": "Yen soars as Bank of Japan tipped to raise interest rates",
+        "summary": "日元兑美元飙升近2%，市场预期日本央行将加息。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
+        "publishedAt": "2026-09-03T03:28:45Z"
+      },
+      {
+        "id": "4f59cc25f01b04a8ada6",
+        "title": "US sanctions halt TOEFL and GRE tests in Iran, disrupting study plans",
+        "summary": "美国制裁致伊朗托福和GRE考试暂停，扰乱学生留学计划。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-sanctions-halt-toefl-and-gre-tests-in-iran-disrupting-study-plans/a-78764639?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T06:24:00Z"
+      },
+      {
+        "id": "72078e87ae849e416638",
+        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+        "summary": "著名女权活动家格洛丽亚·斯泰纳姆去世，享年92岁。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-03T04:18:07Z"
-      },
-      {
-        "id": "065130faa9417aa54cf6",
-        "title": "Malaysia's middle path between China and US faces new tests",
-        "summary": "马来西亚在中美间平衡外交受考验，涉台及军事设施问题引关注。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/malaysia-s-middle-path-between-china-and-us-faces-new-tests/a-78865212?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T04:00:00Z"
-      },
-      {
-        "id": "df43d1b3c387a9f7105a",
-        "title": "Iran bets on shadow networks to evade US sanctions",
-        "summary": "伊朗利用影子网络规避美国制裁，复杂商业网或再成核心。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/iran-bets-on-shadow-networks-to-evade-us-sanctions/a-78863283?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T03:59:00Z"
-      },
-      {
-        "id": "1bce3630cf50ffe039b5",
-        "title": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
-        "summary": "尼泊尔中国边境洪水死亡超1270人，救援持续，用直升机等转移灾民。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
-        "publishedAt": "2026-09-03T01:38:14Z"
+        "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-03T05:52:18Z"
       },
       {
         "id": "31e7905b3dfdf9387e87",
         "title": "UN warns El Nino could be ‘off the charts’, strongest in decades",
-        "summary": "联合国警告厄尔尼诺或创纪录，将持续至2月，影响全球气候。",
+        "summary": "联合国警告厄尔尼诺可能成为数十年来最强，影响全球。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/3/un-warns-el-nino-could-be-off-the-charts-strongest-in-decades?traffic_source=rss",
         "publishedAt": "2026-09-03T03:49:13Z"
-      },
-      {
-        "id": "48ca909f4a66dc8d93bf",
-        "title": "OpenAI’s Sam Altman tells G20 AI will be as essential as electricity",
-        "summary": "OpenAI CEO在G20称AI将像电力一样必需，未来孩子不会比AI更聪明。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/openais-sam-altman-tells-g20-ai-will-be-as-essential-as-electricity?traffic_source=rss",
-        "publishedAt": "2026-09-03T00:04:36Z"
-      },
-      {
-        "id": "0bbdd22061d58f82e403",
-        "title": "Trump $1 coin makes him first living president on US currency in a century",
-        "summary": "美国铸币局发行特朗普1美元纪念币，为首位在世前总统上硬币。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-03T02:25:43Z"
       }
     ]
   }
