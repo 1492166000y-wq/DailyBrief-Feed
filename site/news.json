@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T08:27:20Z",
+  "generatedAt": "2026-09-04T10:26:09Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦外交部涉新加坡传销回应、武汉大学通报教授被举报、美联储政策及经济数据影响等",
+    "overview": "解放军赴俄演习、美联储政策与金融市场动态、OpenAI发布GPT-6、医保新规等是今日关注焦点。",
     "items": [
       {
-        "id": "1f0dd627a2477b188128",
-        "title": "外交部回应52名新加坡人涉嫌在华传销",
-        "summary": "外交部回应52名新加坡人涉嫌在华传销，强调依法处理。",
+        "id": "ba4ce54f5c53587147a7",
+        "title": "解放军将派出兵力赴俄参加实兵演习",
+        "summary": "解放军将派兵力赴俄参加实兵演习，体现中俄军事合作深化。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681564603750334507/",
-        "publishedAt": "2026-09-04T08:27:20Z"
+        "url": "https://www.toutiao.com/trending/7681573232828235782/",
+        "publishedAt": "2026-09-04T10:26:09Z"
       },
       {
-        "id": "b195d11a81eef1874195",
-        "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
-        "summary": "武汉大学通报教授被举报，纪委已启动调查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34002675",
-        "publishedAt": "2026-09-04T08:27:20Z"
-      },
-      {
-        "id": "450b98bf49bffe23d14c",
-        "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
-        "summary": "美联储官员沃勒发言打击加息预期，美股上涨，日元黄金大涨。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780985",
-        "publishedAt": "2026-09-04T08:27:20Z"
+        "id": "60fcbed8a7a123257296",
+        "title": "龚正辞去上海市市长职务",
+        "summary": "龚正辞去上海市市长职务，引发关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681256350177099817/",
+        "publishedAt": "2026-09-04T10:26:09Z"
       },
       {
         "id": "581b01059599da0e050c",
         "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-        "summary": "OpenAI发布GPT-6 Astra，采用10万GPU训练，网安能力达关键级。",
+        "summary": "OpenAI发布GPT-6 Astra，用10万GPU训练，网安能力达关键级。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781033",
-        "publishedAt": "2026-09-04T08:27:20Z"
+        "publishedAt": "2026-09-04T10:26:09Z"
+      },
+      {
+        "id": "b195d11a81eef1874195",
+        "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
+        "summary": "武汉大学教授遭86页PDF举报，学校纪委已启动调查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34002675",
+        "publishedAt": "2026-09-04T10:26:09Z"
       },
       {
         "id": "8028c685fd3451a7b3b5",
         "title": "个人房贷新规落地情况一线调研：“年龄＋期限”能否突破75？选择40年房贷客户会不会增加？",
-        "summary": "个人房贷新规落地调研：年龄+期限能否突破75岁受关注。",
+        "summary": "个人房贷新规落地调研：年龄+期限能否突破75岁，40年房贷引关注。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474025",
-        "publishedAt": "2026-09-04T08:27:20Z"
+        "publishedAt": "2026-09-04T10:26:09Z"
       },
       {
-        "id": "cdab1f06730774d83df7",
-        "title": "人贩子将出狱 孙海洋担心被报复",
-        "summary": "人贩子将出狱，孙海洋担心被报复，社会关注安全。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%B0%86%E5%87%BA%E7%8B%B1+%E5%AD%99%E6%B5%B7%E6%B4%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E6%8A%A5%E5%A4%8D",
-        "publishedAt": "2026-09-04T08:27:20Z"
+        "id": "327cfc828b0ec32d22e0",
+        "title": "福建莆田特大暴雨破纪录",
+        "summary": "福建莆田特大暴雨破纪录，造成严重内涝和人员失联。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681521167270494746/",
+        "publishedAt": "2026-09-04T10:26:09Z"
       },
       {
         "id": "a5e8632b9f43c4560aab",
         "title": "外交部：希望韩国政府切实践行一个中国原则",
-        "summary": "外交部希望韩国政府切实履行一个中国原则。",
+        "summary": "外交部敦促韩国政府切实坚持一个中国原则。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34002789",
-        "publishedAt": "2026-09-04T08:27:20Z"
+        "publishedAt": "2026-09-04T10:26:09Z"
       },
       {
-        "id": "60a124cc1857a42f5251",
-        "title": "灵活就业人员医保新政来了",
-        "summary": "灵活就业人员医保新政出台，覆盖更广泛群体。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8C%BB%E4%BF%9D%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86%23",
-        "publishedAt": "2026-09-04T08:27:20Z"
+        "id": "1eb66c14641d0df7c478",
+        "title": "尼泊尔泥石流已致1287人遇难",
+        "summary": "尼泊尔泥石流已致1287人遇难，救援持续进行。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681593658684214835/",
+        "publishedAt": "2026-09-04T10:26:09Z"
       }
     ]
   },
   "global": {
-    "overview": "国际动态涵盖尼泊尔洪灾救援、大众裁员及德国工业重组、俄乌冲突与欧洲安全等",
+    "overview": "阿根廷与英国马岛争端升级、德国极右翼政党有望胜选、尼泊尔洪水救援持续、油价上涨影响多国。",
     "items": [
       {
-        "id": "9b3eaddb7116567ac0b6",
-        "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
-        "summary": "大众宣布到2030年裁员10万人，应对美国关税及中国竞争。",
+        "id": "5eeeef8d908e0dc941a8",
+        "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+        "summary": "阿根廷总统米莱称马岛主权现‘变革之风’，威胁制裁石油公司。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+        "publishedAt": "2026-09-04T01:31:52Z"
+      },
+      {
+        "id": "539889cac2d0db9abf05",
+        "title": "Germany's far-right poised for power in state election",
+        "summary": "德国选择党或赢下萨克森-安哈尔特州，极右翼或首次执政州。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+        "publishedAt": "2026-09-04T02:00:00Z"
+      },
+      {
+        "id": "937bc5619b041348e720",
+        "title": "Two workers pulled alive from tunnel nine days after Nepal-Tibet floods",
+        "summary": "尼泊尔洪水隧道困9天后，两名工人奇迹获救。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue",
+        "publishedAt": "2026-09-04T01:49:05Z"
+      },
+      {
+        "id": "4ed532a2b14fca864707",
+        "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
+        "summary": "大众汽车拟再裁员5万，总数达10万，应对中国竞争。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-        "publishedAt": "2026-09-04T00:06:32Z"
+        "publishedAt": "2026-09-04T01:43:58Z"
       },
       {
-        "id": "9329e92e22c819e555cd",
-        "title": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
-        "summary": "尼泊尔洪水后九日，两名工人从隧道获救。",
+        "id": "c7132099562025c7ac48",
+        "title": "US diesel prices hit an all-time-high",
+        "summary": "美国柴油价格因伊朗冲突飙升至历史新高，影响农业。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T01:59:50Z"
+      },
+      {
+        "id": "cb373b3f073cb26493e3",
+        "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+        "summary": "也门胡塞武装升级对塔伊兹攻击，引发新一波流离失所。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
-        "publishedAt": "2026-09-03T23:46:48Z"
+        "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
+        "publishedAt": "2026-09-03T22:22:44Z"
       },
       {
-        "id": "5a40ec73f22c401a3829",
-        "title": "Russia maintains attacks on Ukraine’s energy infrastructure – Europe live",
-        "summary": "俄罗斯持续攻击乌克兰能源设施，意图冬季前破坏电网。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
-        "publishedAt": "2026-09-04T00:01:45Z"
-      },
-      {
-        "id": "d695cbaf45ddfa0252b5",
-        "title": "Meloni government becomes longest-serving in postwar Italy",
-        "summary": "梅洛尼政府成意大利战后最长执政，为2027年大选造势。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/meloni-government-becomes-longest-serving-in-postwar-italy/a-78910642?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T23:36:00Z"
-      },
-      {
-        "id": "162a4fdfdfb2b54e4014",
-        "title": "Germany: Police suspect sabotage after another device found",
-        "summary": "德国警方在一周内第三次发现可疑物，怀疑破坏电力设施。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-police-suspect-sabotage-after-another-device-found/live-78896707?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T23:38:00Z"
-      },
-      {
-        "id": "a1656c976d8c0b66e991",
-        "title": "UK has not done enough to prepare for shocks to food supplies, says watchdog",
-        "summary": "英国审计署称政府未充分准备应对粮食供应冲击。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog",
-        "publishedAt": "2026-09-03T22:00:02Z"
-      },
-      {
-        "id": "9538954902daac527946",
-        "title": "Iran war live: US rules out Iran talks until ship attacks stop",
-        "summary": "美国暂缓与伊朗谈判，直至船只袭击停止。",
+        "id": "eab0a47790b5e12f9e25",
+        "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
+        "summary": "密苏里州最高法院阻止特朗普支持的选区地图，共和党将上诉。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
-        "publishedAt": "2026-09-03T16:00:00Z"
+        "url": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
+        "publishedAt": "2026-09-03T18:46:50Z"
       },
       {
-        "id": "9dd13f02f0cdaebc7228",
-        "title": "Feminist trailblazer Gloria Steinem passes away at age 92",
-        "summary": "女权先驱格洛丽亚·斯泰纳姆去世，享年92岁。",
+        "id": "b87469813cba69c5693f",
+        "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
+        "summary": "OpenAI发布GPT-6 Astra，面临安全审查与伦理争议。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/feminist-trailblazer-gloria-steinem-passes-away-at-age-92?traffic_source=rss",
-        "publishedAt": "2026-09-03T17:05:07Z"
+        "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
+        "publishedAt": "2026-09-03T19:36:19Z"
       }
     ]
   }
