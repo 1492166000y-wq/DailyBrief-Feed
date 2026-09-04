@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-04T18:25:58Z",
+  "generatedAt": "2026-09-04T20:24:32Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，美国非农数据超预期引发市场对美联储加息的担忧；OpenAI发布GPT-6 Astra，开启AGI时代；证监会开出巨额罚单，私募新规出台；中央网信办等七部门发文促进数字化绿色化协同发展。",
+    "overview": "国内新闻涵盖经济政策、外交动态、执法监管、气象灾害等；国际方面聚焦中东冲突、美欧局势、全球市场及科技进展。",
     "items": [
       {
         "id": "1a29c305db3267bf3b79",
         "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
-        "summary": "美国8月非农新增就业16.2万人远超预期，失业率持平，美联储加息预期升温。",
+        "summary": "美国8月非农新增就业16.2万人远超预期，失业率稳定在4.1%",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781105",
-        "publishedAt": "2026-09-04T18:25:58Z"
-      },
-      {
-        "id": "581b01059599da0e050c",
-        "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-        "summary": "OpenAI发布GPT-6 Astra，基于10万GPU训练，网络安全能力达到“关键”级，宣告AGI时代到来。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781033",
-        "publishedAt": "2026-09-04T18:25:58Z"
+        "publishedAt": "2026-09-04T20:24:32Z"
       },
       {
         "id": "ee5e5455cc0404145177",
         "title": "证监会开出2.55亿巨额罚单",
-        "summary": "证监会开出2.55亿元巨额罚单，彰显对资本市场违规行为的严惩。",
+        "summary": "证监会开出2.55亿元巨额罚单，严打市场违规行为",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681610244372120073/",
-        "publishedAt": "2026-09-04T18:25:58Z"
-      },
-      {
-        "id": "8d321235f5785df41b6d",
-        "title": "首个针对私募募集的行业规范出台，让违规成本大幅提升",
-        "summary": "首个私募募集行业规范出台，大幅提高违规成本，促进行业健康发展。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474403",
-        "publishedAt": "2026-09-04T18:25:58Z"
+        "publishedAt": "2026-09-04T20:24:32Z"
       },
       {
         "id": "b6bb7cefdfc9da574fec",
         "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "七部门联合印发方案，促进数字化绿色化协同转型，推动经济高质量发展。",
+        "summary": "中央网信办等七部门联合印发数字化绿色化协同转型实施方案",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-04T18:25:58Z"
+        "publishedAt": "2026-09-04T20:24:32Z"
       },
       {
-        "id": "2f8da840745669cf726f",
-        "title": "马上评｜学生头晕流鼻血，甲醛不超标那是什么超标",
-        "summary": "学生头晕流鼻血，官方称甲醛不超标，媒体质疑污染物来源，呼吁彻查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34006540",
-        "publishedAt": "2026-09-04T18:25:58Z"
+        "id": "7697cfbd02050d7cccec",
+        "title": "外交部：已向韩方提出严正交涉",
+        "summary": "外交部就某问题向韩方提出严正交涉，捍卫国家利益",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680859229084647466/",
+        "publishedAt": "2026-09-04T20:24:32Z"
       },
       {
         "id": "ba4ce54f5c53587147a7",
         "title": "解放军将派出兵力赴俄参加实兵演习",
-        "summary": "解放军将派兵力赴俄参加实兵演习，加强军事合作与互信。",
+        "summary": "解放军将派兵力赴俄参加实兵演习，深化军事合作",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681573232828235782/",
-        "publishedAt": "2026-09-04T18:25:58Z"
+        "publishedAt": "2026-09-04T20:24:32Z"
       },
       {
-        "id": "614878b671027fc24bba",
-        "title": "稳步提升参保质量 推动“三医”协同发展",
-        "summary": "三医协同发展推进中，稳步提升参保质量，保障民生健康。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681654969577082395/",
-        "publishedAt": "2026-09-04T18:25:58Z"
+        "id": "8d321235f5785df41b6d",
+        "title": "首个针对私募募集的行业规范出台，让违规成本大幅提升",
+        "summary": "首个私募募集行业规范出台，大幅提升违规成本",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474403",
+        "publishedAt": "2026-09-04T20:24:32Z"
+      },
+      {
+        "id": "0b65bf7c42914bf6be0b",
+        "title": "四川宜宾地震",
+        "summary": "四川宜宾发生地震，震感明显，相关部门响应中",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87",
+        "publishedAt": "2026-09-04T20:24:32Z"
+      },
+      {
+        "id": "82cce876da5569271af1",
+        "title": "水位逼近二楼仍在上涨！莆田一村庄村民称“害怕了一夜，50多了没见过这么大洪水”",
+        "summary": "莆田暴雨致洪水逼近二楼，村民称50多年未见过",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34008495",
+        "publishedAt": "2026-09-04T20:24:32Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国非农数据强劲提升加息预期；特朗普施压美联储降息；俄乌冲突持续升级，德国指责俄罗斯进行破坏活动；联合国通过新世界地图决议；菲律宾副总统遭逮捕令，政治斗争加剧。",
+    "overview": "国际新闻聚焦美国总统特朗普的贸易与外交政策、中东冲突、俄乌及也门局势、欧洲政治与安全，以及科技与安全事件。",
     "items": [
+      {
+        "id": "2ef1c9e534dba47ceb7c",
+        "title": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates – US politics live",
+        "summary": "特朗普威胁对某些国家停止贸易，除非美联储降息",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
+        "publishedAt": "2026-09-04T12:15:14Z"
+      },
       {
         "id": "f10a62796d24cadd3bc8",
         "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
-        "summary": "美国8月非农新增就业16.2万，失业率稳定，提振美联储加息预期。",
+        "summary": "美国8月新增就业16.2万，远超预期，加息预期升温",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
         "publishedAt": "2026-09-04T08:31:20Z"
       },
       {
-        "id": "2ef1c9e534dba47ceb7c",
-        "title": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates – US politics live",
-        "summary": "特朗普威胁停止与部分国家贸易，施压美联储降息，引发市场关注。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-        "publishedAt": "2026-09-04T10:06:46Z"
+        "id": "e6a9dcb2ccdace5e1904",
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "summary": "特朗普特使将访问莫斯科和基辅，试图推动和平",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T12:03:52Z"
       },
       {
-        "id": "fc4cdae826a343f312f7",
-        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-        "summary": "欧洲频遭破坏活动，德国指责俄罗斯为幕后黑手，引发安全担忧。",
+        "id": "cec11bb252e0577b1cda",
+        "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+        "summary": "俄罗斯无人机袭击乌克兰安全局总部，造成人员受伤",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T08:49:15Z"
-      },
-      {
-        "id": "f64caae7083316dfb5f3",
-        "title": "UN votes to adopt new world map to reflect Africa's true size",
-        "summary": "联合国通过新世界地图决议，以更准确反映非洲真实大小，美国投反对票。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T09:26:40Z"
+        "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T08:02:32Z"
       },
       {
         "id": "da629542aae0833efed2",
         "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-        "summary": "菲律宾法院下令逮捕副总统杜特尔特，因其威胁总统马科斯，政局趋紧。",
+        "summary": "菲律宾法院下令逮捕副总统杜特尔特，因威胁总统马科斯",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
         "publishedAt": "2026-09-04T05:35:55Z"
       },
       {
-        "id": "f2ceea00e10d60f670b2",
-        "title": "Russian drone strikes Ukraine’s security service headquarters",
-        "summary": "俄罗斯无人机袭击乌克兰情报总部，致5人受伤，局势升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss",
-        "publishedAt": "2026-09-04T08:03:41Z"
-      },
-      {
         "id": "78f2d4bb608a62e7cbe8",
         "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
-        "summary": "也门胡塞武装向关键海峡推进，战斗已致至少100人死亡。",
+        "summary": "也门胡塞武装推进关键海峡，战斗已致至少100人死亡",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
         "publishedAt": "2026-09-04T05:13:14Z"
       },
       {
-        "id": "347139370ea04e0c74c4",
-        "title": "New York City police fatally shoot man who climbed up Brooklyn Bridge cables",
-        "summary": "纽约一男子攀爬布鲁克林大桥，持刀威胁，遭警察射杀。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/04/new-york-city-brooklyn-bridge-police-shoot-man",
-        "publishedAt": "2026-09-04T07:25:17Z"
+        "id": "ca8400fb0999ce076885",
+        "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
+        "summary": "联合国对以色列西岸行动提“种族清洗”担忧，大量巴勒斯坦人流离失所",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
+        "publishedAt": "2026-09-04T07:31:54Z"
+      },
+      {
+        "id": "6d9f5ce2345a524403b8",
+        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+        "summary": "OpenAI和Anthropic近期宕机原因不明，引发网友讨论",
+        "source": "Hacker News",
+        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+        "publishedAt": "2026-09-04T09:29:22Z"
       }
     ]
   }
