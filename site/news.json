@@ -1,100 +1,116 @@
 {
   "version": 1,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-03T22:24:03Z",
+  "generatedAt": "2026-09-04T00:32:48Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "中国楼市进入分水岭，广州取消校服统一订购引热议，央行媒体评家长群攀比现象，尼泊尔感谢中国援助，中国对G20公报表示遗憾。",
+    "overview": "国内方面，涉及外交、监管、科技和民生等热点。",
     "items": [
       {
-        "id": "a76296807df3dd401c22",
-        "title": "媒体：中国房子迎来真正的分水岭",
-        "summary": "媒体分析中国房地产市场迎来重大转折点，引发广泛关注。",
+        "id": "7697cfbd02050d7cccec",
+        "title": "外交部：已向韩方提出严正交涉",
+        "summary": "外交部就中国公民在菲被羁押期间离世向菲方提出严正交涉，要求彻查事件。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680823899399651347/",
-        "publishedAt": "2026-09-03T22:24:03Z"
-      },
-      {
-        "id": "b9f654b13bb3778c1544",
-        "title": "广州取消校服统一订购",
-        "summary": "广州取消校服统一订购，引发社会讨论，涉教育政策调整。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%8F%96%E6%B6%88%E6%A0%A1%E6%9C%8D%E7%BB%9F%E4%B8%80%E8%AE%A2%E8%B4%AD",
-        "publishedAt": "2026-09-03T22:24:03Z"
-      },
-      {
-        "id": "157c952d4e1c095ecf9a",
-        "title": "尼泊尔外长：感谢中国紧急援助支持，不会向中国等国家寻求“气候正义赔偿”",
-        "summary": "尼泊尔外长感谢中国紧急援助，并称不会寻求气候正义赔偿。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2473483",
-        "publishedAt": "2026-09-03T22:24:03Z"
-      },
-      {
-        "id": "081b172770f3de484dad",
-        "title": "中国为什么对G20这场会未发表公报表示遗憾",
-        "summary": "中国对G20未发表公报表示遗憾，反映国际外交立场。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w7uXkXhKhr",
-        "publishedAt": "2026-09-03T22:24:03Z"
-      },
-      {
-        "id": "1b73116d80b9e38b6dbe",
-        "title": "亮干部身份、众筹请保洁、异议被禁言，央媒：家长群不能是攀比的秀场",
-        "summary": "央媒批评家长群攀比现象，强调教育环境需风清气正。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34001019",
-        "publishedAt": "2026-09-03T22:24:03Z"
-      },
-      {
-        "id": "fccf7392665b9caa9735",
-        "title": "华尔街见闻早餐FM-Radio | 2026年9月3日",
-        "summary": "华尔街见闻早报汇总关键市场资讯，涵盖宏观与产业动态。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3780948",
-        "publishedAt": "2026-09-03T22:24:03Z"
+        "url": "https://www.toutiao.com/trending/7680859229084647466/",
+        "publishedAt": "2026-09-04T00:32:48Z"
       },
       {
         "id": "234d2066508709b7dfd4",
         "title": "促进中小企业发展“十五五”规划发布",
-        "summary": "促进中小企业发展“十五五”规划发布，推动经济高质量发展。",
+        "summary": "促进中小企业发展“十五五”规划发布，提出系列支持措施以推动中小企业高质量发展。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681227409579868223/",
-        "publishedAt": "2026-09-03T22:24:03Z"
+        "publishedAt": "2026-09-04T00:32:48Z"
       },
       {
-        "id": "8ff98081512c568ab675",
-        "title": "越南称对西沙群岛拥有主权，叫嚣外国一切活动非法，中方回应",
-        "summary": "越南宣称对西沙群岛拥有主权，中方回应强调主权立场。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8w7Un54ONma",
-        "publishedAt": "2026-09-03T22:24:03Z"
+        "id": "638b3e5b480c2344b7b4",
+        "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
+        "summary": "OpenAI发布GPT-6，称其为地球最强大模型，宣告“欢迎来到AGI时代”，引发广泛关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2473745",
+        "publishedAt": "2026-09-04T00:32:48Z"
+      },
+      {
+        "id": "a5e8632b9f43c4560aab",
+        "title": "外交部：希望韩国政府切实践行一个中国原则",
+        "summary": "外交部回应越南涉西沙主权言论，强调中国对西沙群岛拥有无可争辩的主权，坚决反对非法主张。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34002789",
+        "publishedAt": "2026-09-04T00:32:48Z"
+      },
+      {
+        "id": "d52bbb8f312b55f33630",
+        "title": "人民日报批饭圈刷爆12345",
+        "summary": "人民日报批评饭圈刷爆12345热线现象，呼吁整治网络乱象，引导理性追星。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7680674050754183222/",
+        "publishedAt": "2026-09-04T00:32:48Z"
+      },
+      {
+        "id": "f95888697f303c1f4c5c",
+        "title": "马上评｜家长群晒公职求关照？特权思维不容闯进校园",
+        "summary": "家长群出现干部身份炫耀及要求关照事件，媒体批特权思维，强调校园公平。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33998990",
+        "publishedAt": "2026-09-04T00:32:48Z"
+      },
+      {
+        "id": "25932069235efb619dc7",
+        "title": "体育总局：将培育积极健康的球迷文化，深化体育“饭圈”乱象整治",
+        "summary": "体育总局表示将培育健康球迷文化，深化体育领域“饭圈”乱象整治，营造良好氛围。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33999313",
+        "publishedAt": "2026-09-04T00:32:48Z"
+      },
+      {
+        "id": "219bb6af594a4c72f8ab",
+        "title": "深夜突发！美国AI大宕机",
+        "summary": "美国AI服务发生大规模宕机，ChatGPT、Claude等受影响，引发对AI基础设施稳定性的关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%A4%9C%E7%AA%81%E5%8F%91%EF%BC%81%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E5%AE%95%E6%9C%BA",
+        "publishedAt": "2026-09-04T00:32:48Z"
       }
     ]
   },
   "global": {
-    "overview": "中美关系复杂，中东冲突持续，欧洲高温创纪录，人工智能技术快速发展，全球市场关注美联储动向。",
+    "overview": "国际方面，涵盖中东局势、美国政策、科技财经等重大新闻。",
     "items": [
       {
-        "id": "ceb0d6f073bde9099ab3",
-        "title": "Volkswagen confirms it will cut 100,000 jobs by 2030",
-        "summary": "大众确认2030年前裁员10万，应对关税与中国竞争冲击。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-        "publishedAt": "2026-09-03T14:04:03Z"
+        "id": "9538954902daac527946",
+        "title": "Iran war live: US rules out Iran talks until ship attacks stop",
+        "summary": "伊朗战争动态：美国表示在船只袭击停止前不与伊朗谈判，伊朗誓言多层次回应。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+        "publishedAt": "2026-09-03T16:00:00Z"
+      },
+      {
+        "id": "4e94a8eb09d369a850c1",
+        "title": "Volkswagen to cut 100,000 jobs by end of decade",
+        "summary": "大众汽车宣布到2030年裁员10万人，为行业最大规模重组，以应对市场挑战。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/volkswagen-to-cut-100-000-jobs-by-end-of-decade/a-78896123?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T16:06:00Z"
       },
       {
         "id": "79bb48c772542d940226",
         "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-        "summary": "伊朗攻击美在阿联酋和科威特基地，中东局势急剧升级。",
+        "summary": "伊朗袭击美国在阿联酋和科威特的基地，中东局势急剧升级，引发国际关注。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
         "publishedAt": "2026-09-03T06:16:54Z"
       },
       {
+        "id": "6ece24101cf71c21352e",
+        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+        "summary": "英伟达以129亿美元收购AI平台Hugging Face，加强AI生态布局，交易规模巨大。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+        "publishedAt": "2026-09-03T08:59:56Z"
+      },
+      {
         "id": "5353a039c3f6d5da3f6c",
         "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
-        "summary": "乌克兰两大安全机构在基辅交火，泽连斯基斥为耻辱。",
+        "summary": "乌克兰两大安全机构在基辅发生枪战，泽连斯基斥为“耻辱”，事件暴露内部矛盾。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
         "publishedAt": "2026-09-03T06:04:46Z"
@@ -102,42 +118,26 @@
       {
         "id": "f12fb73e2ed496667a13",
         "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-        "summary": "日元兑美元大幅升值超2%，市场预期日本央行或加息。",
+        "summary": "日元兑美元大幅升值超2%，因日本央行可能加息，市场预期转变引发波动。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
         "publishedAt": "2026-09-03T06:33:58Z"
       },
       {
-        "id": "340ef0edd8d7981d4b46",
-        "title": "France records ‘hottest summer ever’ in 2026",
-        "summary": "法国录得2026年有记录以来最热夏季，凸显气候变化影响。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/3/france-records-hottest-summer-ever-in-2026?traffic_source=rss",
-        "publishedAt": "2026-09-03T13:01:48Z"
+        "id": "602883b137e27e241951",
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "summary": "美国男子移植猪肾后存活271天创纪录，等待人体移植期间维持生命，医学突破。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-03T14:31:23Z"
       },
       {
-        "id": "e314165385e965b52bd0",
-        "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-        "summary": "OpenAI发布GPT-6 Astra，AI技术迎来新里程碑。",
+        "id": "7077ace3cd1f0d3fe6c0",
+        "title": "GPT-6 Astra",
+        "summary": "GPT-6 Astra发布，引入新架构，引发业界关于安全与能力的讨论，关注度高。",
         "source": "Hacker News",
-        "url": "https://arcprize.org/blog/astra",
-        "publishedAt": "2026-09-03T11:45:00Z"
-      },
-      {
-        "id": "6ece24101cf71c21352e",
-        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-        "summary": "英伟达以129亿美元收购AI平台Hugging Face，加码AI布局。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-        "publishedAt": "2026-09-03T08:59:56Z"
-      },
-      {
-        "id": "7dbeaf5f86e9b15f3736",
-        "title": "EU’s ability to defend against invasion remains in doubt, finds official report",
-        "summary": "欧盟报告称其防御能力到2030年仍存疑，依赖美国且碎片化。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
-        "publishedAt": "2026-09-03T07:09:25Z"
+        "url": "https://openai.com/index/gpt-6-astra/",
+        "publishedAt": "2026-09-03T10:41:05Z"
       }
     ]
   }
