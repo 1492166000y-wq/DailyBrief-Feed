@@ -1,58 +1,42 @@
 {
   "version": 1,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T10:26:09Z",
+  "generatedAt": "2026-09-04T12:31:31Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "解放军赴俄演习、美联储政策与金融市场动态、OpenAI发布GPT-6、医保新规等是今日关注焦点。",
+    "overview": "国内要闻涵盖泥石流灾害、解放军演习、美联储动向、教师管教、房贷政策等。",
     "items": [
       {
-        "id": "ba4ce54f5c53587147a7",
+        "id": "ce7f24e04f3ea00041cd",
+        "title": "吉隆泥石流已致31人遇难531人失联",
+        "summary": "吉隆泥石流致31人遇难，531人失联，救援持续进行。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681141012961529398/",
+        "publishedAt": "2026-09-04T12:31:31Z"
+      },
+      {
+        "id": "ebe29c813ea7ea100f20",
         "title": "解放军将派出兵力赴俄参加实兵演习",
-        "summary": "解放军将派兵力赴俄参加实兵演习，体现中俄军事合作深化。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681573232828235782/",
-        "publishedAt": "2026-09-04T10:26:09Z"
+        "summary": "解放军将派兵力赴俄参加实兵演习，加强军事合作。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B0%86%E6%B4%BE%E5%87%BA%E5%85%B5%E5%8A%9B%E8%B5%B4%E4%BF%84%E5%8F%82%E5%8A%A0%E5%AE%9E%E5%85%B5%E6%BC%94%E4%B9%A0",
+        "publishedAt": "2026-09-04T12:31:31Z"
       },
       {
-        "id": "60fcbed8a7a123257296",
-        "title": "龚正辞去上海市市长职务",
-        "summary": "龚正辞去上海市市长职务，引发关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681256350177099817/",
-        "publishedAt": "2026-09-04T10:26:09Z"
-      },
-      {
-        "id": "581b01059599da0e050c",
-        "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-        "summary": "OpenAI发布GPT-6 Astra，用10万GPU训练，网安能力达关键级。",
+        "id": "450b98bf49bffe23d14c",
+        "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
+        "summary": "沃勒发言打击加息预期，美股上涨，日元急升2%，黄金大涨。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781033",
-        "publishedAt": "2026-09-04T10:26:09Z"
+        "url": "https://wallstreetcn.com/articles/3780985",
+        "publishedAt": "2026-09-04T12:31:31Z"
       },
       {
-        "id": "b195d11a81eef1874195",
-        "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
-        "summary": "武汉大学教授遭86页PDF举报，学校纪委已启动调查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34002675",
-        "publishedAt": "2026-09-04T10:26:09Z"
-      },
-      {
-        "id": "8028c685fd3451a7b3b5",
-        "title": "个人房贷新规落地情况一线调研：“年龄＋期限”能否突破75？选择40年房贷客户会不会增加？",
-        "summary": "个人房贷新规落地调研：年龄+期限能否突破75岁，40年房贷引关注。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474025",
-        "publishedAt": "2026-09-04T10:26:09Z"
-      },
-      {
-        "id": "327cfc828b0ec32d22e0",
-        "title": "福建莆田特大暴雨破纪录",
-        "summary": "福建莆田特大暴雨破纪录，造成严重内涝和人员失联。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681521167270494746/",
-        "publishedAt": "2026-09-04T10:26:09Z"
+        "id": "26b83768a39375813481",
+        "title": "教育部回应教师不敢管学生",
+        "summary": "教育部回应教师不敢管学生问题，强调依法执教。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E4%B8%8D%E6%95%A2%E7%AE%A1%E5%AD%A6%E7%94%9F%23",
+        "publishedAt": "2026-09-04T12:31:31Z"
       },
       {
         "id": "a5e8632b9f43c4560aab",
@@ -60,84 +44,100 @@
         "summary": "外交部敦促韩国政府切实坚持一个中国原则。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34002789",
-        "publishedAt": "2026-09-04T10:26:09Z"
+        "publishedAt": "2026-09-04T12:31:31Z"
       },
       {
-        "id": "1eb66c14641d0df7c478",
-        "title": "尼泊尔泥石流已致1287人遇难",
-        "summary": "尼泊尔泥石流已致1287人遇难，救援持续进行。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681593658684214835/",
-        "publishedAt": "2026-09-04T10:26:09Z"
+        "id": "8028c685fd3451a7b3b5",
+        "title": "个人房贷新规落地情况一线调研：“年龄＋期限”能否突破75？选择40年房贷客户会不会增加？",
+        "summary": "个人房贷新规落地，调研关注年龄期限及长期房贷客户情况。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474025",
+        "publishedAt": "2026-09-04T12:31:31Z"
+      },
+      {
+        "id": "581b01059599da0e050c",
+        "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
+        "summary": "OpenAI发布GPT-6 Astra，号称进入AGI时代，网络安全能力提升。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781033",
+        "publishedAt": "2026-09-04T12:31:31Z"
+      },
+      {
+        "id": "b195d11a81eef1874195",
+        "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
+        "summary": "武汉大学通报教授被举报事件，纪委已启动调查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34002675",
+        "publishedAt": "2026-09-04T12:31:31Z"
       }
     ]
   },
   "global": {
-    "overview": "阿根廷与英国马岛争端升级、德国极右翼政党有望胜选、尼泊尔洪水救援持续、油价上涨影响多国。",
+    "overview": "国际焦点包括美国政治与外交、欧洲安全、科技行业动态及全球市场波动。",
     "items": [
       {
-        "id": "5eeeef8d908e0dc941a8",
-        "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-        "summary": "阿根廷总统米莱称马岛主权现‘变革之风’，威胁制裁石油公司。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-        "publishedAt": "2026-09-04T01:31:52Z"
+        "id": "98a6ae0ebb6e74d090cc",
+        "title": "Romania prosecutors indict Andrew Tate for trafficking minors",
+        "summary": "罗马尼亚检方起诉安德鲁·泰特贩卖未成年人及洗钱等罪名。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/romania-prosecutors-indict-andrew-tate-for-trafficking-minors/a-78933191?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-04T04:23:00Z"
       },
       {
-        "id": "539889cac2d0db9abf05",
-        "title": "Germany's far-right poised for power in state election",
-        "summary": "德国选择党或赢下萨克森-安哈尔特州，极右翼或首次执政州。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-        "publishedAt": "2026-09-04T02:00:00Z"
+        "id": "3969a6bbba75c55b1885",
+        "title": "Majority of Germans see Russia as a threat",
+        "summary": "调查显示多数德国人视俄罗斯为安全威胁。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/majority-of-germans-see-russia-as-a-threat/a-78970396?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-04T04:00:00Z"
+      },
+      {
+        "id": "7cf38bdc4a58b220def6",
+        "title": "Missouri supreme court blocks congressional maps backed by Trump for midterms – US politics live",
+        "summary": "密苏里州最高法院阻止特朗普支持的选区地图，影响中期选举。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
+        "publishedAt": "2026-09-04T03:58:03Z"
+      },
+      {
+        "id": "c7132099562025c7ac48",
+        "title": "US diesel prices hit an all-time-high",
+        "summary": "美国柴油价格创历史新高，受伊朗冲突影响持续攀升。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T02:52:56Z"
+      },
+      {
+        "id": "b87469813cba69c5693f",
+        "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
+        "summary": "OpenAI发布GPT-6 Astra，引发安全审查与伦理争议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
+        "publishedAt": "2026-09-03T19:36:19Z"
       },
       {
         "id": "937bc5619b041348e720",
         "title": "Two workers pulled alive from tunnel nine days after Nepal-Tibet floods",
-        "summary": "尼泊尔洪水隧道困9天后，两名工人奇迹获救。",
+        "summary": "尼泊尔洪灾九天后，两名工人从隧道获救，救援创奇迹。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue",
         "publishedAt": "2026-09-04T01:49:05Z"
       },
       {
+        "id": "dcff12d645b54ebc2b30",
+        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+        "summary": "大众董事会批准再裁员5万人，计划至2030年共裁10万岗位。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-03T23:00:10Z"
+      },
+      {
         "id": "4ed532a2b14fca864707",
         "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-        "summary": "大众汽车拟再裁员5万，总数达10万，应对中国竞争。",
+        "summary": "大众计划裁员10万以应对竞争，为行业最大规模重组。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
         "publishedAt": "2026-09-04T01:43:58Z"
-      },
-      {
-        "id": "c7132099562025c7ac48",
-        "title": "US diesel prices hit an all-time-high",
-        "summary": "美国柴油价格因伊朗冲突飙升至历史新高，影响农业。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T01:59:50Z"
-      },
-      {
-        "id": "cb373b3f073cb26493e3",
-        "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
-        "summary": "也门胡塞武装升级对塔伊兹攻击，引发新一波流离失所。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
-        "publishedAt": "2026-09-03T22:22:44Z"
-      },
-      {
-        "id": "eab0a47790b5e12f9e25",
-        "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
-        "summary": "密苏里州最高法院阻止特朗普支持的选区地图，共和党将上诉。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
-        "publishedAt": "2026-09-03T18:46:50Z"
-      },
-      {
-        "id": "b87469813cba69c5693f",
-        "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
-        "summary": "OpenAI发布GPT-6 Astra，面临安全审查与伦理争议。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
-        "publishedAt": "2026-09-03T19:36:19Z"
       }
     ]
   }
