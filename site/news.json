@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-04T16:25:47Z",
+  "generatedAt": "2026-09-04T18:25:58Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "美国8月非农数据远超预期，美联储加息预期升温；OpenAI发布GPT-6，AI技术新进展；证监会开出巨额罚单，规范金融秩序；莆田暴雨引发洪涝，救援进行中。",
+    "overview": "国内方面，美国非农数据超预期引发市场对美联储加息的担忧；OpenAI发布GPT-6 Astra，开启AGI时代；证监会开出巨额罚单，私募新规出台；中央网信办等七部门发文促进数字化绿色化协同发展。",
     "items": [
       {
         "id": "1a29c305db3267bf3b79",
         "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
-        "summary": "美国8月新增就业16.2万远超预期，失业率持平，市场对9月加息押注升温。",
+        "summary": "美国8月非农新增就业16.2万人远超预期，失业率持平，美联储加息预期升温。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781105",
-        "publishedAt": "2026-09-04T16:25:47Z"
+        "publishedAt": "2026-09-04T18:25:58Z"
       },
       {
         "id": "581b01059599da0e050c",
         "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-        "summary": "OpenAI发布GPT-6 Astra，号称10万GPU训练，网安能力达关键级，进入AGI时代。",
+        "summary": "OpenAI发布GPT-6 Astra，基于10万GPU训练，网络安全能力达到“关键”级，宣告AGI时代到来。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781033",
-        "publishedAt": "2026-09-04T16:25:47Z"
+        "publishedAt": "2026-09-04T18:25:58Z"
       },
       {
         "id": "ee5e5455cc0404145177",
         "title": "证监会开出2.55亿巨额罚单",
-        "summary": "证监会开出2.55亿元巨额罚单，严厉打击违法违规行为，维护市场秩序。",
+        "summary": "证监会开出2.55亿元巨额罚单，彰显对资本市场违规行为的严惩。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681610244372120073/",
-        "publishedAt": "2026-09-04T16:25:47Z"
-      },
-      {
-        "id": "89b8468f2a28ac726303",
-        "title": "暴雨袭击莆田 龙舟上阵转移群众",
-        "summary": "福建莆田暴雨引发内涝，救援人员用龙舟转移被困群众，已致多人受灾。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681216730697482266/",
-        "publishedAt": "2026-09-04T16:25:47Z"
-      },
-      {
-        "id": "c265b1312b2a87cae8af",
-        "title": "河水暴涨 95后特警抡锤猛砸护栏泄洪",
-        "summary": "河水暴涨，一95后特警抡锤砸护栏泄洪，用身体守护群众安全，获点赞。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8+95%E5%90%8E%E7%89%B9%E8%AD%A6%E6%8A%A1%E9%94%A4%E7%8C%9B%E7%A0%B8%E6%8A%A4%E6%A0%8F%E6%B3%84%E6%B4%AA",
-        "publishedAt": "2026-09-04T16:25:47Z"
-      },
-      {
-        "id": "f73922617649f4dce7e3",
-        "title": "“梅姨”落网后第四版画像曝光，肤色、皱纹等与初代有明显差异",
-        "summary": "梅姨案第四版画像发布，与初代差异明显，警方正全力追查人贩子下落。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34007876",
-        "publishedAt": "2026-09-04T16:25:47Z"
+        "publishedAt": "2026-09-04T18:25:58Z"
       },
       {
         "id": "8d321235f5785df41b6d",
         "title": "首个针对私募募集的行业规范出台，让违规成本大幅提升",
-        "summary": "首个私募募集行业规范出台，提高违规成本，促进行业健康发展。",
+        "summary": "首个私募募集行业规范出台，大幅提高违规成本，促进行业健康发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474403",
-        "publishedAt": "2026-09-04T16:25:47Z"
+        "publishedAt": "2026-09-04T18:25:58Z"
       },
       {
         "id": "b6bb7cefdfc9da574fec",
         "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "七部门联合印发数字化绿色化协同发展方案，明确未来五年转型路径。",
+        "summary": "七部门联合印发方案，促进数字化绿色化协同转型，推动经济高质量发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-04T16:25:47Z"
+        "publishedAt": "2026-09-04T18:25:58Z"
+      },
+      {
+        "id": "2f8da840745669cf726f",
+        "title": "马上评｜学生头晕流鼻血，甲醛不超标那是什么超标",
+        "summary": "学生头晕流鼻血，官方称甲醛不超标，媒体质疑污染物来源，呼吁彻查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34006540",
+        "publishedAt": "2026-09-04T18:25:58Z"
+      },
+      {
+        "id": "ba4ce54f5c53587147a7",
+        "title": "解放军将派出兵力赴俄参加实兵演习",
+        "summary": "解放军将派兵力赴俄参加实兵演习，加强军事合作与互信。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681573232828235782/",
+        "publishedAt": "2026-09-04T18:25:58Z"
+      },
+      {
+        "id": "614878b671027fc24bba",
+        "title": "稳步提升参保质量 推动“三医”协同发展",
+        "summary": "三医协同发展推进中，稳步提升参保质量，保障民生健康。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681654969577082395/",
+        "publishedAt": "2026-09-04T18:25:58Z"
       }
     ]
   },
   "global": {
-    "overview": "俄罗斯无人机袭击乌克兰情报总部，局势升级；美国特使将访俄乌斡旋；德国遭俄罗斯破坏威胁，警惕基础设施安全；菲律宾副总统被逮捕令引发政治风波。",
+    "overview": "国际方面，美国非农数据强劲提升加息预期；特朗普施压美联储降息；俄乌冲突持续升级，德国指责俄罗斯进行破坏活动；联合国通过新世界地图决议；菲律宾副总统遭逮捕令，政治斗争加剧。",
     "items": [
       {
-        "id": "de5b31a27dcc16037e97",
-        "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
-        "summary": "俄罗斯无人机袭击乌克兰安全局总部，乌方称此为重大升级，泽连斯基要求回应。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-        "publishedAt": "2026-09-04T07:37:52Z"
-      },
-      {
-        "id": "93d8a5c344c8558f6f58",
-        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
-        "summary": "特朗普特使将于周末访问莫斯科和基辅，重启俄乌和谈斡旋。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T06:27:10Z"
-      },
-      {
-        "id": "fc4cdae826a343f312f7",
-        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-        "summary": "德国指责俄策划多起破坏事件，欧洲面临间谍与破坏活动风险上升。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T06:17:35Z"
+        "id": "f10a62796d24cadd3bc8",
+        "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
+        "summary": "美国8月非农新增就业16.2万，失业率稳定，提振美联储加息预期。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
+        "publishedAt": "2026-09-04T08:31:20Z"
       },
       {
         "id": "2ef1c9e534dba47ceb7c",
         "title": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates – US politics live",
-        "summary": "特朗普威胁对不降息国家停止贸易，施压美联储，引发市场动荡。",
+        "summary": "特朗普威胁停止与部分国家贸易，施压美联储降息，引发市场关注。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-        "publishedAt": "2026-09-04T07:54:47Z"
+        "publishedAt": "2026-09-04T10:06:46Z"
+      },
+      {
+        "id": "fc4cdae826a343f312f7",
+        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+        "summary": "欧洲频遭破坏活动，德国指责俄罗斯为幕后黑手，引发安全担忧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T08:49:15Z"
+      },
+      {
+        "id": "f64caae7083316dfb5f3",
+        "title": "UN votes to adopt new world map to reflect Africa's true size",
+        "summary": "联合国通过新世界地图决议，以更准确反映非洲真实大小，美国投反对票。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T09:26:40Z"
       },
       {
         "id": "da629542aae0833efed2",
         "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-        "summary": "菲律宾法院签发对副总统莎拉的逮捕令，涉威胁总统马科斯，政治危机加深。",
+        "summary": "菲律宾法院下令逮捕副总统杜特尔特，因其威胁总统马科斯，政局趋紧。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
         "publishedAt": "2026-09-04T05:35:55Z"
       },
       {
-        "id": "1eb5c62113233f778b49",
-        "title": "Investigation launched into polling firm at centre of Reform UK allegations",
-        "summary": "英国民调公司JL Partners因涉改革党捐款违规遭行业调查，影响选举透明。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/sep/04/investigation-polling-firm-reform-uk-allegations",
-        "publishedAt": "2026-09-04T08:14:46Z"
+        "id": "f2ceea00e10d60f670b2",
+        "title": "Russian drone strikes Ukraine’s security service headquarters",
+        "summary": "俄罗斯无人机袭击乌克兰情报总部，致5人受伤，局势升级。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss",
+        "publishedAt": "2026-09-04T08:03:41Z"
+      },
+      {
+        "id": "78f2d4bb608a62e7cbe8",
+        "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
+        "summary": "也门胡塞武装向关键海峡推进，战斗已致至少100人死亡。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
+        "publishedAt": "2026-09-04T05:13:14Z"
       },
       {
         "id": "347139370ea04e0c74c4",
         "title": "New York City police fatally shoot man who climbed up Brooklyn Bridge cables",
-        "summary": "纽约一男子爬布鲁克林大桥，持刀威胁，遭警察开枪击毙。",
+        "summary": "纽约一男子攀爬布鲁克林大桥，持刀威胁，遭警察射杀。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/04/new-york-city-brooklyn-bridge-police-shoot-man",
         "publishedAt": "2026-09-04T07:25:17Z"
-      },
-      {
-        "id": "5ff48b78e42148821e23",
-        "title": "Diesel price hits all-time high in US amid Iran war woes",
-        "summary": "美国柴油价格创历史新高，因伊朗战争影响，汽油价格亦升至劳工节新高。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
-        "publishedAt": "2026-09-04T07:28:28Z"
       }
     ]
   }
