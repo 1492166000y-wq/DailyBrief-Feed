@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-04T20:24:32Z",
+  "generatedAt": "2026-09-04T22:23:29Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻涵盖经济政策、外交动态、执法监管、气象灾害等；国际方面聚焦中东冲突、美欧局势、全球市场及科技进展。",
+    "overview": "国内方面，非农数据超预期引发加息预期升温，证监会重罚违规，暴雨汛情多地受灾，教师数量发布，东博会亮点引关注。",
     "items": [
       {
         "id": "1a29c305db3267bf3b79",
         "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
-        "summary": "美国8月非农新增就业16.2万人远超预期，失业率稳定在4.1%",
+        "summary": "美国8月非农新增就业16.2万人远超预期，失业率4.1%不变，加息预期升温。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781105",
-        "publishedAt": "2026-09-04T20:24:32Z"
+        "publishedAt": "2026-09-04T22:23:29Z"
       },
       {
         "id": "ee5e5455cc0404145177",
         "title": "证监会开出2.55亿巨额罚单",
-        "summary": "证监会开出2.55亿元巨额罚单，严打市场违规行为",
+        "summary": "证监会开出2.55亿元巨额罚单，严惩市场违规行为，维护市场秩序。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681610244372120073/",
-        "publishedAt": "2026-09-04T20:24:32Z"
+        "publishedAt": "2026-09-04T22:23:29Z"
       },
       {
         "id": "b6bb7cefdfc9da574fec",
         "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "中央网信办等七部门联合印发数字化绿色化协同转型实施方案",
+        "summary": "中央网信办等七部门联合印发数字化绿色化协同转型发展实施方案（2026-2030年）。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-04T20:24:32Z"
-      },
-      {
-        "id": "7697cfbd02050d7cccec",
-        "title": "外交部：已向韩方提出严正交涉",
-        "summary": "外交部就某问题向韩方提出严正交涉，捍卫国家利益",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680859229084647466/",
-        "publishedAt": "2026-09-04T20:24:32Z"
-      },
-      {
-        "id": "ba4ce54f5c53587147a7",
-        "title": "解放军将派出兵力赴俄参加实兵演习",
-        "summary": "解放军将派兵力赴俄参加实兵演习，深化军事合作",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681573232828235782/",
-        "publishedAt": "2026-09-04T20:24:32Z"
+        "publishedAt": "2026-09-04T22:23:29Z"
       },
       {
         "id": "8d321235f5785df41b6d",
         "title": "首个针对私募募集的行业规范出台，让违规成本大幅提升",
-        "summary": "首个私募募集行业规范出台，大幅提升违规成本",
+        "summary": "首个私募募集行业规范出台，大幅提升违规成本，促进行业健康发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474403",
-        "publishedAt": "2026-09-04T20:24:32Z"
+        "publishedAt": "2026-09-04T22:23:29Z"
       },
       {
         "id": "0b65bf7c42914bf6be0b",
         "title": "四川宜宾地震",
-        "summary": "四川宜宾发生地震，震感明显，相关部门响应中",
+        "summary": "四川宜宾发生地震，相关部门已启动应急响应，灾情正在核实中。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87",
-        "publishedAt": "2026-09-04T20:24:32Z"
+        "publishedAt": "2026-09-04T22:23:29Z"
       },
       {
         "id": "82cce876da5569271af1",
         "title": "水位逼近二楼仍在上涨！莆田一村庄村民称“害怕了一夜，50多了没见过这么大洪水”",
-        "summary": "莆田暴雨致洪水逼近二楼，村民称50多年未见过",
+        "summary": "莆田暴雨洪水致村庄被淹，水位逼近二楼，村民称五十年未见如此大水。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34008495",
-        "publishedAt": "2026-09-04T20:24:32Z"
+        "publishedAt": "2026-09-04T22:23:29Z"
+      },
+      {
+        "id": "4fef50a31102f446ea77",
+        "title": "我国目前有1870万名教师",
+        "summary": "我国目前有1870万名教师，教师队伍建设取得显著成效。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681520696856215602/",
+        "publishedAt": "2026-09-04T22:23:29Z"
+      },
+      {
+        "id": "7a90dee7f2f71e8ea856",
+        "title": "今年的东博会、峰会有哪些不同",
+        "summary": "今年的东博会、峰会有诸多新亮点，推动区域合作与经贸往来。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%8D%9A%E4%BC%9A%E3%80%81%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+        "publishedAt": "2026-09-04T22:23:29Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻聚焦美国总统特朗普的贸易与外交政策、中东冲突、俄乌及也门局势、欧洲政治与安全，以及科技与安全事件。",
+    "overview": "国际方面，特朗普施压美联储降息，美国非农强劲，中东冲突持续，尼泊尔洪灾引气候讨论，多国议题受关注。",
     "items": [
       {
         "id": "2ef1c9e534dba47ceb7c",
         "title": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates – US politics live",
-        "summary": "特朗普威胁对某些国家停止贸易，除非美联储降息",
+        "summary": "特朗普威胁切断与部分国家贸易，迫使美联储降息，凸显其与美联储紧张关系。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-        "publishedAt": "2026-09-04T12:15:14Z"
+        "publishedAt": "2026-09-04T14:10:43Z"
       },
       {
-        "id": "f10a62796d24cadd3bc8",
-        "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
-        "summary": "美国8月新增就业16.2万，远超预期，加息预期升温",
+        "id": "97d090870b3404b8081b",
+        "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+        "summary": "特朗普派特使访俄乌推动和谈，寻求重启和平谈判以结束战争。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
-        "publishedAt": "2026-09-04T08:31:20Z"
+        "url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
+        "publishedAt": "2026-09-04T13:19:05Z"
       },
       {
-        "id": "e6a9dcb2ccdace5e1904",
-        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-        "summary": "特朗普特使将访问莫斯科和基辅，试图推动和平",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T12:03:52Z"
-      },
-      {
-        "id": "cec11bb252e0577b1cda",
-        "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-        "summary": "俄罗斯无人机袭击乌克兰安全局总部，造成人员受伤",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T08:02:32Z"
-      },
-      {
-        "id": "da629542aae0833efed2",
-        "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-        "summary": "菲律宾法院下令逮捕副总统杜特尔特，因威胁总统马科斯",
+        "id": "f45b2e7b24d3e6f54a72",
+        "title": "Costa Rican president signals openness to domestic US military operations",
+        "summary": "哥斯达黎加总统表示愿考虑美国在本国境内军事行动，但需国会批准。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
-        "publishedAt": "2026-09-04T05:35:55Z"
+        "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+        "publishedAt": "2026-09-04T13:45:56Z"
       },
       {
-        "id": "78f2d4bb608a62e7cbe8",
-        "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
-        "summary": "也门胡塞武装推进关键海峡，战斗已致至少100人死亡",
+        "id": "46c5cdc202016c8d68c3",
+        "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+        "summary": "以色列无人机袭击黎巴嫩南部村庄，地区局势持续紧张升级。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
-        "publishedAt": "2026-09-04T05:13:14Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
+        "publishedAt": "2026-09-04T12:04:13Z"
       },
       {
         "id": "ca8400fb0999ce076885",
         "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
-        "summary": "联合国对以色列西岸行动提“种族清洗”担忧，大量巴勒斯坦人流离失所",
+        "summary": "联合国对以色列西岸军事行动表示“种族清洗”担忧，导致大量巴勒斯坦人流离失所。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
         "publishedAt": "2026-09-04T07:31:54Z"
       },
       {
-        "id": "6d9f5ce2345a524403b8",
-        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-        "summary": "OpenAI和Anthropic近期宕机原因不明，引发网友讨论",
+        "id": "87bf01210cc50b5e627a",
+        "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+        "summary": "尼泊尔洪水致超10%水力发电能力受损，凸显对水电过度依赖的问题。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T14:02:52Z"
+      },
+      {
+        "id": "c0eab21687157955f9d9",
+        "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+        "summary": "五欧盟国家接近就2027年前设立移民“返回中心”达成协议，但未确定地点。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+        "publishedAt": "2026-09-04T10:52:28Z"
+      },
+      {
+        "id": "a1f86fa6675362153409",
+        "title": "Government Rails Site Hit Hours After CVE Patch",
+        "summary": "政府网站漏洞被利用，事件发生前后引发对网络安全漏洞管理的关注。",
         "source": "Hacker News",
-        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-        "publishedAt": "2026-09-04T09:29:22Z"
+        "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+        "publishedAt": "2026-09-04T11:06:39Z"
       }
     ]
   }
