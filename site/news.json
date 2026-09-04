@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T06:30:29Z",
+  "generatedAt": "2026-09-04T08:27:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内新闻涵盖高层人事变动、社会法治、财经市场、科技产业及外交事件，重点关注官员任命、反腐调查、宏观经济政策与前沿科技进展。",
+    "overview": "国内要闻聚焦外交部涉新加坡传销回应、武汉大学通报教授被举报、美联储政策及经济数据影响等",
     "items": [
       {
-        "id": "83be60feec72ca723655",
-        "title": "朱忠明任上海市代市长",
-        "summary": "朱忠明任上海市代市长，人事调整引发关注。",
+        "id": "1f0dd627a2477b188128",
+        "title": "外交部回应52名新加坡人涉嫌在华传销",
+        "summary": "外交部回应52名新加坡人涉嫌在华传销，强调依法处理。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681541332879281670/",
-        "publishedAt": "2026-09-04T06:30:29Z"
+        "url": "https://www.toutiao.com/trending/7681564603750334507/",
+        "publishedAt": "2026-09-04T08:27:20Z"
       },
       {
         "id": "b195d11a81eef1874195",
         "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
-        "summary": "武汉大学通报教授遭举报，纪委已启动调查。",
+        "summary": "武汉大学通报教授被举报，纪委已启动调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34002675",
-        "publishedAt": "2026-09-04T06:30:29Z"
+        "publishedAt": "2026-09-04T08:27:20Z"
+      },
+      {
+        "id": "450b98bf49bffe23d14c",
+        "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
+        "summary": "美联储官员沃勒发言打击加息预期，美股上涨，日元黄金大涨。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3780985",
+        "publishedAt": "2026-09-04T08:27:20Z"
       },
       {
         "id": "581b01059599da0e050c",
         "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-        "summary": "OpenAI发布GPT-6，进入AGI时代。",
+        "summary": "OpenAI发布GPT-6 Astra，采用10万GPU训练，网安能力达关键级。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781033",
-        "publishedAt": "2026-09-04T06:30:29Z"
+        "publishedAt": "2026-09-04T08:27:20Z"
       },
       {
-        "id": "a5d60fe80dba6469c992",
-        "title": "美联储“传声筒”：沃勒立场悄然转变！倾向9月按兵不动，但下周CPI仍是“生死线”",
-        "summary": "美联储官员沃勒暗示9月可能按兵不动，关注CPI。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781021",
-        "publishedAt": "2026-09-04T06:30:29Z"
+        "id": "8028c685fd3451a7b3b5",
+        "title": "个人房贷新规落地情况一线调研：“年龄＋期限”能否突破75？选择40年房贷客户会不会增加？",
+        "summary": "个人房贷新规落地调研：年龄+期限能否突破75岁受关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474025",
+        "publishedAt": "2026-09-04T08:27:20Z"
+      },
+      {
+        "id": "cdab1f06730774d83df7",
+        "title": "人贩子将出狱 孙海洋担心被报复",
+        "summary": "人贩子将出狱，孙海洋担心被报复，社会关注安全。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%B0%86%E5%87%BA%E7%8B%B1+%E5%AD%99%E6%B5%B7%E6%B4%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E6%8A%A5%E5%A4%8D",
+        "publishedAt": "2026-09-04T08:27:20Z"
       },
       {
         "id": "a5e8632b9f43c4560aab",
         "title": "外交部：希望韩国政府切实践行一个中国原则",
-        "summary": "外交部敦促韩国切实履行一个中国原则。",
+        "summary": "外交部希望韩国政府切实履行一个中国原则。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34002789",
-        "publishedAt": "2026-09-04T06:30:29Z"
+        "publishedAt": "2026-09-04T08:27:20Z"
       },
       {
-        "id": "e577c8546ab7ad07a71c",
-        "title": "白宫新闻发布会上，万斯突然夸起了中国",
-        "summary": "万斯在白宫发布会意外赞扬中国，引热议。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8w8saX8wFFo",
-        "publishedAt": "2026-09-04T06:30:29Z"
-      },
-      {
-        "id": "8fcac92ddae84fd57787",
-        "title": "年薪可达百万！商业航天抢人",
-        "summary": "商业航天人才争夺激烈，年薪可达百万。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%96%AA%E5%8F%AF%E8%BE%BE%E7%99%BE%E4%B8%87%EF%BC%81%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%8A%A2%E4%BA%BA",
-        "publishedAt": "2026-09-04T06:30:29Z"
-      },
-      {
-        "id": "47fcdc285ed1d71f8f74",
-        "title": "一名中国公民在菲被羁押期间不幸离世，中使馆向菲方提出严正交涉",
-        "summary": "一名中国公民在菲律宾被羁押期间去世，中使馆严正交涉。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34003102",
-        "publishedAt": "2026-09-04T06:30:29Z"
+        "id": "60a124cc1857a42f5251",
+        "title": "灵活就业人员医保新政来了",
+        "summary": "灵活就业人员医保新政出台，覆盖更广泛群体。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8C%BB%E4%BF%9D%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86%23",
+        "publishedAt": "2026-09-04T08:27:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面聚焦地缘政治冲突、经济政策调整及重大科技突破，包括阿根廷对福克兰群岛争议升级、尼泊尔洪灾救援、德国大众裁员及OpenAI发布新模型等。",
+    "overview": "国际动态涵盖尼泊尔洪灾救援、大众裁员及德国工业重组、俄乌冲突与欧洲安全等",
     "items": [
       {
-        "id": "6f71972161ed954b1c9f",
-        "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
-        "summary": "阿根廷总统就福克兰群岛争议升级，威胁制裁石油公司。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
-        "publishedAt": "2026-09-03T21:30:29Z"
+        "id": "9b3eaddb7116567ac0b6",
+        "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
+        "summary": "大众宣布到2030年裁员10万人，应对美国关税及中国竞争。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+        "publishedAt": "2026-09-04T00:06:32Z"
+      },
+      {
+        "id": "9329e92e22c819e555cd",
+        "title": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
+        "summary": "尼泊尔洪水后九日，两名工人从隧道获救。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
+        "publishedAt": "2026-09-03T23:46:48Z"
+      },
+      {
+        "id": "5a40ec73f22c401a3829",
+        "title": "Russia maintains attacks on Ukraine’s energy infrastructure – Europe live",
+        "summary": "俄罗斯持续攻击乌克兰能源设施，意图冬季前破坏电网。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
+        "publishedAt": "2026-09-04T00:01:45Z"
+      },
+      {
+        "id": "d695cbaf45ddfa0252b5",
+        "title": "Meloni government becomes longest-serving in postwar Italy",
+        "summary": "梅洛尼政府成意大利战后最长执政，为2027年大选造势。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/meloni-government-becomes-longest-serving-in-postwar-italy/a-78910642?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T23:36:00Z"
+      },
+      {
+        "id": "162a4fdfdfb2b54e4014",
+        "title": "Germany: Police suspect sabotage after another device found",
+        "summary": "德国警方在一周内第三次发现可疑物，怀疑破坏电力设施。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-police-suspect-sabotage-after-another-device-found/live-78896707?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-03T23:38:00Z"
       },
       {
         "id": "a1656c976d8c0b66e991",
         "title": "UK has not done enough to prepare for shocks to food supplies, says watchdog",
-        "summary": "英国审计署称政府未做好食品供应冲击准备。",
+        "summary": "英国审计署称政府未充分准备应对粮食供应冲击。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog",
         "publishedAt": "2026-09-03T22:00:02Z"
       },
       {
-        "id": "dcff12d645b54ebc2b30",
-        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "summary": "大众汽车批准再裁员5万人，应对市场挑战。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-03T21:33:14Z"
+        "id": "9538954902daac527946",
+        "title": "Iran war live: US rules out Iran talks until ship attacks stop",
+        "summary": "美国暂缓与伊朗谈判，直至船只袭击停止。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+        "publishedAt": "2026-09-03T16:00:00Z"
       },
       {
-        "id": "8f46363553e53be6284d",
-        "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-        "summary": "美国移民执法官员因涉枪击事件被起诉。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-03T17:26:23Z"
-      },
-      {
-        "id": "0aacad30b9f125fb32eb",
-        "title": "Israel releases first of 5 Lebanese prisoners",
-        "summary": "以色列释放首批5名黎巴嫩囚犯，以换取寻尸协助。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/israel-releases-first-of-5-lebanese-prisoners/a-78895744?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T11:45:00Z"
-      },
-      {
-        "id": "55f56fcfb9946ff2a25c",
-        "title": "GLP-1s are being linked to fewer serious infections, including TB",
-        "summary": "研究称GLP-1药物与更少严重感染关联。",
-        "source": "Hacker News",
-        "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-        "publishedAt": "2026-09-03T14:37:31Z"
-      },
-      {
-        "id": "602883b137e27e241951",
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "summary": "猪肾移植在美患者体内存活271天创纪录。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-03T14:31:23Z"
-      },
-      {
-        "id": "5620a32f4761c90f000a",
-        "title": "Australia news live: Anthony Albanese extends ‘deepest condolences’ to Nepal’s PM after deadly floods; total fire ban for greater Sydney on Saturday",
-        "summary": "Follow the day’s news live.Get our breaking news email, free app or daily news p",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
-        "publishedAt": "2026-09-03T22:17:31Z"
+        "id": "9dd13f02f0cdaebc7228",
+        "title": "Feminist trailblazer Gloria Steinem passes away at age 92",
+        "summary": "女权先驱格洛丽亚·斯泰纳姆去世，享年92岁。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/feminist-trailblazer-gloria-steinem-passes-away-at-age-92?traffic_source=rss",
+        "publishedAt": "2026-09-03T17:05:07Z"
       }
     ]
   }
