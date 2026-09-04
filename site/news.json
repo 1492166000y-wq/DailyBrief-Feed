@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T00:32:48Z",
+  "generatedAt": "2026-09-04T02:24:59Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，涉及外交、监管、科技和民生等热点。",
+    "overview": "国内要闻聚焦外交部涉韩涉越交涉、OpenAI发布GPT-6、美联储政策信号、武汉大学教授被举报、中小企业规划、家长群特权现象及体育饭圈整治等。",
     "items": [
       {
         "id": "7697cfbd02050d7cccec",
         "title": "外交部：已向韩方提出严正交涉",
-        "summary": "外交部就中国公民在菲被羁押期间离世向菲方提出严正交涉，要求彻查事件。",
+        "summary": "外交部就韩国涉台言论提出严正交涉，强调一个中国原则。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7680859229084647466/",
-        "publishedAt": "2026-09-04T00:32:48Z"
+        "publishedAt": "2026-09-04T02:24:59Z"
+      },
+      {
+        "id": "8ff98081512c568ab675",
+        "title": "越南称对西沙群岛拥有主权，叫嚣外国一切活动非法，中方回应",
+        "summary": "越南称拥有西沙群岛主权，中方回应强调主权无可争辩。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8w7Un54ONma",
+        "publishedAt": "2026-09-04T02:24:59Z"
+      },
+      {
+        "id": "581b01059599da0e050c",
+        "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
+        "summary": "OpenAI发布GPT-6 Astra，称进入AGI时代，引发安全讨论。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781033",
+        "publishedAt": "2026-09-04T02:24:59Z"
+      },
+      {
+        "id": "a5d60fe80dba6469c992",
+        "title": "美联储“传声筒”：沃勒立场悄然转变！倾向9月按兵不动，但下周CPI仍是“生死线”",
+        "summary": "美联储理事沃勒暗示9月或按兵不动，下周CPI成关键。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781021",
+        "publishedAt": "2026-09-04T02:24:59Z"
+      },
+      {
+        "id": "b195d11a81eef1874195",
+        "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
+        "summary": "武汉大学通报教授遭举报，纪委已启动调查，引发舆论关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34002675",
+        "publishedAt": "2026-09-04T02:24:59Z"
       },
       {
         "id": "234d2066508709b7dfd4",
         "title": "促进中小企业发展“十五五”规划发布",
-        "summary": "促进中小企业发展“十五五”规划发布，提出系列支持措施以推动中小企业高质量发展。",
+        "summary": "促进中小企业发展十五五规划发布，助力经济高质量发展。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7681227409579868223/",
-        "publishedAt": "2026-09-04T00:32:48Z"
+        "publishedAt": "2026-09-04T02:24:59Z"
       },
       {
-        "id": "638b3e5b480c2344b7b4",
-        "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
-        "summary": "OpenAI发布GPT-6，称其为地球最强大模型，宣告“欢迎来到AGI时代”，引发广泛关注。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2473745",
-        "publishedAt": "2026-09-04T00:32:48Z"
-      },
-      {
-        "id": "a5e8632b9f43c4560aab",
-        "title": "外交部：希望韩国政府切实践行一个中国原则",
-        "summary": "外交部回应越南涉西沙主权言论，强调中国对西沙群岛拥有无可争辩的主权，坚决反对非法主张。",
+        "id": "1b73116d80b9e38b6dbe",
+        "title": "亮干部身份、众筹请保洁、异议被禁言，央媒：家长群不能是攀比的秀场",
+        "summary": "央媒批评家长群成攀比秀场，特权思维不应侵入校园。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34002789",
-        "publishedAt": "2026-09-04T00:32:48Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34001019",
+        "publishedAt": "2026-09-04T02:24:59Z"
       },
       {
-        "id": "d52bbb8f312b55f33630",
-        "title": "人民日报批饭圈刷爆12345",
-        "summary": "人民日报批评饭圈刷爆12345热线现象，呼吁整治网络乱象，引导理性追星。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7680674050754183222/",
-        "publishedAt": "2026-09-04T00:32:48Z"
-      },
-      {
-        "id": "f95888697f303c1f4c5c",
-        "title": "马上评｜家长群晒公职求关照？特权思维不容闯进校园",
-        "summary": "家长群出现干部身份炫耀及要求关照事件，媒体批特权思维，强调校园公平。",
+        "id": "47fcdc285ed1d71f8f74",
+        "title": "一名中国公民在菲被羁押期间不幸离世，中使馆向菲方提出严正交涉",
+        "summary": "中国公民在菲羁押期间离世，中使馆向菲方严正交涉。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33998990",
-        "publishedAt": "2026-09-04T00:32:48Z"
-      },
-      {
-        "id": "25932069235efb619dc7",
-        "title": "体育总局：将培育积极健康的球迷文化，深化体育“饭圈”乱象整治",
-        "summary": "体育总局表示将培育健康球迷文化，深化体育领域“饭圈”乱象整治，营造良好氛围。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33999313",
-        "publishedAt": "2026-09-04T00:32:48Z"
-      },
-      {
-        "id": "219bb6af594a4c72f8ab",
-        "title": "深夜突发！美国AI大宕机",
-        "summary": "美国AI服务发生大规模宕机，ChatGPT、Claude等受影响，引发对AI基础设施稳定性的关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%A4%9C%E7%AA%81%E5%8F%91%EF%BC%81%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E5%AE%95%E6%9C%BA",
-        "publishedAt": "2026-09-04T00:32:48Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34003102",
+        "publishedAt": "2026-09-04T02:24:59Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，涵盖中东局势、美国政策、科技财经等重大新闻。",
+    "overview": "国际要闻涵盖尼泊尔感谢中国援助、伊朗与美国冲突升级、大众裁员10万、英伟达收购Hugging Face、联合国新世界地图投票、Gloria Steinem逝世等。",
     "items": [
       {
-        "id": "9538954902daac527946",
-        "title": "Iran war live: US rules out Iran talks until ship attacks stop",
-        "summary": "伊朗战争动态：美国表示在船只袭击停止前不与伊朗谈判，伊朗誓言多层次回应。",
+        "id": "1bda794ca530a272109e",
+        "title": "UN to vote on adopting new world map that shows Africa’s true scale",
+        "summary": "Togo-sponsored resolution calls to phase out traditional map that depicts contin",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+        "publishedAt": "2026-09-03T18:00:54Z"
+      },
+      {
+        "id": "84e459cca8adfb245aac",
+        "title": "News live: Plibersek says pornography normalises strangulation for young Australians; Sydney’s first case of bird flu confirmed",
+        "summary": "Follow the day’s news live.Get our breaking news email, free app or daily news p",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
+        "publishedAt": "2026-09-03T17:58:54Z"
+      },
+      {
+        "id": "9d3ecdb83d8e9c222dad",
+        "title": "Chile police and protesters clash outside far-right forum",
+        "summary": "Police and protesters have clashed in Chile’s capital, outside the summit of the",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
-        "publishedAt": "2026-09-03T16:00:00Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss",
+        "publishedAt": "2026-09-03T17:54:57Z"
       },
       {
-        "id": "4e94a8eb09d369a850c1",
-        "title": "Volkswagen to cut 100,000 jobs by end of decade",
-        "summary": "大众汽车宣布到2030年裁员10万人，为行业最大规模重组，以应对市场挑战。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/volkswagen-to-cut-100-000-jobs-by-end-of-decade/a-78896123?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-03T16:06:00Z"
-      },
-      {
-        "id": "79bb48c772542d940226",
-        "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-        "summary": "伊朗袭击美国在阿联酋和科威特的基地，中东局势急剧升级，引发国际关注。",
+        "id": "e4fb0c60b8a93dd2bc79",
+        "title": "Trump administration asks supreme court to intervene over judge’s ban on USPS mail-in voting restrictions – as it happened",
+        "summary": "This live blog is now closed.Sign up for US Breaking News emailsRepublican overs",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-        "publishedAt": "2026-09-03T06:16:54Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates",
+        "publishedAt": "2026-09-03T17:53:05Z"
       },
       {
-        "id": "6ece24101cf71c21352e",
-        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-        "summary": "英伟达以129亿美元收购AI平台Hugging Face，加强AI生态布局，交易规模巨大。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-        "publishedAt": "2026-09-03T08:59:56Z"
+        "id": "8cab12471b0d64f3c5a5",
+        "title": "ICC leaders condemn efforts to erode international legal order",
+        "summary": "Efforts to isolate the International Criminal Court aim to undermine the global ",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
+        "publishedAt": "2026-09-03T17:51:34Z"
       },
       {
-        "id": "5353a039c3f6d5da3f6c",
-        "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
-        "summary": "乌克兰两大安全机构在基辅发生枪战，泽连斯基斥为“耻辱”，事件暴露内部矛盾。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
-        "publishedAt": "2026-09-03T06:04:46Z"
+        "id": "715a74e0cc02d8d48482",
+        "title": "US continues to squeeze Cuban economy with new round of sanctions",
+        "summary": "Cuba announces new pro-market reforms amid threats of military attack from the T",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+        "publishedAt": "2026-09-03T17:45:56Z"
       },
       {
-        "id": "f12fb73e2ed496667a13",
-        "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-        "summary": "日元兑美元大幅升值超2%，因日本央行可能加息，市场预期转变引发波动。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-        "publishedAt": "2026-09-03T06:33:58Z"
+        "id": "5f2889a5e214de3de30f",
+        "title": "Ghana tightens gold exports in push to keep more value at home",
+        "summary": "The move is part of a broader effort to develop Ghana’s gold industry beyond raw",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss",
+        "publishedAt": "2026-09-03T17:29:48Z"
       },
       {
-        "id": "602883b137e27e241951",
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "summary": "美国男子移植猪肾后存活271天创纪录，等待人体移植期间维持生命，医学突破。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-03T14:31:23Z"
-      },
-      {
-        "id": "7077ace3cd1f0d3fe6c0",
-        "title": "GPT-6 Astra",
-        "summary": "GPT-6 Astra发布，引入新架构，引发业界关于安全与能力的讨论，关注度高。",
-        "source": "Hacker News",
-        "url": "https://openai.com/index/gpt-6-astra/",
-        "publishedAt": "2026-09-03T10:41:05Z"
+        "id": "115fd090c1dc920c9a4b",
+        "title": "Pete Hegseth’s Pentagon: A list of controversies that define his tenure",
+        "summary": "The defence secretary faces renewed scrutiny after a Republican senator called f",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure?traffic_source=rss",
+        "publishedAt": "2026-09-03T17:26:39Z"
       }
     ]
   }
