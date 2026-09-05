@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-06",
-  "generatedAt": "2026-09-05T20:18:55Z",
+  "generatedAt": "2026-09-05T23:53:29Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦时政、经济及科技等领域，重大事件包括美国非农数据超预期影响加息预期、中建集团高管被查、尼泊尔泥石流救援，以及能源电池退役潮等。",
+    "overview": "国内焦点包括美国非农超预期、Fed加息押注、OpenAI Astra模型发布、食品安全事件、中建集团高管被查、尼泊尔救援等；同时涉及郑钦文美网逆转等体育新闻，但按规范排除体育，因此不选。",
     "items": [
       {
         "id": "241c2ab99b3b53a9d942",
         "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
-        "summary": "美国8月非农录得16.2万大超预期，美联储9月加息押注升温。",
+        "summary": "美国8月非农新增16.2万远超预期，市场对美联储9月加息预期升温。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474737",
-        "publishedAt": "2026-09-05T20:18:55Z"
+        "publishedAt": "2026-09-05T23:53:29Z"
       },
       {
-        "id": "4de29fb06db40252fd31",
-        "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
-        "summary": "上任不满一年，中建集团副总经理陈勇宣告被查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
-        "publishedAt": "2026-09-05T20:18:55Z"
-      },
-      {
-        "id": "a3359a412d36a19ffcfd",
-        "title": "新能源汽车动力电池将迎“退役潮”",
-        "summary": "新能源汽车动力电池将迎“退役潮”，回收体系待完善。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E5%B0%86%E8%BF%8E%E2%80%9C%E9%80%80%E5%BD%B9%E6%BD%AE%E2%80%9D",
-        "publishedAt": "2026-09-05T20:18:55Z"
-      },
-      {
-        "id": "3759630fa055f213af58",
-        "title": "兰州榆中官方通报“莴笋收购环节染色”：立案查处6家企业",
-        "summary": "兰州榆中通报“莴笋染色”事件，立案查处6家企业。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34015418",
-        "publishedAt": "2026-09-05T20:18:55Z"
-      },
-      {
-        "id": "21919413bb871dbf3c9f",
-        "title": "视频丨尼泊尔泥石流灾害中1名受困中国公民获救，身体状况稳定",
-        "summary": "尼泊尔泥石流灾害中1名受困中国公民获救，身体状况稳定。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34015391",
-        "publishedAt": "2026-09-05T20:18:55Z"
-      },
-      {
-        "id": "ae33136119f6e44b7516",
-        "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
-        "summary": "美股存储概念逆势飙涨，私募行业迎监管新规。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474846",
-        "publishedAt": "2026-09-05T20:18:55Z"
-      },
-      {
-        "id": "9c7c11285959d90bacba",
-        "title": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%",
-        "summary": "非农爆表提振加息预期，美股下挫，存储光通信逆势走强，黄金跌近1%。",
+        "id": "88e7f5980b00624e9a22",
+        "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
+        "summary": "高盛称OpenAI的Astra模型表现突出，可能成为AI牛市持续的关键推动力。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781080",
-        "publishedAt": "2026-09-05T20:18:55Z"
+        "url": "https://wallstreetcn.com/articles/3781148",
+        "publishedAt": "2026-09-05T23:53:29Z"
       },
       {
         "id": "8e81c7f6aa30be79c0e9",
         "title": "马上评｜一次食品安全事故，坍塌的可能是一个地方的口碑",
-        "summary": "马上评：一次食品安全事故，坍塌的可能是一个地方的口碑。",
+        "summary": "评论指出一次食品安全事故可能严重损害地方信誉，强调食品安全监管的重要性。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34015694",
-        "publishedAt": "2026-09-05T20:18:55Z"
+        "publishedAt": "2026-09-05T23:53:29Z"
+      },
+      {
+        "id": "4de29fb06db40252fd31",
+        "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
+        "summary": "中建集团副总经理陈勇上任不足一年即被查，显示反腐力度持续。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
+        "publishedAt": "2026-09-05T23:53:29Z"
+      },
+      {
+        "id": "8f2303be7ff8adee5fe3",
+        "title": "印尼野火毒霾席卷东南亚：厄尔尼诺与泥炭地退化成双重推手",
+        "summary": "印尼野火致东南亚严重雾霾，厄尔尼诺和泥炭地退化加剧污染。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34014788",
+        "publishedAt": "2026-09-05T23:53:29Z"
+      },
+      {
+        "id": "d8dea7ff3abb50b509fb",
+        "title": "生育险、长护险、医保报销迎新变化",
+        "summary": "生育险、长护险和医保报销政策迎来新调整，关乎民生保障。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E7%94%9F%E8%82%B2%E9%99%A9%E3%80%81%E9%95%BF%E6%8A%A4%E9%99%A9%E3%80%81%E5%8C%BB%E4%BF%9D%E6%8A%A5%E9%94%80%E8%BF%8E%E6%96%B0%E5%8F%98%E5%8C%96",
+        "publishedAt": "2026-09-05T23:53:29Z"
+      },
+      {
+        "id": "3466a234e3a83e46e674",
+        "title": "刺伤贵中医二附院医生嫌疑人被刑拘",
+        "summary": "贵阳中医学院第二附属医院医生被刺伤，嫌疑人已被刑拘，公共安全引关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682192194949615167/",
+        "publishedAt": "2026-09-05T23:53:29Z"
+      },
+      {
+        "id": "3759630fa055f213af58",
+        "title": "兰州榆中官方通报“莴笋收购环节染色”：立案查处6家企业",
+        "summary": "兰州榆中莴笋收购存在染色问题，官方已立案查处6家企业。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34015418",
+        "publishedAt": "2026-09-05T23:53:29Z"
       }
     ]
   },
   "global": {
-    "overview": "国际热点集中于美伊冲突升级、俄乌和谈、尼泊尔洪灾救援，以及多国政治风波与社会事件。",
+    "overview": "国际新闻涵盖美伊冲突升级（美军打击伊朗油轮）、俄乌谈判（美特使访俄）、德国火箭发射成功、尼泊尔洪灾救援等，以及特朗普相关政策动向。",
     "items": [
+      {
+        "id": "0421f218392610c89f6e",
+        "title": "US envoys meet with Putin, leave Russia for Kyiv",
+        "summary": "美特使与普京会晤后离开俄罗斯前往基辅，推动结束俄乌冲突的谈判。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-05T14:45:00Z"
+      },
+      {
+        "id": "d3e5e48a20001cd1f38f",
+        "title": "German company successfully launches rocket to space",
+        "summary": "德国伊萨尔宇航公司成功将火箭送入轨道，成为欧洲本土首次商业轨道发射。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-05T14:26:00Z"
+      },
+      {
+        "id": "5f85c8f9b0dac061f4e5",
+        "title": "Fuel tanker blast in western Iran kills at least 10",
+        "summary": "伊朗西部油罐车爆炸造成至少10人死亡，事故原因正在调查。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
+        "publishedAt": "2026-09-05T15:07:48Z"
+      },
       {
         "id": "c358237515c6ae44b395",
         "title": "US says it hit three Iranian oil tankers after attacks on warships",
-        "summary": "美军打击三艘伊朗油轮，回应此前美舰遇袭。",
+        "summary": "美军打击三艘伊朗油轮，回应此前美舰在霍尔木兹海峡遇袭事件。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
         "publishedAt": "2026-09-05T07:49:44Z"
       },
       {
-        "id": "37f18065b8375feca783",
-        "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
-        "summary": "俄普京会见美特使，商讨结束乌克兰战争的提案。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
-        "publishedAt": "2026-09-05T10:12:52Z"
+        "id": "a00ab548c273eb764c78",
+        "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
+        "summary": "尼泊尔洪水救援发现两名幸存者，包括一名中国工人，救援行动持续。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
+        "publishedAt": "2026-09-05T03:26:30Z"
       },
       {
-        "id": "420fc63eaf606e281bf6",
-        "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-        "summary": "尼泊尔洪灾救援人员从废墟中救出一名中国工人和一名尼泊尔妇女。",
+        "id": "8ed5488b62514513b3b4",
+        "title": "Why is Argentina reigniting the Falklands dispute?",
+        "summary": "阿根廷总统米莱再次就马岛主权提出强硬表态，与英国纠纷再起。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-        "publishedAt": "2026-09-05T07:33:02Z"
+        "url": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
+        "publishedAt": "2026-09-05T12:14:55Z"
       },
       {
-        "id": "d6567e645a9a6a9574fa",
-        "title": "Germany’s far-right AfD eyes historic first in state election",
-        "summary": "德国极右翼选择党或首次赢得州选举，引发关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
-        "publishedAt": "2026-09-05T10:07:43Z"
-      },
-      {
-        "id": "616caec8c159d0c3f912",
-        "title": "Thousands protest in Croatia to demand government clean up toxic waste",
-        "summary": "克罗地亚数千人抗议，要求政府清理有毒废物。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss",
-        "publishedAt": "2026-09-05T10:42:08Z"
-      },
-      {
-        "id": "9e049ac141442c679b62",
-        "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-        "summary": "加沙团队在以色列袭击近三年后找到55具遗体。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-        "publishedAt": "2026-09-05T08:17:47Z"
-      },
-      {
-        "id": "c40b2885939252108968",
-        "title": "Russia to pause strikes against Kyiv amid Ukraine talks",
-        "summary": "俄罗斯宣布在乌谈判期间暂停打击基辅。",
+        "id": "f78b77849b83cf269cee",
+        "title": "Croatia: Toxic waste protest draws tens of thousands",
+        "summary": "克罗地亚数万人抗议政府未能清理有毒废物，要求20天内出台清理方案。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/russia-to-pause-strikes-against-kyiv-amid-ukraine-talks/a-79040773?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T05:03:00Z"
+        "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-05T09:32:00Z"
       },
       {
-        "id": "993f800b49b4065467d0",
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before sa",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-05T12:15:49Z"
+        "id": "ffb61fd8fad9bb442b3a",
+        "title": "Australia news live: Taylor proposes laws against flag burning and to lock in 26 January as Australia Day",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podc",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+        "publishedAt": "2026-09-05T15:40:18Z"
       }
     ]
   }
