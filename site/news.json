@@ -1,103 +1,111 @@
 {
   "version": 1,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T08:24:21Z",
+  "generatedAt": "2026-09-05T10:22:57Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻涵盖美国非农数据冲击、中东局势、政策监管及社会民生等热点，重点关注经济与外交动态。",
+    "overview": "国内方面：美国8月非农数据远超预期，引发市场对美联储加息的担忧，特斯拉市值大跌；尼泊尔泥石流中有中国公民获救；广电总局要求微短剧平台凡播必审；中央网信办等七部门推动数字化绿色化协同转型。",
     "items": [
       {
-        "id": "1a29c305db3267bf3b79",
-        "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
-        "summary": "美国8月非农新增16.2万远超预期，失业率4.1%，强化加息预期，市场承压。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781105",
-        "publishedAt": "2026-09-05T08:24:21Z"
+        "id": "241c2ab99b3b53a9d942",
+        "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
+        "summary": "美国8月非农新增16.2万人远超预期，市场对美联储9月加息预期升温。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474737",
+        "publishedAt": "2026-09-05T10:22:57Z"
+      },
+      {
+        "id": "6d0bbdafae690d3b3483",
+        "title": "特斯拉市值一夜蒸发超6000亿",
+        "summary": "特斯拉市值一夜蒸发超6000亿元，或因美国加息预期及美股下跌影响。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681750930408226870/",
+        "publishedAt": "2026-09-05T10:22:57Z"
+      },
+      {
+        "id": "1b3469adb28446e8a58c",
+        "title": "尼泊尔泥石流1名受困中国公民获救",
+        "summary": "尼泊尔泥石流灾害中，一名受困中国公民获救脱险。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681961614030999067/",
+        "publishedAt": "2026-09-05T10:22:57Z"
       },
       {
         "id": "dfcea5b4fac8bc6112cd",
         "title": "广电总局：对用户上传微短剧，平台凡播必审",
-        "summary": "广电总局要求平台对用户上传微短剧凡播必审，加强内容管理。",
+        "summary": "广电总局发文，要求平台对用户上传的微短剧凡播必审。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34009937",
-        "publishedAt": "2026-09-05T08:24:21Z"
+        "publishedAt": "2026-09-05T10:22:57Z"
       },
       {
         "id": "b6bb7cefdfc9da574fec",
         "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "七部门印发数字化绿色化协同转型方案，推动双化协同发展。",
+        "summary": "中央网信办等七部门联合印发方案，促进数字化绿色化协同转型。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-05T08:24:21Z"
+        "publishedAt": "2026-09-05T10:22:57Z"
+      },
+      {
+        "id": "5252d666afec2e5c69fe",
+        "title": "官方通报染色莴笋：6家企业被立案",
+        "summary": "官方通报染色莴笋事件，6家企业被立案调查。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681965495188344347/",
+        "publishedAt": "2026-09-05T10:22:57Z"
       },
       {
         "id": "4de29fb06db40252fd31",
         "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
-        "summary": "中建集团副总经理陈勇上任不足一年被查，反腐持续深入。",
+        "summary": "中建集团副总经理陈勇上任不满一年即被查，反腐持续发力。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
-        "publishedAt": "2026-09-05T08:24:21Z"
+        "publishedAt": "2026-09-05T10:22:57Z"
       },
       {
-        "id": "fd1ca12ab27096393172",
-        "title": "教育部回应“教师面对学生不敢管”：将规范涉师争议投诉处理程序",
-        "summary": "教育部回应教师不敢管学生，将规范涉师投诉处理，保障教师权益。",
+        "id": "4e0f568a26b6773b78e4",
+        "title": "多地推进整治婚介机构乱象，包括仅凭口头陈述建档、放任失信人员相亲等",
+        "summary": "多地整治婚介机构乱象，包括仅凭口头陈述建档、放任失信人员相亲等问题。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34008434",
-        "publishedAt": "2026-09-05T08:24:21Z"
-      },
-      {
-        "id": "82cce876da5569271af1",
-        "title": "水位逼近二楼仍在上涨！莆田一村庄村民称“害怕了一夜，50多了没见过这么大洪水”",
-        "summary": "莆田村庄洪水逼近二楼，村民称50多年未见，紧急关注灾情。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34008495",
-        "publishedAt": "2026-09-05T08:24:21Z"
-      },
-      {
-        "id": "b189c07035d2bbca489b",
-        "title": "超1万册永乐大典副本下落不明",
-        "summary": "超1万册永乐大典副本下落不明",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681856234014326826/",
-        "publishedAt": "2026-09-05T08:24:21Z"
-      },
-      {
-        "id": "690ef3668f67a9c662b9",
-        "title": "校长回应“9个老师守着12个娃”",
-        "summary": "校长回应“9个老师守着12个娃”",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C9%E4%B8%AA%E8%80%81%E5%B8%88%E5%AE%88%E7%9D%8012%E4%B8%AA%E5%A8%83%E2%80%9D",
-        "publishedAt": "2026-09-05T08:24:21Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34009396",
+        "publishedAt": "2026-09-05T10:22:57Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻聚焦美国非农影响、中东冲突、联合国地图决议及多国政治经济事件，需精选跨领域重要进展。",
+    "overview": "国际方面：美国特使将访问俄乌推动和平方案；玻利维亚军事基地爆炸致多人死亡；联合国通过反映非洲真实大小新地图；阿根廷与英国就马岛争端再起波澜。",
     "items": [
       {
-        "id": "462d76407a164bdd091f",
-        "title": "Iran war: Explosions reported near Kharg Island",
-        "summary": "伊朗哈尔克岛附近发生爆炸，地区紧张局势升级，全球关注。",
+        "id": "818294ff7ca9a82e00ab",
+        "title": "US envoys to visit Russia, Ukraine with plan 'to end war'",
+        "summary": "特朗普特使将访俄乌，携和平方案推动结束冲突。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/iran-war-explosions-reported-near-kharg-island/live-79044467?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T00:16:00Z"
+        "url": "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-04T17:27:00Z"
+      },
+      {
+        "id": "8fabd4e0384d7e318b02",
+        "title": "Bolivian military barracks explosion kills at least 10",
+        "summary": "玻利维亚军事基地发生爆炸，至少10人死亡，数十人受伤。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
+        "publishedAt": "2026-09-04T22:11:05Z"
       },
       {
         "id": "f64caae7083316dfb5f3",
         "title": "UN votes to adopt new world map to reflect Africa's true size",
-        "summary": "联合国大会通过新世界地图决议，反映非洲真实大小，美国反对。",
+        "summary": "联合国通过新地图决议，反映非洲真实大小，美国反对。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-04T16:53:11Z"
       },
       {
-        "id": "e6a9dcb2ccdace5e1904",
-        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-        "summary": "特朗普特使将访问俄乌，推进新和平方案，谈判前景待观察。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T20:28:21Z"
+        "id": "1b1393e74fe15318a59e",
+        "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
+        "summary": "特朗普派特使赴俄乌推进新和平方案，谈判前景待观察。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+        "publishedAt": "2026-09-04T19:25:46Z"
       },
       {
         "id": "830deae91c48a79de490",
@@ -108,14 +116,6 @@
         "publishedAt": "2026-09-04T19:48:17Z"
       },
       {
-        "id": "97a2470cd01d49da335e",
-        "title": "Philippines Vice President Sara Duterte posts bail after arrest",
-        "summary": "菲律宾副总统莎拉被逮捕后缴纳保释金，逮捕令解除。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
-        "publishedAt": "2026-09-04T23:21:10Z"
-      },
-      {
         "id": "ae3b5ecca443d97dadd8",
         "title": "US imposes sanctions on Turkish bank, prompting legal threat",
         "summary": "美国制裁土耳其银行，因其涉嫌与伊朗有金融往来，引发法律威胁。",
@@ -124,20 +124,20 @@
         "publishedAt": "2026-09-04T21:19:05Z"
       },
       {
-        "id": "8fabd4e0384d7e318b02",
-        "title": "Bolivian military barracks explosion kills at least 10",
-        "summary": "玻利维亚军营爆炸致至少10死多人伤，事故原因调查中。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
-        "publishedAt": "2026-09-04T22:11:05Z"
+        "id": "c4597b95cc5848ad98a7",
+        "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
+        "summary": "以军空袭世界中央厨房车队，七名援助人员遇难，调查披露目标标记内幕。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
+        "publishedAt": "2026-09-04T16:00:21Z"
       },
       {
-        "id": "1b1393e74fe15318a59e",
-        "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-        "summary": "特朗普派特使携新方案赴俄乌，俄乌冲突和平进程再引关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-        "publishedAt": "2026-09-04T19:25:46Z"
+        "id": "9519a85c0de74e0c6f64",
+        "title": "Farage and Jenrick to speak on final day of Reform conference marred by scandal and protests – UK politics live",
+        "summary": "Farage, who had earlier suspended two close aides, had his keynote speech interr",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
+        "publishedAt": "2026-09-05T02:09:11Z"
       }
     ]
   }
