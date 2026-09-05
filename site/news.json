@@ -1,87 +1,95 @@
 {
   "version": 1,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T10:22:57Z",
+  "generatedAt": "2026-09-05T12:27:45Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面：美国8月非农数据远超预期，引发市场对美联储加息的担忧，特斯拉市值大跌；尼泊尔泥石流中有中国公民获救；广电总局要求微短剧平台凡播必审；中央网信办等七部门推动数字化绿色化协同转型。",
+    "overview": "国内新闻涵盖非农数据、尼泊尔泥石流、AI芯片、医疗反腐、宏观政策等热点。",
     "items": [
       {
-        "id": "241c2ab99b3b53a9d942",
-        "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
-        "summary": "美国8月非农新增16.2万人远超预期，市场对美联储9月加息预期升温。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474737",
-        "publishedAt": "2026-09-05T10:22:57Z"
+        "id": "1a29c305db3267bf3b79",
+        "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
+        "summary": "美国8月非农新增16.2万远超预期，失业率维持4.1%，或强化美联储加息预期。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781105",
+        "publishedAt": "2026-09-05T12:27:45Z"
       },
       {
-        "id": "6d0bbdafae690d3b3483",
-        "title": "特斯拉市值一夜蒸发超6000亿",
-        "summary": "特斯拉市值一夜蒸发超6000亿元，或因美国加息预期及美股下跌影响。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681750930408226870/",
-        "publishedAt": "2026-09-05T10:22:57Z"
+        "id": "5b303468a9f1bee1a427",
+        "title": "尼泊尔泥石流灾害中，1名中国公民获救(图)",
+        "summary": "尼泊尔泥石流灾害中一名中国公民获救，引发关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wB2AiuS5ky",
+        "publishedAt": "2026-09-05T12:27:45Z"
       },
       {
-        "id": "1b3469adb28446e8a58c",
-        "title": "尼泊尔泥石流1名受困中国公民获救",
-        "summary": "尼泊尔泥石流灾害中，一名受困中国公民获救脱险。",
+        "id": "f5bdbaf0a20e6943c1b4",
+        "title": "DeepSeek被曝将采购16万颗华为芯片",
+        "summary": "DeepSeek被曝将采购16万颗华为芯片，凸显国产AI算力自主化趋势。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681961614030999067/",
-        "publishedAt": "2026-09-05T10:22:57Z"
+        "url": "https://www.toutiao.com/trending/7681981085961424425/",
+        "publishedAt": "2026-09-05T12:27:45Z"
+      },
+      {
+        "id": "c2ff5ffb8c2f8b6dafc2",
+        "title": "解放军20架次军机持续位台岛周边活动",
+        "summary": "解放军20架次军机在台岛周边活动，展示区域态势。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681980974166458906/",
+        "publishedAt": "2026-09-05T12:27:45Z"
       },
       {
         "id": "dfcea5b4fac8bc6112cd",
         "title": "广电总局：对用户上传微短剧，平台凡播必审",
-        "summary": "广电总局发文，要求平台对用户上传的微短剧凡播必审。",
+        "summary": "广电总局要求平台对用户上传微短剧‘凡播必审’，加强内容管理。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34009937",
-        "publishedAt": "2026-09-05T10:22:57Z"
+        "publishedAt": "2026-09-05T12:27:45Z"
       },
       {
         "id": "b6bb7cefdfc9da574fec",
         "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "中央网信办等七部门联合印发方案，促进数字化绿色化协同转型。",
+        "summary": "七部门印发数字化绿色化协同转型方案，推动双化发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-05T10:22:57Z"
-      },
-      {
-        "id": "5252d666afec2e5c69fe",
-        "title": "官方通报染色莴笋：6家企业被立案",
-        "summary": "官方通报染色莴笋事件，6家企业被立案调查。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681965495188344347/",
-        "publishedAt": "2026-09-05T10:22:57Z"
+        "publishedAt": "2026-09-05T12:27:45Z"
       },
       {
         "id": "4de29fb06db40252fd31",
         "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
-        "summary": "中建集团副总经理陈勇上任不满一年即被查，反腐持续发力。",
+        "summary": "中建集团副总经理陈勇上任不到一年被查，央企反腐持续。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
-        "publishedAt": "2026-09-05T10:22:57Z"
+        "publishedAt": "2026-09-05T12:27:45Z"
       },
       {
-        "id": "4e0f568a26b6773b78e4",
-        "title": "多地推进整治婚介机构乱象，包括仅凭口头陈述建档、放任失信人员相亲等",
-        "summary": "多地整治婚介机构乱象，包括仅凭口头陈述建档、放任失信人员相亲等问题。",
+        "id": "3759630fa055f213af58",
+        "title": "兰州榆中官方通报“莴笋收购环节染色”：立案查处6家企业",
+        "summary": "兰州榆中通报莴笋收购染色问题，立案查处6家企业。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34009396",
-        "publishedAt": "2026-09-05T10:22:57Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34015418",
+        "publishedAt": "2026-09-05T12:27:45Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面：美国特使将访问俄乌推动和平方案；玻利维亚军事基地爆炸致多人死亡；联合国通过反映非洲真实大小新地图；阿根廷与英国就马岛争端再起波澜。",
+    "overview": "国际新闻聚焦美俄乌会谈、伊朗局势、玻利维亚爆炸、英国抗议及美非农影响。",
     "items": [
       {
-        "id": "818294ff7ca9a82e00ab",
-        "title": "US envoys to visit Russia, Ukraine with plan 'to end war'",
-        "summary": "特朗普特使将访俄乌，携和平方案推动结束冲突。",
+        "id": "460c2dcd14008845a6d2",
+        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+        "summary": "美特使抵莫斯科与俄会谈，随后将赴乌推动和平方案。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-05T04:23:00Z"
+      },
+      {
+        "id": "462d76407a164bdd091f",
+        "title": "Iran war: Explosions reported near Kharg Island",
+        "summary": "伊朗哈尔克岛附近传出爆炸声，油轮疑遭袭击。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-04T17:27:00Z"
+        "url": "https://www.dw.com/en/iran-war-explosions-reported-near-kharg-island/live-79044467?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-05T00:16:00Z"
       },
       {
         "id": "8fabd4e0384d7e318b02",
@@ -92,52 +100,44 @@
         "publishedAt": "2026-09-04T22:11:05Z"
       },
       {
-        "id": "f64caae7083316dfb5f3",
-        "title": "UN votes to adopt new world map to reflect Africa's true size",
-        "summary": "联合国通过新地图决议，反映非洲真实大小，美国反对。",
+        "id": "31dcf995a9b7ef879cd8",
+        "title": "Black-clad protesters in balaclavas block road at port of Dover in Kent",
+        "summary": "英国多佛港遭蒙面抗议者封路，交通受阻，警方介入。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent",
+        "publishedAt": "2026-09-05T04:11:57Z"
+      },
+      {
+        "id": "56e164c002c5d9bbb54d",
+        "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+        "summary": "荷兰因担忧地缘政治动荡，将黄金从美国撤出。",
+        "source": "Hacker News",
+        "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+        "publishedAt": "2026-09-05T02:14:28Z"
+      },
+      {
+        "id": "0fa587c6ae246cfaba44",
+        "title": "Rescuers in Nepal find two more people alive after flood disaster",
+        "summary": "尼泊尔洪水后救援人员找到两名幸存者，包括一名中国公民。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
+        "publishedAt": "2026-09-05T03:26:30Z"
+      },
+      {
+        "id": "ef39e5856096c11eb902",
+        "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+        "summary": "美特使访俄乌之际，乌克兰遭俄袭击致5人死亡。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T16:53:11Z"
+        "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T23:20:17Z"
       },
       {
-        "id": "1b1393e74fe15318a59e",
-        "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-        "summary": "特朗普派特使赴俄乌推进新和平方案，谈判前景待观察。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-        "publishedAt": "2026-09-04T19:25:46Z"
-      },
-      {
-        "id": "830deae91c48a79de490",
-        "title": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
-        "summary": "马来西亚砂拉越因印尼雾霾进入紧急状态，空气质量达危险水平。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
-        "publishedAt": "2026-09-04T19:48:17Z"
-      },
-      {
-        "id": "ae3b5ecca443d97dadd8",
-        "title": "US imposes sanctions on Turkish bank, prompting legal threat",
-        "summary": "美国制裁土耳其银行，因其涉嫌与伊朗有金融往来，引发法律威胁。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
-        "publishedAt": "2026-09-04T21:19:05Z"
-      },
-      {
-        "id": "c4597b95cc5848ad98a7",
-        "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
-        "summary": "以军空袭世界中央厨房车队，七名援助人员遇难，调查披露目标标记内幕。",
+        "id": "d01d13da4f9435febc8d",
+        "title": "Mental health groups have ‘failed to acknowledge’ risk of violence, says Mind chief",
+        "summary": "Sector has avoided issue because of stigma fears, expert warns ahead of closure ",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-        "publishedAt": "2026-09-04T16:00:21Z"
-      },
-      {
-        "id": "9519a85c0de74e0c6f64",
-        "title": "Farage and Jenrick to speak on final day of Reform conference marred by scandal and protests – UK politics live",
-        "summary": "Farage, who had earlier suspended two close aides, had his keynote speech interr",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
-        "publishedAt": "2026-09-05T02:09:11Z"
+        "url": "https://www.theguardian.com/society/2026/sep/05/mental-health-groups-have-failed-to-acknowledge-risk-of-violence-says-mind-chief",
+        "publishedAt": "2026-09-05T04:00:36Z"
       }
     ]
   }
