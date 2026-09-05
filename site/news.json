@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-04T22:23:29Z",
+  "generatedAt": "2026-09-05T00:34:12Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，非农数据超预期引发加息预期升温，证监会重罚违规，暴雨汛情多地受灾，教师数量发布，东博会亮点引关注。",
+    "overview": "国内方面，聚焦宏观经济与政策动向，包括美国非农数据超预期对美联储加息预期的影响、中国官方对新加坡公民案件的回应及多部门联合政策发布。",
     "items": [
       {
-        "id": "1a29c305db3267bf3b79",
-        "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
-        "summary": "美国8月非农新增就业16.2万人远超预期，失业率4.1%不变，加息预期升温。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781105",
-        "publishedAt": "2026-09-04T22:23:29Z"
-      },
-      {
-        "id": "ee5e5455cc0404145177",
-        "title": "证监会开出2.55亿巨额罚单",
-        "summary": "证监会开出2.55亿元巨额罚单，严惩市场违规行为，维护市场秩序。",
+        "id": "9c3ffec58b12e7bcd0ac",
+        "title": "新加坡谈52人在广西涉案被扣",
+        "summary": "新加坡称52名公民在广西涉案被扣，外交部回应称依法处理。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681610244372120073/",
-        "publishedAt": "2026-09-04T22:23:29Z"
+        "url": "https://www.toutiao.com/trending/7681815752973798921/",
+        "publishedAt": "2026-09-05T00:34:12Z"
       },
       {
-        "id": "b6bb7cefdfc9da574fec",
-        "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "中央网信办等七部门联合印发数字化绿色化协同转型发展实施方案（2026-2030年）。",
+        "id": "241c2ab99b3b53a9d942",
+        "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
+        "summary": "美国8月非农新增16.2万远超预期，市场对美联储9月加息押注升温。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-04T22:23:29Z"
+        "url": "https://www.cls.cn/detail/2474737",
+        "publishedAt": "2026-09-05T00:34:12Z"
+      },
+      {
+        "id": "dfcea5b4fac8bc6112cd",
+        "title": "广电总局：对用户上传微短剧，平台凡播必审",
+        "summary": "广电总局要求平台对用户上传微短剧凡播必审，加强内容监管。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34009937",
+        "publishedAt": "2026-09-05T00:34:12Z"
       },
       {
         "id": "8d321235f5785df41b6d",
         "title": "首个针对私募募集的行业规范出台，让违规成本大幅提升",
-        "summary": "首个私募募集行业规范出台，大幅提升违规成本，促进行业健康发展。",
+        "summary": "首个私募募集行业规范出台，大幅提升违规成本，促进行业合规。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474403",
-        "publishedAt": "2026-09-04T22:23:29Z"
+        "publishedAt": "2026-09-05T00:34:12Z"
       },
       {
-        "id": "0b65bf7c42914bf6be0b",
-        "title": "四川宜宾地震",
-        "summary": "四川宜宾发生地震，相关部门已启动应急响应，灾情正在核实中。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87",
-        "publishedAt": "2026-09-04T22:23:29Z"
+        "id": "b6bb7cefdfc9da574fec",
+        "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
+        "summary": "七部门联合印发数字化绿色化协同转型方案，推动双化发展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474523",
+        "publishedAt": "2026-09-05T00:34:12Z"
       },
       {
-        "id": "82cce876da5569271af1",
-        "title": "水位逼近二楼仍在上涨！莆田一村庄村民称“害怕了一夜，50多了没见过这么大洪水”",
-        "summary": "莆田暴雨洪水致村庄被淹，水位逼近二楼，村民称五十年未见如此大水。",
+        "id": "a24ac8225b29fe39e6fa",
+        "title": "“香港大药房”违规被通报续：商家店铺“借尸还魂”，澎湃报道后二次下架",
+        "summary": "“香港大药房”违规被通报后商家“借尸还魂”，经澎湃报道后再次下架。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34008495",
-        "publishedAt": "2026-09-04T22:23:29Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34007012",
+        "publishedAt": "2026-09-05T00:34:12Z"
       },
       {
-        "id": "4fef50a31102f446ea77",
-        "title": "我国目前有1870万名教师",
-        "summary": "我国目前有1870万名教师，教师队伍建设取得显著成效。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681520696856215602/",
-        "publishedAt": "2026-09-04T22:23:29Z"
+        "id": "51b9a6eb79538e0b0426",
+        "title": "央行等量续作3个月期买断式逆回购 月初再现7天期逆回购“封零” 资金面迎多重扰动因素",
+        "summary": "央行等量续作买断式逆回购，资金面面临多重扰动因素。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474733",
+        "publishedAt": "2026-09-05T00:34:12Z"
       },
       {
-        "id": "7a90dee7f2f71e8ea856",
-        "title": "今年的东博会、峰会有哪些不同",
-        "summary": "今年的东博会、峰会有诸多新亮点，推动区域合作与经贸往来。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%8D%9A%E4%BC%9A%E3%80%81%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
-        "publishedAt": "2026-09-04T22:23:29Z"
+        "id": "4c218fd2ebce58a841db",
+        "title": "中国公民在菲律宾移民局拘留所去世，细节披露",
+        "summary": "中国公民在菲律宾移民局拘留所去世，细节披露，引发关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wA4sNMskFk",
+        "publishedAt": "2026-09-05T00:34:12Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，特朗普施压美联储降息，美国非农强劲，中东冲突持续，尼泊尔洪灾引气候讨论，多国议题受关注。",
+    "overview": "国际方面，关注美国与伊朗冲突的最新表态、联合国通过新世界地图决议及俄乌局势动态。",
     "items": [
       {
-        "id": "2ef1c9e534dba47ceb7c",
-        "title": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates – US politics live",
-        "summary": "特朗普威胁切断与部分国家贸易，迫使美联储降息，凸显其与美联储紧张关系。",
+        "id": "9f4ab64ce69366bf7803",
+        "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+        "summary": "特朗普称美军可能“很快”攻击伊朗的镐山，局势持续紧张。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+        "publishedAt": "2026-09-04T16:00:00Z"
+      },
+      {
+        "id": "8a17897a45491f9b132c",
+        "title": "UN approves world map reflecting true size of Africa",
+        "summary": "联合国大会通过新世界地图决议，真实反映非洲大小，美国唯一反对。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/un-approves-world-map-reflecting-true-size-of-africa/a-79040629?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-04T15:34:00Z"
+      },
+      {
+        "id": "0456a4c49e727fb49e5d",
+        "title": "US judge extends block on Trump order to restrict mail-in voting",
+        "summary": "美国法官再次阻止特朗普限制邮寄投票的行政令，影响中期选举。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-        "publishedAt": "2026-09-04T14:10:43Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/04/us-judge-trump-mail-in-voting",
+        "publishedAt": "2026-09-04T15:01:05Z"
       },
       {
-        "id": "97d090870b3404b8081b",
-        "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-        "summary": "特朗普派特使访俄乌推动和谈，寻求重启和平谈判以结束战争。",
+        "id": "02e1dc4cfcb3e9f57177",
+        "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened",
+        "summary": "俄罗斯无人机袭击乌克兰安全局总部，乌外长称“重大升级”。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
+        "publishedAt": "2026-09-04T08:01:10Z"
+      },
+      {
+        "id": "c183c8b87dec0655fa34",
+        "title": "Farage seeks to shore up damaged leadership as scandal engulfs Reform conference",
+        "summary": "法拉奇面临领导力危机，改革党大会陷捐赠丑闻，高层官员被停职。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-seeks-shore-up-damaged-reform-leadership-scandal-engulfs-party-conference",
+        "publishedAt": "2026-09-04T10:16:10Z"
+      },
+      {
+        "id": "3431b5bcf5c257bac7ea",
+        "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
+        "summary": "以色列军队射杀两名巴勒斯坦青少年，西岸局势恶化。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
+        "publishedAt": "2026-09-04T07:12:53Z"
+      },
+      {
+        "id": "d792530b57a8f72d485f",
+        "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
+        "summary": "安德鲁·塔特在罗马尼亚被控贩卖未成年人及洗钱，被拘留。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
-        "publishedAt": "2026-09-04T13:19:05Z"
+        "url": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss",
+        "publishedAt": "2026-09-04T11:44:47Z"
       },
       {
-        "id": "f45b2e7b24d3e6f54a72",
-        "title": "Costa Rican president signals openness to domestic US military operations",
-        "summary": "哥斯达黎加总统表示愿考虑美国在本国境内军事行动，但需国会批准。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
-        "publishedAt": "2026-09-04T13:45:56Z"
-      },
-      {
-        "id": "46c5cdc202016c8d68c3",
-        "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
-        "summary": "以色列无人机袭击黎巴嫩南部村庄，地区局势持续紧张升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
-        "publishedAt": "2026-09-04T12:04:13Z"
-      },
-      {
-        "id": "ca8400fb0999ce076885",
-        "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
-        "summary": "联合国对以色列西岸军事行动表示“种族清洗”担忧，导致大量巴勒斯坦人流离失所。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
-        "publishedAt": "2026-09-04T07:31:54Z"
-      },
-      {
-        "id": "87bf01210cc50b5e627a",
-        "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-        "summary": "尼泊尔洪水致超10%水力发电能力受损，凸显对水电过度依赖的问题。",
+        "id": "fc4cdae826a343f312f7",
+        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+        "summary": "欧洲遭遇系列破坏活动，俄罗斯是主要嫌疑对象。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T14:02:52Z"
-      },
-      {
-        "id": "c0eab21687157955f9d9",
-        "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
-        "summary": "五欧盟国家接近就2027年前设立移民“返回中心”达成协议，但未确定地点。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
-        "publishedAt": "2026-09-04T10:52:28Z"
-      },
-      {
-        "id": "a1f86fa6675362153409",
-        "title": "Government Rails Site Hit Hours After CVE Patch",
-        "summary": "政府网站漏洞被利用，事件发生前后引发对网络安全漏洞管理的关注。",
-        "source": "Hacker News",
-        "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-        "publishedAt": "2026-09-04T11:06:39Z"
+        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T08:49:15Z"
       }
     ]
   }
