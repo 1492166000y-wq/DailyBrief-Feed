@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T02:24:13Z",
+  "generatedAt": "2026-09-05T06:28:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，美国非农数据超预期引发美联储加息担忧，对全球市场影响较大。同时，有关部门发布多项政策，涉及医保改革、数字化绿色化转型等。此外，有官员被查、企业高管变动等事件。",
+    "overview": "国内新闻覆盖经济、政策及民生等，重点关注非农数据、市场监管和自然灾害。",
     "items": [
       {
         "id": "1a29c305db3267bf3b79",
         "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
-        "summary": "美国8月非农新增就业16.2万，远超预期，失业率维持4.1%，强化美联储加息预期，全球金融市场受扰动。",
+        "summary": "美国8月非农新增就业16.2万远超预期，失业率维持4.1%，增强美联储加息预期。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781105",
-        "publishedAt": "2026-09-05T02:24:13Z"
+        "publishedAt": "2026-09-05T06:28:20Z"
       },
       {
         "id": "241c2ab99b3b53a9d942",
         "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
-        "summary": "非农数据大超预期，市场对美联储9月加息押注升温。",
+        "summary": "8月非农数据强劲，美联储9月加息概率上升，市场反应不一。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474737",
-        "publishedAt": "2026-09-05T02:24:13Z"
-      },
-      {
-        "id": "7eab7bfd5b7558363555",
-        "title": "164国赞成，美国反对，世界地图要变了",
-        "summary": "联合国通过新世界地图决议，164国赞成仅美国反对，或重绘全球视角。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wADTpOEyOv",
-        "publishedAt": "2026-09-05T02:24:13Z"
+        "publishedAt": "2026-09-05T06:28:20Z"
       },
       {
         "id": "041ea15fdf513f6eb06b",
         "title": "未来五年医保改革划了哪些重点",
-        "summary": "未来五年医保改革重点公布，涉及支付、基金监管等，关系民生。",
+        "summary": "未来五年医保改革方案公布，聚焦重点领域，旨在提升保障水平。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E5%8C%BB%E4%BF%9D%E6%94%B9%E9%9D%A9%E5%88%92%E4%BA%86%E5%93%AA%E4%BA%9B%E9%87%8D%E7%82%B9",
-        "publishedAt": "2026-09-05T02:24:13Z"
+        "publishedAt": "2026-09-05T06:28:20Z"
       },
       {
         "id": "b6bb7cefdfc9da574fec",
         "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "七部门联合印发方案，促进数字化绿色化协同转型，推动高质量发展。",
+        "summary": "七部门联合印发方案，推动数字化与绿色化协同转型，促进可持续发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-05T02:24:13Z"
-      },
-      {
-        "id": "51b9a6eb79538e0b0426",
-        "title": "央行等量续作3个月期买断式逆回购 月初再现7天期逆回购“封零” 资金面迎多重扰动因素",
-        "summary": "央行等量续作逆回购，月初逆回购封零，资金面有扰动。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474733",
-        "publishedAt": "2026-09-05T02:24:13Z"
+        "publishedAt": "2026-09-05T06:28:20Z"
       },
       {
         "id": "dfcea5b4fac8bc6112cd",
         "title": "广电总局：对用户上传微短剧，平台凡播必审",
-        "summary": "广电总局要求平台对用户上传微短剧凡播必审，加强内容监管。",
+        "summary": "广电总局要求平台对用户上传微短剧凡播必审，加强内容管理。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34009937",
-        "publishedAt": "2026-09-05T02:24:13Z"
+        "publishedAt": "2026-09-05T06:28:20Z"
       },
       {
-        "id": "f39f10dcff2659f663c9",
-        "title": "中建集团副总经理陈勇被查",
-        "summary": "中建集团副总经理陈勇被查，央企反腐持续，影响建筑行业。",
+        "id": "1ce25933c1c712433e8d",
+        "title": "江西遂川泥石流已致1死11失联",
+        "summary": "江西遂川泥石流已致1人死亡11人失联，救援工作持续进行。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681864647357038602/",
-        "publishedAt": "2026-09-05T02:24:13Z"
+        "url": "https://www.toutiao.com/trending/7681888202218832422/",
+        "publishedAt": "2026-09-05T06:28:20Z"
+      },
+      {
+        "id": "82cce876da5569271af1",
+        "title": "水位逼近二楼仍在上涨！莆田一村庄村民称“害怕了一夜，50多了没见过这么大洪水”",
+        "summary": "福建莆田洪水逼近二楼，村民称50多年未见，抗洪形势严峻。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34008495",
+        "publishedAt": "2026-09-05T06:28:20Z"
+      },
+      {
+        "id": "4de29fb06db40252fd31",
+        "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
+        "summary": "中建集团副总经理陈勇上任不满一年被查，涉嫌严重违纪违法。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
+        "publishedAt": "2026-09-05T06:28:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际上，美国政治动态频繁，包括对伊朗战争表态、选举争议等。联合国通过新版世界地图决议，仅美国反对。同时，俄乌冲突仍在持续，欧洲面临安全挑战。",
+    "overview": "国际新闻聚焦地缘政治、美国政策及全球事件，如非农数据影响、联合国地图决议和冲突动态。",
     "items": [
       {
-        "id": "04f7d3e3c6c0faf01992",
-        "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – live",
-        "summary": "特朗普称对伊朗战争“小事一桩”，并施压美联储降息，否则停止与逆差国贸易。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-        "publishedAt": "2026-09-04T17:44:22Z"
+        "id": "a9876fa221f13c9df766",
+        "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
+        "summary": "特朗普重申可能很快打击伊朗核设施，美伊紧张局势持续升级。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+        "publishedAt": "2026-09-04T16:00:00Z"
       },
       {
-        "id": "818294ff7ca9a82e00ab",
-        "title": "US envoys to visit Russia, Ukraine with plan 'to end war'",
-        "summary": "美国特使将访俄乌提出和平计划，但冲突升级或使谈判复杂。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-04T17:27:00Z"
+        "id": "cac4d6faffa68d887a7d",
+        "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+        "summary": "特朗普淡化与伊朗冲突，称美国并未在作战，但已致18名美军死亡。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
+        "publishedAt": "2026-09-04T15:55:50Z"
+      },
+      {
+        "id": "6b42b525567775241039",
+        "title": "How much can Canada fight back in its trade war with the US?",
+        "summary": "美国非农数据强劲，美联储鹰派预期升温，市场关注加息影响。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T18:13:21Z"
+      },
+      {
+        "id": "b4d03ce254e288f9c232",
+        "title": "At least two dead in blast at Bolivia military barracks",
+        "summary": "玻利维亚军事基地爆炸致至少2人死亡，当局担心伤亡人数上升。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T22:00:05Z"
       },
       {
         "id": "f64caae7083316dfb5f3",
         "title": "UN votes to adopt new world map to reflect Africa's true size",
-        "summary": "联合国通过反映非洲真实大小新地图，仅美国反对，反映国际分歧。",
+        "summary": "联合国通过新世界地图决议，反映非洲真实大小，仅美国反对。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-04T16:53:11Z"
       },
       {
-        "id": "0456a4c49e727fb49e5d",
-        "title": "US judge extends block on Trump order to restrict mail-in voting",
-        "summary": "美法官再次阻止特朗普限制邮寄投票命令，围绕选举规则的斗争加剧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/04/us-judge-trump-mail-in-voting",
-        "publishedAt": "2026-09-04T16:59:38Z"
-      },
-      {
         "id": "c826185dfa69f8981cb5",
         "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-        "summary": "德国选择党有望在东部州获胜，极右翼首次接近州政权，受关注。",
+        "summary": "德国极右翼AfD在东部州选举中领先，有望首次获得州政权。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-04T15:07:23Z"
       },
       {
-        "id": "cec11bb252e0577b1cda",
-        "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-        "summary": "俄无人机袭击乌克兰安全局总部，乌称重大升级，冲突有恶化风险。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T08:02:32Z"
-      },
-      {
-        "id": "c42625c31b6e5ce8b0e3",
-        "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
-        "summary": "马耳他商人费内奇被判谋杀记者无罪，引发对司法公正的愤怒。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-04T11:31:00Z"
-      },
-      {
         "id": "2d46d8e848ef717a16d4",
         "title": "US regulator opens safety investigation as Tesla launches driverless taxis",
-        "summary": "美国监管机构调查特斯拉无人驾驶出租车，安全性引担忧。",
+        "summary": "美国监管机构对特斯拉无人驾驶出租车展开安全调查，引发关注。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
         "publishedAt": "2026-09-04T13:27:26Z"
+      },
+      {
+        "id": "87bf01210cc50b5e627a",
+        "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+        "summary": "尼泊尔洪水致超10%水电产能瘫痪，凸显依赖水电的风险。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T14:02:52Z"
       }
     ]
   }
