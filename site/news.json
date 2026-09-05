@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-05T12:27:45Z",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-05T16:49:52Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻涵盖非农数据、尼泊尔泥石流、AI芯片、医疗反腐、宏观政策等热点。",
+    "overview": "国内方面，美国非农数据超预期影响加息预期，中建集团高管被查，尼泊尔泥石流救援有进展，食品安全等问题引发关注。",
     "items": [
       {
-        "id": "1a29c305db3267bf3b79",
-        "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
-        "summary": "美国8月非农新增16.2万远超预期，失业率维持4.1%，或强化美联储加息预期。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781105",
-        "publishedAt": "2026-09-05T12:27:45Z"
-      },
-      {
-        "id": "5b303468a9f1bee1a427",
-        "title": "尼泊尔泥石流灾害中，1名中国公民获救(图)",
-        "summary": "尼泊尔泥石流灾害中一名中国公民获救，引发关注。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wB2AiuS5ky",
-        "publishedAt": "2026-09-05T12:27:45Z"
-      },
-      {
-        "id": "f5bdbaf0a20e6943c1b4",
-        "title": "DeepSeek被曝将采购16万颗华为芯片",
-        "summary": "DeepSeek被曝将采购16万颗华为芯片，凸显国产AI算力自主化趋势。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681981085961424425/",
-        "publishedAt": "2026-09-05T12:27:45Z"
-      },
-      {
-        "id": "c2ff5ffb8c2f8b6dafc2",
-        "title": "解放军20架次军机持续位台岛周边活动",
-        "summary": "解放军20架次军机在台岛周边活动，展示区域态势。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681980974166458906/",
-        "publishedAt": "2026-09-05T12:27:45Z"
-      },
-      {
-        "id": "dfcea5b4fac8bc6112cd",
-        "title": "广电总局：对用户上传微短剧，平台凡播必审",
-        "summary": "广电总局要求平台对用户上传微短剧‘凡播必审’，加强内容管理。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34009937",
-        "publishedAt": "2026-09-05T12:27:45Z"
-      },
-      {
-        "id": "b6bb7cefdfc9da574fec",
-        "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "七部门印发数字化绿色化协同转型方案，推动双化发展。",
+        "id": "241c2ab99b3b53a9d942",
+        "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
+        "summary": "美国8月非农录得16.2万，远超预期，9月加息押注升温。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-05T12:27:45Z"
+        "url": "https://www.cls.cn/detail/2474737",
+        "publishedAt": "2026-09-05T16:49:52Z"
       },
       {
         "id": "4de29fb06db40252fd31",
         "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
-        "summary": "中建集团副总经理陈勇上任不到一年被查，央企反腐持续。",
+        "summary": "中建集团副总经理陈勇上任不满一年被查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
-        "publishedAt": "2026-09-05T12:27:45Z"
+        "publishedAt": "2026-09-05T16:49:52Z"
+      },
+      {
+        "id": "91ab906de2774f99d662",
+        "title": "贵中医二附院被捅伤医生仍在抢救",
+        "summary": "贵州中医二附院被捅伤医生仍在抢救。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B5%E4%B8%AD%E5%8C%BB%E4%BA%8C%E9%99%84%E9%99%A2%E8%A2%AB%E6%8D%85%E4%BC%A4%E5%8C%BB%E7%94%9F%E4%BB%8D%E5%9C%A8%E6%8A%A2%E6%95%91%23",
+        "publishedAt": "2026-09-05T16:49:52Z"
       },
       {
         "id": "3759630fa055f213af58",
         "title": "兰州榆中官方通报“莴笋收购环节染色”：立案查处6家企业",
-        "summary": "兰州榆中通报莴笋收购染色问题，立案查处6家企业。",
+        "summary": "兰州榆中就莴笋染色问题立案查处6家企业。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34015418",
-        "publishedAt": "2026-09-05T12:27:45Z"
+        "publishedAt": "2026-09-05T16:49:52Z"
+      },
+      {
+        "id": "4e129b5f33c32d7351f5",
+        "title": "对美制裁生效，“中企拒绝发货”",
+        "summary": "对美制裁生效，中企拒绝发货引发关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wAUJdtIpzO",
+        "publishedAt": "2026-09-05T16:49:52Z"
+      },
+      {
+        "id": "5b4d3c65bad2f1296ae0",
+        "title": "特斯拉“赛博出租车”，被调查",
+        "summary": "特斯拉赛博出租车遭调查。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474973",
+        "publishedAt": "2026-09-05T16:49:52Z"
+      },
+      {
+        "id": "88e7f5980b00624e9a22",
+        "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
+        "summary": "高盛称OpenAI的Astra模型脱颖而出，AI牛市等待已久。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781148",
+        "publishedAt": "2026-09-05T16:49:52Z"
+      },
+      {
+        "id": "0d59815cfefaa8735718",
+        "title": "葫芦娃爷爷爆火“蛇精”来打卡",
+        "summary": "葫芦娃爷爷爆火“蛇精”来打卡",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681201594172244031/",
+        "publishedAt": "2026-09-05T16:49:52Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻聚焦美俄乌会谈、伊朗局势、玻利维亚爆炸、英国抗议及美非农影响。",
+    "overview": "国际方面，美伊冲突升级，美特使访俄推动乌克兰停火，尼泊尔洪灾救援持续，中东局势与全球气候变化议题受关注。",
     "items": [
       {
-        "id": "460c2dcd14008845a6d2",
-        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-        "summary": "美特使抵莫斯科与俄会谈，随后将赴乌推动和平方案。",
+        "id": "5ab4604436c353236a40",
+        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+        "summary": "美国打击伊朗三艘油轮，回应美舰受袭。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-05T08:13:01Z"
+      },
+      {
+        "id": "7b0df77f02d4d141cae7",
+        "title": "US envoys in Moscow ahead of Ukraine talks",
+        "summary": "美特使抵莫斯科，携结束战争方案。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-05T04:23:00Z"
+        "publishedAt": "2026-09-05T08:48:40Z"
       },
       {
-        "id": "462d76407a164bdd091f",
-        "title": "Iran war: Explosions reported near Kharg Island",
-        "summary": "伊朗哈尔克岛附近传出爆炸声，油轮疑遭袭击。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/iran-war-explosions-reported-near-kharg-island/live-79044467?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T00:16:00Z"
-      },
-      {
-        "id": "8fabd4e0384d7e318b02",
-        "title": "Bolivian military barracks explosion kills at least 10",
-        "summary": "玻利维亚军事基地发生爆炸，至少10人死亡，数十人受伤。",
+        "id": "420fc63eaf606e281bf6",
+        "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
+        "summary": "尼泊尔洪灾救援发现生还者，含中国公民。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
-        "publishedAt": "2026-09-04T22:11:05Z"
+        "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
+        "publishedAt": "2026-09-05T07:33:02Z"
       },
       {
-        "id": "31dcf995a9b7ef879cd8",
-        "title": "Black-clad protesters in balaclavas block road at port of Dover in Kent",
-        "summary": "英国多佛港遭蒙面抗议者封路，交通受阻，警方介入。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent",
-        "publishedAt": "2026-09-05T04:11:57Z"
-      },
-      {
-        "id": "56e164c002c5d9bbb54d",
-        "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-        "summary": "荷兰因担忧地缘政治动荡，将黄金从美国撤出。",
-        "source": "Hacker News",
-        "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-        "publishedAt": "2026-09-05T02:14:28Z"
-      },
-      {
-        "id": "0fa587c6ae246cfaba44",
-        "title": "Rescuers in Nepal find two more people alive after flood disaster",
-        "summary": "尼泊尔洪水后救援人员找到两名幸存者，包括一名中国公民。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
-        "publishedAt": "2026-09-05T03:26:30Z"
-      },
-      {
-        "id": "ef39e5856096c11eb902",
-        "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
-        "summary": "美特使访俄乌之际，乌克兰遭俄袭击致5人死亡。",
+        "id": "b4d03ce254e288f9c232",
+        "title": "At least two dead in blast at Bolivia military barracks",
+        "summary": "玻利维亚军营爆炸致至少2人死亡。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T23:20:17Z"
+        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-05T07:22:41Z"
       },
       {
-        "id": "d01d13da4f9435febc8d",
-        "title": "Mental health groups have ‘failed to acknowledge’ risk of violence, says Mind chief",
-        "summary": "Sector has avoided issue because of stigma fears, expert warns ahead of closure ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/society/2026/sep/05/mental-health-groups-have-failed-to-acknowledge-risk-of-violence-says-mind-chief",
-        "publishedAt": "2026-09-05T04:00:36Z"
+        "id": "9e049ac141442c679b62",
+        "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+        "summary": "加沙救援队发现55具遗体，为以色列空袭遇难家庭。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+        "publishedAt": "2026-09-05T08:17:47Z"
+      },
+      {
+        "id": "c40b2885939252108968",
+        "title": "Russia to pause strikes against Kyiv amid Ukraine talks",
+        "summary": "俄方宣布在乌谈判期间暂停打击基辅。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/russia-to-pause-strikes-against-kyiv-amid-ukraine-talks/a-79040773?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-05T05:03:00Z"
+      },
+      {
+        "id": "97a2470cd01d49da335e",
+        "title": "Philippines Vice President Sara Duterte posts bail after arrest",
+        "summary": "菲律宾副总统萨拉·杜特尔特被捕后获保释。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
+        "publishedAt": "2026-09-04T23:21:10Z"
+      },
+      {
+        "id": "eec946614e7aaa36662c",
+        "title": "Global warming will exceed 1.5-degree limit, UN says",
+        "summary": "联合国报告称全球升温将超1.5度上限。",
+        "source": "Hacker News",
+        "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+        "publishedAt": "2026-09-05T05:02:14Z"
       }
     ]
   }
