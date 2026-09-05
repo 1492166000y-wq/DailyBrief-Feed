@@ -1,42 +1,18 @@
 {
   "version": 1,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T06:28:20Z",
+  "generatedAt": "2026-09-05T08:24:21Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻覆盖经济、政策及民生等，重点关注非农数据、市场监管和自然灾害。",
+    "overview": "国内要闻涵盖美国非农数据冲击、中东局势、政策监管及社会民生等热点，重点关注经济与外交动态。",
     "items": [
       {
         "id": "1a29c305db3267bf3b79",
         "title": "非农大爆表！美国8月新增就业16.2万人，预期仅5.5万人，失业率维持在4.1%不变",
-        "summary": "美国8月非农新增就业16.2万远超预期，失业率维持4.1%，增强美联储加息预期。",
+        "summary": "美国8月非农新增16.2万远超预期，失业率4.1%，强化加息预期，市场承压。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781105",
-        "publishedAt": "2026-09-05T06:28:20Z"
-      },
-      {
-        "id": "241c2ab99b3b53a9d942",
-        "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
-        "summary": "8月非农数据强劲，美联储9月加息概率上升，市场反应不一。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474737",
-        "publishedAt": "2026-09-05T06:28:20Z"
-      },
-      {
-        "id": "041ea15fdf513f6eb06b",
-        "title": "未来五年医保改革划了哪些重点",
-        "summary": "未来五年医保改革方案公布，聚焦重点领域，旨在提升保障水平。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E5%8C%BB%E4%BF%9D%E6%94%B9%E9%9D%A9%E5%88%92%E4%BA%86%E5%93%AA%E4%BA%9B%E9%87%8D%E7%82%B9",
-        "publishedAt": "2026-09-05T06:28:20Z"
-      },
-      {
-        "id": "b6bb7cefdfc9da574fec",
-        "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
-        "summary": "七部门联合印发方案，推动数字化与绿色化协同转型，促进可持续发展。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474523",
-        "publishedAt": "2026-09-05T06:28:20Z"
+        "publishedAt": "2026-09-05T08:24:21Z"
       },
       {
         "id": "dfcea5b4fac8bc6112cd",
@@ -44,100 +20,124 @@
         "summary": "广电总局要求平台对用户上传微短剧凡播必审，加强内容管理。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34009937",
-        "publishedAt": "2026-09-05T06:28:20Z"
+        "publishedAt": "2026-09-05T08:24:21Z"
       },
       {
-        "id": "1ce25933c1c712433e8d",
-        "title": "江西遂川泥石流已致1死11失联",
-        "summary": "江西遂川泥石流已致1人死亡11人失联，救援工作持续进行。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681888202218832422/",
-        "publishedAt": "2026-09-05T06:28:20Z"
-      },
-      {
-        "id": "82cce876da5569271af1",
-        "title": "水位逼近二楼仍在上涨！莆田一村庄村民称“害怕了一夜，50多了没见过这么大洪水”",
-        "summary": "福建莆田洪水逼近二楼，村民称50多年未见，抗洪形势严峻。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34008495",
-        "publishedAt": "2026-09-05T06:28:20Z"
+        "id": "b6bb7cefdfc9da574fec",
+        "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
+        "summary": "七部门印发数字化绿色化协同转型方案，推动双化协同发展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474523",
+        "publishedAt": "2026-09-05T08:24:21Z"
       },
       {
         "id": "4de29fb06db40252fd31",
         "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
-        "summary": "中建集团副总经理陈勇上任不满一年被查，涉嫌严重违纪违法。",
+        "summary": "中建集团副总经理陈勇上任不足一年被查，反腐持续深入。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
-        "publishedAt": "2026-09-05T06:28:20Z"
+        "publishedAt": "2026-09-05T08:24:21Z"
+      },
+      {
+        "id": "fd1ca12ab27096393172",
+        "title": "教育部回应“教师面对学生不敢管”：将规范涉师争议投诉处理程序",
+        "summary": "教育部回应教师不敢管学生，将规范涉师投诉处理，保障教师权益。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34008434",
+        "publishedAt": "2026-09-05T08:24:21Z"
+      },
+      {
+        "id": "82cce876da5569271af1",
+        "title": "水位逼近二楼仍在上涨！莆田一村庄村民称“害怕了一夜，50多了没见过这么大洪水”",
+        "summary": "莆田村庄洪水逼近二楼，村民称50多年未见，紧急关注灾情。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34008495",
+        "publishedAt": "2026-09-05T08:24:21Z"
+      },
+      {
+        "id": "b189c07035d2bbca489b",
+        "title": "超1万册永乐大典副本下落不明",
+        "summary": "超1万册永乐大典副本下落不明",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681856234014326826/",
+        "publishedAt": "2026-09-05T08:24:21Z"
+      },
+      {
+        "id": "690ef3668f67a9c662b9",
+        "title": "校长回应“9个老师守着12个娃”",
+        "summary": "校长回应“9个老师守着12个娃”",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C9%E4%B8%AA%E8%80%81%E5%B8%88%E5%AE%88%E7%9D%8012%E4%B8%AA%E5%A8%83%E2%80%9D",
+        "publishedAt": "2026-09-05T08:24:21Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻聚焦地缘政治、美国政策及全球事件，如非农数据影响、联合国地图决议和冲突动态。",
+    "overview": "国际新闻聚焦美国非农影响、中东冲突、联合国地图决议及多国政治经济事件，需精选跨领域重要进展。",
     "items": [
       {
-        "id": "a9876fa221f13c9df766",
-        "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
-        "summary": "特朗普重申可能很快打击伊朗核设施，美伊紧张局势持续升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
-        "publishedAt": "2026-09-04T16:00:00Z"
-      },
-      {
-        "id": "cac4d6faffa68d887a7d",
-        "title": "‘Small potatoes’: US President Trump downplays war on Iran",
-        "summary": "特朗普淡化与伊朗冲突，称美国并未在作战，但已致18名美军死亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
-        "publishedAt": "2026-09-04T15:55:50Z"
-      },
-      {
-        "id": "6b42b525567775241039",
-        "title": "How much can Canada fight back in its trade war with the US?",
-        "summary": "美国非农数据强劲，美联储鹰派预期升温，市场关注加息影响。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T18:13:21Z"
-      },
-      {
-        "id": "b4d03ce254e288f9c232",
-        "title": "At least two dead in blast at Bolivia military barracks",
-        "summary": "玻利维亚军事基地爆炸致至少2人死亡，当局担心伤亡人数上升。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T22:00:05Z"
+        "id": "462d76407a164bdd091f",
+        "title": "Iran war: Explosions reported near Kharg Island",
+        "summary": "伊朗哈尔克岛附近发生爆炸，地区紧张局势升级，全球关注。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/iran-war-explosions-reported-near-kharg-island/live-79044467?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-05T00:16:00Z"
       },
       {
         "id": "f64caae7083316dfb5f3",
         "title": "UN votes to adopt new world map to reflect Africa's true size",
-        "summary": "联合国通过新世界地图决议，反映非洲真实大小，仅美国反对。",
+        "summary": "联合国大会通过新世界地图决议，反映非洲真实大小，美国反对。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-04T16:53:11Z"
       },
       {
-        "id": "c826185dfa69f8981cb5",
-        "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-        "summary": "德国极右翼AfD在东部州选举中领先，有望首次获得州政权。",
+        "id": "e6a9dcb2ccdace5e1904",
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "summary": "特朗普特使将访问俄乌，推进新和平方案，谈判前景待观察。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T15:07:23Z"
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-04T20:28:21Z"
       },
       {
-        "id": "2d46d8e848ef717a16d4",
-        "title": "US regulator opens safety investigation as Tesla launches driverless taxis",
-        "summary": "美国监管机构对特斯拉无人驾驶出租车展开安全调查，引发关注。",
+        "id": "830deae91c48a79de490",
+        "title": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
+        "summary": "马来西亚砂拉越因印尼雾霾进入紧急状态，空气质量达危险水平。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
-        "publishedAt": "2026-09-04T13:27:26Z"
+        "url": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
+        "publishedAt": "2026-09-04T19:48:17Z"
       },
       {
-        "id": "87bf01210cc50b5e627a",
-        "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-        "summary": "尼泊尔洪水致超10%水电产能瘫痪，凸显依赖水电的风险。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-04T14:02:52Z"
+        "id": "97a2470cd01d49da335e",
+        "title": "Philippines Vice President Sara Duterte posts bail after arrest",
+        "summary": "菲律宾副总统莎拉被逮捕后缴纳保释金，逮捕令解除。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
+        "publishedAt": "2026-09-04T23:21:10Z"
+      },
+      {
+        "id": "ae3b5ecca443d97dadd8",
+        "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+        "summary": "美国制裁土耳其银行，因其涉嫌与伊朗有金融往来，引发法律威胁。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+        "publishedAt": "2026-09-04T21:19:05Z"
+      },
+      {
+        "id": "8fabd4e0384d7e318b02",
+        "title": "Bolivian military barracks explosion kills at least 10",
+        "summary": "玻利维亚军营爆炸致至少10死多人伤，事故原因调查中。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
+        "publishedAt": "2026-09-04T22:11:05Z"
+      },
+      {
+        "id": "1b1393e74fe15318a59e",
+        "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
+        "summary": "特朗普派特使携新方案赴俄乌，俄乌冲突和平进程再引关注。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+        "publishedAt": "2026-09-04T19:25:46Z"
       }
     ]
   }
