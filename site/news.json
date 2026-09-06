@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T10:53:57Z",
+  "generatedAt": "2026-09-06T15:27:11Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "财政部570亿增资三家保险公司；美伊冲突升级；西藏泥石流致重大伤亡；多部门监管新规出台。",
+    "overview": "国内要闻聚焦财政部注资银行险企、美国伊朗冲突、西藏泥石流灾害及宏观经济政策。",
     "items": [
       {
-        "id": "f58331165deab5438d9a",
-        "title": "财政部570亿增资三家保险公司",
-        "summary": "财政部570亿元增资三家保险公司，增强资本实力。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%B4%A2%E6%94%BF%E9%83%A8570%E4%BA%BF%E5%A2%9E%E8%B5%84%E4%B8%89%E5%AE%B6%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8",
-        "publishedAt": "2026-09-06T10:53:57Z"
-      },
-      {
-        "id": "362ff2e04e7d7af51941",
-        "title": "西藏泥石流43人遇难519人失联",
-        "summary": "西藏泥石流已致43人遇难，519人失联，救援持续中。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682189960509738502/",
-        "publishedAt": "2026-09-06T10:53:57Z"
+        "id": "a21d54227842940d34ec",
+        "title": "财政部大手笔注资银行、险企，总量达数千亿！",
+        "summary": "财政部向多家银行及险企注资数千亿元，以增强金融机构资本实力。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781176",
+        "publishedAt": "2026-09-06T15:27:11Z"
       },
       {
         "id": "1424aa81c4c69ff7de05",
         "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
-        "summary": "伊朗导弹袭击美航母，美军称航母成功规避，击中伊油轮。",
+        "summary": "伊朗导弹袭击美航母，美军称成功规避并打击伊油轮，特朗普声称胜利。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781160",
-        "publishedAt": "2026-09-06T10:53:57Z"
+        "publishedAt": "2026-09-06T15:27:11Z"
       },
       {
-        "id": "ae33136119f6e44b7516",
-        "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
-        "summary": "美股存储概念股逆势上涨，油价上升金价下跌，私募监管新规出台。",
+        "id": "b4078f41e4d9cc5b8e16",
+        "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
+        "summary": "西藏吉隆泥石流灾害已致43人遇难，519人失联，救援持续进行。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
+        "publishedAt": "2026-09-06T15:27:11Z"
+      },
+      {
+        "id": "9047e50ea68c4890fa1e",
+        "title": "工行、农行拟分别募资不超过1000亿元、1600亿元用于补充资本",
+        "summary": "工商银行和农业银行分别计划募资不超过1000亿元和1600亿元补充资本。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474846",
-        "publishedAt": "2026-09-06T10:53:57Z"
-      },
-      {
-        "id": "1eb54f0f348ee7e1986f",
-        "title": "工行农行拟分别募资1000亿和1600亿",
-        "summary": "工行、农行拟分别募资1000亿和1600亿元补充资本。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E5%86%9C%E8%A1%8C%E6%8B%9F%E5%88%86%E5%88%AB%E5%8B%9F%E8%B5%841000%E4%BA%BF%E5%92%8C1600%E4%BA%BF",
-        "publishedAt": "2026-09-06T10:53:57Z"
+        "url": "https://www.cls.cn/detail/2475133",
+        "publishedAt": "2026-09-06T15:27:11Z"
       },
       {
         "id": "3db5db1e4722ff9c22e4",
         "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
-        "summary": "七部门联合发文推动数字化绿色化协同转型；美国8月非农数据超预期。",
+        "summary": "七部门联合印发数字化绿色化协同转型方案，另有美非农数据强劲。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2475115",
-        "publishedAt": "2026-09-06T10:53:57Z"
+        "publishedAt": "2026-09-06T15:27:11Z"
       },
       {
-        "id": "7ea1ca2ba98dfa16b2c5",
-        "title": "多地严查赵一鸣、好想来等",
-        "summary": "多地严查赵一鸣、好想来等品牌，或涉食品安全问题。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E3%80%81%E5%A5%BD%E6%83%B3%E6%9D%A5%E7%AD%89",
-        "publishedAt": "2026-09-06T10:53:57Z"
+        "id": "c6d0743e1ef6eee65748",
+        "title": "OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的",
+        "summary": "OpenAI发布GPT-6 Astra，高盛称其或成AI牛市催化剂。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2475045",
+        "publishedAt": "2026-09-06T15:27:11Z"
       },
       {
         "id": "0c5b89ec093a9911839e",
         "title": "财政部将向中国太平注资70亿",
-        "summary": "财政部将向中国太平注资70亿",
+        "summary": "财政部将向中国太平注资70亿元，支持其发展。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7682330411086660106/",
-        "publishedAt": "2026-09-06T10:53:57Z"
+        "publishedAt": "2026-09-06T15:27:11Z"
+      },
+      {
+        "id": "7c3c594b676214d739fe",
+        "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
+        "summary": "医院回应5岁女孩病历被标注“刁蛮”：已修正并立案调查涉事医生。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34017446",
+        "publishedAt": "2026-09-06T15:27:11Z"
       }
     ]
   },
   "global": {
-    "overview": "美伊互袭油轮，局势紧张；普京与美特使会谈后赴基辅；印尼火山喷发致航班取消；德国极右翼政党在州选举中领先。",
+    "overview": "国际头条包括美特使访俄乌斡旋、美伊油轮互袭、德国火箭发射及印尼火山喷发。",
     "items": [
       {
-        "id": "4cc6af7e3400d64d43dd",
-        "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-        "summary": "美特使与普京会晤，讨论乌克兰和平方案。",
+        "id": "751d5989988eaf8158db",
+        "title": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+        "summary": "美特使与普京会晤后访乌，寻求结束俄乌冲突的新方案。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-        "publishedAt": "2026-09-05T13:23:06Z"
+        "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war?traffic_source=rss",
+        "publishedAt": "2026-09-06T07:00:16Z"
       },
       {
         "id": "c86264a7f4a736c69f52",
         "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-        "summary": "美军打击三艘伊朗油轮，此前美舰遭导弹袭击，紧张升级。",
+        "summary": "美舰遭导弹攻击后，美军打击伊朗三艘油轮，局势紧张升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
         "publishedAt": "2026-09-05T07:41:22Z"
       },
       {
-        "id": "88c6cafa7c98224c2e1c",
-        "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
-        "summary": "印尼喀拉喀托火山喷发，大量航班取消，旅客滞留。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T23:33:00Z"
-      },
-      {
-        "id": "68095eb4277839292708",
-        "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
-        "summary": "德国萨克森-安哈尔特州选举，极右翼AfD预计胜选。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T23:23:00Z"
-      },
-      {
-        "id": "9e44b486e94e076d55c8",
-        "title": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
-        "summary": "澳航客机起飞后引擎起火，紧急改航降落。",
+        "id": "83854960103fa101e836",
+        "title": "German startup sends first commercial rocket into space from Europe",
+        "summary": "德国Isar Aerospace成功将商业火箭送入轨道，欧洲航天获突破。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
-        "publishedAt": "2026-09-05T23:32:58Z"
+        "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
+        "publishedAt": "2026-09-06T05:21:36Z"
+      },
+      {
+        "id": "aab4de838623d20ed2d6",
+        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+        "summary": "印尼喀拉喀托火山喷发，火山灰致150000名乘客滞留。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-06T01:56:39Z"
+      },
+      {
+        "id": "0459b23f977a7f7f50d0",
+        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+        "summary": "Isar Aerospace二次飞行入轨并部署载荷，创欧洲私人航天先例。",
+        "source": "Hacker News",
+        "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+        "publishedAt": "2026-09-05T23:21:06Z"
+      },
+      {
+        "id": "5f34b958ce11349e2ad7",
+        "title": "Far-right AfD predicted to win big in crucial German state election",
+        "summary": "德国萨克森-安哈尔特州选举，极右翼AfD预计将成第一大党。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
+        "publishedAt": "2026-09-06T02:50:21Z"
       },
       {
         "id": "2d35cce9de4dc784f893",
         "title": "Iran war live: Tehran warns of ‘faster, more painful’ response to attacks",
-        "summary": "伊朗警告将更快速、更痛苦回应美国攻击。",
+        "summary": "伊朗警告美国，称将对攻击做出更迅速、更痛苦的回应。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
         "publishedAt": "2026-09-05T16:00:00Z"
       },
       {
-        "id": "88ec599ad8ebd5dfb9d9",
-        "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
-        "summary": "特朗普可能支持米莱对马岛主权的主张，引发英方担忧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-        "publishedAt": "2026-09-05T14:19:40Z"
-      },
-      {
-        "id": "69c5c400d5786a039142",
-        "title": "Private German rocket makes history, reaches orbit from European soil",
-        "summary": "德国私企Isar Aerospace成功入轨，欧洲航天取得历史性突破。",
-        "source": "Hacker News",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-        "publishedAt": "2026-09-05T12:31:38Z"
+        "id": "5bd851c144d3ca1938c5",
+        "title": "China, Nepal race to find thousands still missing 12 days after floods",
+        "summary": "中国与尼泊尔洪灾失踪人数超5500，救援与寻人工作加紧进行。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods?traffic_source=rss",
+        "publishedAt": "2026-09-06T06:14:07Z"
       }
     ]
   }
