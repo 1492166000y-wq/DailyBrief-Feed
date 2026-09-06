@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-06",
-  "generatedAt": "2026-09-05T23:53:29Z",
+  "generatedAt": "2026-09-06T04:36:19Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点包括美国非农超预期、Fed加息押注、OpenAI Astra模型发布、食品安全事件、中建集团高管被查、尼泊尔救援等；同时涉及郑钦文美网逆转等体育新闻，但按规范排除体育，因此不选。",
+    "overview": "国内要闻聚焦伊朗美国军事冲突、经济数据与市场影响、国内政策与民生等热点。",
     "items": [
       {
-        "id": "241c2ab99b3b53a9d942",
-        "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
-        "summary": "美国8月非农新增16.2万远超预期，市场对美联储9月加息预期升温。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474737",
-        "publishedAt": "2026-09-05T23:53:29Z"
+        "id": "48ec7c2284f248c2be9a",
+        "title": "伊朗革命卫队称打击了美航母和驱逐舰",
+        "summary": "伊朗革命卫队宣称打击美国航母和驱逐舰，地区紧张局势升级。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682247365662608950/",
+        "publishedAt": "2026-09-06T04:36:19Z"
+      },
+      {
+        "id": "ea2c2a42c2738607cabc",
+        "title": "ETC该不该取消？人民日报最新发声",
+        "summary": "人民日报评论ETC问题，引发公众对高速公路收费改革的关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=ETC%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%8F%96%E6%B6%88%EF%BC%9F%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
+        "publishedAt": "2026-09-06T04:36:19Z"
       },
       {
         "id": "88e7f5980b00624e9a22",
         "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
-        "summary": "高盛称OpenAI的Astra模型表现突出，可能成为AI牛市持续的关键推动力。",
+        "summary": "高盛指出OpenAI的Astra模型在AI领域表现突出，或推动AI牛市发展。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781148",
-        "publishedAt": "2026-09-05T23:53:29Z"
+        "publishedAt": "2026-09-06T04:36:19Z"
       },
       {
         "id": "8e81c7f6aa30be79c0e9",
         "title": "马上评｜一次食品安全事故，坍塌的可能是一个地方的口碑",
-        "summary": "评论指出一次食品安全事故可能严重损害地方信誉，强调食品安全监管的重要性。",
+        "summary": "评论称一次食品安全事故可能严重影响地方声誉，凸显监管重要性。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34015694",
-        "publishedAt": "2026-09-05T23:53:29Z"
+        "publishedAt": "2026-09-06T04:36:19Z"
       },
       {
-        "id": "4de29fb06db40252fd31",
-        "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
-        "summary": "中建集团副总经理陈勇上任不足一年即被查，显示反腐力度持续。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
-        "publishedAt": "2026-09-05T23:53:29Z"
+        "id": "241c2ab99b3b53a9d942",
+        "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
+        "summary": "美国8月非农数据远超预期，增强美联储9月加息的市场押注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474737",
+        "publishedAt": "2026-09-06T04:36:19Z"
+      },
+      {
+        "id": "c0e9f373b466dbc85f6d",
+        "title": "日本急了，高市早苗亲自强烈抗议",
+        "summary": "日本首相高市早苗对某事件表示强烈抗议，日方反应急迫。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wC065RtWOI",
+        "publishedAt": "2026-09-06T04:36:19Z"
       },
       {
         "id": "8f2303be7ff8adee5fe3",
         "title": "印尼野火毒霾席卷东南亚：厄尔尼诺与泥炭地退化成双重推手",
-        "summary": "印尼野火致东南亚严重雾霾，厄尔尼诺和泥炭地退化加剧污染。",
+        "summary": "印尼野火导致东南亚烟霾严重，厄尔尼诺和泥炭地退化是主因。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34014788",
-        "publishedAt": "2026-09-05T23:53:29Z"
+        "publishedAt": "2026-09-06T04:36:19Z"
       },
       {
-        "id": "d8dea7ff3abb50b509fb",
-        "title": "生育险、长护险、医保报销迎新变化",
-        "summary": "生育险、长护险和医保报销政策迎来新调整，关乎民生保障。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E7%94%9F%E8%82%B2%E9%99%A9%E3%80%81%E9%95%BF%E6%8A%A4%E9%99%A9%E3%80%81%E5%8C%BB%E4%BF%9D%E6%8A%A5%E9%94%80%E8%BF%8E%E6%96%B0%E5%8F%98%E5%8C%96",
-        "publishedAt": "2026-09-05T23:53:29Z"
-      },
-      {
-        "id": "3466a234e3a83e46e674",
-        "title": "刺伤贵中医二附院医生嫌疑人被刑拘",
-        "summary": "贵阳中医学院第二附属医院医生被刺伤，嫌疑人已被刑拘，公共安全引关注。",
+        "id": "d4171c4a456468cd3710",
+        "title": "中国超大市场红利惠及全球",
+        "summary": "报道强调中国超大市场规模为全球带来红利，惠及各国企业。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682192194949615167/",
-        "publishedAt": "2026-09-05T23:53:29Z"
-      },
-      {
-        "id": "3759630fa055f213af58",
-        "title": "兰州榆中官方通报“莴笋收购环节染色”：立案查处6家企业",
-        "summary": "兰州榆中莴笋收购存在染色问题，官方已立案查处6家企业。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34015418",
-        "publishedAt": "2026-09-05T23:53:29Z"
+        "url": "https://www.toutiao.com/trending/7681730460632121380/",
+        "publishedAt": "2026-09-06T04:36:19Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻涵盖美伊冲突升级（美军打击伊朗油轮）、俄乌谈判（美特使访俄）、德国火箭发射成功、尼泊尔洪灾救援等，以及特朗普相关政策动向。",
+    "overview": "国际新闻涵盖美国与伊朗冲突、俄乌和谈、德国及欧洲政治、技术动态等。",
     "items": [
+      {
+        "id": "c86264a7f4a736c69f52",
+        "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
+        "summary": "美军称打击三艘伊朗油轮，此前美舰遭导弹袭击，紧张升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
+        "publishedAt": "2026-09-05T07:41:22Z"
+      },
+      {
+        "id": "a22f1d20bd2d68d3b568",
+        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+        "summary": "美国特使访问乌克兰前与普京会晤，寻求解决俄乌冲突方案。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-05T18:24:16Z"
+      },
+      {
+        "id": "c7f35a9f24c846d84045",
+        "title": "German voters head to polls as far-right AfD party eyes historic state win",
+        "summary": "德国萨克森-安哈尔特州选举，极右翼AfD有望创历史性胜利。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
+        "publishedAt": "2026-09-05T20:12:18Z"
+      },
+      {
+        "id": "88c6cafa7c98224c2e1c",
+        "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
+        "summary": "印度尼西亚喀拉喀托火山喷发，雅加达机场航班大量取消。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-05T19:46:00Z"
+      },
+      {
+        "id": "415b69760fa81ca2ca09",
+        "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
+        "summary": "泽连斯基顾问警告，俄乌战争持续或导致相互毁灭，无人获胜。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+        "publishedAt": "2026-09-05T20:00:55Z"
+      },
+      {
+        "id": "1afc914a673965a34b95",
+        "title": "Manhunt after alleged axe attack in Victoria leaves three people with serious injuries",
+        "summary": "澳大利亚维多利亚州发生斧头袭击事件，三人重伤，警方搜捕。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
+        "publishedAt": "2026-09-05T16:22:11Z"
+      },
+      {
+        "id": "f07dd6c49ca03909a57b",
+        "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+        "summary": "尼泊尔泥石流中一名64岁女性被埋超10天后奇迹生还。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-05T17:54:29Z"
+      },
       {
         "id": "0421f218392610c89f6e",
         "title": "US envoys meet with Putin, leave Russia for Kyiv",
-        "summary": "美特使与普京会晤后离开俄罗斯前往基辅，推动结束俄乌冲突的谈判。",
+        "summary": "美国特使与普京会谈后离开俄罗斯前往基辅，继续推动谈判。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-05T14:45:00Z"
-      },
-      {
-        "id": "d3e5e48a20001cd1f38f",
-        "title": "German company successfully launches rocket to space",
-        "summary": "德国伊萨尔宇航公司成功将火箭送入轨道，成为欧洲本土首次商业轨道发射。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T14:26:00Z"
-      },
-      {
-        "id": "5f85c8f9b0dac061f4e5",
-        "title": "Fuel tanker blast in western Iran kills at least 10",
-        "summary": "伊朗西部油罐车爆炸造成至少10人死亡，事故原因正在调查。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-        "publishedAt": "2026-09-05T15:07:48Z"
-      },
-      {
-        "id": "c358237515c6ae44b395",
-        "title": "US says it hit three Iranian oil tankers after attacks on warships",
-        "summary": "美军打击三艘伊朗油轮，回应此前美舰在霍尔木兹海峡遇袭事件。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-        "publishedAt": "2026-09-05T07:49:44Z"
-      },
-      {
-        "id": "a00ab548c273eb764c78",
-        "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
-        "summary": "尼泊尔洪水救援发现两名幸存者，包括一名中国工人，救援行动持续。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
-        "publishedAt": "2026-09-05T03:26:30Z"
-      },
-      {
-        "id": "8ed5488b62514513b3b4",
-        "title": "Why is Argentina reigniting the Falklands dispute?",
-        "summary": "阿根廷总统米莱再次就马岛主权提出强硬表态，与英国纠纷再起。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
-        "publishedAt": "2026-09-05T12:14:55Z"
-      },
-      {
-        "id": "f78b77849b83cf269cee",
-        "title": "Croatia: Toxic waste protest draws tens of thousands",
-        "summary": "克罗地亚数万人抗议政府未能清理有毒废物，要求20天内出台清理方案。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T09:32:00Z"
-      },
-      {
-        "id": "ffb61fd8fad9bb442b3a",
-        "title": "Australia news live: Taylor proposes laws against flag burning and to lock in 26 January as Australia Day",
-        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podc",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
-        "publishedAt": "2026-09-05T15:40:18Z"
       }
     ]
   }
