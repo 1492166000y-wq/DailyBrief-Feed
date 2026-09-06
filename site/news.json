@@ -1,58 +1,34 @@
 {
   "version": 1,
   "date": "2026-09-07",
-  "generatedAt": "2026-09-06T18:16:40Z",
+  "generatedAt": "2026-09-06T20:26:58Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦财政部注资银行保险、特别国债发行、西藏泥石流灾害、美伊冲突对航运影响等；民生话题涉及零食品牌监管、小区禁电车、葫芦娃爷爷等。",
+    "overview": "今日国内要闻聚焦财政部注资银行险企、西藏泥石流灾害、中国女篮世界杯出线、江西公安厅高官被查、七部门发布数字化绿色化方案、中东局势影响国际航运等。",
     "items": [
       {
         "id": "a21d54227842940d34ec",
         "title": "财政部大手笔注资银行、险企，总量达数千亿！",
-        "summary": "财政部大手笔注资银行、险企，总量达数千亿，引发市场关注。",
+        "summary": "财政部大手笔注资银行、险企，总量达数千亿，以补充资本、增强金融服务实体经济能力。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781176",
-        "publishedAt": "2026-09-06T18:16:40Z"
-      },
-      {
-        "id": "0502027ac8aaef8f3e19",
-        "title": "财政部将发行3000亿特别国债",
-        "summary": "财政部将发行3000亿特别国债，进一步支持经济与金融稳定。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682381951588941866/",
-        "publishedAt": "2026-09-06T18:16:40Z"
-      },
-      {
-        "id": "9047e50ea68c4890fa1e",
-        "title": "工行、农行拟分别募资不超过1000亿元、1600亿元用于补充资本",
-        "summary": "工行、农行拟分别募资不超过1000亿元、1600亿元补充资本。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2475133",
-        "publishedAt": "2026-09-06T18:16:40Z"
-      },
-      {
-        "id": "0c5b89ec093a9911839e",
-        "title": "财政部将向中国太平注资70亿",
-        "summary": "财政部将向中国太平注资70亿，增强其资本实力。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682330411086660106/",
-        "publishedAt": "2026-09-06T18:16:40Z"
-      },
-      {
-        "id": "e7c0eddc7452e220a423",
-        "title": "财政部将向中国人寿注资350亿",
-        "summary": "财政部将向中国人寿注资350亿，提升稳健经营能力。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681940225756548651/",
-        "publishedAt": "2026-09-06T18:16:40Z"
+        "publishedAt": "2026-09-06T20:26:58Z"
       },
       {
         "id": "b4078f41e4d9cc5b8e16",
         "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
-        "summary": "西藏吉隆“8·26”泥石流灾害已致43人遇难、519人失联。",
+        "summary": "西藏吉隆8·26泥石流灾害已致43人遇难、519人失联，救援工作持续进行。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
-        "publishedAt": "2026-09-06T18:16:40Z"
+        "publishedAt": "2026-09-06T20:26:58Z"
+      },
+      {
+        "id": "c5516d2699e451701c69",
+        "title": "“葫芦娃爷爷”摘了葫芦，绍兴文旅：把安宁与清净还给老人",
+        "summary": "绍兴文旅回应“葫芦娃爷爷”摘葫芦事件，呼吁将安宁与清净还给老人。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34018330",
+        "publishedAt": "2026-09-06T20:26:58Z"
       },
       {
         "id": "8d0406f6ccf90de4b7b5",
@@ -60,84 +36,108 @@
         "summary": "中东航线海运价格大幅跳涨，多国推进黄金储备本土化布局。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2475040",
-        "publishedAt": "2026-09-06T18:16:40Z"
+        "publishedAt": "2026-09-06T20:26:58Z"
       },
       {
-        "id": "b880ab03f183bc4c10c4",
-        "title": "多地严查赵一鸣等零食品牌",
-        "summary": "多地严查赵一鸣等零食品牌，食品安全监管升级。",
+        "id": "3db5db1e4722ff9c22e4",
+        "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
+        "summary": "七部门联合印发方案促进数字化绿色化协同转型，美国8月非农就业人数意外大增。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2475115",
+        "publishedAt": "2026-09-06T20:26:58Z"
+      },
+      {
+        "id": "9c9e398ea0110396f39f",
+        "title": "江西省公安厅原党委委员万秀奇被查",
+        "summary": "江西省公安厅原党委委员万秀奇涉嫌严重违纪违法被查。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682073467651227691/",
-        "publishedAt": "2026-09-06T18:16:40Z"
+        "url": "https://www.toutiao.com/trending/7682377300779732530/",
+        "publishedAt": "2026-09-06T20:26:58Z"
+      },
+      {
+        "id": "9047e50ea68c4890fa1e",
+        "title": "工行、农行拟分别募资不超过1000亿元、1600亿元用于补充资本",
+        "summary": "工行、农行拟分别募资不超1000亿、1600亿元补充资本，增强信贷投放能力。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2475133",
+        "publishedAt": "2026-09-06T20:26:58Z"
+      },
+      {
+        "id": "29952fbfeaee972820a2",
+        "title": "中国女篮力克捷克 出线占据主动",
+        "summary": "中国女篮力克捷克，小组出线占据主动，加时险胜对手。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681478781722886186/",
+        "publishedAt": "2026-09-06T20:26:58Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在美伊军事对抗与核协议、德国极右翼选举获胜、印尼火山喷发致航班取消、英特使访俄乌、欧洲制造业与能源风险。美欧媒体关注中国财政刺激计划。",
+    "overview": "国际方面关注美伊冲突升级、德国极右翼政党赢得州选举、美国特使访问基辅、印尼火山喷发导致航班中断、印度建筑倒塌等重大事件。",
     "items": [
-      {
-        "id": "f1062d454aacff95c6e2",
-        "title": "Energy secretary says US might not reach nuclear agreement with Iran",
-        "summary": "美能源部长：美伊或无法达成核协议，避免伊朗拥核存疑。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
-        "publishedAt": "2026-09-06T09:39:10Z"
-      },
       {
         "id": "bdedae9c02f15285fdc2",
         "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-        "summary": "伊朗警告将更快、更重、更痛苦地回应美方袭击。",
+        "summary": "伊朗警告若美继续袭击，将作出更快速、更沉重、更痛苦的回应。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-06T09:00:56Z"
       },
       {
-        "id": "c86264a7f4a736c69f52",
-        "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-        "summary": "美军舰遭导弹袭击后，美方打击伊朗三艘油轮，紧张升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
-        "publishedAt": "2026-09-05T07:41:22Z"
-      },
-      {
-        "id": "9a79628ac93cd969488f",
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "summary": "美特使与泽连斯基基辅会谈，此前与普京会面后表示受鼓舞。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-06T07:32:27Z"
-      },
-      {
         "id": "80ef487ab0aff16c2330",
         "title": "Far-right AfD wins key German state election but may fail to secure majority",
-        "summary": "德国极右翼AfD在州选举中获胜，可能无法组阁。",
+        "summary": "德国极右翼AfD在萨克森-安哈尔特州选举中获胜，但可能无法组建多数派政府。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-        "publishedAt": "2026-09-06T08:17:39Z"
+        "publishedAt": "2026-09-06T10:13:29Z"
+      },
+      {
+        "id": "e742b690bad850c055af",
+        "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
+        "summary": "美国特使库什纳和维特科夫首次访问基辅，与泽连斯基会谈，推动和平进程。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+        "publishedAt": "2026-09-06T10:47:59Z"
       },
       {
         "id": "9c6af78f3dd3029b718f",
         "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "summary": "印尼火山喷发致17万旅客滞留机场。",
+        "summary": "印尼喀拉喀托火山喷发，导致超17万乘客滞留，八个机场航班受影响。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-06T08:00:21Z"
       },
       {
-        "id": "fc16caaf25c7b9d71fbe",
-        "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
-        "summary": "中国拟向金融业注资540亿美元，应对增长放缓。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
-        "publishedAt": "2026-09-06T07:16:43Z"
+        "id": "71f9a460d28a36b6c74c",
+        "title": "At least five killed in New Delhi building collapse",
+        "summary": "印度新德里一栋建筑倒塌，至少5人死亡，可能有更多人被困。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
+        "publishedAt": "2026-09-06T12:05:32Z"
       },
       {
-        "id": "35c0d3e8473bef9ead5c",
-        "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
-        "summary": "欧洲金属业警告：中国“殖民”供应链或致30万岗位流失。",
+        "id": "df556343e1539e83f505",
+        "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
+        "summary": "联合国呼吁援助中国和尼泊尔洪灾，已发起5000万美元紧急呼吁，灾民超8.4万。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
+        "publishedAt": "2026-09-06T09:50:17Z"
+      },
+      {
+        "id": "7aba9f7fc8f970af9843",
+        "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
+        "summary": "乌克兰总统泽连斯基与美国特使举行实质性会谈，旨在结束俄乌战争。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
+        "publishedAt": "2026-09-06T07:32:00Z"
+      },
+      {
+        "id": "ba4f277fcb751c8b1b9f",
+        "title": "Volcanic eruption halts flights at Jakarta and seven other Indonesian airports",
+        "summary": "印度尼西亚喀拉喀托火山灰影响雅加达及七个其他机场，数百航班受阻。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
-        "publishedAt": "2026-09-06T09:00:10Z"
+        "url": "https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport",
+        "publishedAt": "2026-09-06T06:51:12Z"
       }
     ]
   }
