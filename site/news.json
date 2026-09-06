@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-06",
-  "generatedAt": "2026-09-06T15:27:11Z",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-06T18:16:40Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦财政部注资银行险企、美国伊朗冲突、西藏泥石流灾害及宏观经济政策。",
+    "overview": "国内要闻聚焦财政部注资银行保险、特别国债发行、西藏泥石流灾害、美伊冲突对航运影响等；民生话题涉及零食品牌监管、小区禁电车、葫芦娃爷爷等。",
     "items": [
       {
         "id": "a21d54227842940d34ec",
         "title": "财政部大手笔注资银行、险企，总量达数千亿！",
-        "summary": "财政部向多家银行及险企注资数千亿元，以增强金融机构资本实力。",
+        "summary": "财政部大手笔注资银行、险企，总量达数千亿，引发市场关注。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781176",
-        "publishedAt": "2026-09-06T15:27:11Z"
+        "publishedAt": "2026-09-06T18:16:40Z"
       },
       {
-        "id": "1424aa81c4c69ff7de05",
-        "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
-        "summary": "伊朗导弹袭击美航母，美军称成功规避并打击伊油轮，特朗普声称胜利。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781160",
-        "publishedAt": "2026-09-06T15:27:11Z"
-      },
-      {
-        "id": "b4078f41e4d9cc5b8e16",
-        "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
-        "summary": "西藏吉隆泥石流灾害已致43人遇难，519人失联，救援持续进行。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
-        "publishedAt": "2026-09-06T15:27:11Z"
+        "id": "0502027ac8aaef8f3e19",
+        "title": "财政部将发行3000亿特别国债",
+        "summary": "财政部将发行3000亿特别国债，进一步支持经济与金融稳定。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682381951588941866/",
+        "publishedAt": "2026-09-06T18:16:40Z"
       },
       {
         "id": "9047e50ea68c4890fa1e",
         "title": "工行、农行拟分别募资不超过1000亿元、1600亿元用于补充资本",
-        "summary": "工商银行和农业银行分别计划募资不超过1000亿元和1600亿元补充资本。",
+        "summary": "工行、农行拟分别募资不超过1000亿元、1600亿元补充资本。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2475133",
-        "publishedAt": "2026-09-06T15:27:11Z"
-      },
-      {
-        "id": "3db5db1e4722ff9c22e4",
-        "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
-        "summary": "七部门联合印发数字化绿色化协同转型方案，另有美非农数据强劲。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2475115",
-        "publishedAt": "2026-09-06T15:27:11Z"
-      },
-      {
-        "id": "c6d0743e1ef6eee65748",
-        "title": "OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的",
-        "summary": "OpenAI发布GPT-6 Astra，高盛称其或成AI牛市催化剂。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2475045",
-        "publishedAt": "2026-09-06T15:27:11Z"
+        "publishedAt": "2026-09-06T18:16:40Z"
       },
       {
         "id": "0c5b89ec093a9911839e",
         "title": "财政部将向中国太平注资70亿",
-        "summary": "财政部将向中国太平注资70亿元，支持其发展。",
+        "summary": "财政部将向中国太平注资70亿，增强其资本实力。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7682330411086660106/",
-        "publishedAt": "2026-09-06T15:27:11Z"
+        "publishedAt": "2026-09-06T18:16:40Z"
       },
       {
-        "id": "7c3c594b676214d739fe",
-        "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
-        "summary": "医院回应5岁女孩病历被标注“刁蛮”：已修正并立案调查涉事医生。",
+        "id": "e7c0eddc7452e220a423",
+        "title": "财政部将向中国人寿注资350亿",
+        "summary": "财政部将向中国人寿注资350亿，提升稳健经营能力。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7681940225756548651/",
+        "publishedAt": "2026-09-06T18:16:40Z"
+      },
+      {
+        "id": "b4078f41e4d9cc5b8e16",
+        "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
+        "summary": "西藏吉隆“8·26”泥石流灾害已致43人遇难、519人失联。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34017446",
-        "publishedAt": "2026-09-06T15:27:11Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
+        "publishedAt": "2026-09-06T18:16:40Z"
+      },
+      {
+        "id": "8d0406f6ccf90de4b7b5",
+        "title": "【早报】中东航线海运价格大幅跳涨；多国推进黄金储备本土化布局",
+        "summary": "中东航线海运价格大幅跳涨，多国推进黄金储备本土化布局。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2475040",
+        "publishedAt": "2026-09-06T18:16:40Z"
+      },
+      {
+        "id": "b880ab03f183bc4c10c4",
+        "title": "多地严查赵一鸣等零食品牌",
+        "summary": "多地严查赵一鸣等零食品牌，食品安全监管升级。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682073467651227691/",
+        "publishedAt": "2026-09-06T18:16:40Z"
       }
     ]
   },
   "global": {
-    "overview": "国际头条包括美特使访俄乌斡旋、美伊油轮互袭、德国火箭发射及印尼火山喷发。",
+    "overview": "国际焦点集中在美伊军事对抗与核协议、德国极右翼选举获胜、印尼火山喷发致航班取消、英特使访俄乌、欧洲制造业与能源风险。美欧媒体关注中国财政刺激计划。",
     "items": [
       {
-        "id": "751d5989988eaf8158db",
-        "title": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-        "summary": "美特使与普京会晤后访乌，寻求结束俄乌冲突的新方案。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war?traffic_source=rss",
-        "publishedAt": "2026-09-06T07:00:16Z"
+        "id": "f1062d454aacff95c6e2",
+        "title": "Energy secretary says US might not reach nuclear agreement with Iran",
+        "summary": "美能源部长：美伊或无法达成核协议，避免伊朗拥核存疑。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+        "publishedAt": "2026-09-06T09:39:10Z"
+      },
+      {
+        "id": "bdedae9c02f15285fdc2",
+        "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+        "summary": "伊朗警告将更快、更重、更痛苦地回应美方袭击。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-06T09:00:56Z"
       },
       {
         "id": "c86264a7f4a736c69f52",
         "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-        "summary": "美舰遭导弹攻击后，美军打击伊朗三艘油轮，局势紧张升级。",
+        "summary": "美军舰遭导弹袭击后，美方打击伊朗三艘油轮，紧张升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
         "publishedAt": "2026-09-05T07:41:22Z"
       },
       {
-        "id": "83854960103fa101e836",
-        "title": "German startup sends first commercial rocket into space from Europe",
-        "summary": "德国Isar Aerospace成功将商业火箭送入轨道，欧洲航天获突破。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
-        "publishedAt": "2026-09-06T05:21:36Z"
+        "id": "9a79628ac93cd969488f",
+        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+        "summary": "美特使与泽连斯基基辅会谈，此前与普京会面后表示受鼓舞。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-06T07:32:27Z"
       },
       {
-        "id": "aab4de838623d20ed2d6",
-        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-        "summary": "印尼喀拉喀托火山喷发，火山灰致150000名乘客滞留。",
+        "id": "80ef487ab0aff16c2330",
+        "title": "Far-right AfD wins key German state election but may fail to secure majority",
+        "summary": "德国极右翼AfD在州选举中获胜，可能无法组阁。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+        "publishedAt": "2026-09-06T08:17:39Z"
+      },
+      {
+        "id": "9c6af78f3dd3029b718f",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "summary": "印尼火山喷发致17万旅客滞留机场。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-06T01:56:39Z"
+        "publishedAt": "2026-09-06T08:00:21Z"
       },
       {
-        "id": "0459b23f977a7f7f50d0",
-        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-        "summary": "Isar Aerospace二次飞行入轨并部署载荷，创欧洲私人航天先例。",
-        "source": "Hacker News",
-        "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-        "publishedAt": "2026-09-05T23:21:06Z"
-      },
-      {
-        "id": "5f34b958ce11349e2ad7",
-        "title": "Far-right AfD predicted to win big in crucial German state election",
-        "summary": "德国萨克森-安哈尔特州选举，极右翼AfD预计将成第一大党。",
+        "id": "fc16caaf25c7b9d71fbe",
+        "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+        "summary": "中国拟向金融业注资540亿美元，应对增长放缓。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
-        "publishedAt": "2026-09-06T02:50:21Z"
+        "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+        "publishedAt": "2026-09-06T07:16:43Z"
       },
       {
-        "id": "2d35cce9de4dc784f893",
-        "title": "Iran war live: Tehran warns of ‘faster, more painful’ response to attacks",
-        "summary": "伊朗警告美国，称将对攻击做出更迅速、更痛苦的回应。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
-        "publishedAt": "2026-09-05T16:00:00Z"
-      },
-      {
-        "id": "5bd851c144d3ca1938c5",
-        "title": "China, Nepal race to find thousands still missing 12 days after floods",
-        "summary": "中国与尼泊尔洪灾失踪人数超5500，救援与寻人工作加紧进行。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods?traffic_source=rss",
-        "publishedAt": "2026-09-06T06:14:07Z"
+        "id": "35c0d3e8473bef9ead5c",
+        "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+        "summary": "欧洲金属业警告：中国“殖民”供应链或致30万岗位流失。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+        "publishedAt": "2026-09-06T09:00:10Z"
       }
     ]
   }
