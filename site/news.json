@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T04:36:19Z",
+  "generatedAt": "2026-09-06T10:53:57Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦伊朗美国军事冲突、经济数据与市场影响、国内政策与民生等热点。",
+    "overview": "财政部570亿增资三家保险公司；美伊冲突升级；西藏泥石流致重大伤亡；多部门监管新规出台。",
     "items": [
       {
-        "id": "48ec7c2284f248c2be9a",
-        "title": "伊朗革命卫队称打击了美航母和驱逐舰",
-        "summary": "伊朗革命卫队宣称打击美国航母和驱逐舰，地区紧张局势升级。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682247365662608950/",
-        "publishedAt": "2026-09-06T04:36:19Z"
-      },
-      {
-        "id": "ea2c2a42c2738607cabc",
-        "title": "ETC该不该取消？人民日报最新发声",
-        "summary": "人民日报评论ETC问题，引发公众对高速公路收费改革的关注。",
+        "id": "f58331165deab5438d9a",
+        "title": "财政部570亿增资三家保险公司",
+        "summary": "财政部570亿元增资三家保险公司，增强资本实力。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=ETC%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%8F%96%E6%B6%88%EF%BC%9F%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
-        "publishedAt": "2026-09-06T04:36:19Z"
+        "url": "https://www.baidu.com/s?wd=%E8%B4%A2%E6%94%BF%E9%83%A8570%E4%BA%BF%E5%A2%9E%E8%B5%84%E4%B8%89%E5%AE%B6%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8",
+        "publishedAt": "2026-09-06T10:53:57Z"
       },
       {
-        "id": "88e7f5980b00624e9a22",
-        "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
-        "summary": "高盛指出OpenAI的Astra模型在AI领域表现突出，或推动AI牛市发展。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781148",
-        "publishedAt": "2026-09-06T04:36:19Z"
-      },
-      {
-        "id": "8e81c7f6aa30be79c0e9",
-        "title": "马上评｜一次食品安全事故，坍塌的可能是一个地方的口碑",
-        "summary": "评论称一次食品安全事故可能严重影响地方声誉，凸显监管重要性。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34015694",
-        "publishedAt": "2026-09-06T04:36:19Z"
-      },
-      {
-        "id": "241c2ab99b3b53a9d942",
-        "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
-        "summary": "美国8月非农数据远超预期，增强美联储9月加息的市场押注。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2474737",
-        "publishedAt": "2026-09-06T04:36:19Z"
-      },
-      {
-        "id": "c0e9f373b466dbc85f6d",
-        "title": "日本急了，高市早苗亲自强烈抗议",
-        "summary": "日本首相高市早苗对某事件表示强烈抗议，日方反应急迫。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wC065RtWOI",
-        "publishedAt": "2026-09-06T04:36:19Z"
-      },
-      {
-        "id": "8f2303be7ff8adee5fe3",
-        "title": "印尼野火毒霾席卷东南亚：厄尔尼诺与泥炭地退化成双重推手",
-        "summary": "印尼野火导致东南亚烟霾严重，厄尔尼诺和泥炭地退化是主因。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34014788",
-        "publishedAt": "2026-09-06T04:36:19Z"
-      },
-      {
-        "id": "d4171c4a456468cd3710",
-        "title": "中国超大市场红利惠及全球",
-        "summary": "报道强调中国超大市场规模为全球带来红利，惠及各国企业。",
+        "id": "362ff2e04e7d7af51941",
+        "title": "西藏泥石流43人遇难519人失联",
+        "summary": "西藏泥石流已致43人遇难，519人失联，救援持续中。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7681730460632121380/",
-        "publishedAt": "2026-09-06T04:36:19Z"
+        "url": "https://www.toutiao.com/trending/7682189960509738502/",
+        "publishedAt": "2026-09-06T10:53:57Z"
+      },
+      {
+        "id": "1424aa81c4c69ff7de05",
+        "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
+        "summary": "伊朗导弹袭击美航母，美军称航母成功规避，击中伊油轮。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781160",
+        "publishedAt": "2026-09-06T10:53:57Z"
+      },
+      {
+        "id": "ae33136119f6e44b7516",
+        "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
+        "summary": "美股存储概念股逆势上涨，油价上升金价下跌，私募监管新规出台。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2474846",
+        "publishedAt": "2026-09-06T10:53:57Z"
+      },
+      {
+        "id": "1eb54f0f348ee7e1986f",
+        "title": "工行农行拟分别募资1000亿和1600亿",
+        "summary": "工行、农行拟分别募资1000亿和1600亿元补充资本。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E5%86%9C%E8%A1%8C%E6%8B%9F%E5%88%86%E5%88%AB%E5%8B%9F%E8%B5%841000%E4%BA%BF%E5%92%8C1600%E4%BA%BF",
+        "publishedAt": "2026-09-06T10:53:57Z"
+      },
+      {
+        "id": "3db5db1e4722ff9c22e4",
+        "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
+        "summary": "七部门联合发文推动数字化绿色化协同转型；美国8月非农数据超预期。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2475115",
+        "publishedAt": "2026-09-06T10:53:57Z"
+      },
+      {
+        "id": "7ea1ca2ba98dfa16b2c5",
+        "title": "多地严查赵一鸣、好想来等",
+        "summary": "多地严查赵一鸣、好想来等品牌，或涉食品安全问题。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E3%80%81%E5%A5%BD%E6%83%B3%E6%9D%A5%E7%AD%89",
+        "publishedAt": "2026-09-06T10:53:57Z"
+      },
+      {
+        "id": "0c5b89ec093a9911839e",
+        "title": "财政部将向中国太平注资70亿",
+        "summary": "财政部将向中国太平注资70亿",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682330411086660106/",
+        "publishedAt": "2026-09-06T10:53:57Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻涵盖美国与伊朗冲突、俄乌和谈、德国及欧洲政治、技术动态等。",
+    "overview": "美伊互袭油轮，局势紧张；普京与美特使会谈后赴基辅；印尼火山喷发致航班取消；德国极右翼政党在州选举中领先。",
     "items": [
+      {
+        "id": "4cc6af7e3400d64d43dd",
+        "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+        "summary": "美特使与普京会晤，讨论乌克兰和平方案。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+        "publishedAt": "2026-09-05T13:23:06Z"
+      },
       {
         "id": "c86264a7f4a736c69f52",
         "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-        "summary": "美军称打击三艘伊朗油轮，此前美舰遭导弹袭击，紧张升级。",
+        "summary": "美军打击三艘伊朗油轮，此前美舰遭导弹袭击，紧张升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
         "publishedAt": "2026-09-05T07:41:22Z"
       },
       {
-        "id": "a22f1d20bd2d68d3b568",
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "summary": "美国特使访问乌克兰前与普京会晤，寻求解决俄乌冲突方案。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-05T18:24:16Z"
-      },
-      {
-        "id": "c7f35a9f24c846d84045",
-        "title": "German voters head to polls as far-right AfD party eyes historic state win",
-        "summary": "德国萨克森-安哈尔特州选举，极右翼AfD有望创历史性胜利。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
-        "publishedAt": "2026-09-05T20:12:18Z"
-      },
-      {
         "id": "88c6cafa7c98224c2e1c",
         "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
-        "summary": "印度尼西亚喀拉喀托火山喷发，雅加达机场航班大量取消。",
+        "summary": "印尼喀拉喀托火山喷发，大量航班取消，旅客滞留。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T19:46:00Z"
+        "publishedAt": "2026-09-05T23:33:00Z"
       },
       {
-        "id": "415b69760fa81ca2ca09",
-        "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
-        "summary": "泽连斯基顾问警告，俄乌战争持续或导致相互毁灭，无人获胜。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
-        "publishedAt": "2026-09-05T20:00:55Z"
-      },
-      {
-        "id": "1afc914a673965a34b95",
-        "title": "Manhunt after alleged axe attack in Victoria leaves three people with serious injuries",
-        "summary": "澳大利亚维多利亚州发生斧头袭击事件，三人重伤，警方搜捕。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
-        "publishedAt": "2026-09-05T16:22:11Z"
-      },
-      {
-        "id": "f07dd6c49ca03909a57b",
-        "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-        "summary": "尼泊尔泥石流中一名64岁女性被埋超10天后奇迹生还。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-05T17:54:29Z"
-      },
-      {
-        "id": "0421f218392610c89f6e",
-        "title": "US envoys meet with Putin, leave Russia for Kyiv",
-        "summary": "美国特使与普京会谈后离开俄罗斯前往基辅，继续推动谈判。",
+        "id": "68095eb4277839292708",
+        "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+        "summary": "德国萨克森-安哈尔特州选举，极右翼AfD预计胜选。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-05T14:45:00Z"
+        "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-05T23:23:00Z"
+      },
+      {
+        "id": "9e44b486e94e076d55c8",
+        "title": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
+        "summary": "澳航客机起飞后引擎起火，紧急改航降落。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
+        "publishedAt": "2026-09-05T23:32:58Z"
+      },
+      {
+        "id": "2d35cce9de4dc784f893",
+        "title": "Iran war live: Tehran warns of ‘faster, more painful’ response to attacks",
+        "summary": "伊朗警告将更快速、更痛苦回应美国攻击。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+        "publishedAt": "2026-09-05T16:00:00Z"
+      },
+      {
+        "id": "88ec599ad8ebd5dfb9d9",
+        "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+        "summary": "特朗普可能支持米莱对马岛主权的主张，引发英方担忧。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+        "publishedAt": "2026-09-05T14:19:40Z"
+      },
+      {
+        "id": "69c5c400d5786a039142",
+        "title": "Private German rocket makes history, reaches orbit from European soil",
+        "summary": "德国私企Isar Aerospace成功入轨，欧洲航天取得历史性突破。",
+        "source": "Hacker News",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "publishedAt": "2026-09-05T12:31:38Z"
       }
     ]
   }
