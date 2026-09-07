@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-08",
-  "generatedAt": "2026-09-07T18:43:42Z",
+  "generatedAt": "2026-09-07T22:49:48Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，小米发布新SUV及折叠屏手机，华为推出新款折叠屏；武汉长江倾倒固体物已调查；证监会原副主席王建军一审获刑；AI领域OpenAI、英伟达动态引发关注；伊朗在美军舰上空试验武器及霍尔木兹海峡言论加剧中东紧张。",
+    "overview": "今日国内焦点包括英国要求民众存粮存水、郑钦文美网逆转晋级、武汉长江排污调查、险资调研动态、伊朗美军对抗升级、AI技术发展等。",
     "items": [
       {
-        "id": "777fa9edcf06a94672d0",
-        "title": "小米推出首款\"中折叠\"旗舰手机，10999元起售，同步披露造芯210亿投入",
-        "summary": "小米发布首款中折叠旗舰手机，售价10999元起，并披露造芯投入210亿元。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781238",
-        "publishedAt": "2026-09-07T18:43:42Z"
+        "id": "535fec023f21735431d4",
+        "title": "英国政府要求民众提前存粮存水",
+        "summary": "英国政府建议民众提前储备食物和水，以应对潜在危机。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682556605699326015/",
+        "publishedAt": "2026-09-07T22:49:48Z"
       },
       {
-        "id": "a18f6bd64dad0b32fd68",
-        "title": "权威解读：3600亿重磅注资，超出市场预期",
-        "summary": "权威解读3600亿重磅注资超出市场预期，引发关注。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781189",
-        "publishedAt": "2026-09-07T18:43:42Z"
-      },
-      {
-        "id": "7e1f1f7f1283ccbf7fdf",
-        "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
-        "summary": "OpenAI首席科学家称已造出异星心智，呼吁全人类刹车。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781186",
-        "publishedAt": "2026-09-07T18:43:42Z"
-      },
-      {
-        "id": "c2037ffb5d0b4f24e90a",
-        "title": "中国证监会原副主席王建军一审被判无期",
-        "summary": "中国证监会原副主席王建军一审被判无期徒刑。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2475982",
-        "publishedAt": "2026-09-07T18:43:42Z"
+        "id": "3153ae519c66aa930848",
+        "title": "郑钦文2比0斯瓦泰克晋级八强",
+        "summary": "郑钦文在美网2比0击败斯瓦泰克，晋级八强，引发关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%940%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
+        "publishedAt": "2026-09-07T22:49:48Z"
       },
       {
         "id": "6ccdb4a30d22d9f03315",
         "title": "驳船往长江倾倒黑色固体“十秒清空一艘船”？武汉市生态环境局：已赴现场调查",
-        "summary": "武汉长江遭驳船倾倒黑色固体，生态环境局已赴现场调查。",
+        "summary": "武汉一码头被曝向长江倾倒黑色固体，生态环境局已赴现场调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34022495",
-        "publishedAt": "2026-09-07T18:43:42Z"
+        "publishedAt": "2026-09-07T22:49:48Z"
       },
       {
-        "id": "aae33052e4efe8ac34a5",
-        "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
-        "summary": "黄仁勋称AGI已到来，OpenAI Astra背后是英伟达，40万张GPU即将上线。",
+        "id": "a9ec4496996a20687b5e",
+        "title": "险资调研火力全开！密集“打卡”中微、立讯精密 机构人士：重新审视红利赛道投资机会 关注方向更均衡",
+        "summary": "险资密集调研中微、立讯等，机构重新审视红利赛道，关注均衡配置。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2476202",
+        "publishedAt": "2026-09-07T22:49:48Z"
+      },
+      {
+        "id": "966ef215d499fa2576bd",
+        "title": "伊朗首次在美军舰上空试验特殊武器，爆炸场面如地狱",
+        "summary": "伊朗首次在美军舰附近试验特殊武器，爆炸场面剧烈，局势紧张。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8wE8g6ewZxS",
+        "publishedAt": "2026-09-07T22:49:48Z"
+      },
+      {
+        "id": "7e1f1f7f1283ccbf7fdf",
+        "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
+        "summary": "OpenAI首席科学家称已造出异星心智，呼吁全人类重视AI安全。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781214",
-        "publishedAt": "2026-09-07T18:43:42Z"
+        "url": "https://wallstreetcn.com/articles/3781186",
+        "publishedAt": "2026-09-07T22:49:48Z"
       },
       {
-        "id": "cb4294554a07d2c44237",
-        "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”",
-        "summary": "伊朗称几天内宣布霍尔木兹海峡禁区，议长称美方应改变游戏规则。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781187",
-        "publishedAt": "2026-09-07T18:43:42Z"
+        "id": "35cf37bb9e1783f53d44",
+        "title": "中金1+2获证监会批文，下周二起停牌，背后是七家机构",
+        "summary": "中金与1+2合并获证监会批文，涉及七家机构，下周二起停牌。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2476304",
+        "publishedAt": "2026-09-07T22:49:48Z"
       },
       {
-        "id": "f9a3f3988956b83d0858",
-        "title": "雷军发布小米迄今最贵手机",
-        "summary": "雷军发布小米迄今最贵手机，引发市场关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%BF%84%E4%BB%8A%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA",
-        "publishedAt": "2026-09-07T18:43:42Z"
+        "id": "02b0d3cb26802a377654",
+        "title": "郭德纲歪曲篡改抗战歌曲，武汉文旅局发布处理通报",
+        "summary": "郭德纲因歪曲篡改抗战歌曲被武汉文旅局通报处理。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34024493",
+        "publishedAt": "2026-09-07T22:49:48Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，德国极右翼AfD在州选举获胜，震动政坛；伊朗威胁设霍尔木兹海峡禁区；迈阿密机场货机坠毁致5死；英国朴茨茅斯反移民抗议遭谴责；塞尔维亚为战犯姆拉迪奇举行葬礼引争议。",
+    "overview": "国际方面，美伊冲突推升油价、德国AfD选举获胜引发震动、印尼火山喷发致数十万滞留、英国反移民骚乱、法国葡萄酒减产等事件备受关注。",
     "items": [
       {
-        "id": "82840c526fc61306b9d0",
-        "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
-        "summary": "德国极右翼AfD在萨克森-安哈尔特州选举获胜，总理称动摇全国。",
+        "id": "9acb731c5a8e52271dc3",
+        "title": "German chancellor vows to stay in office despite AfD triumph in state election",
+        "summary": "德国总理朔尔茨承诺留任，但AfD州选举胜利震动全国。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
-        "publishedAt": "2026-09-07T07:30:44Z"
-      },
-      {
-        "id": "2912fb8dca783b6cccdc",
-        "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
-        "summary": "伊朗拟在霍尔木兹海峡设立禁区，引发国际关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
-        "publishedAt": "2026-09-07T03:37:46Z"
+        "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
+        "publishedAt": "2026-09-07T09:48:37Z"
       },
       {
         "id": "04c2afc1aad29694ac60",
         "title": "Investigators begin work on why cargo plane overran Miami runway",
-        "summary": "迈阿密机场货机冲出跑道致5死，调查已展开。",
+        "summary": "迈阿密机场货机冲出跑道致5死，调查人员已展开原因调查。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-07T09:46:25Z"
       },
       {
-        "id": "d589c798a6419d25e989",
-        "title": "No 10 condemns ‘thuggish’ far-right activists after Portsmouth unrest",
-        "summary": "英国首相府谴责朴茨茅斯反移民抗议中的粗暴行为。",
+        "id": "c8984d7d9961ac5edfe1",
+        "title": "Israeli strikes in southern Lebanese village kill 12",
+        "summary": "以色列空袭黎巴嫩南部村庄致12人死亡，危及停火协议。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-07T05:39:23Z"
+      },
+      {
+        "id": "84935dc392fd4f02a128",
+        "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+        "summary": "印尼喀拉喀托火山喷发，约34万人滞留，机场关闭延长。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-07T07:40:47Z"
+      },
+      {
+        "id": "a0cda67d87e19122d3dc",
+        "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
+        "summary": "英国警务大臣谴责朴茨茅斯反移民抗议中的暴力行为。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/07/ministers-condemn-far-right-activists-portsmouth-asylum-seekers",
-        "publishedAt": "2026-09-07T07:34:00Z"
+        "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+        "publishedAt": "2026-09-07T10:49:04Z"
       },
       {
-        "id": "f4f0c84937769d9ed63f",
-        "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-        "summary": "被判犯有战争罪的姆拉迪奇在塞尔维亚获英雄式葬礼，数千人参加。",
+        "id": "ff647ccb0e1fbfc5bb7f",
+        "title": "Russia shutters German consulate as diplomatic freeze deepens",
+        "summary": "俄罗斯关闭德国驻圣彼得堡领事馆，外交冷冻加剧。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
-        "publishedAt": "2026-09-07T07:34:12Z"
+        "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
+        "publishedAt": "2026-09-07T10:27:39Z"
       },
       {
-        "id": "8b8ac6a48abfbef4f21e",
-        "title": "UK house prices fall for first time since 2023, led by London and south-east",
-        "summary": "英国房价自2023年以来首次下跌，伦敦和东南部领跌。",
+        "id": "0e993396b81c8ebc1844",
+        "title": "French winemakers forecast 30-year low harvest after severe drought and heat",
+        "summary": "法国酒庄因干旱高温预计产量创30年新低，葡萄酒业受创。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/money/2026/sep/07/uk-house-prices-fall-august-interest-rates-lloyds",
-        "publishedAt": "2026-09-07T03:20:36Z"
+        "url": "https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat",
+        "publishedAt": "2026-09-07T07:10:51Z"
       },
       {
-        "id": "c3f1f83ac41ffa485008",
-        "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
-        "summary": "德国AfD州选举获胜后，其他欧洲国家面临民族主义浪潮冲击。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-07T08:14:00Z"
-      },
-      {
-        "id": "358781f2725c116ec9ca",
-        "title": "Israel’s plan to split the West Bank",
-        "summary": "Israel's E1 plan risks splitting the West Bank in two.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss",
-        "publishedAt": "2026-09-07T10:11:31Z"
+        "id": "f7c5f33ccb92958d28b1",
+        "title": "Australia politics live: Joyce says One Nation ‘shouldn’t have to model’ super plan; Chaney condemns Labor ‘park barrelling’ allegations",
+        "summary": "Follow the day’s news liveOne Nation policy will leave people $25k worse off at ",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+        "publishedAt": "2026-09-07T14:44:45Z"
       }
     ]
   }
