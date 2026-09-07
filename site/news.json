@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-07",
-  "generatedAt": "2026-09-06T23:52:28Z",
+  "generatedAt": "2026-09-07T04:37:23Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "重点关注国内财政金融政策、经济产业动态和重大灾情，兼顾时政与科技。",
+    "overview": "国内方面重点关注财政部注资银行险企、霍尔木兹海峡局势及芯片液冷产业动态。",
     "items": [
       {
         "id": "a21d54227842940d34ec",
         "title": "财政部大手笔注资银行、险企，总量达数千亿！",
-        "summary": "财政部大手笔注资银行、险企，总量达数千亿，旨在增强金融机构资本实力。",
+        "summary": "财政部向多家银行及险企注资数千亿元，规模超出市场预期。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781176",
-        "publishedAt": "2026-09-06T23:52:28Z"
+        "publishedAt": "2026-09-07T04:37:23Z"
       },
       {
-        "id": "9047e50ea68c4890fa1e",
-        "title": "工行、农行拟分别募资不超过1000亿元、1600亿元用于补充资本",
-        "summary": "工行、农行拟分别募资不超过1000亿、1600亿元补充资本，提升服务实体经济能力。",
+        "id": "cf44e52ff8e69286d062",
+        "title": "【早报】共增资3600亿元，8家中央金融企业将补充资本；伊朗：将宣布霍尔木兹海峡“禁区”；原油开盘拉升",
+        "summary": "8家中央金融企业共获3600亿元注资；伊朗拟宣布霍尔木兹海峡禁区，原油开盘拉升。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2475133",
-        "publishedAt": "2026-09-06T23:52:28Z"
-      },
-      {
-        "id": "3a099164694eb82f08f2",
-        "title": "订单排到年底、产线两班倒 芯片“太热”液冷迈入“必选”时代",
-        "summary": "芯片产业高温催热液冷需求，订单排至年底，液冷迈入“必选”时代。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2475207",
-        "publishedAt": "2026-09-06T23:52:28Z"
-      },
-      {
-        "id": "b4078f41e4d9cc5b8e16",
-        "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
-        "summary": "西藏吉隆泥石流灾害已致43人遇难、519人失联，救援持续进行。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
-        "publishedAt": "2026-09-06T23:52:28Z"
+        "url": "https://www.cls.cn/detail/2475286",
+        "publishedAt": "2026-09-07T04:37:23Z"
       },
       {
         "id": "75379cf7380f49e1584c",
         "title": "西藏日喀则：将深入研究口岸功能恢复等事宜",
-        "summary": "西藏日喀则将深入研究口岸功能恢复等事宜，促进边境地区发展。",
+        "summary": "西藏日喀则将深入研究口岸功能恢复等事宜。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34020471",
-        "publishedAt": "2026-09-06T23:52:28Z"
+        "publishedAt": "2026-09-07T04:37:23Z"
       },
       {
-        "id": "cccf5ab5eae255380238",
-        "title": "人民日报刊文：“逢陆必黑”早已沦为笑柄",
-        "summary": "人民日报刊文：“逢陆必黑”早已沦为笑柄，批驳不实言论。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018575",
-        "publishedAt": "2026-09-06T23:52:28Z"
-      },
-      {
-        "id": "9d86f15392cfa39012d2",
-        "title": "全球AI交易过于拥挤，海外资金悄然转向中国股市",
-        "summary": "全球AI交易拥挤，海外资金悄然转向中国股市，关注配置价值。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781181",
-        "publishedAt": "2026-09-06T23:52:28Z"
-      },
-      {
-        "id": "3db5db1e4722ff9c22e4",
-        "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
-        "summary": "七部门联合印发方案，促进数字化绿色化协同转型；美国非农超预期。",
+        "id": "3a099164694eb82f08f2",
+        "title": "订单排到年底、产线两班倒 芯片“太热”液冷迈入“必选”时代",
+        "summary": "芯片需求火热带动液冷进入“必选”时代，相关订单排至年底。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2475115",
-        "publishedAt": "2026-09-06T23:52:28Z"
+        "url": "https://www.cls.cn/detail/2475207",
+        "publishedAt": "2026-09-07T04:37:23Z"
+      },
+      {
+        "id": "a5638b14659a84d4f370",
+        "title": "伊朗：已设立“经济战指挥中心”",
+        "summary": "伊朗宣布设立“经济战指挥中心”以应对当前局势。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wCeirfU3HW",
+        "publishedAt": "2026-09-07T04:37:23Z"
+      },
+      {
+        "id": "b4078f41e4d9cc5b8e16",
+        "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
+        "summary": "西藏吉隆8·26泥石流已致43人遇难、519人失联。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
+        "publishedAt": "2026-09-07T04:37:23Z"
+      },
+      {
+        "id": "20b6c818455832cbece7",
+        "title": "国寿、太平、人保合计获570亿资本补给 注资+定增双路径 业内：增厚险企资本金 资本市场迎更多“耐心资本”",
+        "summary": "国寿、太平、人保获570亿资本补充，险企资本金将增厚。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2475212",
+        "publishedAt": "2026-09-07T04:37:23Z"
+      },
+      {
+        "id": "7e1f1f7f1283ccbf7fdf",
+        "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
+        "summary": "OpenAI首席科学家称已造出异星心智，呼吁全人类关注AI风险。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781186",
+        "publishedAt": "2026-09-07T04:37:23Z"
       }
     ]
   },
   "global": {
-    "overview": "聚焦国际冲突、政治选举及重大突发事件，关注经济影响和安全局势。",
+    "overview": "国际方面重点关注德国选择党胜选、美伊冲突升级及亚马逊货机坠毁事故。",
     "items": [
       {
-        "id": "9c6af78f3dd3029b718f",
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "summary": "印尼喀拉喀托火山持续喷发，致超17万乘客滞留，多机场航班受阻。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-06T08:00:21Z"
-      },
-      {
-        "id": "e742b690bad850c055af",
-        "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
-        "summary": "美特使首次访问基辅，与泽连斯基会谈，旨在推动和平进程。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-        "publishedAt": "2026-09-06T10:47:59Z"
-      },
-      {
-        "id": "dc141f944fa96404f2e1",
-        "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
-        "summary": "亚马逊货机迈阿密机场坠毁，至少5人遇难，两机场运营受影响。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
-        "publishedAt": "2026-09-06T13:49:27Z"
-      },
-      {
-        "id": "80ef487ab0aff16c2330",
-        "title": "Far-right AfD wins key German state election but may fail to secure majority",
-        "summary": "德国极右翼AfD在萨克森-安哈尔特州选举中获胜，但可能无法单独组阁。",
+        "id": "a8cec5c23bd1324180fb",
+        "title": "Far-right AfD wins key German state election but falls just short of majority",
+        "summary": "德国极右翼选择党在萨克森-安哈尔特州选举中获胜，但未获绝对多数。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-        "publishedAt": "2026-09-06T10:13:29Z"
+        "publishedAt": "2026-09-06T18:42:09Z"
       },
       {
-        "id": "dc32f761ce5471045f7e",
-        "title": "Iran touts military response as US maintains blockade, hits tankers",
-        "summary": "伊朗称美军打击伊油轮，伊方表示将进行更快速、沉重的回应。",
+        "id": "13933a0c7433c3d7da26",
+        "title": "Iran to announce restricted zone outside Strait of Hormuz",
+        "summary": "伊朗宣布将在霍尔木兹海峡设立禁区，局势持续紧张。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-        "publishedAt": "2026-09-06T08:17:06Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+        "publishedAt": "2026-09-06T18:41:56Z"
       },
       {
-        "id": "9de8bde6e48533b34768",
-        "title": "Assailant lunged at Democratic candidate for Ohio governor, campaign says",
-        "summary": "美俄亥俄州州长候选人遇袭，多人受伤，嫌疑人已被捕。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack",
-        "publishedAt": "2026-09-06T14:40:55Z"
+        "id": "c2724fd0d53494099b59",
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "summary": "亚马逊货机迈阿密机场降落时冲出跑道起火，致5人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-06T16:57:38Z"
+      },
+      {
+        "id": "41d53a509c608a2c3f3c",
+        "title": "China to pump $54bn into state banks and insurers to boost economy",
+        "summary": "中国将向国有银行和保险公司注资540亿美元以提振经济。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-06T18:26:12Z"
+      },
+      {
+        "id": "180e8765632731c34471",
+        "title": "Von der Leyen in Greenland with EU investments amid Trump pressure",
+        "summary": "欧盟委员会主席访问格陵兰，拟加大投资应对美国压力。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/von-der-leyen-in-greenland-with-eu-investments-amid-trump-pressure/a-79109197?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-06T19:58:00Z"
       },
       {
         "id": "b098dcf17339b12a3786",
         "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands",
-        "summary": "夏威夷宣布紧急状态，飓风洛厄尔临近，预计周一产生影响。",
+        "summary": "夏威夷宣布紧急状态，以应对飓风洛厄尔逼近。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
         "publishedAt": "2026-09-06T11:12:36Z"
       },
       {
-        "id": "97c291f544760811c1a6",
-        "title": "Several killed in Amazon cargo plane crash in Miami",
-        "summary": "At least five people have died after a cargo plane crashed at Miami Internationa",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-06T15:19:00Z"
+        "id": "dc32f761ce5471045f7e",
+        "title": "Iran touts military response as US maintains blockade, hits tankers",
+        "summary": "美国封锁并打击伊朗油轮，伊朗表示将快速回击。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+        "publishedAt": "2026-09-06T08:17:06Z"
+      },
+      {
+        "id": "00562221d99f568be00c",
+        "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+        "summary": "朝鲜部署新战舰，金正恩称将增强核威慑能力。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
+        "publishedAt": "2026-09-06T16:20:04Z"
       }
     ]
   }
