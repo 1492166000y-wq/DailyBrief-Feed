@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-08T11:16:05Z",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-08T16:37:03Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内今日聚焦反腐、中美科技竞争、出口增长、AI产业等热点，其中反腐案件与华为突破引关注，油价受国际局势影响上涨。",
+    "overview": "国内要闻聚焦时政、宏观经济与科技，涵盖高层动态、国际制裁、能源市场波动及民生政策等热点。",
     "items": [
       {
-        "id": "424840e06fbaf4136b17",
-        "title": "应急管理部原部长王祥喜被双开",
-        "summary": "应急管理部原部长王祥喜严重违纪违法被开除党籍和公职。",
+        "id": "94ee53af90545c704fd7",
+        "title": "习近平同英国首相伯纳姆通电话",
+        "summary": "习近平应约同英国首相伯纳姆通电话，讨论双边关系及共同关心的国际和地区问题。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2477359",
+        "publishedAt": "2026-09-08T16:37:03Z"
+      },
+      {
+        "id": "e1b0ce62086dd9f0cb20",
+        "title": "李强主持国务院第二十一次专题学习",
+        "summary": "李强主持国务院专题学习，强调落实政策部署，推动经济高质量发展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2477346",
+        "publishedAt": "2026-09-08T16:37:03Z"
+      },
+      {
+        "id": "0e9bcc2ad18f5045a33d",
+        "title": "我国进出口连续4个月保持两位数增长",
+        "summary": "我国进出口连续4个月保持两位数增长，外贸韧性显现，稳增长措施见效。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7683086848729874495/",
-        "publishedAt": "2026-09-08T11:16:05Z"
+        "url": "https://www.toutiao.com/trending/7682369162227944979/",
+        "publishedAt": "2026-09-08T16:37:03Z"
       },
       {
-        "id": "9d0dfb4f89a445f6d2ea",
-        "title": "受贿1.48亿余元 金湘军一审被判死缓",
-        "summary": "山西原省长金湘军受贿1.48亿余元，一审被判死刑缓期执行。",
+        "id": "68b0df232c9053760746",
+        "title": "法国、英国、加拿大、西班牙等12国发表联合声明",
+        "summary": "法国、英国等12国发表联合声明，支持制裁以色列非法定居点，英国关闭以领事馆回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wGALHIoVlF",
+        "publishedAt": "2026-09-08T16:37:03Z"
+      },
+      {
+        "id": "bfc7c795448b6dd51859",
+        "title": "上海：10月1日起生娃个人“不花钱”",
+        "summary": "上海自10月1日起实施生育个人不花钱政策，减轻育儿负担，构建生育友好型社会。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF1.48%E4%BA%BF%E4%BD%99%E5%85%83+%E9%87%91%E6%B9%98%E5%86%9B%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93",
-        "publishedAt": "2026-09-08T11:16:05Z"
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D",
+        "publishedAt": "2026-09-08T16:37:03Z"
       },
       {
-        "id": "d4e4ce8ff34eaadf3184",
-        "title": "苹果用户换华为",
-        "summary": "iPhone 16发布后热度未达预期，不少用户转投华为，引发市场对苹果创新乏力的讨论。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E6%8D%A2%E5%8D%8E%E4%B8%BA",
-        "publishedAt": "2026-09-08T11:16:05Z"
-      },
-      {
-        "id": "658bb26b5d782c22c4c9",
-        "title": "科技、资源双线发力！8月集成电路出口同比翻倍，稀土成品油环比猛增",
-        "summary": "8月集成电路出口同比翻倍，稀土等资源品出口环比猛增，科技与资源双线发力。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2476761",
-        "publishedAt": "2026-09-08T11:16:05Z"
-      },
-      {
-        "id": "8038b2d8256f3a369859",
-        "title": "海关总署：8月份我国出口、进口分别增长18.6%、21.7% 连续4个月同时保持两位数增长",
-        "summary": "海关总署数据：8月出口增长18.6%，进口增长21.7%，连续四个月两位数增长。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2476486",
-        "publishedAt": "2026-09-08T11:16:05Z"
-      },
-      {
-        "id": "6920e2791f2cfcce1277",
-        "title": "脱离遥控器，人形机器人全自主格斗！宇树科技又公布新进展",
-        "summary": "宇树科技公布人形机器人全自主格斗新进展，摆脱遥控器实现智能控制。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34025165",
-        "publishedAt": "2026-09-08T11:16:05Z"
-      },
-      {
-        "id": "777fa9edcf06a94672d0",
-        "title": "小米推出首款\"中折叠\"旗舰手机，10999元起售，同步披露造芯210亿投入",
-        "summary": "小米发布首款中折叠旗舰手机，10999元起售，并披露造芯投入210亿元。",
+        "id": "db44d3b23849c3f8ff60",
+        "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
+        "summary": "美股休市，美伊冲突推升油价至六周新高，欧股涨跌互现等待CPI，伦铜创历史新高。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781238",
-        "publishedAt": "2026-09-08T11:16:05Z"
+        "url": "https://wallstreetcn.com/articles/3781194",
+        "publishedAt": "2026-09-08T16:37:03Z"
+      },
+      {
+        "id": "373190eb66e6376bb43b",
+        "title": "8月汽车销量前十已无燃油车",
+        "summary": "8月汽车销量前十已无燃油车，新能源汽车市场份额持续扩大，传统车企加速转型。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682813189238702118/",
+        "publishedAt": "2026-09-08T16:37:03Z"
       },
       {
         "id": "ff717e6876812b008c2d",
         "title": "智己启动“无方向盘”车辆测试、特斯拉Cybercab将登陆中国 线控底盘或升温",
-        "summary": "智己启动无方向盘车辆测试，特斯拉Cybercab将入华，线控底盘技术或成热点。",
+        "summary": "智己启动无方向盘车辆测试，特斯拉Cybercab将登陆中国，线控底盘技术有望升温。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2477046",
-        "publishedAt": "2026-09-08T11:16:05Z"
+        "publishedAt": "2026-09-08T16:37:03Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，中东冲突升级、美加贸易战开打、德国极右翼胜选等重塑地缘格局，金融市场油价、金价受提振，科技监管成焦点。",
+    "overview": "国际新闻重点关注中东冲突升级、英国对以色列政策转变、美欧关系及科技领域重大发布。",
     "items": [
       {
-        "id": "deb767922db499a84588",
-        "title": "Oil price approaches $100 a barrel after Saudi oil facilities attacked; UK mortgage rates highest since June – business live",
-        "summary": "沙特石油设施遭胡塞武装袭击，油价逼近100美元，欧洲天然气价格同步上涨。",
+        "id": "c59ff5b4b520f4ad2836",
+        "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
+        "summary": "英国外相称以色列在约旦河西岸实施种族清洗，宣布对以色列定居点商品实施全面制裁。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-        "publishedAt": "2026-09-08T02:56:41Z"
+        "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+        "publishedAt": "2026-09-08T07:42:59Z"
       },
       {
-        "id": "e05074c6d6414b502a61",
-        "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
-        "summary": "加拿大对200亿美元美国商品征收报复性关税，贸易战升级，双边关系紧张。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-        "publishedAt": "2026-09-07T20:01:12Z"
+        "id": "8dd17ffc34f2749d50ec",
+        "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+        "summary": "胡塞武装袭击沙特四城及能源设施，致70余人受伤，中东战争显著扩大。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+        "publishedAt": "2026-09-08T04:05:31Z"
       },
       {
-        "id": "c3f1f83ac41ffa485008",
-        "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
-        "summary": "德国AfD在州选举中历史性获胜，引发欧洲对极右翼势力崛起的担忧。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-07T08:14:00Z"
+        "id": "df0c18ee2ab58abf8666",
+        "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
+        "summary": "匈牙利驱逐10名俄外交官，俄承诺给予'严厉痛苦'回应，俄欧紧张升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
+        "publishedAt": "2026-09-08T08:05:23Z"
       },
       {
-        "id": "bf68eef827b677cac428",
-        "title": "Highest paid world leader to get salary increase of $1 million",
-        "summary": "新加坡总理李显龙加薪至360万新元（约合280万美元），成全球最高薪领导人。",
+        "id": "b6c9c5794a2dae349988",
+        "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+        "summary": "沙特誓言回应胡塞武装袭击，袭击造成73人受伤及石油设施起火。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-08T01:20:05Z"
+        "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-08T05:58:32Z"
       },
       {
-        "id": "0f1ccf69d1b40900f964",
-        "title": "Ukraine updates: Explosions rock Kyiv as 3-day truce ends",
-        "summary": "三天停火结束，俄军对基辅发动大规模打击，爆炸声不断，俄乌冲突重燃。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-updates-explosions-rock-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-07T19:33:00Z"
-      },
-      {
-        "id": "be55652164a7ff5653bf",
-        "title": "North Korea and Russia open first road bridge linking both countries",
-        "summary": "朝鲜与俄罗斯开通首座公路桥，显示两国关系加强，引发国际关注。",
+        "id": "b0603ce4f3b74ade6c4f",
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "summary": "加拿大对近200亿美元美国商品加征最高50%关税，美加贸易战升级。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-07T19:53:27Z"
+        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-08T06:46:16Z"
       },
       {
-        "id": "6a514dcdd562777dc105",
-        "title": "Australia targets big tech with algorithm opt-out bill",
-        "summary": "澳大利亚拟立法要求社交媒体允许用户退出算法推荐，违者将面临巨额罚款。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/australia-targets-big-tech-with-algorithm-opt-out-bill/a-79154108?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-08T01:07:00Z"
-      },
-      {
-        "id": "625006c3a1bc5a5aa783",
-        "title": "Mistral raises €3B",
-        "summary": "法国AI公司Mistral融资30亿欧元，加速开源AI模型开发，挑战OpenAI。",
+        "id": "5ce0025129a5d0ec632d",
+        "title": "Google DeepMind Releases AlphaGenome Atlas",
+        "summary": "谷歌DeepMind发布AlphaGenome Atlas，绘制人类基因组所有DNA变化预测图谱。",
         "source": "Hacker News",
-        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-        "publishedAt": "2026-09-07T21:06:23Z"
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+        "publishedAt": "2026-09-08T06:55:45Z"
+      },
+      {
+        "id": "8110099863d47d1d19b0",
+        "title": "US police fear Meta smart glasses could be used to secretly record them",
+        "summary": "美国警方担忧Meta智能眼镜被用于秘密录制，隐私争议持续发酵。",
+        "source": "Hacker News",
+        "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
+        "publishedAt": "2026-09-08T07:39:49Z"
+      },
+      {
+        "id": "fe3756a5c6bbf66a637f",
+        "title": "LibreOffice breaks download records after declaring it has no AI features",
+        "summary": "LibreOffice因声明无AI功能而下载量破纪录，用户对纯离线软件兴趣浓厚。",
+        "source": "Hacker News",
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+        "publishedAt": "2026-09-08T06:05:57Z"
       }
     ]
   }
