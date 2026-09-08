@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-09",
-  "generatedAt": "2026-09-08T16:37:03Z",
+  "generatedAt": "2026-09-08T21:08:42Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦时政、宏观经济与科技，涵盖高层动态、国际制裁、能源市场波动及民生政策等热点。",
+    "overview": "国内方面重点关注国家领导人外事活动、进出口数据、生育政策、灾害天气、油价波动及科技产业动态。",
     "items": [
       {
         "id": "94ee53af90545c704fd7",
         "title": "习近平同英国首相伯纳姆通电话",
-        "summary": "习近平应约同英国首相伯纳姆通电话，讨论双边关系及共同关心的国际和地区问题。",
+        "summary": "习近平同英国首相伯纳姆通电话，就双边关系及共同关心的问题交换意见。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2477359",
-        "publishedAt": "2026-09-08T16:37:03Z"
-      },
-      {
-        "id": "e1b0ce62086dd9f0cb20",
-        "title": "李强主持国务院第二十一次专题学习",
-        "summary": "李强主持国务院专题学习，强调落实政策部署，推动经济高质量发展。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2477346",
-        "publishedAt": "2026-09-08T16:37:03Z"
+        "publishedAt": "2026-09-08T21:08:42Z"
       },
       {
         "id": "0e9bcc2ad18f5045a33d",
         "title": "我国进出口连续4个月保持两位数增长",
-        "summary": "我国进出口连续4个月保持两位数增长，外贸韧性显现，稳增长措施见效。",
+        "summary": "我国进出口连续4个月保持两位数增长，外贸韧性持续显现。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7682369162227944979/",
-        "publishedAt": "2026-09-08T16:37:03Z"
-      },
-      {
-        "id": "68b0df232c9053760746",
-        "title": "法国、英国、加拿大、西班牙等12国发表联合声明",
-        "summary": "法国、英国等12国发表联合声明，支持制裁以色列非法定居点，英国关闭以领事馆回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wGALHIoVlF",
-        "publishedAt": "2026-09-08T16:37:03Z"
+        "publishedAt": "2026-09-08T21:08:42Z"
       },
       {
         "id": "bfc7c795448b6dd51859",
         "title": "上海：10月1日起生娃个人“不花钱”",
-        "summary": "上海自10月1日起实施生育个人不花钱政策，减轻育儿负担，构建生育友好型社会。",
+        "summary": "上海宣布自10月1日起，生育个人无需承担费用，相关政策落地。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D",
-        "publishedAt": "2026-09-08T16:37:03Z"
+        "publishedAt": "2026-09-08T21:08:42Z"
       },
       {
-        "id": "db44d3b23849c3f8ff60",
-        "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
-        "summary": "美股休市，美伊冲突推升油价至六周新高，欧股涨跌互现等待CPI，伦铜创历史新高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781194",
-        "publishedAt": "2026-09-08T16:37:03Z"
-      },
-      {
-        "id": "373190eb66e6376bb43b",
-        "title": "8月汽车销量前十已无燃油车",
-        "summary": "8月汽车销量前十已无燃油车，新能源汽车市场份额持续扩大，传统车企加速转型。",
+        "id": "f7df4c215c3e87428129",
+        "title": "这轮冷空气究竟有多猛",
+        "summary": "冷空气来袭，多地大幅降温，提醒公众注意防寒保暖。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682813189238702118/",
-        "publishedAt": "2026-09-08T16:37:03Z"
+        "url": "https://www.toutiao.com/trending/7683122445766626859/",
+        "publishedAt": "2026-09-08T21:08:42Z"
       },
       {
-        "id": "ff717e6876812b008c2d",
-        "title": "智己启动“无方向盘”车辆测试、特斯拉Cybercab将登陆中国 线控底盘或升温",
-        "summary": "智己启动无方向盘车辆测试，特斯拉Cybercab将登陆中国，线控底盘技术有望升温。",
+        "id": "cbb25a5e8c7062658a90",
+        "title": "AI推理芯片+1.6T光连接 高通官宣打入全球云计算“一哥”生态链",
+        "summary": "高通官宣打入全球云计算巨头生态链，推出AI推理芯片及光连接方案。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2477046",
-        "publishedAt": "2026-09-08T16:37:03Z"
+        "url": "https://www.cls.cn/detail/2477472",
+        "publishedAt": "2026-09-08T21:08:42Z"
+      },
+      {
+        "id": "807f0b4c59ff72b3fe3b",
+        "title": "浙江一公司收到美国3.66亿元关税退税",
+        "summary": "浙江一公司获美国3.66亿元关税退税，系中美贸易摩擦后首例。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682709811246400038/",
+        "publishedAt": "2026-09-08T21:08:42Z"
+      },
+      {
+        "id": "4049135b3231ab3b522d",
+        "title": "茅台年内第六次调价：自营店飞天涨至1766元，工作人员称“门店产品充足”",
+        "summary": "茅台年内第六次调价，自营店飞天茅台涨至1766元，门店供应充足。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34029235",
+        "publishedAt": "2026-09-08T21:08:42Z"
+      },
+      {
+        "id": "5ee737bea710c49e417e",
+        "title": "武汉非法代孕地下实验室被查封",
+        "summary": "武汉非法代孕地下实验室被查封，8名涉案人员被控制。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7683099642745242158/",
+        "publishedAt": "2026-09-08T21:08:42Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻重点关注中东冲突升级、英国对以色列政策转变、美欧关系及科技领域重大发布。",
+    "overview": "国际方面聚焦美伊冲突、俄乌局势、中东战争扩大、油价飙升及英国制裁以色列等重大事件。",
     "items": [
       {
-        "id": "c59ff5b4b520f4ad2836",
-        "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
-        "summary": "英国外相称以色列在约旦河西岸实施种族清洗，宣布对以色列定居点商品实施全面制裁。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-        "publishedAt": "2026-09-08T07:42:59Z"
+        "id": "c501f76df51fb91b96c0",
+        "title": "Fourteen on trial over deadliest English Channel crossing on record",
+        "summary": "英吉利海峡偷渡船沉没致31人死亡案开审，14人受审。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/fourteen-on-trial-over-deadliest-english-channel-crossing-on-record?traffic_source=rss",
+        "publishedAt": "2026-09-08T12:17:38Z"
       },
       {
-        "id": "8dd17ffc34f2749d50ec",
-        "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-        "summary": "胡塞武装袭击沙特四城及能源设施，致70余人受伤，中东战争显著扩大。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-        "publishedAt": "2026-09-08T04:05:31Z"
-      },
-      {
-        "id": "df0c18ee2ab58abf8666",
-        "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
-        "summary": "匈牙利驱逐10名俄外交官，俄承诺给予'严厉痛苦'回应，俄欧紧张升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
-        "publishedAt": "2026-09-08T08:05:23Z"
-      },
-      {
-        "id": "b6c9c5794a2dae349988",
-        "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-        "summary": "沙特誓言回应胡塞武装袭击，袭击造成73人受伤及石油设施起火。",
+        "id": "aa26c3aa2f302d3bcb12",
+        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+        "summary": "英国宣布制裁以色列西岸定居点，以色列关闭英驻耶路撒冷领事馆回应。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-08T05:58:32Z"
+        "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-08T11:11:39Z"
+      },
+      {
+        "id": "29b574d0faa858cbe222",
+        "title": "Trump, Putin hold ‘frank’ phone call as US revives Ukraine peace efforts",
+        "summary": "特朗普与普京通电话，美国重启乌克兰和平努力。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
+        "publishedAt": "2026-09-08T10:31:30Z"
       },
       {
         "id": "b0603ce4f3b74ade6c4f",
         "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-        "summary": "加拿大对近200亿美元美国商品加征最高50%关税，美加贸易战升级。",
+        "summary": "加拿大就对近200亿美元美国商品加征高额关税，美加贸易战升级。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-08T06:46:16Z"
       },
       {
-        "id": "5ce0025129a5d0ec632d",
-        "title": "Google DeepMind Releases AlphaGenome Atlas",
-        "summary": "谷歌DeepMind发布AlphaGenome Atlas，绘制人类基因组所有DNA变化预测图谱。",
-        "source": "Hacker News",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-        "publishedAt": "2026-09-08T06:55:45Z"
+        "id": "713e67d80947828fbd9f",
+        "title": "Hundreds of UK flights disrupted by air traffic control glitch",
+        "summary": "英国空中交通管制系统故障，致数百航班取消，大量乘客滞留。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/hundreds-of-uk-flights-disrupted-by-air-traffic-control-glitch?traffic_source=rss",
+        "publishedAt": "2026-09-08T12:24:26Z"
       },
       {
-        "id": "8110099863d47d1d19b0",
-        "title": "US police fear Meta smart glasses could be used to secretly record them",
-        "summary": "美国警方担忧Meta智能眼镜被用于秘密录制，隐私争议持续发酵。",
-        "source": "Hacker News",
-        "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
-        "publishedAt": "2026-09-08T07:39:49Z"
+        "id": "6ae709a46992e03c51f7",
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "summary": "俄无人机袭击基辅致5死，一电视台大楼被击中，乌总统谴责。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-08T09:10:54Z"
       },
       {
-        "id": "fe3756a5c6bbf66a637f",
-        "title": "LibreOffice breaks download records after declaring it has no AI features",
-        "summary": "LibreOffice因声明无AI功能而下载量破纪录，用户对纯离线软件兴趣浓厚。",
-        "source": "Hacker News",
-        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-        "publishedAt": "2026-09-08T06:05:57Z"
+        "id": "385179a0424a51778352",
+        "title": "Hurricane Lowell’s fierce winds and rains knocks out power on Hawaii’s Kauai",
+        "summary": "Center of storm passed west of the islands and was moving away but flooding and ",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell",
+        "publishedAt": "2026-09-08T12:47:38Z"
+      },
+      {
+        "id": "1870fcacc1bc5dd275e6",
+        "title": "Smithsonian chief Lonnie Bunch III to retire amid Trump administration pressure on institution - US politics live",
+        "summary": "Bunch told the New York Times it was not Trump pressure on the organization that",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
+        "publishedAt": "2026-09-08T12:45:49Z"
       }
     ]
   }
