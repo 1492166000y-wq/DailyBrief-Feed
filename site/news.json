@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-08",
-  "generatedAt": "2026-09-07T22:49:48Z",
+  "generatedAt": "2026-09-08T04:32:34Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点包括英国要求民众存粮存水、郑钦文美网逆转晋级、武汉长江排污调查、险资调研动态、伊朗美军对抗升级、AI技术发展等。",
+    "overview": "国内方面，海关总署公布8月进出口数据保持两位数增长；央行连续增持黄金；小米等发布高端手机；美伊冲突推升油价及铜价；上海加强出租整治；考研停招学硕引关注。",
     "items": [
       {
-        "id": "535fec023f21735431d4",
-        "title": "英国政府要求民众提前存粮存水",
-        "summary": "英国政府建议民众提前储备食物和水，以应对潜在危机。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682556605699326015/",
-        "publishedAt": "2026-09-07T22:49:48Z"
-      },
-      {
-        "id": "3153ae519c66aa930848",
-        "title": "郑钦文2比0斯瓦泰克晋级八强",
-        "summary": "郑钦文在美网2比0击败斯瓦泰克，晋级八强，引发关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%940%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
-        "publishedAt": "2026-09-07T22:49:48Z"
-      },
-      {
-        "id": "6ccdb4a30d22d9f03315",
-        "title": "驳船往长江倾倒黑色固体“十秒清空一艘船”？武汉市生态环境局：已赴现场调查",
-        "summary": "武汉一码头被曝向长江倾倒黑色固体，生态环境局已赴现场调查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34022495",
-        "publishedAt": "2026-09-07T22:49:48Z"
-      },
-      {
-        "id": "a9ec4496996a20687b5e",
-        "title": "险资调研火力全开！密集“打卡”中微、立讯精密 机构人士：重新审视红利赛道投资机会 关注方向更均衡",
-        "summary": "险资密集调研中微、立讯等，机构重新审视红利赛道，关注均衡配置。",
+        "id": "8038b2d8256f3a369859",
+        "title": "海关总署：8月份我国出口、进口分别增长18.6%、21.7% 连续4个月同时保持两位数增长",
+        "summary": "海关总署：8月出口增长18.6%，进口增长21.7%，连续4个月双位数增长。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2476202",
-        "publishedAt": "2026-09-07T22:49:48Z"
+        "url": "https://www.cls.cn/detail/2476486",
+        "publishedAt": "2026-09-08T04:32:34Z"
       },
       {
-        "id": "966ef215d499fa2576bd",
-        "title": "伊朗首次在美军舰上空试验特殊武器，爆炸场面如地狱",
-        "summary": "伊朗首次在美军舰附近试验特殊武器，爆炸场面剧烈，局势紧张。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wE8g6ewZxS",
-        "publishedAt": "2026-09-07T22:49:48Z"
-      },
-      {
-        "id": "7e1f1f7f1283ccbf7fdf",
-        "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
-        "summary": "OpenAI首席科学家称已造出异星心智，呼吁全人类重视AI安全。",
+        "id": "5e18b2bc824481ea2962",
+        "title": "中国央行连续22个月增持黄金，8月购金节奏进一步加快",
+        "summary": "央行连续22个月增持黄金，8月购金步伐加快。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781186",
-        "publishedAt": "2026-09-07T22:49:48Z"
+        "url": "https://wallstreetcn.com/articles/3781226",
+        "publishedAt": "2026-09-08T04:32:34Z"
       },
       {
-        "id": "35cf37bb9e1783f53d44",
-        "title": "中金1+2获证监会批文，下周二起停牌，背后是七家机构",
-        "summary": "中金与1+2合并获证监会批文，涉及七家机构，下周二起停牌。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2476304",
-        "publishedAt": "2026-09-07T22:49:48Z"
+        "id": "777fa9edcf06a94672d0",
+        "title": "小米推出首款\"中折叠\"旗舰手机，10999元起售，同步披露造芯210亿投入",
+        "summary": "小米推出首款“中折叠”旗舰手机，售价10999元起，显示高端市场竞争加剧。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781238",
+        "publishedAt": "2026-09-08T04:32:34Z"
       },
       {
-        "id": "02b0d3cb26802a377654",
-        "title": "郭德纲歪曲篡改抗战歌曲，武汉文旅局发布处理通报",
-        "summary": "郭德纲因歪曲篡改抗战歌曲被武汉文旅局通报处理。",
+        "id": "99776655fe8c08c4a764",
+        "title": "华为时隔六年再次发布高性能芯片",
+        "summary": "华为时隔六年再次发布高性能芯片，突破技术封锁。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34024493",
-        "publishedAt": "2026-09-07T22:49:48Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34023734",
+        "publishedAt": "2026-09-08T04:32:34Z"
+      },
+      {
+        "id": "30490bcf1ee51a9d844f",
+        "title": "伦铜创历史新高！关税套利引发伦铜挤仓，大矿减产推升供给端压力",
+        "summary": "关税套利引发伦铜挤仓，铜价创历史新高，供应压力增大。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781257",
+        "publishedAt": "2026-09-08T04:32:34Z"
+      },
+      {
+        "id": "2e1a2f2d9434a6084b1a",
+        "title": "上海深入推进“出租车抛客甩客”专项整治，两大机场拒载率均下降超五成",
+        "summary": "上海专项治理出租车拒载甩客，两大机场拒载率下降超五成。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34024883",
+        "publishedAt": "2026-09-08T04:32:34Z"
+      },
+      {
+        "id": "1270e853ea47753fae45",
+        "title": "考研圈大地震！顶尖名校陆续停招学硕",
+        "summary": "顶尖名校陆续停招学硕，考研圈震动，研究生培养结构或将调整。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%A0%94%E5%9C%88%E5%A4%A7%E5%9C%B0%E9%9C%87%EF%BC%81%E9%A1%B6%E5%B0%96%E5%90%8D%E6%A0%A1%E9%99%86%E7%BB%AD%E5%81%9C%E6%8B%9B%E5%AD%A6%E7%A1%95",
+        "publishedAt": "2026-09-08T04:32:34Z"
+      },
+      {
+        "id": "d7f45f3cea2fac892d7c",
+        "title": "手铐失灵无法解开 110求助119",
+        "summary": "手铐失灵无法解开，警方求助消防，凸显协同处置能力。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682808656657973298/",
+        "publishedAt": "2026-09-08T04:32:34Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊冲突推升油价、德国AfD选举获胜引发震动、印尼火山喷发致数十万滞留、英国反移民骚乱、法国葡萄酒减产等事件备受关注。",
+    "overview": "国际方面，美加贸易战升级，加拿大对美商品征收报复性关税；俄乌冲突持续，基辅遭袭击；伊朗核问题紧张，IAEA警告；德国AfD胜选；法国葡萄酒减产等。",
     "items": [
       {
-        "id": "9acb731c5a8e52271dc3",
-        "title": "German chancellor vows to stay in office despite AfD triumph in state election",
-        "summary": "德国总理朔尔茨承诺留任，但AfD州选举胜利震动全国。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
-        "publishedAt": "2026-09-07T09:48:37Z"
-      },
-      {
-        "id": "04c2afc1aad29694ac60",
-        "title": "Investigators begin work on why cargo plane overran Miami runway",
-        "summary": "迈阿密机场货机冲出跑道致5死，调查人员已展开原因调查。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-07T09:46:25Z"
-      },
-      {
-        "id": "c8984d7d9961ac5edfe1",
-        "title": "Israeli strikes in southern Lebanese village kill 12",
-        "summary": "以色列空袭黎巴嫩南部村庄致12人死亡，危及停火协议。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-07T05:39:23Z"
-      },
-      {
-        "id": "84935dc392fd4f02a128",
-        "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
-        "summary": "印尼喀拉喀托火山喷发，约34万人滞留，机场关闭延长。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-07T07:40:47Z"
-      },
-      {
-        "id": "a0cda67d87e19122d3dc",
-        "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
-        "summary": "英国警务大臣谴责朴茨茅斯反移民抗议中的暴力行为。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
-        "publishedAt": "2026-09-07T10:49:04Z"
-      },
-      {
-        "id": "ff647ccb0e1fbfc5bb7f",
-        "title": "Russia shutters German consulate as diplomatic freeze deepens",
-        "summary": "俄罗斯关闭德国驻圣彼得堡领事馆，外交冷冻加剧。",
+        "id": "e05074c6d6414b502a61",
+        "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
+        "summary": "加拿大对200亿美元美国商品征收报复性关税，贸易战升级。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
-        "publishedAt": "2026-09-07T10:27:39Z"
+        "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+        "publishedAt": "2026-09-07T20:01:12Z"
+      },
+      {
+        "id": "0f1ccf69d1b40900f964",
+        "title": "Ukraine updates: Explosions rock Kyiv as 3-day truce ends",
+        "summary": "基辅发生爆炸，俄罗斯结束三天停火，俄乌冲突再起。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ukraine-updates-explosions-rock-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-07T19:33:00Z"
+      },
+      {
+        "id": "e050955e95f774120453",
+        "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+        "summary": "IAEA警告伊朗核合作不足，西方推动将伊朗核问题提交联合国安理会。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+        "publishedAt": "2026-09-07T17:50:37Z"
+      },
+      {
+        "id": "c3f1f83ac41ffa485008",
+        "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
+        "summary": "德国AfD在州选举中获胜，引发欧洲警惕民族主义浪潮。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-07T08:14:00Z"
+      },
+      {
+        "id": "be55652164a7ff5653bf",
+        "title": "North Korea and Russia open first road bridge linking both countries",
+        "summary": "朝鲜与俄罗斯开通首座公路桥，显示关系加强。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-07T19:53:27Z"
       },
       {
         "id": "0e993396b81c8ebc1844",
         "title": "French winemakers forecast 30-year low harvest after severe drought and heat",
-        "summary": "法国酒庄因干旱高温预计产量创30年新低，葡萄酒业受创。",
+        "summary": "法国葡萄酒产量预计创30年新低，受干旱高温影响。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat",
         "publishedAt": "2026-09-07T07:10:51Z"
       },
       {
-        "id": "f7c5f33ccb92958d28b1",
-        "title": "Australia politics live: Joyce says One Nation ‘shouldn’t have to model’ super plan; Chaney condemns Labor ‘park barrelling’ allegations",
+        "id": "ff647ccb0e1fbfc5bb7f",
+        "title": "Russia shutters German consulate as diplomatic freeze deepens",
+        "summary": "俄罗斯关闭德国驻圣彼得堡领事馆，外交冻结加剧。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
+        "publishedAt": "2026-09-07T10:27:39Z"
+      },
+      {
+        "id": "f40acfd0f0ded86fe90a",
+        "title": "Australia politics live: Labor unveils ‘my feed, my way’ rules to allow everyone to opt in or out of social media algorithms",
         "summary": "Follow the day’s news liveOne Nation policy will leave people $25k worse off at ",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-        "publishedAt": "2026-09-07T14:44:45Z"
+        "publishedAt": "2026-09-07T20:07:30Z"
       }
     ]
   }
