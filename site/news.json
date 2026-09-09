@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T00:12:39Z",
+  "generatedAt": "2026-09-09T04:39:16Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻涵盖中美贸易摩擦、香港前特首董建华逝世、军事冲突与油价波动等。",
+    "overview": "今日国内焦点包括董建华逝世、CPI/PPI数据、地缘冲突影响油价、产业科技动态及民生法治事件。",
     "items": [
       {
-        "id": "83c1e4fa833c011d9887",
-        "title": "香港首任特首董建华逝世",
-        "summary": "香港首任特首董建华逝世，享年享年（年龄未知），各界深切缅怀。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682951948593004607/",
-        "publishedAt": "2026-09-09T00:12:39Z"
-      },
-      {
-        "id": "94ee53af90545c704fd7",
-        "title": "习近平同英国首相伯纳姆通电话",
-        "summary": "习近平同英国首相伯纳姆通话，就双边关系和共同关心的问题交换意见。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2477359",
-        "publishedAt": "2026-09-09T00:12:39Z"
-      },
-      {
-        "id": "e1b0ce62086dd9f0cb20",
-        "title": "李强主持国务院第二十一次专题学习",
-        "summary": "李强主持国务院专题学习，强调稳增长政策落实，推动经济持续回升向好。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2477346",
-        "publishedAt": "2026-09-09T00:12:39Z"
-      },
-      {
-        "id": "2279a8d7d62df2a7e94b",
-        "title": "央视曝光后 安徽山东河南连夜核查",
-        "summary": "央视曝光问题后，安徽、山东、河南连夜核查，严肃处理相关违规行为。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E5%AE%89%E5%BE%BD%E5%B1%B1%E4%B8%9C%E6%B2%B3%E5%8D%97%E8%BF%9E%E5%A4%9C%E6%A0%B8%E6%9F%A5",
-        "publishedAt": "2026-09-09T00:12:39Z"
-      },
-      {
-        "id": "0e9bcc2ad18f5045a33d",
-        "title": "我国进出口连续4个月保持两位数增长",
-        "summary": "我国进出口连续4个月两位数增长，外贸韧性凸显，高质量发展取得新成效。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682369162227944979/",
-        "publishedAt": "2026-09-09T00:12:39Z"
-      },
-      {
-        "id": "620c9ae7645bf7a20f22",
-        "title": "浙江一公司收到美国3.66亿元关税退税",
-        "summary": "浙江一公司收到美国3.66亿元关税退税，表明中美贸易摩擦缓和迹象。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E",
-        "publishedAt": "2026-09-09T00:12:39Z"
-      },
-      {
-        "id": "c486109ef5977d37b6bc",
-        "title": "直播丨“梅姨”案进入审判阶段，受害者回顾案件细节回应公众疑问",
-        "summary": "“梅姨”案进入审判阶段，受害者回顾细节，回应公众关于案件处理的疑问。",
+        "id": "168367daff7615bdad24",
+        "title": "香港特区首任行政长官董建华逝世，享年89岁",
+        "summary": "香港特区首任行政长官董建华逝世，享年89岁。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34028584",
-        "publishedAt": "2026-09-09T00:12:39Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34036031",
+        "publishedAt": "2026-09-09T04:39:16Z"
+      },
+      {
+        "id": "4f980128a2fc7e6e40c2",
+        "title": "国家统计局：8月份CPI同比上涨0.8% PPI同比上涨3.8%",
+        "summary": "国家统计局：8月CPI同比上涨0.8%，PPI同比上涨3.8%。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2477726",
+        "publishedAt": "2026-09-09T04:39:16Z"
+      },
+      {
+        "id": "b15b4d9a959c041769bf",
+        "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
+        "summary": "胡塞袭击推油价逼近100美元，美股收跌，光通信大涨。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781291",
+        "publishedAt": "2026-09-09T04:39:16Z"
+      },
+      {
+        "id": "f23cb391aa3edce1b2f5",
+        "title": "2026服贸会今日开幕",
+        "summary": "2026年服贸会今日开幕，促进国际贸易与合作。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=2026%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95",
+        "publishedAt": "2026-09-09T04:39:16Z"
+      },
+      {
+        "id": "fc7bb9f6ae5a91bdc530",
+        "title": "高一女生在学校组织“军训”中遭强制猥亵：涉事“教官”有犯罪记录，已被刑拘",
+        "summary": "高一女生军训遭教官猥亵，涉事者已被刑拘。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34029849",
+        "publishedAt": "2026-09-09T04:39:16Z"
+      },
+      {
+        "id": "7289ac66727ec4ae2d4e",
+        "title": "华为小米抢先苹果把折叠屏卖到2万元",
+        "summary": "华为小米抢先苹果，将折叠屏手机卖到2万元。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E6%8A%A2%E5%85%88%E8%8B%B9%E6%9E%9C%E6%8A%8A%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%8D%96%E5%88%B02%E4%B8%87%E5%85%83",
+        "publishedAt": "2026-09-09T04:39:16Z"
       },
       {
         "id": "479f9fdeecab80624cdd",
         "title": "武汉通报非法辅助生殖地下实验室：已查封，8名涉案人员被控制",
-        "summary": "武汉通报非法辅助生殖地下实验室：已查封，8名涉案人员被控制。",
+        "summary": "武汉通报非法辅助生殖实验室，查封并控制8人。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34030151",
-        "publishedAt": "2026-09-09T00:12:39Z"
+        "publishedAt": "2026-09-09T04:39:16Z"
+      },
+      {
+        "id": "1a42a81fce1099d493a7",
+        "title": "焦点访谈丨1公里国道扎堆近20家，黑加油点为何屡禁不绝",
+        "summary": "焦点访谈：国道扎堆黑加油点，监管漏洞待堵。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34031790",
+        "publishedAt": "2026-09-09T04:39:16Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括美加贸易战升级、美伊军事冲突、英国制裁以色列定居点等重大事件。",
+    "overview": "国际方面关注美伊冲突升级、美加贸易战、美英对以色列制裁、英国空管故障及美国内政等。",
     "items": [
+      {
+        "id": "70f1eefe718b10e550c8",
+        "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
+        "summary": "美国攻击5艘伊朗油轮，伊朗打击约旦作为报复。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+        "publishedAt": "2026-09-08T16:08:37Z"
+      },
       {
         "id": "d5287f87b3c75d779a8f",
         "title": "US bans Canadian dairy, alcohol and motorcycles as trade war with longtime ally escalates",
-        "summary": "美国禁止加拿大乳制品、酒精和摩托车进口，贸易战进一步升级。",
+        "summary": "美禁止进口加拿大乳制品、酒精和摩托车，贸易战升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
         "publishedAt": "2026-09-08T15:59:37Z"
       },
       {
-        "id": "9a1d88476b60b9fdee26",
-        "title": "US says Iranian tankers destroyed after missile attacks on American warship",
-        "summary": "美军摧毁伊朗多艘油轮，此前伊朗革命卫队曾导弹袭击美舰，局势紧张。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/08/iran-underwater-drone-strait-of-hormuz",
-        "publishedAt": "2026-09-08T14:54:18Z"
-      },
-      {
         "id": "aa26c3aa2f302d3bcb12",
         "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "summary": "英国宣布制裁西岸以色列定居点商品，以色列关闭英驻耶路撒冷领事馆回应。",
+        "summary": "英国制裁西岸定居点，以色列关闭英驻耶路撒冷领事馆。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-08T11:11:39Z"
+        "publishedAt": "2026-09-08T17:45:15Z"
       },
       {
-        "id": "b0603ce4f3b74ade6c4f",
-        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-        "summary": "加拿大对近200亿美元美国商品征收关税，卡尼称“以战止战”，但警告代价。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-08T06:46:16Z"
-      },
-      {
-        "id": "6ae709a46992e03c51f7",
-        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "summary": "俄无人机袭击基辅致5死，一电视台大楼被击中，乌方谴责。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-08T09:10:54Z"
-      },
-      {
-        "id": "c8202494c7ed4dc41f82",
-        "title": "UK air traffic control problem strands hundreds of thousands of passengers",
-        "summary": "英国空中交通管制故障导致数十万旅客滞留，超千架航班取消。",
+        "id": "a9ce8d6f45859d587050",
+        "title": "UK air traffic control breakdown strands hundreds of thousands of passengers",
+        "summary": "英国空管系统故障致千人滞留，航班大量取消。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
-        "publishedAt": "2026-09-08T14:04:46Z"
+        "publishedAt": "2026-09-08T18:40:00Z"
       },
       {
-        "id": "29b574d0faa858cbe222",
-        "title": "Trump, Putin hold ‘frank’ phone call as US revives Ukraine peace efforts",
-        "summary": "特朗普与普京通话讨论乌克兰和平，美方重启外交努力。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
-        "publishedAt": "2026-09-08T10:31:30Z"
-      },
-      {
-        "id": "b9749686156f0f1f40d8",
-        "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
-        "summary": "德国逮捕疑涉多起电网袭击的嫌疑人，事件引发对关键基础设施安全的担忧。",
+        "id": "b410bb9dc6655a6c518c",
+        "title": "Hong Kong's first leader after British handover dies",
+        "summary": "香港回归后首任特首董建华逝世，外媒关注。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-08T07:57:06Z"
+        "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-08T20:24:30Z"
+      },
+      {
+        "id": "2acb8eb42ba48804756f",
+        "title": "Trump escalates trade war with Canada with import bans, 50% tariffs",
+        "summary": "特朗普对加拿大商品加征50%关税并实施进口禁令。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/trump-escalates-trade-war-with-canada-with-import-bans-50-tariffs/a-79195010?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-08T19:10:00Z"
+      },
+      {
+        "id": "fbb70acc0ca6d0e03963",
+        "title": "US reading scores hit near-25-year low in latest global assessment",
+        "summary": "美国学生阅读成绩降至近25年最低，引发担忧。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment?traffic_source=rss",
+        "publishedAt": "2026-09-08T18:36:44Z"
+      },
+      {
+        "id": "b7ae1f502bc2a2cea525",
+        "title": "Record-breaking rain disrupts daily life in Nagoya, Japan",
+        "summary": "日本名古屋遭遇创纪录暴雨，一小时降雨105毫米。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_record-breaking-rain-disrupts-daily-life-in-nagoya-080926?traffic_source=rss",
+        "publishedAt": "2026-09-08T18:23:43Z"
       }
     ]
   }
