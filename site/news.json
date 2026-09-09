@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-09T11:19:54Z",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-09T16:37:08Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，高层动态、宏观经济数据与产业政策受关注，同时涉及社会法治与突发灾害。",
+    "overview": "国内新闻聚焦宏观经济、产业科技及国际关系，包括中美AI摩擦、DeepSeek IPO、美伊冲突影响、苹果发布会等。",
     "items": [
-      {
-        "id": "5b97ddce485ce4aa8aca",
-        "title": "孙绍骋被双开",
-        "summary": "内蒙古自治区党委原书记孙绍骋因严重违纪违法被开除党籍和公职。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7683458274439499302/",
-        "publishedAt": "2026-09-09T11:19:54Z"
-      },
       {
         "id": "168367daff7615bdad24",
         "title": "香港特区首任行政长官董建华逝世，享年89岁",
         "summary": "香港特区首任行政长官董建华逝世，享年89岁。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34036031",
-        "publishedAt": "2026-09-09T11:19:54Z"
+        "publishedAt": "2026-09-09T16:37:08Z"
+      },
+      {
+        "id": "5519859bdc0b04d0f541",
+        "title": "美国指责中国AI公司蒸馏美企，外交部：中国AI发展是高水平科技自立自强的成果",
+        "summary": "外交部回应美指责我AI公司蒸馏，称中国AI发展是自立自强成果。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34037416",
+        "publishedAt": "2026-09-09T16:37:08Z"
       },
       {
         "id": "0f3a2675926551076a53",
         "title": "中国8月CPI同比涨幅扩大至0.8%，PPI同比涨3.8%，环比双双转正，算力需求增长推动数据存储设备价格环比上涨2.1%",
-        "summary": "8月CPI同比涨0.8%，PPI涨3.8%，环比双双转正。",
+        "summary": "中国8月CPI同比涨0.8%，PPI涨3.8%，环比均转正。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781380",
-        "publishedAt": "2026-09-09T11:19:54Z"
+        "publishedAt": "2026-09-09T16:37:08Z"
       },
       {
-        "id": "b9798f025602b2e32373",
-        "title": "李强：统筹推进住房、小区、社区到城区的更新改造，加快老旧街区厂区转型升级",
-        "summary": "李强强调统筹推进住房、小区、社区到城区的更新改造。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781327",
-        "publishedAt": "2026-09-09T11:19:54Z"
+        "id": "17a4491f3b231bbaeeb4",
+        "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
+        "summary": "DeepSeek筹备科创板IPO，V4.1 Flash模型明日发布。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2478606",
+        "publishedAt": "2026-09-09T16:37:08Z"
       },
       {
-        "id": "fc7bb9f6ae5a91bdc530",
-        "title": "高一女生在学校组织“军训”中遭强制猥亵：涉事“教官”有犯罪记录，已被刑拘",
-        "summary": "高一女生军训遭教官猥亵，嫌犯有前科已被刑拘。",
+        "id": "353340a36eac246ccd22",
+        "title": "起底“神药”直播间①｜年售3.9亿的“养生局”：假专家、假神药，卖货全靠演",
+        "summary": "起底“神药”直播间：假专家、假神药，年售3.9亿。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34029849",
-        "publishedAt": "2026-09-09T11:19:54Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34024472",
+        "publishedAt": "2026-09-09T16:37:08Z"
       },
       {
-        "id": "d137434a10cedb1d86bb",
-        "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
-        "summary": "伊朗打击美国目标价值升高，交火呈现新特点。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wHN09cxCTv",
-        "publishedAt": "2026-09-09T11:19:54Z"
+        "id": "b15b4d9a959c041769bf",
+        "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
+        "summary": "胡塞袭击推油价逼近100美元，美股收跌，科技股分化。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781291",
+        "publishedAt": "2026-09-09T16:37:08Z"
       },
       {
-        "id": "f4e7a1d32d9d259d2e14",
-        "title": "河南地震",
-        "summary": "河南济源发生地震，目前暂无人员伤亡报告。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E5%9C%B0%E9%9C%87",
-        "publishedAt": "2026-09-09T11:19:54Z"
+        "id": "7876df5b7cdb72e36049",
+        "title": "“新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点",
+        "summary": "苹果新CEO首秀，折叠屏iPhone亮相，发布会看点前瞻。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781374",
+        "publishedAt": "2026-09-09T16:37:08Z"
       },
       {
-        "id": "f23cb391aa3edce1b2f5",
-        "title": "2026服贸会今日开幕",
-        "summary": "2026年服贸会今日开幕，众多新服务新产品亮相。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=2026%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95",
-        "publishedAt": "2026-09-09T11:19:54Z"
+        "id": "d3d153ff41d441f8f355",
+        "title": "美发布中国人工智能企业对美蒸馏活动相关网络安全公告，商务部回应",
+        "summary": "美发布我AI企业对美蒸馏活动安全公告，商务部回应。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2478630",
+        "publishedAt": "2026-09-09T16:37:08Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，中东冲突升级推动油价上涨，美国大选选情与贸易摩擦、英国空管故障等事件受关注。",
+    "overview": "国际新闻涵盖美伊冲突升级、英国制裁以色列、德国政局、挪威国王葬礼等重大事件，油价突破100美元引发关注。",
     "items": [
       {
-        "id": "0e0c1e2b0d6d0e533249",
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "summary": "国际油价突破100美元/桶，为7月以来首次。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-09T01:47:39Z"
+        "id": "6ef4eb9da7a72e11b7a0",
+        "title": "Iran claims to have attacked 10 ships near strait of Hormuz after US strikes",
+        "summary": "伊朗称袭击霍尔木兹海峡附近10艘船，此前美击沉伊油轮。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/09/iran-claims-to-have-attacked-10-ships-near-strait-of-hormuz-after-us-strikes",
+        "publishedAt": "2026-09-09T08:18:15Z"
       },
       {
-        "id": "bed965b89338864a89c8",
-        "title": "Trump center stage at RNC in midterms gamble – US politics live",
-        "summary": "特朗普在共和党中期大会中心亮相，被视为豪赌。",
+        "id": "d11c5acd45fcd7f233af",
+        "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+        "summary": "美伊冲突升级，国际油价自7月以来首次突破100美元。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates",
-        "publishedAt": "2026-09-09T02:47:31Z"
+        "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+        "publishedAt": "2026-09-09T06:30:56Z"
+      },
+      {
+        "id": "9de2512b74a35a36b683",
+        "title": "Israel sanctions will not hurt intelligence sharing between spy agencies, says Miliband",
+        "summary": "英外相：以色列制裁不影响情报共享，国际社会对以失望。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/2026/sep/09/israel-sanctions-will-not-hurt-intelligence-sharing-between-spy-agencies-says-miliband",
+        "publishedAt": "2026-09-09T08:14:41Z"
       },
       {
         "id": "aa26c3aa2f302d3bcb12",
         "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "summary": "英国制裁西岸定居点，以色列关闭英驻耶路撒冷领事馆。",
+        "summary": "英国制裁约旦河西岸定居点，以色列关闭英驻耶路撒冷领事馆。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-08T17:45:15Z"
       },
       {
-        "id": "a9ce8d6f45859d587050",
-        "title": "UK air traffic control breakdown strands hundreds of thousands of passengers",
-        "summary": "英国空管系统故障致大量航班取消，旅客滞留。",
+        "id": "94dd8174ebd3ce26fbc3",
+        "title": "Merz accuses AfD of ‘ethnic cleansing’ policy and cancels call with Trump",
+        "summary": "德国总理默茨指责AfD推行“种族清洗”，取消与特朗普通话。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
-        "publishedAt": "2026-09-08T18:40:00Z"
+        "url": "https://www.theguardian.com/world/2026/sep/09/friedrich-merz-afd-far-right-accused-seeking-ethnic-cleansing-saxony-anhalt-election",
+        "publishedAt": "2026-09-09T05:43:03Z"
       },
       {
         "id": "fe6d595bd40d5ad0c2b3",
         "title": "Norway's King Harald V laid to rest in state funeral",
-        "summary": "挪威国王哈拉尔五世国葬在奥斯陆举行。",
+        "summary": "挪威国王哈拉尔五世国葬举行，民众送别。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/norway-s-king-harald-v-laid-to-rest-in-state-funeral/a-79199812?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-09T03:06:00Z"
       },
       {
-        "id": "b410bb9dc6655a6c518c",
-        "title": "Hong Kong's first leader after British handover dies",
-        "summary": "港回归后首任特首董建华逝世，外媒广泛报道。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-08T20:24:30Z"
+        "id": "a9ce8d6f45859d587050",
+        "title": "UK air traffic control breakdown strands hundreds of thousands of passengers",
+        "summary": "英国空管系统故障致航班大乱，数十万旅客受影响。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+        "publishedAt": "2026-09-08T18:40:00Z"
       },
       {
         "id": "2acb8eb42ba48804756f",
         "title": "Trump escalates trade war with Canada with import bans, 50% tariffs",
-        "summary": "特朗普对加拿大实施进口禁令并加征50%关税。",
+        "summary": "特朗普对加拿大实施进口禁令并加征50%关税，贸易战升级。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/trump-escalates-trade-war-with-canada-with-import-bans-50-tariffs/a-79195010?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-08T19:10:00Z"
-      },
-      {
-        "id": "becca5c7b47e48978054",
-        "title": "UK rules out cyberattack after major flight disruptions",
-        "summary": "英国排除网络攻击可能，但航班扰乱持续。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/uk-rules-out-cyberattack-after-major-flight-disruptions/a-79197818?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-09T01:22:00Z"
       }
     ]
   }
