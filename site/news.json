@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-09",
-  "generatedAt": "2026-09-08T21:08:42Z",
+  "generatedAt": "2026-09-09T00:12:39Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面重点关注国家领导人外事活动、进出口数据、生育政策、灾害天气、油价波动及科技产业动态。",
+    "overview": "今日国内要闻涵盖中美贸易摩擦、香港前特首董建华逝世、军事冲突与油价波动等。",
     "items": [
+      {
+        "id": "83c1e4fa833c011d9887",
+        "title": "香港首任特首董建华逝世",
+        "summary": "香港首任特首董建华逝世，享年享年（年龄未知），各界深切缅怀。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7682951948593004607/",
+        "publishedAt": "2026-09-09T00:12:39Z"
+      },
       {
         "id": "94ee53af90545c704fd7",
         "title": "习近平同英国首相伯纳姆通电话",
-        "summary": "习近平同英国首相伯纳姆通电话，就双边关系及共同关心的问题交换意见。",
+        "summary": "习近平同英国首相伯纳姆通话，就双边关系和共同关心的问题交换意见。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2477359",
-        "publishedAt": "2026-09-08T21:08:42Z"
+        "publishedAt": "2026-09-09T00:12:39Z"
+      },
+      {
+        "id": "e1b0ce62086dd9f0cb20",
+        "title": "李强主持国务院第二十一次专题学习",
+        "summary": "李强主持国务院专题学习，强调稳增长政策落实，推动经济持续回升向好。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2477346",
+        "publishedAt": "2026-09-09T00:12:39Z"
+      },
+      {
+        "id": "2279a8d7d62df2a7e94b",
+        "title": "央视曝光后 安徽山东河南连夜核查",
+        "summary": "央视曝光问题后，安徽、山东、河南连夜核查，严肃处理相关违规行为。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E5%AE%89%E5%BE%BD%E5%B1%B1%E4%B8%9C%E6%B2%B3%E5%8D%97%E8%BF%9E%E5%A4%9C%E6%A0%B8%E6%9F%A5",
+        "publishedAt": "2026-09-09T00:12:39Z"
       },
       {
         "id": "0e9bcc2ad18f5045a33d",
         "title": "我国进出口连续4个月保持两位数增长",
-        "summary": "我国进出口连续4个月保持两位数增长，外贸韧性持续显现。",
+        "summary": "我国进出口连续4个月两位数增长，外贸韧性凸显，高质量发展取得新成效。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7682369162227944979/",
-        "publishedAt": "2026-09-08T21:08:42Z"
+        "publishedAt": "2026-09-09T00:12:39Z"
       },
       {
-        "id": "bfc7c795448b6dd51859",
-        "title": "上海：10月1日起生娃个人“不花钱”",
-        "summary": "上海宣布自10月1日起，生育个人无需承担费用，相关政策落地。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D",
-        "publishedAt": "2026-09-08T21:08:42Z"
-      },
-      {
-        "id": "f7df4c215c3e87428129",
-        "title": "这轮冷空气究竟有多猛",
-        "summary": "冷空气来袭，多地大幅降温，提醒公众注意防寒保暖。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7683122445766626859/",
-        "publishedAt": "2026-09-08T21:08:42Z"
-      },
-      {
-        "id": "cbb25a5e8c7062658a90",
-        "title": "AI推理芯片+1.6T光连接 高通官宣打入全球云计算“一哥”生态链",
-        "summary": "高通官宣打入全球云计算巨头生态链，推出AI推理芯片及光连接方案。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2477472",
-        "publishedAt": "2026-09-08T21:08:42Z"
-      },
-      {
-        "id": "807f0b4c59ff72b3fe3b",
+        "id": "620c9ae7645bf7a20f22",
         "title": "浙江一公司收到美国3.66亿元关税退税",
-        "summary": "浙江一公司获美国3.66亿元关税退税，系中美贸易摩擦后首例。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682709811246400038/",
-        "publishedAt": "2026-09-08T21:08:42Z"
+        "summary": "浙江一公司收到美国3.66亿元关税退税，表明中美贸易摩擦缓和迹象。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E",
+        "publishedAt": "2026-09-09T00:12:39Z"
       },
       {
-        "id": "4049135b3231ab3b522d",
-        "title": "茅台年内第六次调价：自营店飞天涨至1766元，工作人员称“门店产品充足”",
-        "summary": "茅台年内第六次调价，自营店飞天茅台涨至1766元，门店供应充足。",
+        "id": "c486109ef5977d37b6bc",
+        "title": "直播丨“梅姨”案进入审判阶段，受害者回顾案件细节回应公众疑问",
+        "summary": "“梅姨”案进入审判阶段，受害者回顾细节，回应公众关于案件处理的疑问。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34029235",
-        "publishedAt": "2026-09-08T21:08:42Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34028584",
+        "publishedAt": "2026-09-09T00:12:39Z"
       },
       {
-        "id": "5ee737bea710c49e417e",
-        "title": "武汉非法代孕地下实验室被查封",
-        "summary": "武汉非法代孕地下实验室被查封，8名涉案人员被控制。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7683099642745242158/",
-        "publishedAt": "2026-09-08T21:08:42Z"
+        "id": "479f9fdeecab80624cdd",
+        "title": "武汉通报非法辅助生殖地下实验室：已查封，8名涉案人员被控制",
+        "summary": "武汉通报非法辅助生殖地下实验室：已查封，8名涉案人员被控制。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34030151",
+        "publishedAt": "2026-09-09T00:12:39Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面聚焦美伊冲突、俄乌局势、中东战争扩大、油价飙升及英国制裁以色列等重大事件。",
+    "overview": "国际焦点包括美加贸易战升级、美伊军事冲突、英国制裁以色列定居点等重大事件。",
     "items": [
       {
-        "id": "c501f76df51fb91b96c0",
-        "title": "Fourteen on trial over deadliest English Channel crossing on record",
-        "summary": "英吉利海峡偷渡船沉没致31人死亡案开审，14人受审。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/fourteen-on-trial-over-deadliest-english-channel-crossing-on-record?traffic_source=rss",
-        "publishedAt": "2026-09-08T12:17:38Z"
+        "id": "d5287f87b3c75d779a8f",
+        "title": "US bans Canadian dairy, alcohol and motorcycles as trade war with longtime ally escalates",
+        "summary": "美国禁止加拿大乳制品、酒精和摩托车进口，贸易战进一步升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
+        "publishedAt": "2026-09-08T15:59:37Z"
+      },
+      {
+        "id": "9a1d88476b60b9fdee26",
+        "title": "US says Iranian tankers destroyed after missile attacks on American warship",
+        "summary": "美军摧毁伊朗多艘油轮，此前伊朗革命卫队曾导弹袭击美舰，局势紧张。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/iran-underwater-drone-strait-of-hormuz",
+        "publishedAt": "2026-09-08T14:54:18Z"
       },
       {
         "id": "aa26c3aa2f302d3bcb12",
         "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "summary": "英国宣布制裁以色列西岸定居点，以色列关闭英驻耶路撒冷领事馆回应。",
+        "summary": "英国宣布制裁西岸以色列定居点商品，以色列关闭英驻耶路撒冷领事馆回应。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-08T11:11:39Z"
       },
       {
-        "id": "29b574d0faa858cbe222",
-        "title": "Trump, Putin hold ‘frank’ phone call as US revives Ukraine peace efforts",
-        "summary": "特朗普与普京通电话，美国重启乌克兰和平努力。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
-        "publishedAt": "2026-09-08T10:31:30Z"
-      },
-      {
         "id": "b0603ce4f3b74ade6c4f",
         "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-        "summary": "加拿大就对近200亿美元美国商品加征高额关税，美加贸易战升级。",
+        "summary": "加拿大对近200亿美元美国商品征收关税，卡尼称“以战止战”，但警告代价。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-08T06:46:16Z"
       },
       {
-        "id": "713e67d80947828fbd9f",
-        "title": "Hundreds of UK flights disrupted by air traffic control glitch",
-        "summary": "英国空中交通管制系统故障，致数百航班取消，大量乘客滞留。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/hundreds-of-uk-flights-disrupted-by-air-traffic-control-glitch?traffic_source=rss",
-        "publishedAt": "2026-09-08T12:24:26Z"
-      },
-      {
         "id": "6ae709a46992e03c51f7",
         "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "summary": "俄无人机袭击基辅致5死，一电视台大楼被击中，乌总统谴责。",
+        "summary": "俄无人机袭击基辅致5死，一电视台大楼被击中，乌方谴责。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-08T09:10:54Z"
       },
       {
-        "id": "385179a0424a51778352",
-        "title": "Hurricane Lowell’s fierce winds and rains knocks out power on Hawaii’s Kauai",
-        "summary": "Center of storm passed west of the islands and was moving away but flooding and ",
+        "id": "c8202494c7ed4dc41f82",
+        "title": "UK air traffic control problem strands hundreds of thousands of passengers",
+        "summary": "英国空中交通管制故障导致数十万旅客滞留，超千架航班取消。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell",
-        "publishedAt": "2026-09-08T12:47:38Z"
+        "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+        "publishedAt": "2026-09-08T14:04:46Z"
       },
       {
-        "id": "1870fcacc1bc5dd275e6",
-        "title": "Smithsonian chief Lonnie Bunch III to retire amid Trump administration pressure on institution - US politics live",
-        "summary": "Bunch told the New York Times it was not Trump pressure on the organization that",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
-        "publishedAt": "2026-09-08T12:45:49Z"
+        "id": "29b574d0faa858cbe222",
+        "title": "Trump, Putin hold ‘frank’ phone call as US revives Ukraine peace efforts",
+        "summary": "特朗普与普京通话讨论乌克兰和平，美方重启外交努力。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
+        "publishedAt": "2026-09-08T10:31:30Z"
+      },
+      {
+        "id": "b9749686156f0f1f40d8",
+        "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
+        "summary": "德国逮捕疑涉多起电网袭击的嫌疑人，事件引发对关键基础设施安全的担忧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-08T07:57:06Z"
       }
     ]
   }
