@@ -1,112 +1,80 @@
 {
   "version": 1,
   "date": "2026-09-11",
-  "generatedAt": "2026-09-10T16:23:02Z",
+  "generatedAt": "2026-09-10T20:50:40Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中在青岛货轮火灾事故及中央领导指示，同时金融监管部门密集发声、中美经贸磋商与物价数据也受到关注。",
+    "overview": "今日要闻聚焦青岛货轮火灾重大事故及中央指示，宏观层面关注美国PPI超预期引发的加息预期与全球通胀忧虑，金融监管部门密集发声定调资本市场，中美经贸磋商与科技产业动态亦受关注。",
     "items": [
-      {
-        "id": "e6f4b2e54ff61fd42cfc",
-        "title": "青岛货轮火灾25人遇难",
-        "summary": "青岛一外籍货轮在北海造船厂维修时发生火灾，造成25人遇难，事故原因仍在调查中。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7683415450185220150/",
-        "publishedAt": "2026-09-10T16:23:02Z"
-      },
       {
         "id": "1afe41455c2c0e42d4a1",
         "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示",
-        "summary": "习近平对青岛北海造船厂货轮火灾事故作出重要指示，要求全力搜救、妥善做好善后处置工作。",
+        "summary": "习近平对青岛市北海造船厂货轮火灾事故作出重要指示，要求全力救援、妥善善后，查明原因，严肃追责。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34044991",
-        "publishedAt": "2026-09-10T16:23:02Z"
+        "publishedAt": "2026-09-10T20:50:40Z"
       },
       {
-        "id": "40aa0c1986f71187558e",
-        "title": "一文看懂国新办新闻发布会，央行、证监会等最新发声",
-        "summary": "国新办举行金融主题发布会，央行、证监会、金融监管总局、外汇局负责人集体发声，释放政策信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2479369",
-        "publishedAt": "2026-09-10T16:23:02Z"
-      },
-      {
-        "id": "f067d3d763546f79d831",
-        "title": "证监会最新定调未来五年资本市场，八大方向明确",
-        "summary": "证监会明确未来五年资本市场八大改革方向，涵盖投资端、融资端与监管执法等领域。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2479485",
-        "publishedAt": "2026-09-10T16:23:02Z"
-      },
-      {
-        "id": "76f74ae582384d6889f9",
-        "title": "商务部：中美正就300亿美元对等降税框架磋商",
-        "summary": "商务部表示，中美正就300亿美元规模的对等降税框架展开磋商，双边经贸关系受关注。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wJ4CTpzvar",
-        "publishedAt": "2026-09-10T16:23:02Z"
+        "id": "e6f4b2e54ff61fd42cfc",
+        "title": "青岛货轮火灾25人遇难",
+        "summary": "青岛北海造船厂一货轮发生火灾，已致25人遇难，事故原因调查及救援善后工作正在进行。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7683415450185220150/",
+        "publishedAt": "2026-09-10T20:50:40Z"
       },
       {
         "id": "5aecec7b1c90f4e5964d",
         "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-        "summary": "美国8月PPI同比加速至5.4%超出预期，核心PPI同比4.6%，市场对美联储加息预期骤然升温。",
+        "summary": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，市场对美联储加息预期骤升。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781506",
-        "publishedAt": "2026-09-10T16:23:02Z"
+        "publishedAt": "2026-09-10T20:50:40Z"
+      },
+      {
+        "id": "76f74ae582384d6889f9",
+        "title": "商务部：中美正就300亿美元对等降税框架磋商",
+        "summary": "商务部表示，中美正就300亿美元对等降税框架进行磋商，相关进展引发经贸领域关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wJ4CTpzvar",
+        "publishedAt": "2026-09-10T20:50:40Z"
+      },
+      {
+        "id": "79774b7b1171f020b775",
+        "title": "一图看懂｜围绕金融强国建设，央行、金融监管总局、证监会、国家外汇局最新发声",
+        "summary": "央行、金融监管总局、证监会、外汇局围绕金融强国建设最新发声，明确未来政策方向。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34045259",
+        "publishedAt": "2026-09-10T20:50:40Z"
+      },
+      {
+        "id": "f067d3d763546f79d831",
+        "title": "证监会最新定调未来五年资本市场，八大方向明确",
+        "summary": "证监会定调未来五年资本市场发展，明确八大方向，涉及深化改革与监管重点。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2479485",
+        "publishedAt": "2026-09-10T20:50:40Z"
+      },
+      {
+        "id": "0aee0ed912678dc592cf",
+        "title": "布油急拉！胡塞武装拿下红海沿岸城市穆哈，曼德海峡控制权生变",
+        "summary": "胡塞武装夺取红海沿岸城市穆哈，曼德海峡控制权生变，国际油价急拉，布油涨破105美元。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781491",
+        "publishedAt": "2026-09-10T20:50:40Z"
       },
       {
         "id": "81cd2514bb1d8427408a",
         "title": "15999元起售！苹果首款折叠屏手机iPhone Duo亮相，10月下旬开卖",
-        "summary": "苹果发布首款折叠屏手机iPhone Duo，中国起售价15999元，计划10月下旬开卖。",
+        "summary": "苹果首款折叠屏手机iPhone Duo亮相，15999元起售，10月下旬开卖，引发科技产业关注。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34041836",
-        "publishedAt": "2026-09-10T16:23:02Z"
-      },
-      {
-        "id": "d7ea8a252723b57caca4",
-        "title": "我国成功发射一箭六星",
-        "summary": "我国成功实施一箭六星发射任务，多颗卫星顺利进入预定轨道。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F%23",
-        "publishedAt": "2026-09-10T16:23:02Z"
+        "publishedAt": "2026-09-10T20:50:40Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国中期选举相关政治博弈、美伊冲突与油价波动、也门胡塞武装控制红海港口等议题持续发酵。",
+    "overview": "国际焦点集中于美伊冲突升级推高油价突破百美元、也门胡塞武装夺取红海战略城市穆哈，以及美国中期选举前的司法与政策博弈，另有欧洲、非洲等地重大突发事件。",
     "items": [
-      {
-        "id": "d164602822f9b7bcc3fc",
-        "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-        "summary": "特朗普称若共和党赢得中期选举，每位美国成年人将获5000美元，未说明资金来源与细节。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-10T05:23:37Z"
-      },
-      {
-        "id": "0d8950b18a835a89fb57",
-        "title": "Trump’s promise of $5,000 ‘dividend’ for US citizens after midterms decried as ‘bribery’",
-        "summary": "批评者指责特朗普5000美元\"红利\"承诺属\"贿赂\"，估算成本或达1.2万亿美元，加重国债负担。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/10/trump-5000-midterm-cash-dividend-response",
-        "publishedAt": "2026-09-10T07:01:35Z"
-      },
-      {
-        "id": "37d66d8a22733b3855eb",
-        "title": "Supreme’s court decision seems to spell end for Republican-drawn congressional maps in Missouri – US politics live",
-        "summary": "美国最高法院再次阻止密苏里州共和党重划国会选区地图，恐影响11月中期选举席位分配。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/10/donald-trump-republican-midterm-convention-dividend-offer-5000-vance-latest-news-updates",
-        "publishedAt": "2026-09-10T08:09:44Z"
-      },
-      {
-        "id": "0dd7204c321d227e3d29",
-        "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
-        "summary": "也门胡塞武装夺取红海沿岸战略城市穆哈，扩大对曼德海峡周边地区控制，威胁全球航运通道。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha?traffic_source=rss",
-        "publishedAt": "2026-09-10T06:16:42Z"
-      },
       {
         "id": "d11c5acd45fcd7f233af",
         "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
@@ -114,6 +82,22 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
         "publishedAt": "2026-09-09T11:09:13Z"
+      },
+      {
+        "id": "0dd7204c321d227e3d29",
+        "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
+        "summary": "也门胡塞武装夺取红海沿岸战略城市穆哈，扩大对曼德海峡周边控制，威胁全球航运通道。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha?traffic_source=rss",
+        "publishedAt": "2026-09-10T06:16:42Z"
+      },
+      {
+        "id": "85e118f40a4fe5775acf",
+        "title": "Coach crash kills several people in Swiss Alps",
+        "summary": "瑞士阿尔卑斯地区一辆载有48名荷兰乘客的大巴翻车，造成数人死亡、多人受伤。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-10T12:44:51Z"
       },
       {
         "id": "3694ff7f2df821966afa",
@@ -124,12 +108,12 @@
         "publishedAt": "2026-09-10T07:37:58Z"
       },
       {
-        "id": "c2ba3234eca5446db0a8",
-        "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – as it happened",
-        "summary": "北约秘书长吕特称俄罗斯行动已强化欧洲增加防务开支的理由，欧洲需承担更大安全责任。",
+        "id": "012a7a275f66a461eb4f",
+        "title": "US appeals court rejects Trump’s bid to impose restrictions on mail-in voting before midterms",
+        "summary": "美国上诉法院驳回特朗普在中期选举前对邮寄投票施加限制的请求，选举规则之争持续。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
-        "publishedAt": "2026-09-10T07:07:57Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/10/usps-mail-ballot-voting-court-ruling",
+        "publishedAt": "2026-09-10T12:31:12Z"
       },
       {
         "id": "08877e058b0d3ccc3f95",
@@ -138,6 +122,22 @@
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss",
         "publishedAt": "2026-09-10T04:26:06Z"
+      },
+      {
+        "id": "d164602822f9b7bcc3fc",
+        "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+        "summary": "特朗普称若共和党赢得中期选举，每位美国成年人将获5000美元，未说明资金来源与细节。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-10T05:23:37Z"
+      },
+      {
+        "id": "e3778e88cc1699d5815e",
+        "title": "More than 20 children killed in DR Congo school fire",
+        "summary": "刚果（金）东部布卡武市两所学校发生火灾并引发踩踏，超过20名儿童死亡，引发关注。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-10T11:16:24Z"
       }
     ]
   }
