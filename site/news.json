@@ -1,100 +1,92 @@
 {
   "version": 1,
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T04:41:21Z",
+  "generatedAt": "2026-09-10T11:16:47Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，教师节之际习近平向全国教师致以节日祝贺；苹果发布首款折叠屏手机iPhone Duo引发市场高度关注；央行、金融监管总局、证监会、外汇局联合发布会释放宏观政策信号；油价在中东局势升温下突破100美元。",
+    "overview": "国内今日聚焦青岛货轮火灾事故及领导人指示，央行、证监会发布会定调资本市场，中美经贸磋商与AI监管动态受关注。",
     "items": [
       {
-        "id": "d2ee48c97ffb72e9f694",
-        "title": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
-        "summary": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34037833",
-        "publishedAt": "2026-09-10T04:41:21Z"
+        "id": "1a12408e8966adc6c8f5",
+        "title": "习近平对青岛货轮火灾作出重要指示",
+        "summary": "习近平对青岛货轮火灾作出重要指示，要求全力搜救、妥善处置。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7683828591968567337/",
+        "publishedAt": "2026-09-10T11:16:47Z"
+      },
+      {
+        "id": "40aa0c1986f71187558e",
+        "title": "一文看懂国新办新闻发布会，央行、证监会等最新发声",
+        "summary": "国新办发布会：央行、证监会等就货币政策、资本市场改革等发声。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2479369",
+        "publishedAt": "2026-09-10T11:16:47Z"
+      },
+      {
+        "id": "76f74ae582384d6889f9",
+        "title": "商务部：中美正就300亿美元对等降税框架磋商",
+        "summary": "商务部称中美正就300亿美元对等降税框架进行磋商。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wJ4CTpzvar",
+        "publishedAt": "2026-09-10T11:16:47Z"
+      },
+      {
+        "id": "03f8a6229a0fc1255ad2",
+        "title": "青岛一货轮火灾已致20人遇难",
+        "summary": "青岛货轮火灾已致20人遇难，救援及调查工作持续进行。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7683415450185220150/",
+        "publishedAt": "2026-09-10T11:16:47Z"
+      },
+      {
+        "id": "f067d3d763546f79d831",
+        "title": "证监会最新定调未来五年资本市场，八大方向明确",
+        "summary": "证监会定调未来五年资本市场，明确八大改革方向。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2479485",
+        "publishedAt": "2026-09-10T11:16:47Z"
+      },
+      {
+        "id": "a8823c92de2e1f99f787",
+        "title": "英伟达被点名调查！美国AI行业交易将迎来更严审查",
+        "summary": "英伟达被美国司法部点名调查，AI行业交易将迎更严审查。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2479385",
+        "publishedAt": "2026-09-10T11:16:47Z"
+      },
+      {
+        "id": "ed7b7b5641c6fd12d327",
+        "title": "中国继续保持双向投资大国地位",
+        "summary": "中国继续保持双向投资大国地位，引资与对外投资稳步增长。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7683803623318359590/",
+        "publishedAt": "2026-09-10T11:16:47Z"
       },
       {
         "id": "3c9fbe1892b12af15c24",
         "title": "苹果首款折叠屏iPhone来了！中国起售1.6万元，A20 Pro加持Duo与18 Pro",
-        "summary": "苹果首款折叠屏iPhone发布，中国起售1.6万元，搭载A20 Pro芯片。",
+        "summary": "苹果发布首款折叠屏iPhone，中国起售价1.6万元，搭载A20 Pro。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781435",
-        "publishedAt": "2026-09-10T04:41:21Z"
-      },
-      {
-        "id": "38ccec72c962eab14528",
-        "title": "重磅发布会今日举行，央行、金融监管总局、证监会、外汇局等出席",
-        "summary": "央行、金融监管总局、证监会、外汇局等出席重磅发布会。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2478814",
-        "publishedAt": "2026-09-10T04:41:21Z"
-      },
-      {
-        "id": "07ad9382b0428df7da1a",
-        "title": "霍尔木兹海峡风险骤升！伊朗称将设立新的海上“制裁区域”，布油重返100美元",
-        "summary": "伊朗称将设立新海上制裁区域，布油重返100美元，霍尔木兹风险骤升。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781415",
-        "publishedAt": "2026-09-10T04:41:21Z"
-      },
-      {
-        "id": "2b930f72efe968d5669a",
-        "title": "商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准",
-        "summary": "商务部回应美方AI蒸馏指控：于事无凭、于法无据，系典型双重标准。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34039639",
-        "publishedAt": "2026-09-10T04:41:21Z"
-      },
-      {
-        "id": "04d04a5eb957e14681ce",
-        "title": "上交所向星宇股份下发监管工作函，同日公司致歉更正年报错误",
-        "summary": "上交所向星宇股份下发监管工作函，同日公司致歉更正年报错误。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34038580",
-        "publishedAt": "2026-09-10T04:41:21Z"
-      },
-      {
-        "id": "dfe28414b788b6538d9d",
-        "title": "曝DeepSeek正筹备科创板IPO",
-        "summary": "曝DeepSeek正筹备科创板IPO，引发市场关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682375308184387610/",
-        "publishedAt": "2026-09-10T04:41:21Z"
-      },
-      {
-        "id": "d8559c92c904fa491be4",
-        "title": "多架美国军机在伊朗袭击中受损",
-        "summary": "多架美国军机在伊朗袭击中受损，中东局势持续紧张。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7683726528688950820/",
-        "publishedAt": "2026-09-10T04:41:21Z"
+        "publishedAt": "2026-09-10T11:16:47Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊冲突持续升级，特朗普称战事将在中期选举后终结；菲律宾渡轮火灾致5死80余人失踪；英国制裁以色列定居点引发以方强烈反应；国际油价自7月来首次突破100美元/桶。",
+    "overview": "国际方面，特朗普中期选举承诺引争议，美伊冲突推高油价，中国货轮火灾受国际关注，全球气候与安全议题持续。",
     "items": [
       {
-        "id": "554c8a21dfcc1168c8df",
-        "title": "Australia politics live: new head of public sector union announced; Labor too slow on DV action, poll says",
-        "summary": "澳大利亚政坛动态：公共部门工会新负责人公布，工党控暴行动被指迟缓。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
-        "publishedAt": "2026-09-09T20:18:42Z"
-      },
-      {
-        "id": "e859f1fd3e629825caba",
-        "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-        "summary": "菲律宾渡轮发生火灾，造成5人死亡、86人失踪，事故令人心碎。",
+        "id": "6a0587ee5c84af0be6a8",
+        "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
+        "summary": "中国东部货轮火灾致至少20人死亡，习近平要求全力搜救。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-09T20:08:07Z"
+        "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-10T02:59:22Z"
       },
       {
         "id": "51c10944a9e01f697935",
         "title": "US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech",
-        "summary": "特朗普在共和党大会上称若中期选举获胜，每位美国成年人将获5000美元。",
+        "summary": "特朗普称若共和党赢得中期选举，每位美国成年人将获5000美元。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-republican-convention-speech-midterm-elections",
         "publishedAt": "2026-09-09T19:59:55Z"
@@ -108,28 +100,28 @@
         "publishedAt": "2026-09-09T11:09:13Z"
       },
       {
-        "id": "aa26c3aa2f302d3bcb12",
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "summary": "英国宣布制裁以色列约旦河西岸定居点，以方关闭英驻耶路撒冷领事馆回应。",
+        "id": "fdf0526692a3beff8ca4",
+        "title": "Iran war won't end until after crucial November elections, says Trump",
+        "summary": "特朗普称伊朗战争将持续至11月中期选举后，油价亦难回落。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-08T17:45:15Z"
-      },
-      {
-        "id": "59d1dffa83188438261c",
-        "title": "China slams US claims of ‘industrial-scale’ AI theft",
-        "summary": "中国驳斥美国关于工业规模AI盗窃的指控，称是高水平科技自立自强。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss",
-        "publishedAt": "2026-09-09T11:21:50Z"
+        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-10T02:43:53Z"
       },
       {
         "id": "99db81057825a1525780",
         "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
-        "summary": "美财政部回购600亿美元长债计划遭债市冷淡回应，收益率升至2008年来高位。",
+        "summary": "美财政部回购600亿美元长债计划遭债市冷淡回应，收益率飙升。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
         "publishedAt": "2026-09-09T11:56:30Z"
+      },
+      {
+        "id": "59d1dffa83188438261c",
+        "title": "China slams US claims of ‘industrial-scale’ AI theft",
+        "summary": "中国驳斥美国关于工业规模AI盗窃的指控，称其毫无根据。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss",
+        "publishedAt": "2026-09-09T11:21:50Z"
       },
       {
         "id": "2acb8eb42ba48804756f",
@@ -138,6 +130,14 @@
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/trump-escalates-trade-war-with-canada-with-import-bans-50-tariffs/a-79195010?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-08T19:10:00Z"
+      },
+      {
+        "id": "60cefa57a1e319a3d365",
+        "title": "Scientists say August was Earth's hottest month they've measured",
+        "summary": "欧盟哥白尼机构称8月为有记录以来最热月份，气候变化加剧。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+        "publishedAt": "2026-09-10T00:54:00Z"
       }
     ]
   }
