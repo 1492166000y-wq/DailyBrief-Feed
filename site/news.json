@@ -1,103 +1,103 @@
 {
   "version": 1,
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T00:13:26Z",
+  "generatedAt": "2026-09-10T04:41:21Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻涵盖苹果发布会、中美AI争端、经济数据、地缘政治等热点。",
+    "overview": "国内方面，教师节之际习近平向全国教师致以节日祝贺；苹果发布首款折叠屏手机iPhone Duo引发市场高度关注；央行、金融监管总局、证监会、外汇局联合发布会释放宏观政策信号；油价在中东局势升温下突破100美元。",
     "items": [
       {
-        "id": "168367daff7615bdad24",
-        "title": "香港特区首任行政长官董建华逝世，享年89岁",
-        "summary": "香港特区首任行政长官董建华逝世，享年89岁。",
+        "id": "d2ee48c97ffb72e9f694",
+        "title": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+        "summary": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34036031",
-        "publishedAt": "2026-09-10T00:13:26Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34037833",
+        "publishedAt": "2026-09-10T04:41:21Z"
       },
       {
         "id": "3c9fbe1892b12af15c24",
         "title": "苹果首款折叠屏iPhone来了！中国起售1.6万元，A20 Pro加持Duo与18 Pro",
-        "summary": "苹果首款折叠屏iPhone Duo发布，起售价15999元，A20 Pro加持。",
+        "summary": "苹果首款折叠屏iPhone发布，中国起售1.6万元，搭载A20 Pro芯片。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781435",
-        "publishedAt": "2026-09-10T00:13:26Z"
+        "publishedAt": "2026-09-10T04:41:21Z"
       },
       {
-        "id": "d3d153ff41d441f8f355",
-        "title": "美发布中国人工智能企业对美蒸馏活动相关网络安全公告，商务部回应",
-        "summary": "美国指责中国AI企业蒸馏美企技术，商务部回应称中国AI发展是自主创新成果。",
+        "id": "38ccec72c962eab14528",
+        "title": "重磅发布会今日举行，央行、金融监管总局、证监会、外汇局等出席",
+        "summary": "央行、金融监管总局、证监会、外汇局等出席重磅发布会。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2478630",
-        "publishedAt": "2026-09-10T00:13:26Z"
+        "url": "https://www.cls.cn/detail/2478814",
+        "publishedAt": "2026-09-10T04:41:21Z"
       },
       {
-        "id": "0f3a2675926551076a53",
-        "title": "中国8月CPI同比涨幅扩大至0.8%，PPI同比涨3.8%，环比双双转正，算力需求增长推动数据存储设备价格环比上涨2.1%",
-        "summary": "中国8月CPI同比涨0.8%，PPI涨3.8%，环比双双转正。",
+        "id": "07ad9382b0428df7da1a",
+        "title": "霍尔木兹海峡风险骤升！伊朗称将设立新的海上“制裁区域”，布油重返100美元",
+        "summary": "伊朗称将设立新海上制裁区域，布油重返100美元，霍尔木兹风险骤升。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781380",
-        "publishedAt": "2026-09-10T00:13:26Z"
+        "url": "https://wallstreetcn.com/articles/3781415",
+        "publishedAt": "2026-09-10T04:41:21Z"
       },
       {
-        "id": "d137434a10cedb1d86bb",
-        "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
-        "summary": "伊朗打击美国目标价值提高，交火呈现新特点，地区紧张升级。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wHN09cxCTv",
-        "publishedAt": "2026-09-10T00:13:26Z"
+        "id": "2b930f72efe968d5669a",
+        "title": "商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准",
+        "summary": "商务部回应美方AI蒸馏指控：于事无凭、于法无据，系典型双重标准。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34039639",
+        "publishedAt": "2026-09-10T04:41:21Z"
       },
       {
-        "id": "17a4491f3b231bbaeeb4",
-        "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
-        "summary": "DeepSeek筹备科创板IPO，明日发布V4.1 Flash模型。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2478606",
-        "publishedAt": "2026-09-10T00:13:26Z"
+        "id": "04d04a5eb957e14681ce",
+        "title": "上交所向星宇股份下发监管工作函，同日公司致歉更正年报错误",
+        "summary": "上交所向星宇股份下发监管工作函，同日公司致歉更正年报错误。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34038580",
+        "publishedAt": "2026-09-10T04:41:21Z"
       },
       {
-        "id": "f674330dac50e7c698fc",
-        "title": "【早报】深夜，苹果折叠屏手机发布，起售价15999元；重磅发布会，今日举行，央行、金融监管总局、证监会、外汇局等出席；原油飙升、黄金走强",
-        "summary": "央行等四部门将举行发布会，市场关注经济政策走向。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2478804",
-        "publishedAt": "2026-09-10T00:13:26Z"
-      },
-      {
-        "id": "b967051710c845cd96f3",
-        "title": "在改善民生中扩大内需",
-        "summary": "在改善民生中扩大内需，形成经济发展与民生改善良性循环。",
+        "id": "dfe28414b788b6538d9d",
+        "title": "曝DeepSeek正筹备科创板IPO",
+        "summary": "曝DeepSeek正筹备科创板IPO，引发市场关注。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7682681925202411563/",
-        "publishedAt": "2026-09-10T00:13:26Z"
+        "url": "https://www.toutiao.com/trending/7682375308184387610/",
+        "publishedAt": "2026-09-10T04:41:21Z"
+      },
+      {
+        "id": "d8559c92c904fa491be4",
+        "title": "多架美国军机在伊朗袭击中受损",
+        "summary": "多架美国军机在伊朗袭击中受损，中东局势持续紧张。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7683726528688950820/",
+        "publishedAt": "2026-09-10T04:41:21Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注美伊冲突、油价上涨、美国政治、英国制裁以色列等事件。",
+    "overview": "国际方面，美伊冲突持续升级，特朗普称战事将在中期选举后终结；菲律宾渡轮火灾致5死80余人失踪；英国制裁以色列定居点引发以方强烈反应；国际油价自7月来首次突破100美元/桶。",
     "items": [
       {
-        "id": "bb0aff89489032882bc9",
-        "title": "Trump says the US-Iran war will end right after midterms",
-        "summary": "特朗普称美伊战争将在中期选举后立即结束。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
-        "publishedAt": "2026-09-09T15:22:46Z"
-      },
-      {
-        "id": "99db81057825a1525780",
-        "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
-        "summary": "美财政部回购600亿美元长债计划遭债券市场冷淡回应，收益率升至2008年来高位。",
+        "id": "554c8a21dfcc1168c8df",
+        "title": "Australia politics live: new head of public sector union announced; Labor too slow on DV action, poll says",
+        "summary": "澳大利亚政坛动态：公共部门工会新负责人公布，工党控暴行动被指迟缓。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
-        "publishedAt": "2026-09-09T11:56:30Z"
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
+        "publishedAt": "2026-09-09T20:18:42Z"
       },
       {
-        "id": "59d1dffa83188438261c",
-        "title": "China slams US claims of ‘industrial-scale’ AI theft",
-        "summary": "中国驳斥美国关于‘工业规模’AI盗窃的指控，称是高水平科技自立自强。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss",
-        "publishedAt": "2026-09-09T11:21:50Z"
+        "id": "e859f1fd3e629825caba",
+        "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+        "summary": "菲律宾渡轮发生火灾，造成5人死亡、86人失踪，事故令人心碎。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-09T20:08:07Z"
+      },
+      {
+        "id": "51c10944a9e01f697935",
+        "title": "US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech",
+        "summary": "特朗普在共和党大会上称若中期选举获胜，每位美国成年人将获5000美元。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-republican-convention-speech-midterm-elections",
+        "publishedAt": "2026-09-09T19:59:55Z"
       },
       {
         "id": "d11c5acd45fcd7f233af",
@@ -116,28 +116,28 @@
         "publishedAt": "2026-09-08T17:45:15Z"
       },
       {
+        "id": "59d1dffa83188438261c",
+        "title": "China slams US claims of ‘industrial-scale’ AI theft",
+        "summary": "中国驳斥美国关于工业规模AI盗窃的指控，称是高水平科技自立自强。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss",
+        "publishedAt": "2026-09-09T11:21:50Z"
+      },
+      {
+        "id": "99db81057825a1525780",
+        "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
+        "summary": "美财政部回购600亿美元长债计划遭债市冷淡回应，收益率升至2008年来高位。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
+        "publishedAt": "2026-09-09T11:56:30Z"
+      },
+      {
         "id": "2acb8eb42ba48804756f",
         "title": "Trump escalates trade war with Canada with import bans, 50% tariffs",
         "summary": "特朗普升级对加拿大贸易战，实施进口禁令并加征50%关税。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/trump-escalates-trade-war-with-canada-with-import-bans-50-tariffs/a-79195010?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-08T19:10:00Z"
-      },
-      {
-        "id": "8178f837180814fcd66a",
-        "title": "Met police launch inquiry into alleged overseas donations to Reform UK",
-        "summary": "伦敦警察厅调查改革党涉嫌非法外国捐款，该党财务丑闻加剧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/sep/09/met-police-launch-inquiry-into-alleged-overseas-donations-to-reform-uk",
-        "publishedAt": "2026-09-09T11:00:03Z"
-      },
-      {
-        "id": "c6ea50ec6b077844ccaf",
-        "title": "Australia politics live: crossbench, Liberal and Greens politicians back Hastie in heated fight with Hanson over ‘traitor’ cartoon",
-        "summary": "Follow the day’s news liveLabor introducing new laws to crack down on illegal to",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
-        "publishedAt": "2026-09-09T15:52:01Z"
       }
     ]
   }
