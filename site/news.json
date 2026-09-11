@@ -1,95 +1,87 @@
 {
   "version": 1,
   "date": "2026-09-12",
-  "generatedAt": "2026-09-11T16:26:53Z",
+  "generatedAt": "2026-09-11T20:57:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻涵盖中美安全交涉、通胀与美联储加息预期、算力基础设施部署、汽车产业目标及服贸会成果等宏观议题。",
+    "overview": "今日焦点集中在中美安全博弈、美国通胀数据对全球货币政策的影响、国内资本市场与产业政策动向，以及多起引发社会关注的司法与监管事件。",
     "items": [
       {
         "id": "8abe5c091ebde560b367",
         "title": "中方正告美方立即停止对华间谍活动",
-        "summary": "中方正告美方立即停止对华间谍活动，要求美方纠正错误做法。",
+        "summary": "中方正告美方立即停止对华间谍活动，要求美方停止危害中国国家安全的行径。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7684236026994282011/",
-        "publishedAt": "2026-09-11T16:26:53Z"
-      },
-      {
-        "id": "2bd9611a8f2a9ce59e1a",
-        "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-        "summary": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781481",
-        "publishedAt": "2026-09-11T16:26:53Z"
+        "publishedAt": "2026-09-11T20:57:20Z"
       },
       {
         "id": "e23dbbf7daf850ca118f",
         "title": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
-        "summary": "美国8月核心CPI同比2.4%创五年半最低，环比0.3%超预期。",
+        "summary": "美国8月核心CPI同比2.4%创五年半新低，环比0.3%超预期，为四个月来最大涨幅。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781591",
-        "publishedAt": "2026-09-11T16:26:53Z"
+        "publishedAt": "2026-09-11T20:57:20Z"
       },
       {
         "id": "740438f27f38267ef247",
         "title": "国常会：要坚持合理布局、规范有序，进一步完善算力基础设施",
-        "summary": "国常会强调合理布局、规范有序，进一步完善算力基础设施。",
+        "summary": "国常会部署完善算力基础设施，要求合理布局、规范有序，推动算力产业健康发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481115",
-        "publishedAt": "2026-09-11T16:26:53Z"
+        "publishedAt": "2026-09-11T20:57:20Z"
       },
       {
         "id": "3220e37312e06114b088",
         "title": "证监会连开罚单！2名证券从业人员、1名百万粉丝财经博主编造虚假信息被罚",
-        "summary": "证监会连开罚单，两名证券从业人员及一名财经博主编造虚假信息被罚。",
+        "summary": "证监会处罚两名证券从业人员及一名百万粉丝财经博主，因编造虚假信息。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481067",
-        "publishedAt": "2026-09-11T16:26:53Z"
+        "publishedAt": "2026-09-11T20:57:20Z"
       },
       {
-        "id": "5153c83873caec6f3047",
-        "title": "服贸会多项硬核成果落地",
-        "summary": "服贸会多项硬核成果落地，推动服务贸易开放合作。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684242464861031986/",
-        "publishedAt": "2026-09-11T16:26:53Z"
+        "id": "f25f1cdb471f162b4c68",
+        "title": "江苏省副省长赵岩调任哈尔滨工业大学党委书记",
+        "summary": "江苏省副省长赵岩调任哈尔滨工业大学党委书记，地方与高校人事调整引关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34049065",
+        "publishedAt": "2026-09-11T20:57:20Z"
+      },
+      {
+        "id": "d0e1d54ada919f223b67",
+        "title": "我国发现世界级规模深海矿床",
+        "summary": "我国发现世界级规模深海矿床，对关键矿产资源保障具有重要战略意义。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E8%A7%84%E6%A8%A1%E6%B7%B1%E6%B5%B7%E7%9F%BF%E5%BA%8A%23",
+        "publishedAt": "2026-09-11T20:57:20Z"
       },
       {
         "id": "94a2f7e6eb26a50e2d23",
         "title": "2030年进入世界汽车强国行列",
-        "summary": "我国提出2030年进入世界汽车强国行列，新能源汽车目标明确。",
+        "summary": "我国计划2030年进入世界汽车强国行列，新能源乘用车销量占比目标达70%。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97",
-        "publishedAt": "2026-09-11T16:26:53Z"
+        "publishedAt": "2026-09-11T20:57:20Z"
       },
       {
-        "id": "f135c8e3d8e6fdb51dfe",
-        "title": "“10台手机卖不出1台折叠屏”",
-        "summary": "折叠屏手机销量低迷，十台手机卖不出一台，市场遇冷。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D",
-        "publishedAt": "2026-09-11T16:26:53Z"
+        "id": "5153c83873caec6f3047",
+        "title": "服贸会多项硬核成果落地",
+        "summary": "服贸会多项硬核成果落地，展示服务贸易与科技融合的新进展。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7684242464861031986/",
+        "publishedAt": "2026-09-11T20:57:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括美国9/11事件25周年纪念、胡塞武装控制红海航运通道、伊朗战争推高油价、德国选择党州选动向及乌克兰局势。",
+    "overview": "国际方面，也门胡塞武装控制红海关键航道推升地缘与能源风险，美国9·11纪念活动与对伊政策引发关注，欧洲极右翼选举动态与英国辅助死亡法案表决亦具影响力。",
     "items": [
       {
-        "id": "b73932c762f6b2df64a6",
-        "title": "Remembrance ceremonies held across the US to honor victims of 9/11",
-        "summary": "美国多地举行9/11事件25周年纪念活动，悼念近三千名遇难者。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/11/september-11-commemorations",
-        "publishedAt": "2026-09-11T08:16:37Z"
-      },
-      {
-        "id": "86cfd64ba6266f36274c",
-        "title": "Houthis take control of Yemen’s Red Sea coast and key shipping route",
-        "summary": "胡塞武装控制也门红海沿岸及关键航运通道，威胁全球航运安全。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
-        "publishedAt": "2026-09-11T02:11:17Z"
+        "id": "f217f263dd8528bc846a",
+        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+        "summary": "胡塞武装宣称在也门取得重大进展，并加强控制红海航运要道曼德海峡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-11T12:11:47Z"
       },
       {
         "id": "d11c5acd45fcd7f233af",
@@ -100,20 +92,44 @@
         "publishedAt": "2026-09-09T11:09:13Z"
       },
       {
+        "id": "80acf471bbbce7bd91cc",
+        "title": "US holds memorials for the 9/11 attacks, 25 years later",
+        "summary": "美国多地举行9·11事件25周年纪念活动，悼念近三千名遇难者。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
+        "publishedAt": "2026-09-11T10:00:41Z"
+      },
+      {
+        "id": "1f0e9e79cc5a2c83b52f",
+        "title": "Can BRICS help reshape global order by strengthening emerging economies?",
+        "summary": "金砖国家峰会在印度新德里举行，聚焦加强新兴经济体合作与全球秩序重塑。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
+        "publishedAt": "2026-09-11T12:04:02Z"
+      },
+      {
         "id": "bb0e95a58e3f1757c8a5",
         "title": "Germany: Far right lead in upcoming state election polls",
-        "summary": "德国极右翼选择党在州选举民调中领先，引发对政治风向担忧。",
+        "summary": "德国极右翼选择党在州选举民调中领先，引发对政治风向的担忧。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-11T01:02:00Z"
       },
       {
-        "id": "e9ccb6cd98a65806068e",
-        "title": "India looks to steer BRICS away from anti-Western turn",
-        "summary": "印度主办BRICS峰会，试图引导该组织避免转向反西方立场。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-11T02:55:00Z"
+        "id": "4e6d588f8fa9b47f0cf4",
+        "title": "UK lawmakers vote against bill to legalise assisted dying",
+        "summary": "英国下议院以286票对270票否决辅助死亡合法化法案。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
+        "publishedAt": "2026-09-11T09:31:22Z"
+      },
+      {
+        "id": "2a08e5eb335b3929212e",
+        "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
+        "summary": "俄罗斯首次以喷气动力无人机袭击基辅加油站，打击范围进入新阶段。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
+        "publishedAt": "2026-09-11T04:01:22Z"
       },
       {
         "id": "6d1a5769aeb53b04ed96",
@@ -122,22 +138,6 @@
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-11T00:15:25Z"
-      },
-      {
-        "id": "2a08e5eb335b3929212e",
-        "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
-        "summary": "俄罗斯首次以喷气动力无人机袭击基辅加油站，打击进入新阶段。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
-        "publishedAt": "2026-09-11T04:01:22Z"
-      },
-      {
-        "id": "16ea3e0cd2531ea43e04",
-        "title": "Philippines ferry fire death toll rises to 35 after bodies recovered",
-        "summary": "菲律宾渡轮火灾死亡人数升至35人，海岸警卫队已打捞更多遗体。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss",
-        "publishedAt": "2026-09-11T07:41:54Z"
       }
     ]
   }
