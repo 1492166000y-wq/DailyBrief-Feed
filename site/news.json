@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T04:37:18Z",
+  "generatedAt": "2026-09-11T11:18:05Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦青岛造船厂货轮火灾事故问责、央行等四部门金融强国发布会与监管新规、以及美国PPI超预期引发全球股债双杀。",
+    "overview": "今日国内关注点包括中方调整对日签证规费、青岛货轮火灾致25人遇难、美国PPI超预期引发全球市场波动，以及打假网红铁头获刑等。",
     "items": [
       {
-        "id": "1afe41455c2c0e42d4a1",
-        "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示",
-        "summary": "习近平对青岛北海造船厂货轮火灾事故作出重要指示，要求全力救治伤员并彻查事故原因。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34044991",
-        "publishedAt": "2026-09-11T04:37:18Z"
+        "id": "41cf405fe7c178f8f64e",
+        "title": "中方：调整对日签证规费",
+        "summary": "中方调整对日签证规费，中国驻日使馆发布通知，此举或与中日关系近期动向相关。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7683057305700781574/",
+        "publishedAt": "2026-09-11T11:18:05Z"
       },
       {
         "id": "7467032584b8cbccc022",
         "title": "山东青岛北海造船厂一货轮火灾事故已造成25人遇难",
-        "summary": "青岛北海造船厂货轮火灾事故已造成25人遇难，救援和善后工作仍在紧张进行中。",
+        "summary": "山东青岛北海造船厂一货轮发生火灾，已造成25人遇难，事故原因正在调查中。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34045992",
-        "publishedAt": "2026-09-11T04:37:18Z"
-      },
-      {
-        "id": "79774b7b1171f020b775",
-        "title": "一图看懂｜围绕金融强国建设，央行、金融监管总局、证监会、国家外汇局最新发声",
-        "summary": "央行、金融监管总局、证监会、外汇局围绕金融强国建设集体发声，释放多项政策信号。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34045259",
-        "publishedAt": "2026-09-11T04:37:18Z"
-      },
-      {
-        "id": "20bab7abe529bb42c969",
-        "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
-        "summary": "重磅金融发布会召开，证监会、央行等四部门就金融强国建设与监管方向统一发声。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781482",
-        "publishedAt": "2026-09-11T04:37:18Z"
+        "publishedAt": "2026-09-11T11:18:05Z"
       },
       {
         "id": "5aecec7b1c90f4e5964d",
         "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-        "summary": "美国8月PPI同比升至5.4%超预期，核心PPI同比4.6%，市场对美联储加息预期骤升。",
+        "summary": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781506",
-        "publishedAt": "2026-09-11T04:37:18Z"
+        "publishedAt": "2026-09-11T11:18:05Z"
       },
       {
-        "id": "6dc9017590edd03b4156",
-        "title": "美股收盘：美油破百三大指数四连跌 芯片、存储、光通信集体回落",
-        "summary": "美股三大指数四连跌，芯片、存储、光通信板块集体回落，国际油价突破百美元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2480136",
-        "publishedAt": "2026-09-11T04:37:18Z"
-      },
-      {
-        "id": "24191968c5168a621609",
-        "title": "工信部印发《“人工智能+软件”专项行动实施方案》",
-        "summary": "工信部印发《“人工智能+软件”专项行动实施方案》，推动AI与软件产业深度融合。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2480221",
-        "publishedAt": "2026-09-11T04:37:18Z"
-      },
-      {
-        "id": "0aee0ed912678dc592cf",
-        "title": "布油急拉！胡塞武装拿下红海沿岸城市穆哈，曼德海峡控制权生变",
-        "summary": "胡塞武装夺取红海沿岸城市穆哈，曼德海峡控制权生变，布伦特油价急拉。",
+        "id": "2bd9611a8f2a9ce59e1a",
+        "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+        "summary": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781491",
-        "publishedAt": "2026-09-11T04:37:18Z"
+        "url": "https://wallstreetcn.com/articles/3781481",
+        "publishedAt": "2026-09-11T11:18:05Z"
+      },
+      {
+        "id": "f9148bad9916a6810630",
+        "title": "打假网红铁头获刑8年",
+        "summary": "打假网红铁头一审获刑8年，案件涉及敲诈勒索等罪名，引发网络关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E8%8E%B7%E5%88%918%E5%B9%B4",
+        "publishedAt": "2026-09-11T11:18:05Z"
+      },
+      {
+        "id": "300c288b7f6514190be8",
+        "title": "外交部：已向意方、欧方提出严正交涉",
+        "summary": "外交部就台湾地区副领导人访欧向意方、欧方提出严正交涉，重申一个中国原则。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%90%91%E6%84%8F%E6%96%B9%E3%80%81%E6%AC%A7%E6%96%B9%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+        "publishedAt": "2026-09-11T11:18:05Z"
+      },
+      {
+        "id": "fd739635da5a18fc44b7",
+        "title": "到2030年，国内市场新能源乘用车在其领域新车总销量占比达70%",
+        "summary": "到2030年国内新能源乘用车在新车总销量中占比达70%的目标提出，推动绿色转型。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34049046",
+        "publishedAt": "2026-09-11T11:18:05Z"
+      },
+      {
+        "id": "e7715b8ac670202197ca",
+        "title": "一系列先行指标看我国经济发展韧性",
+        "summary": "一系列先行指标显示我国经济发展韧性，制造业和消费等领域呈现积极信号。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7683338562577793034/",
+        "publishedAt": "2026-09-11T11:18:05Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊冲突升级推动油价破百、胡塞武装夺取红海战略城市穆哈，特朗普中期选举大会承诺向成年人发放5000美元并遭到质疑。",
+    "overview": "国际焦点涵盖9·11事件25周年纪念、胡塞武装控制红海要道、美伊冲突推高油价、德国极右翼势力抬头，以及BRICS峰会等议题。",
     "items": [
+      {
+        "id": "d3a16b613f00b370e5da",
+        "title": "Remembrance ceremonies to be held across the US to honor victims of 9/11",
+        "summary": "美国举行9·11事件25周年纪念活动，多地举行仪式悼念近3000名遇难者。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/11/september-11-commemorations",
+        "publishedAt": "2026-09-11T00:00:04Z"
+      },
+      {
+        "id": "86cfd64ba6266f36274c",
+        "title": "Houthis take control of Yemen’s Red Sea coast and key shipping route",
+        "summary": "胡塞武装控制也门红海沿岸及关键航运通道，威胁全球航运安全。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
+        "publishedAt": "2026-09-11T02:11:17Z"
+      },
       {
         "id": "d11c5acd45fcd7f233af",
         "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-        "summary": "美伊冲突升级推动国际油价突破每桶100美元，为7月以来首次，全球能源市场承压。",
+        "summary": "美伊冲突升级推动国际油价突破每桶100美元，为7月以来首次。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
         "publishedAt": "2026-09-09T11:09:13Z"
       },
       {
-        "id": "0dd7204c321d227e3d29",
-        "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
-        "summary": "也门胡塞武装夺取红海沿岸战略城市穆哈，扩大对曼德海峡周边控制，威胁全球航运通道。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha?traffic_source=rss",
-        "publishedAt": "2026-09-10T06:16:42Z"
+        "id": "e9ccb6cd98a65806068e",
+        "title": "India looks to steer BRICS away from anti-Western turn",
+        "summary": "印度主办BRICS峰会，试图引导该组织避免转向反西方立场。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-11T02:55:00Z"
       },
       {
-        "id": "08877e058b0d3ccc3f95",
-        "title": "Algeria says cutting diplomatic ties with UAE",
-        "summary": "阿尔及利亚宣布与阿联酋断绝外交关系并关闭领空，两国地区立场分歧长期积累。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss",
-        "publishedAt": "2026-09-10T04:26:06Z"
+        "id": "bb0e95a58e3f1757c8a5",
+        "title": "Germany: Far right lead in upcoming state election polls",
+        "summary": "德国极右翼选择党在州选举民调中领先，引发对政治风向的担忧。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-11T01:02:00Z"
       },
       {
         "id": "d164602822f9b7bcc3fc",
         "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-        "summary": "特朗普称若共和党赢得中期选举，每位美国成年人将获5000美元，未说明资金来源与细节。",
+        "summary": "特朗普称若共和党赢得中期选举，每位美国成年人将获5000美元。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-10T05:23:37Z"
       },
       {
-        "id": "012a7a275f66a461eb4f",
-        "title": "US appeals court rejects Trump’s bid to impose restrictions on mail-in voting before midterms",
-        "summary": "美国上诉法院驳回特朗普在中期选举前对邮寄投票施加限制的请求，选举规则之争持续。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/10/usps-mail-ballot-voting-court-ruling",
-        "publishedAt": "2026-09-10T12:31:12Z"
-      },
-      {
         "id": "b174ba8d45a1c6754c59",
         "title": "Russian strike hits shopping centre in central Ukraine",
-        "summary": "俄罗斯空袭乌克兰中部城市帕夫洛赫拉德一处购物中心，造成至少四人死亡。",
+        "summary": "俄罗斯空袭乌克兰中部城市购物中心，造成至少四人死亡。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
         "publishedAt": "2026-09-10T13:03:42Z"
       },
       {
-        "id": "6cce6838768858fdbebf",
-        "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-        "summary": "加拿大总理卡尼会晤泽连斯基，加方将向乌克兰提供防空支持并补充无人机库存。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-        "publishedAt": "2026-09-10T12:35:06Z"
-      },
-      {
-        "id": "a97d0108be1a98f0b254",
-        "title": "Canada, Ukraine pledge 100-year partnership",
-        "summary": "加拿大与乌克兰宣布建立百年伙伴关系，泽连斯基称加方将提供重要防空装备。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/canada-ukraine-pledge-100-year-partnership/a-79209534?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-10T10:13:00Z"
+        "id": "6d1a5769aeb53b04ed96",
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "summary": "Anthropic警告有人试图利用AI制造生物武器，呼吁加强模型访问管控。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-11T00:15:25Z"
       }
     ]
   }
