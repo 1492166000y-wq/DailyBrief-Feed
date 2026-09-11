@@ -1,87 +1,87 @@
 {
   "version": 1,
-  "date": "2026-09-11",
-  "generatedAt": "2026-09-11T11:18:05Z",
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-11T16:26:53Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内关注点包括中方调整对日签证规费、青岛货轮火灾致25人遇难、美国PPI超预期引发全球市场波动，以及打假网红铁头获刑等。",
+    "overview": "国内要闻涵盖中美安全交涉、通胀与美联储加息预期、算力基础设施部署、汽车产业目标及服贸会成果等宏观议题。",
     "items": [
       {
-        "id": "41cf405fe7c178f8f64e",
-        "title": "中方：调整对日签证规费",
-        "summary": "中方调整对日签证规费，中国驻日使馆发布通知，此举或与中日关系近期动向相关。",
+        "id": "8abe5c091ebde560b367",
+        "title": "中方正告美方立即停止对华间谍活动",
+        "summary": "中方正告美方立即停止对华间谍活动，要求美方纠正错误做法。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7683057305700781574/",
-        "publishedAt": "2026-09-11T11:18:05Z"
-      },
-      {
-        "id": "7467032584b8cbccc022",
-        "title": "山东青岛北海造船厂一货轮火灾事故已造成25人遇难",
-        "summary": "山东青岛北海造船厂一货轮发生火灾，已造成25人遇难，事故原因正在调查中。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34045992",
-        "publishedAt": "2026-09-11T11:18:05Z"
-      },
-      {
-        "id": "5aecec7b1c90f4e5964d",
-        "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-        "summary": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781506",
-        "publishedAt": "2026-09-11T11:18:05Z"
+        "url": "https://www.toutiao.com/trending/7684236026994282011/",
+        "publishedAt": "2026-09-11T16:26:53Z"
       },
       {
         "id": "2bd9611a8f2a9ce59e1a",
         "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-        "summary": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫。",
+        "summary": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781481",
-        "publishedAt": "2026-09-11T11:18:05Z"
+        "publishedAt": "2026-09-11T16:26:53Z"
       },
       {
-        "id": "f9148bad9916a6810630",
-        "title": "打假网红铁头获刑8年",
-        "summary": "打假网红铁头一审获刑8年，案件涉及敲诈勒索等罪名，引发网络关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E8%8E%B7%E5%88%918%E5%B9%B4",
-        "publishedAt": "2026-09-11T11:18:05Z"
+        "id": "e23dbbf7daf850ca118f",
+        "title": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
+        "summary": "美国8月核心CPI同比2.4%创五年半最低，环比0.3%超预期。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781591",
+        "publishedAt": "2026-09-11T16:26:53Z"
       },
       {
-        "id": "300c288b7f6514190be8",
-        "title": "外交部：已向意方、欧方提出严正交涉",
-        "summary": "外交部就台湾地区副领导人访欧向意方、欧方提出严正交涉，重申一个中国原则。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%90%91%E6%84%8F%E6%96%B9%E3%80%81%E6%AC%A7%E6%96%B9%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
-        "publishedAt": "2026-09-11T11:18:05Z"
+        "id": "740438f27f38267ef247",
+        "title": "国常会：要坚持合理布局、规范有序，进一步完善算力基础设施",
+        "summary": "国常会强调合理布局、规范有序，进一步完善算力基础设施。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481115",
+        "publishedAt": "2026-09-11T16:26:53Z"
       },
       {
-        "id": "fd739635da5a18fc44b7",
-        "title": "到2030年，国内市场新能源乘用车在其领域新车总销量占比达70%",
-        "summary": "到2030年国内新能源乘用车在新车总销量中占比达70%的目标提出，推动绿色转型。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34049046",
-        "publishedAt": "2026-09-11T11:18:05Z"
+        "id": "3220e37312e06114b088",
+        "title": "证监会连开罚单！2名证券从业人员、1名百万粉丝财经博主编造虚假信息被罚",
+        "summary": "证监会连开罚单，两名证券从业人员及一名财经博主编造虚假信息被罚。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481067",
+        "publishedAt": "2026-09-11T16:26:53Z"
       },
       {
-        "id": "e7715b8ac670202197ca",
-        "title": "一系列先行指标看我国经济发展韧性",
-        "summary": "一系列先行指标显示我国经济发展韧性，制造业和消费等领域呈现积极信号。",
+        "id": "5153c83873caec6f3047",
+        "title": "服贸会多项硬核成果落地",
+        "summary": "服贸会多项硬核成果落地，推动服务贸易开放合作。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7683338562577793034/",
-        "publishedAt": "2026-09-11T11:18:05Z"
+        "url": "https://www.toutiao.com/trending/7684242464861031986/",
+        "publishedAt": "2026-09-11T16:26:53Z"
+      },
+      {
+        "id": "94a2f7e6eb26a50e2d23",
+        "title": "2030年进入世界汽车强国行列",
+        "summary": "我国提出2030年进入世界汽车强国行列，新能源汽车目标明确。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97",
+        "publishedAt": "2026-09-11T16:26:53Z"
+      },
+      {
+        "id": "f135c8e3d8e6fdb51dfe",
+        "title": "“10台手机卖不出1台折叠屏”",
+        "summary": "折叠屏手机销量低迷，十台手机卖不出一台，市场遇冷。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D",
+        "publishedAt": "2026-09-11T16:26:53Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点涵盖9·11事件25周年纪念、胡塞武装控制红海要道、美伊冲突推高油价、德国极右翼势力抬头，以及BRICS峰会等议题。",
+    "overview": "国际焦点包括美国9/11事件25周年纪念、胡塞武装控制红海航运通道、伊朗战争推高油价、德国选择党州选动向及乌克兰局势。",
     "items": [
       {
-        "id": "d3a16b613f00b370e5da",
-        "title": "Remembrance ceremonies to be held across the US to honor victims of 9/11",
-        "summary": "美国举行9·11事件25周年纪念活动，多地举行仪式悼念近3000名遇难者。",
+        "id": "b73932c762f6b2df64a6",
+        "title": "Remembrance ceremonies held across the US to honor victims of 9/11",
+        "summary": "美国多地举行9/11事件25周年纪念活动，悼念近三千名遇难者。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/11/september-11-commemorations",
-        "publishedAt": "2026-09-11T00:00:04Z"
+        "publishedAt": "2026-09-11T08:16:37Z"
       },
       {
         "id": "86cfd64ba6266f36274c",
@@ -100,6 +100,14 @@
         "publishedAt": "2026-09-09T11:09:13Z"
       },
       {
+        "id": "bb0e95a58e3f1757c8a5",
+        "title": "Germany: Far right lead in upcoming state election polls",
+        "summary": "德国极右翼选择党在州选举民调中领先，引发对政治风向担忧。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-11T01:02:00Z"
+      },
+      {
         "id": "e9ccb6cd98a65806068e",
         "title": "India looks to steer BRICS away from anti-Western turn",
         "summary": "印度主办BRICS峰会，试图引导该组织避免转向反西方立场。",
@@ -108,36 +116,28 @@
         "publishedAt": "2026-09-11T02:55:00Z"
       },
       {
-        "id": "bb0e95a58e3f1757c8a5",
-        "title": "Germany: Far right lead in upcoming state election polls",
-        "summary": "德国极右翼选择党在州选举民调中领先，引发对政治风向的担忧。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-11T01:02:00Z"
-      },
-      {
-        "id": "d164602822f9b7bcc3fc",
-        "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-        "summary": "特朗普称若共和党赢得中期选举，每位美国成年人将获5000美元。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-10T05:23:37Z"
-      },
-      {
-        "id": "b174ba8d45a1c6754c59",
-        "title": "Russian strike hits shopping centre in central Ukraine",
-        "summary": "俄罗斯空袭乌克兰中部城市购物中心，造成至少四人死亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
-        "publishedAt": "2026-09-10T13:03:42Z"
-      },
-      {
         "id": "6d1a5769aeb53b04ed96",
         "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "summary": "Anthropic警告有人试图利用AI制造生物武器，呼吁加强模型访问管控。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-11T00:15:25Z"
+      },
+      {
+        "id": "2a08e5eb335b3929212e",
+        "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
+        "summary": "俄罗斯首次以喷气动力无人机袭击基辅加油站，打击进入新阶段。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
+        "publishedAt": "2026-09-11T04:01:22Z"
+      },
+      {
+        "id": "16ea3e0cd2531ea43e04",
+        "title": "Philippines ferry fire death toll rises to 35 after bodies recovered",
+        "summary": "菲律宾渡轮火灾死亡人数升至35人，海岸警卫队已打捞更多遗体。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss",
+        "publishedAt": "2026-09-11T07:41:54Z"
       }
     ]
   }
