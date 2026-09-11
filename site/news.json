@@ -1,79 +1,79 @@
 {
   "version": 1,
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T00:09:01Z",
+  "generatedAt": "2026-09-11T04:37:18Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于青岛货轮火灾重大伤亡、金融监管部门联合发声、中美经贸磋商与物价数据；市场层面关注油价调整、铜价波动及美国PPI超预期对全球风险偏好的冲击。",
+    "overview": "今日国内要闻聚焦青岛造船厂货轮火灾事故问责、央行等四部门金融强国发布会与监管新规、以及美国PPI超预期引发全球股债双杀。",
     "items": [
       {
         "id": "1afe41455c2c0e42d4a1",
         "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示",
-        "summary": "习近平对青岛北海造船厂货轮火灾事故作出重要指示，要求全力救援并彻查原因。",
+        "summary": "习近平对青岛北海造船厂货轮火灾事故作出重要指示，要求全力救治伤员并彻查事故原因。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34044991",
-        "publishedAt": "2026-09-11T00:09:01Z"
+        "publishedAt": "2026-09-11T04:37:18Z"
       },
       {
         "id": "7467032584b8cbccc022",
         "title": "山东青岛北海造船厂一货轮火灾事故已造成25人遇难",
-        "summary": "青岛北海造船厂货轮火灾已造成25人遇难，事故原因调查与善后工作同步展开。",
+        "summary": "青岛北海造船厂货轮火灾事故已造成25人遇难，救援和善后工作仍在紧张进行中。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34045992",
-        "publishedAt": "2026-09-11T00:09:01Z"
+        "publishedAt": "2026-09-11T04:37:18Z"
       },
       {
         "id": "79774b7b1171f020b775",
         "title": "一图看懂｜围绕金融强国建设，央行、金融监管总局、证监会、国家外汇局最新发声",
-        "summary": "央行、金融监管总局、证监会、外汇局围绕金融强国建设集体发声，释放最新政策信号。",
+        "summary": "央行、金融监管总局、证监会、外汇局围绕金融强国建设集体发声，释放多项政策信号。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34045259",
-        "publishedAt": "2026-09-11T00:09:01Z"
+        "publishedAt": "2026-09-11T04:37:18Z"
       },
       {
-        "id": "76f74ae582384d6889f9",
-        "title": "商务部：中美正就300亿美元对等降税框架磋商",
-        "summary": "商务部表示中美正就300亿美元对等降税框架进行磋商，贸易关系出现缓和迹象。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wJ4CTpzvar",
-        "publishedAt": "2026-09-11T00:09:01Z"
+        "id": "20bab7abe529bb42c969",
+        "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+        "summary": "重磅金融发布会召开，证监会、央行等四部门就金融强国建设与监管方向统一发声。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781482",
+        "publishedAt": "2026-09-11T04:37:18Z"
       },
       {
         "id": "5aecec7b1c90f4e5964d",
         "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-        "summary": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升。",
+        "summary": "美国8月PPI同比升至5.4%超预期，核心PPI同比4.6%，市场对美联储加息预期骤升。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781506",
-        "publishedAt": "2026-09-11T00:09:01Z"
+        "publishedAt": "2026-09-11T04:37:18Z"
       },
       {
-        "id": "2bd9611a8f2a9ce59e1a",
-        "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-        "summary": "通胀忧虑重燃致美股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781481",
-        "publishedAt": "2026-09-11T00:09:01Z"
+        "id": "6dc9017590edd03b4156",
+        "title": "美股收盘：美油破百三大指数四连跌 芯片、存储、光通信集体回落",
+        "summary": "美股三大指数四连跌，芯片、存储、光通信板块集体回落，国际油价突破百美元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2480136",
+        "publishedAt": "2026-09-11T04:37:18Z"
+      },
+      {
+        "id": "24191968c5168a621609",
+        "title": "工信部印发《“人工智能+软件”专项行动实施方案》",
+        "summary": "工信部印发《“人工智能+软件”专项行动实施方案》，推动AI与软件产业深度融合。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2480221",
+        "publishedAt": "2026-09-11T04:37:18Z"
       },
       {
         "id": "0aee0ed912678dc592cf",
         "title": "布油急拉！胡塞武装拿下红海沿岸城市穆哈，曼德海峡控制权生变",
-        "summary": "胡塞武装夺取红海沿岸城市穆哈，曼德海峡控制权生变，布伦特油价急速拉升。",
+        "summary": "胡塞武装夺取红海沿岸城市穆哈，曼德海峡控制权生变，布伦特油价急拉。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781491",
-        "publishedAt": "2026-09-11T00:09:01Z"
-      },
-      {
-        "id": "d29ddbd2fd767bbde4ee",
-        "title": "车主留意！油价要调了",
-        "summary": "国内成品油价格将迎来新一轮调整，车主需留意调价窗口与出行成本变化。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E7%95%99%E6%84%8F%EF%BC%81%E6%B2%B9%E4%BB%B7%E8%A6%81%E8%B0%83%E4%BA%86",
-        "publishedAt": "2026-09-11T00:09:01Z"
+        "publishedAt": "2026-09-11T04:37:18Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊冲突升级推动油价破百，也门胡塞武装夺取红海战略港口，阿尔及利亚与阿联酋断交；美国中期选举前特朗普发放现金提议与邮寄投票裁决引发争议，加乌宣布百年伙伴关系。",
+    "overview": "国际方面，美伊冲突升级推动油价破百、胡塞武装夺取红海战略城市穆哈，特朗普中期选举大会承诺向成年人发放5000美元并遭到质疑。",
     "items": [
       {
         "id": "d11c5acd45fcd7f233af",
@@ -94,7 +94,7 @@
       {
         "id": "08877e058b0d3ccc3f95",
         "title": "Algeria says cutting diplomatic ties with UAE",
-        "summary": "阿尔及利亚宣布与阿联酋断绝外交关系，两国在多个地区问题上长期立场分歧。",
+        "summary": "阿尔及利亚宣布与阿联酋断绝外交关系并关闭领空，两国地区立场分歧长期积累。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss",
         "publishedAt": "2026-09-10T04:26:06Z"
