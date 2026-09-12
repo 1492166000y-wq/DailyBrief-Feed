@@ -1,103 +1,95 @@
 {
   "version": 1,
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-12T15:30:59Z",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-12T18:22:04Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注金砖机制与2027年接任主席国、美联储加息预期升温、国常会算力基建部署、红通人员引渡归案及地方社会热点。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
         "id": "1b6f1277c45b3383874c",
         "title": "中国将于2027年接任金砖主席国",
-        "summary": "中国将于2027年接任金砖主席国，延续该机制在互联互通与贸易通道上的合作势头。",
+        "summary": "中国将于2027年接任金砖主席国，金砖合作机制持续推进。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7684437120370851883/",
-        "publishedAt": "2026-09-12T15:30:59Z"
+        "publishedAt": "2026-09-12T18:22:04Z"
       },
       {
         "id": "8ed5a1368fb419a26946",
         "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
-        "summary": "早报显示美联储下周加息概率飙至90%，美股黄金齐涨，国常会部署完善算力基础设施。",
+        "summary": "国常会部署完善算力基础设施，美联储下周加息概率飙升至90%。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481328",
-        "publishedAt": "2026-09-12T15:30:59Z"
+        "publishedAt": "2026-09-12T18:22:04Z"
       },
       {
         "id": "3585f73eec4f014b05cc",
         "title": "“红通人员”曾能贵被引渡回国",
-        "summary": "“红通人员”曾能贵被引渡回国，显示跨境追逃追赃合作持续推进。",
+        "summary": "“红通人员”曾能贵被引渡回国，反腐败追逃追赃持续推进。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34057588",
-        "publishedAt": "2026-09-12T15:30:59Z"
+        "publishedAt": "2026-09-12T18:22:04Z"
       },
       {
-        "id": "405dff74603d6924b363",
-        "title": "“宜宾一镇干部被指推女子入厕强奸”续：当地警方已立案",
-        "summary": "宜宾一镇干部被指推女子入厕强奸，当地警方已立案，此前复核称有犯罪事实。",
+        "id": "668d5e0a98046d205516",
+        "title": "沙特重要输油管遭袭关闭，曼德海峡航运骤降，胡塞武装称9天攻占5400平方公里",
+        "summary": "沙特重要输油管遭袭关闭，曼德海峡航运骤降，胡塞武装称攻占大片区域。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781596",
+        "publishedAt": "2026-09-12T18:22:04Z"
+      },
+      {
+        "id": "c9d262522ad12a4b2f97",
+        "title": "美国8月CPI报告改变美联储加息叙事：从“加不加”到“加几次”",
+        "summary": "美国8月CPI报告改变美联储加息叙事，市场焦点从加不加转向加几次。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481229",
+        "publishedAt": "2026-09-12T18:22:04Z"
+      },
+      {
+        "id": "3355ad2c1fd6be4b2fc9",
+        "title": "日本要求修改新版世界地图，俄方：胡说八道",
+        "summary": "日本要求修改新版世界地图，俄方回应称其胡说八道。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wMRpVZD8yK",
+        "publishedAt": "2026-09-12T18:22:04Z"
+      },
+      {
+        "id": "f039e284cff370495a61",
+        "title": "宜宾一镇干部否认推女子入厕强奸，警方复核称“有犯罪事实”",
+        "summary": "宜宾一镇干部被指推女子入厕强奸，警方复核称有犯罪事实并立案。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34056669",
-        "publishedAt": "2026-09-12T15:30:59Z"
-      },
-      {
-        "id": "23b585561d01db7c28c7",
-        "title": "看懂中国贸易出海新模式",
-        "summary": "分析解读中国贸易出海新模式，关注产业链与外贸格局的调整方向。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684196213859782163/",
-        "publishedAt": "2026-09-12T15:30:59Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34052333",
+        "publishedAt": "2026-09-12T18:22:04Z"
       },
       {
         "id": "c7bd9cf48858e974ead0",
         "title": "“站在光里”的光博会：1.6T光模块还在导入，6.4T的NPO又要来了",
-        "summary": "光博会显示1.6T光模块仍在导入，6.4T的NPO方案已现，光通信迭代加速。",
+        "summary": "光博会聚焦光模块技术，1.6T仍在导入，6.4T的NPO又将来临。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481441",
-        "publishedAt": "2026-09-12T15:30:59Z"
-      },
-      {
-        "id": "9ec6463d71946555706a",
-        "title": "超级厄尔尼诺来袭中国将面临什么",
-        "summary": "超级厄尔尼诺来袭，需关注其对中国农业、能源与防灾体系的潜在冲击。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684594301015166514/",
-        "publishedAt": "2026-09-12T15:30:59Z"
-      },
-      {
-        "id": "219e28345cee14fc97e9",
-        "title": "“减肥神药”获批国内脂肪肝适应症后，GLP-1还有哪些潜能？",
-        "summary": "“减肥神药”获批国内脂肪肝适应症，GLP-1类药物应用潜能继续扩大。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2480571",
-        "publishedAt": "2026-09-12T15:30:59Z"
+        "publishedAt": "2026-09-12T18:22:04Z"
       }
     ]
   },
   "global": {
-    "overview": "国际聚焦金砖新德里峰会与中印互动、沙特输油管道遇袭关闭、胡塞武装红海攻势、瑞典大选与朝鲜射弹等安全议题。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "c5a5b2c7289d8d43ce18",
-        "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
-        "summary": "习近平出席金砖新德里峰会受红毯礼遇，中印关系在中方领导人到访中显现缓和迹象。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
-        "publishedAt": "2026-09-12T04:39:12Z"
-      },
-      {
-        "id": "e3359f27b2c7248bc0b7",
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "summary": "沙特关键输油管道遭来自伊拉克的无人机袭击后关闭，伊拉克已展开调查。",
+        "id": "efc15318469462bc4399",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "Anthropic首席执行官呼吁放缓AI开发，并提出第三方评估等三部分计划。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-12T04:15:50Z"
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-12T09:42:38Z"
       },
       {
-        "id": "d9b6345ecfcc1ef6621f",
-        "title": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
-        "summary": "胡塞武装夺取红海战略岛屿迈尤恩岛，巩固其在曼德海峡的军事存在。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
-        "publishedAt": "2026-09-12T05:45:00Z"
+        "id": "ebf9d26bdc94c3a1a772",
+        "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+        "summary": "巴格达证实沙特输油管道遇袭来自伊拉克，沙特称不会报复并要求伊方采取措施。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-12T09:36:00Z"
       },
       {
         "id": "d78c8e0358cb65ae273e",
@@ -116,17 +108,9 @@
         "publishedAt": "2026-09-11T23:15:00Z"
       },
       {
-        "id": "9102eec5625306ed9ba5",
-        "title": "Ukraine: Several killed in series of Russian strikes",
-        "summary": "俄罗斯对乌克兰多地发动系列打击致平民伤亡，克宫拒绝泽连斯基的会面提议。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-several-killed-in-series-of-russian-strikes/a-79245980?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-12T07:01:00Z"
-      },
-      {
         "id": "f5396a0023940206362d",
         "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
-        "summary": "泽连斯基称乌克兰处于有利谈判位置，提议在迈阿密与普京会面。",
+        "summary": "泽连斯基提议在迈阿密G20期间与普京会面，称乌处于有利谈判位置。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-11T21:46:00Z"
@@ -134,10 +118,26 @@
       {
         "id": "409f7db4eb475af3e3a5",
         "title": "CIA releases dozens of presidential daily briefs on Bin Laden and al-Qaida from before 9/11",
-        "summary": "CIA在9·11二十五周年之际解密数十份涉拉登与基地组织的总统每日简报。",
+        "summary": "CIA在9·11二十五周年之际解密数十份涉及拉登与基地组织的总统每日简报。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/11/cia-releases-presidential-briefs-bin-laden-al-qaida",
         "publishedAt": "2026-09-11T14:27:21Z"
+      },
+      {
+        "id": "c5a5b2c7289d8d43ce18",
+        "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
+        "summary": "习近平出席金砖新德里峰会受红毯礼遇，中印关系显现缓和迹象。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
+        "publishedAt": "2026-09-12T04:39:12Z"
+      },
+      {
+        "id": "023f0d0d703ea6531864",
+        "title": "DR Congo’s worst Ebola epidemic ever passes 7,000 cases",
+        "summary": "刚果（金）埃博拉疫情确诊超7000例，已致近3400人死亡。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss",
+        "publishedAt": "2026-09-12T07:58:53Z"
       }
     ]
   }
