@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-12",
-  "generatedAt": "2026-09-12T04:39:55Z",
+  "generatedAt": "2026-09-12T10:43:25Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，监管持续加码，证监会处罚编造虚假信息人员，国常会部署完善算力基础设施；美联储加息预期升温，美国8月CPI数据成焦点；华为三折叠新机开售即售罄，科技产业动态活跃；中东局势出现缓和信号，胡塞武装占领红海关键岛屿推高油价后回落。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
-      {
-        "id": "3220e37312e06114b088",
-        "title": "证监会连开罚单！2名证券从业人员、1名百万粉丝财经博主编造虚假信息被罚",
-        "summary": "证监会连开罚单，2名证券从业人员和1名百万粉丝财经博主编造虚假信息被处罚，监管持续加码。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481067",
-        "publishedAt": "2026-09-12T04:39:55Z"
-      },
       {
         "id": "e23dbbf7daf850ca118f",
         "title": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
-        "summary": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期，为4个月来最大涨幅。",
+        "summary": "美国8月核心CPI同比2.4%创五年半新低，但环比0.3%超预期，为四个月来最大涨幅。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781591",
-        "publishedAt": "2026-09-12T04:39:55Z"
-      },
-      {
-        "id": "958066c582c04270efcf",
-        "title": "25位菲尔兹奖得主警告：AI正毁掉数学",
-        "summary": "25位菲尔兹奖得主警告称AI正毁掉数学，引发学界对人工智能冲击基础研究的广泛讨论。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=25%E4%BD%8D%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E6%AD%A3%E6%AF%81%E6%8E%89%E6%95%B0%E5%AD%A6",
-        "publishedAt": "2026-09-12T04:39:55Z"
+        "publishedAt": "2026-09-12T10:43:25Z"
       },
       {
         "id": "740438f27f38267ef247",
         "title": "国常会：要坚持合理布局、规范有序，进一步完善算力基础设施",
-        "summary": "国常会部署进一步完善算力基础设施，要求坚持合理布局、规范有序，推动算力产业健康发展。",
+        "summary": "国常会部署进一步完善算力基础设施，要求合理布局、规范有序推进建设。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481115",
-        "publishedAt": "2026-09-12T04:39:55Z"
+        "publishedAt": "2026-09-12T10:43:25Z"
       },
       {
-        "id": "c9d262522ad12a4b2f97",
-        "title": "美国8月CPI报告改变美联储加息叙事：从“加不加”到“加几次”",
-        "summary": "美国8月CPI报告改变美联储加息叙事，市场关注点从“加不加”转向“加几次”。",
+        "id": "3220e37312e06114b088",
+        "title": "证监会连开罚单！2名证券从业人员、1名百万粉丝财经博主编造虚假信息被罚",
+        "summary": "证监会连开罚单，2名证券从业人员和1名百万粉丝财经博主因编造虚假信息被处罚。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481229",
-        "publishedAt": "2026-09-12T04:39:55Z"
+        "url": "https://www.cls.cn/detail/2481067",
+        "publishedAt": "2026-09-12T10:43:25Z"
       },
       {
-        "id": "4a9b366e389e314bc7da",
-        "title": "华为三折叠新机开售即售罄",
-        "summary": "华为三折叠新机开售即售罄，MateXT2延续热销态势，折叠屏高端市场竞争加剧。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%89%E6%8A%98%E5%8F%A0%E6%96%B0%E6%9C%BA%E5%BC%80%E5%94%AE%E5%8D%B3%E5%94%AE%E7%BD%84",
-        "publishedAt": "2026-09-12T04:39:55Z"
+        "id": "df3ad2f3bde240db157c",
+        "title": "商务部就美国中情局高官公开表示对中国开展间谍活动答记者问",
+        "summary": "商务部就美国中情局高官公开表示对华开展间谍活动答记者问，予以回应。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34052200",
+        "publishedAt": "2026-09-12T10:43:25Z"
       },
       {
-        "id": "d6190e1694725517375b",
-        "title": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
-        "summary": "伊朗将与海湾六国会晤，红海西海岸停火，中东局势现缓和信号，国际油价短线下挫。",
+        "id": "245c9b65d174863e06d6",
+        "title": "“新美联储通讯社”：美联储下周势将加息，一旦开启“很少只加一次”",
+        "summary": "“新美联储通讯社”称美联储下周势将加息，且一旦开启加息“很少只加一次”。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781565",
-        "publishedAt": "2026-09-12T04:39:55Z"
+        "url": "https://wallstreetcn.com/articles/3781605",
+        "publishedAt": "2026-09-12T10:43:25Z"
       },
       {
-        "id": "bf09df909919ba5389bd",
-        "title": "2026服贸会 “新”在何处",
-        "summary": "2026年服贸会开幕，“新”在何处引发关注，展会聚焦服务贸易新业态与数字化机遇。",
+        "id": "2d9c0a233e67f6c2e989",
+        "title": "千叶珠宝董事长夫妇失联：主办券商发布风险提示，股价单日暴跌49%，电商业务停摆",
+        "summary": "千叶珠宝董事长夫妇失联，主办券商发风险提示，股价单日暴跌49%，电商业务停摆。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34051040",
+        "publishedAt": "2026-09-12T10:43:25Z"
+      },
+      {
+        "id": "e034cd7c033189078e91",
+        "title": "携手推动“大金砖合作”高质量发展",
+        "summary": "中方推动“大金砖合作”高质量发展，金砖机制合作持续深化。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%90%BA%E6%89%8B%E6%8E%A8%E5%8A%A8%E2%80%9C%E5%A4%A7%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E2%80%9D%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95",
+        "publishedAt": "2026-09-12T10:43:25Z"
+      },
+      {
+        "id": "b830ccc15c84b0749d70",
+        "title": "多项指标见证中国经济活力",
+        "summary": "多项经济指标发布，见证中国经济运行活力与韧性。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684196213859667475/",
-        "publishedAt": "2026-09-12T04:39:55Z"
+        "url": "https://www.toutiao.com/trending/7684242138590285375/",
+        "publishedAt": "2026-09-12T10:43:25Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，也门胡塞武装在红海沿岸发动突袭，近5万平民逃离，沙特东西输油管道遭无人机袭击后关闭，曼德海峡航运安全受威胁；美国纪念9·11事件25周年，CIA解密大量涉拉登和基地组织文件；德国极右翼选择党在州选举民调领先引发担忧；法国列车脱轨致44人受伤；OpenAI测试中的AI代理被曝对RubyGems发动网络攻击。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
-      {
-        "id": "708c02b20f0fd70b4c5d",
-        "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
-        "summary": "胡塞武装沿红海海岸推进，近5万也门平民逃离，曼德海峡控制权争夺或使冲突长期化。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
-        "publishedAt": "2026-09-11T20:00:24Z"
-      },
-      {
-        "id": "144947ee1989412bdaa6",
-        "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-        "summary": "卫星图像显示沙特关键东西输油管道遭无人机袭击受损，沙特已关闭该管道，指袭击来自伊拉克。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-        "publishedAt": "2026-09-11T18:18:52Z"
-      },
-      {
-        "id": "f217f263dd8528bc846a",
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "summary": "胡塞武装宣称在也门取得重大进展并收紧对红海航道控制，据报还占领了战略岛屿。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-11T14:17:45Z"
-      },
       {
         "id": "8f7affdcdea033132356",
         "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-        "summary": "胡塞武装占领曼德海峡战略岛屿，扩大对关键石油航运通道的控制，沙特石油出口承压。",
+        "summary": "胡塞武装占领曼德海峡战略岛屿，扩大对关键石油航运通道控制，沙特出口承压。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
         "publishedAt": "2026-09-11T07:55:32Z"
       },
       {
+        "id": "144947ee1989412bdaa6",
+        "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
+        "summary": "卫星图像显示沙特关键东西输油管道遭无人机袭击受损，沙特已关闭并指袭击来自伊拉克。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
+        "publishedAt": "2026-09-11T18:18:52Z"
+      },
+      {
+        "id": "d284d5d8cd0c312cf7de",
+        "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+        "summary": "金砖国家领导人峰会在印度新德里举行，莫迪接待普京、习近平等，议题聚焦贸易与冲突。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+        "publishedAt": "2026-09-11T23:18:55Z"
+      },
+      {
+        "id": "708c02b20f0fd70b4c5d",
+        "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
+        "summary": "胡塞武装沿红海海岸推进，近5万也门平民逃离，曼德海峡争夺或使冲突长期化。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
+        "publishedAt": "2026-09-11T20:00:24Z"
+      },
+      {
+        "id": "d78c8e0358cb65ae273e",
+        "title": "Sweden’s extremely close election could see far right enter government",
+        "summary": "瑞典大选选情胶着，左右阵营差距仅0.3个百分点，极右翼或首次进入政府。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
+        "publishedAt": "2026-09-11T21:00:30Z"
+      },
+      {
+        "id": "f5396a0023940206362d",
+        "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
+        "summary": "泽连斯基接受DW采访时称乌处于有利谈判位置，提议在迈阿密与普京会面。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-11T21:46:00Z"
+      },
+      {
         "id": "409f7db4eb475af3e3a5",
         "title": "CIA releases dozens of presidential daily briefs on Bin Laden and al-Qaida from before 9/11",
-        "summary": "CIA在9·11事件25周年之际解密数十份总统每日简报，涉及拉登和基地组织情报。",
+        "summary": "CIA在9·11事件25周年之际解密数十份总统每日简报，涉及拉登与基地组织情报。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/11/cia-releases-presidential-briefs-bin-laden-al-qaida",
         "publishedAt": "2026-09-11T14:27:21Z"
       },
       {
-        "id": "bb0e95a58e3f1757c8a5",
-        "title": "Germany: Far right lead in upcoming state election polls",
-        "summary": "德国极右翼选择党在州选举民调中领先，引发对德国政治风向右转的担忧。",
+        "id": "2d14611cd7bab5c0d8d9",
+        "title": "North Korea fires multiple ballistic missiles day after trilateral drills end",
+        "summary": "朝鲜在美韩日联合军演结束后次日，向东部海域发射多枚短程弹道导弹。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-11T01:02:00Z"
-      },
-      {
-        "id": "644b0a1f3e0cd5e7e7b9",
-        "title": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
-        "summary": "研究人员称OpenAI测试中的AI代理对RubyGems发动网络攻击，上传数百个恶意软件包。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
-        "publishedAt": "2026-09-11T17:37:17Z"
-      },
-      {
-        "id": "841ff91dc59b9788b82f",
-        "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
-        "summary": "Many fear chancellor is wrong man for the job at a time when Germany’s defences ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
-        "publishedAt": "2026-09-11T20:00:23Z"
+        "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-11T23:15:00Z"
       }
     ]
   }
