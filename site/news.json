@@ -1,103 +1,87 @@
 {
   "version": 1,
   "date": "2026-09-13",
-  "generatedAt": "2026-09-12T18:22:04Z",
+  "generatedAt": "2026-09-12T22:16:07Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内热点聚焦金砖合作与算力基建：中国将于2027年接任金砖主席国，习近平出席新德里峰会；国常会部署完善算力基础设施。金融方面美联储加息预期升温引发全球关注。",
     "items": [
       {
         "id": "1b6f1277c45b3383874c",
         "title": "中国将于2027年接任金砖主席国",
-        "summary": "中国将于2027年接任金砖主席国，金砖合作机制持续推进。",
+        "summary": "中国将于2027年接任金砖国家主席国，延续在金砖机制中的重要作用。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7684437120370851883/",
-        "publishedAt": "2026-09-12T18:22:04Z"
+        "publishedAt": "2026-09-12T22:16:07Z"
       },
       {
         "id": "8ed5a1368fb419a26946",
         "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
-        "summary": "国常会部署完善算力基础设施，美联储下周加息概率飙升至90%。",
+        "summary": "美联储下周加息概率飙至90%，国常会部署完善算力基础设施。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481328",
-        "publishedAt": "2026-09-12T18:22:04Z"
+        "publishedAt": "2026-09-12T22:16:07Z"
       },
       {
         "id": "3585f73eec4f014b05cc",
         "title": "“红通人员”曾能贵被引渡回国",
-        "summary": "“红通人员”曾能贵被引渡回国，反腐败追逃追赃持续推进。",
+        "summary": "“红通人员”曾能贵被引渡回国，彰显追逃追赃国际合作成效。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34057588",
-        "publishedAt": "2026-09-12T18:22:04Z"
-      },
-      {
-        "id": "668d5e0a98046d205516",
-        "title": "沙特重要输油管遭袭关闭，曼德海峡航运骤降，胡塞武装称9天攻占5400平方公里",
-        "summary": "沙特重要输油管遭袭关闭，曼德海峡航运骤降，胡塞武装称攻占大片区域。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781596",
-        "publishedAt": "2026-09-12T18:22:04Z"
+        "publishedAt": "2026-09-12T22:16:07Z"
       },
       {
         "id": "c9d262522ad12a4b2f97",
         "title": "美国8月CPI报告改变美联储加息叙事：从“加不加”到“加几次”",
-        "summary": "美国8月CPI报告改变美联储加息叙事，市场焦点从加不加转向加几次。",
+        "summary": "美国8月CPI报告改变美联储加息叙事，市场关注从加不加转向加几次。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481229",
-        "publishedAt": "2026-09-12T18:22:04Z"
+        "publishedAt": "2026-09-12T22:16:07Z"
       },
       {
-        "id": "3355ad2c1fd6be4b2fc9",
-        "title": "日本要求修改新版世界地图，俄方：胡说八道",
-        "summary": "日本要求修改新版世界地图，俄方回应称其胡说八道。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wMRpVZD8yK",
-        "publishedAt": "2026-09-12T18:22:04Z"
+        "id": "9ec6463d71946555706a",
+        "title": "超级厄尔尼诺来袭中国将面临什么",
+        "summary": "超级厄尔尼诺来袭，分析中国可能面临的气候与农业影响。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7684594301015166514/",
+        "publishedAt": "2026-09-12T22:16:07Z"
       },
       {
-        "id": "f039e284cff370495a61",
-        "title": "宜宾一镇干部否认推女子入厕强奸，警方复核称“有犯罪事实”",
-        "summary": "宜宾一镇干部被指推女子入厕强奸，警方复核称有犯罪事实并立案。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34052333",
-        "publishedAt": "2026-09-12T18:22:04Z"
+        "id": "23b585561d01db7c28c7",
+        "title": "看懂中国贸易出海新模式",
+        "summary": "中国贸易出海新模式受关注，跨境电商与供应链布局持续演进。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7684196213859782163/",
+        "publishedAt": "2026-09-12T22:16:07Z"
       },
       {
-        "id": "c7bd9cf48858e974ead0",
-        "title": "“站在光里”的光博会：1.6T光模块还在导入，6.4T的NPO又要来了",
-        "summary": "光博会聚焦光模块技术，1.6T仍在导入，6.4T的NPO又将来临。",
+        "id": "af0cca05b400a8ca9c11",
+        "title": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高",
+        "summary": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481441",
-        "publishedAt": "2026-09-12T18:22:04Z"
+        "url": "https://www.cls.cn/detail/2481462",
+        "publishedAt": "2026-09-12T22:16:07Z"
+      },
+      {
+        "id": "17c15a8cccfbc96dd511",
+        "title": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高",
+        "summary": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781549",
+        "publishedAt": "2026-09-12T22:16:07Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际要闻：沙特关键输油管道遭无人机袭击后关闭，伊拉克确认袭击来自其境内；朝鲜在美韩日军演结束后试射多枚弹道导弹；瑞典大选选情极为胶着，极右翼或首次入阁；Anthropic CEO呼吁放缓AI发展。",
     "items": [
       {
-        "id": "efc15318469462bc4399",
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": "Anthropic首席执行官呼吁放缓AI开发，并提出第三方评估等三部分计划。",
+        "id": "e3359f27b2c7248bc0b7",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "summary": "沙特关键输油管道遭来自伊拉克的无人机袭击后关闭，伊拉克展开调查。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-12T09:42:38Z"
-      },
-      {
-        "id": "ebf9d26bdc94c3a1a772",
-        "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
-        "summary": "巴格达证实沙特输油管道遇袭来自伊拉克，沙特称不会报复并要求伊方采取措施。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-12T09:36:00Z"
-      },
-      {
-        "id": "d78c8e0358cb65ae273e",
-        "title": "Sweden’s extremely close election could see far right enter government",
-        "summary": "瑞典大选选情极为胶着，左右阵营差距仅0.3个百分点，极右翼或首次进入政府。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
-        "publishedAt": "2026-09-11T21:00:30Z"
+        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-12T04:15:50Z"
       },
       {
         "id": "2d14611cd7bab5c0d8d9",
@@ -108,20 +92,28 @@
         "publishedAt": "2026-09-11T23:15:00Z"
       },
       {
-        "id": "f5396a0023940206362d",
-        "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
-        "summary": "泽连斯基提议在迈阿密G20期间与普京会面，称乌处于有利谈判位置。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-11T21:46:00Z"
+        "id": "d78c8e0358cb65ae273e",
+        "title": "Sweden’s extremely close election could see far right enter government",
+        "summary": "瑞典大选选情极为胶着，左右阵营差距仅0.3个百分点，极右翼或首次入阁。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
+        "publishedAt": "2026-09-11T21:00:30Z"
       },
       {
-        "id": "409f7db4eb475af3e3a5",
-        "title": "CIA releases dozens of presidential daily briefs on Bin Laden and al-Qaida from before 9/11",
-        "summary": "CIA在9·11二十五周年之际解密数十份涉及拉登与基地组织的总统每日简报。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/11/cia-releases-presidential-briefs-bin-laden-al-qaida",
-        "publishedAt": "2026-09-11T14:27:21Z"
+        "id": "efc15318469462bc4399",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "Anthropic CEO呼吁放缓AI发展，提出第三方评估等三部分减速方案。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-12T13:16:47Z"
+      },
+      {
+        "id": "ebf9d26bdc94c3a1a772",
+        "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+        "summary": "巴格达确认沙特输油管道袭击来自伊拉克境内，美方施压其约束民兵。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-12T12:45:00Z"
       },
       {
         "id": "c5a5b2c7289d8d43ce18",
@@ -138,6 +130,14 @@
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss",
         "publishedAt": "2026-09-12T07:58:53Z"
+      },
+      {
+        "id": "7414e24aca526b83b6ae",
+        "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown",
+        "summary": "Anthropic CEO阿莫代伊公开呼吁AI行业放缓，提出三点减速计划。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+        "publishedAt": "2026-09-12T07:46:01Z"
       }
     ]
   }
