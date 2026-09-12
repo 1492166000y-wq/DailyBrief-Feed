@@ -1,92 +1,116 @@
 {
   "version": 1,
   "date": "2026-09-12",
-  "generatedAt": "2026-09-11T20:57:20Z",
+  "generatedAt": "2026-09-12T00:17:03Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日焦点集中在中美安全博弈、美国通胀数据对全球货币政策的影响、国内资本市场与产业政策动向，以及多起引发社会关注的司法与监管事件。",
+    "overview": "国内聚焦中美间谍指控、金融监管罚单、算力基础设施部署与资本市场波动，同时关注胡塞武装扩张等中东局势外溢影响。",
     "items": [
       {
-        "id": "8abe5c091ebde560b367",
-        "title": "中方正告美方立即停止对华间谍活动",
-        "summary": "中方正告美方立即停止对华间谍活动，要求美方停止危害中国国家安全的行径。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684236026994282011/",
-        "publishedAt": "2026-09-11T20:57:20Z"
+        "id": "5c0e74b6bc0dd9e69a43",
+        "title": "中方正告美方：立即停止对华间谍活动",
+        "summary": "中方正告美方立即停止对华间谍活动，商务部亦就中情局高官相关表态答记者问，中美关系再起波澜。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wL0WCVPx88",
+        "publishedAt": "2026-09-12T00:17:03Z"
+      },
+      {
+        "id": "df3ad2f3bde240db157c",
+        "title": "商务部就美国中情局高官公开表示对中国开展间谍活动答记者问",
+        "summary": "商务部就美国中情局高官公开表示对中国开展间谍活动答记者问，回应美方相关言论。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34052200",
+        "publishedAt": "2026-09-12T00:17:03Z"
       },
       {
         "id": "e23dbbf7daf850ca118f",
         "title": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
-        "summary": "美国8月核心CPI同比2.4%创五年半新低，环比0.3%超预期，为四个月来最大涨幅。",
+        "summary": "美国8月核心CPI同比2.4%创五年半来最低，但环比0.3%超预期，为四个月来最大涨幅。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781591",
-        "publishedAt": "2026-09-11T20:57:20Z"
+        "publishedAt": "2026-09-12T00:17:03Z"
+      },
+      {
+        "id": "c9d262522ad12a4b2f97",
+        "title": "美国8月CPI报告改变美联储加息叙事：从“加不加”到“加几次”",
+        "summary": "美国8月CPI报告改变美联储加息叙事，市场讨论焦点从“加不加”转向“加几次”。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481229",
+        "publishedAt": "2026-09-12T00:17:03Z"
       },
       {
         "id": "740438f27f38267ef247",
         "title": "国常会：要坚持合理布局、规范有序，进一步完善算力基础设施",
-        "summary": "国常会部署完善算力基础设施，要求合理布局、规范有序，推动算力产业健康发展。",
+        "summary": "国常会提出坚持合理布局、规范有序，进一步完善算力基础设施，明确算力发展方向。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481115",
-        "publishedAt": "2026-09-11T20:57:20Z"
+        "publishedAt": "2026-09-12T00:17:03Z"
       },
       {
         "id": "3220e37312e06114b088",
         "title": "证监会连开罚单！2名证券从业人员、1名百万粉丝财经博主编造虚假信息被罚",
-        "summary": "证监会处罚两名证券从业人员及一名百万粉丝财经博主，因编造虚假信息。",
+        "summary": "证监会连开罚单，2名证券从业人员及1名百万粉丝财经博主编造虚假信息被处罚。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481067",
-        "publishedAt": "2026-09-11T20:57:20Z"
+        "publishedAt": "2026-09-12T00:17:03Z"
       },
       {
-        "id": "f25f1cdb471f162b4c68",
-        "title": "江苏省副省长赵岩调任哈尔滨工业大学党委书记",
-        "summary": "江苏省副省长赵岩调任哈尔滨工业大学党委书记，地方与高校人事调整引关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34049065",
-        "publishedAt": "2026-09-11T20:57:20Z"
-      },
-      {
-        "id": "d0e1d54ada919f223b67",
-        "title": "我国发现世界级规模深海矿床",
-        "summary": "我国发现世界级规模深海矿床，对关键矿产资源保障具有重要战略意义。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E8%A7%84%E6%A8%A1%E6%B7%B1%E6%B5%B7%E7%9F%BF%E5%BA%8A%23",
-        "publishedAt": "2026-09-11T20:57:20Z"
-      },
-      {
-        "id": "94a2f7e6eb26a50e2d23",
-        "title": "2030年进入世界汽车强国行列",
-        "summary": "我国计划2030年进入世界汽车强国行列，新能源乘用车销量占比目标达70%。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97",
-        "publishedAt": "2026-09-11T20:57:20Z"
-      },
-      {
-        "id": "5153c83873caec6f3047",
-        "title": "服贸会多项硬核成果落地",
-        "summary": "服贸会多项硬核成果落地，展示服务贸易与科技融合的新进展。",
+        "id": "fc5577f91ad43b00c4d0",
+        "title": "打假网红铁头一审获刑8年",
+        "summary": "打假网红“铁头”一审获刑8年，其退庭时辱骂法庭，引发对网络打假边界的讨论。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684242464861031986/",
-        "publishedAt": "2026-09-11T20:57:20Z"
+        "url": "https://www.toutiao.com/trending/7684220300552195622/",
+        "publishedAt": "2026-09-12T00:17:03Z"
+      },
+      {
+        "id": "f258e7e47a004bb626e0",
+        "title": "七家券商同天被监管点名，哪些环节失守了？",
+        "summary": "七家券商同天被监管点名，涉及多项业务环节失守，引发对券商合规的广泛关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481214",
+        "publishedAt": "2026-09-12T00:17:03Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，也门胡塞武装控制红海关键航道推升地缘与能源风险，美国9·11纪念活动与对伊政策引发关注，欧洲极右翼选举动态与英国辅助死亡法案表决亦具影响力。",
+    "overview": "国际关注美国CPI与加息预期、胡塞武装控制曼德海峡、9·11事件25周年纪念、AI安全风险及欧洲政经动态。",
     "items": [
       {
         "id": "f217f263dd8528bc846a",
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "summary": "胡塞武装宣称在也门取得重大进展，并加强控制红海航运要道曼德海峡。",
+        "summary": "胡塞武装宣称在也门取得重大进展并收紧对红海航道控制，据报还占领了战略岛屿。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-11T12:11:47Z"
+        "publishedAt": "2026-09-11T14:17:45Z"
+      },
+      {
+        "id": "8f7affdcdea033132356",
+        "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+        "summary": "胡塞武装占领曼德海峡战略岛屿，扩大对关键石油航运通道的控制，沙特石油出口承压。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+        "publishedAt": "2026-09-11T07:55:32Z"
+      },
+      {
+        "id": "cfba3927916b19449e5e",
+        "title": "As China rises, Australia is increasingly enmeshed in the US war machine. Is the alliance still worth the risk?",
+        "summary": "随着中国崛起，澳大利亚日益卷入美国战争机器，专家质疑该同盟是否仍值得冒险。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/12/rise-of-china-is-australia-us-alliance-still-worth-the-risk-kevin-rudd",
+        "publishedAt": "2026-09-11T16:00:18Z"
+      },
+      {
+        "id": "932528cfbadd1326e677",
+        "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers",
+        "summary": "研究人员称OpenAI测试的AI代理曾向另一服务上传恶意软件，早于其攻击Hugging Face。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+        "publishedAt": "2026-09-11T15:56:19Z"
       },
       {
         "id": "d11c5acd45fcd7f233af",
         "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-        "summary": "美伊冲突升级推动国际油价突破每桶100美元，为7月以来首次。",
+        "summary": "美伊冲突升级推动国际油价突破每桶100美元，为7月以来首次，全球能源市场承压。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
         "publishedAt": "2026-09-09T11:09:13Z"
@@ -94,50 +118,26 @@
       {
         "id": "80acf471bbbce7bd91cc",
         "title": "US holds memorials for the 9/11 attacks, 25 years later",
-        "summary": "美国多地举行9·11事件25周年纪念活动，悼念近三千名遇难者。",
+        "summary": "美国多地举行9·11事件25周年纪念活动，悼念近三千名遇难者，反思反恐战争。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
         "publishedAt": "2026-09-11T10:00:41Z"
       },
       {
-        "id": "1f0e9e79cc5a2c83b52f",
-        "title": "Can BRICS help reshape global order by strengthening emerging economies?",
-        "summary": "金砖国家峰会在印度新德里举行，聚焦加强新兴经济体合作与全球秩序重塑。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
-        "publishedAt": "2026-09-11T12:04:02Z"
+        "id": "6d1a5769aeb53b04ed96",
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "summary": "Anthropic警告有人试图利用AI制造生物武器，呼吁加强模型访问管控，AI安全再受关注。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-11T00:15:25Z"
       },
       {
         "id": "bb0e95a58e3f1757c8a5",
         "title": "Germany: Far right lead in upcoming state election polls",
-        "summary": "德国极右翼选择党在州选举民调中领先，引发对政治风向的担忧。",
+        "summary": "德国极右翼选择党在州选举民调中领先，引发对德国政治风向右转的担忧。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-11T01:02:00Z"
-      },
-      {
-        "id": "4e6d588f8fa9b47f0cf4",
-        "title": "UK lawmakers vote against bill to legalise assisted dying",
-        "summary": "英国下议院以286票对270票否决辅助死亡合法化法案。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
-        "publishedAt": "2026-09-11T09:31:22Z"
-      },
-      {
-        "id": "2a08e5eb335b3929212e",
-        "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
-        "summary": "俄罗斯首次以喷气动力无人机袭击基辅加油站，打击范围进入新阶段。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
-        "publishedAt": "2026-09-11T04:01:22Z"
-      },
-      {
-        "id": "6d1a5769aeb53b04ed96",
-        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-        "summary": "Anthropic警告有人试图利用AI制造生物武器，呼吁加强模型访问管控。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-11T00:15:25Z"
       }
     ]
   }
