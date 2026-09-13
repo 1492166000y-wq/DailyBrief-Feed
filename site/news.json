@@ -1,58 +1,50 @@
 {
   "version": 1,
   "date": "2026-09-13",
-  "generatedAt": "2026-09-12T22:16:07Z",
+  "generatedAt": "2026-09-13T00:01:38Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内热点聚焦金砖合作与算力基建：中国将于2027年接任金砖主席国，习近平出席新德里峰会；国常会部署完善算力基础设施。金融方面美联储加息预期升温引发全球关注。",
+    "overview": "国内方面，金砖国家领导人第十八次会晤及中国将于2027年接任金砖主席国成为今日头条，习近平发表讲话，金砖合作与互联互通贸易通道同步推进；宏观经济领域，美联储加息预期与美股芯片股走势备受关注，国常会部署算力基础设施建设，AI产业动态活跃；社会法治领域，红通人员引渡回国、公职人员醉驾案警方通报等引发关注。",
     "items": [
+      {
+        "id": "bf230f8b6e97f03f3114",
+        "title": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
+        "summary": "习近平在金砖国家领导人第十八次会晤第一阶段会议发表讲话（全文）。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34058191",
+        "publishedAt": "2026-09-13T00:01:38Z"
+      },
       {
         "id": "1b6f1277c45b3383874c",
         "title": "中国将于2027年接任金砖主席国",
-        "summary": "中国将于2027年接任金砖国家主席国，延续在金砖机制中的重要作用。",
+        "summary": "中国将于2027年接任金砖主席国，金砖合作机制持续深化。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7684437120370851883/",
-        "publishedAt": "2026-09-12T22:16:07Z"
+        "publishedAt": "2026-09-13T00:01:38Z"
+      },
+      {
+        "id": "f0e61ca639caa27445d7",
+        "title": "金砖合作打造互联互通贸易通道",
+        "summary": "金砖合作打造互联互通贸易通道，推动新兴市场经贸往来。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%89%93%E9%80%A0%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%E8%B4%B8%E6%98%93%E9%80%9A%E9%81%93%23",
+        "publishedAt": "2026-09-13T00:01:38Z"
+      },
+      {
+        "id": "fd7d16d03f2fe1334ea4",
+        "title": "高盛也“改口”了：下周美联储会加息！",
+        "summary": "高盛改变预期，称下周美联储将加息，市场加息担忧升温。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781616",
+        "publishedAt": "2026-09-13T00:01:38Z"
       },
       {
         "id": "8ed5a1368fb419a26946",
         "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
-        "summary": "美联储下周加息概率飙至90%，国常会部署完善算力基础设施。",
+        "summary": "早报：美联储下周加息概率飙至90%，国常会部署完善算力基础设施。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481328",
-        "publishedAt": "2026-09-12T22:16:07Z"
-      },
-      {
-        "id": "3585f73eec4f014b05cc",
-        "title": "“红通人员”曾能贵被引渡回国",
-        "summary": "“红通人员”曾能贵被引渡回国，彰显追逃追赃国际合作成效。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34057588",
-        "publishedAt": "2026-09-12T22:16:07Z"
-      },
-      {
-        "id": "c9d262522ad12a4b2f97",
-        "title": "美国8月CPI报告改变美联储加息叙事：从“加不加”到“加几次”",
-        "summary": "美国8月CPI报告改变美联储加息叙事，市场关注从加不加转向加几次。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481229",
-        "publishedAt": "2026-09-12T22:16:07Z"
-      },
-      {
-        "id": "9ec6463d71946555706a",
-        "title": "超级厄尔尼诺来袭中国将面临什么",
-        "summary": "超级厄尔尼诺来袭，分析中国可能面临的气候与农业影响。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684594301015166514/",
-        "publishedAt": "2026-09-12T22:16:07Z"
-      },
-      {
-        "id": "23b585561d01db7c28c7",
-        "title": "看懂中国贸易出海新模式",
-        "summary": "中国贸易出海新模式受关注，跨境电商与供应链布局持续演进。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684196213859782163/",
-        "publishedAt": "2026-09-12T22:16:07Z"
+        "publishedAt": "2026-09-13T00:01:38Z"
       },
       {
         "id": "af0cca05b400a8ca9c11",
@@ -60,21 +52,45 @@
         "summary": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481462",
-        "publishedAt": "2026-09-12T22:16:07Z"
+        "publishedAt": "2026-09-13T00:01:38Z"
       },
       {
-        "id": "17c15a8cccfbc96dd511",
-        "title": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高",
-        "summary": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781549",
-        "publishedAt": "2026-09-12T22:16:07Z"
+        "id": "3585f73eec4f014b05cc",
+        "title": "“红通人员”曾能贵被引渡回国",
+        "summary": "红通人员曾能贵被引渡回国，反腐败国际追逃追赃再获进展。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34057588",
+        "publishedAt": "2026-09-13T00:01:38Z"
+      },
+      {
+        "id": "a7d143eda5f3200c8f5b",
+        "title": "印度称对台湾问题政策立场没有改变",
+        "summary": "印度称对台湾问题政策立场没有改变，重申一个中国原则。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7684162389268742180/",
+        "publishedAt": "2026-09-13T00:01:38Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻：沙特关键输油管道遭无人机袭击后关闭，伊拉克确认袭击来自其境内；朝鲜在美韩日军演结束后试射多枚弹道导弹；瑞典大选选情极为胶着，极右翼或首次入阁；Anthropic CEO呼吁放缓AI发展。",
+    "overview": "国际方面，AI安全与治理成为焦点，Anthropic CEO呼吁AI放缓发展，OpenAI宣布2026年不上市，英伟达则洽谈在Anthropic IPO中投资；中东局势持续紧张，沙特关键输油管道遭无人机袭击后关闭，胡塞武装与沙特互相袭击；此外，德国多地爆发反对极右翼政党AfD的大规模抗议，特朗普就爱尔兰统一发表言论，欧洲银行黄金回流等也受到关注。",
     "items": [
+      {
+        "id": "e9b0d3d4f49373d0b02a",
+        "title": "Anthropic boss Dario Amodei calls for AI slowdown",
+        "summary": "Anthropic CEO阿莫代伊呼吁AI发展放缓，马斯克与奥特曼表示认同。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-12T15:32:00Z"
+      },
+      {
+        "id": "ec288d463f93b1d492af",
+        "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
+        "summary": "奥特曼称出于AI安全担忧，OpenAI不会在2026年上市。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
+        "publishedAt": "2026-09-12T15:00:37Z"
+      },
       {
         "id": "e3359f27b2c7248bc0b7",
         "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -84,44 +100,28 @@
         "publishedAt": "2026-09-12T04:15:50Z"
       },
       {
-        "id": "2d14611cd7bab5c0d8d9",
-        "title": "North Korea fires multiple ballistic missiles day after trilateral drills end",
-        "summary": "朝鲜在美韩日联合军演结束次日向东部海域发射多枚短程弹道导弹。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-11T23:15:00Z"
+        "id": "233ac80bc081ef0b4ff1",
+        "title": "Tens of thousands march across Germany to protest far-right party AfD",
+        "summary": "德国数万人游行抗议极右翼政党AfD，要求取缔该党。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
+        "publishedAt": "2026-09-12T14:37:03Z"
       },
       {
-        "id": "d78c8e0358cb65ae273e",
-        "title": "Sweden’s extremely close election could see far right enter government",
-        "summary": "瑞典大选选情极为胶着，左右阵营差距仅0.3个百分点，极右翼或首次入阁。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
-        "publishedAt": "2026-09-11T21:00:30Z"
-      },
-      {
-        "id": "efc15318469462bc4399",
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": "Anthropic CEO呼吁放缓AI发展，提出第三方评估等三部分减速方案。",
+        "id": "4bc96a69e2c233353be0",
+        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+        "summary": "特朗普称乐见爱尔兰统一，言论引发跨大西洋关注。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-12T13:16:47Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-12T13:25:28Z"
       },
       {
-        "id": "ebf9d26bdc94c3a1a772",
-        "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
-        "summary": "巴格达确认沙特输油管道袭击来自伊拉克境内，美方施压其约束民兵。",
+        "id": "2f668c3cfd22029121c9",
+        "title": "Why are European banks moving gold out of United States?",
+        "summary": "荷兰和法国将黄金从美国金库运回，担忧美国可靠性及危机应对。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-12T12:45:00Z"
-      },
-      {
-        "id": "c5a5b2c7289d8d43ce18",
-        "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
-        "summary": "习近平出席金砖新德里峰会受红毯礼遇，中印关系显现缓和迹象。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
-        "publishedAt": "2026-09-12T04:39:12Z"
+        "url": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-12T07:32:00Z"
       },
       {
         "id": "023f0d0d703ea6531864",
@@ -132,12 +132,12 @@
         "publishedAt": "2026-09-12T07:58:53Z"
       },
       {
-        "id": "7414e24aca526b83b6ae",
-        "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown",
-        "summary": "Anthropic CEO阿莫代伊公开呼吁AI行业放缓，提出三点减速计划。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
-        "publishedAt": "2026-09-12T07:46:01Z"
+        "id": "f5213a8b42b9a1f9d2cf",
+        "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
+        "summary": "Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho afte",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
+        "publishedAt": "2026-09-12T15:43:32Z"
       }
     ]
   }
