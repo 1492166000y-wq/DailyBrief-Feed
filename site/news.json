@@ -1,111 +1,127 @@
 {
   "version": 1,
-  "date": "2026-09-13",
-  "generatedAt": "2026-09-13T11:48:39Z",
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-13T16:15:26Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦金砖峰会外交、AI巨头呼吁放缓、算力与光模块产业动向及社会民生议题。",
+    "overview": "金砖峰会闭幕与伊朗阿联酋罕见会晤成为时政焦点；AI巨头集体呼吁放缓发展引发市场担忧；敬一丹去世引广泛悼念；算力、光模块与服贸会展现产业新动向。",
     "items": [
       {
-        "id": "bf230f8b6e97f03f3114",
-        "title": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
-        "summary": "习近平在金砖国家领导人第十八次会晤第一阶段会议发表讲话，全文发布。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34058191",
-        "publishedAt": "2026-09-13T11:48:39Z"
+        "id": "d18a70245b30888b40ab",
+        "title": "金砖国家领导人集体合影",
+        "summary": "金砖国家领导人集体合影，峰会闭幕，各方关注扩员后合作走向与内部分歧。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7684981836782784026/",
+        "publishedAt": "2026-09-13T16:15:26Z"
       },
       {
-        "id": "2337c565c5d9b759751f",
-        "title": "详讯丨习近平会见印度总理莫迪",
-        "summary": "习近平会见印度总理莫迪，中印领导人就双边关系交换意见。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34058316",
-        "publishedAt": "2026-09-13T11:48:39Z"
+        "id": "4e9a5d3cec5f160fa63d",
+        "title": "金砖峰会上的意外会面，伊朗总统与阿联酋王储会晤",
+        "summary": "金砖峰会期间伊朗总统与阿联酋王储意外会晤，被视为地区关系缓和信号。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8wNyTyekeYc",
+        "publishedAt": "2026-09-13T16:15:26Z"
       },
       {
         "id": "cdffcebb7e5ca8330141",
         "title": "死敌罕见联手！马斯克、Altman支持Dario Amodei“全球放缓AI”呼吁",
-        "summary": "马斯克、Altman罕见支持Anthropic CEO呼吁全球放缓AI开发，引热议。",
+        "summary": "马斯克、Altman支持Anthropic CEO呼吁全球放缓AI，罕见联手引行业震动。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781639",
-        "publishedAt": "2026-09-13T11:48:39Z"
+        "publishedAt": "2026-09-13T16:15:26Z"
       },
       {
-        "id": "e4c8172da018fc0b7c15",
-        "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
-        "summary": "Altman称OpenAI今年不会IPO，若AI威胁人类生存宁愿放弃上市。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781638",
-        "publishedAt": "2026-09-13T11:48:39Z"
+        "id": "e5348502142e764a8b8c",
+        "title": "与沙特是否处于战争状态？伊朗总统回应",
+        "summary": "伊朗总统回应与沙特是否处于战争状态，称双方并未交战，地区局势仍紧张。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wO7SPoeaJH",
+        "publishedAt": "2026-09-13T16:15:26Z"
       },
       {
-        "id": "c7bd9cf48858e974ead0",
-        "title": "“站在光里”的光博会：1.6T光模块还在导入，6.4T的NPO又要来了",
-        "summary": "光博会显示1.6T光模块仍在导入，6.4T NPO技术即将到来。",
+        "id": "56972ce7a53a5857a0c6",
+        "title": "著名主持人敬一丹去世",
+        "summary": "著名主持人敬一丹去世，央视同事及观众纷纷悼念，称其为电视黄金时代代表。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34059886",
+        "publishedAt": "2026-09-13T16:15:26Z"
+      },
+      {
+        "id": "1810a8a94e57c6d00332",
+        "title": "周末要闻汇总：1.6T站上光模块“C位” 6.4T NPO也要来了",
+        "summary": "光博会聚焦1.6T光模块导入与6.4T NPO技术，算力产业链升级成市场热点。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481441",
-        "publishedAt": "2026-09-13T11:48:39Z"
+        "url": "https://www.cls.cn/detail/2481671",
+        "publishedAt": "2026-09-13T16:15:26Z"
+      },
+      {
+        "id": "24e1b2113b6270be340e",
+        "title": "两场重磅发布会，明日举行",
+        "summary": "两场重磅发布会将于明日举行，市场关注宏观政策与产业信号。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481593",
+        "publishedAt": "2026-09-13T16:15:26Z"
       },
       {
         "id": "af0cca05b400a8ca9c11",
         "title": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高",
-        "summary": "国常会部署算力网建设，产业订单火热，算力调优付费意愿高。",
+        "summary": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481462",
-        "publishedAt": "2026-09-13T11:48:39Z"
-      },
-      {
-        "id": "425085107228c6b87e55",
-        "title": "苹果iPhone 18 Pro系列预售：首日到店取货名额迅速抢光，冰川蓝配色最受欢迎",
-        "summary": "苹果iPhone 18 Pro系列预售首日到店取货名额迅速抢光，冰川蓝最受欢迎。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34058192",
-        "publishedAt": "2026-09-13T11:48:39Z"
-      },
-      {
-        "id": "90c17f9d4d0bf8bf42a1",
-        "title": "公职人员醉驾致一对夫妻身亡、死者家属质疑主次责任认定，警方通报",
-        "summary": "公职人员醉驾致夫妻身亡，家属质疑责任认定，警方通报。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34058193",
-        "publishedAt": "2026-09-13T11:48:39Z"
+        "publishedAt": "2026-09-13T16:15:26Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注瑞典大选、也门冲突、印尼渡轮沉没及AI安全争议等跨来源热点。",
+    "overview": "瑞典大选极右翼或首入政府；印尼客轮倾覆致百余人失踪；胡塞武装升级红海冲突并袭击沙特；俄乌无人机战波及波兰边境；AI安全争论从硅谷蔓延至政界。",
     "items": [
       {
-        "id": "681660ca90e07259838c",
-        "title": "Voting under way in Sweden with far right eyeing first role in government",
-        "summary": "瑞典大选投票，极右翼瑞典民主党有望首次进入政府。",
+        "id": "3243a90ec534eb07c5ac",
+        "title": "Sweden general election: close race as far right eyes role in government – Europe live",
+        "summary": "瑞典大选投票，左右翼阵营差距仅0.3个百分点，极右翼或首入政府。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
-        "publishedAt": "2026-09-13T03:17:15Z"
+        "url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
+        "publishedAt": "2026-09-13T08:04:06Z"
+      },
+      {
+        "id": "306e36da432f58cd5991",
+        "title": "Six killed, 130 missing after Indonesian passenger ship capsizes",
+        "summary": "印尼客轮在爪哇海倾覆，6人死亡、130人失踪，搜救持续进行。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/six-killed-130-missing-after-indonesian-passenger-ship-capsizes?traffic_source=rss",
+        "publishedAt": "2026-09-13T07:50:46Z"
       },
       {
         "id": "59e1978daf03df178151",
         "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-        "summary": "胡塞武装称袭击沙特基地，也门政府军与胡塞战斗升级。",
+        "summary": "胡塞武装称袭击沙特南部军事基地，也门政府军与胡塞冲突升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
         "publishedAt": "2026-09-13T03:26:06Z"
       },
       {
-        "id": "2ad18180a1708e10c446",
-        "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
-        "summary": "印尼客轮在爪哇海倾覆，约130人失踪，搜救持续。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
-        "publishedAt": "2026-09-13T02:31:10Z"
+        "id": "327477cd65e762608b2d",
+        "title": "Russian drone hits Kyiv-Warsaw passenger train near Polish border",
+        "summary": "俄无人机袭击基辅至华沙客运列车，波兰边境附近遇袭，乌方强烈谴责。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
+        "publishedAt": "2026-09-13T06:40:42Z"
       },
       {
-        "id": "e77000cb5b4639343bb4",
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "summary": "前Anthropic研究员称AI员工对人类未来感到真实恐惧。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-13T03:13:07Z"
+        "id": "e4c50baa2d21a0776d13",
+        "title": "World leaders gather in New Delhi for final day of BRICS summit",
+        "summary": "金砖峰会最后一日，领导人在新德里聚焦伊朗与乌克兰战争分歧。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
+        "publishedAt": "2026-09-13T07:40:24Z"
+      },
+      {
+        "id": "51f7add5774a88f110f6",
+        "title": "Obama reportedly urges Democrats to prioritize safety plan for AI",
+        "summary": "奥巴马呼吁民主党优先制定AI安全计划，涵盖放缓发展与就业冲击。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/obama-democrats-ai-safety",
+        "publishedAt": "2026-09-13T07:47:37Z"
       },
       {
         "id": "9da331e17ae5cc3cff35",
@@ -122,22 +138,6 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
         "publishedAt": "2026-09-12T15:00:37Z"
-      },
-      {
-        "id": "98066e66bef5e9586448",
-        "title": "Vanuatu ferry capsize leaves one dead, 30 missing",
-        "summary": "瓦努阿图渡轮在恶劣天气中沉没，1死30余失踪。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/vanuatu-ferry-capsize-leaves-one-dead-30-missing/a-79249954?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-13T02:09:00Z"
-      },
-      {
-        "id": "aaa33f130f5e680bf132",
-        "title": "Germany: Lower Saxony local polls in focus after AfD win",
-        "summary": "德国下萨克森州地方选举举行，AfD支持率受关注。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-13T00:26:00Z"
       }
     ]
   }
