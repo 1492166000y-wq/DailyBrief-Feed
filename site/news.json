@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-13",
-  "generatedAt": "2026-09-13T00:01:38Z",
+  "generatedAt": "2026-09-13T04:44:48Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，金砖国家领导人第十八次会晤及中国将于2027年接任金砖主席国成为今日头条，习近平发表讲话，金砖合作与互联互通贸易通道同步推进；宏观经济领域，美联储加息预期与美股芯片股走势备受关注，国常会部署算力基础设施建设，AI产业动态活跃；社会法治领域，红通人员引渡回国、公职人员醉驾案警方通报等引发关注。",
+    "overview": "国内聚焦金砖峰会与领导人讲话、国常会算力部署、美联储加息预期、医药反腐、红通引渡及科技产业动态，兼顾突发社会事件与公共卫生信息。",
     "items": [
       {
         "id": "bf230f8b6e97f03f3114",
         "title": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
-        "summary": "习近平在金砖国家领导人第十八次会晤第一阶段会议发表讲话（全文）。",
+        "summary": "习近平在金砖国家领导人第十八次会晤第一阶段会议发表讲话，全文发布，阐述中方立场与合作主张。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34058191",
-        "publishedAt": "2026-09-13T00:01:38Z"
+        "publishedAt": "2026-09-13T04:44:48Z"
       },
       {
-        "id": "1b6f1277c45b3383874c",
-        "title": "中国将于2027年接任金砖主席国",
-        "summary": "中国将于2027年接任金砖主席国，金砖合作机制持续深化。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684437120370851883/",
-        "publishedAt": "2026-09-13T00:01:38Z"
-      },
-      {
-        "id": "f0e61ca639caa27445d7",
-        "title": "金砖合作打造互联互通贸易通道",
-        "summary": "金砖合作打造互联互通贸易通道，推动新兴市场经贸往来。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%89%93%E9%80%A0%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%E8%B4%B8%E6%98%93%E9%80%9A%E9%81%93%23",
-        "publishedAt": "2026-09-13T00:01:38Z"
-      },
-      {
-        "id": "fd7d16d03f2fe1334ea4",
-        "title": "高盛也“改口”了：下周美联储会加息！",
-        "summary": "高盛改变预期，称下周美联储将加息，市场加息担忧升温。",
+        "id": "53f0975553b1334851d2",
+        "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+        "summary": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话，引发国内外广泛关注。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781616",
-        "publishedAt": "2026-09-13T00:01:38Z"
+        "url": "https://wallstreetcn.com/articles/3781635",
+        "publishedAt": "2026-09-13T04:44:48Z"
       },
       {
         "id": "8ed5a1368fb419a26946",
         "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
-        "summary": "早报：美联储下周加息概率飙至90%，国常会部署完善算力基础设施。",
+        "summary": "国常会部署进一步完善算力基础设施，美联储下周加息概率飙至90%，美股黄金齐涨。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481328",
-        "publishedAt": "2026-09-13T00:01:38Z"
-      },
-      {
-        "id": "af0cca05b400a8ca9c11",
-        "title": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高",
-        "summary": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481462",
-        "publishedAt": "2026-09-13T00:01:38Z"
+        "publishedAt": "2026-09-13T04:44:48Z"
       },
       {
         "id": "3585f73eec4f014b05cc",
         "title": "“红通人员”曾能贵被引渡回国",
-        "summary": "红通人员曾能贵被引渡回国，反腐败国际追逃追赃再获进展。",
+        "summary": "红通人员曾能贵被引渡回国，彰显反腐败国际追逃追赃持续深化。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34057588",
-        "publishedAt": "2026-09-13T00:01:38Z"
+        "publishedAt": "2026-09-13T04:44:48Z"
       },
       {
-        "id": "a7d143eda5f3200c8f5b",
-        "title": "印度称对台湾问题政策立场没有改变",
-        "summary": "印度称对台湾问题政策立场没有改变，重申一个中国原则。",
+        "id": "fb049d3f35ab8e884d12",
+        "title": "国家医保局公布医药购销商业贿赂案",
+        "summary": "国家医保局公布医药购销商业贿赂案，释放严查医药领域腐败、规范市场秩序信号。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684162389268742180/",
-        "publishedAt": "2026-09-13T00:01:38Z"
+        "url": "https://www.toutiao.com/trending/7684808085232108059/",
+        "publishedAt": "2026-09-13T04:44:48Z"
+      },
+      {
+        "id": "425085107228c6b87e55",
+        "title": "苹果iPhone 18 Pro系列预售：首日到店取货名额迅速抢光，冰川蓝配色最受欢迎",
+        "summary": "苹果iPhone 18 Pro系列预售首日到店取货名额迅速抢光，冰川蓝配色最受欢迎。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34058192",
+        "publishedAt": "2026-09-13T04:44:48Z"
+      },
+      {
+        "id": "98acce3b0cd3d8c01f20",
+        "title": "石油市场已达“转折点”？",
+        "summary": "石油市场被指已达转折点，供需格局与地缘风险变化引发全球能源市场关注。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781634",
+        "publishedAt": "2026-09-13T04:44:48Z"
+      },
+      {
+        "id": "f6ac6862173134270d44",
+        "title": "高盛TMT大会第三天：黄仁勋回击“循环融资”质疑——“投1块拿回100块？那就多来点”",
+        "summary": "黄仁勋在高盛TMT大会回击循环融资质疑，称投1块拿回100块就多来点，引发芯片投资热议。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781630",
+        "publishedAt": "2026-09-13T04:44:48Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，AI安全与治理成为焦点，Anthropic CEO呼吁AI放缓发展，OpenAI宣布2026年不上市，英伟达则洽谈在Anthropic IPO中投资；中东局势持续紧张，沙特关键输油管道遭无人机袭击后关闭，胡塞武装与沙特互相袭击；此外，德国多地爆发反对极右翼政党AfD的大规模抗议，特朗普就爱尔兰统一发表言论，欧洲银行黄金回流等也受到关注。",
+    "overview": "国际关注印尼客轮失联、瓦努阿图渡轮沉没、沙特输油管道遇袭、也门胡塞武装动向、欧洲多国政治与AI监管争论，以及菲律宾渡轮火灾等重大灾情。",
     "items": [
       {
-        "id": "e9b0d3d4f49373d0b02a",
-        "title": "Anthropic boss Dario Amodei calls for AI slowdown",
-        "summary": "Anthropic CEO阿莫代伊呼吁AI发展放缓，马斯克与奥特曼表示认同。",
+        "id": "849b62621f38ff712d8c",
+        "title": "Indonesia: Search underway after ferry loses contact",
+        "summary": "印尼一艘载有240余人的客轮在爪哇海失联，搜救正在进行，暂无伤亡报告。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-12T15:32:00Z"
+        "url": "https://www.dw.com/en/indonesia-search-underway-after-ferry-loses-contact/a-79248600?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-12T20:24:00Z"
+      },
+      {
+        "id": "b75f1275d463200efe11",
+        "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
+        "summary": "瓦努阿图附近海域渡轮沉没，已致1人死亡、30余人失踪，搜救持续。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
+        "publishedAt": "2026-09-12T18:39:50Z"
+      },
+      {
+        "id": "9da331e17ae5cc3cff35",
+        "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
+        "summary": "沙特关键输油管道遭来自伊拉克无人机袭击后关闭，全球原油供应与地缘风险升温。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
+        "publishedAt": "2026-09-12T07:35:12Z"
+      },
+      {
+        "id": "59e1978daf03df178151",
+        "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+        "summary": "胡塞武装称用无人机和导弹袭击沙特南部军事基地，也门政府军与胡塞冲突再起。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+        "publishedAt": "2026-09-12T17:27:49Z"
+      },
+      {
+        "id": "c7a25bd9a6159f900991",
+        "title": "Sweden election: Far right eyes power for 1st time",
+        "summary": "瑞典大选举行，极右翼瑞典民主党或首次进入政府，中左翼领先优势收窄。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-12T19:42:00Z"
+      },
+      {
+        "id": "efc15318469462bc4399",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "Anthropic负责人阿莫代伊呼吁放缓AI开发，警告模型可能造成全球严重损害。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-12T13:16:47Z"
       },
       {
         "id": "ec288d463f93b1d492af",
         "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
-        "summary": "奥特曼称出于AI安全担忧，OpenAI不会在2026年上市。",
+        "summary": "奥特曼称出于AI安全担忧，OpenAI不会在2026年上市，引发科技与资本市场关注。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
         "publishedAt": "2026-09-12T15:00:37Z"
       },
       {
-        "id": "e3359f27b2c7248bc0b7",
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "summary": "沙特关键输油管道遭来自伊拉克的无人机袭击后关闭，伊拉克展开调查。",
+        "id": "a8f743359df916845e7d",
+        "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+        "summary": "菲律宾渡轮火灾死亡人数升至76人，仍有人员失踪，有毒烟雾和余热阻碍救援。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-12T04:15:50Z"
-      },
-      {
-        "id": "233ac80bc081ef0b4ff1",
-        "title": "Tens of thousands march across Germany to protest far-right party AfD",
-        "summary": "德国数万人游行抗议极右翼政党AfD，要求取缔该党。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
-        "publishedAt": "2026-09-12T14:37:03Z"
-      },
-      {
-        "id": "4bc96a69e2c233353be0",
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "summary": "特朗普称乐见爱尔兰统一，言论引发跨大西洋关注。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-12T13:25:28Z"
-      },
-      {
-        "id": "2f668c3cfd22029121c9",
-        "title": "Why are European banks moving gold out of United States?",
-        "summary": "荷兰和法国将黄金从美国金库运回，担忧美国可靠性及危机应对。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-12T07:32:00Z"
-      },
-      {
-        "id": "023f0d0d703ea6531864",
-        "title": "DR Congo’s worst Ebola epidemic ever passes 7,000 cases",
-        "summary": "刚果（金）埃博拉疫情确诊超7000例，已致近3400人死亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss",
-        "publishedAt": "2026-09-12T07:58:53Z"
-      },
-      {
-        "id": "f5213a8b42b9a1f9d2cf",
-        "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
-        "summary": "Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho afte",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
-        "publishedAt": "2026-09-12T15:43:32Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-12T07:09:55Z"
       }
     ]
   }
