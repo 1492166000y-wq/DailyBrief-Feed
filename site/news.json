@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-13",
-  "generatedAt": "2026-09-13T04:44:48Z",
+  "generatedAt": "2026-09-13T11:48:39Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦金砖峰会与领导人讲话、国常会算力部署、美联储加息预期、医药反腐、红通引渡及科技产业动态，兼顾突发社会事件与公共卫生信息。",
+    "overview": "国内聚焦金砖峰会外交、AI巨头呼吁放缓、算力与光模块产业动向及社会民生议题。",
     "items": [
       {
         "id": "bf230f8b6e97f03f3114",
         "title": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
-        "summary": "习近平在金砖国家领导人第十八次会晤第一阶段会议发表讲话，全文发布，阐述中方立场与合作主张。",
+        "summary": "习近平在金砖国家领导人第十八次会晤第一阶段会议发表讲话，全文发布。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34058191",
-        "publishedAt": "2026-09-13T04:44:48Z"
+        "publishedAt": "2026-09-13T11:48:39Z"
       },
       {
-        "id": "53f0975553b1334851d2",
-        "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
-        "summary": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话，引发国内外广泛关注。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781635",
-        "publishedAt": "2026-09-13T04:44:48Z"
-      },
-      {
-        "id": "8ed5a1368fb419a26946",
-        "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
-        "summary": "国常会部署进一步完善算力基础设施，美联储下周加息概率飙至90%，美股黄金齐涨。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481328",
-        "publishedAt": "2026-09-13T04:44:48Z"
-      },
-      {
-        "id": "3585f73eec4f014b05cc",
-        "title": "“红通人员”曾能贵被引渡回国",
-        "summary": "红通人员曾能贵被引渡回国，彰显反腐败国际追逃追赃持续深化。",
+        "id": "2337c565c5d9b759751f",
+        "title": "详讯丨习近平会见印度总理莫迪",
+        "summary": "习近平会见印度总理莫迪，中印领导人就双边关系交换意见。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34057588",
-        "publishedAt": "2026-09-13T04:44:48Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34058316",
+        "publishedAt": "2026-09-13T11:48:39Z"
       },
       {
-        "id": "fb049d3f35ab8e884d12",
-        "title": "国家医保局公布医药购销商业贿赂案",
-        "summary": "国家医保局公布医药购销商业贿赂案，释放严查医药领域腐败、规范市场秩序信号。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684808085232108059/",
-        "publishedAt": "2026-09-13T04:44:48Z"
+        "id": "cdffcebb7e5ca8330141",
+        "title": "死敌罕见联手！马斯克、Altman支持Dario Amodei“全球放缓AI”呼吁",
+        "summary": "马斯克、Altman罕见支持Anthropic CEO呼吁全球放缓AI开发，引热议。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781639",
+        "publishedAt": "2026-09-13T11:48:39Z"
+      },
+      {
+        "id": "e4c8172da018fc0b7c15",
+        "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
+        "summary": "Altman称OpenAI今年不会IPO，若AI威胁人类生存宁愿放弃上市。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781638",
+        "publishedAt": "2026-09-13T11:48:39Z"
+      },
+      {
+        "id": "c7bd9cf48858e974ead0",
+        "title": "“站在光里”的光博会：1.6T光模块还在导入，6.4T的NPO又要来了",
+        "summary": "光博会显示1.6T光模块仍在导入，6.4T NPO技术即将到来。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481441",
+        "publishedAt": "2026-09-13T11:48:39Z"
+      },
+      {
+        "id": "af0cca05b400a8ca9c11",
+        "title": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高",
+        "summary": "国常会部署算力网建设，产业订单火热，算力调优付费意愿高。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481462",
+        "publishedAt": "2026-09-13T11:48:39Z"
       },
       {
         "id": "425085107228c6b87e55",
         "title": "苹果iPhone 18 Pro系列预售：首日到店取货名额迅速抢光，冰川蓝配色最受欢迎",
-        "summary": "苹果iPhone 18 Pro系列预售首日到店取货名额迅速抢光，冰川蓝配色最受欢迎。",
+        "summary": "苹果iPhone 18 Pro系列预售首日到店取货名额迅速抢光，冰川蓝最受欢迎。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34058192",
-        "publishedAt": "2026-09-13T04:44:48Z"
+        "publishedAt": "2026-09-13T11:48:39Z"
       },
       {
-        "id": "98acce3b0cd3d8c01f20",
-        "title": "石油市场已达“转折点”？",
-        "summary": "石油市场被指已达转折点，供需格局与地缘风险变化引发全球能源市场关注。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781634",
-        "publishedAt": "2026-09-13T04:44:48Z"
-      },
-      {
-        "id": "f6ac6862173134270d44",
-        "title": "高盛TMT大会第三天：黄仁勋回击“循环融资”质疑——“投1块拿回100块？那就多来点”",
-        "summary": "黄仁勋在高盛TMT大会回击循环融资质疑，称投1块拿回100块就多来点，引发芯片投资热议。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781630",
-        "publishedAt": "2026-09-13T04:44:48Z"
+        "id": "90c17f9d4d0bf8bf42a1",
+        "title": "公职人员醉驾致一对夫妻身亡、死者家属质疑主次责任认定，警方通报",
+        "summary": "公职人员醉驾致夫妻身亡，家属质疑责任认定，警方通报。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34058193",
+        "publishedAt": "2026-09-13T11:48:39Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注印尼客轮失联、瓦努阿图渡轮沉没、沙特输油管道遇袭、也门胡塞武装动向、欧洲多国政治与AI监管争论，以及菲律宾渡轮火灾等重大灾情。",
+    "overview": "国际关注瑞典大选、也门冲突、印尼渡轮沉没及AI安全争议等跨来源热点。",
     "items": [
       {
-        "id": "849b62621f38ff712d8c",
-        "title": "Indonesia: Search underway after ferry loses contact",
-        "summary": "印尼一艘载有240余人的客轮在爪哇海失联，搜救正在进行，暂无伤亡报告。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/indonesia-search-underway-after-ferry-loses-contact/a-79248600?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-12T20:24:00Z"
+        "id": "681660ca90e07259838c",
+        "title": "Voting under way in Sweden with far right eyeing first role in government",
+        "summary": "瑞典大选投票，极右翼瑞典民主党有望首次进入政府。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
+        "publishedAt": "2026-09-13T03:17:15Z"
       },
       {
-        "id": "b75f1275d463200efe11",
-        "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
-        "summary": "瓦努阿图附近海域渡轮沉没，已致1人死亡、30余人失踪，搜救持续。",
+        "id": "59e1978daf03df178151",
+        "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+        "summary": "胡塞武装称袭击沙特基地，也门政府军与胡塞战斗升级。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
-        "publishedAt": "2026-09-12T18:39:50Z"
+        "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+        "publishedAt": "2026-09-13T03:26:06Z"
+      },
+      {
+        "id": "2ad18180a1708e10c446",
+        "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+        "summary": "印尼客轮在爪哇海倾覆，约130人失踪，搜救持续。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
+        "publishedAt": "2026-09-13T02:31:10Z"
+      },
+      {
+        "id": "e77000cb5b4639343bb4",
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "summary": "前Anthropic研究员称AI员工对人类未来感到真实恐惧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-13T03:13:07Z"
       },
       {
         "id": "9da331e17ae5cc3cff35",
         "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-        "summary": "沙特关键输油管道遭来自伊拉克无人机袭击后关闭，全球原油供应与地缘风险升温。",
+        "summary": "沙特关键输油管道遭伊拉克无人机袭击后关闭，地缘风险升温。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
         "publishedAt": "2026-09-12T07:35:12Z"
       },
       {
-        "id": "59e1978daf03df178151",
-        "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-        "summary": "胡塞武装称用无人机和导弹袭击沙特南部军事基地，也门政府军与胡塞冲突再起。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
-        "publishedAt": "2026-09-12T17:27:49Z"
-      },
-      {
-        "id": "c7a25bd9a6159f900991",
-        "title": "Sweden election: Far right eyes power for 1st time",
-        "summary": "瑞典大选举行，极右翼瑞典民主党或首次进入政府，中左翼领先优势收窄。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-12T19:42:00Z"
-      },
-      {
-        "id": "efc15318469462bc4399",
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": "Anthropic负责人阿莫代伊呼吁放缓AI开发，警告模型可能造成全球严重损害。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-12T13:16:47Z"
-      },
-      {
         "id": "ec288d463f93b1d492af",
         "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
-        "summary": "奥特曼称出于AI安全担忧，OpenAI不会在2026年上市，引发科技与资本市场关注。",
+        "summary": "奥特曼称出于AI安全担忧，OpenAI不会在2026年上市。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
         "publishedAt": "2026-09-12T15:00:37Z"
       },
       {
-        "id": "a8f743359df916845e7d",
-        "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-        "summary": "菲律宾渡轮火灾死亡人数升至76人，仍有人员失踪，有毒烟雾和余热阻碍救援。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-12T07:09:55Z"
+        "id": "98066e66bef5e9586448",
+        "title": "Vanuatu ferry capsize leaves one dead, 30 missing",
+        "summary": "瓦努阿图渡轮在恶劣天气中沉没，1死30余失踪。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/vanuatu-ferry-capsize-leaves-one-dead-30-missing/a-79249954?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-13T02:09:00Z"
+      },
+      {
+        "id": "aaa33f130f5e680bf132",
+        "title": "Germany: Lower Saxony local polls in focus after AfD win",
+        "summary": "德国下萨克森州地方选举举行，AfD支持率受关注。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-13T00:26:00Z"
       }
     ]
   }
