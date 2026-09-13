@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-14",
-  "generatedAt": "2026-09-13T18:47:56Z",
+  "generatedAt": "2026-09-13T22:23:50Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦金砖峰会外交动向、敬一丹逝世、AI安全争议与算力产业政策。",
+    "overview": "本期国内焦点包括金砖峰会相关动态、AI巨头呼吁放缓模型迭代、算力产业进展及光模块技术突破；社会民生方面涉及医药购销贿赂、个人信息保护与公共安全等议题。",
     "items": [
       {
         "id": "d18a70245b30888b40ab",
         "title": "金砖国家领导人集体合影",
-        "summary": "金砖国家领导人集体合影，峰会闭幕，新德里峰会聚焦多边合作与全球治理。",
+        "summary": "金砖国家领导人峰会举行集体合影，多国领导人出席。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7684981836782784026/",
-        "publishedAt": "2026-09-13T18:47:56Z"
-      },
-      {
-        "id": "56972ce7a53a5857a0c6",
-        "title": "著名主持人敬一丹去世",
-        "summary": "著名主持人敬一丹去世，央视同仁追忆其理性温和的主持风格与时代印记。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34059886",
-        "publishedAt": "2026-09-13T18:47:56Z"
-      },
-      {
-        "id": "cdffcebb7e5ca8330141",
-        "title": "死敌罕见联手！马斯克、Altman支持Dario Amodei“全球放缓AI”呼吁",
-        "summary": "马斯克与OpenAI的Altman罕见支持Anthropic呼吁全球放缓AI模型迭代的提议。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781639",
-        "publishedAt": "2026-09-13T18:47:56Z"
+        "publishedAt": "2026-09-13T22:23:50Z"
       },
       {
         "id": "4e9a5d3cec5f160fa63d",
         "title": "金砖峰会上的意外会面，伊朗总统与阿联酋王储会晤",
-        "summary": "金砖峰会期间伊朗总统与阿联酋王储意外会晤，被视为地区外交破冰信号。",
+        "summary": "金砖峰会期间伊朗总统与阿联酋王储罕见会晤，引发外交关注。",
         "source": "凤凰网",
         "url": "https://original.ifeng.com/c/8wNyTyekeYc",
-        "publishedAt": "2026-09-13T18:47:56Z"
+        "publishedAt": "2026-09-13T22:23:50Z"
+      },
+      {
+        "id": "cdffcebb7e5ca8330141",
+        "title": "死敌罕见联手！马斯克、Altman支持Dario Amodei“全球放缓AI”呼吁",
+        "summary": "马斯克、Altman与Amodei罕见联手，呼吁全球放缓AI研发。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781639",
+        "publishedAt": "2026-09-13T22:23:50Z"
+      },
+      {
+        "id": "b2eabcc93950526a0762",
+        "title": "Anthropic掌门人呼吁放缓模型迭代 马斯克、奥尔特曼齐响应",
+        "summary": "Anthropic掌门人呼吁放缓模型迭代，科技界领袖齐声响应。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481555",
+        "publishedAt": "2026-09-13T22:23:50Z"
+      },
+      {
+        "id": "e4c8172da018fc0b7c15",
+        "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
+        "summary": "Altman称OpenAI今年不会IPO，若AI威胁生存宁愿毁掉IPO。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781638",
+        "publishedAt": "2026-09-13T22:23:50Z"
+      },
+      {
+        "id": "1810a8a94e57c6d00332",
+        "title": "周末要闻汇总：1.6T站上光模块“C位” 6.4T NPO也要来了",
+        "summary": "财联社汇总周末要闻：1.6T光模块站上C位，6.4T NPO即将到来。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481671",
+        "publishedAt": "2026-09-13T22:23:50Z"
+      },
+      {
+        "id": "c7bd9cf48858e974ead0",
+        "title": "“站在光里”的光博会：1.6T光模块还在导入，6.4T的NPO又要来了",
+        "summary": "光博会透露光模块技术演进：1.6T仍在导入，6.4T NPO已来。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481441",
+        "publishedAt": "2026-09-13T22:23:50Z"
       },
       {
         "id": "af0cca05b400a8ca9c11",
         "title": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高",
-        "summary": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿持续增高。",
+        "summary": "国常会部署算力网建设，产业订单火热，付费调优意愿提升。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2481462",
-        "publishedAt": "2026-09-13T18:47:56Z"
-      },
-      {
-        "id": "941739b00dfaa70c73ba",
-        "title": "四大国有行今年缩招7000余人",
-        "summary": "四大国有银行今年缩招七千余人，引发对金融业就业前景与岗位结构调整关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%A4%A7%E5%9B%BD%E6%9C%89%E8%A1%8C%E4%BB%8A%E5%B9%B4%E7%BC%A9%E6%8B%9B7000%E4%BD%99%E4%BA%BA",
-        "publishedAt": "2026-09-13T18:47:56Z"
-      },
-      {
-        "id": "207e28bef61d9e7fc6bb",
-        "title": "透过服贸会，外资抢抓三大新机遇",
-        "summary": "服贸会展现外资抢抓服务贸易、数字经济与绿色转型三大新机遇。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684986203564772910/",
-        "publishedAt": "2026-09-13T18:47:56Z"
-      },
-      {
-        "id": "aafc1601e5fd223f63fd",
-        "title": "国家医保局公布医疗机构涉医药购销商业贿赂案",
-        "summary": "国家医保局公布医疗机构涉医药购销商业贿赂典型案件，强化行业合规监管。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34059946",
-        "publishedAt": "2026-09-13T18:47:56Z"
+        "publishedAt": "2026-09-13T22:23:50Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻聚焦瑞典大选、俄乌边境冲突、也门局势与印尼沉船事故。",
+    "overview": "国际方面，瑞典大选陷入僵局，中东局势因沙特输油管道遇袭与也门冲突升级而持续紧张，北约边境安全事件引发关注；此外，全球麻疹疫情抬头及AI治理讨论亦值得关注。",
     "items": [
       {
-        "id": "570afdc59ebe8829ec3e",
-        "title": "Sweden general election: centre-left opposition bloc set to win, exit polls project – Europe live",
-        "summary": "瑞典大选出口民调显示中左翼反对派阵营有望获胜，极右翼瑞典民主党表现逊预期。",
+        "id": "2ebb171744b9ca7712c7",
+        "title": "Swedish election: left and right parties appear to be heading for deadlock",
+        "summary": "瑞典大选左右阵营势均力敌，或陷入政治僵局。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
-        "publishedAt": "2026-09-13T10:34:52Z"
+        "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
+        "publishedAt": "2026-09-13T13:28:56Z"
       },
       {
-        "id": "5a73e5131dd5ba495be0",
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "summary": "俄罗斯袭击乌克兰列车，约翰逊等欧洲官员刚离开车站，乌方称可能是目标。",
+        "id": "ea1e6d44b73873c6852a",
+        "title": "Swedish party blocs tied after Sunday vote, projections say",
+        "summary": "瑞典大选计票过半，两大阵营差距仅两万票，结果难料。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-13T09:38:29Z"
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-13T13:17:15Z"
       },
       {
-        "id": "ec5aa8cde1c476815921",
-        "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
-        "summary": "特朗普要求泽连斯基停止打击俄罗斯柴油供应，称此举加剧全球燃料短缺。",
+        "id": "3c033f362416b6032e4c",
+        "title": "Swedes vote in election that could see far-right in government",
+        "summary": "瑞典选民投票，极右翼可能进入政府引发关注。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
-        "publishedAt": "2026-09-13T10:15:12Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
+        "publishedAt": "2026-09-13T11:58:11Z"
       },
       {
-        "id": "c20c7c8cead7cbb02c7a",
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "summary": "特朗普淡化AI风险警告，称负面力量渲染不会发生的事，并以中美竞争为由反驳。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-13T10:03:44Z"
-      },
-      {
-        "id": "59e1978daf03df178151",
-        "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-        "summary": "胡塞武装称袭击沙特南部军事基地，也门政府军与胡塞冲突升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
-        "publishedAt": "2026-09-13T03:26:06Z"
+        "id": "0b79979a25aa4c7c9271",
+        "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+        "summary": "金砖峰会汇聚28国领导人，美国缺席成看点。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
+        "publishedAt": "2026-09-13T13:03:15Z"
       },
       {
         "id": "9da331e17ae5cc3cff35",
         "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-        "summary": "沙特关键输油管道遭伊拉克无人机袭击后关闭，地缘政治风险升温。",
+        "summary": "沙特关键输油管道遭伊拉克无人机袭击后关闭。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
         "publishedAt": "2026-09-12T07:35:12Z"
       },
       {
-        "id": "6898322e85b3c2f710a4",
-        "title": "Indonesia rescuers search for 130 people after ferry sinks",
-        "summary": "印尼爪哇海域客轮倾覆，搜救人员寻找130名失踪者，已致6人死亡。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/indonesia-rescuers-search-for-130-people-after-ferry-sinks/a-79248600?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-13T01:42:00Z"
+        "id": "59e1978daf03df178151",
+        "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+        "summary": "胡塞武装称袭击沙特南部基地，也门冲突升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+        "publishedAt": "2026-09-13T03:26:06Z"
       },
       {
-        "id": "f55b2dd5dccdcd11afe1",
-        "title": "Pennsylvania reports apparent third measles-related death amid outbreak",
-        "summary": "美国宾州报告第三例麻疹相关死亡，一名40岁女性死亡，疫情持续扩散。",
+        "id": "ccd320c153851b1f44a8",
+        "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
+        "summary": "载有约翰逊和彼得雷乌斯的火车疑成俄无人机袭击目标。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak",
-        "publishedAt": "2026-09-13T09:46:12Z"
+        "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
+        "publishedAt": "2026-09-13T09:43:03Z"
+      },
+      {
+        "id": "5a73e5131dd5ba495be0",
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "summary": "俄击中乌克兰火车，事发时约翰逊等欧洲官员刚离开车站。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-13T11:14:21Z"
       }
     ]
   }
