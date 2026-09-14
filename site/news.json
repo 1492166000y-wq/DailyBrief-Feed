@@ -1,116 +1,92 @@
 {
   "version": 1,
   "date": "2026-09-14",
-  "generatedAt": "2026-09-13T22:23:50Z",
+  "generatedAt": "2026-09-14T04:53:19Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内焦点包括金砖峰会相关动态、AI巨头呼吁放缓模型迭代、算力产业进展及光模块技术突破；社会民生方面涉及医药购销贿赂、个人信息保护与公共安全等议题。",
+    "overview": "国内要闻聚焦宏观调控与产业动向：卫健委部署生育友好环境、美联储加息预期牵动A股、沙特输油管道中断推高油价、广汽集团突发停牌、算力与人形机器人产业动态以及反腐与民生治理。",
     "items": [
       {
-        "id": "d18a70245b30888b40ab",
-        "title": "金砖国家领导人集体合影",
-        "summary": "金砖国家领导人峰会举行集体合影，多国领导人出席。",
+        "id": "7088f2dd3a4ec4c0e894",
+        "title": "卫健委：要引导抵制不正确婚育观",
+        "summary": "国家卫健委表示要引导抵制不正确婚育观，进一步营造生育友好环境，回应人口结构挑战。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684981836782784026/",
-        "publishedAt": "2026-09-13T22:23:50Z"
+        "url": "https://www.toutiao.com/trending/7685222274546401838/",
+        "publishedAt": "2026-09-14T04:53:19Z"
       },
       {
-        "id": "4e9a5d3cec5f160fa63d",
-        "title": "金砖峰会上的意外会面，伊朗总统与阿联酋王储会晤",
-        "summary": "金砖峰会期间伊朗总统与阿联酋王储罕见会晤，引发外交关注。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wNyTyekeYc",
-        "publishedAt": "2026-09-13T22:23:50Z"
+        "id": "f5d979a4d784fee4e9e5",
+        "title": "一张表看懂！华尔街“彻底信了”：美联储本周加息",
+        "summary": "市场普遍预期美联储本周加息，华尔街态度转向，全球流动性与A股情绪面临新的扰动。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2481857",
+        "publishedAt": "2026-09-14T04:53:19Z"
       },
       {
-        "id": "cdffcebb7e5ca8330141",
-        "title": "死敌罕见联手！马斯克、Altman支持Dario Amodei“全球放缓AI”呼吁",
-        "summary": "马斯克、Altman与Amodei罕见联手，呼吁全球放缓AI研发。",
+        "id": "a34af7e61a09f0a855f2",
+        "title": "报道：延布港库存仅能维持5至7天出口！若沙特遭袭油管持续中断，全球或面临4%原油缺口",
+        "summary": "报道称沙特延布港库存仅够5至7天出口，若输油管道持续中断，全球或面临约4%原油缺口。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781639",
-        "publishedAt": "2026-09-13T22:23:50Z"
+        "url": "https://wallstreetcn.com/articles/3781659",
+        "publishedAt": "2026-09-14T04:53:19Z"
       },
       {
-        "id": "b2eabcc93950526a0762",
-        "title": "Anthropic掌门人呼吁放缓模型迭代 马斯克、奥尔特曼齐响应",
-        "summary": "Anthropic掌门人呼吁放缓模型迭代，科技界领袖齐声响应。",
+        "id": "bd271d4e4c3c73b40b96",
+        "title": "【早报】AI巨头呼吁，放缓前沿模型研发；沙特输油管道中断，油价大幅拉升；两场重磅发布会，今日举行",
+        "summary": "早报汇总：AI巨头呼吁放缓前沿模型研发，沙特输油管道中断推高油价，两场重磅发布会今日举行。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481555",
-        "publishedAt": "2026-09-13T22:23:50Z"
+        "url": "https://www.cls.cn/detail/2481806",
+        "publishedAt": "2026-09-14T04:53:19Z"
       },
       {
-        "id": "e4c8172da018fc0b7c15",
-        "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
-        "summary": "Altman称OpenAI今年不会IPO，若AI威胁生存宁愿毁掉IPO。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781638",
-        "publishedAt": "2026-09-13T22:23:50Z"
+        "id": "a37cf0c7ee4f46b66955",
+        "title": "广汽集团停牌",
+        "summary": "广汽集团A+H股双双紧急停牌，公司称将见盘后公告，市场关注其重大事项进展。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2%E5%81%9C%E7%89%8C",
+        "publishedAt": "2026-09-14T04:53:19Z"
       },
       {
-        "id": "1810a8a94e57c6d00332",
-        "title": "周末要闻汇总：1.6T站上光模块“C位” 6.4T NPO也要来了",
-        "summary": "财联社汇总周末要闻：1.6T光模块站上C位，6.4T NPO即将到来。",
+        "id": "4686d923c6bf7f6aeb09",
+        "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文）",
+        "summary": "习近平在金砖国家领导人第十八次会晤第二阶段会议发表讲话，全文发布，阐述中方主张。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481671",
-        "publishedAt": "2026-09-13T22:23:50Z"
+        "url": "https://www.cls.cn/detail/2481647",
+        "publishedAt": "2026-09-14T04:53:19Z"
       },
       {
-        "id": "c7bd9cf48858e974ead0",
-        "title": "“站在光里”的光博会：1.6T光模块还在导入，6.4T的NPO又要来了",
-        "summary": "光博会透露光模块技术演进：1.6T仍在导入，6.4T NPO已来。",
+        "id": "50f13f0b9bc516d944bb",
+        "title": "人形机器人降价潮：价格“腰斩”之后，真正的拐点不是价格｜调查",
+        "summary": "调查显示人形机器人价格出现“腰斩”式降价潮，但业界认为真正拐点并非价格而是场景落地。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481441",
-        "publishedAt": "2026-09-13T22:23:50Z"
+        "url": "https://www.cls.cn/detail/2481676",
+        "publishedAt": "2026-09-14T04:53:19Z"
       },
       {
-        "id": "af0cca05b400a8ca9c11",
-        "title": "国常会部署算力网建设，产业一线订单火热，算力调优付费意愿高",
-        "summary": "国常会部署算力网建设，产业订单火热，付费调优意愿提升。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2481462",
-        "publishedAt": "2026-09-13T22:23:50Z"
+        "id": "9283e310057e0822f5db",
+        "title": "青岛市副市长高健被查",
+        "summary": "青岛市副市长高健被查，纪检监察机关发布通报，引发对地方政务与反腐的关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7685221772114808361/",
+        "publishedAt": "2026-09-14T04:53:19Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，瑞典大选陷入僵局，中东局势因沙特输油管道遇袭与也门冲突升级而持续紧张，北约边境安全事件引发关注；此外，全球麻疹疫情抬头及AI治理讨论亦值得关注。",
+    "overview": "国际要闻集中于地缘政治与经济风险：瑞典大选左右阵营胶着、沙特输油管道遇袭与也门冲突升级、俄无人机袭击乌边境列车、特朗普淡化AI风险并干预美联储政策、以色列文化部长威胁剥夺电影人国籍。",
     "items": [
       {
-        "id": "2ebb171744b9ca7712c7",
-        "title": "Swedish election: left and right parties appear to be heading for deadlock",
-        "summary": "瑞典大选左右阵营势均力敌，或陷入政治僵局。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
-        "publishedAt": "2026-09-13T13:28:56Z"
-      },
-      {
-        "id": "ea1e6d44b73873c6852a",
-        "title": "Swedish party blocs tied after Sunday vote, projections say",
-        "summary": "瑞典大选计票过半，两大阵营差距仅两万票，结果难料。",
+        "id": "1571a4f045152e1d812e",
+        "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+        "summary": "瑞典大选初步计票显示左翼阵营以三席微弱优势领先，极右翼瑞典民主党意外失势，组阁前景不明。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-13T13:17:15Z"
-      },
-      {
-        "id": "3c033f362416b6032e4c",
-        "title": "Swedes vote in election that could see far-right in government",
-        "summary": "瑞典选民投票，极右翼可能进入政府引发关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
-        "publishedAt": "2026-09-13T11:58:11Z"
-      },
-      {
-        "id": "0b79979a25aa4c7c9271",
-        "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
-        "summary": "金砖峰会汇聚28国领导人，美国缺席成看点。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
-        "publishedAt": "2026-09-13T13:03:15Z"
+        "publishedAt": "2026-09-13T17:58:59Z"
       },
       {
         "id": "9da331e17ae5cc3cff35",
         "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-        "summary": "沙特关键输油管道遭伊拉克无人机袭击后关闭。",
+        "summary": "沙特关键输油管道遭伊拉克方向无人机袭击后关闭，全球能源供应与油价面临新一轮冲击。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
         "publishedAt": "2026-09-12T07:35:12Z"
@@ -118,7 +94,7 @@
       {
         "id": "59e1978daf03df178151",
         "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-        "summary": "胡塞武装称袭击沙特南部基地，也门冲突升级。",
+        "summary": "胡塞武装称袭击沙特南部基地，也门政府军与胡塞武装交战升级，地区局势骤然紧张。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
         "publishedAt": "2026-09-13T03:26:06Z"
@@ -126,18 +102,42 @@
       {
         "id": "ccd320c153851b1f44a8",
         "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
-        "summary": "载有约翰逊和彼得雷乌斯的火车疑成俄无人机袭击目标。",
+        "summary": "载有英国前首相约翰逊及前CIA局长彼得雷乌斯的火车，疑在乌克兰边境成为俄无人机袭击目标。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
         "publishedAt": "2026-09-13T09:43:03Z"
       },
       {
-        "id": "5a73e5131dd5ba495be0",
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "summary": "俄击中乌克兰火车，事发时约翰逊等欧洲官员刚离开车站。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-13T11:14:21Z"
+        "id": "0dea4e6416203013992f",
+        "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
+        "summary": "特朗普淡化科技CEO关于放缓AI研发的呼吁，称要维持美国对华技术领先，引发安全争议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
+        "publishedAt": "2026-09-13T15:31:56Z"
+      },
+      {
+        "id": "c643f052a53fb22dce1c",
+        "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+        "summary": "以色列文化部长以加沙题材纪录片为由，威胁撤销获奖电影人国籍，理由为“叛国”。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
+        "publishedAt": "2026-09-13T19:50:25Z"
+      },
+      {
+        "id": "0b79979a25aa4c7c9271",
+        "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+        "summary": "金砖峰会汇聚28国领导人，美国缺席成为看点，各方就扩员与全球治理议题交换意见。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
+        "publishedAt": "2026-09-13T13:03:15Z"
+      },
+      {
+        "id": "ebabf2fe7ab962de6683",
+        "title": "Politics live: Fugitive developer Jean Nassif tells Icac ‘I’m going to speak my heart’; Taylor dubs Labor’s social media reform a ‘big brother bill’",
+        "summary": "Follow the day’s news liveGet our new political email, free app or daily news po",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
+        "publishedAt": "2026-09-13T20:49:33Z"
       }
     ]
   }
