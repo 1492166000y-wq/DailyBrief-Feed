@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-15",
-  "generatedAt": "2026-09-14T19:21:11Z",
-  "generationMode": "rules_fallback",
+  "generatedAt": "2026-09-14T23:07:40Z",
+  "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内方面，8月金融数据延续结构优化，社融存量同比增7.2%，信贷更多流向科技创新与绿色转型；国资委要求央企带头及时支付账款，缓解企业资金压力。产业领域，广汽集团资产重组牵动央国企整合预期，AI开发放缓担忧引发美股芯片股大跌，苹果新机破发降价。民生层面，超2亿灵活就业人员、饮用水摄入不足及月饼销量下滑等议题受到关注。",
     "items": [
       {
-        "id": "08b607764b9f09eecc7a",
-        "title": "饮用水报告：72%成年人未达适宜摄入量",
-        "summary": "饮用水报告：72%成年人未达适宜摄入量",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7685231197416472582/",
-        "publishedAt": "2026-09-14T19:21:11Z"
+        "id": "f7fc03b0cd60e4e5623b",
+        "title": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
+        "summary": "8月社融存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2482469",
+        "publishedAt": "2026-09-14T23:07:40Z"
+      },
+      {
+        "id": "8dcbdea05c2ade214864",
+        "title": "大型企业拖欠账款见一个查一个",
+        "summary": "国资委要求央企带头及时支付账款，大型企业拖欠账款“见一个查一个”。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9E%8B%E4%BC%81%E4%B8%9A%E6%8B%96%E6%AC%A0%E8%B4%A6%E6%AC%BE%E8%A7%81%E4%B8%80%E4%B8%AA%E6%9F%A5%E4%B8%80%E4%B8%AA",
+        "publishedAt": "2026-09-14T23:07:40Z"
       },
       {
         "id": "ab3e6600114f03c97e8a",
         "title": "广汽集团 资产重组",
-        "summary": "广汽集团 资产重组",
+        "summary": "广汽集团资产重组推进，一汽拟以股份支付对价成为二股东，汽车央国企整合再启。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2+%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84",
-        "publishedAt": "2026-09-14T19:21:11Z"
+        "publishedAt": "2026-09-14T23:07:40Z"
       },
       {
-        "id": "0b03f3b4313cdb7d0483",
-        "title": "华尔街见闻早餐FM-Radio | 2026年9月14日",
-        "summary": "华尔街见闻早餐FM-Radio | 2026年9月14日",
+        "id": "683085e571aef0d8c3ef",
+        "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+        "summary": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度破5%。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781660",
-        "publishedAt": "2026-09-14T19:21:11Z"
+        "url": "https://wallstreetcn.com/articles/3781670",
+        "publishedAt": "2026-09-14T23:07:40Z"
       },
       {
-        "id": "d076a9609d5dbb8ad5bc",
-        "title": "游客在距离市区约30公里的泸州东站下车后建议更改站名，官方答复",
-        "summary": "游客在距离市区约30公里的泸州东站下车后建议更改站名，官方答复",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34064772",
-        "publishedAt": "2026-09-14T19:21:11Z"
-      },
-      {
-        "id": "f7fc03b0cd60e4e5623b",
-        "title": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
-        "summary": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2482469",
-        "publishedAt": "2026-09-14T19:21:11Z"
-      },
-      {
-        "id": "fe06d059dfbbd5dbe4a9",
-        "title": "管道被炸油价破百，谁干的？",
-        "summary": "管道被炸油价破百，谁干的？",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wPiKlsIY1N",
-        "publishedAt": "2026-09-14T19:21:11Z"
-      },
-      {
-        "id": "23e6389a33bd848df3ca",
-        "title": "黄斌公开炮轰罗永浩",
-        "summary": "黄斌公开炮轰罗永浩",
+        "id": "1b8da1aab699724a60c8",
+        "title": "我国灵活就业人员规模已超过2亿人",
+        "summary": "我国灵活就业人员规模已超过2亿人，就业形态与保障问题持续受到关注。",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%96%8C%E5%85%AC%E5%BC%80%E7%82%AE%E8%BD%B0%E7%BD%97%E6%B0%B8%E6%B5%A9",
-        "publishedAt": "2026-09-14T19:21:11Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E8%A7%84%E6%A8%A1%E5%B7%B2%E8%B6%85%E8%BF%872%E4%BA%BF%E4%BA%BA%23",
+        "publishedAt": "2026-09-14T23:07:40Z"
       },
       {
-        "id": "d682bdd8b1f4b149ed19",
-        "title": "英国三地为何突然闹“脱英”",
-        "summary": "英国三地为何突然闹“脱英”",
+        "id": "08b607764b9f09eecc7a",
+        "title": "饮用水报告：72%成年人未达适宜摄入量",
+        "summary": "饮用水报告显示72%成年人未达适宜摄入量，健康饮水习惯引发关注。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684916355036348452/",
-        "publishedAt": "2026-09-14T19:21:11Z"
+        "url": "https://www.toutiao.com/trending/7685231197416472582/",
+        "publishedAt": "2026-09-14T23:07:40Z"
+      },
+      {
+        "id": "6276eeb39e709e24188e",
+        "title": "中秋前夕月饼市场销量近乎腰斩",
+        "summary": "中秋前夕月饼市场销量近乎腰斩，消费趋于理性与节约。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7684875208646508582/",
+        "publishedAt": "2026-09-14T23:07:40Z"
+      },
+      {
+        "id": "8eaf74dba9377302c3c6",
+        "title": "超30家药企长期行贿，涉案1.84亿！河北医科大学第二医院回应：正配合监管部门开展工作",
+        "summary": "超30家药企长期行贿涉案1.84亿元，河北医科大学第二医院回应正配合监管。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34065386",
+        "publishedAt": "2026-09-14T23:07:40Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际方面，俄罗斯无人机袭击乌克兰边境附近列车，北约重申继续支持乌克兰，特朗普称俄乌同意停止打击能源设施。中东局势持续紧张，胡塞武装袭击沙特并控制红海岛屿，油价突破108美元，美国10年期国债收益率一度升破5%。AI监管争议升温，科技领袖呼吁放缓开发，特朗普称相关担忧为“阴谋”，美欧及微软相继提出AI安全与自主发展主张。",
     "items": [
       {
-        "id": "6cc5dc79dad1ea52bbf2",
-        "title": "Trump and Republican allies rail against AI controls despite growing calls for more checks – live",
-        "summary": "President condemns what he claims is a ‘sick conspiracy’ amid global tech sellof",
+        "id": "b47bcddff7e0656ee025",
+        "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
+        "summary": "北约秘书长称俄无人机袭击乌克兰边境列车不会动摇西方支持基辅的决心。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
-        "publishedAt": "2026-09-14T11:04:32Z"
+        "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
+        "publishedAt": "2026-09-14T08:56:53Z"
       },
       {
-        "id": "5dffd0babcb3bdab7228",
-        "title": "Alligator Alcatraz held detainees in cages the size of phone booths, DHS watchdog says",
-        "summary": "Office of inspector general’s report says practice at Florida immigration jail i",
+        "id": "ed23817c8e2bb40f78a0",
+        "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
+        "summary": "Anthropic、OpenAI等科技领袖呼吁放缓AI开发，全球AI相关股票大幅下挫。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/alligator-alcatraz-immigration-jail-cages-report",
-        "publishedAt": "2026-09-14T10:53:14Z"
+        "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+        "publishedAt": "2026-09-14T14:10:52Z"
       },
       {
-        "id": "be3c407f2e97d7e6dc5d",
-        "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
-        "summary": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
-        "publishedAt": "2026-09-14T10:46:25Z"
-      },
-      {
-        "id": "1932aa051ac64a68826e",
-        "title": "Ukraine, Russia set for new round of US-mediated talks",
-        "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, ",
+        "id": "6fb4d79a9bf36dfdf17e",
+        "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands",
+        "summary": "胡塞武装袭击沙特并控制红海两座战略岛屿，全球航运风险持续上升。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-14T10:46:00Z"
+        "url": "https://www.dw.com/en/yemen-s-houthis-attack-saudis-seize-crucial-red-sea-islands/a-79263838?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-14T07:30:00Z"
+      },
+      {
+        "id": "beaf52c6a7282b4f3812",
+        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+        "summary": "油价突破108美元叠加中东局势，美国10年期国债收益率升至5%，为2023年来首次。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+        "publishedAt": "2026-09-14T08:48:34Z"
+      },
+      {
+        "id": "c5f596979f7ef0d2b5d8",
+        "title": "Donald Trump dismisses concerns about dangers of AI",
+        "summary": "特朗普称限制AI发展的呼声是“病态阴谋”，认为现行监管足够。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/donald-trump-dismisses-concerns-about-dangers-of-ai/a-79264523?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-14T07:54:00Z"
       },
       {
         "id": "77ddd27d6787f0e1514e",
         "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
-        "summary": "Central bank chief says continent’s AI dependency could give trade partners unpr",
+        "summary": "欧洲央行行长拉加德呼吁欧洲自建AI与数据中心，避免被中美切断技术供应。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
         "publishedAt": "2026-09-14T10:41:13Z"
       },
       {
-        "id": "245f59477a8856bbf4fc",
-        "title": "NATO pledges increased Ukraine support as Russia strikes near border",
-        "summary": "NATO chief Rutte insists Western allies will not be intimidated by Russian attac",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
-        "publishedAt": "2026-09-14T10:40:23Z"
+        "id": "404e4ca9de0e3aba5e3f",
+        "title": "Russian oligarch close to Putin paid for part of Donald Trump Jr’s lavish wedding",
+        "summary": "与普京关系密切的俄寡头被曝为小特朗普豪华婚礼承担部分费用。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/russian-oligarch-trump-jr-wedding",
+        "publishedAt": "2026-09-14T14:28:51Z"
       },
       {
-        "id": "e7b32797c06650c8bbeb",
-        "title": "States and cities sue Trump administration over policy restricting green card benefits",
-        "summary": "The policy allows immigration officers the authority to deny green cards to thos",
+        "id": "45d9f1c68269640d9f7a",
+        "title": "Mitch McConnell returns to Senate after months-long absence",
+        "summary": "84岁美国前参院共和党领袖麦康奈尔休养数月后重返参议院并首次投票。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/trump-immigration-snap-lawsuit",
-        "publishedAt": "2026-09-14T10:36:54Z"
-      },
-      {
-        "id": "61b5f0994665f459af85",
-        "title": "Microsoft proposes limits on its AI with code of conduct amid safety debate",
-        "summary": "Firm publishes AI guidelines with Microsoft AI CEO saying: ‘AI must be subordina",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/14/microsoft-ai-code-of-conduct",
-        "publishedAt": "2026-09-14T10:19:55Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/mitch-mcconnell-return-senate",
+        "publishedAt": "2026-09-14T14:23:03Z"
       }
     ]
   }
