@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-14",
-  "generatedAt": "2026-09-14T12:42:43Z",
-  "generationMode": "ai",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-14T19:21:11Z",
+  "generationMode": "rules_fallback",
   "domestic": {
-    "overview": "国内方面，青岛船厂火灾获国务院提级调查，8月金融数据与智能家居消费新政释放稳增长信号；习近平出席金砖峰会、医疗检查互认等民生议题受关注。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
+      {
+        "id": "08b607764b9f09eecc7a",
+        "title": "饮用水报告：72%成年人未达适宜摄入量",
+        "summary": "饮用水报告：72%成年人未达适宜摄入量",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7685231197416472582/",
+        "publishedAt": "2026-09-14T19:21:11Z"
+      },
+      {
+        "id": "ab3e6600114f03c97e8a",
+        "title": "广汽集团 资产重组",
+        "summary": "广汽集团 资产重组",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2+%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84",
+        "publishedAt": "2026-09-14T19:21:11Z"
+      },
+      {
+        "id": "0b03f3b4313cdb7d0483",
+        "title": "华尔街见闻早餐FM-Radio | 2026年9月14日",
+        "summary": "华尔街见闻早餐FM-Radio | 2026年9月14日",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781660",
+        "publishedAt": "2026-09-14T19:21:11Z"
+      },
+      {
+        "id": "d076a9609d5dbb8ad5bc",
+        "title": "游客在距离市区约30公里的泸州东站下车后建议更改站名，官方答复",
+        "summary": "游客在距离市区约30公里的泸州东站下车后建议更改站名，官方答复",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34064772",
+        "publishedAt": "2026-09-14T19:21:11Z"
+      },
       {
         "id": "f7fc03b0cd60e4e5623b",
         "title": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
-        "summary": "8月社融存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域。",
+        "summary": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2482469",
-        "publishedAt": "2026-09-14T12:42:43Z"
+        "publishedAt": "2026-09-14T19:21:11Z"
       },
       {
-        "id": "ebde1298548cbffceae5",
-        "title": "王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
-        "summary": "王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤，聚焦多边合作。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34062704",
-        "publishedAt": "2026-09-14T12:42:43Z"
+        "id": "fe06d059dfbbd5dbe4a9",
+        "title": "管道被炸油价破百，谁干的？",
+        "summary": "管道被炸油价破百，谁干的？",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wPiKlsIY1N",
+        "publishedAt": "2026-09-14T19:21:11Z"
       },
       {
-        "id": "199425810be56320d054",
-        "title": "国务院提级调查青岛船厂火灾",
-        "summary": "国务院提级调查青岛船厂火灾，强化安全生产责任追究。",
+        "id": "23e6389a33bd848df3ca",
+        "title": "黄斌公开炮轰罗永浩",
+        "summary": "黄斌公开炮轰罗永浩",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%96%8C%E5%85%AC%E5%BC%80%E7%82%AE%E8%BD%B0%E7%BD%97%E6%B0%B8%E6%B5%A9",
+        "publishedAt": "2026-09-14T19:21:11Z"
+      },
+      {
+        "id": "d682bdd8b1f4b149ed19",
+        "title": "英国三地为何突然闹“脱英”",
+        "summary": "英国三地为何突然闹“脱英”",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7685325902787382838/",
-        "publishedAt": "2026-09-14T12:42:43Z"
-      },
-      {
-        "id": "16b6bfb2f9ed0ecbfc98",
-        "title": "商务部等8部门印发《促进智能家居消费行动方案》",
-        "summary": "商务部等8部门印发《促进智能家居消费行动方案》，培育消费新增长点。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2482215",
-        "publishedAt": "2026-09-14T12:42:43Z"
-      },
-      {
-        "id": "0f61d21a5d8662550511",
-        "title": "看病不用反复拍片化验了",
-        "summary": "看病不用反复拍片化验，医疗检查结果互认推进，减轻群众就医负担。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E7%97%85%E4%B8%8D%E7%94%A8%E5%8F%8D%E5%A4%8D%E6%8B%8D%E7%89%87%E5%8C%96%E9%AA%8C%E4%BA%86",
-        "publishedAt": "2026-09-14T12:42:43Z"
-      },
-      {
-        "id": "84c86c86e5ae1bce2f18",
-        "title": "一图看懂｜利率风暴再起！9、10月全球主要央行迎重要抉择",
-        "summary": "一图看懂：9、10月全球主要央行迎重要抉择，利率风暴再起。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2482388",
-        "publishedAt": "2026-09-14T12:42:43Z"
-      },
-      {
-        "id": "b45fef74b64e43f6d165",
-        "title": "IPO前夕AI研发“踩刹车” Anthropic是“怕了”还是“急了”？",
-        "summary": "IPO前夕AI研发“踩刹车”，Anthropic放缓引发行业安全与竞争讨论。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2482349",
-        "publishedAt": "2026-09-14T12:42:43Z"
-      },
-      {
-        "id": "08f7190f8859f0416b2a",
-        "title": "外交部回应马斯克等涉中国AI言论",
-        "summary": "外交部回应马斯克等涉中国AI言论，强调反对人工智能威胁叙事。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684867137664106559/",
-        "publishedAt": "2026-09-14T12:42:43Z"
+        "url": "https://www.toutiao.com/trending/7684916355036348452/",
+        "publishedAt": "2026-09-14T19:21:11Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，沙特关键输油管道遇袭致油价破108美元，全球能源供应承压；AI研发放缓争议升温，多国央行加息预期与欧洲政治变动受瞩目。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "5b23ad5715e1d2339b01",
-        "title": "Oil prices soar above $108 as Houthis strike Saudi infrastructure",
-        "summary": "油价突破108美元，胡塞武装袭击沙特基础设施，全球能源供应受冲击。",
+        "id": "6cc5dc79dad1ea52bbf2",
+        "title": "Trump and Republican allies rail against AI controls despite growing calls for more checks – live",
+        "summary": "President condemns what he claims is a ‘sick conspiracy’ amid global tech sellof",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-        "publishedAt": "2026-09-14T04:32:50Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
+        "publishedAt": "2026-09-14T11:04:32Z"
       },
       {
-        "id": "58e68bb8331ca1492e02",
-        "title": "AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development",
-        "summary": "AI相关股票下跌，科技领袖呼吁放缓“鲁莽”开发引发市场震荡。",
+        "id": "5dffd0babcb3bdab7228",
+        "title": "Alligator Alcatraz held detainees in cages the size of phone booths, DHS watchdog says",
+        "summary": "Office of inspector general’s report says practice at Florida immigration jail i",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-        "publishedAt": "2026-09-14T03:46:34Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/alligator-alcatraz-immigration-jail-cages-report",
+        "publishedAt": "2026-09-14T10:53:14Z"
       },
       {
-        "id": "4f5fa1f98315553ef41e",
-        "title": "Swedish centre-left opposition widens lead to three seats with 95% of votes counted – Europe live",
-        "summary": "瑞典中左翼反对派扩大领先至三席，95%选票已统计，政局待明朗。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates",
-        "publishedAt": "2026-09-14T04:23:43Z"
-      },
-      {
-        "id": "5a73e5131dd5ba495be0",
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "summary": "俄罗斯袭击乌克兰火车，约翰逊等欧洲官员刚离开车站，引发谴责。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-14T04:18:13Z"
-      },
-      {
-        "id": "c2df138f2dd8843a8266",
-        "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
-        "summary": "伊朗称霍尔木兹会谈因也门事件推迟，地区外交努力遇挫。",
+        "id": "be3c407f2e97d7e6dc5d",
+        "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+        "summary": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss",
-        "publishedAt": "2026-09-14T02:58:07Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+        "publishedAt": "2026-09-14T10:46:25Z"
       },
       {
-        "id": "3945c4a4eb9fa4a2f930",
-        "title": "Finland: EU leaders meet to forge new Arctic policy",
-        "summary": "芬兰主办欧盟领导人会议，制定新北极政策以应对大国竞争。",
+        "id": "1932aa051ac64a68826e",
+        "title": "Ukraine, Russia set for new round of US-mediated talks",
+        "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, ",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/finland-eu-leaders-meet-to-forge-new-arctic-policy/a-79256956?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-14T01:32:00Z"
+        "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-14T10:46:00Z"
       },
       {
-        "id": "167049907f8a401e11fd",
-        "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-        "summary": "北京回击Anthropic CEO呼吁遏制中国AI发展的言论，强调公平竞争。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
-        "publishedAt": "2026-09-14T02:09:08Z"
+        "id": "77ddd27d6787f0e1514e",
+        "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+        "summary": "Central bank chief says continent’s AI dependency could give trade partners unpr",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+        "publishedAt": "2026-09-14T10:41:13Z"
       },
       {
-        "id": "17c08f1b331d87a6404a",
-        "title": "Show HN: I'm Serving Esp32s31.fun",
-        "summary": "esp32s31.fun is an experiment to see how far it can go, maybe a week without cra",
-        "source": "Hacker News",
-        "url": "https://news.ycombinator.com/item?id=49695744",
-        "publishedAt": "2026-09-14T04:29:41Z"
+        "id": "245f59477a8856bbf4fc",
+        "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+        "summary": "NATO chief Rutte insists Western allies will not be intimidated by Russian attac",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
+        "publishedAt": "2026-09-14T10:40:23Z"
+      },
+      {
+        "id": "e7b32797c06650c8bbeb",
+        "title": "States and cities sue Trump administration over policy restricting green card benefits",
+        "summary": "The policy allows immigration officers the authority to deny green cards to thos",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/trump-immigration-snap-lawsuit",
+        "publishedAt": "2026-09-14T10:36:54Z"
+      },
+      {
+        "id": "61b5f0994665f459af85",
+        "title": "Microsoft proposes limits on its AI with code of conduct amid safety debate",
+        "summary": "Firm publishes AI guidelines with Microsoft AI CEO saying: ‘AI must be subordina",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/microsoft-ai-code-of-conduct",
+        "publishedAt": "2026-09-14T10:19:55Z"
       }
     ]
   }
