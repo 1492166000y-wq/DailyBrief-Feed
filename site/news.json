@@ -1,87 +1,119 @@
 {
   "version": 1,
   "date": "2026-09-15",
-  "generatedAt": "2026-09-14T23:07:40Z",
+  "generatedAt": "2026-09-15T04:52:25Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，8月金融数据延续结构优化，社融存量同比增7.2%，信贷更多流向科技创新与绿色转型；国资委要求央企带头及时支付账款，缓解企业资金压力。产业领域，广汽集团资产重组牵动央国企整合预期，AI开发放缓担忧引发美股芯片股大跌，苹果新机破发降价。民生层面，超2亿灵活就业人员、饮用水摄入不足及月饼销量下滑等议题受到关注。",
+    "overview": "9月15日国内焦点集中在宏观经济数据、资本市场波动、AI产业争议及社会民生事件。8月社融数据公布，A股震荡中显韧性；美股AI相关芯片股大跌引发关注，特朗普与黄仁勋互动搅动舆论；塔克拉玛干沙漠发现大型水源、上海楼市“金九”成色足等亦受瞩目。",
     "items": [
       {
-        "id": "f7fc03b0cd60e4e5623b",
-        "title": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
-        "summary": "8月社融存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2482469",
-        "publishedAt": "2026-09-14T23:07:40Z"
-      },
-      {
-        "id": "8dcbdea05c2ade214864",
-        "title": "大型企业拖欠账款见一个查一个",
-        "summary": "国资委要求央企带头及时支付账款，大型企业拖欠账款“见一个查一个”。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9E%8B%E4%BC%81%E4%B8%9A%E6%8B%96%E6%AC%A0%E8%B4%A6%E6%AC%BE%E8%A7%81%E4%B8%80%E4%B8%AA%E6%9F%A5%E4%B8%80%E4%B8%AA",
-        "publishedAt": "2026-09-14T23:07:40Z"
-      },
-      {
-        "id": "ab3e6600114f03c97e8a",
-        "title": "广汽集团 资产重组",
-        "summary": "广汽集团资产重组推进，一汽拟以股份支付对价成为二股东，汽车央国企整合再启。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2+%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84",
-        "publishedAt": "2026-09-14T23:07:40Z"
+        "id": "a3e0c2ec4d4e3a041b58",
+        "title": "中国8月新增社融1.66万亿元，人民币贷款增加600亿元，前8月股债融资占比首次超过贷款",
+        "summary": "中国8月新增社融1.66万亿元，人民币贷款增加600亿元，前8月股债融资占比首次超过贷款。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781706",
+        "publishedAt": "2026-09-15T04:52:25Z"
       },
       {
         "id": "683085e571aef0d8c3ef",
         "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
-        "summary": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度破5%。",
+        "summary": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781670",
-        "publishedAt": "2026-09-14T23:07:40Z"
+        "publishedAt": "2026-09-15T04:52:25Z"
       },
       {
-        "id": "1b8da1aab699724a60c8",
-        "title": "我国灵活就业人员规模已超过2亿人",
-        "summary": "我国灵活就业人员规模已超过2亿人，就业形态与保障问题持续受到关注。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E8%A7%84%E6%A8%A1%E5%B7%B2%E8%B6%85%E8%BF%872%E4%BA%BF%E4%BA%BA%23",
-        "publishedAt": "2026-09-14T23:07:40Z"
-      },
-      {
-        "id": "08b607764b9f09eecc7a",
-        "title": "饮用水报告：72%成年人未达适宜摄入量",
-        "summary": "饮用水报告显示72%成年人未达适宜摄入量，健康饮水习惯引发关注。",
+        "id": "08d0d2b005e4aaff1713",
+        "title": "塔克拉玛干沙漠发现大型地下水水源",
+        "summary": "塔克拉玛干沙漠发现大型地下水水源，有望为区域生态与资源开发提供新支撑。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7685231197416472582/",
-        "publishedAt": "2026-09-14T23:07:40Z"
+        "url": "https://www.toutiao.com/trending/7684837223196229683/",
+        "publishedAt": "2026-09-15T04:52:25Z"
       },
       {
-        "id": "6276eeb39e709e24188e",
-        "title": "中秋前夕月饼市场销量近乎腰斩",
-        "summary": "中秋前夕月饼市场销量近乎腰斩，消费趋于理性与节约。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684875208646508582/",
-        "publishedAt": "2026-09-14T23:07:40Z"
+        "id": "ec06b9ee203c329086b2",
+        "title": "电池税正式落地对新能源车意味着什么",
+        "summary": "电池税正式落地，对新能源车产业链成本、定价及市场格局将产生直接影响。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0%E5%AF%B9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+        "publishedAt": "2026-09-15T04:52:25Z"
       },
       {
-        "id": "8eaf74dba9377302c3c6",
-        "title": "超30家药企长期行贿，涉案1.84亿！河北医科大学第二医院回应：正配合监管部门开展工作",
-        "summary": "超30家药企长期行贿涉案1.84亿元，河北医科大学第二医院回应正配合监管。",
+        "id": "f36db34da1196c449e04",
+        "title": "上海楼市“金九”成色足：二手房13天网签已破万套，新盘陆续收回折扣",
+        "summary": "上海楼市“金九”成色足：二手房13天网签破万套，新盘陆续收回折扣。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34065386",
-        "publishedAt": "2026-09-14T23:07:40Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34067831",
+        "publishedAt": "2026-09-15T04:52:25Z"
+      },
+      {
+        "id": "e22d059b784cae25ca02",
+        "title": "外交部：散播人工智能威胁叙事不符合任何一方利益",
+        "summary": "外交部回应马斯克涉华AI言论：散播人工智能威胁叙事不符合任何一方利益。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34066545",
+        "publishedAt": "2026-09-15T04:52:25Z"
+      },
+      {
+        "id": "63e83933a89c0733b4bc",
+        "title": "国家卫健委：我国人口大国基本面没有变",
+        "summary": "国家卫健委表示我国人口大国基本面没有变，将完善生育支持政策体系。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34065847",
+        "publishedAt": "2026-09-15T04:52:25Z"
+      },
+      {
+        "id": "a489a8e1fc8ec804dfb8",
+        "title": "“胖东来新员工实行四年合同制”冲上热搜，律师：若企业单方决定不续签，需依法向劳动者支付补偿金",
+        "summary": "胖东来新员工四年合同制引热议，律师称企业单方不续签需依法支付补偿金。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34066862",
+        "publishedAt": "2026-09-15T04:52:25Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，俄罗斯无人机袭击乌克兰边境附近列车，北约重申继续支持乌克兰，特朗普称俄乌同意停止打击能源设施。中东局势持续紧张，胡塞武装袭击沙特并控制红海岛屿，油价突破108美元，美国10年期国债收益率一度升破5%。AI监管争议升温，科技领袖呼吁放缓开发，特朗普称相关担忧为“阴谋”，美欧及微软相继提出AI安全与自主发展主张。",
+    "overview": "国际要闻聚焦中东局势升级、AI监管博弈与大国外交。胡塞武装控制红海岛屿推升油价风险，美债收益率破5%引发市场担忧；美国最高法院驳回特朗普邮寄投票限制，北约击落进入立陶宛领空的无人机，瑞典大选结果胶着。",
     "items": [
       {
-        "id": "b47bcddff7e0656ee025",
-        "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-        "summary": "北约秘书长称俄无人机袭击乌克兰边境列车不会动摇西方支持基辅的决心。",
+        "id": "701350b98fa6884e5ee0",
+        "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
+        "summary": "胡塞武装夺取红海战略岛屿，分析警告全球石油供应面临迫在眉睫的危机。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
-        "publishedAt": "2026-09-14T08:56:53Z"
+        "url": "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning",
+        "publishedAt": "2026-09-14T20:22:16Z"
+      },
+      {
+        "id": "fcf761567321d99d31b7",
+        "title": "NATO jets shoot down drone over Lithuania",
+        "summary": "北约战机在立陶宛上空击落一架无人机，立媒称其可能来自俄罗斯盟友白俄罗斯。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-14T20:16:00Z"
+      },
+      {
+        "id": "beaf52c6a7282b4f3812",
+        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+        "summary": "美国10年期国债收益率升至5%，为2023年以来首次，油价上涨与中东局势施压债市。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+        "publishedAt": "2026-09-14T08:48:34Z"
+      },
+      {
+        "id": "9d1755cd1f38c0d03137",
+        "title": "Supreme court rejects Trump’s mail ballot restrictions for midterm elections",
+        "summary": "美国最高法院驳回特朗普中期选举邮寄投票限制，允许各州按现行程序继续寄送选票。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/supreme-court-rejects-mail-ballot-restrictions",
+        "publishedAt": "2026-09-14T17:51:49Z"
+      },
+      {
+        "id": "24f884ed468d4e9765be",
+        "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
+        "summary": "特朗普突袭连线黄仁勋，称AI恐惧是“骗局”，力挺AI发展不应踩刹车。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
+        "publishedAt": "2026-09-14T19:28:42Z"
       },
       {
         "id": "ed23817c8e2bb40f78a0",
@@ -92,30 +124,6 @@
         "publishedAt": "2026-09-14T14:10:52Z"
       },
       {
-        "id": "6fb4d79a9bf36dfdf17e",
-        "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands",
-        "summary": "胡塞武装袭击沙特并控制红海两座战略岛屿，全球航运风险持续上升。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/yemen-s-houthis-attack-saudis-seize-crucial-red-sea-islands/a-79263838?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-14T07:30:00Z"
-      },
-      {
-        "id": "beaf52c6a7282b4f3812",
-        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-        "summary": "油价突破108美元叠加中东局势，美国10年期国债收益率升至5%，为2023年来首次。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-        "publishedAt": "2026-09-14T08:48:34Z"
-      },
-      {
-        "id": "c5f596979f7ef0d2b5d8",
-        "title": "Donald Trump dismisses concerns about dangers of AI",
-        "summary": "特朗普称限制AI发展的呼声是“病态阴谋”，认为现行监管足够。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/donald-trump-dismisses-concerns-about-dangers-of-ai/a-79264523?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-14T07:54:00Z"
-      },
-      {
         "id": "77ddd27d6787f0e1514e",
         "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
         "summary": "欧洲央行行长拉加德呼吁欧洲自建AI与数据中心，避免被中美切断技术供应。",
@@ -124,20 +132,12 @@
         "publishedAt": "2026-09-14T10:41:13Z"
       },
       {
-        "id": "404e4ca9de0e3aba5e3f",
-        "title": "Russian oligarch close to Putin paid for part of Donald Trump Jr’s lavish wedding",
-        "summary": "与普京关系密切的俄寡头被曝为小特朗普豪华婚礼承担部分费用。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/russian-oligarch-trump-jr-wedding",
-        "publishedAt": "2026-09-14T14:28:51Z"
-      },
-      {
-        "id": "45d9f1c68269640d9f7a",
-        "title": "Mitch McConnell returns to Senate after months-long absence",
-        "summary": "84岁美国前参院共和党领袖麦康奈尔休养数月后重返参议院并首次投票。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/mitch-mcconnell-return-senate",
-        "publishedAt": "2026-09-14T14:23:03Z"
+        "id": "4229689e6f9813f93401",
+        "title": "Kremlin-linked Russian oligarch helped fund Trump Jr.'s wedding celebration",
+        "summary": "与普京关系密切的俄寡头被曝为小特朗普婚礼承担部分费用，引发利益关联质疑。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-14T15:02:00Z"
       }
     ]
   }
