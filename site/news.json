@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-15",
-  "generatedAt": "2026-09-15T11:41:54Z",
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-15T16:57:32Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点涵盖A股大幅震荡与监管层对AI伦理的激辩，同时集成电路全链条攻关、最低工资上调、一线城市楼市回暖等宏观产业动态值得关注。",
+    "overview": "国内方面，8月国民经济运行平稳但社零增速放缓，楼市触底与一线房价上涨信号并存；《求是》发表习近平关于基础研究的重要文章；AI发展节奏争议升温，黄仁勋与美政坛激辩；商业银行科技贷款统计口径拟收紧；中方回应美方在轨太空武器表态。",
     "items": [
       {
         "id": "0b4b8f9787cd0082639e",
         "title": "《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》",
-        "summary": "《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》。",
+        "summary": "《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》，强调基础研究战略意义。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2483581",
-        "publishedAt": "2026-09-15T11:41:54Z"
+        "publishedAt": "2026-09-15T16:57:32Z"
       },
       {
-        "id": "b1f47762d3f776eb2e82",
-        "title": "事关“电子产品之母”及上游！两部门发文推动集成电路全链条攻关",
-        "summary": "两部门发文推动集成电路全链条攻关，聚焦“电子产品之母”及上游产业。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2483203",
-        "publishedAt": "2026-09-15T11:41:54Z"
-      },
-      {
-        "id": "6125276f78b18ec1c743",
-        "title": "最低工资标准上调 这些待遇跟着涨",
-        "summary": "最低工资标准上调，相关待遇随之调整，多地宣布跟进。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%E4%B8%8A%E8%B0%83+%E8%BF%99%E4%BA%9B%E5%BE%85%E9%81%87%E8%B7%9F%E7%9D%80%E6%B6%A8",
-        "publishedAt": "2026-09-15T11:41:54Z"
-      },
-      {
-        "id": "f36db34da1196c449e04",
-        "title": "上海楼市“金九”成色足：二手房13天网签已破万套，新盘陆续收回折扣",
-        "summary": "上海楼市“金九”成色足：二手房13天网签破万套，新盘陆续收回折扣。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34067831",
-        "publishedAt": "2026-09-15T11:41:54Z"
-      },
-      {
-        "id": "c5d1b513e479149fd547",
-        "title": "A股持续震荡，韧性从何而来？五大券商首席发声：多重积极因素已形成支撑",
-        "summary": "A股持续震荡，五大券商首席齐发声，称多重积极因素已形成支撑。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34067660",
-        "publishedAt": "2026-09-15T11:41:54Z"
-      },
-      {
-        "id": "b6bcb758b8d64bdae101",
-        "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
-        "summary": "黄仁勋论坛现场接特朗普电话，称不会让AI减速，“AI末日论”无科学依据。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34072434",
-        "publishedAt": "2026-09-15T11:41:54Z"
-      },
-      {
-        "id": "406f6aacf2fe32207067",
-        "title": "国家统计局：8月规模以上工业增加值同比实际增长5.2%",
-        "summary": "国家统计局：8月规模以上工业增加值同比实际增长5.2%。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2483005",
-        "publishedAt": "2026-09-15T11:41:54Z"
+        "id": "f8114ae5812e9b4f568d",
+        "title": "一组数据看8月份国民经济运行平稳",
+        "summary": "8月份国民经济运行数据公布，整体保持平稳，多项指标显示经济韧性。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7684590075107380772/",
+        "publishedAt": "2026-09-15T16:57:32Z"
       },
       {
         "id": "c1e4c691b3d1739f6e52",
         "title": "中国8月社零同比增0.4%，通讯器材大涨27.3%，汽车下滑18.5%",
-        "summary": "中国8月社零同比增0.4%，通讯器材大涨27.3%，汽车下滑18.5%。",
+        "summary": "8月社零同比仅增0.4%，通讯器材大涨27.3%，汽车下滑18.5%，消费结构分化明显。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781764",
-        "publishedAt": "2026-09-15T11:41:54Z"
+        "publishedAt": "2026-09-15T16:57:32Z"
+      },
+      {
+        "id": "df3d44b2df07fd679822",
+        "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
+        "summary": "美联储决议前夕全球债市抛售加剧，10年期美债收益率创2007年以来新高。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2483760",
+        "publishedAt": "2026-09-15T16:57:32Z"
+      },
+      {
+        "id": "1515c9cba976d24cf567",
+        "title": "独家|商业银行科技贷款统计口径面临收紧，新框架望年底落地",
+        "summary": "商业银行科技贷款统计口径面临收紧，新框架有望年底落地，影响科技金融统计。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2483817",
+        "publishedAt": "2026-09-15T16:57:32Z"
+      },
+      {
+        "id": "a8202c8e26ef851415a5",
+        "title": "美国称已有在轨太空武器，中方是否也有此类武器？外交部回应",
+        "summary": "外交部回应美方称已拥有在轨太空武器，就中方是否也有此类武器作出表态。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wRO43rgucw",
+        "publishedAt": "2026-09-15T16:57:32Z"
+      },
+      {
+        "id": "dc9a6944d78a9aebdae5",
+        "title": "专家：楼市基本触底",
+        "summary": "专家称楼市基本触底，一线城市房价出现上涨，市场预期现分歧。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%A5%BC%E5%B8%82%E5%9F%BA%E6%9C%AC%E8%A7%A6%E5%BA%95",
+        "publishedAt": "2026-09-15T16:57:32Z"
+      },
+      {
+        "id": "b6bcb758b8d64bdae101",
+        "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
+        "summary": "黄仁勋论坛现场接特朗普电话，称不让AI减速，指AI末日论没有科学依据。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34072434",
+        "publishedAt": "2026-09-15T16:57:32Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美最高法院驳回特朗普邮寄投票限制、俄罗斯与北约在波罗的海及立陶宛空域摩擦升级、美债收益率破5%以及全球AI监管僵局构成主要看点。",
+    "overview": "国际方面，全球债市抛售加剧，10年期美债收益率突破5%创2007年来新高；美国首次确认部署在轨太空武器；俄罗斯与北约在波罗的海、立陶宛接连发生摩擦；伊朗外长将访华，中东局势持续紧张；特朗普称AI安全担忧是骗局。",
     "items": [
-      {
-        "id": "62904bc7a9cbf4957dc9",
-        "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-        "summary": "美最高法院驳回特朗普限制邮寄投票的计划，中期选举前裁决引关注。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-15T03:40:13Z"
-      },
-      {
-        "id": "b71eeb9a3bf692a13708",
-        "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-        "summary": "俄军舰向丹麦直升机发射信号弹，北约战机在立陶宛上空击落无人机。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-        "publishedAt": "2026-09-15T02:37:40Z"
-      },
-      {
-        "id": "beaf52c6a7282b4f3812",
-        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-        "summary": "美10年期国债收益率升至5%，为2023年以来首次，油价上涨施压债市。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-        "publishedAt": "2026-09-14T08:48:34Z"
-      },
-      {
-        "id": "a97f966e108f591eaa03",
-        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-        "summary": "特朗普称AI安全担忧是“骗局”，拒绝加强保障的呼吁。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-15T00:49:31Z"
-      },
       {
         "id": "914cdabc7e76d0c4e289",
         "title": "US confirms for first time it has deployed space weapons",
-        "summary": "美国首次确认已部署太空武器，称用于防御敌方行动。",
+        "summary": "美国首次确认已部署在轨太空武器，称用于防御敌方行动，引国际关注。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-15T00:48:28Z"
       },
       {
-        "id": "701350b98fa6884e5ee0",
-        "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
-        "summary": "胡塞武装夺取红海战略岛屿，分析警告全球石油供应面临危机。",
+        "id": "beaf52c6a7282b4f3812",
+        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+        "summary": "全球债市抛售推升美10年期国债收益率至5%，为2023年以来首次。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning",
-        "publishedAt": "2026-09-14T20:22:16Z"
+        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+        "publishedAt": "2026-09-14T08:48:34Z"
       },
       {
-        "id": "6761e96bb9ed803ad60b",
-        "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-        "summary": "AI监管面临政治僵局，国会分歧严重，新安全立法短期难通过。",
+        "id": "b71eeb9a3bf692a13708",
+        "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+        "summary": "俄军舰向丹麦直升机发射照明弹，北约战机在立陶宛击落携带爆炸装置无人机。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+        "publishedAt": "2026-09-15T07:18:20Z"
+      },
+      {
+        "id": "a97f966e108f591eaa03",
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "summary": "特朗普称AI安全担忧是骗局，拒绝加强保障的呼吁，与业界立场分歧加深。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-14T18:50:36Z"
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-15T00:49:31Z"
       },
       {
-        "id": "77ddd27d6787f0e1514e",
-        "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
-        "summary": "欧洲央行行长拉加德呼吁欧洲自建AI与数据中心，避免被中美切断供应。",
+        "id": "95ce96d3eca11fb337cd",
+        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+        "summary": "伊朗外长将访华，中东紧张升级背景下，德黑兰与北京探索外交斡旋路径。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+        "publishedAt": "2026-09-15T08:15:13Z"
+      },
+      {
+        "id": "489e963412fa6cc7c78c",
+        "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+        "summary": "霍尔木兹海峡油轮遇袭，两名船员失踪，美伊就袭击原因各执一词。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-15T08:13:41Z"
+      },
+      {
+        "id": "62904bc7a9cbf4957dc9",
+        "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+        "summary": "美最高法院驳回特朗普限制邮寄投票的计划，中期选举前裁决引发关注。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-15T03:40:13Z"
+      },
+      {
+        "id": "b39616b46bfb28507418",
+        "title": "Reform UK ‘has no interest in Wales’, says Senedd member who defected to Plaid Cymru – UK politics live",
+        "summary": "英国改革党在威尔士受挫，有议员转投威尔士党，英国政治碎片化加剧。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
-        "publishedAt": "2026-09-14T10:41:13Z"
+        "url": "https://www.theguardian.com/politics/live/2026/sep/15/nigel-farage-reform-labour-party-funding-donations-unions-funding-72m-christopher-harborne-ai-louise-haigh-tuc-andy-burnham-uk-politics-latest-news-updates",
+        "publishedAt": "2026-09-15T08:49:52Z"
       }
     ]
   }
