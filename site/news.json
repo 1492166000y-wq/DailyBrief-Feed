@@ -1,42 +1,34 @@
 {
   "version": 1,
   "date": "2026-09-15",
-  "generatedAt": "2026-09-15T04:52:25Z",
+  "generatedAt": "2026-09-15T11:41:54Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "9月15日国内焦点集中在宏观经济数据、资本市场波动、AI产业争议及社会民生事件。8月社融数据公布，A股震荡中显韧性；美股AI相关芯片股大跌引发关注，特朗普与黄仁勋互动搅动舆论；塔克拉玛干沙漠发现大型水源、上海楼市“金九”成色足等亦受瞩目。",
+    "overview": "今日国内焦点涵盖A股大幅震荡与监管层对AI伦理的激辩，同时集成电路全链条攻关、最低工资上调、一线城市楼市回暖等宏观产业动态值得关注。",
     "items": [
       {
-        "id": "a3e0c2ec4d4e3a041b58",
-        "title": "中国8月新增社融1.66万亿元，人民币贷款增加600亿元，前8月股债融资占比首次超过贷款",
-        "summary": "中国8月新增社融1.66万亿元，人民币贷款增加600亿元，前8月股债融资占比首次超过贷款。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781706",
-        "publishedAt": "2026-09-15T04:52:25Z"
+        "id": "0b4b8f9787cd0082639e",
+        "title": "《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》",
+        "summary": "《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2483581",
+        "publishedAt": "2026-09-15T11:41:54Z"
       },
       {
-        "id": "683085e571aef0d8c3ef",
-        "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
-        "summary": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781670",
-        "publishedAt": "2026-09-15T04:52:25Z"
+        "id": "b1f47762d3f776eb2e82",
+        "title": "事关“电子产品之母”及上游！两部门发文推动集成电路全链条攻关",
+        "summary": "两部门发文推动集成电路全链条攻关，聚焦“电子产品之母”及上游产业。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2483203",
+        "publishedAt": "2026-09-15T11:41:54Z"
       },
       {
-        "id": "08d0d2b005e4aaff1713",
-        "title": "塔克拉玛干沙漠发现大型地下水水源",
-        "summary": "塔克拉玛干沙漠发现大型地下水水源，有望为区域生态与资源开发提供新支撑。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684837223196229683/",
-        "publishedAt": "2026-09-15T04:52:25Z"
-      },
-      {
-        "id": "ec06b9ee203c329086b2",
-        "title": "电池税正式落地对新能源车意味着什么",
-        "summary": "电池税正式落地，对新能源车产业链成本、定价及市场格局将产生直接影响。",
+        "id": "6125276f78b18ec1c743",
+        "title": "最低工资标准上调 这些待遇跟着涨",
+        "summary": "最低工资标准上调，相关待遇随之调整，多地宣布跟进。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0%E5%AF%B9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-        "publishedAt": "2026-09-15T04:52:25Z"
+        "url": "https://www.baidu.com/s?wd=%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%E4%B8%8A%E8%B0%83+%E8%BF%99%E4%BA%9B%E5%BE%85%E9%81%87%E8%B7%9F%E7%9D%80%E6%B6%A8",
+        "publishedAt": "2026-09-15T11:41:54Z"
       },
       {
         "id": "f36db34da1196c449e04",
@@ -44,100 +36,108 @@
         "summary": "上海楼市“金九”成色足：二手房13天网签破万套，新盘陆续收回折扣。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34067831",
-        "publishedAt": "2026-09-15T04:52:25Z"
+        "publishedAt": "2026-09-15T11:41:54Z"
       },
       {
-        "id": "e22d059b784cae25ca02",
-        "title": "外交部：散播人工智能威胁叙事不符合任何一方利益",
-        "summary": "外交部回应马斯克涉华AI言论：散播人工智能威胁叙事不符合任何一方利益。",
+        "id": "c5d1b513e479149fd547",
+        "title": "A股持续震荡，韧性从何而来？五大券商首席发声：多重积极因素已形成支撑",
+        "summary": "A股持续震荡，五大券商首席齐发声，称多重积极因素已形成支撑。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34066545",
-        "publishedAt": "2026-09-15T04:52:25Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34067660",
+        "publishedAt": "2026-09-15T11:41:54Z"
       },
       {
-        "id": "63e83933a89c0733b4bc",
-        "title": "国家卫健委：我国人口大国基本面没有变",
-        "summary": "国家卫健委表示我国人口大国基本面没有变，将完善生育支持政策体系。",
+        "id": "b6bcb758b8d64bdae101",
+        "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
+        "summary": "黄仁勋论坛现场接特朗普电话，称不会让AI减速，“AI末日论”无科学依据。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34065847",
-        "publishedAt": "2026-09-15T04:52:25Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34072434",
+        "publishedAt": "2026-09-15T11:41:54Z"
       },
       {
-        "id": "a489a8e1fc8ec804dfb8",
-        "title": "“胖东来新员工实行四年合同制”冲上热搜，律师：若企业单方决定不续签，需依法向劳动者支付补偿金",
-        "summary": "胖东来新员工四年合同制引热议，律师称企业单方不续签需依法支付补偿金。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34066862",
-        "publishedAt": "2026-09-15T04:52:25Z"
+        "id": "406f6aacf2fe32207067",
+        "title": "国家统计局：8月规模以上工业增加值同比实际增长5.2%",
+        "summary": "国家统计局：8月规模以上工业增加值同比实际增长5.2%。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2483005",
+        "publishedAt": "2026-09-15T11:41:54Z"
+      },
+      {
+        "id": "c1e4c691b3d1739f6e52",
+        "title": "中国8月社零同比增0.4%，通讯器材大涨27.3%，汽车下滑18.5%",
+        "summary": "中国8月社零同比增0.4%，通讯器材大涨27.3%，汽车下滑18.5%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781764",
+        "publishedAt": "2026-09-15T11:41:54Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻聚焦中东局势升级、AI监管博弈与大国外交。胡塞武装控制红海岛屿推升油价风险，美债收益率破5%引发市场担忧；美国最高法院驳回特朗普邮寄投票限制，北约击落进入立陶宛领空的无人机，瑞典大选结果胶着。",
+    "overview": "国际方面，美最高法院驳回特朗普邮寄投票限制、俄罗斯与北约在波罗的海及立陶宛空域摩擦升级、美债收益率破5%以及全球AI监管僵局构成主要看点。",
     "items": [
       {
-        "id": "701350b98fa6884e5ee0",
-        "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
-        "summary": "胡塞武装夺取红海战略岛屿，分析警告全球石油供应面临迫在眉睫的危机。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning",
-        "publishedAt": "2026-09-14T20:22:16Z"
+        "id": "62904bc7a9cbf4957dc9",
+        "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+        "summary": "美最高法院驳回特朗普限制邮寄投票的计划，中期选举前裁决引关注。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-15T03:40:13Z"
       },
       {
-        "id": "fcf761567321d99d31b7",
-        "title": "NATO jets shoot down drone over Lithuania",
-        "summary": "北约战机在立陶宛上空击落一架无人机，立媒称其可能来自俄罗斯盟友白俄罗斯。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-14T20:16:00Z"
+        "id": "b71eeb9a3bf692a13708",
+        "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+        "summary": "俄军舰向丹麦直升机发射信号弹，北约战机在立陶宛上空击落无人机。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+        "publishedAt": "2026-09-15T02:37:40Z"
       },
       {
         "id": "beaf52c6a7282b4f3812",
         "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-        "summary": "美国10年期国债收益率升至5%，为2023年以来首次，油价上涨与中东局势施压债市。",
+        "summary": "美10年期国债收益率升至5%，为2023年以来首次，油价上涨施压债市。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
         "publishedAt": "2026-09-14T08:48:34Z"
       },
       {
-        "id": "9d1755cd1f38c0d03137",
-        "title": "Supreme court rejects Trump’s mail ballot restrictions for midterm elections",
-        "summary": "美国最高法院驳回特朗普中期选举邮寄投票限制，允许各州按现行程序继续寄送选票。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/supreme-court-rejects-mail-ballot-restrictions",
-        "publishedAt": "2026-09-14T17:51:49Z"
+        "id": "a97f966e108f591eaa03",
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "summary": "特朗普称AI安全担忧是“骗局”，拒绝加强保障的呼吁。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-15T00:49:31Z"
       },
       {
-        "id": "24f884ed468d4e9765be",
-        "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
-        "summary": "特朗普突袭连线黄仁勋，称AI恐惧是“骗局”，力挺AI发展不应踩刹车。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
-        "publishedAt": "2026-09-14T19:28:42Z"
+        "id": "914cdabc7e76d0c4e289",
+        "title": "US confirms for first time it has deployed space weapons",
+        "summary": "美国首次确认已部署太空武器，称用于防御敌方行动。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-15T00:48:28Z"
       },
       {
-        "id": "ed23817c8e2bb40f78a0",
-        "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-        "summary": "Anthropic、OpenAI等科技领袖呼吁放缓AI开发，全球AI相关股票大幅下挫。",
+        "id": "701350b98fa6884e5ee0",
+        "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
+        "summary": "胡塞武装夺取红海战略岛屿，分析警告全球石油供应面临危机。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-        "publishedAt": "2026-09-14T14:10:52Z"
+        "url": "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning",
+        "publishedAt": "2026-09-14T20:22:16Z"
+      },
+      {
+        "id": "6761e96bb9ed803ad60b",
+        "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+        "summary": "AI监管面临政治僵局，国会分歧严重，新安全立法短期难通过。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-14T18:50:36Z"
       },
       {
         "id": "77ddd27d6787f0e1514e",
         "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
-        "summary": "欧洲央行行长拉加德呼吁欧洲自建AI与数据中心，避免被中美切断技术供应。",
+        "summary": "欧洲央行行长拉加德呼吁欧洲自建AI与数据中心，避免被中美切断供应。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
         "publishedAt": "2026-09-14T10:41:13Z"
-      },
-      {
-        "id": "4229689e6f9813f93401",
-        "title": "Kremlin-linked Russian oligarch helped fund Trump Jr.'s wedding celebration",
-        "summary": "与普京关系密切的俄寡头被曝为小特朗普婚礼承担部分费用，引发利益关联质疑。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-14T15:02:00Z"
       }
     ]
   }
