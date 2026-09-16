@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T07:40:34Z",
+  "generatedAt": "2026-09-16T13:29:47Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在美联储决议前的美债与油价波动、8月消费投资数据放缓、A股缩量及科技贷款口径收紧；产业方面华为与赛力斯分成模式、平陆运河工程进展及AI资本开支争论受关注。",
+    "overview": "国内方面，医保全国统一目录落地，8月国民经济成绩单发布，夏粮收购超1亿吨，香港首个五年规划公布，平陆运河通航；美联储加息预期牵动市场，美债收益率创20年新高。",
     "items": [
       {
-        "id": "475b402061ee54d67111",
-        "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-        "summary": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股连跌两日静待美联储决策。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781779",
-        "publishedAt": "2026-09-16T07:40:34Z"
+        "id": "0f64d7271fd2bd112bde",
+        "title": "医保大动作！全国统一目录来了",
+        "summary": "国家医保局推进全国统一医保目录，药品和诊疗项目范围实现统一。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E5%A4%A7%E5%8A%A8%E4%BD%9C%EF%BC%81%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9B%AE%E5%BD%95%E6%9D%A5%E4%BA%86",
+        "publishedAt": "2026-09-16T13:29:47Z"
       },
       {
-        "id": "3d17eb5e4dfaf9878a04",
-        "title": "分析｜怎么看8月消费、投资增速放缓？",
-        "summary": "分析称8月消费与投资增速双双放缓，内需修复仍待政策进一步发力。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34075042",
-        "publishedAt": "2026-09-16T07:40:34Z"
+        "id": "7f041c4b74052a9f73c0",
+        "title": "数说国民经济8月成绩单",
+        "summary": "统计局公布8月国民经济数据，工业、消费等指标反映经济运行态势。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E8%E6%9C%88%E6%88%90%E7%BB%A9%E5%8D%95%23",
+        "publishedAt": "2026-09-16T13:29:47Z"
       },
       {
-        "id": "5c998e2fa135f98b6462",
-        "title": "【早报】标普500创8月份以来收盘新低；国际油价大涨；商业银行科技贷款统计口径面临收紧",
-        "summary": "标普500创8月以来收盘新低，国际油价大涨，商业银行科技贷款统计口径面临收紧。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2484266",
-        "publishedAt": "2026-09-16T07:40:34Z"
-      },
-      {
-        "id": "d7d559c6e54fabdc03d7",
-        "title": "AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？",
-        "summary": "AI减速争论中，华尔街热议万亿美元资本开支去向，算力需求会否消失引发关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34074387",
-        "publishedAt": "2026-09-16T07:40:34Z"
-      },
-      {
-        "id": "d773dd08a8c2609e2df5",
-        "title": "年内成交二次触底16253亿，过往地量后都发生了什么？",
-        "summary": "A股年内成交二次触底16253亿元，历史地量后市场走势引发投资者关注。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2484312",
-        "publishedAt": "2026-09-16T07:40:34Z"
-      },
-      {
-        "id": "a5eefd99cb23118b7d7b",
-        "title": "曝赛力斯每卖一辆车车价10%归华为",
-        "summary": "曝赛力斯每卖一辆车车价10%归华为，双方合作分成模式引发行业热议。",
+        "id": "5bafe9621c02e39eec20",
+        "title": "夏粮收购总量超1亿吨",
+        "summary": "全国夏粮收购总量超过1亿吨，为粮食安全和市场稳定提供支撑。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7685999740080803337/",
-        "publishedAt": "2026-09-16T07:40:34Z"
+        "url": "https://www.toutiao.com/trending/7686044900084957222/",
+        "publishedAt": "2026-09-16T13:29:47Z"
       },
       {
-        "id": "32384f7d43e6f25c001f",
-        "title": "解码世纪工程的硬核实力",
-        "summary": "解码世纪工程硬核实力，平陆运河等重大基础设施项目进展受关注。",
+        "id": "a5d144e1fe06a37b38d6",
+        "title": "香港特区首个五年规划正式公布",
+        "summary": "香港特区首个五年规划正式公布，明确经济社会发展方向和重点。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34079690",
+        "publishedAt": "2026-09-16T13:29:47Z"
+      },
+      {
+        "id": "ffb249245aae4eddd7e9",
+        "title": "平陆运河“全能管家”有多硬核",
+        "summary": "平陆运河建成通航，其综合管理调度系统保障航运高效安全运行。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E2%80%9C%E5%85%A8%E8%83%BD%E7%AE%A1%E5%AE%B6%E2%80%9D%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8",
+        "publishedAt": "2026-09-16T13:29:47Z"
+      },
+      {
+        "id": "d024736de6dbefcfc637",
+        "title": "受赠文物事件处理结果公布！南京博物院原院长徐湖平获刑三年",
+        "summary": "南京博物院受赠文物事件处理结果公布，原院长徐湖平被判处三年有期徒刑。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34081492",
+        "publishedAt": "2026-09-16T13:29:47Z"
+      },
+      {
+        "id": "691e8f5694c0e4f01747",
+        "title": "董军：对霸权主义军国主义保持警惕",
+        "summary": "国防部长董军表示，对霸权主义和军国主义保持高度警惕。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686029121742818854/",
-        "publishedAt": "2026-09-16T07:40:34Z"
+        "url": "https://www.toutiao.com/trending/7685538058195701284/",
+        "publishedAt": "2026-09-16T13:29:47Z"
       },
       {
-        "id": "09f01dabd0a837b58e2a",
-        "title": "1票之差！“里程碑”式数字货币法案未能通过美国参议院，币圈遭重击",
-        "summary": "美国参议院以1票之差否决里程碑式数字货币法案，币圈遭遇重击。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781823",
-        "publishedAt": "2026-09-16T07:40:34Z"
+        "id": "dcb372de1059d48b329d",
+        "title": "父母离世后小伙3次应征终入伍",
+        "summary": "父母离世后小伙3次应征终入伍",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7685332470573481990/",
+        "publishedAt": "2026-09-16T13:29:47Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面美债收益率与借贷成本创多年新高、全球债市承压；俄乌冲突与伊朗战事持续外溢，沙特油轮与管道遇袭推高能源风险；AI监管与太空武器部署引发多方博弈。",
+    "overview": "国际方面，加沙一栋建筑倒塌致至少20人死亡，科索沃前总统塔奇被判25年监禁，冯德莱恩提议加拿大成为欧盟首个联系成员，沙特称胡塞武装试图袭击麦加，菲律宾前总统杜特尔特首次出庭国际刑事法院。",
     "items": [
       {
-        "id": "beaf52c6a7282b4f3812",
-        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-        "summary": "全球债市抛售推升美国10年期国债收益率至5%，为2023年以来首次。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-        "publishedAt": "2026-09-14T08:48:34Z"
-      },
-      {
-        "id": "e839a7fb07da8ecfcacb",
-        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-        "summary": "五角大楼监察长确认伊朗战事导致美国弹药短缺，补给瓶颈问题突出。",
+        "id": "e349752078723e08b69f",
+        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+        "summary": "加沙城一栋受损建筑倒塌，已致至少21人死亡，其中包括8名儿童。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-15T12:34:12Z"
+        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-16T05:28:46Z"
       },
       {
-        "id": "fecff6378f5597b56cd9",
-        "title": "US set to deliver 2,000lb bombs to Israel as part of vast arms deal",
-        "summary": "特朗普政府计划向以色列交付2000磅炸弹，涉及大规模军售协议。",
+        "id": "0949dd339c65d1630570",
+        "title": "Kosovo’s former president jailed for 25 years over war crimes",
+        "summary": "海牙国际法庭判处科索沃前总统塔奇25年监禁，认定其犯有战争罪。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/15/trump-administration-bomb-supply-israel-gaza",
-        "publishedAt": "2026-09-15T17:13:01Z"
+        "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
+        "publishedAt": "2026-09-16T05:09:41Z"
       },
       {
-        "id": "914cdabc7e76d0c4e289",
-        "title": "US confirms for first time it has deployed space weapons",
-        "summary": "美国首次确认已在轨部署太空武器，称用于防御，引发军备竞赛担忧。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-15T00:48:28Z"
-      },
-      {
-        "id": "8592714d20ac84d1775b",
-        "title": "Russia plotting to kill Ukraine allies in US and Europe, FBI says",
-        "summary": "美方指控俄罗斯情报机构密谋在美欧暗杀乌克兰盟友，已起诉五人。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot",
-        "publishedAt": "2026-09-15T17:28:20Z"
-      },
-      {
-        "id": "3a2b2ce47b95821996cd",
-        "title": "EU ‘most precarious’ it has ever been as it faces openly hostile world, von der Leyen warns – Europe live",
-        "summary": "冯德莱恩警告欧盟面临史上最严峻外部环境，称经济复苏是首要任务。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
-        "publishedAt": "2026-09-15T23:34:50Z"
-      },
-      {
-        "id": "4e3276542f6958c85a68",
-        "title": "Anthropic lands deal in $31bn datacentre in western Queensland, David Crisafulli says",
-        "summary": "Anthropic签下澳大利亚昆士兰319亿澳元数据中心租约，为该国最大项目。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/16/anthropic-lands-31bn-datacentre-deal-in-western-queensland",
-        "publishedAt": "2026-09-15T21:20:00Z"
-      },
-      {
-        "id": "4e6ffeb9efa6045ca326",
-        "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
-        "summary": "沙特东西输油管道遇袭后，沙特取消部分对欧洲石油交付，能源风险升温。",
+        "id": "c19eeffe82ee48f23f9d",
+        "title": "EU chief von der Leyen proposes ‘associate member’ status for Canada",
+        "summary": "欧盟委员会主席冯德莱恩提议给予加拿大欧盟首个“联系成员”地位。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
-        "publishedAt": "2026-09-15T17:53:27Z"
+        "url": "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss",
+        "publishedAt": "2026-09-16T05:18:51Z"
+      },
+      {
+        "id": "33917670702f431b6a05",
+        "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+        "summary": "沙特称在麦加以南击落胡塞武装无人机，胡塞方面否认袭击圣城。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-16T00:36:17Z"
+      },
+      {
+        "id": "98b1bf183441b85d329d",
+        "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
+        "summary": "菲律宾前总统杜特尔特首次亲自出席国际刑事法院听证，涉反人类罪指控。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-16T03:50:09Z"
+      },
+      {
+        "id": "5b868f2126e2addbba6f",
+        "title": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
+        "summary": "杜特尔特“禁毒战争”致数千人死亡，国际刑事法院定于11月30日开审。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings?traffic_source=rss",
+        "publishedAt": "2026-09-16T05:01:13Z"
+      },
+      {
+        "id": "f1ed8f4480fbf5fd18af",
+        "title": "Gold mine collapse kills at least 70 people in Sudan’s West Kordofan",
+        "summary": "苏丹西科尔多凡州金矿发生坍塌，造成至少70名手工采矿者死亡。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss",
+        "publishedAt": "2026-09-16T05:15:22Z"
+      },
+      {
+        "id": "3c5f724599045f1c4c76",
+        "title": "European Union invites Canada to become first ever ‘associate member’",
+        "summary": "欧盟邀加拿大成为首个联系成员，称需紧急重塑伙伴关系应对关税压力。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
+        "publishedAt": "2026-09-16T03:28:23Z"
       }
     ]
   }
