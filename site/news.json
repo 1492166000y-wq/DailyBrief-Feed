@@ -1,111 +1,103 @@
 {
   "version": 1,
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T00:18:10Z",
+  "generatedAt": "2026-09-16T07:40:34Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内焦点集中于8月宏观经济数据、涉台表态及美债油价连锁反应，同时涵盖英国政治变局与AI产业融资动态。",
+    "overview": "国内焦点集中在美联储决议前的美债与油价波动、8月消费投资数据放缓、A股缩量及科技贷款口径收紧；产业方面华为与赛力斯分成模式、平陆运河工程进展及AI资本开支争论受关注。",
     "items": [
       {
-        "id": "3aaeae7083516ad48404",
-        "title": "崔天凯：一劳永逸解决台湾问题",
-        "summary": "崔天凯就台湾问题表示应一劳永逸解决，重申大陆立场，涉及两岸关系走向。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B4%94%E5%A4%A9%E5%87%AF%EF%BC%9A%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
-        "publishedAt": "2026-09-16T00:18:10Z"
-      },
-      {
-        "id": "f8114ae5812e9b4f568d",
-        "title": "一组数据看8月份国民经济运行平稳",
-        "summary": "8月国民经济运行总体平稳，官方发布数据，涉及工业消费投资等关键指标。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7684590075107380772/",
-        "publishedAt": "2026-09-16T00:18:10Z"
-      },
-      {
-        "id": "c1e4c691b3d1739f6e52",
-        "title": "中国8月社零同比增0.4%，通讯器材大涨27.3%，汽车下滑18.5%",
-        "summary": "8月社零同比增0.4%，通讯器材大涨27.3%，汽车下滑18.5%，消费结构分化明显。",
+        "id": "475b402061ee54d67111",
+        "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+        "summary": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股连跌两日静待美联储决策。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781764",
-        "publishedAt": "2026-09-16T00:18:10Z"
+        "url": "https://wallstreetcn.com/articles/3781779",
+        "publishedAt": "2026-09-16T07:40:34Z"
       },
       {
         "id": "3d17eb5e4dfaf9878a04",
         "title": "分析｜怎么看8月消费、投资增速放缓？",
-        "summary": "分析认为8月消费与投资增速放缓，涉及内需动能转换与政策应对讨论。",
+        "summary": "分析称8月消费与投资增速双双放缓，内需修复仍待政策进一步发力。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34075042",
-        "publishedAt": "2026-09-16T00:18:10Z"
+        "publishedAt": "2026-09-16T07:40:34Z"
       },
       {
-        "id": "475b402061ee54d67111",
-        "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-        "summary": "油价飙升推高通胀担忧，美债收益率创20年新高，美股连跌两日，波及全球资产定价。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781779",
-        "publishedAt": "2026-09-16T00:18:10Z"
-      },
-      {
-        "id": "1515c9cba976d24cf567",
-        "title": "独家|商业银行科技贷款统计口径面临收紧，新框架望年底落地",
-        "summary": "商业银行科技贷款统计口径将收紧，新框架有望年底落地，影响科技金融投向。",
+        "id": "5c998e2fa135f98b6462",
+        "title": "【早报】标普500创8月份以来收盘新低；国际油价大涨；商业银行科技贷款统计口径面临收紧",
+        "summary": "标普500创8月以来收盘新低，国际油价大涨，商业银行科技贷款统计口径面临收紧。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2483817",
-        "publishedAt": "2026-09-16T00:18:10Z"
+        "url": "https://www.cls.cn/detail/2484266",
+        "publishedAt": "2026-09-16T07:40:34Z"
       },
       {
-        "id": "8a6cb0b2511980d6c2e9",
-        "title": "释新闻｜三地突然闹“脱英”，英国真的面临“解体危机”？",
-        "summary": "苏格兰等地再掀独立声浪，英国被指面临解体压力，涉及联合王国政治稳定。",
+        "id": "d7d559c6e54fabdc03d7",
+        "title": "AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？",
+        "summary": "AI减速争论中，华尔街热议万亿美元资本开支去向，算力需求会否消失引发关注。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34074645",
-        "publishedAt": "2026-09-16T00:18:10Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34074387",
+        "publishedAt": "2026-09-16T07:40:34Z"
       },
       {
-        "id": "440ffd77e054dae986e0",
-        "title": "三星押注GPU替代方案赛道：荷兰初创公司获2亿欧元融资",
-        "summary": "三星押注GPU替代方案，荷兰初创公司获2亿欧元融资，拓展AI芯片新赛道。",
+        "id": "d773dd08a8c2609e2df5",
+        "title": "年内成交二次触底16253亿，过往地量后都发生了什么？",
+        "summary": "A股年内成交二次触底16253亿元，历史地量后市场走势引发投资者关注。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2484090",
-        "publishedAt": "2026-09-16T00:18:10Z"
+        "url": "https://www.cls.cn/detail/2484312",
+        "publishedAt": "2026-09-16T07:40:34Z"
+      },
+      {
+        "id": "a5eefd99cb23118b7d7b",
+        "title": "曝赛力斯每卖一辆车车价10%归华为",
+        "summary": "曝赛力斯每卖一辆车车价10%归华为，双方合作分成模式引发行业热议。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7685999740080803337/",
+        "publishedAt": "2026-09-16T07:40:34Z"
+      },
+      {
+        "id": "32384f7d43e6f25c001f",
+        "title": "解码世纪工程的硬核实力",
+        "summary": "解码世纪工程硬核实力，平陆运河等重大基础设施项目进展受关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7686029121742818854/",
+        "publishedAt": "2026-09-16T07:40:34Z"
+      },
+      {
+        "id": "09f01dabd0a837b58e2a",
+        "title": "1票之差！“里程碑”式数字货币法案未能通过美国参议院，币圈遭重击",
+        "summary": "美国参议院以1票之差否决里程碑式数字货币法案，币圈遭遇重击。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781823",
+        "publishedAt": "2026-09-16T07:40:34Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，伊朗战事外溢至霍尔木兹海峡与外交斡旋，美债收益率破5%引发全球市场连锁反应，AI监管与太空武器议题持续升温。",
+    "overview": "国际方面美债收益率与借贷成本创多年新高、全球债市承压；俄乌冲突与伊朗战事持续外溢，沙特油轮与管道遇袭推高能源风险；AI监管与太空武器部署引发多方博弈。",
     "items": [
-      {
-        "id": "3d0778b4a1fb45335954",
-        "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
-        "summary": "伊朗外长赴华，北京寻求斡旋结束战事，中东外交博弈持续升温。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
-        "publishedAt": "2026-09-15T16:00:00Z"
-      },
-      {
-        "id": "95ce96d3eca11fb337cd",
-        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-        "summary": "伊朗外长访华之际，外界关注中国能否扮演和平调解角色，牵动地区局势。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-        "publishedAt": "2026-09-15T08:15:13Z"
-      },
       {
         "id": "beaf52c6a7282b4f3812",
         "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-        "summary": "全球债市抛售推升美10年期国债收益率至5%，为2023年以来首次。",
+        "summary": "全球债市抛售推升美国10年期国债收益率至5%，为2023年以来首次。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
         "publishedAt": "2026-09-14T08:48:34Z"
       },
       {
-        "id": "cbee47f3f29bd3bc66cd",
-        "title": "Iran war cost US $38bn and significantly depleted missile stockpile, report finds",
-        "summary": "报告称伊朗战事已耗资380亿美元，且每月增加30亿，导弹库存需五年重建。",
+        "id": "e839a7fb07da8ecfcacb",
+        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+        "summary": "五角大楼监察长确认伊朗战事导致美国弹药短缺，补给瓶颈问题突出。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-15T12:34:12Z"
+      },
+      {
+        "id": "fecff6378f5597b56cd9",
+        "title": "US set to deliver 2,000lb bombs to Israel as part of vast arms deal",
+        "summary": "特朗普政府计划向以色列交付2000磅炸弹，涉及大规模军售协议。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/15/iran-war-cost-cbo-report",
-        "publishedAt": "2026-09-15T13:47:39Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/15/trump-administration-bomb-supply-israel-gaza",
+        "publishedAt": "2026-09-15T17:13:01Z"
       },
       {
         "id": "914cdabc7e76d0c4e289",
@@ -116,28 +108,36 @@
         "publishedAt": "2026-09-15T00:48:28Z"
       },
       {
-        "id": "7f889d7754fa2cd1f5c5",
-        "title": "Anthropic’s CEO calls for AI slowdown as Nvidia’s urges acceleration",
-        "summary": "Anthropic与英伟达CEO就AI发展快慢公开交锋，放缓与加速立场尖锐对立。",
+        "id": "8592714d20ac84d1775b",
+        "title": "Russia plotting to kill Ukraine allies in US and Europe, FBI says",
+        "summary": "美方指控俄罗斯情报机构密谋在美欧暗杀乌克兰盟友，已起诉五人。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
-        "publishedAt": "2026-09-15T13:05:14Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot",
+        "publishedAt": "2026-09-15T17:28:20Z"
       },
       {
-        "id": "3341f92fbab3fbeb918a",
-        "title": "Bernie Sanders and Steve Bannon call for curbs on AI at ‘pro-human’ summit",
-        "summary": "桑德斯与班农在AI峰会同声呼吁限制AI，但愿景与对华立场分歧明显。",
+        "id": "3a2b2ce47b95821996cd",
+        "title": "EU ‘most precarious’ it has ever been as it faces openly hostile world, von der Leyen warns – Europe live",
+        "summary": "冯德莱恩警告欧盟面临史上最严峻外部环境，称经济复苏是首要任务。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
-        "publishedAt": "2026-09-15T11:51:39Z"
+        "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
+        "publishedAt": "2026-09-15T23:34:50Z"
       },
       {
-        "id": "cd4782f2d700735e1769",
-        "title": "State of U.S. democracy reaches new low, report finds",
-        "summary": "全球民主报告显示美国民主表现降至50年来最低，法治与稳定承压。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
-        "publishedAt": "2026-09-15T10:57:42Z"
+        "id": "4e3276542f6958c85a68",
+        "title": "Anthropic lands deal in $31bn datacentre in western Queensland, David Crisafulli says",
+        "summary": "Anthropic签下澳大利亚昆士兰319亿澳元数据中心租约，为该国最大项目。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/16/anthropic-lands-31bn-datacentre-deal-in-western-queensland",
+        "publishedAt": "2026-09-15T21:20:00Z"
+      },
+      {
+        "id": "4e6ffeb9efa6045ca326",
+        "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+        "summary": "沙特东西输油管道遇袭后，沙特取消部分对欧洲石油交付，能源风险升温。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
+        "publishedAt": "2026-09-15T17:53:27Z"
       }
     ]
   }
