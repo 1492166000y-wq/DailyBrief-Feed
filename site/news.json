@@ -1,103 +1,103 @@
 {
   "version": 1,
   "date": "2026-09-17",
-  "generatedAt": "2026-09-16T18:11:45Z",
+  "generatedAt": "2026-09-16T21:16:35Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内关注美联储三年来首次加息及其对全球市场的溢出效应，张一鸣成亚洲首富、字节跳动营收情况，平陆运河建成通航等航运基建进展，以及算力ETF受捧、AI产业动态等科技财经议题。",
     "items": [
+      {
+        "id": "d4c35b6a45ed6e4ffdae",
+        "title": "时隔三年多！美联储重启加息25个基点 内部预计年内还会升息一次",
+        "summary": "美联储时隔三年多重启加息25个基点，内部预计年内还将升息一次，引发全球市场关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2485507",
+        "publishedAt": "2026-09-16T21:16:35Z"
+      },
+      {
+        "id": "bd3df819cec63cde218f",
+        "title": "美联储宣布加息25个基点",
+        "summary": "美联储宣布加息25个基点，为2023年以来首次，总统特朗普则呼吁降息。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9",
+        "publishedAt": "2026-09-16T21:16:35Z"
+      },
       {
         "id": "e07c32ec9f66dd1d9d69",
         "title": "身家1050亿美元！张一鸣首次成为亚洲首富",
-        "summary": "字节跳动创始人张一鸣身家达1050亿美元，首次成为亚洲首富，科技财富格局引发关注。",
+        "summary": "字节跳动创始人张一鸣身家达1050亿美元，首次成为亚洲首富。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34082171",
-        "publishedAt": "2026-09-16T18:11:45Z"
+        "publishedAt": "2026-09-16T21:16:35Z"
       },
       {
-        "id": "234c910018d3ec36d763",
-        "title": "今夜美联储加息近乎板上钉钉，市场紧盯沃什表态：是否释放持续加息信号？",
-        "summary": "美联储今夜加息近乎板上钉钉，市场紧盯沃什表态，是否释放持续加息信号成焦点。",
+        "id": "b2db32bfc3e33e49ec56",
+        "title": "字节跳动上半年营收1200亿美元直追Meta，但受AI投入拖累，利润降至200亿",
+        "summary": "字节跳动上半年营收1200亿美元直追Meta，但AI投入拖累利润降至200亿美元。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781881",
-        "publishedAt": "2026-09-16T18:11:45Z"
+        "url": "https://wallstreetcn.com/articles/3781844",
+        "publishedAt": "2026-09-16T21:16:35Z"
       },
       {
-        "id": "475b402061ee54d67111",
-        "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-        "summary": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股连跌两日静待美联储决策。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781779",
-        "publishedAt": "2026-09-16T18:11:45Z"
+        "id": "d76331550be208a1d624",
+        "title": "9图读懂平陆运河核心看点",
+        "summary": "平陆运河建成通航，9图梳理其核心看点与建设意义。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%239%E5%9B%BE%E8%AF%BB%E6%87%82%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E6%A0%B8%E5%BF%83%E7%9C%8B%E7%82%B9%23",
+        "publishedAt": "2026-09-16T21:16:35Z"
+      },
+      {
+        "id": "f205bb3cce7ff729aae8",
+        "title": "算力ETF上市首日就大涨，为何被散户热捧？还有一批在路上",
+        "summary": "算力ETF上市首日大涨，受散户热捧，还有多只同类产品在路上。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2485081",
+        "publishedAt": "2026-09-16T21:16:35Z"
       },
       {
         "id": "ea173e3d3adc0b64ffec",
         "title": "“豆包手机”正式发售",
-        "summary": "搭载AI助手的“豆包手机”正式发售，标志大模型向消费硬件终端加速落地。",
+        "summary": "字节跳动推出“豆包手机”正式发售，进一步拓展AI硬件布局。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7685216512579747882/",
-        "publishedAt": "2026-09-16T18:11:45Z"
+        "publishedAt": "2026-09-16T21:16:35Z"
       },
       {
         "id": "a5d144e1fe06a37b38d6",
         "title": "香港特区首个五年规划正式公布",
-        "summary": "香港特区首个五年规划正式公布，明确未来发展方向与重点任务安排。",
+        "summary": "香港特区首个五年规划正式公布，明确未来发展方向。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34079690",
-        "publishedAt": "2026-09-16T18:11:45Z"
-      },
-      {
-        "id": "d8926de8b2aab3ed82ea",
-        "title": "押注物理AI：韩国10亿美元国家级研发项目正式启动",
-        "summary": "韩国启动10亿美元国家级研发项目，押注物理AI，加码具身智能与机器人竞争。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2485354",
-        "publishedAt": "2026-09-16T18:11:45Z"
-      },
-      {
-        "id": "09f01dabd0a837b58e2a",
-        "title": "1票之差！“里程碑”式数字货币法案未能通过美国参议院，币圈遭重击",
-        "summary": "美国参议院以1票之差否决“里程碑”式数字货币法案，加密市场遭遇重击。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781823",
-        "publishedAt": "2026-09-16T18:11:45Z"
-      },
-      {
-        "id": "5bafe9621c02e39eec20",
-        "title": "夏粮收购总量超1亿吨",
-        "summary": "全国夏粮收购总量超1亿吨，粮食收储稳步推进，市场供应基础稳固。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686044900084957222/",
-        "publishedAt": "2026-09-16T18:11:45Z"
+        "publishedAt": "2026-09-16T21:16:35Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际焦点集中于美联储自2023年以来首次加息、特朗普与美联储政策摩擦，欧盟给予加拿大联系成员地位、英国与欧盟关系，以及科索沃前总统战争罪判决、加沙建筑倒塌、以黎冲突等安全与人道议题。",
     "items": [
+      {
+        "id": "20a6d89be5d079a4e059",
+        "title": "US Federal Reserve raises interest rates for the first time since 2023",
+        "summary": "美联储自2023年以来首次加息25个基点至3.75%-4%，特朗普敦促降息。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates",
+        "publishedAt": "2026-09-16T13:01:39Z"
+      },
+      {
+        "id": "5ead02fd15e9b8d7d10d",
+        "title": "US Fed raises key rate for first time in 3 years",
+        "summary": "美联储加息25个基点应对持续高通胀，特朗普却称应降息。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-16T10:24:00Z"
+      },
       {
         "id": "2d987cc422877ea9ea44",
         "title": "Federal Reserve raises interest rates for first time since July 2023 – live",
-        "summary": "美联储自2023年7月以来首次加息，沃什出任主席后决定获12比0全票通过。",
+        "summary": "美联储自2023年7月以来首次加息，沃什任主席后决定以12比0全票通过。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/live/2026/sep/16/federal-reserve-interest-rate-increase-live-updates",
         "publishedAt": "2026-09-16T10:04:37Z"
-      },
-      {
-        "id": "e349752078723e08b69f",
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "summary": "加沙城一栋六层建筑倒塌，至少21人死亡，其中包括8名儿童，救援受限。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-16T09:16:47Z"
-      },
-      {
-        "id": "0949dd339c65d1630570",
-        "title": "Kosovo’s former president jailed for 25 years over war crimes",
-        "summary": "海牙国际法庭判处科索沃前总统塔奇25年监禁，认定其犯有战争罪。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
-        "publishedAt": "2026-09-16T05:09:41Z"
       },
       {
         "id": "c19eeffe82ee48f23f9d",
@@ -108,20 +108,20 @@
         "publishedAt": "2026-09-16T05:18:51Z"
       },
       {
-        "id": "578cde82a4798cd1de75",
-        "title": "Belarus frees 25 political prisoners in return for US sanctions relief",
-        "summary": "白俄罗斯释放25名政治犯，以换取美国放松制裁，两国关系出现改善。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
-        "publishedAt": "2026-09-16T09:38:09Z"
+        "id": "0949dd339c65d1630570",
+        "title": "Kosovo’s former president jailed for 25 years over war crimes",
+        "summary": "海牙国际法庭判处科索沃前总统塔奇25年监禁，认定其犯有战争罪。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
+        "publishedAt": "2026-09-16T05:09:41Z"
       },
       {
-        "id": "68df5c96f15ad51ff5a8",
-        "title": "EU moves closer to social media ban for under 13s",
-        "summary": "欧盟确认推进13岁以下社交媒体禁令草案，称应保护儿童免受平台侵害。",
+        "id": "664178cd9adb1de9b6e8",
+        "title": "At least 21 killed after Israeli-hit building in Gaza City collapses",
+        "summary": "加沙城一栋建筑倒塌，造成至少21人死亡，包括11名儿童。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/16/eu-social-media-ban-under-13s",
-        "publishedAt": "2026-09-16T06:39:26Z"
+        "url": "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
+        "publishedAt": "2026-09-16T08:36:15Z"
       },
       {
         "id": "9f535d5974d82cfb5538",
@@ -132,12 +132,12 @@
         "publishedAt": "2026-09-16T06:56:40Z"
       },
       {
-        "id": "9272da823e66fc2fa2ed",
-        "title": "Kosovo’s former president guilty of war crimes",
-        "summary": "科索沃前总统塔奇及三名前科索沃解放军领导人被海牙法庭裁定犯有战争罪。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss",
-        "publishedAt": "2026-09-16T09:20:15Z"
+        "id": "68df5c96f15ad51ff5a8",
+        "title": "EU moves closer to social media ban for under 13s",
+        "summary": "欧盟确认推进13岁以下社交媒体禁令草案，称应保护儿童免受平台侵害。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/16/eu-social-media-ban-under-13s",
+        "publishedAt": "2026-09-16T06:39:26Z"
       }
     ]
   }
