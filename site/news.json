@@ -1,87 +1,95 @@
 {
   "version": 1,
-  "date": "2026-09-16",
-  "generatedAt": "2026-09-16T13:29:47Z",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-16T18:11:45Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，医保全国统一目录落地，8月国民经济成绩单发布，夏粮收购超1亿吨，香港首个五年规划公布，平陆运河通航；美联储加息预期牵动市场，美债收益率创20年新高。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "0f64d7271fd2bd112bde",
-        "title": "医保大动作！全国统一目录来了",
-        "summary": "国家医保局推进全国统一医保目录，药品和诊疗项目范围实现统一。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E5%A4%A7%E5%8A%A8%E4%BD%9C%EF%BC%81%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9B%AE%E5%BD%95%E6%9D%A5%E4%BA%86",
-        "publishedAt": "2026-09-16T13:29:47Z"
+        "id": "e07c32ec9f66dd1d9d69",
+        "title": "身家1050亿美元！张一鸣首次成为亚洲首富",
+        "summary": "字节跳动创始人张一鸣身家达1050亿美元，首次成为亚洲首富，科技财富格局引发关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34082171",
+        "publishedAt": "2026-09-16T18:11:45Z"
       },
       {
-        "id": "7f041c4b74052a9f73c0",
-        "title": "数说国民经济8月成绩单",
-        "summary": "统计局公布8月国民经济数据，工业、消费等指标反映经济运行态势。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E8%E6%9C%88%E6%88%90%E7%BB%A9%E5%8D%95%23",
-        "publishedAt": "2026-09-16T13:29:47Z"
+        "id": "234c910018d3ec36d763",
+        "title": "今夜美联储加息近乎板上钉钉，市场紧盯沃什表态：是否释放持续加息信号？",
+        "summary": "美联储今夜加息近乎板上钉钉，市场紧盯沃什表态，是否释放持续加息信号成焦点。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781881",
+        "publishedAt": "2026-09-16T18:11:45Z"
       },
       {
-        "id": "5bafe9621c02e39eec20",
-        "title": "夏粮收购总量超1亿吨",
-        "summary": "全国夏粮收购总量超过1亿吨，为粮食安全和市场稳定提供支撑。",
+        "id": "475b402061ee54d67111",
+        "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+        "summary": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股连跌两日静待美联储决策。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781779",
+        "publishedAt": "2026-09-16T18:11:45Z"
+      },
+      {
+        "id": "ea173e3d3adc0b64ffec",
+        "title": "“豆包手机”正式发售",
+        "summary": "搭载AI助手的“豆包手机”正式发售，标志大模型向消费硬件终端加速落地。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686044900084957222/",
-        "publishedAt": "2026-09-16T13:29:47Z"
+        "url": "https://www.toutiao.com/trending/7685216512579747882/",
+        "publishedAt": "2026-09-16T18:11:45Z"
       },
       {
         "id": "a5d144e1fe06a37b38d6",
         "title": "香港特区首个五年规划正式公布",
-        "summary": "香港特区首个五年规划正式公布，明确经济社会发展方向和重点。",
+        "summary": "香港特区首个五年规划正式公布，明确未来发展方向与重点任务安排。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34079690",
-        "publishedAt": "2026-09-16T13:29:47Z"
+        "publishedAt": "2026-09-16T18:11:45Z"
       },
       {
-        "id": "ffb249245aae4eddd7e9",
-        "title": "平陆运河“全能管家”有多硬核",
-        "summary": "平陆运河建成通航，其综合管理调度系统保障航运高效安全运行。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E2%80%9C%E5%85%A8%E8%83%BD%E7%AE%A1%E5%AE%B6%E2%80%9D%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8",
-        "publishedAt": "2026-09-16T13:29:47Z"
+        "id": "d8926de8b2aab3ed82ea",
+        "title": "押注物理AI：韩国10亿美元国家级研发项目正式启动",
+        "summary": "韩国启动10亿美元国家级研发项目，押注物理AI，加码具身智能与机器人竞争。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2485354",
+        "publishedAt": "2026-09-16T18:11:45Z"
       },
       {
-        "id": "d024736de6dbefcfc637",
-        "title": "受赠文物事件处理结果公布！南京博物院原院长徐湖平获刑三年",
-        "summary": "南京博物院受赠文物事件处理结果公布，原院长徐湖平被判处三年有期徒刑。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34081492",
-        "publishedAt": "2026-09-16T13:29:47Z"
+        "id": "09f01dabd0a837b58e2a",
+        "title": "1票之差！“里程碑”式数字货币法案未能通过美国参议院，币圈遭重击",
+        "summary": "美国参议院以1票之差否决“里程碑”式数字货币法案，加密市场遭遇重击。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781823",
+        "publishedAt": "2026-09-16T18:11:45Z"
       },
       {
-        "id": "691e8f5694c0e4f01747",
-        "title": "董军：对霸权主义军国主义保持警惕",
-        "summary": "国防部长董军表示，对霸权主义和军国主义保持高度警惕。",
+        "id": "5bafe9621c02e39eec20",
+        "title": "夏粮收购总量超1亿吨",
+        "summary": "全国夏粮收购总量超1亿吨，粮食收储稳步推进，市场供应基础稳固。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7685538058195701284/",
-        "publishedAt": "2026-09-16T13:29:47Z"
-      },
-      {
-        "id": "dcb372de1059d48b329d",
-        "title": "父母离世后小伙3次应征终入伍",
-        "summary": "父母离世后小伙3次应征终入伍",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7685332470573481990/",
-        "publishedAt": "2026-09-16T13:29:47Z"
+        "url": "https://www.toutiao.com/trending/7686044900084957222/",
+        "publishedAt": "2026-09-16T18:11:45Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，加沙一栋建筑倒塌致至少20人死亡，科索沃前总统塔奇被判25年监禁，冯德莱恩提议加拿大成为欧盟首个联系成员，沙特称胡塞武装试图袭击麦加，菲律宾前总统杜特尔特首次出庭国际刑事法院。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
+      {
+        "id": "2d987cc422877ea9ea44",
+        "title": "Federal Reserve raises interest rates for first time since July 2023 – live",
+        "summary": "美联储自2023年7月以来首次加息，沃什出任主席后决定获12比0全票通过。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/live/2026/sep/16/federal-reserve-interest-rate-increase-live-updates",
+        "publishedAt": "2026-09-16T10:04:37Z"
+      },
       {
         "id": "e349752078723e08b69f",
         "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "summary": "加沙城一栋受损建筑倒塌，已致至少21人死亡，其中包括8名儿童。",
+        "summary": "加沙城一栋六层建筑倒塌，至少21人死亡，其中包括8名儿童，救援受限。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-16T05:28:46Z"
+        "publishedAt": "2026-09-16T09:16:47Z"
       },
       {
         "id": "0949dd339c65d1630570",
@@ -100,44 +108,36 @@
         "publishedAt": "2026-09-16T05:18:51Z"
       },
       {
-        "id": "33917670702f431b6a05",
-        "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-        "summary": "沙特称在麦加以南击落胡塞武装无人机，胡塞方面否认袭击圣城。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-16T00:36:17Z"
-      },
-      {
-        "id": "98b1bf183441b85d329d",
-        "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-        "summary": "菲律宾前总统杜特尔特首次亲自出席国际刑事法院听证，涉反人类罪指控。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-16T03:50:09Z"
-      },
-      {
-        "id": "5b868f2126e2addbba6f",
-        "title": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
-        "summary": "杜特尔特“禁毒战争”致数千人死亡，国际刑事法院定于11月30日开审。",
+        "id": "578cde82a4798cd1de75",
+        "title": "Belarus frees 25 political prisoners in return for US sanctions relief",
+        "summary": "白俄罗斯释放25名政治犯，以换取美国放松制裁，两国关系出现改善。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings?traffic_source=rss",
-        "publishedAt": "2026-09-16T05:01:13Z"
+        "url": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
+        "publishedAt": "2026-09-16T09:38:09Z"
       },
       {
-        "id": "f1ed8f4480fbf5fd18af",
-        "title": "Gold mine collapse kills at least 70 people in Sudan’s West Kordofan",
-        "summary": "苏丹西科尔多凡州金矿发生坍塌，造成至少70名手工采矿者死亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss",
-        "publishedAt": "2026-09-16T05:15:22Z"
-      },
-      {
-        "id": "3c5f724599045f1c4c76",
-        "title": "European Union invites Canada to become first ever ‘associate member’",
-        "summary": "欧盟邀加拿大成为首个联系成员，称需紧急重塑伙伴关系应对关税压力。",
+        "id": "68df5c96f15ad51ff5a8",
+        "title": "EU moves closer to social media ban for under 13s",
+        "summary": "欧盟确认推进13岁以下社交媒体禁令草案，称应保护儿童免受平台侵害。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
-        "publishedAt": "2026-09-16T03:28:23Z"
+        "url": "https://www.theguardian.com/world/2026/sep/16/eu-social-media-ban-under-13s",
+        "publishedAt": "2026-09-16T06:39:26Z"
+      },
+      {
+        "id": "9f535d5974d82cfb5538",
+        "title": "US opts not to back Saudi Arabia in Yemen after meeting Houthi leaders",
+        "summary": "美国在马斯喀特会见胡塞武装后，决定不介入沙特在也门的军事行动。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+        "publishedAt": "2026-09-16T06:56:40Z"
+      },
+      {
+        "id": "9272da823e66fc2fa2ed",
+        "title": "Kosovo’s former president guilty of war crimes",
+        "summary": "科索沃前总统塔奇及三名前科索沃解放军领导人被海牙法庭裁定犯有战争罪。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss",
+        "publishedAt": "2026-09-16T09:20:15Z"
       }
     ]
   }
