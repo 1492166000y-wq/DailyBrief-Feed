@@ -1,135 +1,135 @@
 {
   "version": 1,
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T07:37:35Z",
+  "generatedAt": "2026-09-17T13:25:44Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在美联储三年多来首次加息对全球市场与国内政策的传导，同时先进制造业、粮食稳产、运河建设等议题受关注。",
+    "overview": "国内要闻聚焦中美经贸、货币政策与产业动态：习近平就先进制造业作出重要指示；美联储三年来首次加息并暗示继续紧缩，全球股债汇金波动；中方回应美国会对俄制裁法案及欧洲电信设备争议；手机无卡化、广电整合机顶盒等科技产业议题受关注；节假日休市安排与秋粮收购等民生经济信息同步发布。",
     "items": [
       {
-        "id": "9ba4ad355579c442f041",
-        "title": "【早报】时隔3年多，美联储重启加息；美股、原油、黄金全线跳水；多家A股公司，披露回购进展",
-        "summary": "美联储时隔三年多重启加息，美股、原油、黄金全线跳水，多家A股公司披露回购进展。",
+        "id": "103906eade5d3a3b1547",
+        "title": "习近平就发展先进制造业作出重要指示",
+        "summary": "习近平就发展先进制造业作出重要指示，强调坚持创新驱动，推动制造业高端化、智能化、绿色化转型。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2485626",
-        "publishedAt": "2026-09-17T07:37:35Z"
+        "url": "https://www.cls.cn/detail/2485906",
+        "publishedAt": "2026-09-17T13:25:44Z"
       },
       {
         "id": "ce205cec32ba8b48de6a",
         "title": "打脸特朗普！美联储全票通过三年来首次加息，点阵图料年内还将加一次",
-        "summary": "美联储全票通过三年来首次加息，点阵图预示年内或再加息一次，与特朗普主张相悖。",
+        "summary": "美联储全票通过三年来首次加息，点阵图预示年内或再加息一次，白宫批评决定令人遗憾。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781919",
-        "publishedAt": "2026-09-17T07:37:35Z"
+        "publishedAt": "2026-09-17T13:25:44Z"
       },
       {
-        "id": "103906eade5d3a3b1547",
-        "title": "习近平就发展先进制造业作出重要指示",
-        "summary": "习近平就发展先进制造业作出重要指示，为产业升级与制造强国建设指明方向。",
+        "id": "e9f1fe2b383ed7334ad4",
+        "title": "美联储加息并暗示更多紧缩，美国股债齐跌，AI板块相对抗跌，美元拉升，黄金日内跳水",
+        "summary": "美联储加息并暗示进一步紧缩，美国股债齐跌，AI板块相对抗跌，美元拉升，黄金日内跳水。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781871",
+        "publishedAt": "2026-09-17T13:25:44Z"
+      },
+      {
+        "id": "5048576f15bc4fd52f19",
+        "title": "沪深北交易所齐发公告，中秋节、国庆节休市安排公布",
+        "summary": "沪深北交易所齐发公告，公布中秋节、国庆节休市安排，便于投资者提前规划。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2485906",
-        "publishedAt": "2026-09-17T07:37:35Z"
+        "url": "https://www.cls.cn/detail/2486299",
+        "publishedAt": "2026-09-17T13:25:44Z"
       },
       {
-        "id": "e07c32ec9f66dd1d9d69",
-        "title": "身家1050亿美元！张一鸣首次成为亚洲首富",
-        "summary": "张一鸣身家达1050亿美元，首次成为亚洲首富，凸显科技巨头财富集中趋势。",
+        "id": "2c597f07c89a540979ef",
+        "title": "日本高市内阁全体阁僚提交辞呈",
+        "summary": "日本高市内阁全体阁僚提交辞呈，为后续政治重组铺路。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34082171",
-        "publishedAt": "2026-09-17T07:37:35Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34087783",
+        "publishedAt": "2026-09-17T13:25:44Z"
       },
       {
-        "id": "bd4ddc48692995c14008",
-        "title": "高市内阁全体阁僚提交辞呈",
-        "summary": "日本高市内阁全体阁僚提交辞呈，日本政局出现重大变动，后续组阁动向受关注。",
+        "id": "b5b2201e9c9b26ac0410",
+        "title": "国内手机“无卡时代”更进一步",
+        "summary": "国内手机“无卡时代”更进一步，eSIM技术应用加速，或将改变通信服务模式。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686330044544896550/",
-        "publishedAt": "2026-09-17T07:37:35Z"
+        "url": "https://www.toutiao.com/trending/7686313416160935977/",
+        "publishedAt": "2026-09-17T13:25:44Z"
       },
       {
-        "id": "7753c63906d9fc226ccd",
-        "title": "各地多措并举护航粮食稳产增收",
-        "summary": "各地多措并举护航粮食稳产增收，保障国家粮食安全与秋收生产有序推进。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686262825412496959/",
-        "publishedAt": "2026-09-17T07:37:35Z"
+        "id": "22de1287f8971bab9def",
+        "title": "广电总局：机顶盒功能将以软件形态内置于电视机",
+        "summary": "广电总局明确机顶盒功能将以软件形态内置于电视机，推动终端整合与产业升级。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34087820",
+        "publishedAt": "2026-09-17T13:25:44Z"
       },
       {
-        "id": "c52ddd77d025b4cc3942",
-        "title": "广西真正靠海了",
-        "summary": "平陆运河建设推进使广西真正靠海，西部陆海新通道格局进一步成形。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%9C%9F%E6%AD%A3%E9%9D%A0%E6%B5%B7%E4%BA%86",
-        "publishedAt": "2026-09-17T07:37:35Z"
-      },
-      {
-        "id": "f470f161c8d90e5bc6d0",
-        "title": "欧洲电信巨头高管反对禁用中国设备，中方回应",
-        "summary": "欧洲电信巨头高管反对禁用中国设备，中方就此作出回应，反对无理打压。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wU6FbDiXpW",
-        "publishedAt": "2026-09-17T07:37:35Z"
+        "id": "2e4fa0891641d6ebf1e4",
+        "title": "首个采用NPO的昇腾960超节点来了！华为新款AI芯片将提前推出",
+        "summary": "华为新款AI芯片将提前推出，首个采用NPO的昇腾960超节点亮相，提升算力竞争力。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2485945",
+        "publishedAt": "2026-09-17T13:25:44Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美联储加息与特朗普施压白宫形成对峙，美欧加贸易摩擦、加沙人道危机、也门冲突及俄乌战事持续牵动局势。",
+    "overview": "国际焦点集中在美欧贸易摩擦、欧洲政局与中东局势：美联储加息后特朗普威胁终止对欧墨贸易，欧盟提议加拿大成为准成员；瑞典首相因选举失利辞职；联合国报告称有理由认定美军在伊朗学校袭击中构成战争罪；加沙建筑倒塌致至少21人死亡；俄乌冲突持续，胡塞武装动向牵动油价。",
     "items": [
       {
-        "id": "20a6d89be5d079a4e059",
-        "title": "US Federal Reserve raises interest rates for the first time since 2023",
-        "summary": "美联储自2023年以来首次加息25个基点至3.75%-4%，特朗普随即敦促降息。",
+        "id": "1469d62ebcab15655abf",
+        "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
+        "summary": "特朗普威胁对欧盟加征关税并停止贸易，回应欧盟提议让加拿大成为首个准成员。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates",
-        "publishedAt": "2026-09-16T13:01:39Z"
+        "url": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
+        "publishedAt": "2026-09-17T00:25:32Z"
       },
       {
-        "id": "e2ad41e0580b5c800004",
-        "title": "Trump threatens to end trade with Mexico and Europe after rate hike",
-        "summary": "特朗普威胁在加息后终止与墨西哥和欧洲的贸易，施压美联储降息未果。",
+        "id": "6ac6ce17c2cfc887467e",
+        "title": "Sweden prime minister to resign as left-wing bloc seals narrow election win",
+        "summary": "瑞典首相克里斯特松因议会选举失利宣布辞职，左翼阵营以微弱优势获胜。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
-        "publishedAt": "2026-09-16T20:43:01Z"
+        "url": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss",
+        "publishedAt": "2026-09-17T05:11:10Z"
       },
       {
-        "id": "8cc0496c9123b0d0b4ee",
-        "title": "US Congress passes Russia sanctions bill",
-        "summary": "美国国会通过制裁俄罗斯法案，或引发对中印伊的次级制裁，加剧地缘紧张。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-16T15:01:00Z"
+        "id": "790ffb93f08010b292d9",
+        "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+        "summary": "联合国调查称有合理理由相信美国对伊朗学校及体育设施的袭击构成战争罪。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+        "publishedAt": "2026-09-17T01:05:31Z"
       },
       {
         "id": "664178cd9adb1de9b6e8",
         "title": "At least 21 killed after Israeli-hit building in Gaza City collapses",
-        "summary": "加沙城一栋被以军击中建筑倒塌，至少21人死亡，其中含11名儿童。",
+        "summary": "加沙城一栋被以军击中建筑倒塌，至少21人死亡，其中包括11名儿童。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
         "publishedAt": "2026-09-16T08:36:15Z"
       },
       {
+        "id": "81ae51d872b90ba78328",
+        "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
+        "summary": "美国会对俄制裁法案通过，针对俄罗斯石油买家，或影响中国和印度能源进口。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
+        "publishedAt": "2026-09-17T04:59:36Z"
+      },
+      {
+        "id": "4919c1b0a86a41100bf2",
+        "title": "EU announces plan to restrict social media access for under-15s",
+        "summary": "欧盟宣布计划限制15岁以下儿童使用社交媒体，要求平台设置年龄验证。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-17T02:00:14Z"
+      },
+      {
         "id": "2b6b9da63b98b0793537",
         "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
-        "summary": "也门胡塞武装沿红海西岸推进，逾10万也门人流离失所，威胁全球能源供应。",
+        "summary": "也门胡塞武装沿红海西岸推进，逾10万人流离失所，全球能源供应受威胁。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people",
         "publishedAt": "2026-09-16T21:45:50Z"
-      },
-      {
-        "id": "0949dd339c65d1630570",
-        "title": "Kosovo’s former president jailed for 25 years over war crimes",
-        "summary": "科索沃前总统塔奇被海牙法庭以战争罪判处25年监禁，引发巴尔干关注。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
-        "publishedAt": "2026-09-16T05:09:41Z"
-      },
-      {
-        "id": "7c4fba9e2ef50b3356ca",
-        "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-        "summary": "以色列与摩洛哥同意互设使馆，升级双边外交关系，中东格局持续调整。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-        "publishedAt": "2026-09-16T15:26:27Z"
       },
       {
         "id": "aadac8f2c9e9462746ac",
