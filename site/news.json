@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-17T13:25:44Z",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-17T18:11:55Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦中美经贸、货币政策与产业动态：习近平就先进制造业作出重要指示；美联储三年来首次加息并暗示继续紧缩，全球股债汇金波动；中方回应美国会对俄制裁法案及欧洲电信设备争议；手机无卡化、广电整合机顶盒等科技产业议题受关注；节假日休市安排与秋粮收购等民生经济信息同步发布。",
+    "overview": "国内要闻聚焦中美高层外交互动、美联储加息的外溢影响、资本市场休市安排以及房地产与产业经济动态。",
     "items": [
       {
-        "id": "103906eade5d3a3b1547",
-        "title": "习近平就发展先进制造业作出重要指示",
-        "summary": "习近平就发展先进制造业作出重要指示，强调坚持创新驱动，推动制造业高端化、智能化、绿色化转型。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2485906",
-        "publishedAt": "2026-09-17T13:25:44Z"
+        "id": "f9edb1a7ebb208ffaf28",
+        "title": "王毅鲁比奥通电话，着重就两国高层交往进行深入讨论",
+        "summary": "王毅同鲁比奥通电话，重点就两国高层交往深入交换意见，为下阶段互动做准备。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wV9cvLmsFI",
+        "publishedAt": "2026-09-17T18:11:55Z"
+      },
+      {
+        "id": "acfdeafcb77af4748d89",
+        "title": "王毅：中美双方要筹备好下阶段高层交往",
+        "summary": "王毅表示中美双方要筹备好下阶段高层交往，推动两国关系稳定发展。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7686506613791985198/",
+        "publishedAt": "2026-09-17T18:11:55Z"
       },
       {
         "id": "ce205cec32ba8b48de6a",
         "title": "打脸特朗普！美联储全票通过三年来首次加息，点阵图料年内还将加一次",
-        "summary": "美联储全票通过三年来首次加息，点阵图预示年内或再加息一次，白宫批评决定令人遗憾。",
+        "summary": "美联储全票通过三年来首次加息，点阵图预示年内或再加息一次。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781919",
-        "publishedAt": "2026-09-17T13:25:44Z"
-      },
-      {
-        "id": "e9f1fe2b383ed7334ad4",
-        "title": "美联储加息并暗示更多紧缩，美国股债齐跌，AI板块相对抗跌，美元拉升，黄金日内跳水",
-        "summary": "美联储加息并暗示进一步紧缩，美国股债齐跌，AI板块相对抗跌，美元拉升，黄金日内跳水。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781871",
-        "publishedAt": "2026-09-17T13:25:44Z"
+        "publishedAt": "2026-09-17T18:11:55Z"
       },
       {
         "id": "5048576f15bc4fd52f19",
         "title": "沪深北交易所齐发公告，中秋节、国庆节休市安排公布",
-        "summary": "沪深北交易所齐发公告，公布中秋节、国庆节休市安排，便于投资者提前规划。",
+        "summary": "沪深北交易所齐发公告，公布中秋节、国庆节休市安排。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2486299",
-        "publishedAt": "2026-09-17T13:25:44Z"
+        "publishedAt": "2026-09-17T18:11:55Z"
       },
       {
         "id": "2c597f07c89a540979ef",
         "title": "日本高市内阁全体阁僚提交辞呈",
-        "summary": "日本高市内阁全体阁僚提交辞呈，为后续政治重组铺路。",
+        "summary": "日本高市内阁全体阁僚提交辞呈，政局出现重大变动。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34087783",
-        "publishedAt": "2026-09-17T13:25:44Z"
+        "publishedAt": "2026-09-17T18:11:55Z"
       },
       {
-        "id": "b5b2201e9c9b26ac0410",
-        "title": "国内手机“无卡时代”更进一步",
-        "summary": "国内手机“无卡时代”更进一步，eSIM技术应用加速，或将改变通信服务模式。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686313416160935977/",
-        "publishedAt": "2026-09-17T13:25:44Z"
+        "id": "286ed2eea09f414e0692",
+        "title": "楼市进入“二手房时代”",
+        "summary": "楼市进入“二手房时代”，存量房交易成为市场主导力量。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%A5%BC%E5%B8%82%E8%BF%9B%E5%85%A5%E2%80%9C%E4%BA%8C%E6%89%8B%E6%88%BF%E6%97%B6%E4%BB%A3%E2%80%9D",
+        "publishedAt": "2026-09-17T18:11:55Z"
       },
       {
-        "id": "22de1287f8971bab9def",
-        "title": "广电总局：机顶盒功能将以软件形态内置于电视机",
-        "summary": "广电总局明确机顶盒功能将以软件形态内置于电视机，推动终端整合与产业升级。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34087820",
-        "publishedAt": "2026-09-17T13:25:44Z"
+        "id": "e9f1fe2b383ed7334ad4",
+        "title": "美联储加息并暗示更多紧缩，美国股债齐跌，AI板块相对抗跌，美元拉升，黄金日内跳水",
+        "summary": "美联储加息并暗示更多紧缩，美股债齐跌，AI板块相对抗跌，美元走强黄金跳水。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781871",
+        "publishedAt": "2026-09-17T18:11:55Z"
       },
       {
-        "id": "2e4fa0891641d6ebf1e4",
-        "title": "首个采用NPO的昇腾960超节点来了！华为新款AI芯片将提前推出",
-        "summary": "华为新款AI芯片将提前推出，首个采用NPO的昇腾960超节点亮相，提升算力竞争力。",
+        "id": "9401b90f85ddd9224996",
+        "title": "供应严重短缺！韩国半导体零部件交货周期拉长 有设备商或要等40个月",
+        "summary": "韩国半导体零部件供应严重短缺，部分设备交货周期长达40个月。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2485945",
-        "publishedAt": "2026-09-17T13:25:44Z"
+        "url": "https://www.cls.cn/detail/2486061",
+        "publishedAt": "2026-09-17T18:11:55Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在美欧贸易摩擦、欧洲政局与中东局势：美联储加息后特朗普威胁终止对欧墨贸易，欧盟提议加拿大成为准成员；瑞典首相因选举失利辞职；联合国报告称有理由认定美军在伊朗学校袭击中构成战争罪；加沙建筑倒塌致至少21人死亡；俄乌冲突持续，胡塞武装动向牵动油价。",
+    "overview": "国际方面，美联储鹰派加息引发全球市场震荡，瑞典政局更迭，美欧加贸易关系趋紧，中东与俄乌局势持续紧张。",
     "items": [
+      {
+        "id": "de6bc5de23a48dd1c0f0",
+        "title": "Sweden’s PM resigns after centre-left bloc wins slim majority in election",
+        "summary": "瑞典首相克里斯特松因中左翼阵营以微弱多数赢得选举而辞职。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/17/sweden-elections-prime-minister-resigns",
+        "publishedAt": "2026-09-17T07:28:24Z"
+      },
       {
         "id": "1469d62ebcab15655abf",
         "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
-        "summary": "特朗普威胁对欧盟加征关税并停止贸易，回应欧盟提议让加拿大成为首个准成员。",
+        "summary": "特朗普威胁停止与欧盟贸易，回应欧盟给予加拿大准成员待遇的提议。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
         "publishedAt": "2026-09-17T00:25:32Z"
       },
       {
-        "id": "6ac6ce17c2cfc887467e",
-        "title": "Sweden prime minister to resign as left-wing bloc seals narrow election win",
-        "summary": "瑞典首相克里斯特松因议会选举失利宣布辞职，左翼阵营以微弱优势获胜。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss",
-        "publishedAt": "2026-09-17T05:11:10Z"
+        "id": "5379d4310812a3244493",
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "summary": "联合国专家称有理由相信美国在伊朗袭击中犯下战争罪。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-17T07:07:47Z"
       },
       {
         "id": "790ffb93f08010b292d9",
         "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-        "summary": "联合国调查称有合理理由相信美国对伊朗学校及体育设施的袭击构成战争罪。",
+        "summary": "联合国调查指美国对伊朗学校与体育设施的空袭构成战争罪。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-        "publishedAt": "2026-09-17T01:05:31Z"
+        "publishedAt": "2026-09-17T05:22:35Z"
       },
       {
-        "id": "664178cd9adb1de9b6e8",
-        "title": "At least 21 killed after Israeli-hit building in Gaza City collapses",
-        "summary": "加沙城一栋被以军击中建筑倒塌，至少21人死亡，其中包括11名儿童。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
-        "publishedAt": "2026-09-16T08:36:15Z"
-      },
-      {
-        "id": "81ae51d872b90ba78328",
-        "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
-        "summary": "美国会对俄制裁法案通过，针对俄罗斯石油买家，或影响中国和印度能源进口。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
-        "publishedAt": "2026-09-17T04:59:36Z"
+        "id": "1c8191196135c8d19a2b",
+        "title": "A war-fatigued and anxious Russia picks a new parliament",
+        "summary": "战争疲劳与焦虑笼罩俄罗斯，议会选举在燃料短缺和无人机袭击中进行。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-17T08:42:00Z"
       },
       {
         "id": "4919c1b0a86a41100bf2",
         "title": "EU announces plan to restrict social media access for under-15s",
-        "summary": "欧盟宣布计划限制15岁以下儿童使用社交媒体，要求平台设置年龄验证。",
+        "summary": "欧盟宣布计划限制15岁以下儿童使用社交媒体，要求平台进行年龄验证。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-17T02:00:14Z"
       },
       {
-        "id": "2b6b9da63b98b0793537",
-        "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
-        "summary": "也门胡塞武装沿红海西岸推进，逾10万人流离失所，全球能源供应受威胁。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people",
-        "publishedAt": "2026-09-16T21:45:50Z"
+        "id": "81ae51d872b90ba78328",
+        "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
+        "summary": "美国会通过对俄石油买家制裁法案，或影响中国和印度能源进口。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
+        "publishedAt": "2026-09-17T04:59:36Z"
       },
       {
-        "id": "aadac8f2c9e9462746ac",
-        "title": "Ukraine: Russian strikes injure several in Kyiv, Odesa",
-        "summary": "俄军空袭乌克兰基辅和敖德萨，击中公寓楼与仓库，致多人受伤含儿童。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-russian-strikes-injure-several-in-kyiv-odesa/a-79299579?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-16T18:32:00Z"
+        "id": "b6355f7f9665bd7a585b",
+        "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+        "summary": "加拿大获欧盟准成员提议但无实质保证，分析称前景仍不确定。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-17T08:59:43Z"
       }
     ]
   }
