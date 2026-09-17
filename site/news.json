@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T00:30:10Z",
+  "generatedAt": "2026-09-17T07:37:35Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内焦点集中在美联储三年多来首次加息对全球市场与国内政策的传导，同时先进制造业、粮食稳产、运河建设等议题受关注。",
     "items": [
       {
-        "id": "e05f3d74156fa39147fd",
-        "title": "时隔3年多美联储加息25个基点",
-        "summary": "美联储时隔三年多重启加息25个基点，引发全球市场连锁反应。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686269018893831707/",
-        "publishedAt": "2026-09-17T00:30:10Z"
-      },
-      {
-        "id": "086df6bd99bee8e3cf78",
-        "title": "沃什：加息展现FOMC内部坚定一致，通胀太高太久，降通胀不会牺牲就业（附全文）",
-        "summary": "美联储主席沃什强调通胀过高过久，内部一致支持加息，不牺牲就业。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781921",
-        "publishedAt": "2026-09-17T00:30:10Z"
-      },
-      {
-        "id": "855b7b492862929c646c",
-        "title": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心",
-        "summary": "白宫抨击美联储加息决定，特朗普敦促降息至1%以下仍力挺沃什。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781922",
-        "publishedAt": "2026-09-17T00:30:10Z"
-      },
-      {
-        "id": "885c371ac45e97e901ff",
-        "title": "美股收盘：FED鹰派加息打压市场情绪 三大指数集体走低",
-        "summary": "美股因美联储鹰派加息集体走低，市场情绪受压。",
+        "id": "9ba4ad355579c442f041",
+        "title": "【早报】时隔3年多，美联储重启加息；美股、原油、黄金全线跳水；多家A股公司，披露回购进展",
+        "summary": "美联储时隔三年多重启加息，美股、原油、黄金全线跳水，多家A股公司披露回购进展。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2485595",
-        "publishedAt": "2026-09-17T00:30:10Z"
+        "url": "https://www.cls.cn/detail/2485626",
+        "publishedAt": "2026-09-17T07:37:35Z"
       },
       {
-        "id": "7f041c4b74052a9f73c0",
-        "title": "数说国民经济8月成绩单",
-        "summary": "8月国民经济成绩单发布，多项核心指标受到关注。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E8%E6%9C%88%E6%88%90%E7%BB%A9%E5%8D%95%23",
-        "publishedAt": "2026-09-17T00:30:10Z"
-      },
-      {
-        "id": "75f1ababe7e4d3d98763",
-        "title": "影像志｜八桂向海！平陆运河建成通航，十八组对比影像见证山河巨变",
-        "summary": "平陆运河建成通航，影像对比展现八桂向海的山河巨变。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34050207",
-        "publishedAt": "2026-09-17T00:30:10Z"
-      },
-      {
-        "id": "b2db32bfc3e33e49ec56",
-        "title": "字节跳动上半年营收1200亿美元直追Meta，但受AI投入拖累，利润降至200亿",
-        "summary": "字节跳动上半年营收1200亿美元直追Meta，AI投入拖累利润至200亿。",
+        "id": "ce205cec32ba8b48de6a",
+        "title": "打脸特朗普！美联储全票通过三年来首次加息，点阵图料年内还将加一次",
+        "summary": "美联储全票通过三年来首次加息，点阵图预示年内或再加息一次，与特朗普主张相悖。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781844",
-        "publishedAt": "2026-09-17T00:30:10Z"
+        "url": "https://wallstreetcn.com/articles/3781919",
+        "publishedAt": "2026-09-17T07:37:35Z"
+      },
+      {
+        "id": "103906eade5d3a3b1547",
+        "title": "习近平就发展先进制造业作出重要指示",
+        "summary": "习近平就发展先进制造业作出重要指示，为产业升级与制造强国建设指明方向。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2485906",
+        "publishedAt": "2026-09-17T07:37:35Z"
       },
       {
         "id": "e07c32ec9f66dd1d9d69",
         "title": "身家1050亿美元！张一鸣首次成为亚洲首富",
-        "summary": "张一鸣以身家1050亿美元首次成为亚洲首富。",
+        "summary": "张一鸣身家达1050亿美元，首次成为亚洲首富，凸显科技巨头财富集中趋势。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34082171",
-        "publishedAt": "2026-09-17T00:30:10Z"
+        "publishedAt": "2026-09-17T07:37:35Z"
+      },
+      {
+        "id": "bd4ddc48692995c14008",
+        "title": "高市内阁全体阁僚提交辞呈",
+        "summary": "日本高市内阁全体阁僚提交辞呈，日本政局出现重大变动，后续组阁动向受关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7686330044544896550/",
+        "publishedAt": "2026-09-17T07:37:35Z"
+      },
+      {
+        "id": "7753c63906d9fc226ccd",
+        "title": "各地多措并举护航粮食稳产增收",
+        "summary": "各地多措并举护航粮食稳产增收，保障国家粮食安全与秋收生产有序推进。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7686262825412496959/",
+        "publishedAt": "2026-09-17T07:37:35Z"
+      },
+      {
+        "id": "c52ddd77d025b4cc3942",
+        "title": "广西真正靠海了",
+        "summary": "平陆运河建设推进使广西真正靠海，西部陆海新通道格局进一步成形。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%9C%9F%E6%AD%A3%E9%9D%A0%E6%B5%B7%E4%BA%86",
+        "publishedAt": "2026-09-17T07:37:35Z"
+      },
+      {
+        "id": "f470f161c8d90e5bc6d0",
+        "title": "欧洲电信巨头高管反对禁用中国设备，中方回应",
+        "summary": "欧洲电信巨头高管反对禁用中国设备，中方就此作出回应，反对无理打压。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wU6FbDiXpW",
+        "publishedAt": "2026-09-17T07:37:35Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际方面，美联储加息与特朗普施压白宫形成对峙，美欧加贸易摩擦、加沙人道危机、也门冲突及俄乌战事持续牵动局势。",
     "items": [
       {
         "id": "20a6d89be5d079a4e059",
         "title": "US Federal Reserve raises interest rates for the first time since 2023",
-        "summary": "美联储自2023年以来首次加息25个基点至3.75%-4%，特朗普敦促降息。",
+        "summary": "美联储自2023年以来首次加息25个基点至3.75%-4%，特朗普随即敦促降息。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates",
         "publishedAt": "2026-09-16T13:01:39Z"
       },
       {
+        "id": "e2ad41e0580b5c800004",
+        "title": "Trump threatens to end trade with Mexico and Europe after rate hike",
+        "summary": "特朗普威胁在加息后终止与墨西哥和欧洲的贸易，施压美联储降息未果。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
+        "publishedAt": "2026-09-16T20:43:01Z"
+      },
+      {
         "id": "8cc0496c9123b0d0b4ee",
         "title": "US Congress passes Russia sanctions bill",
-        "summary": "美国国会通过制裁俄罗斯法案，或引发对中印伊的次级制裁。",
+        "summary": "美国国会通过制裁俄罗斯法案，或引发对中印伊的次级制裁，加剧地缘紧张。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-16T15:01:00Z"
       },
       {
-        "id": "367f6127cb62685ab00a",
-        "title": "Sweden's center-left bloc set to win election, STV reports",
-        "summary": "瑞典中左翼阵营以微弱优势赢得大选，组阁谈判艰难。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-16T14:56:00Z"
-      },
-      {
-        "id": "7c4fba9e2ef50b3356ca",
-        "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-        "summary": "以色列与摩洛哥同意互设使馆，升级双边外交关系。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-        "publishedAt": "2026-09-16T15:26:27Z"
-      },
-      {
-        "id": "3885046e357e9af714a4",
-        "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
-        "summary": "特朗普称美国接近结束对伊朗战争，并称与德黑兰有直接对话。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
-        "publishedAt": "2026-09-16T16:00:00Z"
-      },
-      {
         "id": "664178cd9adb1de9b6e8",
         "title": "At least 21 killed after Israeli-hit building in Gaza City collapses",
-        "summary": "加沙城一栋被以军击中建筑倒塌，至少21人死亡，含11名儿童。",
+        "summary": "加沙城一栋被以军击中建筑倒塌，至少21人死亡，其中含11名儿童。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
         "publishedAt": "2026-09-16T08:36:15Z"
       },
       {
+        "id": "2b6b9da63b98b0793537",
+        "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
+        "summary": "也门胡塞武装沿红海西岸推进，逾10万也门人流离失所，威胁全球能源供应。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people",
+        "publishedAt": "2026-09-16T21:45:50Z"
+      },
+      {
         "id": "0949dd339c65d1630570",
         "title": "Kosovo’s former president jailed for 25 years over war crimes",
-        "summary": "科索沃前总统塔奇被海牙法庭以战争罪判处25年监禁。",
+        "summary": "科索沃前总统塔奇被海牙法庭以战争罪判处25年监禁，引发巴尔干关注。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
         "publishedAt": "2026-09-16T05:09:41Z"
       },
       {
-        "id": "578cde82a4798cd1de75",
-        "title": "Belarus frees 25 political prisoners in return for US sanctions relief",
-        "summary": "白俄罗斯释放25名政治犯，以换取美国放松制裁。",
+        "id": "7c4fba9e2ef50b3356ca",
+        "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+        "summary": "以色列与摩洛哥同意互设使馆，升级双边外交关系，中东格局持续调整。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
-        "publishedAt": "2026-09-16T09:38:09Z"
+        "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
+        "publishedAt": "2026-09-16T15:26:27Z"
+      },
+      {
+        "id": "aadac8f2c9e9462746ac",
+        "title": "Ukraine: Russian strikes injure several in Kyiv, Odesa",
+        "summary": "俄军空袭乌克兰基辅和敖德萨，击中公寓楼与仓库，致多人受伤含儿童。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ukraine-russian-strikes-injure-several-in-kyiv-odesa/a-79299579?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-16T18:32:00Z"
       }
     ]
   }
