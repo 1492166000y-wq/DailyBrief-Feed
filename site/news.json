@@ -1,80 +1,136 @@
 {
   "version": 1,
-  "date": "2026-09-18",
-  "generatedAt": "2026-09-18T11:11:25Z",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-18T16:22:51Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面聚焦房地产存量时代新政与人民币汇率走强，外交就南海摩擦、中美高层沟通表态；产业端先进制造与医药政策、美联储加息后的市场反应受关注。",
+    "overview": "国内聚焦中东局势下中美互动、南海摩擦及宏观经济政策，同时产业与科技领域动态频繁。",
     "items": [
       {
-        "id": "38b07c03ed3cdbb42e14",
-        "title": "住建部释放“十五五”新信号：房地产进入存量时代 现房销售成大势所趋",
-        "summary": "住建部释放“十五五”信号：房地产进入存量时代，现房销售成趋势。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487165",
-        "publishedAt": "2026-09-18T11:11:25Z"
-      },
-      {
-        "id": "3d95dbc8ed569a5c4400",
-        "title": "人民币升破6.7关口！多重因素构成强支撑 业内预计全年人民币汇率走势或“先升后稳”",
-        "summary": "人民币升破6.7关口，多重因素支撑，业内预计全年“先升后稳”。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487106",
-        "publishedAt": "2026-09-18T11:11:25Z"
-      },
-      {
-        "id": "c1dfc40f4784237a16e5",
-        "title": "菲公务船故意冲撞中方海警船，在南沙群岛挑衅滋事，外交部回应",
-        "summary": "菲公务船在南沙故意冲撞中方海警船挑衅，外交部作出回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wWS4Oe4stt",
-        "publishedAt": "2026-09-18T11:11:25Z"
-      },
-      {
-        "id": "0f282c41635dd6a8de45",
-        "title": "王毅同美国国务卿鲁比奥通电话",
-        "summary": "王毅同美国国务卿鲁比奥通电话，就相关议题交换意见。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34091798",
-        "publishedAt": "2026-09-18T11:11:25Z"
-      },
-      {
-        "id": "651a41dd6d140bf32506",
+        "id": "382550f459ad3498dceb",
         "title": "中方领导人是否将访问美国？外交部回应",
-        "summary": "外交部就中方领导人是否将访问美国答记者问。",
+        "summary": "外交部回应中方领导人是否将访问美国，涉及中美高层互动安排。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wWMeBeRERp",
+        "publishedAt": "2026-09-18T16:22:51Z"
+      },
+      {
+        "id": "a6b5a1ba0f67c524d56d",
+        "title": "菲船加速冲撞中国海警船视频公布",
+        "summary": "菲船加速冲撞中国海警船视频公布，南海争端再度升温。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wWZi8EpaXL",
+        "publishedAt": "2026-09-18T16:22:51Z"
+      },
+      {
+        "id": "e6b7955ea35cab4e870c",
+        "title": "国常会：深入实施积极应对人口老龄化国家战略",
+        "summary": "国常会部署深入实施积极应对人口老龄化国家战略，释放政策信号。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487159",
-        "publishedAt": "2026-09-18T11:11:25Z"
+        "url": "https://www.cls.cn/detail/2487451",
+        "publishedAt": "2026-09-18T16:22:51Z"
+      },
+      {
+        "id": "cd56f3653e154351ccb9",
+        "title": "投票结果7-2！日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨",
+        "summary": "日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782052",
+        "publishedAt": "2026-09-18T16:22:51Z"
       },
       {
         "id": "a879e426c1981647ba4d",
         "title": "加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%，黄金涨2%",
-        "summary": "美联储加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%。",
+        "summary": "美联储加息落地叠加油价回落，美股债齐涨，芯片指数涨超3%，黄金涨2%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781940",
-        "publishedAt": "2026-09-18T11:11:25Z"
+        "publishedAt": "2026-09-18T16:22:51Z"
       },
       {
-        "id": "270e25a9e70afe7a9e62",
-        "title": "创新药复合增速剑指20%以上 十部门发文推动医药工业发展 AI有望成行业加速器",
-        "summary": "十部门发文推动医药工业发展，创新药复合增速目标20%以上。",
+        "id": "de29a84b3554f88ad0c3",
+        "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
+        "summary": "谷歌Gemini 4 Pro偷跑上线，称碾压Astra和Fable，AI竞争加剧。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782055",
+        "publishedAt": "2026-09-18T16:22:51Z"
+      },
+      {
+        "id": "e78a83fd121b3768d272",
+        "title": "上交所对沈鼓集团部分投资者采取暂停账户等自律监管措施",
+        "summary": "上交所对沈鼓集团部分投资者采取暂停账户等自律监管措施，严打违规交易。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2486879",
-        "publishedAt": "2026-09-18T11:11:25Z"
+        "url": "https://www.cls.cn/detail/2487518",
+        "publishedAt": "2026-09-18T16:22:51Z"
       },
       {
-        "id": "4be76264a70f4edd4703",
-        "title": "中国先进制造接连“上新”",
-        "summary": "中国先进制造接连“上新”，硬核突破引关注。",
+        "id": "88183cac292824a8838a",
+        "title": "业主买下1层4户圈占公共走廊",
+        "summary": "业主买下1层4户圈占公共走廊",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686613800497397803/",
-        "publishedAt": "2026-09-18T11:11:25Z"
+        "url": "https://www.toutiao.com/trending/7686858642015944730/",
+        "publishedAt": "2026-09-18T16:22:51Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面日本央行加息至31年高位、俄杜马选举与尼日利亚矿工羁押死亡事件持续发酵；美对伊战争罪指控、巴基斯坦清真寺遇袭及欧洲政治经济动态受关注。",
+    "overview": "全球关注中东冲突外溢、欧洲安全威胁及美日等主要经济体政策走向。",
     "items": [
+      {
+        "id": "11d3167b4fa7612bd08e",
+        "title": "Early voting begins in midterms as campaign shifts focus to cost of living and Iran war – US politics live",
+        "summary": "美国中期选举提前投票启动，竞选焦点转向生活成本与伊朗战争。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+        "publishedAt": "2026-09-18T07:51:19Z"
+      },
+      {
+        "id": "7357834f1ad2b54aee81",
+        "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
+        "summary": "美债对外国央行和政府吸引力下降，全球储备资产配置或生变。",
+        "source": "Hacker News",
+        "url": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
+        "publishedAt": "2026-09-18T07:50:29Z"
+      },
+      {
+        "id": "db6d3e54ab2d74aa4ccc",
+        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+        "summary": "马克龙称俄罗斯对欧洲混合攻击加剧，下令保护关键基础设施。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T07:14:35Z"
+      },
+      {
+        "id": "214f94db7889324449cc",
+        "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
+        "summary": "巴基斯坦清真寺遭载爆炸物车辆冲撞，至少17人死亡，含一名4岁儿童。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T07:08:12Z"
+      },
+      {
+        "id": "660a757cc4ee0ae9fe8b",
+        "title": "Dozens of suspected illegal miners die in Nigerian custody",
+        "summary": "尼日利亚37名涉非法采矿嫌疑人羁押中死亡，引发抗议与调查。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T07:47:28Z"
+      },
+      {
+        "id": "31651a0f3995c2561dfd",
+        "title": "Chinese ship rams Philippines gov’t vessel in South China Sea: Coastguard",
+        "summary": "菲律宾海岸警卫队指责中国船只在南海冲撞其政府船只，中方尚未回应。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/18/chinese-ship-rams-philippines-govt-vessel-in-south-china-sea-coastguard?traffic_source=rss",
+        "publishedAt": "2026-09-18T05:02:05Z"
+      },
+      {
+        "id": "97289840a1de5219b02f",
+        "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+        "summary": "欧盟燃料价格创纪录，多国呼吁对能源企业征收全欧暴利税。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+        "publishedAt": "2026-09-18T06:42:08Z"
+      },
       {
         "id": "134fa0432ba3f51bd262",
         "title": "Japan raises interest rate to new 31-year high to curb rising prices",
@@ -82,62 +138,6 @@
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-17T23:14:57Z"
-      },
-      {
-        "id": "77b8f277a3a58b18f894",
-        "title": "Russia votes for new parliament in controlled elections",
-        "summary": "俄罗斯举行2022年以来首次杜马选举，执政党预计胜出。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-17T22:39:00Z"
-      },
-      {
-        "id": "220f04606c22600a58c2",
-        "title": "Nigeria: Protests erupt over deaths of 37 miners in custody",
-        "summary": "尼日利亚37名涉非法采矿嫌疑人在羁押中死亡，引发抗议。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nigeria-protests-erupt-over-deaths-of-37-miners-in-custody/a-79316847?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-18T03:04:00Z"
-      },
-      {
-        "id": "5379d4310812a3244493",
-        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-        "summary": "联合国专家称有理由相信美国对伊朗空袭构成战争罪。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-17T12:34:30Z"
-      },
-      {
-        "id": "676edb71c408ce4f676b",
-        "title": "At least 16 killed in attack on mosque in Pakistan",
-        "summary": "巴基斯坦一清真寺遭汽车炸弹袭击，至少16人死亡。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T02:39:31Z"
-      },
-      {
-        "id": "de6bc5de23a48dd1c0f0",
-        "title": "Sweden’s PM resigns after centre-left bloc wins slim majority in election",
-        "summary": "瑞典中左翼阵营以微弱多数赢得选举，首相宣布辞职。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/17/sweden-elections-prime-minister-resigns",
-        "publishedAt": "2026-09-17T07:28:24Z"
-      },
-      {
-        "id": "81ae51d872b90ba78328",
-        "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
-        "summary": "美国会通过对俄石油买家制裁法案，或影响中印能源进口。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
-        "publishedAt": "2026-09-17T04:59:36Z"
-      },
-      {
-        "id": "4919c1b0a86a41100bf2",
-        "title": "EU announces plan to restrict social media access for under-15s",
-        "summary": "欧盟计划限制15岁以下儿童使用社交媒体，要求平台年龄验证。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-17T02:00:14Z"
       }
     ]
   }
