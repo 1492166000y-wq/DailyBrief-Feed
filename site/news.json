@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-19",
-  "generatedAt": "2026-09-18T16:22:51Z",
+  "generatedAt": "2026-09-18T20:53:25Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦中东局势下中美互动、南海摩擦及宏观经济政策，同时产业与科技领域动态频繁。",
+    "overview": "国内方面，发改委发布会聚焦经济形势与政策发力方向；广州终止住房限购、8月经济数据出炉；户外运动产业规划与工信部专项方案发布；存量房贷利率下调落地。国际方面，黎巴嫩真主党寻呼机爆炸事件持续发酵，多方表态；美国对华关税加码；标普道指创新高；黎以局势与美墨边境政策引发关注。",
     "items": [
+      {
+        "id": "1449407a77490918f3b6",
+        "title": "养生的风终于吹到了月饼行业",
+        "summary": "养生的风终于吹到了月饼行业，低糖低脂月饼成新趋势。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%85%BB%E7%94%9F%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E6%9C%88%E9%A5%BC%E8%A1%8C%E4%B8%9A",
+        "publishedAt": "2026-09-18T20:53:25Z"
+      },
+      {
+        "id": "ff60f13d0e0bec24561f",
+        "title": "华尔街见闻早餐FM-Radio | 2026年9月18日",
+        "summary": "华尔街见闻早餐FM-Radio | 2026年9月18日，汇总隔夜市场要闻。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782028",
+        "publishedAt": "2026-09-18T20:53:25Z"
+      },
+      {
+        "id": "5fa9592f11b083c9a467",
+        "title": "长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本",
+        "summary": "长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34037598",
+        "publishedAt": "2026-09-18T20:53:25Z"
+      },
+      {
+        "id": "e7a88f3d140d7f98d989",
+        "title": "从跌28%到涨297%！年内最便宜新股逆袭“大肉签”，这些次新股也热度激增",
+        "summary": "从跌28%到涨297%！年内最便宜新股逆袭“大肉签”，这些次新股也热度激增。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2487337",
+        "publishedAt": "2026-09-18T20:53:25Z"
+      },
       {
         "id": "382550f459ad3498dceb",
         "title": "中方领导人是否将访问美国？外交部回应",
-        "summary": "外交部回应中方领导人是否将访问美国，涉及中美高层互动安排。",
+        "summary": "中方领导人是否将访问美国？外交部回应。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8wWMeBeRERp",
-        "publishedAt": "2026-09-18T16:22:51Z"
+        "publishedAt": "2026-09-18T20:53:25Z"
       },
       {
-        "id": "a6b5a1ba0f67c524d56d",
-        "title": "菲船加速冲撞中国海警船视频公布",
-        "summary": "菲船加速冲撞中国海警船视频公布，南海争端再度升温。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wWZi8EpaXL",
-        "publishedAt": "2026-09-18T16:22:51Z"
-      },
-      {
-        "id": "e6b7955ea35cab4e870c",
-        "title": "国常会：深入实施积极应对人口老龄化国家战略",
-        "summary": "国常会部署深入实施积极应对人口老龄化国家战略，释放政策信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487451",
-        "publishedAt": "2026-09-18T16:22:51Z"
-      },
-      {
-        "id": "cd56f3653e154351ccb9",
-        "title": "投票结果7-2！日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨",
-        "summary": "日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782052",
-        "publishedAt": "2026-09-18T16:22:51Z"
+        "id": "d8fa62a1bdd1a1371353",
+        "title": "住建部：4楼及以上住宅都要加装电梯",
+        "summary": "住建部：4楼及以上住宅都要加装电梯，支持老旧房屋原拆原建。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7685740175528394815/",
+        "publishedAt": "2026-09-18T20:53:25Z"
       },
       {
         "id": "a879e426c1981647ba4d",
         "title": "加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%，黄金涨2%",
-        "summary": "美联储加息落地叠加油价回落，美股债齐涨，芯片指数涨超3%，黄金涨2%。",
+        "summary": "加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%，黄金涨2%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3781940",
-        "publishedAt": "2026-09-18T16:22:51Z"
+        "publishedAt": "2026-09-18T20:53:25Z"
       },
       {
-        "id": "de29a84b3554f88ad0c3",
-        "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
-        "summary": "谷歌Gemini 4 Pro偷跑上线，称碾压Astra和Fable，AI竞争加剧。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782055",
-        "publishedAt": "2026-09-18T16:22:51Z"
-      },
-      {
-        "id": "e78a83fd121b3768d272",
-        "title": "上交所对沈鼓集团部分投资者采取暂停账户等自律监管措施",
-        "summary": "上交所对沈鼓集团部分投资者采取暂停账户等自律监管措施，严打违规交易。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487518",
-        "publishedAt": "2026-09-18T16:22:51Z"
-      },
-      {
-        "id": "88183cac292824a8838a",
-        "title": "业主买下1层4户圈占公共走廊",
-        "summary": "业主买下1层4户圈占公共走廊",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686858642015944730/",
-        "publishedAt": "2026-09-18T16:22:51Z"
+        "id": "a6b5a1ba0f67c524d56d",
+        "title": "菲船加速冲撞中国海警船视频公布",
+        "summary": "菲船加速冲撞中国海警船视频公布，现场画面曝光。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wWZi8EpaXL",
+        "publishedAt": "2026-09-18T20:53:25Z"
       }
     ]
   },
   "global": {
-    "overview": "全球关注中东冲突外溢、欧洲安全威胁及美日等主要经济体政策走向。",
+    "overview": "国际方面，黎巴嫩真主党寻呼机爆炸事件持续发酵，多方表态；美国对华关税加码；标普道指创新高；黎以局势与美墨边境政策引发关注。",
     "items": [
       {
-        "id": "11d3167b4fa7612bd08e",
-        "title": "Early voting begins in midterms as campaign shifts focus to cost of living and Iran war – US politics live",
-        "summary": "美国中期选举提前投票启动，竞选焦点转向生活成本与伊朗战争。",
+        "id": "78e5792b89a0b99e43bb",
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "summary": "特朗普禁止CNN和Politico进入白宫，指其散布“假新闻”。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T12:47:49Z"
+      },
+      {
+        "id": "4d9d6215453b7d6f4a17",
+        "title": "Journalists and lawmakers attack Trump’s plan to bar several news outlets from the White House – live",
+        "summary": "记者和议员抨击特朗普禁止多家新闻机构进入白宫的计划，称其“独裁剧本”。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-        "publishedAt": "2026-09-18T07:51:19Z"
+        "publishedAt": "2026-09-18T12:31:12Z"
       },
       {
-        "id": "7357834f1ad2b54aee81",
-        "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
-        "summary": "美债对外国央行和政府吸引力下降，全球储备资产配置或生变。",
-        "source": "Hacker News",
-        "url": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
-        "publishedAt": "2026-09-18T07:50:29Z"
+        "id": "f20be7190f426aafcca1",
+        "title": "Trump bars CNN, MS NOW and Politico from White House",
+        "summary": "特朗普禁止CNN、MS NOW和Politico进入白宫，指其散布假新闻。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-18T12:26:00Z"
       },
       {
-        "id": "db6d3e54ab2d74aa4ccc",
-        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-        "summary": "马克龙称俄罗斯对欧洲混合攻击加剧，下令保护关键基础设施。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T07:14:35Z"
+        "id": "03f27a2f47dbdbf94e75",
+        "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+        "summary": "叙利亚逮捕五名前阿萨德时期军官，涉嫌对平民发动空袭。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+        "publishedAt": "2026-09-18T12:20:23Z"
       },
       {
-        "id": "214f94db7889324449cc",
-        "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
-        "summary": "巴基斯坦清真寺遭载爆炸物车辆冲撞，至少17人死亡，含一名4岁儿童。",
+        "id": "05a08c74f05545b3aaec",
+        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+        "summary": "巴基斯坦一清真寺遭载有爆炸物的车辆撞击，至少21人死亡。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T07:08:12Z"
+        "publishedAt": "2026-09-18T12:17:50Z"
       },
       {
-        "id": "660a757cc4ee0ae9fe8b",
-        "title": "Dozens of suspected illegal miners die in Nigerian custody",
-        "summary": "尼日利亚37名涉非法采矿嫌疑人羁押中死亡，引发抗议与调查。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T07:47:28Z"
+        "id": "9a4910175b3191e8d36e",
+        "title": "Korea raises data breach fines to 10% of revenue",
+        "summary": "韩国将数据泄露罚款上限提高至年收入的10%。",
+        "source": "Hacker News",
+        "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+        "publishedAt": "2026-09-18T12:02:54Z"
       },
       {
-        "id": "31651a0f3995c2561dfd",
-        "title": "Chinese ship rams Philippines gov’t vessel in South China Sea: Coastguard",
-        "summary": "菲律宾海岸警卫队指责中国船只在南海冲撞其政府船只，中方尚未回应。",
+        "id": "89ab9016eaa2fd30741a",
+        "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+        "summary": "俄罗斯将戛纳获奖导演安德烈·兹维亚金采夫列为“外国代理人”。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/18/chinese-ship-rams-philippines-govt-vessel-in-south-china-sea-coastguard?traffic_source=rss",
-        "publishedAt": "2026-09-18T05:02:05Z"
+        "url": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+        "publishedAt": "2026-09-18T11:39:16Z"
       },
       {
-        "id": "97289840a1de5219b02f",
-        "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-        "summary": "欧盟燃料价格创纪录，多国呼吁对能源企业征收全欧暴利税。",
+        "id": "41d66d8002fecf11ae10",
+        "title": "Trump bans CNN, MS Now and Politico from the White House",
+        "summary": "特朗普禁止CNN、MS Now和Politico进入白宫，打压媒体准入。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
-        "publishedAt": "2026-09-18T06:42:08Z"
-      },
-      {
-        "id": "134fa0432ba3f51bd262",
-        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-        "summary": "日本央行加息至31年新高，以抑制能源价格推动的通胀。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-17T23:14:57Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
+        "publishedAt": "2026-09-18T11:36:16Z"
       }
     ]
   }
