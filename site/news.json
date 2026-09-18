@@ -1,92 +1,92 @@
 {
   "version": 1,
   "date": "2026-09-18",
-  "generatedAt": "2026-09-17T21:20:21Z",
+  "generatedAt": "2026-09-18T00:15:59Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中在中美高层外交互动与美联储加息外溢影响，楼市与资本市场动态、假期休市安排及产业科技进展同样受到关注。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "b2f247d572936ae53002",
-        "title": "中美外长通电话",
-        "summary": "中美外长通电话，就两国关系及下阶段高层交往深入交换意见，释放稳定双边关系信号。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686476800251363371/",
-        "publishedAt": "2026-09-17T21:20:21Z"
+        "id": "3ccc408c4f672cfe6e78",
+        "title": "九一八事变爆发95周年",
+        "summary": "九一八事变爆发95周年，各地举行纪念活动，警示勿忘国耻、铭记历史。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9195%E5%91%A8%E5%B9%B4",
+        "publishedAt": "2026-09-18T00:15:59Z"
       },
       {
-        "id": "e9f1fe2b383ed7334ad4",
-        "title": "美联储加息并暗示更多紧缩，美国股债齐跌，AI板块相对抗跌，美元拉升，黄金日内跳水",
-        "summary": "美联储加息并暗示进一步紧缩，美股债双跌，AI板块相对抗跌，美元走强、黄金跳水。",
+        "id": "446c00c3b8cc38e70748",
+        "title": "王毅鲁比奥通电话",
+        "summary": "王毅同美国国务卿鲁比奥通电话，就中美关系及共同关心的问题交换意见。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wV9cvLmsFI",
+        "publishedAt": "2026-09-18T00:15:59Z"
+      },
+      {
+        "id": "a68695153a25d81f214d",
+        "title": "习近平就发展先进制造业作出重要指示强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑",
+        "summary": "习近平就发展先进制造业作出重要指示，强调持续做大做强先进制造业。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781871",
-        "publishedAt": "2026-09-17T21:20:21Z"
+        "url": "https://wallstreetcn.com/articles/3781967",
+        "publishedAt": "2026-09-18T00:15:59Z"
       },
       {
-        "id": "5048576f15bc4fd52f19",
-        "title": "沪深北交易所齐发公告，中秋节、国庆节休市安排公布",
-        "summary": "沪深北交易所齐发公告，公布中秋节、国庆节休市安排，明确长假期间交易时间。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2486299",
-        "publishedAt": "2026-09-17T21:20:21Z"
+        "id": "c5df5176791dcb886f96",
+        "title": "国安部披露AI抱团“劫持”网站",
+        "summary": "国安部披露AI“抱团”劫持网站新型攻击手法，提示人工智能安全风险。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7686310933831893554/",
+        "publishedAt": "2026-09-18T00:15:59Z"
+      },
+      {
+        "id": "29ca0e889bf8c4cb1201",
+        "title": "中方：奉劝美方不要挑拨离间、搬弄是非",
+        "summary": "中方奉劝美方不要挑拨离间、搬弄是非，回应其涉华不当言论。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wVjsNQLWXH",
+        "publishedAt": "2026-09-18T00:15:59Z"
+      },
+      {
+        "id": "af102dc1780e1cf364f5",
+        "title": "华为全联接大会：昇腾960超节点正式发布！新款AI芯片将提前9个月推出",
+        "summary": "华为全联接大会发布昇腾960超节点，新款AI芯片将提前9个月推出。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3781977",
+        "publishedAt": "2026-09-18T00:15:59Z"
       },
       {
         "id": "286ed2eea09f414e0692",
         "title": "楼市进入“二手房时代”",
-        "summary": "楼市进入“二手房时代”，存量房交易主导市场格局，反映供求关系与购房逻辑转变。",
+        "summary": "楼市进入“二手房时代”，多地二手房成交占比上升，市场结构持续变化。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E6%A5%BC%E5%B8%82%E8%BF%9B%E5%85%A5%E2%80%9C%E4%BA%8C%E6%89%8B%E6%88%BF%E6%97%B6%E4%BB%A3%E2%80%9D",
-        "publishedAt": "2026-09-17T21:20:21Z"
+        "publishedAt": "2026-09-18T00:15:59Z"
       },
       {
-        "id": "36ea1f26798803675fa4",
-        "title": "平陆运河激活西部“新动脉”",
-        "summary": "平陆运河建设激活西部新动脉，打通江海联通通道，带动沿线产业与区域经济格局重塑。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686477486456180270/",
-        "publishedAt": "2026-09-17T21:20:21Z"
-      },
-      {
-        "id": "9401b90f85ddd9224996",
-        "title": "供应严重短缺！韩国半导体零部件交货周期拉长 有设备商或要等40个月",
-        "summary": "韩国半导体零部件供应严重短缺，交货周期拉长，部分设备商等待时间或长达四十个月。",
+        "id": "5048576f15bc4fd52f19",
+        "title": "沪深北交易所齐发公告，中秋节、国庆节休市安排公布",
+        "summary": "沪深北交易所齐发公告，公布中秋节、国庆节休市安排。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2486061",
-        "publishedAt": "2026-09-17T21:20:21Z"
-      },
-      {
-        "id": "5c7653c6f884feef5cfa",
-        "title": "每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程",
-        "summary": "小米大模型训练直播，每小时成本超三万美元，展示国产大模型算力投入与研发进展。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34088356",
-        "publishedAt": "2026-09-17T21:20:21Z"
-      },
-      {
-        "id": "1bff736e73121cf53cdd",
-        "title": "股价重返500元！GPU龙头成交额创历史次高，高价股近期表现分化，这些获融资客加仓",
-        "summary": "GPU龙头股价重返500元，成交额创历史次高，融资客加仓，高价股表现出现分化。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2486268",
-        "publishedAt": "2026-09-17T21:20:21Z"
+        "url": "https://www.cls.cn/detail/2486299",
+        "publishedAt": "2026-09-18T00:15:59Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，联合国调查报告与美欧加贸易摩擦、俄乌冲突及欧洲政局变动构成主要看点，涉伊制裁与公共卫生事件亦值得关注。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "790ffb93f08010b292d9",
-        "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-        "summary": "联合国调查认定有理由相信美国对伊朗学校与体育设施空袭构成战争罪，伊方亦被指侵犯人权。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-        "publishedAt": "2026-09-17T05:22:35Z"
+        "id": "318000d56d6d5c6f7c2c",
+        "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+        "summary": "特朗普称将就伊朗问题作“重大决定”，霍尔木兹海峡油轮遇袭，局势紧张。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+        "publishedAt": "2026-09-17T16:00:00Z"
       },
       {
         "id": "de6bc5de23a48dd1c0f0",
         "title": "Sweden’s PM resigns after centre-left bloc wins slim majority in election",
-        "summary": "瑞典中左翼阵营以微弱多数赢得选举，首相克里斯特松宣布辞职，政局面临组阁变数。",
+        "summary": "瑞典中左翼阵营以微弱多数赢得选举，首相克里斯特松宣布辞职。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/17/sweden-elections-prime-minister-resigns",
         "publishedAt": "2026-09-17T07:28:24Z"
@@ -94,15 +94,23 @@
       {
         "id": "1469d62ebcab15655abf",
         "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
-        "summary": "特朗普威胁停止与欧盟贸易，回应欧盟给予加拿大准成员待遇的提议，跨大西洋关系趋紧。",
+        "summary": "特朗普威胁停止与欧盟贸易，回应欧盟给予加拿大准成员待遇提议。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
         "publishedAt": "2026-09-17T00:25:32Z"
       },
       {
+        "id": "790ffb93f08010b292d9",
+        "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+        "summary": "联合国调查认定有理由相信美国对伊朗学校与体育设施空袭构成战争罪。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+        "publishedAt": "2026-09-17T05:22:35Z"
+      },
+      {
         "id": "81ae51d872b90ba78328",
         "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
-        "summary": "美国会通过对俄石油买家制裁法案，或影响中国和印度能源进口，推高全球油市不确定性。",
+        "summary": "美国会通过对俄石油买家制裁法案，或影响中国和印度能源进口。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
         "publishedAt": "2026-09-17T04:59:36Z"
@@ -110,34 +118,26 @@
       {
         "id": "4919c1b0a86a41100bf2",
         "title": "EU announces plan to restrict social media access for under-15s",
-        "summary": "欧盟宣布计划限制15岁以下儿童使用社交媒体，要求平台进行年龄验证，引发隐私争议。",
+        "summary": "欧盟宣布计划限制15岁以下儿童使用社交媒体，要求平台进行年龄验证。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-17T02:00:14Z"
       },
       {
-        "id": "ba58ec3a7cdfa0f9f537",
-        "title": "Russia, China veto UN mandate to monitor Iran sanctions",
-        "summary": "俄罗斯与中国否决联合国延长伊朗制裁监督授权的决议，安理会相关监察机制就此终止。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
-        "publishedAt": "2026-09-17T13:01:41Z"
-      },
-      {
         "id": "3fefce3828fc9d67841b",
         "title": "The UK’s King Charles warns AI leaders of ‘existential dangers’",
-        "summary": "英国国王查尔斯警告人工智能存在“生存性危险”，呼吁以安全和以人为本方式推进发展。",
+        "summary": "英国国王查尔斯警告人工智能存在“生存性危险”，呼吁安全发展。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss",
         "publishedAt": "2026-09-17T09:29:54Z"
       },
       {
-        "id": "951a4fc563f873a5b2c2",
-        "title": "Third person dies from malaria in cluster near Germany’s Frankfurt Airport",
-        "summary": "德国法兰克福机场周边疟疾聚集疫情出现第三例死亡，与航空旅行相关的罕见传播引发关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/17/third-person-dies-from-malaria-in-cluster-near-germanys-frankfurt-airport?traffic_source=rss",
-        "publishedAt": "2026-09-17T11:04:53Z"
+        "id": "332b2327e29df6eb890e",
+        "title": "Australia news live: RBA governor paves way for rate hike; Labor to ‘look at’ following Canada in pulling closer to EU",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news po",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+        "publishedAt": "2026-09-17T16:03:48Z"
       }
     ]
   }
