@@ -1,79 +1,79 @@
 {
   "version": 1,
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-19T12:29:28Z",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-19T17:17:04Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内焦点集中于中美经贸磋商、欧盟施压中国限制混动汽车出口及商务部回应，同时涵盖存款利率上调、AI产业动态与亚运会开幕式等社会议题。",
+    "overview": "今日国内时政与财经焦点集中于中美经贸磋商、菲律宾南海挑衅、对俄制裁回应及资本市场动态。",
     "items": [
       {
-        "id": "0e528b84b879fe412c42",
-        "title": "媒体称欧盟希中国自愿限制混动汽车对欧出口，商务部：坚决反对",
-        "summary": "媒体称欧盟希望中国自愿限制混动汽车对欧出口，商务部表示坚决反对。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34098607",
-        "publishedAt": "2026-09-19T12:29:28Z"
+        "id": "7127f6e7a1191b9aece6",
+        "title": "商务部：何立峰将于9月19日—23日率团赴美国与美方举行经贸磋商",
+        "summary": "何立峰将于9月19日至23日率团赴美举行经贸磋商，中美高层经济对话重启。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782122",
+        "publishedAt": "2026-09-19T17:17:04Z"
       },
       {
-        "id": "11fe880e76e52dfa61cc",
-        "title": "何立峰将率团赴美举行经贸磋商",
-        "summary": "何立峰将率团赴美举行经贸磋商，商务部公布9月19日至23日行程。",
+        "id": "e332b607cfe50a3d4f15",
+        "title": "美对进口俄石油天然气第三国加征关税，中方回应",
+        "summary": "美对进口俄石油天然气第三国加征关税，中方回应称将维护自身正当权益。",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wXZr13nljE",
-        "publishedAt": "2026-09-19T12:29:28Z"
+        "url": "https://news.ifeng.com/c/8wYLqdtYVWJ",
+        "publishedAt": "2026-09-19T17:17:04Z"
+      },
+      {
+        "id": "187de3e125f038204b53",
+        "title": "菲船十分钟内两次挑衅我海警艇，现场视频还原真相",
+        "summary": "菲律宾船只十分钟内两次挑衅中国海警艇，现场视频还原真相。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34104002",
+        "publishedAt": "2026-09-19T17:17:04Z"
+      },
+      {
+        "id": "9d98111a48249ce1c848",
+        "title": "媒体：两三个月内彻底倒闭？西贝辟谣称目前全国门店均正常运营",
+        "summary": "西贝辟谣称两三个月内彻底倒闭传闻，表示全国门店均正常运营。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34104097",
+        "publishedAt": "2026-09-19T17:17:04Z"
+      },
+      {
+        "id": "d821df97d9374c1e63cf",
+        "title": "【早报】美国存储股尾盘爆拉；沈鼓集团部分投资者被暂停交易；多家A股上市公司被证监会立案",
+        "summary": "多家A股上市公司被证监会立案，沈鼓集团部分投资者被暂停交易。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2487701",
+        "publishedAt": "2026-09-19T17:17:04Z"
+      },
+      {
+        "id": "8048a4efe6aff26c1cdc",
+        "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
+        "summary": "特朗普称已与丹麦达成协议，美国获得对格陵兰岛的永久安全控制权。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2487690",
+        "publishedAt": "2026-09-19T17:17:04Z"
       },
       {
         "id": "31c4daf5313004b8551d",
         "title": "多家银行上调存款利率",
-        "summary": "多家银行上调存款利率，反映当前资金面与利率走势变化。",
+        "summary": "多家银行上调存款利率，释放稳储蓄、稳负债信号。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7686771402967368219/",
-        "publishedAt": "2026-09-19T12:29:28Z"
+        "publishedAt": "2026-09-19T17:17:04Z"
       },
       {
-        "id": "25e5ed531b29cb16984f",
-        "title": "一组数据看中国经济活力迸发",
-        "summary": "一组最新数据发布，显示中国经济活力持续迸发。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686131045146148907/",
-        "publishedAt": "2026-09-19T12:29:28Z"
-      },
-      {
-        "id": "6f642520f75c15aa7211",
-        "title": "十部门出台规划 更好保障百姓药箱",
-        "summary": "十部门出台规划，加强药品供应保障，更好守护百姓药箱。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8D%81%E9%83%A8%E9%97%A8%E5%87%BA%E5%8F%B0%E8%A7%84%E5%88%92+%E6%9B%B4%E5%A5%BD%E4%BF%9D%E9%9A%9C%E7%99%BE%E5%A7%93%E8%8D%AF%E7%AE%B1",
-        "publishedAt": "2026-09-19T12:29:28Z"
-      },
-      {
-        "id": "d58b89e6a2205316e0cf",
-        "title": "“史上最大IPO”时间表又生变 Anthropic年化收入预计将突破1000亿美元",
-        "summary": "“史上最大IPO”时间表生变，Anthropic年化收入预计突破千亿美元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487710",
-        "publishedAt": "2026-09-19T12:29:28Z"
-      },
-      {
-        "id": "7f58856b7a9a1eec7117",
-        "title": "美媒：美军误信AI假情报，险些对中国船只采取行动",
-        "summary": "美媒称美军误信AI生成的假情报，险些对中国船只采取行动。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wXd7W5XcGg",
-        "publishedAt": "2026-09-19T12:29:28Z"
-      },
-      {
-        "id": "dad31bff4e9e85ef5606",
-        "title": "亚运会开幕式",
-        "summary": "亚运会开幕式举行，中国体育代表团入场，相关话题引发广泛关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686461399073243174/",
-        "publishedAt": "2026-09-19T12:29:28Z"
+        "id": "3098d9d9fdefc64a2a80",
+        "title": "前8月全国铁路发送旅客超33亿人次",
+        "summary": "前8月全国铁路发送旅客超33亿人次，客运量创历史同期新高。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D8%E6%9C%88%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8F%91%E9%80%81%E6%97%85%E5%AE%A2%E8%B6%8533%E4%BA%BF%E4%BA%BA%E6%AC%A1%23",
+        "publishedAt": "2026-09-19T17:17:04Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美丹就格陵兰安全达成协议、特朗普签署对俄制裁法案、俄罗斯杜马选举启动，以及美国社会枪击与媒体禁令等议题受到关注。",
+    "overview": "国际要闻以美丹格陵兰协议、特朗普媒体禁令、俄罗斯杜马选举和中东局势为主。",
     "items": [
       {
         "id": "43fb24a5ba6fc0c358ee",
@@ -82,6 +82,14 @@
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-19T03:36:55Z"
+      },
+      {
+        "id": "78e5792b89a0b99e43bb",
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "summary": "特朗普宣布禁止CNN和Politico等媒体进入白宫，称其报道假新闻。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T21:36:36Z"
       },
       {
         "id": "277e25d4f41aae5006d8",
@@ -100,22 +108,6 @@
         "publishedAt": "2026-09-18T15:04:57Z"
       },
       {
-        "id": "104a4bb0d942d63a96d2",
-        "title": "Google's Gemini AI hacked three companies in security test",
-        "summary": "谷歌Gemini AI在安全测试中入侵三家公司，系首次自主突破事件。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T20:27:11Z"
-      },
-      {
-        "id": "b28b813706ea93f12dd2",
-        "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-        "summary": "巴菲特卸任伯克希尔哈撒韦董事长，其子霍华德将接任，标志时代结束。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
-        "publishedAt": "2026-09-18T10:32:24Z"
-      },
-      {
         "id": "5dcac722fbfa2e2258dc",
         "title": "Pakistan: Suicide bombing death toll rises to at least 31",
         "summary": "巴基斯坦警察总部遭自杀式爆炸袭击，死亡人数升至至少31人。",
@@ -132,12 +124,20 @@
         "publishedAt": "2026-09-19T02:51:21Z"
       },
       {
-        "id": "78e5792b89a0b99e43bb",
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "summary": "特朗普宣布禁止CNN和Politico等媒体进入白宫，称其报道假新闻。",
+        "id": "b28b813706ea93f12dd2",
+        "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+        "summary": "巴菲特卸任伯克希尔哈撒韦董事长，其子霍华德将接任，标志时代结束。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
+        "publishedAt": "2026-09-18T10:32:24Z"
+      },
+      {
+        "id": "104a4bb0d942d63a96d2",
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "summary": "谷歌Gemini AI在安全测试中入侵三家公司系统，通过互联网猜测凭证。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T21:36:36Z"
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-19T05:39:32Z"
       }
     ]
   }
