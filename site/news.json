@@ -1,95 +1,95 @@
 {
   "version": 1,
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T07:19:40Z",
+  "generatedAt": "2026-09-19T12:29:28Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，中美经贸磋商与高层交往持续推进，特朗普称将和中方达成许多协议；财经领域，沪指重返3900点、半导体股爆发，上交所对沈鼓集团部分投资者采取监管措施；产业端，多家上市公司被证监会立案，好房子建设政策受关注。",
+    "overview": "本期国内焦点集中于中美经贸磋商、欧盟施压中国限制混动汽车出口及商务部回应，同时涵盖存款利率上调、AI产业动态与亚运会开幕式等社会议题。",
     "items": [
-      {
-        "id": "11fe880e76e52dfa61cc",
-        "title": "何立峰将率团赴美举行经贸磋商",
-        "summary": "何立峰将率团赴美举行经贸磋商，中美经贸高层互动持续推进。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wXZr13nljE",
-        "publishedAt": "2026-09-19T07:19:40Z"
-      },
-      {
-        "id": "15972fd207ac35bbdfa3",
-        "title": "特朗普：将和中方达成许多协议",
-        "summary": "特朗普称将和中方达成许多协议，中美经贸关系预期受关注。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wXTDHLqvEw",
-        "publishedAt": "2026-09-19T07:19:40Z"
-      },
-      {
-        "id": "ce0e6227687ce3eb91e3",
-        "title": "沪指重返3900点，创业板、科创50均涨超2%，半导体爆发，次新股集体拉升，港股联想创历史新高，MINIMAX暴涨18%",
-        "summary": "沪指重返3900点，创业板、科创50涨超2%，半导体板块爆发。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782045",
-        "publishedAt": "2026-09-19T07:19:40Z"
-      },
-      {
-        "id": "d821df97d9374c1e63cf",
-        "title": "【早报】美国存储股尾盘爆拉；沈鼓集团部分投资者被暂停交易；多家A股上市公司被证监会立案",
-        "summary": "早报：美国存储股尾盘爆拉，沈鼓集团部分投资者被暂停交易，多家A股公司被立案。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487701",
-        "publishedAt": "2026-09-19T07:19:40Z"
-      },
-      {
-        "id": "e78a83fd121b3768d272",
-        "title": "上交所对沈鼓集团部分投资者采取暂停账户等自律监管措施",
-        "summary": "上交所对沈鼓集团部分投资者采取暂停账户等自律监管措施。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487518",
-        "publishedAt": "2026-09-19T07:19:40Z"
-      },
-      {
-        "id": "9855cc292a129dce62eb",
-        "title": "十五五时期推进好房子建设",
-        "summary": "十五五时期推进好房子建设，住房品质议题持续升温。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%97%B6%E6%9C%9F%E6%8E%A8%E8%BF%9B%E5%A5%BD%E6%88%BF%E5%AD%90%E5%BB%BA%E8%AE%BE%23",
-        "publishedAt": "2026-09-19T07:19:40Z"
-      },
       {
         "id": "0e528b84b879fe412c42",
         "title": "媒体称欧盟希中国自愿限制混动汽车对欧出口，商务部：坚决反对",
-        "summary": "欧盟希中国自愿限制混动汽车对欧出口，商务部表示坚决反对。",
+        "summary": "媒体称欧盟希望中国自愿限制混动汽车对欧出口，商务部表示坚决反对。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34098607",
-        "publishedAt": "2026-09-19T07:19:40Z"
+        "publishedAt": "2026-09-19T12:29:28Z"
       },
       {
-        "id": "6c2726cc86b0e9eef621",
-        "title": "报道称Anthropic IPO延期至11月，华尔街审视日益严苛：从\"稳赚不赔\"到\"不再确定\"",
-        "summary": "报道称Anthropic IPO延期至11月，华尔街对其预期趋于审慎。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782109",
-        "publishedAt": "2026-09-19T07:19:40Z"
+        "id": "11fe880e76e52dfa61cc",
+        "title": "何立峰将率团赴美举行经贸磋商",
+        "summary": "何立峰将率团赴美举行经贸磋商，商务部公布9月19日至23日行程。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wXZr13nljE",
+        "publishedAt": "2026-09-19T12:29:28Z"
+      },
+      {
+        "id": "31c4daf5313004b8551d",
+        "title": "多家银行上调存款利率",
+        "summary": "多家银行上调存款利率，反映当前资金面与利率走势变化。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7686771402967368219/",
+        "publishedAt": "2026-09-19T12:29:28Z"
+      },
+      {
+        "id": "25e5ed531b29cb16984f",
+        "title": "一组数据看中国经济活力迸发",
+        "summary": "一组最新数据发布，显示中国经济活力持续迸发。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7686131045146148907/",
+        "publishedAt": "2026-09-19T12:29:28Z"
+      },
+      {
+        "id": "6f642520f75c15aa7211",
+        "title": "十部门出台规划 更好保障百姓药箱",
+        "summary": "十部门出台规划，加强药品供应保障，更好守护百姓药箱。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%8D%81%E9%83%A8%E9%97%A8%E5%87%BA%E5%8F%B0%E8%A7%84%E5%88%92+%E6%9B%B4%E5%A5%BD%E4%BF%9D%E9%9A%9C%E7%99%BE%E5%A7%93%E8%8D%AF%E7%AE%B1",
+        "publishedAt": "2026-09-19T12:29:28Z"
+      },
+      {
+        "id": "d58b89e6a2205316e0cf",
+        "title": "“史上最大IPO”时间表又生变 Anthropic年化收入预计将突破1000亿美元",
+        "summary": "“史上最大IPO”时间表生变，Anthropic年化收入预计突破千亿美元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2487710",
+        "publishedAt": "2026-09-19T12:29:28Z"
+      },
+      {
+        "id": "7f58856b7a9a1eec7117",
+        "title": "美媒：美军误信AI假情报，险些对中国船只采取行动",
+        "summary": "美媒称美军误信AI生成的假情报，险些对中国船只采取行动。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8wXd7W5XcGg",
+        "publishedAt": "2026-09-19T12:29:28Z"
+      },
+      {
+        "id": "dad31bff4e9e85ef5606",
+        "title": "亚运会开幕式",
+        "summary": "亚运会开幕式举行，中国体育代表团入场，相关话题引发广泛关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7686461399073243174/",
+        "publishedAt": "2026-09-19T12:29:28Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，特朗普宣布与丹麦就格陵兰安全达成协议并签署对俄制裁法案；俄罗斯举行国家杜马选举，投票首次覆盖其吞并的乌克兰地区；AI安全引发关注，谷歌Gemini在测试中入侵三家公司，OpenAI预计到2030年烧钱近2800亿美元。",
+    "overview": "国际方面，美丹就格陵兰安全达成协议、特朗普签署对俄制裁法案、俄罗斯杜马选举启动，以及美国社会枪击与媒体禁令等议题受到关注。",
     "items": [
-      {
-        "id": "277e25d4f41aae5006d8",
-        "title": "Trump signs sweeping Russia sanctions over Ukraine war",
-        "summary": "特朗普签署对俄全面制裁法案，允许对俄石油主要买家加征最高100%关税。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
-        "publishedAt": "2026-09-18T16:46:04Z"
-      },
       {
         "id": "43fb24a5ba6fc0c358ee",
         "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "summary": "美丹就格陵兰达成安全协议，特朗普称美获永久安全控制权，丹麦强调主权。",
+        "summary": "美国与丹麦就格陵兰岛达成协议，特朗普称美获永久安全控制权。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T14:58:55Z"
+        "publishedAt": "2026-09-19T03:36:55Z"
+      },
+      {
+        "id": "277e25d4f41aae5006d8",
+        "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+        "summary": "特朗普签署对俄全面制裁法案，允许对俄石油买家加征最高100%关税。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+        "publishedAt": "2026-09-18T16:46:04Z"
       },
       {
         "id": "0f0a30a328f2afdf9039",
@@ -110,7 +110,7 @@
       {
         "id": "b28b813706ea93f12dd2",
         "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-        "summary": "巴菲特卸任伯克希尔哈撒韦董事长，其子霍华德将接任，标志一个时代结束。",
+        "summary": "巴菲特卸任伯克希尔哈撒韦董事长，其子霍华德将接任，标志时代结束。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
         "publishedAt": "2026-09-18T10:32:24Z"
@@ -118,26 +118,26 @@
       {
         "id": "5dcac722fbfa2e2258dc",
         "title": "Pakistan: Suicide bombing death toll rises to at least 31",
-        "summary": "巴基斯坦警察总部遭自杀式爆炸袭击，死亡人数升至至少31人，百余人受伤。",
+        "summary": "巴基斯坦警察总部遭自杀式爆炸袭击，死亡人数升至至少31人。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-18T22:31:00Z"
       },
       {
-        "id": "d8e6772d6a822fea5e42",
-        "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
-        "summary": "尼泊尔洪水引发跨境预警缺失担忧，喜马拉雅灾害预警机制受质疑。",
+        "id": "3b52d9a15061327e4555",
+        "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+        "summary": "俄罗斯夜间袭击乌克兰，造成八人死亡，并攻击黑海两艘船只。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
-        "publishedAt": "2026-09-18T20:25:42Z"
+        "url": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss",
+        "publishedAt": "2026-09-19T02:51:21Z"
       },
       {
-        "id": "5f77c2c935751900cf7b",
-        "title": "Greenish and pleasant: long-awaited rain returns to England and Wales",
-        "summary": "Much of the UK is still in drought after its hottest summer on record, but grass",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/19/rain-green-grass-returns-england-wales-uk-weather",
-        "publishedAt": "2026-09-18T23:00:41Z"
+        "id": "78e5792b89a0b99e43bb",
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "summary": "特朗普宣布禁止CNN和Politico等媒体进入白宫，称其报道假新闻。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T21:36:36Z"
       }
     ]
   }
