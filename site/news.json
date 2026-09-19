@@ -1,42 +1,42 @@
 {
   "version": 1,
   "date": "2026-09-20",
-  "generatedAt": "2026-09-19T17:17:04Z",
+  "generatedAt": "2026-09-19T20:38:18Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内时政与财经焦点集中于中美经贸磋商、菲律宾南海挑衅、对俄制裁回应及资本市场动态。",
+    "overview": "今日关注：中美经贸磋商、美方涉俄制裁引发中方回应、菲律宾在南海挑衅我海警、楼市与股市动态、亚运会开幕及多项产业科技新闻。",
     "items": [
       {
         "id": "7127f6e7a1191b9aece6",
         "title": "商务部：何立峰将于9月19日—23日率团赴美国与美方举行经贸磋商",
-        "summary": "何立峰将于9月19日至23日率团赴美举行经贸磋商，中美高层经济对话重启。",
+        "summary": "商务部宣布何立峰9月19日至23日率团赴美举行经贸磋商，中美高层经贸对话重启。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782122",
-        "publishedAt": "2026-09-19T17:17:04Z"
+        "publishedAt": "2026-09-19T20:38:18Z"
       },
       {
         "id": "e332b607cfe50a3d4f15",
         "title": "美对进口俄石油天然气第三国加征关税，中方回应",
-        "summary": "美对进口俄石油天然气第三国加征关税，中方回应称将维护自身正当权益。",
+        "summary": "美对进口俄石油天然气的第三国加征关税，中方回应将采取必要措施维护权益。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8wYLqdtYVWJ",
-        "publishedAt": "2026-09-19T17:17:04Z"
+        "publishedAt": "2026-09-19T20:38:18Z"
+      },
+      {
+        "id": "cfbc01474503d759b29b",
+        "title": "菲船只蓄意“碰瓷”挑衅我海警艇，有何图谋？",
+        "summary": "菲船只蓄意“碰瓷”挑衅我海警艇，中方指其图谋制造事端、炒作南海议题。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wYWQD93A8Y",
+        "publishedAt": "2026-09-19T20:38:18Z"
       },
       {
         "id": "187de3e125f038204b53",
         "title": "菲船十分钟内两次挑衅我海警艇，现场视频还原真相",
-        "summary": "菲律宾船只十分钟内两次挑衅中国海警艇，现场视频还原真相。",
+        "summary": "菲船十分钟内两次挑衅我海警艇，现场视频还原真相，中方依法驱离。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34104002",
-        "publishedAt": "2026-09-19T17:17:04Z"
-      },
-      {
-        "id": "9d98111a48249ce1c848",
-        "title": "媒体：两三个月内彻底倒闭？西贝辟谣称目前全国门店均正常运营",
-        "summary": "西贝辟谣称两三个月内彻底倒闭传闻，表示全国门店均正常运营。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34104097",
-        "publishedAt": "2026-09-19T17:17:04Z"
+        "publishedAt": "2026-09-19T20:38:18Z"
       },
       {
         "id": "d821df97d9374c1e63cf",
@@ -44,7 +44,7 @@
         "summary": "多家A股上市公司被证监会立案，沈鼓集团部分投资者被暂停交易。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2487701",
-        "publishedAt": "2026-09-19T17:17:04Z"
+        "publishedAt": "2026-09-19T20:38:18Z"
       },
       {
         "id": "8048a4efe6aff26c1cdc",
@@ -52,44 +52,52 @@
         "summary": "特朗普称已与丹麦达成协议，美国获得对格陵兰岛的永久安全控制权。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2487690",
-        "publishedAt": "2026-09-19T17:17:04Z"
+        "publishedAt": "2026-09-19T20:38:18Z"
       },
       {
         "id": "31c4daf5313004b8551d",
         "title": "多家银行上调存款利率",
-        "summary": "多家银行上调存款利率，释放稳储蓄、稳负债信号。",
+        "summary": "多家银行上调存款利率，存款市场竞争加剧，反映揽储压力上升。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7686771402967368219/",
-        "publishedAt": "2026-09-19T17:17:04Z"
+        "publishedAt": "2026-09-19T20:38:18Z"
       },
       {
-        "id": "3098d9d9fdefc64a2a80",
-        "title": "前8月全国铁路发送旅客超33亿人次",
-        "summary": "前8月全国铁路发送旅客超33亿人次，客运量创历史同期新高。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D8%E6%9C%88%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8F%91%E9%80%81%E6%97%85%E5%AE%A2%E8%B6%8533%E4%BA%BF%E4%BA%BA%E6%AC%A1%23",
-        "publishedAt": "2026-09-19T17:17:04Z"
+        "id": "56d0107c9081e7529187",
+        "title": "2026年诺贝尔奖颁奖时间公布，奖金上涨9%",
+        "summary": "2026年诺贝尔奖颁奖时间公布，奖金上涨9%，引发学界关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wYTbrfrHLx",
+        "publishedAt": "2026-09-19T20:38:18Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻以美丹格陵兰协议、特朗普媒体禁令、俄罗斯杜马选举和中东局势为主。",
+    "overview": "国际焦点：美丹格陵兰安全协议、特朗普对媒体与AI的新动作、胡塞武装袭击沙特、伊朗与美谈判动向、俄罗斯制裁与选举、欧洲热浪与极右翼抗议。",
     "items": [
       {
-        "id": "43fb24a5ba6fc0c358ee",
-        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "summary": "美国与丹麦就格陵兰岛达成协议，特朗普称美获永久安全控制权。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-19T03:36:55Z"
+        "id": "0c8ead2fe417defc24f1",
+        "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+        "summary": "丹麦称与美国达成的格陵兰协议具约束力且不损害主权，特朗普称美获永久安全控制权。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+        "publishedAt": "2026-09-19T12:03:23Z"
       },
       {
-        "id": "78e5792b89a0b99e43bb",
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "summary": "特朗普宣布禁止CNN和Politico等媒体进入白宫，称其报道假新闻。",
+        "id": "ccc34f905d4de9872a9f",
+        "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
+        "summary": "特朗普宣布设立“AI沙皇”和“AI Force”监管人工智能技术，未透露具体细节。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+        "publishedAt": "2026-09-19T11:57:17Z"
+      },
+      {
+        "id": "b6d964646380be87b5ad",
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "summary": "特朗普禁止CNN、MS NOW和Politico等媒体进入白宫，记者证被没收，引发新闻自由争议。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T21:36:36Z"
+        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-19T11:13:49Z"
       },
       {
         "id": "277e25d4f41aae5006d8",
@@ -100,44 +108,36 @@
         "publishedAt": "2026-09-18T16:46:04Z"
       },
       {
-        "id": "0f0a30a328f2afdf9039",
-        "title": "Russians head to the polls to choose lawmakers for their parliament",
-        "summary": "俄罗斯举行国家杜马选举，投票首次覆盖其吞并的乌克兰地区。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/18/nx-s1-5973249/russians-head-to-the-polls-to-choose-lawmakers-for-their-parliament",
-        "publishedAt": "2026-09-18T15:04:57Z"
-      },
-      {
-        "id": "5dcac722fbfa2e2258dc",
-        "title": "Pakistan: Suicide bombing death toll rises to at least 31",
-        "summary": "巴基斯坦警察总部遭自杀式爆炸袭击，死亡人数升至至少31人。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-18T22:31:00Z"
-      },
-      {
-        "id": "3b52d9a15061327e4555",
-        "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
-        "summary": "俄罗斯夜间袭击乌克兰，造成八人死亡，并攻击黑海两艘船只。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss",
-        "publishedAt": "2026-09-19T02:51:21Z"
-      },
-      {
-        "id": "b28b813706ea93f12dd2",
-        "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-        "summary": "巴菲特卸任伯克希尔哈撒韦董事长，其子霍华德将接任，标志时代结束。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
-        "publishedAt": "2026-09-18T10:32:24Z"
-      },
-      {
-        "id": "104a4bb0d942d63a96d2",
-        "title": "Google's Gemini AI hacked three companies in security test",
-        "summary": "谷歌Gemini AI在安全测试中入侵三家公司系统，通过互联网猜测凭证。",
+        "id": "ed2355c302ebf0b4e994",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "summary": "胡塞武装称以弹道导弹袭击沙特首都利雅得，机场燃料库起火致航班延误。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-19T05:39:32Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-19T12:16:07Z"
+      },
+      {
+        "id": "46bc4ced6a59ce55c8d5",
+        "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+        "summary": "伊朗称已通过卡塔尔向美方转达重启谈判、结束战争的条件，等待特朗普回应。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
+        "publishedAt": "2026-09-19T10:32:30Z"
+      },
+      {
+        "id": "fe2c0f1982df2a275f93",
+        "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+        "summary": "俄罗斯议会选举第二天报告遭“强大”网络攻击，系俄入侵乌克兰后首次大选。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
+        "publishedAt": "2026-09-19T07:18:00Z"
+      },
+      {
+        "id": "11cc5679e4a05a3f70f0",
+        "title": "Summer of 2026 broke records in Europe, and caused deaths",
+        "summary": "2026年欧洲夏季创纪录高温，德国仅因热浪死亡人数就超过1.6万。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/summer-of-2026-broke-records-in-europe-and-caused-deaths/a-79339630?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-19T11:47:00Z"
       }
     ]
   }
