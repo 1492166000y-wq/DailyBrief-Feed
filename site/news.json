@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-19",
-  "generatedAt": "2026-09-18T20:53:25Z",
+  "generatedAt": "2026-09-19T00:19:38Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，发改委发布会聚焦经济形势与政策发力方向；广州终止住房限购、8月经济数据出炉；户外运动产业规划与工信部专项方案发布；存量房贷利率下调落地。国际方面，黎巴嫩真主党寻呼机爆炸事件持续发酵，多方表态；美国对华关税加码；标普道指创新高；黎以局势与美墨边境政策引发关注。",
+    "overview": "国内要闻聚焦日本央行激进加息与日元贬值、中菲南海摩擦、国常会应对人口老龄化、房地产存量时代转型及证监会立案等议题。",
     "items": [
       {
-        "id": "1449407a77490918f3b6",
-        "title": "养生的风终于吹到了月饼行业",
-        "summary": "养生的风终于吹到了月饼行业，低糖低脂月饼成新趋势。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%85%BB%E7%94%9F%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E6%9C%88%E9%A5%BC%E8%A1%8C%E4%B8%9A",
-        "publishedAt": "2026-09-18T20:53:25Z"
-      },
-      {
-        "id": "ff60f13d0e0bec24561f",
-        "title": "华尔街见闻早餐FM-Radio | 2026年9月18日",
-        "summary": "华尔街见闻早餐FM-Radio | 2026年9月18日，汇总隔夜市场要闻。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782028",
-        "publishedAt": "2026-09-18T20:53:25Z"
-      },
-      {
-        "id": "5fa9592f11b083c9a467",
-        "title": "长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本",
-        "summary": "长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34037598",
-        "publishedAt": "2026-09-18T20:53:25Z"
-      },
-      {
-        "id": "e7a88f3d140d7f98d989",
-        "title": "从跌28%到涨297%！年内最便宜新股逆袭“大肉签”，这些次新股也热度激增",
-        "summary": "从跌28%到涨297%！年内最便宜新股逆袭“大肉签”，这些次新股也热度激增。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487337",
-        "publishedAt": "2026-09-18T20:53:25Z"
-      },
-      {
-        "id": "382550f459ad3498dceb",
-        "title": "中方领导人是否将访问美国？外交部回应",
-        "summary": "中方领导人是否将访问美国？外交部回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wWMeBeRERp",
-        "publishedAt": "2026-09-18T20:53:25Z"
-      },
-      {
-        "id": "d8fa62a1bdd1a1371353",
-        "title": "住建部：4楼及以上住宅都要加装电梯",
-        "summary": "住建部：4楼及以上住宅都要加装电梯，支持老旧房屋原拆原建。",
+        "id": "3ec997e5ce9703fdf351",
+        "title": "毛东东访朝在毛岸英烈士铜像前祭酒",
+        "summary": "毛东东随团访朝，在毛岸英烈士铜像前祭酒，体现中朝传统友谊延续。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7685740175528394815/",
-        "publishedAt": "2026-09-18T20:53:25Z"
+        "url": "https://www.toutiao.com/trending/7686657126189809702/",
+        "publishedAt": "2026-09-19T00:19:38Z"
       },
       {
-        "id": "a879e426c1981647ba4d",
-        "title": "加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%，黄金涨2%",
-        "summary": "加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%，黄金涨2%。",
+        "id": "cd56f3653e154351ccb9",
+        "title": "投票结果7-2！日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨",
+        "summary": "日本央行以7比2投票结果，以1990年以来最快速度升息，日元跌破157，日经225急涨。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3781940",
-        "publishedAt": "2026-09-18T20:53:25Z"
+        "url": "https://wallstreetcn.com/articles/3782052",
+        "publishedAt": "2026-09-19T00:19:38Z"
+      },
+      {
+        "id": "0be10d4069c74ef308fd",
+        "title": "特朗普：已达成协议，获得格陵兰岛永久安全控制权",
+        "summary": "特朗普宣布已与丹麦达成协议，美国获得格陵兰岛永久安全控制权，引发多方关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wXHwFjsRIx",
+        "publishedAt": "2026-09-19T00:19:38Z"
       },
       {
         "id": "a6b5a1ba0f67c524d56d",
         "title": "菲船加速冲撞中国海警船视频公布",
-        "summary": "菲船加速冲撞中国海警船视频公布，现场画面曝光。",
+        "summary": "菲船加速冲撞中国海警船视频公布，中方就菲方挑衅行为提出严正交涉。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8wWZi8EpaXL",
-        "publishedAt": "2026-09-18T20:53:25Z"
+        "publishedAt": "2026-09-19T00:19:38Z"
+      },
+      {
+        "id": "e6b7955ea35cab4e870c",
+        "title": "国常会：深入实施积极应对人口老龄化国家战略",
+        "summary": "国常会部署深入实施积极应对人口老龄化国家战略，完善养老服务体系。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2487451",
+        "publishedAt": "2026-09-19T00:19:38Z"
+      },
+      {
+        "id": "748ca271221bb146cbd3",
+        "title": "住房城乡建设部：我国房地产进入存量时代，现房销售是大势所趋",
+        "summary": "住房城乡建设部表示我国房地产进入存量时代，现房销售是大势所趋。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782050",
+        "publishedAt": "2026-09-19T00:19:38Z"
+      },
+      {
+        "id": "244933f1c5bc987bff52",
+        "title": "涉嫌信息披露违法违规，3家A股公司被证监会立案",
+        "summary": "涉嫌信息披露违法违规，3家A股公司被证监会立案，监管持续从严。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2487423",
+        "publishedAt": "2026-09-19T00:19:38Z"
+      },
+      {
+        "id": "0e528b84b879fe412c42",
+        "title": "媒体称欧盟希中国自愿限制混动汽车对欧出口，商务部：坚决反对",
+        "summary": "媒体称欧盟希中国自愿限制混动汽车对欧出口，商务部表示坚决反对。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34098607",
+        "publishedAt": "2026-09-19T00:19:38Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，黎巴嫩真主党寻呼机爆炸事件持续发酵，多方表态；美国对华关税加码；标普道指创新高；黎以局势与美墨边境政策引发关注。",
+    "overview": "国际要闻聚焦美丹格陵兰安全协议、特朗普封禁白宫媒体、加沙与也门冲突、俄罗斯杜马选举及巴菲特卸任等重大事件。",
     "items": [
+      {
+        "id": "167216960d72e5fff4c0",
+        "title": "Trump and leaders of Denmark and Greenland announce plan to sign Arctic security pact next week – live",
+        "summary": "特朗普与丹麦、格陵兰领导人宣布下周签署北极安全协议，实际内容远未达到美方获取格陵兰的诉求。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+        "publishedAt": "2026-09-18T16:04:32Z"
+      },
+      {
+        "id": "5a3125dbefa407e83494",
+        "title": "Trump says Denmark deal gives US security ‘control’ over Greenland",
+        "summary": "特朗普称与丹麦达成的协议使美国获得格陵兰安全永久控制权，丹麦强调主权不受影响。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
+        "publishedAt": "2026-09-18T15:56:09Z"
+      },
       {
         "id": "78e5792b89a0b99e43bb",
         "title": "Trump says he is banning CNN and Politico from White House",
-        "summary": "特朗普禁止CNN和Politico进入白宫，指其散布“假新闻”。",
+        "summary": "特朗普宣布禁止CNN和Politico进入白宫，引发对新闻自由的广泛担忧。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T12:47:49Z"
+        "publishedAt": "2026-09-18T15:26:48Z"
       },
       {
-        "id": "4d9d6215453b7d6f4a17",
-        "title": "Journalists and lawmakers attack Trump’s plan to bar several news outlets from the White House – live",
-        "summary": "记者和议员抨击特朗普禁止多家新闻机构进入白宫的计划，称其“独裁剧本”。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-        "publishedAt": "2026-09-18T12:31:12Z"
-      },
-      {
-        "id": "f20be7190f426aafcca1",
-        "title": "Trump bars CNN, MS NOW and Politico from White House",
-        "summary": "特朗普禁止CNN、MS NOW和Politico进入白宫，指其散布假新闻。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-18T12:26:00Z"
-      },
-      {
-        "id": "03f27a2f47dbdbf94e75",
-        "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
-        "summary": "叙利亚逮捕五名前阿萨德时期军官，涉嫌对平民发动空袭。",
+        "id": "9a3695a9d404fe47c191",
+        "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+        "summary": "以色列在加沙城空袭击中摩托车致一名巴勒斯坦人死亡，另有儿童受伤。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
-        "publishedAt": "2026-09-18T12:20:23Z"
+        "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+        "publishedAt": "2026-09-18T16:02:03Z"
       },
       {
-        "id": "05a08c74f05545b3aaec",
-        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-        "summary": "巴基斯坦一清真寺遭载有爆炸物的车辆撞击，至少21人死亡。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-18T12:17:50Z"
-      },
-      {
-        "id": "9a4910175b3191e8d36e",
-        "title": "Korea raises data breach fines to 10% of revenue",
-        "summary": "韩国将数据泄露罚款上限提高至年收入的10%。",
-        "source": "Hacker News",
-        "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-        "publishedAt": "2026-09-18T12:02:54Z"
-      },
-      {
-        "id": "89ab9016eaa2fd30741a",
-        "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
-        "summary": "俄罗斯将戛纳获奖导演安德烈·兹维亚金采夫列为“外国代理人”。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
-        "publishedAt": "2026-09-18T11:39:16Z"
-      },
-      {
-        "id": "41d66d8002fecf11ae10",
-        "title": "Trump bans CNN, MS Now and Politico from the White House",
-        "summary": "特朗普禁止CNN、MS Now和Politico进入白宫，打压媒体准入。",
+        "id": "c619be4834c575108034",
+        "title": "Uber ordered to pay $40m over death of woman ejected by driver on freeway",
+        "summary": "加州法院裁定Uber对司机将乘客遗弃在高速公路致死事件负有替代责任，判赔4000万美元。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
-        "publishedAt": "2026-09-18T11:36:16Z"
+        "url": "https://www.theguardian.com/technology/2026/sep/18/uber-40m-death-woman-killed-driver-freeway",
+        "publishedAt": "2026-09-18T15:34:53Z"
+      },
+      {
+        "id": "0f0a30a328f2afdf9039",
+        "title": "Russians head to the polls to choose lawmakers for their parliament",
+        "summary": "俄罗斯举行国家杜马选举投票，这是2022年全面入侵乌克兰以来首次全国性议会选举。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/18/nx-s1-5973249/russians-head-to-the-polls-to-choose-lawmakers-for-their-parliament",
+        "publishedAt": "2026-09-18T15:04:57Z"
+      },
+      {
+        "id": "b28b813706ea93f12dd2",
+        "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+        "summary": "巴菲特卸任伯克希尔哈撒韦董事长，其子霍华德将接任董事长，标志一个时代结束。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
+        "publishedAt": "2026-09-18T10:32:24Z"
+      },
+      {
+        "id": "46c9bf532cb0b1179488",
+        "title": "Tennessee woman falsely charged with bank theft in North Dakota sues for $10m in damages",
+        "summary": "田纳西州一名女子因警方依赖AI面部识别被误控银行盗窃并监禁六个月，起诉索赔千万美元。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit",
+        "publishedAt": "2026-09-18T15:34:48Z"
       }
     ]
   }
