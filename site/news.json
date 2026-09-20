@@ -1,84 +1,84 @@
 {
   "version": 1,
   "date": "2026-09-20",
-  "generatedAt": "2026-09-20T00:09:03Z",
+  "generatedAt": "2026-09-20T04:51:57Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻覆盖中美经贸磋商、住房公积金新规、美对俄石油制裁回应及南海局势；科技与产业方面聚焦AI模型竞争、存储芯片涨价和自动驾驶等热点。",
+    "overview": "国内要闻聚焦公积金新规实施、AI产业动态与外交回应；国际方面关注美丹格陵兰协议、美对伊谈判信号及沙特遭袭事件。",
     "items": [
       {
-        "id": "7127f6e7a1191b9aece6",
-        "title": "商务部：何立峰将于9月19日—23日率团赴美国与美方举行经贸磋商",
-        "summary": "商务部宣布何立峰将于9月19日至23日率团赴美举行经贸磋商，系中美新一轮高层经贸对话。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782122",
-        "publishedAt": "2026-09-20T00:09:03Z"
-      },
-      {
-        "id": "84919f7000fdf4c99953",
-        "title": "明起实施！公积金功能，新变化",
-        "summary": "住房公积金功能迎来新变化，明日起正式实施，涉及缴存、提取等多项调整。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487909",
-        "publishedAt": "2026-09-20T00:09:03Z"
-      },
-      {
-        "id": "8ae84d6723903ede84cf",
-        "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
-        "summary": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部就此作出回应。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487905",
-        "publishedAt": "2026-09-20T00:09:03Z"
-      },
-      {
-        "id": "e332b607cfe50a3d4f15",
-        "title": "美对进口俄石油天然气第三国加征关税，中方回应",
-        "summary": "美国对进口俄石油天然气的第三国加征关税，中方回应称坚决反对非法单边制裁。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wYLqdtYVWJ",
-        "publishedAt": "2026-09-20T00:09:03Z"
-      },
-      {
-        "id": "d821df97d9374c1e63cf",
-        "title": "【早报】美国存储股尾盘爆拉；沈鼓集团部分投资者被暂停交易；多家A股上市公司被证监会立案",
-        "summary": "财联社早报：美国存储股尾盘爆拉，沈鼓集团部分投资者被暂停交易，多家A股公司遭证监会立案。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487701",
-        "publishedAt": "2026-09-20T00:09:03Z"
+        "id": "5228343aa17284f10e4b",
+        "title": "今起公积金提取场景6变9",
+        "summary": "今日起公积金提取场景由6种扩至9种，进一步放宽提取条件。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E8%B5%B7%E5%85%AC%E7%A7%AF%E9%87%91%E6%8F%90%E5%8F%96%E5%9C%BA%E6%99%AF6%E5%8F%989%23",
+        "publishedAt": "2026-09-20T04:51:57Z"
       },
       {
         "id": "3cac20079f8028259011",
         "title": "从“减速”到“加油”！Astra两周抢占13%份额，Anthropic考虑IPO前发布新模型应战",
-        "summary": "AI模型竞争加剧：Astra两周抢占13%份额，Anthropic考虑在IPO前发布新模型应战。",
+        "summary": "Astra两周抢占13%市场份额，Anthropic拟IPO前发布新模型应战。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782129",
-        "publishedAt": "2026-09-20T00:09:03Z"
+        "publishedAt": "2026-09-20T04:51:57Z"
       },
       {
-        "id": "6b13c0422de290b7fb2f",
-        "title": "传统豪车集体降价续命",
-        "summary": "传统豪华车品牌集体降价以维持销量，市场竞争格局生变。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7686108364233998372/",
-        "publishedAt": "2026-09-20T00:09:03Z"
+        "id": "82a80cf1adf0a0ba12a3",
+        "title": "甲骨文180亿AI贷款折价滞销，AI融资链压力浮现",
+        "summary": "甲骨文180亿美元AI贷款折价滞销，AI融资链压力显现。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782134",
+        "publishedAt": "2026-09-20T04:51:57Z"
+      },
+      {
+        "id": "8ae84d6723903ede84cf",
+        "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
+        "summary": "美方将涉俄伊制裁法案签署成法，中国商务部就此作出回应。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2487905",
+        "publishedAt": "2026-09-20T04:51:57Z"
       },
       {
         "id": "b61bf5c254bf2dd5b7f4",
         "title": "释新闻｜美国和丹麦各说各话：未公布全文的格陵兰岛协议留下哪些问号",
-        "summary": "美国与丹麦就格陵兰岛达成协议但未公布全文，双方各说各话，主权问题留悬念。",
+        "summary": "美丹就格陵兰岛协议各说各话，未公布全文留下诸多疑问。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34104580",
-        "publishedAt": "2026-09-20T00:09:03Z"
+        "publishedAt": "2026-09-20T04:51:57Z"
+      },
+      {
+        "id": "c45d1ef6ca1e052eb27f",
+        "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
+        "summary": "伊朗消息人士称美方表示已准备好与伊朗进行谈判。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wYWDibyN20",
+        "publishedAt": "2026-09-20T04:51:57Z"
+      },
+      {
+        "id": "2f381dbaedca9a288902",
+        "title": "胡塞武装称对沙特首都及关键原油设施发动袭击",
+        "summary": "胡塞武装称对沙特首都及关键原油设施发动袭击。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782143",
+        "publishedAt": "2026-09-20T04:51:57Z"
+      },
+      {
+        "id": "edadd29de9c1fdcb2d1c",
+        "title": "特朗普提前返回白宫，确切原因不明",
+        "summary": "特朗普提前返回白宫，确切原因尚不明确。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8wZIQaL65A7",
+        "publishedAt": "2026-09-20T04:51:57Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在美国对丹麦格陵兰岛安全协议、胡塞武装袭击沙特、特朗普签署对俄制裁及设立AI事务负责人等重大地缘与科技动向。",
+    "overview": "国际要闻聚焦美丹格陵兰岛协议争议、胡塞武装袭击沙特首都、特朗普签署对俄制裁及宣布组建AI部队，同时关注德国州选与记者准入受限。",
     "items": [
       {
         "id": "fe08adf66ac3f12dda1c",
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "summary": "北约欢迎美丹就格陵兰岛达成协议，特朗普称协议将赋予美国“永久安全控制权”。",
+        "summary": "北约欢迎美丹格陵兰协议，特朗普称将赋予美国永久安全控制权。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-19T15:00:27Z"
@@ -86,7 +86,7 @@
       {
         "id": "eb06abb8e02d499291bf",
         "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-        "summary": "沙特领导的联军称击落胡塞武装射向利雅得的弹道导弹，系局势升级后首次防空警报。",
+        "summary": "沙特领导的联军称击落胡塞武装射向利雅得的弹道导弹。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
         "publishedAt": "2026-09-19T14:03:05Z"
@@ -94,7 +94,7 @@
       {
         "id": "277e25d4f41aae5006d8",
         "title": "Trump signs sweeping Russia sanctions over Ukraine war",
-        "summary": "特朗普签署对俄全面制裁法案，允许对俄石油买家加征最高100%关税。",
+        "summary": "特朗普签署对俄全面制裁法案，允许对俄石油买家加征高额关税。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
         "publishedAt": "2026-09-18T16:46:04Z"
@@ -102,39 +102,39 @@
       {
         "id": "75d83fc602ab89ccc072",
         "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-        "summary": "特朗普宣布将组建“AI部队”并任命人工智能事务负责人，承诺不阻碍AI发展。",
+        "summary": "特朗普宣布将组建AI部队并任命人工智能事务负责人。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-19T13:01:56Z"
       },
       {
+        "id": "e8bd0aed24ff8bb63d0c",
+        "title": "Future of German chancellor hangs in the balance as two states go to polls",
+        "summary": "德国两州举行选举，总理默茨政治前途面临考验。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right",
+        "publishedAt": "2026-09-19T18:00:02Z"
+      },
+      {
+        "id": "6d952d7d6094ed5e9177",
+        "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
+        "summary": "白宫禁止CNN等三家媒体记者进入，引发新闻自由争议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
+        "publishedAt": "2026-09-19T09:48:18Z"
+      },
+      {
         "id": "46bc4ced6a59ce55c8d5",
         "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-        "summary": "伊朗称已通过卡塔尔向美方转达重启谈判、结束战争的条件，等待特朗普回应。",
+        "summary": "伊朗称已通过卡塔尔向美方转达重启谈判、结束战争的条件。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
         "publishedAt": "2026-09-19T10:32:30Z"
       },
       {
-        "id": "15a0e528445bba9d63e3",
-        "title": "Dutch police disperse violent far-right protest in The Hague",
-        "summary": "荷兰警方驱散海牙极右翼暴力抗议，首相谴责示威者喊出“可憎”的极右和反犹口号。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-19T14:38:00Z"
-      },
-      {
-        "id": "5b3f5cf5e4dce24778af",
-        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-        "summary": "以色列总统赦免2016年射杀已受伤巴勒斯坦人的士兵埃洛尔·阿扎里亚，引发争议。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-        "publishedAt": "2026-09-19T12:40:09Z"
-      },
-      {
         "id": "0c8ead2fe417defc24f1",
         "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-        "summary": "丹麦称与美国达成的格陵兰岛协议具约束力，不会损害丹麦主权。",
+        "summary": "丹麦称与美国达成的格陵兰岛协议具约束力，不损害主权。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
         "publishedAt": "2026-09-19T12:03:23Z"
