@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-21",
-  "generatedAt": "2026-09-20T16:03:27Z",
+  "generatedAt": "2026-09-20T18:46:26Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦中美经贸磋商在纽约举行、胡塞武装袭击沙特及中东局势升级，同时涵盖制造业升级、LPR报价、公积金政策、高校改革与AI产业动态。",
+    "overview": "本期国内新闻聚焦中美经贸磋商在纽约举行、制造业高端化转型加快、长鑫科技第五代技术平台量产等产业科技动态，同时涵盖人民日报评第一学历歧视、市场监管总局整治内卷式竞争、LPR报价维持不变等宏观与民生政策议题。",
     "items": [
       {
         "id": "ad8a57bbb6b346010e0b",
         "title": "中美经贸磋商在纽约开始举行",
-        "summary": "中美经贸磋商在纽约开始举行，双方将就经贸领域敏感问题展开新一轮谈判，引发全球关注。",
+        "summary": "中美经贸磋商在纽约开始举行，双方就经贸议题展开新一轮高级别对话，受到全球市场高度关注。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7687630117601807913/",
-        "publishedAt": "2026-09-20T16:03:27Z"
-      },
-      {
-        "id": "2f381dbaedca9a288902",
-        "title": "胡塞武装称对沙特首都及关键原油设施发动袭击",
-        "summary": "胡塞武装称对沙特首都及关键原油设施发动袭击，中东局势显著升级，国际油价承压。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782143",
-        "publishedAt": "2026-09-20T16:03:27Z"
+        "publishedAt": "2026-09-20T18:46:26Z"
       },
       {
         "id": "12286ccc25f790196654",
         "title": "我国制造业高端化转型加速",
-        "summary": "我国制造业高端化转型加速，产业结构持续优化，高端制造领域取得新进展。",
+        "summary": "我国制造业高端化转型加速，高技术制造业投资与产出持续增长，产业结构优化升级态势明显。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7687523236946673700/",
-        "publishedAt": "2026-09-20T16:03:27Z"
+        "publishedAt": "2026-09-20T18:46:26Z"
       },
       {
         "id": "57ee6f1fc50ee032fea6",
         "title": "长鑫科技宣布第五代技术平台正式量产",
-        "summary": "长鑫科技宣布第五代技术平台正式量产，并首展LPDDR6等新品，国产存储芯片再进一步。",
+        "summary": "长鑫科技宣布第五代技术平台正式量产，标志国产存储芯片技术迭代提速，产业链自主能力进一步增强。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2488091",
-        "publishedAt": "2026-09-20T16:03:27Z"
+        "publishedAt": "2026-09-20T18:46:26Z"
+      },
+      {
+        "id": "9c8ce5acd1f78577c92c",
+        "title": "人民日报评“第一学历歧视”",
+        "summary": "人民日报评第一学历歧视，呼吁破除招聘中的学历出身偏见，保障劳动者平等就业权利。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E2%80%9D",
+        "publishedAt": "2026-09-20T18:46:26Z"
+      },
+      {
+        "id": "f212ec4b2085c234cf7f",
+        "title": "市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争",
+        "summary": "市场监管总局表示让市场有进有出，用组合拳整治内卷式竞争，推动形成良性有序的市场环境。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34107598",
+        "publishedAt": "2026-09-20T18:46:26Z"
       },
       {
         "id": "fce2b674c25ab88262ad",
         "title": "9月LPR报价出炉：5年期和1年期利率均维持不变",
-        "summary": "9月LPR报价出炉，5年期和1年期利率均维持不变，符合市场普遍预期。",
+        "summary": "9月LPR报价出炉，5年期和1年期利率均维持不变，货币政策保持稳健基调。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2487996",
-        "publishedAt": "2026-09-20T16:03:27Z"
-      },
-      {
-        "id": "5228343aa17284f10e4b",
-        "title": "今起公积金提取场景6变9",
-        "summary": "今起公积金提取场景由6种扩展至9种，进一步便利缴存职工提取使用住房公积金。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E8%B5%B7%E5%85%AC%E7%A7%AF%E9%87%91%E6%8F%90%E5%8F%96%E5%9C%BA%E6%99%AF6%E5%8F%989%23",
-        "publishedAt": "2026-09-20T16:03:27Z"
+        "publishedAt": "2026-09-20T18:46:26Z"
       },
       {
         "id": "2c864288cf78a8978bf4",
         "title": "中办、国办印发《关于分类推进高校改革的意见》",
-        "summary": "中办、国办印发《关于分类推进高校改革的意见》，推动高等教育分类发展与特色办学。",
+        "summary": "中办、国办印发关于分类推进高校改革的意见，推动高等教育分类发展、特色办学。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2488253",
-        "publishedAt": "2026-09-20T16:03:27Z"
+        "publishedAt": "2026-09-20T18:46:26Z"
       },
       {
-        "id": "43501b5e3f38c3c5f643",
-        "title": "AI四巨头遭到起诉：放缓AI发展的联合表态是非法协议",
-        "summary": "AI四巨头遭到起诉，被指放缓AI发展的联合表态构成非法协议，引发行业关注。",
+        "id": "78804eebb7351542a2bc",
+        "title": "李成钢任中华人民共和国国际贸易谈判代表（正部长级）",
+        "summary": "李成钢任中华人民共和国国际贸易谈判代表（正部长级），负责对外经贸谈判事务。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2488018",
-        "publishedAt": "2026-09-20T16:03:27Z"
+        "url": "https://www.cls.cn/detail/2488229",
+        "publishedAt": "2026-09-20T18:46:26Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻围绕乌克兰大规模无人机袭击莫斯科、胡塞武装对沙特首都及能源设施发动袭击、格陵兰岛协议争议、德国州选举及AI监管等。",
+    "overview": "本期国际新闻聚焦德国州选举默茨所在政党失利而极右翼AfD获胜、乌克兰对莫斯科发动大规模无人机袭击、美丹格陵兰协议引发北约与主权争议，以及胡塞武装袭击沙特能源设施等中东局势升级事件。",
     "items": [
       {
-        "id": "54d0af48399c39bec297",
-        "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-        "summary": "乌克兰向俄罗斯发射超千架无人机，其中数百架指向莫斯科，俄方称已拦截大量目标。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-        "publishedAt": "2026-09-20T01:16:42Z"
+        "id": "4b9a6b4ff2aa4c88df73",
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "summary": "德国梅前州和柏林州选举中默茨所在基民盟遭遇重挫，极右翼选择党得票大增，默茨称这是灾难性结果但仍表示将继续留任推动改革。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-20T10:32:55Z"
       },
       {
-        "id": "d50c54556988e13d0e46",
-        "title": "Saudi Arabia says Houthis tried to attack its capital",
-        "summary": "沙特称胡塞武装试图以弹道导弹袭击利雅得，首都首次成为袭击目标，地区紧张加剧。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
-        "publishedAt": "2026-09-19T19:57:23Z"
+        "id": "530890e2fa07cc7bc1f9",
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "summary": "乌克兰对莫斯科发动大规模无人机袭击，俄方称击落数百架，莫斯科市长称这是迄今对首都最大规模袭击，造成至少两人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-20T02:45:39Z"
       },
       {
         "id": "fe08adf66ac3f12dda1c",
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "summary": "北约欢迎美丹格陵兰协议，特朗普称该协议赋予美国永久安全控制权，引发主权争议。",
+        "summary": "北约欢迎美丹格陵兰协议，特朗普称该协议赋予美国永久安全控制权，引发格陵兰主权争议与欧洲方面关注。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-19T15:00:27Z"
       },
       {
-        "id": "b6bf214bc92d4dcf9552",
-        "title": "Germany's Merz under pressure after far-right AfD projected to win second state election",
-        "summary": "德国梅前州和柏林举行关键州选举，极右翼选择党预计获得更多选票，默茨承压。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-s-merz-under-pressure-after-far-right-afd-projected-to-win-second-state-election/live-79322092?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-19T22:00:00Z"
+        "id": "d50c54556988e13d0e46",
+        "title": "Saudi Arabia says Houthis tried to attack its capital",
+        "summary": "沙特称胡塞武装试图以弹道导弹袭击利雅得，首都首次成为袭击目标，地区紧张局势进一步加剧。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+        "publishedAt": "2026-09-19T19:57:23Z"
+      },
+      {
+        "id": "5119aeadc19f1ead485e",
+        "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
+        "summary": "欧洲情报官员警告莫斯科正计划对北约采取更果断行动，称潜在攻击可能在数月而非数年内出现，但警告恐慌或被俄方利用。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
+        "publishedAt": "2026-09-20T08:47:50Z"
       },
       {
         "id": "cab0cbfb50d93d4f9899",
         "title": "Michelle Bachelet withdraws from race to become UN secretary general",
-        "summary": "智利前总统巴切莱特宣布退出联合国秘书长竞选，因其在安理会 straw poll 中支持不足。",
+        "summary": "智利前总统巴切莱特宣布退出联合国秘书长竞选，因其在安理会非正式投票中支持不足。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
         "publishedAt": "2026-09-20T04:04:08Z"
       },
       {
-        "id": "bce4b807691aafea4d03",
-        "title": "Meta launches legal challenge against UK media regulator over Online Safety Act",
-        "summary": "Meta就英国《在线安全法》对监管机构Ofcom提起法律挑战，被指借诉讼拖延实施。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act",
-        "publishedAt": "2026-09-20T06:24:33Z"
+        "id": "64bdde62eeffd0bc21b8",
+        "title": "Trump says triumphal arch will be military complex with drones and snipers",
+        "summary": "特朗普称华盛顿凯旋门将建成配备无人机和狙击手的军事综合体，称应军方要求用于国家安全目的，引发争议。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-20T08:36:43Z"
       },
       {
         "id": "a92e56090ae9ca6cb8be",
         "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
-        "summary": "一家希望向欧盟供应稀土的企业负责人称，必须终结中国在稀土供应上的主导地位。",
+        "summary": "一家希望向欧盟供应稀土的企业负责人称必须终结中国在稀土供应上的主导地位，反映全球关键矿产供应链博弈加剧。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
         "publishedAt": "2026-09-20T03:00:14Z"
-      },
-      {
-        "id": "aeb0ac5dc5d873c0daa2",
-        "title": "Why China is pushing back on US warnings over rapid AI development",
-        "summary": "中国反驳美国对AI快速发展的警告，认为放缓呼吁意在锁定美国优势，双方路径分歧明显。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
-        "publishedAt": "2026-09-19T22:00:09Z"
       }
     ]
   }
