@@ -1,100 +1,116 @@
 {
   "version": 1,
   "date": "2026-09-21",
-  "generatedAt": "2026-09-20T18:46:26Z",
+  "generatedAt": "2026-09-20T22:25:55Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内新闻聚焦中美经贸磋商在纽约举行、制造业高端化转型加快、长鑫科技第五代技术平台量产等产业科技动态，同时涵盖人民日报评第一学历歧视、市场监管总局整治内卷式竞争、LPR报价维持不变等宏观与民生政策议题。",
+    "overview": "国内要闻聚焦中美经贸磋商在纽约启动、中办国办推进高校分类改革、制造业高端化与长鑫科技存储芯片量产，同时胡塞袭击沙特推高地区风险。",
     "items": [
       {
         "id": "ad8a57bbb6b346010e0b",
         "title": "中美经贸磋商在纽约开始举行",
-        "summary": "中美经贸磋商在纽约开始举行，双方就经贸议题展开新一轮高级别对话，受到全球市场高度关注。",
+        "summary": "中美经贸磋商在纽约开始举行，为特朗普与习近平峰会前的高层接触铺路。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7687630117601807913/",
-        "publishedAt": "2026-09-20T18:46:26Z"
+        "publishedAt": "2026-09-20T22:25:55Z"
       },
       {
-        "id": "12286ccc25f790196654",
-        "title": "我国制造业高端化转型加速",
-        "summary": "我国制造业高端化转型加速，高技术制造业投资与产出持续增长，产业结构优化升级态势明显。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7687523236946673700/",
-        "publishedAt": "2026-09-20T18:46:26Z"
-      },
-      {
-        "id": "57ee6f1fc50ee032fea6",
-        "title": "长鑫科技宣布第五代技术平台正式量产",
-        "summary": "长鑫科技宣布第五代技术平台正式量产，标志国产存储芯片技术迭代提速，产业链自主能力进一步增强。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2488091",
-        "publishedAt": "2026-09-20T18:46:26Z"
-      },
-      {
-        "id": "9c8ce5acd1f78577c92c",
-        "title": "人民日报评“第一学历歧视”",
-        "summary": "人民日报评第一学历歧视，呼吁破除招聘中的学历出身偏见，保障劳动者平等就业权利。",
+        "id": "d2e4518c2d092c5733c8",
+        "title": "中美经贸磋商在美国纽约开始举行",
+        "summary": "中美经贸磋商在纽约启动，双方高层就敏感经贸议题展开面对面会谈。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E2%80%9D",
-        "publishedAt": "2026-09-20T18:46:26Z"
-      },
-      {
-        "id": "f212ec4b2085c234cf7f",
-        "title": "市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争",
-        "summary": "市场监管总局表示让市场有进有出，用组合拳整治内卷式竞争，推动形成良性有序的市场环境。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34107598",
-        "publishedAt": "2026-09-20T18:46:26Z"
-      },
-      {
-        "id": "fce2b674c25ab88262ad",
-        "title": "9月LPR报价出炉：5年期和1年期利率均维持不变",
-        "summary": "9月LPR报价出炉，5年期和1年期利率均维持不变，货币政策保持稳健基调。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2487996",
-        "publishedAt": "2026-09-20T18:46:26Z"
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E5%BC%80%E5%A7%8B%E4%B8%BE%E8%A1%8C",
+        "publishedAt": "2026-09-20T22:25:55Z"
       },
       {
         "id": "2c864288cf78a8978bf4",
         "title": "中办、国办印发《关于分类推进高校改革的意见》",
-        "summary": "中办、国办印发关于分类推进高校改革的意见，推动高等教育分类发展、特色办学。",
+        "summary": "中办、国办印发《关于分类推进高校改革的意见》，推动高等教育分类发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2488253",
-        "publishedAt": "2026-09-20T18:46:26Z"
+        "publishedAt": "2026-09-20T22:25:55Z"
+      },
+      {
+        "id": "12286ccc25f790196654",
+        "title": "我国制造业高端化转型加速",
+        "summary": "我国制造业高端化转型加速，产业结构升级与技术创新持续推进。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7687523236946673700/",
+        "publishedAt": "2026-09-20T22:25:55Z"
+      },
+      {
+        "id": "57ee6f1fc50ee032fea6",
+        "title": "长鑫科技宣布第五代技术平台正式量产",
+        "summary": "长鑫科技宣布第五代技术平台正式量产，国产存储芯片再获突破。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2488091",
+        "publishedAt": "2026-09-20T22:25:55Z"
+      },
+      {
+        "id": "92ead08910486e5d1b18",
+        "title": "首展LPDDR6、官宣G5平台量产 长鑫科技新品与“豆包手机”一同亮相",
+        "summary": "长鑫科技首展LPDDR6并官宣G5平台量产，新品与“豆包手机”同台亮相。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2488249",
+        "publishedAt": "2026-09-20T22:25:55Z"
+      },
+      {
+        "id": "ec9f669932782bb1a92d",
+        "title": "中东冲突风险升级！胡塞武装：对沙特首都及关键能源设施发动袭击",
+        "summary": "胡塞武装称对沙特首都及关键能源设施发动袭击，中东冲突风险升级。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2488072",
+        "publishedAt": "2026-09-20T22:25:55Z"
       },
       {
         "id": "78804eebb7351542a2bc",
         "title": "李成钢任中华人民共和国国际贸易谈判代表（正部长级）",
-        "summary": "李成钢任中华人民共和国国际贸易谈判代表（正部长级），负责对外经贸谈判事务。",
+        "summary": "李成钢任国际贸易谈判代表（正部长级），人事调整引发广泛关注。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2488229",
-        "publishedAt": "2026-09-20T18:46:26Z"
+        "publishedAt": "2026-09-20T22:25:55Z"
       }
     ]
   },
   "global": {
-    "overview": "本期国际新闻聚焦德国州选举默茨所在政党失利而极右翼AfD获胜、乌克兰对莫斯科发动大规模无人机袭击、美丹格陵兰协议引发北约与主权争议，以及胡塞武装袭击沙特能源设施等中东局势升级事件。",
+    "overview": "国际要闻包括德国州选重挫默茨、乌克兰大规模无人机袭击莫斯科、美丹格陵兰协议争议与沙特首都遭胡塞袭击，中东局势持续紧张。",
     "items": [
       {
-        "id": "4b9a6b4ff2aa4c88df73",
-        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "summary": "德国梅前州和柏林州选举中默茨所在基民盟遭遇重挫，极右翼选择党得票大增，默茨称这是灾难性结果但仍表示将继续留任推动改革。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-20T10:32:55Z"
+        "id": "26d500a0da1193f1b98c",
+        "title": "German state elections deal a blow to Chancellor Friedrich Merz",
+        "summary": "德国柏林与梅前州选举重挫默茨领导的基民盟，极右翼选择党得票大增。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-20T13:20:00Z"
+      },
+      {
+        "id": "5df39096caf83c982865",
+        "title": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
+        "summary": "德国州选“灾难”后默茨誓言继续执政，承诺推进经济改革应对挑战。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
+        "publishedAt": "2026-09-20T10:33:02Z"
       },
       {
         "id": "530890e2fa07cc7bc1f9",
         "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "summary": "乌克兰对莫斯科发动大规模无人机袭击，俄方称击落数百架，莫斯科市长称这是迄今对首都最大规模袭击，造成至少两人死亡。",
+        "summary": "乌克兰对莫斯科发动数百架无人机大规模袭击，俄方称击落多数并致数人死亡。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-20T02:45:39Z"
       },
       {
+        "id": "7f5ca88d6029a5993f4d",
+        "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
+        "summary": "乌克兰在俄选举日以数百架无人机袭击莫斯科，炼油厂受损、多人死亡。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+        "publishedAt": "2026-09-20T06:44:17Z"
+      },
+      {
         "id": "fe08adf66ac3f12dda1c",
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "summary": "北约欢迎美丹格陵兰协议，特朗普称该协议赋予美国永久安全控制权，引发格陵兰主权争议与欧洲方面关注。",
+        "summary": "北约欢迎美丹格陵兰协议，特朗普称该协议赋予美国永久安全控制权。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-19T15:00:27Z"
@@ -102,42 +118,26 @@
       {
         "id": "d50c54556988e13d0e46",
         "title": "Saudi Arabia says Houthis tried to attack its capital",
-        "summary": "沙特称胡塞武装试图以弹道导弹袭击利雅得，首都首次成为袭击目标，地区紧张局势进一步加剧。",
+        "summary": "沙特称胡塞武装试图以弹道导弹袭击利雅得，首都首次成袭击目标。",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
         "publishedAt": "2026-09-19T19:57:23Z"
       },
       {
-        "id": "5119aeadc19f1ead485e",
-        "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
-        "summary": "欧洲情报官员警告莫斯科正计划对北约采取更果断行动，称潜在攻击可能在数月而非数年内出现，但警告恐慌或被俄方利用。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
-        "publishedAt": "2026-09-20T08:47:50Z"
+        "id": "387985f769f225b93e8a",
+        "title": "US, China open high-level talks ahead of Trump-Xi summit",
+        "summary": "美中高级别经贸会谈在纽约开启，为特朗普与习近平峰会预热。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+        "publishedAt": "2026-09-20T11:42:13Z"
       },
       {
         "id": "cab0cbfb50d93d4f9899",
         "title": "Michelle Bachelet withdraws from race to become UN secretary general",
-        "summary": "智利前总统巴切莱特宣布退出联合国秘书长竞选，因其在安理会非正式投票中支持不足。",
+        "summary": "智利前总统巴切莱特因安理会非正式投票支持不足退出联合国秘书长竞选。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
         "publishedAt": "2026-09-20T04:04:08Z"
-      },
-      {
-        "id": "64bdde62eeffd0bc21b8",
-        "title": "Trump says triumphal arch will be military complex with drones and snipers",
-        "summary": "特朗普称华盛顿凯旋门将建成配备无人机和狙击手的军事综合体，称应军方要求用于国家安全目的，引发争议。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-20T08:36:43Z"
-      },
-      {
-        "id": "a92e56090ae9ca6cb8be",
-        "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
-        "summary": "一家希望向欧盟供应稀土的企业负责人称必须终结中国在稀土供应上的主导地位，反映全球关键矿产供应链博弈加剧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
-        "publishedAt": "2026-09-20T03:00:14Z"
       }
     ]
   }
