@@ -1,108 +1,108 @@
 {
   "version": 1,
-  "date": "2026-09-21",
-  "generatedAt": "2026-09-21T12:45:08Z",
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-21T19:26:19Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "本期国内要闻聚焦习近平将对美国进行国事访问，以及中美经贸磋商为元首会晤暖场；覃伟中、张又侠等多名高官被查处，央行召开外资金融机构座谈会，A股走强，特斯拉机器人产业链等科技动向同样值得关注。",
     "items": [
       {
-        "id": "d729f2248c76fce57854",
+        "id": "80057c778f9b42d0eea0",
         "title": "习近平将对美国进行国事访问",
-        "summary": "习近平将对美国进行国事访问，中美半年内实现互访，外交部称具历史性里程碑意义。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
-        "publishedAt": "2026-09-21T12:45:08Z"
-      },
-      {
-        "id": "c5067d8de08c8fd73e10",
-        "title": "中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议",
-        "summary": "中共中央政治局召开会议，讨论拟提请二十届五中全会审议的文件，习近平主持会议。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2488773",
-        "publishedAt": "2026-09-21T12:45:08Z"
-      },
-      {
-        "id": "797daf3620b96b748f79",
-        "title": "张又侠刘振立被开除党籍：逾越红线",
-        "summary": "张又侠、刘振立因严重违纪违法被开除党籍军籍，官方指其逾越红线。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7687926173561012278/",
-        "publishedAt": "2026-09-21T12:45:08Z"
-      },
-      {
-        "id": "e620c593863efc85a84b",
-        "title": "人民日报：房地产进入存量阶段，绝非行业发展的退潮",
-        "summary": "人民日报发文称房地产进入存量阶段，绝非行业发展的退潮。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2488663",
-        "publishedAt": "2026-09-21T12:45:08Z"
-      },
-      {
-        "id": "8e3be54fa26e092af67f",
-        "title": "刚刚，GPT-6 Astra取得哥德巴赫猜想重大突破！",
-        "summary": "GPT-6 Astra宣称取得哥德巴赫猜想重大突破，AI基础研究引发广泛关注。",
+        "summary": "习近平将对美国进行国事访问，中美半年内实现元首互访，具有历史性里程碑意义。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782191",
-        "publishedAt": "2026-09-21T12:45:08Z"
+        "url": "https://wallstreetcn.com/articles/3782203",
+        "publishedAt": "2026-09-21T19:26:19Z"
       },
       {
-        "id": "20e75d04f26d47bb7e2c",
-        "title": "全国用电量连续两月突破万亿大关，电力消费增量从哪来",
-        "summary": "全国用电量连续两月突破万亿大关，电力消费增量来源引发关注。",
+        "id": "fef20db49b992c0095be",
+        "title": "中美经贸磋商，为元首会晤“暖场”",
+        "summary": "中美经贸磋商在美国纽约举行，为即将到来的元首会晤暖场，市场关注对话成果。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8wbpebaE5YD",
+        "publishedAt": "2026-09-21T19:26:19Z"
+      },
+      {
+        "id": "f70260c437191aea672c",
+        "title": "广东省人大常委会党组成员覃伟中被查，曾任深圳市长",
+        "summary": "广东省人大常委会党组成员覃伟中被查，曾任深圳市长，广东表示坚决拥护党中央决定。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34109982",
-        "publishedAt": "2026-09-21T12:45:08Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34116039",
+        "publishedAt": "2026-09-21T19:26:19Z"
       },
       {
-        "id": "c597075b2d5a3819f80f",
-        "title": "特斯拉人形机器人“量产”更近一步，一图看懂A股人形机器人产业链",
-        "summary": "特斯拉人形机器人量产更近一步，A股人形机器人产业链受市场关注。",
+        "id": "ccbee4ef40a2d3de3d94",
+        "title": "张又侠、刘振立严重违纪违法被开除党籍军籍",
+        "summary": "张又侠、刘振立严重违纪违法被开除党籍军籍，反腐持续深入军队高层。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34116353",
+        "publishedAt": "2026-09-21T19:26:19Z"
+      },
+      {
+        "id": "d7025eea7e8575614c18",
+        "title": "中国人民银行召开外资金融机构座谈会",
+        "summary": "中国人民银行召开外资金融机构座谈会，释放金融开放与稳外资信号。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2488949",
-        "publishedAt": "2026-09-21T12:45:08Z"
+        "url": "https://www.cls.cn/detail/2489240",
+        "publishedAt": "2026-09-21T19:26:19Z"
       },
       {
-        "id": "93f43141ac6d2d7ef344",
-        "title": "中美经贸磋商在美国纽约举行",
-        "summary": "中美经贸磋商在美国纽约举行，为两国元首会晤预热。",
+        "id": "157214f316c5e6d8587b",
+        "title": "美财长：中美将在深圳继续讨论AI问题",
+        "summary": "美财长称中美将在深圳继续讨论AI问题，科技治理成为双边对话新议题。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wbmzYhjlJY",
+        "publishedAt": "2026-09-21T19:26:19Z"
+      },
+      {
+        "id": "8279770a66c99d6e8183",
+        "title": "A股三大股指齐涨，沪指涨1%，生物医药爆发、创新药掀涨停潮，房地产大涨，恒指涨超1%，光模块走强",
+        "summary": "A股三大股指齐涨，沪指涨1%，生物医药、创新药掀涨停潮，房地产和光模块走强。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782183",
-        "publishedAt": "2026-09-21T12:45:08Z"
+        "url": "https://wallstreetcn.com/articles/3782184",
+        "publishedAt": "2026-09-21T19:26:19Z"
+      },
+      {
+        "id": "8d159a677d77cbb1aced",
+        "title": "独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单",
+        "summary": "产业链人士称特斯拉机器人团队在长三角审厂，多家企业已获订单。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34113571",
+        "publishedAt": "2026-09-21T19:26:19Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际方面，美国多家主流媒体就白宫禁令起诉特朗普，德国总理默茨在州选举惨败后誓言继续执政，俄罗斯议会选举执政党大胜，乌克兰对莫斯科发动大规模无人机袭击，美中在纽约讨论AI安全机制。",
     "items": [
       {
-        "id": "7347167eae1928d1f588",
-        "title": "Russia election results show Putin’s party winning: What we know",
-        "summary": "俄罗斯议会选举计票超九成，普京所在统一俄罗斯党有望大胜。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/21/russia-election-results-show-putins-party-winning-what-we-know?traffic_source=rss",
-        "publishedAt": "2026-09-21T00:47:06Z"
-      },
-      {
-        "id": "4b9a6b4ff2aa4c88df73",
-        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "summary": "德国总理默茨称州选举结果对其政党是灾难，但誓言继续执政。",
+        "id": "b3a7f5dee2b4131f95b1",
+        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+        "summary": "CNN、MS NOW和Politico就白宫禁令起诉特朗普，指其威胁新闻自由与独立报道。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-21T00:56:27Z"
+        "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-21T07:58:53Z"
       },
       {
-        "id": "90cb12964355001e7162",
-        "title": "US proposes AI safety mechanism in talks with China",
-        "summary": "美中在纽约会谈中讨论AI安全机制，美财长称对话成功。",
+        "id": "182880283083a34f91bd",
+        "title": "Chancellor vows to stay on for Germany’s ‘democratic future’ after latest loss to far-right AfD",
+        "summary": "德国总理默茨在基民盟州选举惨败后誓言继续执政，极右翼AfD势力上升。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/21/germany-chancellor-freidrich-merz-cdu-christian-democratic-union-state-election-defeats-mecklenburg-western-pomerania-berlin",
+        "publishedAt": "2026-09-21T07:38:22Z"
+      },
+      {
+        "id": "c897193625e5dc024a53",
+        "title": "Russia: Putin party retains majority in controlled parliamentary vote",
+        "summary": "俄罗斯议会选举中统一俄罗斯党赢得约58%选票，普京阵营保持多数优势。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-proposes-ai-safety-mechanism-in-talks-with-china/a-79350248?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-21T00:06:00Z"
+        "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-21T02:48:00Z"
       },
       {
         "id": "530890e2fa07cc7bc1f9",
         "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "summary": "乌克兰对莫斯科发动数百架无人机大规模袭击，俄方称击落多数。",
+        "summary": "乌克兰对莫斯科发动数百架无人机大规模袭击，俄方称击落多数，全球关注冲突升级。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-20T02:45:39Z"
@@ -110,18 +110,10 @@
       {
         "id": "2ea146bfbf8380925c0c",
         "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "summary": "美中高官在纽约会谈，为特朗普与习近平本周峰会做准备。",
+        "summary": "美中高官在纽约讨论AI安全计划，为特朗普与习近平本周峰会做准备。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-20T21:50:56Z"
-      },
-      {
-        "id": "c897193625e5dc024a53",
-        "title": "Russia: Putin party retains majority in controlled parliamentary vote",
-        "summary": "俄罗斯选举委员会称统一俄罗斯党赢得约58%选票，车臣领导人近全票胜出。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-21T02:48:00Z"
       },
       {
         "id": "a958c561045de6e23489",
@@ -132,12 +124,20 @@
         "publishedAt": "2026-09-20T17:19:42Z"
       },
       {
-        "id": "fbd995ebf13509b75bbe",
-        "title": "Three South Korean military officers wounded in explosion near border",
-        "summary": "韩国三名军官在朝韩边境非军事区爆炸中受伤，疑因地雷所致。",
+        "id": "56b3048342f6e8d171f7",
+        "title": "Flights halted at three US airports as watchdog warns over hacking threat",
+        "summary": "美国东北部三座机场因无线电设备故障暂停航班，监管机构警告航空系统易受干扰。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/airports-flight-ground-stop-hacking-threat",
+        "publishedAt": "2026-09-21T10:06:51Z"
+      },
+      {
+        "id": "374ea00b1cb2975d0239",
+        "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
+        "summary": "特朗普支持率因伊朗战争与经济问题跌至历史新低，共和党内部支持率下滑。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/21/three-south-korean-officers-wounded-in-border-explosion?traffic_source=rss",
-        "publishedAt": "2026-09-20T23:45:12Z"
+        "url": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+        "publishedAt": "2026-09-21T11:10:52Z"
       }
     ]
   }
