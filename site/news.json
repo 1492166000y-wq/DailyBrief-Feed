@@ -1,34 +1,34 @@
 {
   "version": 1,
   "date": "2026-09-22",
-  "generatedAt": "2026-09-21T23:15:51Z",
+  "generatedAt": "2026-09-22T04:52:15Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内要闻聚焦习近平将对美国进行国事访问及中美经贸磋商为元首会晤暖场；张又侠、刘振立被开除党籍军籍，覃伟中被查；央行召开外资金融机构座谈会；多地禁产老头乐、结婚发钱等民生政策；美股科技板块动态与AI模型产业进展。",
+    "overview": "国内要闻聚焦中美高层互动、二十届五中全会筹备与反腐动态；产业科技层面，Meta Muse与AMD市值破万亿带动AI智能体行情，芯片股支撑纳指创新高；同时涉及广东高官被查、张又侠等被开除党籍军籍等时政事件。",
     "items": [
+      {
+        "id": "298354bede6239cb29f0",
+        "title": "中共中央政治局召开会议，讨论拟提请二十届五中全会审议的文件，中共中央总书记习近平主持会议",
+        "summary": "中共中央政治局召开会议，讨论拟提请二十届五中全会审议的文件，习近平总书记主持会议。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34114731",
+        "publishedAt": "2026-09-22T04:52:15Z"
+      },
       {
         "id": "80057c778f9b42d0eea0",
         "title": "习近平将对美国进行国事访问",
-        "summary": "习近平将对美国进行国事访问，推动中美关系发展。",
+        "summary": "外交部宣布习近平将对美国进行国事访问，中美元首半年内实现互访具里程碑意义。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782203",
-        "publishedAt": "2026-09-21T23:15:51Z"
+        "publishedAt": "2026-09-22T04:52:15Z"
       },
       {
-        "id": "fef20db49b992c0095be",
-        "title": "中美经贸磋商，为元首会晤“暖场”",
-        "summary": "中美经贸磋商为元首会晤暖场，双方寻求稳定关系。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wbpebaE5YD",
-        "publishedAt": "2026-09-21T23:15:51Z"
-      },
-      {
-        "id": "ccbee4ef40a2d3de3d94",
-        "title": "张又侠、刘振立严重违纪违法被开除党籍军籍",
-        "summary": "张又侠、刘振立严重违纪违法被开除党籍军籍。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34116353",
-        "publishedAt": "2026-09-21T23:15:51Z"
+        "id": "02dfe6be0779c68bfd3e",
+        "title": "外交部：中美两国元首在半年内实现互访，具有历史性里程碑意义",
+        "summary": "外交部表示中美两国元首在半年内实现互访，具有历史性里程碑意义。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782205",
+        "publishedAt": "2026-09-22T04:52:15Z"
       },
       {
         "id": "f70260c437191aea672c",
@@ -36,108 +36,108 @@
         "summary": "广东省人大常委会党组成员覃伟中被查，曾任深圳市长。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34116039",
-        "publishedAt": "2026-09-21T23:15:51Z"
+        "publishedAt": "2026-09-22T04:52:15Z"
       },
       {
-        "id": "d7025eea7e8575614c18",
-        "title": "中国人民银行召开外资金融机构座谈会",
-        "summary": "中国人民银行召开外资金融机构座谈会，释放金融开放信号。",
+        "id": "ccbee4ef40a2d3de3d94",
+        "title": "张又侠、刘振立严重违纪违法被开除党籍军籍",
+        "summary": "张又侠、刘振立因严重违纪违法被开除党籍军籍。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34116353",
+        "publishedAt": "2026-09-22T04:52:15Z"
+      },
+      {
+        "id": "157214f316c5e6d8587b",
+        "title": "美财长：中美将在深圳继续讨论AI问题",
+        "summary": "美财长表示中美将在深圳继续讨论人工智能问题。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wbmzYhjlJY",
+        "publishedAt": "2026-09-22T04:52:15Z"
+      },
+      {
+        "id": "8a44553f262ac7a8e775",
+        "title": "芯片股集体大涨力撑纳指新高，AMD市值首破万亿，油金齐跌，比特币涨破8.6万",
+        "summary": "芯片股集体大涨力撑纳指创新高，AMD市值首破万亿美元，油金齐跌，比特币涨破8.6万。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782211",
+        "publishedAt": "2026-09-22T04:52:15Z"
+      },
+      {
+        "id": "c2b6537926033b71bbce",
+        "title": "事关智能驾驶、具身智能产业发展 多项硬核措施公布",
+        "summary": "事关智能驾驶、具身智能产业发展，多项硬核措施公布。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2489240",
-        "publishedAt": "2026-09-21T23:15:51Z"
-      },
-      {
-        "id": "ca531821ec7ac9254fa5",
-        "title": "多地禁产“老头乐”",
-        "summary": "多地禁产“老头乐”，加强低速电动车管理。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%A6%81%E4%BA%A7%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D",
-        "publishedAt": "2026-09-21T23:15:51Z"
-      },
-      {
-        "id": "58570007ab6fa0b64d0b",
-        "title": "多地宣布结婚发钱",
-        "summary": "多地宣布结婚发钱，鼓励婚育政策持续加码。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%E5%8F%91%E9%92%B1",
-        "publishedAt": "2026-09-21T23:15:51Z"
-      },
-      {
-        "id": "65b0e5943cf728fbc560",
-        "title": "美股收盘：纳指涨超2%再创新高 Meta版“龙虾”点燃行情 AMD市值首次突破万亿美元",
-        "summary": "美股纳指涨超2%再创新高，AMD市值首破万亿美元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2489502",
-        "publishedAt": "2026-09-21T23:15:51Z"
+        "url": "https://www.cls.cn/detail/2489760",
+        "publishedAt": "2026-09-22T04:52:15Z"
       }
     ]
   },
   "global": {
-    "overview": "本期国际要闻主要围绕特朗普政府与主流媒体冲突、美中AI安全讨论、乌克兰对莫斯科大规模无人机袭击、俄罗斯议会选举结果、以及多国应对气候变化与武装冲突等地缘政治热点展开。",
+    "overview": "国际要闻围绕美英白宫媒体禁令诉讼、联合国大会AI与自主武器议题、BC省起诉OpenAI、特朗普施压泽连斯基及俄罗斯议会选举等重大事件展开。",
     "items": [
       {
-        "id": "2a43d3d0261965da511d",
-        "title": "Trump says he’ll probably lose lawsuit brought by news outlets he banned from White House, blaming judge appointed by ‘TRUMP’ – live",
-        "summary": "特朗普表示可能输掉被禁媒体诉讼，指责法官。",
+        "id": "bcef55e839f61045fc58",
+        "title": "Trump says he’ll probably lose lawsuit brought by news outlets he banned from White House, blaming judge appointed by ‘TRUMP’ – as it happened",
+        "summary": "特朗普称可能输掉被禁媒体提起的诉讼，并归咎于其任命法官。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
-        "publishedAt": "2026-09-21T14:52:31Z"
+        "publishedAt": "2026-09-21T18:02:18Z"
       },
       {
         "id": "b3a7f5dee2b4131f95b1",
         "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-        "summary": "CNN等三家媒体起诉特朗普白宫禁令，捍卫新闻自由。",
+        "summary": "CNN、MS NOW和Politico就白宫采访禁令起诉特朗普政府。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-21T14:48:33Z"
+        "publishedAt": "2026-09-21T16:16:06Z"
       },
       {
-        "id": "530890e2fa07cc7bc1f9",
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "summary": "乌克兰对莫斯科发动数百架无人机大规模袭击，冲突升级。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-20T02:45:39Z"
-      },
-      {
-        "id": "2ea146bfbf8380925c0c",
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "summary": "美中高官讨论AI安全计划，为特朗普与习近平峰会做准备。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-20T21:50:56Z"
-      },
-      {
-        "id": "c897193625e5dc024a53",
-        "title": "Russia: Putin party retains majority in controlled parliamentary vote",
-        "summary": "俄罗斯议会选举统一俄罗斯党保持多数，普京阵营巩固权力。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-21T02:48:00Z"
-      },
-      {
-        "id": "f96596ddace9b4542cfb",
-        "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-        "summary": "台风“杜鹃”袭击日本，数百万人被敦促疏散。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-21T12:26:41Z"
-      },
-      {
-        "id": "182880283083a34f91bd",
-        "title": "Chancellor vows to stay on for Germany’s ‘democratic future’ after latest loss to far-right AfD",
-        "summary": "德国总理默茨在州选举惨败后誓言继续执政，极右翼AfD势力上升。",
+        "id": "7a2ee998feb5aeea79cb",
+        "title": "US TV networks suspend White House pool coverage over Trump media ban",
+        "summary": "美国各大电视新闻网因特朗普媒体禁令暂停白宫联合采访报道。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/21/germany-chancellor-freidrich-merz-cdu-christian-democratic-union-state-election-defeats-mecklenburg-western-pomerania-berlin",
-        "publishedAt": "2026-09-21T07:38:22Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-tv-networks-white-house-pool-coverage",
+        "publishedAt": "2026-09-21T17:37:29Z"
       },
       {
-        "id": "a958c561045de6e23489",
-        "title": "Trump administration readies sweeping sanctions against ICC, reports say",
-        "summary": "特朗普政府准备对国际刑事法院实施全面制裁。",
+        "id": "19da77742c5582e9180e",
+        "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+        "summary": "加拿大不列颠哥伦比亚省就校园枪击案起诉OpenAI及Sam Altman。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+        "publishedAt": "2026-09-21T20:29:22Z"
+      },
+      {
+        "id": "c6eaa26b14878287717d",
+        "title": "20 countries propose global oversight body to manage AI dangers",
+        "summary": "德、南非、加拿大等20国提议设立全球AI风险监管机构。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-        "publishedAt": "2026-09-20T17:19:42Z"
+        "url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss",
+        "publishedAt": "2026-09-21T19:42:02Z"
+      },
+      {
+        "id": "9497f4a1ca4eaaada8f0",
+        "title": "US strikes on alleged drug boats may be ‘crimes against humanity’, UN says",
+        "summary": "联合国专家称美军对涉毒船只打击或构成反人类罪。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss",
+        "publishedAt": "2026-09-21T19:52:23Z"
+      },
+      {
+        "id": "025b9ebe8a86071ce5a6",
+        "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
+        "summary": "普京统一俄罗斯党在议会选举中赢得超多数席位。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
+        "publishedAt": "2026-09-21T12:17:39Z"
+      },
+      {
+        "id": "197b622d40a0ae2ab71c",
+        "title": "Australia news live: police investigating possible organised crime links after 11-year-old boy shot in Sydney apartment",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news po",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
+        "publishedAt": "2026-09-21T20:38:29Z"
       }
     ]
   }
