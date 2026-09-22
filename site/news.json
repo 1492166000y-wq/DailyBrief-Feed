@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-22T11:35:13Z",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-22T16:56:24Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内热点集中在科技产业突破、金融市场波动、重大社会案件及矿产资源发现等方面。阿里云栖大会发布多项重磅技术进展，芯片股与AI应用概念带动资本市场情绪；社会领域，月子中心虐婴案移送公安、性侵举报未立案等事件引发关注；此外，我国战略找矿取得超大型铜金矿发现，重大外资项目密集落地。",
+    "overview": "国内关注：中国女排亚运会三连冠、中美元首互访、超级工程与航天员停航；李强部署新兴产业，外资项目密集落地，芯片股与AI应用走强，A股休市安排公布。",
     "items": [
       {
-        "id": "6a6b3b8770134108bc2c",
-        "title": "3倍性能最强芯片、10万亿参数模型、20GW数据中心……阿里云栖大会“火力全开”",
-        "summary": "阿里云栖大会发布3倍性能最强芯片、10万亿参数模型、20GW数据中心等重磅成果。",
+        "id": "de685ccbe3751405c3b9",
+        "title": "中美元首半年内互访，对两国关系发展的意义在哪里？",
+        "summary": "中美元首半年内互访，分析称将稳定大国关系预期，影响全球格局",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8wdVYrjdhAq",
+        "publishedAt": "2026-09-22T16:56:24Z"
+      },
+      {
+        "id": "800e2fd10c52c49300ca",
+        "title": "李强：加快培育壮大新兴产业和未来产业 持续做大做强先进制造业",
+        "summary": "李强要求加快培育新兴产业和未来产业，做大做强先进制造业",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2489879",
-        "publishedAt": "2026-09-22T11:35:13Z"
+        "url": "https://www.cls.cn/detail/2490354",
+        "publishedAt": "2026-09-22T16:56:24Z"
       },
       {
-        "id": "43ca12f19e92f386eb81",
-        "title": "中国发现超大型铜金矿",
-        "summary": "我国发现超大型铜金矿，战略找矿成果喜人，增强关键矿产资源保障能力。",
+        "id": "4fe419e613c2e4e25d1e",
+        "title": "还有一批超级工程即将改变中国",
+        "summary": "一批超级工程即将建成投用，将改变区域发展和能源供应格局",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7688329705472134710/",
+        "publishedAt": "2026-09-22T16:56:24Z"
+      },
+      {
+        "id": "6a0b66aa6e828e2b3fa1",
+        "title": "中国首批航天员已全部停航停训",
+        "summary": "中国首批航天员已全部停航停训，标志载人航天代际交接完成",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E8%B6%85%E5%A4%A7%E5%9E%8B%E9%93%9C%E9%87%91%E7%9F%BF",
-        "publishedAt": "2026-09-22T11:35:13Z"
-      },
-      {
-        "id": "8a44553f262ac7a8e775",
-        "title": "芯片股集体大涨力撑纳指新高，AMD市值首破万亿，油金齐跌，比特币涨破8.6万",
-        "summary": "芯片股集体大涨力撑纳指新高，AMD市值首破万亿美元，比特币涨破8.6万。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782211",
-        "publishedAt": "2026-09-22T11:35:13Z"
-      },
-      {
-        "id": "0dd8247b934b664b40aa",
-        "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
-        "summary": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉其政府。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34121849",
-        "publishedAt": "2026-09-22T11:35:13Z"
-      },
-      {
-        "id": "7f20c42c503d260f919f",
-        "title": "咸阳一新生儿遭月子中心护工拍打案一审裁定：涉嫌虐待，移送公安",
-        "summary": "咸阳一新生儿遭月子中心护工拍打案一审裁定：涉嫌虐待，移送公安机关。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34116356",
-        "publishedAt": "2026-09-22T11:35:13Z"
-      },
-      {
-        "id": "f01181df25ad254c85c4",
-        "title": "重庆理工大学通报“廖某被我校原教师李某性侵后报警未立案”",
-        "summary": "重庆理工大学通报“廖某被原教师李某性侵后报警未立案”事件，将严肃处理。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34117570",
-        "publishedAt": "2026-09-22T11:35:13Z"
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E8%88%AA%E5%A4%A9%E5%91%98%E5%B7%B2%E5%85%A8%E9%83%A8%E5%81%9C%E8%88%AA%E5%81%9C%E8%AE%AD",
+        "publishedAt": "2026-09-22T16:56:24Z"
       },
       {
         "id": "b4412d26d0d96878c0e2",
         "title": "新一批重大外资项目密集落地投产",
-        "summary": "新一批重大外资项目密集落地投产，显示中国吸引外资韧性及开放决心。",
+        "summary": "新一批重大外资项目密集落地投产，显示外资对中国市场信心",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7687922137337774126/",
-        "publishedAt": "2026-09-22T11:35:13Z"
+        "publishedAt": "2026-09-22T16:56:24Z"
       },
       {
-        "id": "c2b6537926033b71bbce",
-        "title": "事关智能驾驶、具身智能产业发展 多项硬核措施公布",
-        "summary": "事关智能驾驶、具身智能产业发展，多项硬核政策措施正式公布。",
+        "id": "8a44553f262ac7a8e775",
+        "title": "芯片股集体大涨力撑纳指新高，AMD市值首破万亿，油金齐跌，比特币涨破8.6万",
+        "summary": "芯片股集体大涨，AMD市值首破万亿，纳指创新高，油金齐跌",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782211",
+        "publishedAt": "2026-09-22T16:56:24Z"
+      },
+      {
+        "id": "3d7ef0053831760a1d0f",
+        "title": "最强国产AI芯片、20GW数据中心、千问手机、个人agent—阿里云栖大会“火力全开”",
+        "summary": "阿里云栖大会发布最强国产AI芯片、20GW数据中心等多项成果",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782272",
+        "publishedAt": "2026-09-22T16:56:24Z"
+      },
+      {
+        "id": "3dfe984f249fe0c92f0f",
+        "title": "一图看懂 | 2026年中秋、国庆休市日历来了，A股共休10天",
+        "summary": "2026年中秋国庆A股休市安排公布，共休市10天，提示投资者安排",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2489760",
-        "publishedAt": "2026-09-22T11:35:13Z"
+        "url": "https://www.cls.cn/detail/2490271",
+        "publishedAt": "2026-09-22T16:56:24Z"
       }
     ]
   },
   "global": {
-    "overview": "国际时政聚焦联合国大会召开与中东局势演变。特朗普将发表联大演讲并会见多国领导人，美媒因白宫禁令集体暂停联合采访并起诉政府；伊朗释放重开霍尔木兹海峡信号，油价剧烈波动；俄罗斯议会选举普京政党大胜，德国地方选举极右翼与左翼势力上升，欧洲对俄制裁谈判陷入僵局。",
+    "overview": "国际关注：特朗普联大演讲威胁伊朗并批盟友，伊朗释出重开霍尔木兹海峡信号；美在格陵兰新建基地，也门冲突升级，斯里兰卡复活节爆炸案宣判，欧洲药企警告落后中美。",
     "items": [
       {
-        "id": "b505ee7db56f21e14f11",
-        "title": "Trump set to address UNGA with Middle East and Ukraine on agenda – US politics live",
-        "summary": "特朗普将发表联大演讲并会见11国领导人，中东与乌克兰议题成焦点。",
+        "id": "8c5c2ebced4ff3d514f8",
+        "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
+        "summary": "特朗普联大演讲威胁摧毁伊朗，并谈古巴、墨西哥、格陵兰等政策",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-        "publishedAt": "2026-09-22T03:08:02Z"
+        "publishedAt": "2026-09-22T08:36:57Z"
       },
       {
-        "id": "6b518e4d6daa21bb1c0f",
-        "title": "Middle East crisis live: Iran ready to reopen strait of Hormuz within seven days if US lifts blockade, official says",
-        "summary": "伊朗官员称若美国解除封锁，将在7天内重开霍尔木兹海峡，油价波动。",
+        "id": "b212776ffae3238100e9",
+        "title": "Middle East crisis live: Trump says Iran will make a deal after US midterms",
+        "summary": "特朗普称伊朗中期选举后将达成协议，伊朗或以七天内重开海峡换缓和",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
-        "publishedAt": "2026-09-22T03:23:51Z"
+        "publishedAt": "2026-09-22T08:35:30Z"
+      },
+      {
+        "id": "9bd1616368e7340a09cb",
+        "title": "US to build new military bases in Greenland as deal seeks to end tensions between Nato allies - Europe live",
+        "summary": "美国与丹麦、格陵兰签署协议，将在格陵兰新建军事基地缓和矛盾",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
+        "publishedAt": "2026-09-22T08:33:13Z"
+      },
+      {
+        "id": "c7980a2b6e20790dec61",
+        "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+        "summary": "也门胡塞武装与政府军争夺红海沿岸高地，三天内至多169人死亡",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+        "publishedAt": "2026-09-22T05:57:36Z"
+      },
+      {
+        "id": "f3b435b35d153ace6d56",
+        "title": "Sri Lanka court convicts 15 over deadly Easter Sunday bombings",
+        "summary": "斯里兰卡法院判处15人有罪，涉2019年复活节爆炸案致279人死亡",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/22/sri-lanka-court-convicts-14-over-deadly-easter-bombings?traffic_source=rss",
+        "publishedAt": "2026-09-22T04:48:42Z"
+      },
+      {
+        "id": "fbd15bf5c4264b241694",
+        "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
+        "summary": "约旦国王谴责以色列在约旦河西岸扩建定居点，称属战争罪行",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
+        "publishedAt": "2026-09-22T08:35:14Z"
+      },
+      {
+        "id": "6211866294b2161159c2",
+        "title": "European drugmakers say they are ‘losing ground’ to US and Chinese rivals",
+        "summary": "欧洲九大药企致信各国领导人，警告在新药研发上落后美国和中国",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/sep/22/european-drugmakers-losing-ground-us-chinese-rivals",
+        "publishedAt": "2026-09-22T07:04:10Z"
       },
       {
         "id": "997248b37c731995a0e0",
         "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
-        "summary": "CNN、MS NOW和Politico就白宫禁令起诉特朗普，派拉蒙和解巨额并购诉讼。",
+        "summary": "CNN、MS NOW和Politico就白宫禁令起诉特朗普，派拉蒙和解并购诉讼",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal",
         "publishedAt": "2026-09-22T03:01:01Z"
-      },
-      {
-        "id": "24d202583a21c818e292",
-        "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
-        "summary": "欧盟对俄制裁调整陷入僵局，约3000家实体制裁措施面临到期失效风险。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
-        "publishedAt": "2026-09-22T03:06:24Z"
-      },
-      {
-        "id": "025b9ebe8a86071ce5a6",
-        "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
-        "summary": "普京统一俄罗斯党在议会选举中赢得超多数席位，继续掌控立法机构。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
-        "publishedAt": "2026-09-21T12:17:39Z"
-      },
-      {
-        "id": "ddd40adecbbc217bd743",
-        "title": "Germany: Chancellor Merz braces for difficult days ahead",
-        "summary": "德国地方选举极右翼与左翼势力上升，总理默茨面临艰难执政局面。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-chancellor-merz-braces-for-difficult-days-ahead/a-79365325?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-21T23:28:00Z"
-      },
-      {
-        "id": "0717c5cfdd4ab8bc91e9",
-        "title": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
-        "summary": "俄乌互袭造成伤亡，泽连斯基赴联大期间将与特朗普会面讨论能源停火。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-22T02:07:00Z"
-      },
-      {
-        "id": "c6eaa26b14878287717d",
-        "title": "20 countries propose global oversight body to manage AI dangers",
-        "summary": "德、南非、加拿大等20国提议设立全球AI风险监管机构，加强国际治理。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss",
-        "publishedAt": "2026-09-21T19:42:02Z"
       }
     ]
   }
