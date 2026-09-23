@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T07:44:30Z",
+  "generatedAt": "2026-09-23T13:37:42Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于多地省委书记集中调整、阿里云栖大会发布AI芯片与千亿级数据中心布局、高校推进无手机课堂及十五五教师发展行动等政策科技动向。",
+    "overview": "国内重点聚焦中美元首外交互动、央行跨季流动性操作、美伊谈判与霍尔木兹海峡局势、联合国大会相关表态，以及降压疫苗、格陵兰安全协议等公共政策与科技议题。",
     "items": [
       {
-        "id": "1c4a94e531e94e20fa7c",
-        "title": "2天内6省份省委书记调整",
-        "summary": "两天内六省份省委书记调整，涉及多地党政主要负责人更替，属重要人事变动。",
+        "id": "2cce7fa303f032b95f07",
+        "title": "中美元首半年内实现互访",
+        "summary": "中美元首半年内实现互访，双边高层互动进入新阶段，各界关注经贸与安全议题走向。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7688588554008182803/",
-        "publishedAt": "2026-09-23T07:44:30Z"
+        "url": "https://www.toutiao.com/trending/7687889715441389119/",
+        "publishedAt": "2026-09-23T13:37:42Z"
       },
       {
-        "id": "3d7ef0053831760a1d0f",
-        "title": "最强国产AI芯片、20GW数据中心、千问手机、个人agent—阿里云栖大会“火力全开”",
-        "summary": "阿里云栖大会发布最强国产AI芯片、20GW数据中心及千问手机、个人agent等成果。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782272",
-        "publishedAt": "2026-09-23T07:44:30Z"
-      },
-      {
-        "id": "e9401bb558784e886d7e",
-        "title": "上课，请先收起手机！高校推进“无手机课堂”，能帮大学生上好课吗",
-        "summary": "高校推进无手机课堂，引发对大学生课堂专注度与教学效果的讨论。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34073740",
-        "publishedAt": "2026-09-23T07:44:30Z"
-      },
-      {
-        "id": "678748b19aed6430e9ad",
-        "title": "“十五五”教师发展国家行动来了",
-        "summary": "十五五教师发展国家行动出台，明确未来教师队伍建设方向与举措。",
+        "id": "fc75899e503b8487e74e",
+        "title": "打一针管数月的降压疫苗要来了",
+        "summary": "打一针管数月的降压疫苗研发取得进展，若落地将改变高血压长期用药模式。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95%E5%9B%BD%E5%AE%B6%E8%A1%8C%E5%8A%A8%E6%9D%A5%E4%BA%86",
-        "publishedAt": "2026-09-23T07:44:30Z"
-      },
-      {
-        "id": "fee8c6253a4797a3e13d",
-        "title": "教育部：督促学校把“2115”排进课表",
-        "summary": "教育部督促学校将2115排进课表，推动学生每日体育活动时间落实。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E7%9D%A3%E4%BF%83%E5%AD%A6%E6%A0%A1%E6%8A%8A%E2%80%9C2115%E2%80%9D%E6%8E%92%E8%BF%9B%E8%AF%BE%E8%A1%A8",
-        "publishedAt": "2026-09-23T07:44:30Z"
-      },
-      {
-        "id": "bea53715257adc4a8633",
-        "title": "“黑老大”黄大发被判死刑立即执行",
-        "summary": "黑老大黄大发被判死刑立即执行，涉黑案件依法从严惩处。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%80%81%E5%A4%A7%E2%80%9D%E9%BB%84%E5%A4%A7%E5%8F%91%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%E7%AB%8B%E5%8D%B3%E6%89%A7%E8%A1%8C",
-        "publishedAt": "2026-09-23T07:44:30Z"
-      },
-      {
-        "id": "100b63811a01e64d127a",
-        "title": "赛力斯董事长回应与华为合作模式生变：提升品牌价值与销量，全球通行做法",
-        "summary": "赛力斯董事长回应与华为合作模式生变，称属提升品牌价值的全球通行做法。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34125826",
-        "publishedAt": "2026-09-23T07:44:30Z"
+        "url": "https://www.baidu.com/s?wd=%E6%89%93%E4%B8%80%E9%92%88%E7%AE%A1%E6%95%B0%E6%9C%88%E7%9A%84%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86",
+        "publishedAt": "2026-09-23T13:37:42Z"
       },
       {
         "id": "344faaed13bf04678578",
         "title": "美伊谈判“罗生门”：若解除封锁，7天内重开霍尔木兹海峡？",
-        "summary": "美伊谈判现罗生门，伊方称若解除封锁或七天内重开霍尔木兹海峡。",
+        "summary": "美伊谈判出现罗生门，若解除封锁或7天内重开霍尔木兹海峡，牵动全球能源供应。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782296",
-        "publishedAt": "2026-09-23T07:44:30Z"
+        "publishedAt": "2026-09-23T13:37:42Z"
+      },
+      {
+        "id": "90ad1cc91136a8530fb5",
+        "title": "央行将开展隔夜逆回购操作 每日操作上限升至10000亿元 平稳呵护跨季长假的资金波动",
+        "summary": "央行开展隔夜逆回购操作，每日上限升至1万亿元，平稳呵护跨季和长假资金波动。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2491465",
+        "publishedAt": "2026-09-23T13:37:42Z"
+      },
+      {
+        "id": "e3f4bbf1bc8a4381e9de",
+        "title": "最狠的咒骂，在联合国大会上演",
+        "summary": "联合国大会现场出现激烈言辞交锋，大国博弈在多边舞台公开化，引发广泛关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8we9RaJkWp8",
+        "publishedAt": "2026-09-23T13:37:42Z"
+      },
+      {
+        "id": "ed7da58dd824a7c80a90",
+        "title": "美国与丹麦及格陵兰岛签署安全协议",
+        "summary": "美国与丹麦及格陵兰岛签署安全协议，北极地缘竞争升温，战略资源与航道成焦点。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34127243",
+        "publishedAt": "2026-09-23T13:37:42Z"
+      },
+      {
+        "id": "f4a9752f9e6af9a5c55a",
+        "title": "高市在联大呼吁删除《联合国宪章》“敌国条款”，外交部回应",
+        "summary": "日本高市在联大呼吁删除《联合国宪章》敌国条款，外交部回应，历史与安全议题再起。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wefLenPDbz",
+        "publishedAt": "2026-09-23T13:37:42Z"
+      },
+      {
+        "id": "2c14a01970c6d4065e63",
+        "title": "习近平离京对美国进行国事访问",
+        "summary": "习近平离京对美国进行国事访问，中美元首外交互动牵动全球格局与市场预期。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782373",
+        "publishedAt": "2026-09-23T13:37:42Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊在联合国大会期间举行六月以来首次会谈并讨论霍尔木兹海峡问题，美国与丹麦、格陵兰签署北极安全协议，斯里兰卡复活节爆炸案宣判，多国在联大就加沙与信息战表态。",
+    "overview": "国际重点包括特朗普联大讲话与美伊会谈、中美元首会晤及AI监管动向、埃塞俄比亚与提格雷冲突再起、国际刑事法院定罪、委内瑞拉石油协议，以及美国疫苗政策与新闻自由争议。",
     "items": [
       {
-        "id": "758a1eb1708aff0073af",
-        "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-        "summary": "美伊在特朗普发出消灭威胁后举行六月以来首次会谈，双方此前间歇交火。",
+        "id": "36b2e451c38d393f8d83",
+        "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+        "summary": "特朗普政府指控被封禁媒体散布虚假信息，法院听证前再起争议，涉国家安全与新闻自由。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-22T22:12:56Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T05:34:25Z"
       },
       {
-        "id": "debc89676f7f0f441542",
-        "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-        "summary": "美伊在联大举行斡旋会谈，伊朗将解除封锁与解冻资产作为外交进展条件。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
-        "publishedAt": "2026-09-22T20:42:15Z"
+        "id": "b7f1228aa0183a35798f",
+        "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
+        "summary": "斯洛伐克总理菲佐就北约第五条言论引发批评，外界质疑其对北约承诺的立场。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-23T05:32:00Z"
       },
       {
-        "id": "e6d14fd56c4c345b9bc3",
-        "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
-        "summary": "美国与丹麦、格陵兰签署北极安全协议，将在格陵兰设两处军事基地并重申丹麦主权。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
-        "publishedAt": "2026-09-22T10:46:32Z"
+        "id": "ea031ffa09166ceda232",
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+        "summary": "埃塞俄比亚与提格雷互相指认发动攻势，提格雷当局据报接管机场，新战争风险上升。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T05:17:11Z"
       },
       {
-        "id": "fa17e7a76720c3e0be27",
-        "title": "Cooperation is the goal at the UNGA, but is it possible?",
-        "summary": "联大一般性辩论开幕，各国领导人就合作与全球秩序阐述立场。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss",
-        "publishedAt": "2026-09-22T21:07:26Z"
-      },
-      {
-        "id": "7a11cdecf197e2471d69",
-        "title": "New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN",
-        "summary": "英国宣布设立新机构应对俄罗斯等国的信息战与深度伪造威胁。",
+        "id": "f6bc8e601328d5954214",
+        "title": "Trump to meet China’s Xi as Congress mulls bill banning artificial superintelligence – US politics live",
+        "summary": "特朗普将会晤习近平，美国国会同时审议禁止超级人工智能法案，科技与地缘交织。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
-        "publishedAt": "2026-09-22T21:00:16Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
+        "publishedAt": "2026-09-23T05:10:17Z"
       },
       {
-        "id": "91e7ff0d9ebc950db39f",
-        "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-        "summary": "法国在联大批评加沙局势，加拿大、英国表态支持巴勒斯坦建国。",
+        "id": "107d6335a2b6be1f4f2b",
+        "title": "Delays in Covid shots for kids is latest bid by Trump officials to restrict vaccines",
+        "summary": "特朗普政府推迟儿童新冠疫苗接种，至少11州受影响，公共卫生政策争议加剧。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/23/covid-vaccines-delay-children",
+        "publishedAt": "2026-09-23T05:04:43Z"
+      },
+      {
+        "id": "c6232fb24de0392830d2",
+        "title": "ICC convicts former Central African Republic militia leader",
+        "summary": "国际刑事法院裁定中非共和国前民兵领导人犯有危害人类罪，涉酷刑等暴行。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
-        "publishedAt": "2026-09-22T18:36:32Z"
+        "url": "https://www.aljazeera.com/news/2026/9/23/icc-convicts-central-african-militia-leader-of-crimes-against-humanity?traffic_source=rss",
+        "publishedAt": "2026-09-23T04:59:24Z"
       },
       {
-        "id": "65953b1ec7628ed1d2c1",
-        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-        "summary": "斯里兰卡法院就2019年复活节爆炸案判处15人有罪，袭击致270人死亡。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-22T11:47:44Z"
+        "id": "f702c6b2861c44c7f03b",
+        "title": "Venezuela’s Delcy Rodríguez hails ‘historic meeting’ with Donald Trump in New York",
+        "summary": "委内瑞拉临时总统罗德里格斯称与特朗普会晤具历史意义，双方达成大规模石油协议。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
+        "publishedAt": "2026-09-23T04:54:07Z"
       },
       {
-        "id": "1779106b5046db0d5124",
-        "title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
-        "summary": "AI热潮推动纳斯达克指数创历史新高，投资者淡化AI安全与伊朗战争担忧。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss",
-        "publishedAt": "2026-09-22T18:50:36Z"
+        "id": "0c6c93b1baa27e5c4937",
+        "title": "Trump addresses UN with mixture of boasts, threats and jibes | First Thing",
+        "summary": "特朗普在联大发表夹杂自夸、威胁与嘲讽的讲话，美伊场边会谈同时进行，局势复杂。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/23/first-thing-trump-addresses-un-boasts-threats-jibes-us-iran-meeting",
+        "publishedAt": "2026-09-23T04:01:55Z"
       }
     ]
   }
