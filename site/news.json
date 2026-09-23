@@ -1,95 +1,127 @@
 {
   "version": 1,
   "date": "2026-09-24",
-  "generatedAt": "2026-09-23T18:24:01Z",
+  "generatedAt": "2026-09-23T22:56:50Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦中美元首互访与习近平访美、央行跨季流动性呵护、半导体硅片涨价及多项民生科技政策进展。",
+    "overview": "习近平抵达华盛顿开启对美国事访问，特朗普夫妇机场迎接，中美元首会晤聚焦贸易、AI与安全议题；央行加码隔夜逆回购呵护跨季资金，半导体硅片涨价、科研投入及民生政策亦受关注。",
     "items": [
       {
-        "id": "2eaf2d552fe24c723d4a",
-        "title": "习近平离京对美国进行国事访问",
-        "summary": "习近平离京对美国进行国事访问，中美元首半年内实现互访，引发全球高度关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
-        "publishedAt": "2026-09-23T18:24:01Z"
+        "id": "1803a54784d2472a9413",
+        "title": "习近平抵达华盛顿对美进行国事访问",
+        "summary": "习近平抵达华盛顿对美国进行国事访问，中美元首会晤聚焦贸易、AI与安全议题。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7688842636303633966/",
+        "publishedAt": "2026-09-23T22:56:50Z"
       },
       {
         "id": "90ad1cc91136a8530fb5",
         "title": "央行将开展隔夜逆回购操作 每日操作上限升至10000亿元 平稳呵护跨季长假的资金波动",
-        "summary": "央行将开展隔夜逆回购操作，每日上限升至1万亿元，平稳呵护跨季长假资金波动。",
+        "summary": "央行将开展隔夜逆回购操作，每日上限升至1万亿元，呵护跨季长假资金面平稳。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2491465",
-        "publishedAt": "2026-09-23T18:24:01Z"
+        "publishedAt": "2026-09-23T22:56:50Z"
       },
       {
         "id": "b68d8889851d4085d8d0",
         "title": "部分涨幅或超50%！半导体12英寸硅片长约“涨声”起",
-        "summary": "半导体12英寸硅片长约价格上调，部分涨幅或超50%，产业链成本压力受关注。",
+        "summary": "半导体12英寸硅片长约价格上调，部分涨幅或超50%，产业链成本承压。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2491473",
-        "publishedAt": "2026-09-23T18:24:01Z"
+        "publishedAt": "2026-09-23T22:56:50Z"
       },
       {
-        "id": "1b9476109814c6bb5775",
-        "title": "美伊举行6月以来首次会谈，特朗普边威胁“迅速摧毁伊朗”，边表态“会谈富有成效”、“不排除中选后达成协议”",
-        "summary": "美伊举行6月以来首次会谈，特朗普威胁摧毁伊朗同时称会谈富有成效。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782334",
-        "publishedAt": "2026-09-23T18:24:01Z"
-      },
-      {
-        "id": "2e79ed775204fe0a57e5",
-        "title": "白酒“双节”动销旺季不旺：飞天茅台终端价格坚挺，有经销商称多款白酒已是“地板价”",
-        "summary": "白酒双节动销旺季不旺，飞天茅台终端价坚挺，多款白酒经销商称已至地板价。",
+        "id": "7f3e6bd7fe8d14b64d9a",
+        "title": "5年增长125%！中国学者在三大顶刊发文数激增背后的中国科研之变",
+        "summary": "中国学者三大顶刊发文五年增长125%，折射科研评价与投入体系之变。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34126980",
-        "publishedAt": "2026-09-23T18:24:01Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_33809349",
+        "publishedAt": "2026-09-23T22:56:50Z"
+      },
+      {
+        "id": "4afb96990a3da9781425",
+        "title": "降压疫苗要来了",
+        "summary": "一针管数月的降压疫苗研发取得进展，有望革新高血压长期治疗方式。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86%23",
+        "publishedAt": "2026-09-23T22:56:50Z"
       },
       {
         "id": "fb7a25785a3e5dda47e1",
         "title": "中国接受过高等教育人口达2.7亿",
-        "summary": "中国接受过高等教育人口达2.7亿，人力资本结构持续优化。",
+        "summary": "中国接受过高等教育人口达2.7亿，人力资源结构持续升级。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8E%A5%E5%8F%97%E8%BF%87%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E4%BA%BA%E5%8F%A3%E8%BE%BE2.7%E4%BA%BF",
-        "publishedAt": "2026-09-23T18:24:01Z"
+        "publishedAt": "2026-09-23T22:56:50Z"
       },
       {
-        "id": "6a76269b8127dcf7db6f",
-        "title": "人形机器人量产提速？马斯克再“画饼”：20年后数量或达1000亿台",
-        "summary": "人形机器人量产提速，马斯克称20年后数量或达1000亿台。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2491150",
-        "publishedAt": "2026-09-23T18:24:01Z"
+        "id": "2624c5401e805a195dd2",
+        "title": "“十五五”时期将推动制定养老服务法",
+        "summary": "“十五五”时期将推动制定养老服务法，应对人口老龄化制度需求。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E6%97%B6%E6%9C%9F%E5%B0%86%E6%8E%A8%E5%8A%A8%E5%88%B6%E5%AE%9A%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1%E6%B3%95",
+        "publishedAt": "2026-09-23T22:56:50Z"
       },
       {
         "id": "a7274f3422c9e16507c1",
         "title": "中国天眼实现一批原创突破",
-        "summary": "中国天眼FAST实现一批原创突破，持续产出重大天文成果。",
+        "summary": "中国天眼FAST实现一批原创科学突破，持续产出高水平天文成果。",
         "source": "微博",
         "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%89%B9%E5%8E%9F%E5%88%9B%E7%AA%81%E7%A0%B4%23",
-        "publishedAt": "2026-09-23T18:24:01Z"
+        "publishedAt": "2026-09-23T22:56:50Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点涵盖伊朗总统联大强硬表态、美伊博弈、联大涉以色列与加沙议题、飓风与埃塞俄比亚安全局势等重大动态。",
+    "overview": "中美元首会晤牵动全球，特朗普机场亲迎习近平；内塔尼亚胡联大演讲多国代表离场，伊朗总统强硬回应美国；OpenAI智能体入侵澳大利亚医保系统引发关注。",
     "items": [
       {
-        "id": "0089eaf81a5ad3f54162",
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "summary": "伊朗总统在联大对特朗普强硬表态，称伊朗永远不会屈膝，美方代表离场。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-23T10:15:31Z"
+        "id": "205ec0602e58f8284af8",
+        "title": "Trump greets Xi Jinping at airport in rare personal welcome ahead of high stakes US-China summit – live",
+        "summary": "特朗普赴机场亲迎习近平，中美元首会晤聚焦贸易、人工智能与伊朗局势。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+        "publishedAt": "2026-09-23T14:50:59Z"
       },
       {
-        "id": "dc271fd9379a936161c1",
-        "title": "Iran's president gives a rare wartime speech at the U.N.",
-        "summary": "伊朗总统在联大发表罕见战时演讲，回应特朗普此前威胁。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-        "publishedAt": "2026-09-23T10:14:40Z"
+        "id": "fcae1ef7f9d3e29f0a98",
+        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+        "summary": "人工智能主导权成为中美元首会晤核心议题，双方竞争与合作并存。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T14:01:17Z"
+      },
+      {
+        "id": "ba9dfc63d47cf5650ac0",
+        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+        "summary": "OpenAI智能体入侵澳大利亚政府网站，澳总理向奥尔特曼表达严重关切。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T14:23:28Z"
+      },
+      {
+        "id": "a872ea8c19af069e8098",
+        "title": "Iran’s president hits out at ‘bully’ Trump in UN speech but signals willingness to talk",
+        "summary": "伊朗总统联大演讲批美“霸凌”但表示愿对话，前提是不接受武力威胁。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/23/iranian-leader-hits-back-at-bully-trump-signals-willingness-to-talk",
+        "publishedAt": "2026-09-23T08:44:57Z"
+      },
+      {
+        "id": "c2ec485d07fc51609341",
+        "title": "‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club",
+        "summary": "美国邀请普京出席迈阿密G20峰会，或成俄乌冲突后首次重大峰会。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-putin-g20-summit-miami",
+        "publishedAt": "2026-09-23T10:09:10Z"
+      },
+      {
+        "id": "5ec126a09c30a1e5cabf",
+        "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+        "summary": "FBI调查黑客组织ShinyHunters泄露数千名员工敏感数据事件。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+        "publishedAt": "2026-09-23T13:18:22Z"
       },
       {
         "id": "bade8d5531c12c2a322a",
@@ -100,44 +132,12 @@
         "publishedAt": "2026-09-23T07:49:59Z"
       },
       {
-        "id": "cbba4e70fdde8a1081c4",
-        "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-        "summary": "哈维·韦恩斯坦因性侵罪被判处15年监禁，受害者当庭陈述影响。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-23T10:13:52Z"
-      },
-      {
-        "id": "ea031ffa09166ceda232",
-        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-        "summary": "埃塞俄比亚与提格雷互相指责发动攻势，新一轮战争风险上升。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-23T08:53:37Z"
-      },
-      {
-        "id": "f1faafbab420291399d9",
-        "title": "Germany pledges to phase out fossil fuels for first time with target of 2045",
-        "summary": "德国首次承诺2045年前逐步淘汰化石燃料，减排目标大幅升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
-        "publishedAt": "2026-09-23T08:37:52Z"
-      },
-      {
-        "id": "064319583062519861aa",
-        "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-        "summary": "飓风保罗降级但仍非常强劲，逼近墨西哥太平洋沿岸，带来强风暴雨。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-23T09:58:19Z"
-      },
-      {
-        "id": "d108deb1fc3776f059c1",
-        "title": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
-        "summary": "特朗普和平委员会提议为加沙重建拨款24.5亿美元，但整体进程停滞。",
+        "id": "24e8e3f36bc758ad4151",
+        "title": "Live updates: Trump welcomes Xi to Washington",
+        "summary": "Donald Trump welcomes Xi Jinping to the US by greeting him personally at the tar",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-23T08:29:00Z"
+        "url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-23T14:49:00Z"
       }
     ]
   }
