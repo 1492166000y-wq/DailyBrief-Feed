@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-23",
-  "generatedAt": "2026-09-22T21:17:07Z",
+  "generatedAt": "2026-09-23T00:31:12Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦宏观政策、产业科技与公共安全：国务院部署新兴产业和先进制造业，外资重大项目落地，阿里云栖大会发布国产AI芯片进展，半导体新股与资本市场动态受关注，同时涉及航天、食品安全及涉美新闻诉讼等议题。",
+    "overview": "国内聚焦阿里云栖大会AI芯片与数据中心进展、李强部署新兴产业培育、外资重大项目落地以及中美AI预警热线磋商；同时关注亚运女排夺冠、秋分及双节休市安排等民生经济信息。",
     "items": [
-      {
-        "id": "800e2fd10c52c49300ca",
-        "title": "李强：加快培育壮大新兴产业和未来产业 持续做大做强先进制造业",
-        "summary": "李强强调加快培育壮大新兴产业和未来产业，持续做大做强先进制造业",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2490354",
-        "publishedAt": "2026-09-22T21:17:07Z"
-      },
-      {
-        "id": "b4412d26d0d96878c0e2",
-        "title": "新一批重大外资项目密集落地投产",
-        "summary": "新一批重大外资项目密集落地投产，显示外资对中国市场信心",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7687922137337774126/",
-        "publishedAt": "2026-09-22T21:17:07Z"
-      },
       {
         "id": "3d7ef0053831760a1d0f",
         "title": "最强国产AI芯片、20GW数据中心、千问手机、个人agent—阿里云栖大会“火力全开”",
-        "summary": "阿里云栖大会发布最强国产AI芯片、20GW数据中心、千问手机及个人agent",
+        "summary": "阿里云栖大会发布最强国产AI芯片、20GW数据中心、千问手机及个人agent，AI全栈能力集中亮相。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782272",
-        "publishedAt": "2026-09-22T21:17:07Z"
+        "publishedAt": "2026-09-23T00:31:12Z"
+      },
+      {
+        "id": "800e2fd10c52c49300ca",
+        "title": "李强：加快培育壮大新兴产业和未来产业 持续做大做强先进制造业",
+        "summary": "李强强调加快培育壮大新兴产业和未来产业，持续做大做强先进制造业。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2490354",
+        "publishedAt": "2026-09-23T00:31:12Z"
+      },
+      {
+        "id": "64549eb289d7448ecdc9",
+        "title": "鲁比奥：将与中国探讨建设AI预警热线",
+        "summary": "鲁比奥表示将与中国探讨建设AI预警热线，涉及人工智能领域风险管控与沟通机制。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8we6gVwGc52",
+        "publishedAt": "2026-09-23T00:31:12Z"
       },
       {
         "id": "0dd8247b934b664b40aa",
         "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
-        "summary": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
+        "summary": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉，凸显美媒与政府紧张关系。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34121849",
-        "publishedAt": "2026-09-22T21:17:07Z"
+        "publishedAt": "2026-09-23T00:31:12Z"
       },
       {
-        "id": "de685ccbe3751405c3b9",
-        "title": "中美元首半年内互访，对两国关系发展的意义在哪里？",
-        "summary": "中美元首半年内互访，分析其对两国关系发展的意义",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wdVYrjdhAq",
-        "publishedAt": "2026-09-22T21:17:07Z"
+        "id": "b4412d26d0d96878c0e2",
+        "title": "新一批重大外资项目密集落地投产",
+        "summary": "新一批重大外资项目密集落地投产，显示中国对外资吸引力持续。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7687922137337774126/",
+        "publishedAt": "2026-09-23T00:31:12Z"
       },
       {
-        "id": "6a0b66aa6e828e2b3fa1",
-        "title": "中国首批航天员已全部停航停训",
-        "summary": "中国首批航天员已全部停航停训，标志航天员队伍完成新老交替",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E8%88%AA%E5%A4%A9%E5%91%98%E5%B7%B2%E5%85%A8%E9%83%A8%E5%81%9C%E8%88%AA%E5%81%9C%E8%AE%AD",
-        "publishedAt": "2026-09-22T21:17:07Z"
-      },
-      {
-        "id": "98dd53210b1407897dd1",
-        "title": "南京通报一幼儿园多名幼儿午餐后呕吐：园长撤职、厨师开除",
-        "summary": "南京通报幼儿园多名幼儿午餐后呕吐，园长撤职、厨师开除",
+        "id": "2cf606f03efc1bb1405a",
+        "title": "三大球第一金！中国女排成功加冕亚运会十冠王",
+        "summary": "中国女排3-0横扫日本，夺亚运会三大球首金并加冕亚运十冠王。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34122860",
-        "publishedAt": "2026-09-22T21:17:07Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34125616",
+        "publishedAt": "2026-09-23T00:31:12Z"
       },
       {
-        "id": "f75d137301309dbf0ae5",
-        "title": "工信部旗下媒体：“去宁德化”论调要不得",
-        "summary": "工信部旗下媒体发文称去宁德化论调要不得，力挺动力电池龙头",
+        "id": "3dfe984f249fe0c92f0f",
+        "title": "一图看懂 | 2026年中秋、国庆休市日历来了，A股共休10天",
+        "summary": "2026年中秋、国庆休市日历出炉，A股共休市10天，便于投资者安排交易。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2490271",
+        "publishedAt": "2026-09-23T00:31:12Z"
+      },
+      {
+        "id": "344faaed13bf04678578",
+        "title": "美伊谈判“罗生门”：若解除封锁，7天内重开霍尔木兹海峡？",
+        "summary": "美伊谈判现“罗生门”，伊朗据称若解除封锁可在7天内重开霍尔木兹海峡。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782280",
-        "publishedAt": "2026-09-22T21:17:07Z"
+        "url": "https://wallstreetcn.com/articles/3782296",
+        "publishedAt": "2026-09-23T00:31:12Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻围绕联合国大会展开：特朗普就对伊、委内瑞拉及媒体诉讼表态，多国谴责以色列，美欧就格陵兰防务和俄制裁现分歧，同时涵盖AI模型发布、科技安全与自然灾害等动态。",
+    "overview": "国际方面，联合国大会成为焦点：特朗普威胁伊朗同时美伊在联大会场举行会谈、美与丹麦格陵兰签署北极安全协议、卡塔尔与欧盟等就中东局势发声；此外美国联邦政府与媒体冲突、飓风与也门冲突等事件持续发酵。",
     "items": [
       {
         "id": "8c5c2ebced4ff3d514f8",
         "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
-        "summary": "特朗普联大讲话威胁若无法达成协议将摧毁伊朗，并谈及古巴、墨西哥与格陵兰",
+        "summary": "特朗普在联大讲话中为对伊朗和委内瑞拉行动辩护，威胁若未达成协议将“消灭”伊朗。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-        "publishedAt": "2026-09-22T13:03:03Z"
+        "publishedAt": "2026-09-22T16:13:19Z"
+      },
+      {
+        "id": "e3d25bed58ac66a59ec1",
+        "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
+        "summary": "特朗普确认在联合国与伊朗代表团举行了“非常好”的会谈，双方接触引关注。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+        "publishedAt": "2026-09-22T16:00:00Z"
       },
       {
         "id": "e6d14fd56c4c345b9bc3",
         "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
-        "summary": "美国与丹麦、格陵兰签署北极安全协议，将在格陵兰建两处军事基地",
+        "summary": "美国与丹麦、格陵兰签署北极安全协议，将在格陵兰建两处军事基地，重申丹麦主权。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
         "publishedAt": "2026-09-22T10:46:32Z"
       },
       {
-        "id": "8d2ed5b4f76e0cf708e2",
-        "title": "Claude Opus 5.5",
-        "summary": "Anthropic发布Claude Opus 5.5模型，引发AI性能与价格广泛讨论",
-        "source": "Hacker News",
-        "url": "https://www.anthropic.com/claude-opus-5-5",
-        "publishedAt": "2026-09-22T08:29:05Z"
-      },
-      {
-        "id": "7fa7474534e841de7219",
-        "title": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
-        "summary": "欧盟将俄寡头乌斯马诺夫和弗里德曼移出制裁名单，乌克兰批评此举可耻",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/eu-drops-sanctions-for-russian-oligarchs-usmanov-and-fridman/a-79381048?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-22T11:43:00Z"
-      },
-      {
-        "id": "56e3e574f93d9e13a6b0",
-        "title": "Trump made over 1,000 July stock trades worth up to $270m, filings reveal",
-        "summary": "财务披露显示特朗普7月进行超千笔股票交易，价值最高达2.7亿美元",
+        "id": "51c4e6803b809c150f13",
+        "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
+        "summary": "欧盟同意将俄富豪乌斯马诺夫和弗里德曼移出制裁名单，同时延长对近3000个对象的限制。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing",
-        "publishedAt": "2026-09-22T12:13:35Z"
+        "url": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms",
+        "publishedAt": "2026-09-22T10:07:19Z"
       },
       {
-        "id": "c754841d1d4c426e5ed4",
-        "title": "How Ceuta, football and Israel are shaping Morocco's election",
-        "summary": "摩洛哥大选围绕休达、足球与以色列议题展开，年轻选民成争夺焦点",
+        "id": "ec1c87b474f2f2dc5d4e",
+        "title": "US fighter jet crashes at air base in western Germany",
+        "summary": "美军一架F-16战机在德国西部施潘达勒姆空军基地附近坠毁，飞行员安全弹射。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany",
+        "publishedAt": "2026-09-22T08:49:18Z"
+      },
+      {
+        "id": "c7980a2b6e20790dec61",
+        "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+        "summary": "也门胡塞武装与沙特支持政府军激战红海沿岸，三天内多达169人死亡，数千人逃离。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+        "publishedAt": "2026-09-22T05:57:36Z"
+      },
+      {
+        "id": "ecd62bee28c39dd1b4df",
+        "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+        "summary": "飓风“波罗”在墨西哥南部海岸外由热带风暴快速增强为五级飓风，风速达165英里/时。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+        "publishedAt": "2026-09-22T11:09:29Z"
+      },
+      {
+        "id": "d2e0fd05c4b79d650bba",
+        "title": "What is the White House pool and why is it in a row with Trump?",
+        "summary": "白宫记者团与特朗普爆发重大争执，电视网暂停报道，白宫记者池机制引发关注。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-22T12:59:00Z"
-      },
-      {
-        "id": "f1191da8c84944826910",
-        "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-        "summary": "五角大楼承认对伊朗学校导弹袭击部分归因于过度依赖人工智能",
-        "source": "Hacker News",
-        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-        "publishedAt": "2026-09-22T11:03:38Z"
-      },
-      {
-        "id": "71ba34686f5d03430b2f",
-        "title": "Macron: France won’t ‘yield an inch’ on Ukraine support",
-        "summary": "French President Emmanuel Macron says the “coalition of the willing\" will not ba",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
-        "publishedAt": "2026-09-22T13:09:03Z"
+        "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-22T11:25:16Z"
       }
     ]
   }
