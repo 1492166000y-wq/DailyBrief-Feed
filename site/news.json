@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-23T13:37:42Z",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-23T18:24:01Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重点聚焦中美元首外交互动、央行跨季流动性操作、美伊谈判与霍尔木兹海峡局势、联合国大会相关表态，以及降压疫苗、格陵兰安全协议等公共政策与科技议题。",
+    "overview": "今日国内要闻聚焦中美元首互访与习近平访美、央行跨季流动性呵护、半导体硅片涨价及多项民生科技政策进展。",
     "items": [
       {
-        "id": "2cce7fa303f032b95f07",
-        "title": "中美元首半年内实现互访",
-        "summary": "中美元首半年内实现互访，双边高层互动进入新阶段，各界关注经贸与安全议题走向。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7687889715441389119/",
-        "publishedAt": "2026-09-23T13:37:42Z"
-      },
-      {
-        "id": "fc75899e503b8487e74e",
-        "title": "打一针管数月的降压疫苗要来了",
-        "summary": "打一针管数月的降压疫苗研发取得进展，若落地将改变高血压长期用药模式。",
+        "id": "2eaf2d552fe24c723d4a",
+        "title": "习近平离京对美国进行国事访问",
+        "summary": "习近平离京对美国进行国事访问，中美元首半年内实现互访，引发全球高度关注。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%89%93%E4%B8%80%E9%92%88%E7%AE%A1%E6%95%B0%E6%9C%88%E7%9A%84%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86",
-        "publishedAt": "2026-09-23T13:37:42Z"
-      },
-      {
-        "id": "344faaed13bf04678578",
-        "title": "美伊谈判“罗生门”：若解除封锁，7天内重开霍尔木兹海峡？",
-        "summary": "美伊谈判出现罗生门，若解除封锁或7天内重开霍尔木兹海峡，牵动全球能源供应。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782296",
-        "publishedAt": "2026-09-23T13:37:42Z"
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+        "publishedAt": "2026-09-23T18:24:01Z"
       },
       {
         "id": "90ad1cc91136a8530fb5",
         "title": "央行将开展隔夜逆回购操作 每日操作上限升至10000亿元 平稳呵护跨季长假的资金波动",
-        "summary": "央行开展隔夜逆回购操作，每日上限升至1万亿元，平稳呵护跨季和长假资金波动。",
+        "summary": "央行将开展隔夜逆回购操作，每日上限升至1万亿元，平稳呵护跨季长假资金波动。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2491465",
-        "publishedAt": "2026-09-23T13:37:42Z"
+        "publishedAt": "2026-09-23T18:24:01Z"
       },
       {
-        "id": "e3f4bbf1bc8a4381e9de",
-        "title": "最狠的咒骂，在联合国大会上演",
-        "summary": "联合国大会现场出现激烈言辞交锋，大国博弈在多边舞台公开化，引发广泛关注。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8we9RaJkWp8",
-        "publishedAt": "2026-09-23T13:37:42Z"
+        "id": "b68d8889851d4085d8d0",
+        "title": "部分涨幅或超50%！半导体12英寸硅片长约“涨声”起",
+        "summary": "半导体12英寸硅片长约价格上调，部分涨幅或超50%，产业链成本压力受关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2491473",
+        "publishedAt": "2026-09-23T18:24:01Z"
       },
       {
-        "id": "ed7da58dd824a7c80a90",
-        "title": "美国与丹麦及格陵兰岛签署安全协议",
-        "summary": "美国与丹麦及格陵兰岛签署安全协议，北极地缘竞争升温，战略资源与航道成焦点。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34127243",
-        "publishedAt": "2026-09-23T13:37:42Z"
-      },
-      {
-        "id": "f4a9752f9e6af9a5c55a",
-        "title": "高市在联大呼吁删除《联合国宪章》“敌国条款”，外交部回应",
-        "summary": "日本高市在联大呼吁删除《联合国宪章》敌国条款，外交部回应，历史与安全议题再起。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wefLenPDbz",
-        "publishedAt": "2026-09-23T13:37:42Z"
-      },
-      {
-        "id": "2c14a01970c6d4065e63",
-        "title": "习近平离京对美国进行国事访问",
-        "summary": "习近平离京对美国进行国事访问，中美元首外交互动牵动全球格局与市场预期。",
+        "id": "1b9476109814c6bb5775",
+        "title": "美伊举行6月以来首次会谈，特朗普边威胁“迅速摧毁伊朗”，边表态“会谈富有成效”、“不排除中选后达成协议”",
+        "summary": "美伊举行6月以来首次会谈，特朗普威胁摧毁伊朗同时称会谈富有成效。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782373",
-        "publishedAt": "2026-09-23T13:37:42Z"
+        "url": "https://wallstreetcn.com/articles/3782334",
+        "publishedAt": "2026-09-23T18:24:01Z"
+      },
+      {
+        "id": "2e79ed775204fe0a57e5",
+        "title": "白酒“双节”动销旺季不旺：飞天茅台终端价格坚挺，有经销商称多款白酒已是“地板价”",
+        "summary": "白酒双节动销旺季不旺，飞天茅台终端价坚挺，多款白酒经销商称已至地板价。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34126980",
+        "publishedAt": "2026-09-23T18:24:01Z"
+      },
+      {
+        "id": "fb7a25785a3e5dda47e1",
+        "title": "中国接受过高等教育人口达2.7亿",
+        "summary": "中国接受过高等教育人口达2.7亿，人力资本结构持续优化。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8E%A5%E5%8F%97%E8%BF%87%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E4%BA%BA%E5%8F%A3%E8%BE%BE2.7%E4%BA%BF",
+        "publishedAt": "2026-09-23T18:24:01Z"
+      },
+      {
+        "id": "6a76269b8127dcf7db6f",
+        "title": "人形机器人量产提速？马斯克再“画饼”：20年后数量或达1000亿台",
+        "summary": "人形机器人量产提速，马斯克称20年后数量或达1000亿台。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2491150",
+        "publishedAt": "2026-09-23T18:24:01Z"
+      },
+      {
+        "id": "a7274f3422c9e16507c1",
+        "title": "中国天眼实现一批原创突破",
+        "summary": "中国天眼FAST实现一批原创突破，持续产出重大天文成果。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%89%B9%E5%8E%9F%E5%88%9B%E7%AA%81%E7%A0%B4%23",
+        "publishedAt": "2026-09-23T18:24:01Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重点包括特朗普联大讲话与美伊会谈、中美元首会晤及AI监管动向、埃塞俄比亚与提格雷冲突再起、国际刑事法院定罪、委内瑞拉石油协议，以及美国疫苗政策与新闻自由争议。",
+    "overview": "国际焦点涵盖伊朗总统联大强硬表态、美伊博弈、联大涉以色列与加沙议题、飓风与埃塞俄比亚安全局势等重大动态。",
     "items": [
       {
-        "id": "36b2e451c38d393f8d83",
-        "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-        "summary": "特朗普政府指控被封禁媒体散布虚假信息，法院听证前再起争议，涉国家安全与新闻自由。",
+        "id": "0089eaf81a5ad3f54162",
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "summary": "伊朗总统在联大对特朗普强硬表态，称伊朗永远不会屈膝，美方代表离场。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-23T05:34:25Z"
+        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T10:15:31Z"
       },
       {
-        "id": "b7f1228aa0183a35798f",
-        "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
-        "summary": "斯洛伐克总理菲佐就北约第五条言论引发批评，外界质疑其对北约承诺的立场。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-23T05:32:00Z"
+        "id": "dc271fd9379a936161c1",
+        "title": "Iran's president gives a rare wartime speech at the U.N.",
+        "summary": "伊朗总统在联大发表罕见战时演讲，回应特朗普此前威胁。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
+        "publishedAt": "2026-09-23T10:14:40Z"
+      },
+      {
+        "id": "bade8d5531c12c2a322a",
+        "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
+        "summary": "伊朗总统批评美以双标，称他们杀戮而我们受罚，引发国际关注。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss",
+        "publishedAt": "2026-09-23T07:49:59Z"
+      },
+      {
+        "id": "cbba4e70fdde8a1081c4",
+        "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+        "summary": "哈维·韦恩斯坦因性侵罪被判处15年监禁，受害者当庭陈述影响。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T10:13:52Z"
       },
       {
         "id": "ea031ffa09166ceda232",
         "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-        "summary": "埃塞俄比亚与提格雷互相指认发动攻势，提格雷当局据报接管机场，新战争风险上升。",
+        "summary": "埃塞俄比亚与提格雷互相指责发动攻势，新一轮战争风险上升。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-23T05:17:11Z"
+        "publishedAt": "2026-09-23T08:53:37Z"
       },
       {
-        "id": "f6bc8e601328d5954214",
-        "title": "Trump to meet China’s Xi as Congress mulls bill banning artificial superintelligence – US politics live",
-        "summary": "特朗普将会晤习近平，美国国会同时审议禁止超级人工智能法案，科技与地缘交织。",
+        "id": "f1faafbab420291399d9",
+        "title": "Germany pledges to phase out fossil fuels for first time with target of 2045",
+        "summary": "德国首次承诺2045年前逐步淘汰化石燃料，减排目标大幅升级。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
-        "publishedAt": "2026-09-23T05:10:17Z"
+        "url": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
+        "publishedAt": "2026-09-23T08:37:52Z"
       },
       {
-        "id": "107d6335a2b6be1f4f2b",
-        "title": "Delays in Covid shots for kids is latest bid by Trump officials to restrict vaccines",
-        "summary": "特朗普政府推迟儿童新冠疫苗接种，至少11州受影响，公共卫生政策争议加剧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/23/covid-vaccines-delay-children",
-        "publishedAt": "2026-09-23T05:04:43Z"
+        "id": "064319583062519861aa",
+        "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+        "summary": "飓风保罗降级但仍非常强劲，逼近墨西哥太平洋沿岸，带来强风暴雨。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T09:58:19Z"
       },
       {
-        "id": "c6232fb24de0392830d2",
-        "title": "ICC convicts former Central African Republic militia leader",
-        "summary": "国际刑事法院裁定中非共和国前民兵领导人犯有危害人类罪，涉酷刑等暴行。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/23/icc-convicts-central-african-militia-leader-of-crimes-against-humanity?traffic_source=rss",
-        "publishedAt": "2026-09-23T04:59:24Z"
-      },
-      {
-        "id": "f702c6b2861c44c7f03b",
-        "title": "Venezuela’s Delcy Rodríguez hails ‘historic meeting’ with Donald Trump in New York",
-        "summary": "委内瑞拉临时总统罗德里格斯称与特朗普会晤具历史意义，双方达成大规模石油协议。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
-        "publishedAt": "2026-09-23T04:54:07Z"
-      },
-      {
-        "id": "0c6c93b1baa27e5c4937",
-        "title": "Trump addresses UN with mixture of boasts, threats and jibes | First Thing",
-        "summary": "特朗普在联大发表夹杂自夸、威胁与嘲讽的讲话，美伊场边会谈同时进行，局势复杂。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/23/first-thing-trump-addresses-un-boasts-threats-jibes-us-iran-meeting",
-        "publishedAt": "2026-09-23T04:01:55Z"
+        "id": "d108deb1fc3776f059c1",
+        "title": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
+        "summary": "特朗普和平委员会提议为加沙重建拨款24.5亿美元，但整体进程停滞。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-23T08:29:00Z"
       }
     ]
   }
