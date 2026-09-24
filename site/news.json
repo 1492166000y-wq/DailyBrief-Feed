@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-25",
-  "generatedAt": "2026-09-24T17:09:05Z",
+  "generatedAt": "2026-09-24T21:29:57Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "习近平访美与特朗普白宫会晤是今日头号时政新闻，涵盖欢迎仪式、会谈及经贸与人工智能对话等成果；同时央行释放扩大内需与科技金融支持信号，美债加息预期扰動市场，国乒亚运失利及游本昌逝世亦受关注。",
+    "overview": "今日聚焦中美元首华盛顿会晤及配套经贸、金融动态，兼顾国内宏观政策与产业监管。",
     "items": [
       {
         "id": "5172ce2a80ca950786ca",
         "title": "习近平同特朗普会谈",
-        "summary": "习近平同特朗普举行会谈，就双边关系与共同关心的问题深入交换意见。",
+        "summary": "习近平同特朗普举行会谈，就双边关系及共同关心问题深入交换意见。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7688663315194678838/",
-        "publishedAt": "2026-09-24T17:09:05Z"
+        "publishedAt": "2026-09-24T21:29:57Z"
       },
       {
-        "id": "72c181dbc896824ba940",
-        "title": "习近平主席抵达华盛顿，80秒看美方高规格迎接",
-        "summary": "习近平抵达华盛顿，美方打破惯例由特朗普亲赴机场高规格迎接。",
+        "id": "a85231441d56764706db",
+        "title": "习近平：美方应慎重处理台湾问题",
+        "summary": "习近平强调美方应慎重处理台湾问题，维护中美关系政治基础。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E6%85%8E%E9%87%8D%E5%A4%84%E7%90%86%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
+        "publishedAt": "2026-09-24T21:29:57Z"
+      },
+      {
+        "id": "1150ab5611a80212dc50",
+        "title": "习近平在白宫欢迎仪式上的致辞（全文）",
+        "summary": "习近平在白宫欢迎仪式上发表致辞，全文发布阐明中方立场。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34141792",
-        "publishedAt": "2026-09-24T17:09:05Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34144356",
+        "publishedAt": "2026-09-24T21:29:57Z"
+      },
+      {
+        "id": "f9275503f8f0f2328e4e",
+        "title": "美财长称中美已同意将贸易休战协议延长至明年1月，外交部回应",
+        "summary": "美财长称中美同意贸易休战延长至明年1月，外交部予以回应。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782449",
+        "publishedAt": "2026-09-24T21:29:57Z"
       },
       {
         "id": "9360ca60c8302118897e",
         "title": "央行：加强对扩大内需、科技创新、中小微企业、“六张网”建设等重点领域的金融支持",
-        "summary": "央行表示将加强对扩大内需、科技创新、中小微企业等重点领域金融支持。",
+        "summary": "央行要求加强对扩大内需、科技创新、中小微企业等领域金融支持。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2492432",
-        "publishedAt": "2026-09-24T17:09:05Z"
+        "publishedAt": "2026-09-24T21:29:57Z"
       },
       {
-        "id": "019942a620ac63003a54",
-        "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
-        "summary": "美国PMI意外强劲重燃加息预期，美债遭抛售，纳指终结四连涨。",
+        "id": "51c667fa8c85cf97ff91",
+        "title": "商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识",
+        "summary": "商务部称中美就人工智能举行首次对话，第八轮经贸磋商达成多项共识。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782354",
-        "publishedAt": "2026-09-24T17:09:05Z"
+        "url": "https://wallstreetcn.com/articles/3782454",
+        "publishedAt": "2026-09-24T21:29:57Z"
       },
       {
         "id": "36e7014163e16a02249d",
         "title": "独家丨监管明确险资港股通ETF投资口径，南向“长钱活水”可期",
-        "summary": "监管明确险资港股通ETF投资口径，南向长线资金有望扩容。",
+        "summary": "监管明确险资港股通ETF投资口径，有望引入南向长期资金。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2492436",
-        "publishedAt": "2026-09-24T17:09:05Z"
+        "publishedAt": "2026-09-24T21:29:57Z"
       },
       {
-        "id": "386fda7934107d08972f",
-        "title": "国防部：统一将根除“台独”祸根乱源",
-        "summary": "国防部表态：统一将根除“台独”祸根乱源，台湾问题不容外来干涉。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7688480833749516331/",
-        "publishedAt": "2026-09-24T17:09:05Z"
-      },
-      {
-        "id": "f1bb47249195c8b02f8f",
-        "title": "商务部：中美第八轮经贸磋商达成多项共识",
-        "summary": "商务部称中美第八轮经贸磋商达成多项共识，双方还首次就人工智能对话。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wgLzW5bAwu",
-        "publishedAt": "2026-09-24T17:09:05Z"
-      },
-      {
-        "id": "9aa46629e719ae2323ea",
-        "title": "送别“济公”！表演艺术家游本昌今晨去世",
-        "summary": "表演艺术家、“济公”扮演者游本昌去世，引发各界缅怀。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34139437",
-        "publishedAt": "2026-09-24T17:09:05Z"
+        "id": "f35fb99c2c51e89776e9",
+        "title": "北京现房销售细则落地：在途项目设过渡期 土地款可两年缴清",
+        "summary": "北京现房销售细则落地，在途项目设过渡期，土地款可两年缴清。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2492699",
+        "publishedAt": "2026-09-24T21:29:57Z"
       }
     ]
   },
   "global": {
-    "overview": "本期国际焦点集中在联合国大会一般性辩论与中美贸易休战延长；美方邀请普京出席迈阿密G20、波兰指星链站火灾为蓄意破坏、德国上调增长预期、加沙经济重建需求与埃塞俄比亚战事再起等均具较高公共价值。",
+    "overview": "国际要闻集中于内塔尼亚胡联大演讲引发抗议离场、美欧及中东多条安全与经济线索。",
     "items": [
       {
-        "id": "b7c3b8f6a6a0539e8510",
-        "title": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
-        "summary": "分析指中美延长贸易休战既有象征意义，也或为更持久协议铺路。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news-analysis/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss",
-        "publishedAt": "2026-09-24T08:53:29Z"
+        "id": "b9f00210f0e77466fd97",
+        "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+        "summary": "内塔尼亚胡在联大演讲为以军行动辩护，多国代表离场抗议。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-24T13:21:47Z"
       },
       {
-        "id": "003e1afd6c634ac91993",
-        "title": "UNGA: Abbas blasts US and Israel, calls for Palestinian self-determination",
-        "summary": "阿巴斯在联大批美以，呼吁国际社会支持巴勒斯坦自决与两国方案。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/unga-abbas-blasts-us-and-israel-calls-for-palestinian-self-determination/live-79366211?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-24T07:41:00Z"
-      },
-      {
-        "id": "c2ec485d07fc51609341",
-        "title": "‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club",
-        "summary": "美国邀请普京出席迈阿密G20峰会，或成俄乌冲突以来重大接触契机。",
+        "id": "dee4cd542e0e15977d55",
+        "title": "Netanyahu calls Israel’s war in Gaza ‘opposite of genocide’ in UN speech",
+        "summary": "内塔尼亚胡称以色列在加沙的战争是种族灭绝的反面，引发争议。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-putin-g20-summit-miami",
-        "publishedAt": "2026-09-23T10:09:10Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
+        "publishedAt": "2026-09-24T11:28:08Z"
       },
       {
-        "id": "04babae3d92210b0cf32",
-        "title": "Poland says Starlink station fire 'act of sabotage'",
-        "summary": "波兰称星链地面站火灾为蓄意破坏，涉干扰乌克兰网络覆盖。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/poland-says-starlink-station-fire-act-of-sabotage/a-79410745?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-24T02:21:00Z"
-      },
-      {
-        "id": "d1d93123d6501c28f876",
-        "title": "Germany: Economic institutes double growth forecast for 2026",
-        "summary": "德国经济研究所将2026年增长预期翻倍至1.3%，但警示结构性问题。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-economic-institutes-double-growth-forecast-for-2026/a-78168080?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-24T00:11:00Z"
-      },
-      {
-        "id": "f9e4bc61eab09ff76600",
-        "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-        "summary": "联合国报告称加沙重建需715亿美元，失业率高达九成。",
+        "id": "b437e146a9aa4387fbfa",
+        "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
+        "summary": "阿巴斯在联大发言称以色列政策威胁巴勒斯坦人生存，呼吁两国方案。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-        "publishedAt": "2026-09-24T09:03:31Z"
+        "url": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss",
+        "publishedAt": "2026-09-24T11:02:50Z"
+      },
+      {
+        "id": "ce3e9733773bfb1a2534",
+        "title": "US and China presidents discuss cooperation, trade and AI risks",
+        "summary": "中美两国元首讨论合作、贸易及人工智能风险，涉及技术与经贸议题。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+        "publishedAt": "2026-09-24T10:19:01Z"
+      },
+      {
+        "id": "a1306f3a5acafea642a8",
+        "title": "Russia could attack a Nato country within months, Danish intelligence says",
+        "summary": "丹麦情报称俄罗斯可能数月内对北约国家发动有限军事攻击。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
+        "publishedAt": "2026-09-24T08:05:44Z"
+      },
+      {
+        "id": "50a3b504ef6c77578004",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "summary": "波兰称星链地面站火灾系蓄意破坏，该站为乌克兰提供网络覆盖。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-24T08:00:29Z"
       },
       {
         "id": "a9e9f4ebe8e1064fec80",
         "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-        "summary": "提格雷武装发动攻势并组建新联盟，埃塞俄比亚内战风险再起。",
+        "summary": "提格雷武装发动攻势并组建新联盟，埃塞俄比亚内战风险再度上升。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
         "publishedAt": "2026-09-24T07:29:42Z"
       },
       {
-        "id": "69d1714b02b8608bdaa2",
-        "title": "White House restores access to media outlets banned by Trump after judge's order",
-        "summary": "美法官裁定后，白宫恢复CNN等三家媒体采访权限。",
+        "id": "3ae5f649be271571af1c",
+        "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+        "summary": "澳大利亚指OpenAI失控智能体入侵政府网站，OpenAI通报迟缓受批评。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-24T08:42:56Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-24T07:42:07Z"
       }
     ]
   }
