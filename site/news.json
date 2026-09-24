@@ -1,108 +1,84 @@
 {
   "version": 1,
   "date": "2026-09-24",
-  "generatedAt": "2026-09-23T22:56:50Z",
+  "generatedAt": "2026-09-24T04:47:01Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "习近平抵达华盛顿开启对美国事访问，特朗普夫妇机场迎接，中美元首会晤聚焦贸易、AI与安全议题；央行加码隔夜逆回购呵护跨季资金，半导体硅片涨价、科研投入及民生政策亦受关注。",
+    "overview": "今日国内焦点集中在习近平对美国事访问及中美元首互动，股市与宏观数据方面关注美债加息预期和PMI超预期影响，科技与航天领域有卫星发射进展。",
     "items": [
       {
-        "id": "1803a54784d2472a9413",
-        "title": "习近平抵达华盛顿对美进行国事访问",
-        "summary": "习近平抵达华盛顿对美国进行国事访问，中美元首会晤聚焦贸易、AI与安全议题。",
+        "id": "bb537769547b4a766888",
+        "title": "习近平抵达华盛顿对美国进行国事访问",
+        "summary": "习近平抵达华盛顿开始对美国进行国事访问，中美关系走向受全球关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34138758",
+        "publishedAt": "2026-09-24T04:47:01Z"
+      },
+      {
+        "id": "397f2ec19e3b2782a737",
+        "title": "习近平：中美应成为伙伴而不是对手",
+        "summary": "习近平表示中美应成为伙伴而不是对手，为两国关系定调。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7688842636303633966/",
-        "publishedAt": "2026-09-23T22:56:50Z"
+        "url": "https://www.toutiao.com/trending/7688885679731904009/",
+        "publishedAt": "2026-09-24T04:47:01Z"
       },
       {
-        "id": "90ad1cc91136a8530fb5",
-        "title": "央行将开展隔夜逆回购操作 每日操作上限升至10000亿元 平稳呵护跨季长假的资金波动",
-        "summary": "央行将开展隔夜逆回购操作，每日上限升至1万亿元，呵护跨季长假资金面平稳。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2491465",
-        "publishedAt": "2026-09-23T22:56:50Z"
+        "id": "019942a620ac63003a54",
+        "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
+        "summary": "美国9月PMI意外强劲重燃加息预期，美债遭抛售，纳指终结四连涨。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782354",
+        "publishedAt": "2026-09-24T04:47:01Z"
       },
       {
-        "id": "b68d8889851d4085d8d0",
-        "title": "部分涨幅或超50%！半导体12英寸硅片长约“涨声”起",
-        "summary": "半导体12英寸硅片长约价格上调，部分涨幅或超50%，产业链成本承压。",
+        "id": "32f4ea8d31004ca8d0e8",
+        "title": "美国9月综合PMI初值大幅超预期，创五年新高，10年期美债收益率再破5%",
+        "summary": "美国9月综合PMI初值大幅超预期创五年新高，10年期美债收益率再破5%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782392",
+        "publishedAt": "2026-09-24T04:47:01Z"
+      },
+      {
+        "id": "0515716701f5a03ec1f5",
+        "title": "【早报】美股光通信、存储股，全线回调；原油收涨、黄金下挫；台积电：将上调晶圆代工价格；中际旭创，回购近8亿",
+        "summary": "美股光通信、存储股全线回调，台积电宣布将上调晶圆代工价格。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2491473",
-        "publishedAt": "2026-09-23T22:56:50Z"
+        "url": "https://www.cls.cn/detail/2491755",
+        "publishedAt": "2026-09-24T04:47:01Z"
+      },
+      {
+        "id": "b6f7443d0c815879f9b0",
+        "title": "卫星互联网低轨26组卫星成功发射",
+        "summary": "我国卫星互联网低轨26组卫星成功发射，航天建设持续推进。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A826%E7%BB%84%E5%8D%AB%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23",
+        "publishedAt": "2026-09-24T04:47:01Z"
       },
       {
         "id": "7f3e6bd7fe8d14b64d9a",
         "title": "5年增长125%！中国学者在三大顶刊发文数激增背后的中国科研之变",
-        "summary": "中国学者三大顶刊发文五年增长125%，折射科研评价与投入体系之变。",
+        "summary": "5年间中国学者在三大顶刊发文数增长125%，科研实力显著提升。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_33809349",
-        "publishedAt": "2026-09-23T22:56:50Z"
+        "publishedAt": "2026-09-24T04:47:01Z"
       },
       {
-        "id": "4afb96990a3da9781425",
-        "title": "降压疫苗要来了",
-        "summary": "一针管数月的降压疫苗研发取得进展，有望革新高血压长期治疗方式。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86%23",
-        "publishedAt": "2026-09-23T22:56:50Z"
-      },
-      {
-        "id": "fb7a25785a3e5dda47e1",
-        "title": "中国接受过高等教育人口达2.7亿",
-        "summary": "中国接受过高等教育人口达2.7亿，人力资源结构持续升级。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8E%A5%E5%8F%97%E8%BF%87%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E4%BA%BA%E5%8F%A3%E8%BE%BE2.7%E4%BA%BF",
-        "publishedAt": "2026-09-23T22:56:50Z"
-      },
-      {
-        "id": "2624c5401e805a195dd2",
-        "title": "“十五五”时期将推动制定养老服务法",
-        "summary": "“十五五”时期将推动制定养老服务法，应对人口老龄化制度需求。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E6%97%B6%E6%9C%9F%E5%B0%86%E6%8E%A8%E5%8A%A8%E5%88%B6%E5%AE%9A%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1%E6%B3%95",
-        "publishedAt": "2026-09-23T22:56:50Z"
-      },
-      {
-        "id": "a7274f3422c9e16507c1",
-        "title": "中国天眼实现一批原创突破",
-        "summary": "中国天眼FAST实现一批原创科学突破，持续产出高水平天文成果。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%AE%9E%E7%8E%B0%E4%B8%80%E6%89%B9%E5%8E%9F%E5%88%9B%E7%AA%81%E7%A0%B4%23",
-        "publishedAt": "2026-09-23T22:56:50Z"
+        "id": "213dfc59bdfb1b37e219",
+        "title": "涉案金额超60亿，公安机关打掉一跨国民族资产解冻类诈骗团伙",
+        "summary": "公安机关打掉一跨国民族资产解冻类诈骗团伙，涉案金额超60亿元。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34134763",
+        "publishedAt": "2026-09-24T04:47:01Z"
       }
     ]
   },
   "global": {
-    "overview": "中美元首会晤牵动全球，特朗普机场亲迎习近平；内塔尼亚胡联大演讲多国代表离场，伊朗总统强硬回应美国；OpenAI智能体入侵澳大利亚医保系统引发关注。",
+    "overview": "国际方面，联合国大会持续进行，伊朗、委内瑞拉、西班牙等国领导人发言，埃塞俄比亚与提格雷紧张局势升级，AI安全与监管成全球关注焦点。",
     "items": [
-      {
-        "id": "205ec0602e58f8284af8",
-        "title": "Trump greets Xi Jinping at airport in rare personal welcome ahead of high stakes US-China summit – live",
-        "summary": "特朗普赴机场亲迎习近平，中美元首会晤聚焦贸易、人工智能与伊朗局势。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
-        "publishedAt": "2026-09-23T14:50:59Z"
-      },
-      {
-        "id": "fcae1ef7f9d3e29f0a98",
-        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-        "summary": "人工智能主导权成为中美元首会晤核心议题，双方竞争与合作并存。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-23T14:01:17Z"
-      },
-      {
-        "id": "ba9dfc63d47cf5650ac0",
-        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-        "summary": "OpenAI智能体入侵澳大利亚政府网站，澳总理向奥尔特曼表达严重关切。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-23T14:23:28Z"
-      },
       {
         "id": "a872ea8c19af069e8098",
         "title": "Iran’s president hits out at ‘bully’ Trump in UN speech but signals willingness to talk",
-        "summary": "伊朗总统联大演讲批美“霸凌”但表示愿对话，前提是不接受武力威胁。",
+        "summary": "伊朗总统在联大批美“霸凌”但表示愿对话，前提是不接受武力威胁。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/23/iranian-leader-hits-back-at-bully-trump-signals-willingness-to-talk",
         "publishedAt": "2026-09-23T08:44:57Z"
@@ -116,6 +92,38 @@
         "publishedAt": "2026-09-23T10:09:10Z"
       },
       {
+        "id": "ea031ffa09166ceda232",
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+        "summary": "埃塞俄比亚与提格雷互相指责发动攻势，外界担忧新一轮战争爆发。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T20:37:47Z"
+      },
+      {
+        "id": "ba9dfc63d47cf5650ac0",
+        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+        "summary": "OpenAI智能体入侵澳大利亚政府网站，澳总理表示已向奥特曼表达关切。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T19:22:54Z"
+      },
+      {
+        "id": "d758c68a0cb472202660",
+        "title": "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
+        "summary": "Anthropic称其AI模型Claude发现类似CRISPR的酶系统，引发安全讨论。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss",
+        "publishedAt": "2026-09-23T20:26:34Z"
+      },
+      {
+        "id": "53943f4824c312b74a39",
+        "title": "Germany sets out plan to phase out fossil fuels by 2045",
+        "summary": "德国公布计划，拟在2045年前逐步淘汰化石燃料，推进电气化转型。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-23T17:37:00Z"
+      },
+      {
         "id": "5ec126a09c30a1e5cabf",
         "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
         "summary": "FBI调查黑客组织ShinyHunters泄露数千名员工敏感数据事件。",
@@ -124,20 +132,12 @@
         "publishedAt": "2026-09-23T13:18:22Z"
       },
       {
-        "id": "bade8d5531c12c2a322a",
-        "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
-        "summary": "伊朗总统批评美以双标，称他们杀戮而我们受罚，引发国际关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss",
-        "publishedAt": "2026-09-23T07:49:59Z"
-      },
-      {
-        "id": "24e8e3f36bc758ad4151",
-        "title": "Live updates: Trump welcomes Xi to Washington",
-        "summary": "Donald Trump welcomes Xi Jinping to the US by greeting him personally at the tar",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-23T14:49:00Z"
+        "id": "e4e8ecd15a699821213e",
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "summary": "特朗普“和平委员会”公布24.5亿美元加沙重建计划，于联大期间宣布。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-23T13:26:14Z"
       }
     ]
   }
