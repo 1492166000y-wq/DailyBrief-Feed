@@ -1,87 +1,87 @@
 {
   "version": 1,
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-25T13:45:09Z",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-25T18:35:03Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "中美元首华盛顿会晤成为当日焦点，双方举行会谈、欢迎仪式及国宴，中美第八轮经贸磋商达成多项共识；同时国内金融监管趋严，两券商被重罚、多地证监局密集开罚单，美债收益率飙升等外部经济动态也受关注。",
+    "overview": "习近平结束对美历史性国事访问，中美密集互动达成经贸多项共识，两国关系定位内涵进一步丰富。国内资本市场方面，券商重罚落地、美债风暴持续扰动；产业科技领域，荷兰游说美方放宽ASML限制，Meta新模型用户猛增但算力吃紧。",
     "items": [
+      {
+        "id": "63d9d32bd2ccde6b20dd",
+        "title": "习近平圆满结束对美国的国事访问",
+        "summary": "习近平圆满结束对美国的国事访问，中美互动密集，双边关系定位内涵得到进一步丰富。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+        "publishedAt": "2026-09-25T18:35:03Z"
+      },
       {
         "id": "ded75ad15f6a64156b1e",
         "title": "习近平同美国总统特朗普会谈",
-        "summary": "习近平同美国总统特朗普举行会谈，双方就双边关系及共同关心的问题深入交换意见。",
+        "summary": "习近平同美国总统特朗普举行会谈，就双边关系及共同关心的国际问题深入交换意见。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34147373",
-        "publishedAt": "2026-09-25T13:45:09Z"
-      },
-      {
-        "id": "7f781f9b03d77eb65f2a",
-        "title": "习近平：与特朗普达成很多新的共识",
-        "summary": "习近平表示与特朗普达成许多新的共识，为中美关系发展指明方向。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7688663315194760758/",
-        "publishedAt": "2026-09-25T13:45:09Z"
+        "publishedAt": "2026-09-25T18:35:03Z"
       },
       {
         "id": "0e592ef7430636de6c85",
         "title": "【早报】商务部：中美第八轮经贸磋商达成多项共识；中际旭创完成50亿元股份回购",
-        "summary": "商务部称中美第八轮经贸磋商达成多项共识，中际旭创完成50亿元股份回购。",
+        "summary": "商务部称中美第八轮经贸磋商达成多项共识；中际旭创完成50亿元股份回购。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2492860",
-        "publishedAt": "2026-09-25T13:45:09Z"
-      },
-      {
-        "id": "66e80e556edbda231135",
-        "title": "被立案两券商重罚落地！暂停新开户3个月，多名高管遭罚",
-        "summary": "两家券商被立案后重罚落地，暂停新开户3个月，多名高管遭处罚。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2492873",
-        "publishedAt": "2026-09-25T13:45:09Z"
-      },
-      {
-        "id": "5a3f097ef2c42c37ad1b",
-        "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
-        "summary": "美债抛售加剧，30年期美债收益率创逾20年新高，美股承压横盘，美元原油齐升。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782452",
-        "publishedAt": "2026-09-25T13:45:09Z"
-      },
-      {
-        "id": "d45b49b27087ebe97c26",
-        "title": "美国“反抗浪潮”愈演愈烈！甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工",
-        "summary": "美国反抗浪潮愈演愈烈，甲骨文巨型数据中心遭遇不可抗力，恐无法按期完工。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782479",
-        "publishedAt": "2026-09-25T13:45:09Z"
-      },
-      {
-        "id": "ca04ed39898d104a6e18",
-        "title": "菲律宾在中方节日期间采取挑衅行径，中国海警发出警告",
-        "summary": "菲律宾在中方节日期间采取挑衅行径，中国海警发出警告。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wi29b1wMpY",
-        "publishedAt": "2026-09-25T13:45:09Z"
+        "publishedAt": "2026-09-25T18:35:03Z"
       },
       {
         "id": "d46fbbe329fcfc893e28",
         "title": "荷兰首相游说美方：别再限制ASML对华出口",
-        "summary": "荷兰首相游说美方，呼吁别再限制ASML对华出口。",
+        "summary": "荷兰首相游说美方，别再限制ASML对华出口，凸显半导体设备出口管制博弈。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8wiBtIoGJu4",
-        "publishedAt": "2026-09-25T13:45:09Z"
+        "publishedAt": "2026-09-25T18:35:03Z"
+      },
+      {
+        "id": "66e80e556edbda231135",
+        "title": "被立案两券商重罚落地！暂停新开户3个月，多名高管遭罚",
+        "summary": "被立案两券商重罚落地，暂停新开户3个月，多名高管遭罚，监管持续从严。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2492873",
+        "publishedAt": "2026-09-25T18:35:03Z"
+      },
+      {
+        "id": "5a3f097ef2c42c37ad1b",
+        "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
+        "summary": "美债抛售加剧，30年期美债收益率创逾20年新高，美股承压，美元原油齐升。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782452",
+        "publishedAt": "2026-09-25T18:35:03Z"
+      },
+      {
+        "id": "34559d111352be8be460",
+        "title": "“平平”“福双”将赴美，助力深化新一轮大熊猫保护国际合作",
+        "summary": "'平平''福双'将赴美，助力深化新一轮大熊猫保护国际合作。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34146662",
+        "publishedAt": "2026-09-25T18:35:03Z"
+      },
+      {
+        "id": "f35fb99c2c51e89776e9",
+        "title": "北京现房销售细则落地：在途项目设过渡期 土地款可两年缴清",
+        "summary": "北京现房销售细则落地，在途项目设过渡期，土地款可两年缴清。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2492699",
+        "publishedAt": "2026-09-25T18:35:03Z"
       }
     ]
   },
   "global": {
-    "overview": "全球主要聚焦中美元首华盛顿会晤的国际反响及联合国大会动态，内塔尼亚胡联大发言引发多国代表离场抗议，埃塞俄比亚提格雷地区战火重燃，教皇利奥就人工智能发表警告，同时美国东海岸遭遇强风暴、飓风波罗逼近墨西哥。",
+    "overview": "美国最高法院允许特朗普政府启用争议选民数据库，引发投票权争议。联大聚焦中东，内塔尼亚胡演讲遭多国代表离场抗议，黎巴嫩呼吁以色列全面撤军、伊朗抛出重开霍尔木兹海峡时间表。科技与气候议题同样受关注：教皇警告AI风险，大众奥迪在德召回近百万辆汽车，飓风逼近夏威夷和墨西哥。",
     "items": [
       {
-        "id": "97a0334ef6910e3b47b1",
-        "title": "Pomp over progress as Trump rolls out red carpet for China’s president Xi Jinping",
-        "summary": "特朗普为习近平铺红毯，但分析指会晤几乎未取得实质成果，对中方而言是胜利。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
-        "publishedAt": "2026-09-25T04:41:14Z"
+        "id": "909b8887b0d7a1a1aaf3",
+        "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+        "summary": "美最高法院允许特朗普启用争议选民数据库核查公民身份，批评者忧合格选民被错误剔除。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-25T10:29:28Z"
       },
       {
         "id": "4558269cada3a48e85c1",
@@ -92,36 +92,36 @@
         "publishedAt": "2026-09-25T03:44:44Z"
       },
       {
-        "id": "5ea5556cfe646786f1ac",
-        "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
-        "summary": "埃塞俄比亚提格雷地区战火重燃，政府军与新反叛联盟激战，引发封锁与断网担忧。",
+        "id": "4f18c90f7dea67cfee83",
+        "title": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
+        "summary": "伊朗提出7天重开霍尔木兹海峡并重启核谈，特朗普面临中期选举前的艰难抉择。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+        "publishedAt": "2026-09-25T07:43:59Z"
+      },
+      {
+        "id": "53f6b78d3408300b669e",
+        "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
+        "summary": "波兰称遭俄罗斯挑衅后加强防空，北约多国进入警戒，乌克兰议会投票期间对俄发动打击。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
-        "publishedAt": "2026-09-25T04:08:16Z"
+        "url": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
+        "publishedAt": "2026-09-25T10:05:32Z"
       },
       {
-        "id": "98b0c1454916915739e9",
-        "title": "Pope Leo warns against AI creating ‘paradise of machines’ in first visit to France – Europe live",
-        "summary": "教皇利奥访问法国，警告人工智能可能造成机器天堂，呼吁勿丧失人性。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-        "publishedAt": "2026-09-25T05:34:53Z"
+        "id": "9660ca0470b2d48cd834",
+        "title": "US court upholds Pentagon’s blacklisting of Anthropic",
+        "summary": "美上诉法院维持五角大楼将Anthropic列为供应链风险的决定，AI军用限制争议升级。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/25/us-court-upholds-pentagons-blacklisting-of-anthropic?traffic_source=rss",
+        "publishedAt": "2026-09-25T09:03:52Z"
       },
       {
-        "id": "0afbc2673335a4bc8324",
-        "title": "‘Significant’ nor’easter brings high winds and heavy rain to US east coast",
-        "summary": "美国东海岸遭遇本季首场强东北风暴，狂风暴雨影响多达4000万人周末计划。",
+        "id": "ca3f49681b7c4193d3ba",
+        "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+        "summary": "教皇良十四世访法首日警告AI威胁人类，称技术必须服务于人，勿陷'机器天堂'。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/25/noreaster-high-winds-heavy-rain-east-coast",
-        "publishedAt": "2026-09-25T05:36:32Z"
-      },
-      {
-        "id": "50c3fcc0968ff3c9cf35",
-        "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-        "summary": "飓风波罗逼近墨西哥下加利福尼亚，由异常温暖太平洋海水助长，威力罕见。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-        "publishedAt": "2026-09-25T02:28:45Z"
+        "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+        "publishedAt": "2026-09-25T08:01:10Z"
       },
       {
         "id": "850aa87baf6de6ceb51f",
@@ -132,12 +132,12 @@
         "publishedAt": "2026-09-25T01:40:00Z"
       },
       {
-        "id": "c3fbf7a587f28bb3897c",
-        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-        "summary": "荷兰政府基于NixOS构建微软替代方案，推进数字主权建设。",
-        "source": "Hacker News",
-        "url": "https://www.dawo.community/en/",
-        "publishedAt": "2026-09-25T00:06:49Z"
+        "id": "5ea5556cfe646786f1ac",
+        "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
+        "summary": "埃塞俄比亚提格雷地区战火重燃，政府军与新反叛联盟激战，引发封锁断网担忧。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
+        "publishedAt": "2026-09-25T04:08:16Z"
       }
     ]
   }
