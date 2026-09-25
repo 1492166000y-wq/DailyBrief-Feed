@@ -1,124 +1,108 @@
 {
   "version": 1,
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T00:33:11Z",
+  "generatedAt": "2026-09-25T07:46:06Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点为中美元首华盛顿会晤及配套活动，涵盖欢迎仪式、会谈、经贸磋商与人工智能对话等，同时涉及央行金融支持、美债波动等宏观动向。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "dc38e18210eb51f4cfc0",
-        "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
-        "summary": "习近平抵达美国安德鲁斯空军基地并发表书面讲话，开启对美访问行程。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782421",
-        "publishedAt": "2026-09-25T00:33:11Z"
-      },
-      {
-        "id": "5881baebac0ade9866eb",
+        "id": "ded75ad15f6a64156b1e",
         "title": "习近平同美国总统特朗普会谈",
-        "summary": "习近平同美国总统特朗普举行会谈，就双边关系及共同关切议题交换意见。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88",
-        "publishedAt": "2026-09-25T00:33:11Z"
-      },
-      {
-        "id": "990485f9ac845da08b59",
-        "title": "习近平：美方应慎重处理台湾问题",
-        "summary": "习近平强调美方应慎重处理台湾问题，明确中方在核心利益上的立场。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7689241050073812518/",
-        "publishedAt": "2026-09-25T00:33:11Z"
-      },
-      {
-        "id": "1150ab5611a80212dc50",
-        "title": "习近平在白宫欢迎仪式上的致辞（全文）",
-        "summary": "习近平在白宫欢迎仪式上致辞，全文发布，阐述中美关系发展方向。",
+        "summary": "习近平同美国总统特朗普举行会谈，就双边关系及共同关心问题深入交换意见。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34144356",
-        "publishedAt": "2026-09-25T00:33:11Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34147373",
+        "publishedAt": "2026-09-25T07:46:06Z"
       },
       {
-        "id": "9360ca60c8302118897e",
-        "title": "央行：加强对扩大内需、科技创新、中小微企业、“六张网”建设等重点领域的金融支持",
-        "summary": "央行表示将加强对扩大内需、科技创新、中小微企业等重点领域的金融支持。",
+        "id": "0e592ef7430636de6c85",
+        "title": "【早报】商务部：中美第八轮经贸磋商达成多项共识；中际旭创完成50亿元股份回购",
+        "summary": "商务部称中美第八轮经贸磋商达成多项共识，并就人工智能开展首次对话。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2492432",
-        "publishedAt": "2026-09-25T00:33:11Z"
+        "url": "https://www.cls.cn/detail/2492860",
+        "publishedAt": "2026-09-25T07:46:06Z"
       },
       {
-        "id": "f9275503f8f0f2328e4e",
-        "title": "美财长称中美已同意将贸易休战协议延长至明年1月，外交部回应",
-        "summary": "美财长称中美同意将贸易休战协议延长至明年1月，外交部就此作出回应。",
+        "id": "5a3f097ef2c42c37ad1b",
+        "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
+        "summary": "30年期美债收益率创逾20年新高，美股指承压，美元与原油价格齐升。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782449",
-        "publishedAt": "2026-09-25T00:33:11Z"
+        "url": "https://wallstreetcn.com/articles/3782452",
+        "publishedAt": "2026-09-25T07:46:06Z"
+      },
+      {
+        "id": "66e80e556edbda231135",
+        "title": "被立案两券商重罚落地！暂停新开户3个月，多名高管遭罚",
+        "summary": "两家券商被立案后重罚落地，暂停新开户3个月，多名高管遭处罚。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2492873",
+        "publishedAt": "2026-09-25T07:46:06Z"
+      },
+      {
+        "id": "f35fb99c2c51e89776e9",
+        "title": "北京现房销售细则落地：在途项目设过渡期 土地款可两年缴清",
+        "summary": "北京现房销售细则落地，在途项目设过渡期，土地款可两年内缴清。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2492699",
+        "publishedAt": "2026-09-25T07:46:06Z"
+      },
+      {
+        "id": "65508cd747d7e3f0ecd8",
+        "title": "江苏银行、邮储银行、渤海银行、广发银行被罚，相关违法行为披露",
+        "summary": "江苏银行、邮储银行、渤海银行、广发银行被罚，相关违法行为被披露。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2492534",
+        "publishedAt": "2026-09-25T07:46:06Z"
+      },
+      {
+        "id": "426d91a8b096d1657b1b",
+        "title": "半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇",
+        "summary": "半夏投资李蓓称AI资本开支或于明年年中见顶，地产机会升级至二十年一遇。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782474",
+        "publishedAt": "2026-09-25T07:46:06Z"
       },
       {
         "id": "51c667fa8c85cf97ff91",
         "title": "商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识",
-        "summary": "商务部称中美就人工智能进行首次对话，第八轮经贸磋商达成多项共识。",
+        "summary": "商务部表示中美就人工智能进行首次对话，第八轮经贸磋商达成多项共识。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782454",
-        "publishedAt": "2026-09-25T00:33:11Z"
-      },
-      {
-        "id": "d8d3a93bfd85980f462b",
-        "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
-        "summary": "美股收盘：美债风暴持续发酵，油价深夜巨震，Meta涨超4%，市场波动加剧。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2492840",
-        "publishedAt": "2026-09-25T00:33:11Z"
+        "publishedAt": "2026-09-25T07:46:06Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，中美元首会晤及白宫晚宴媒体准入争端引发关注，联合国大会内塔尼亚胡演讲遭离场抗议，另有俄乌、埃塞俄比亚局势及AI安全等议题。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
-      {
-        "id": "f8062579630c3518b684",
-        "title": "Trump and Xi hold critical talks at White House summit",
-        "summary": "特朗普与习近平在白宫举行关键峰会，讨论贸易、人工智能、台湾及伊朗等议题。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-        "publishedAt": "2026-09-24T13:41:40Z"
-      },
-      {
-        "id": "1ae7b77e555a9591bbe4",
-        "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-        "summary": "分析指中美元首华盛顿会晤寻求稳定关系，但在伊朗、台湾和贸易上分歧仍存。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-        "publishedAt": "2026-09-24T15:51:56Z"
-      },
-      {
-        "id": "cf96b2b71d5db198baee",
-        "title": "CNN and MS Now journalists denied access to White House state dinner despite court ruling",
-        "summary": "白宫国宴拒CNN等记者入场，多家媒体抵制，法院裁决后仍引发争议。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
-        "publishedAt": "2026-09-24T16:24:54Z"
-      },
       {
         "id": "4558269cada3a48e85c1",
         "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-        "summary": "内塔尼亚胡在联大演讲时为以军行动辩护，多国代表离场抗议。",
+        "summary": "内塔尼亚胡在联大演讲为以军行动辩护，多国代表离场抗议。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-24T15:32:51Z"
       },
       {
-        "id": "dee4cd542e0e15977d55",
-        "title": "Netanyahu calls Israel’s war in Gaza ‘opposite of genocide’ in UN speech",
-        "summary": "内塔尼亚胡在联大称以色列在加沙的战争是种族灭绝的反面，引发争议。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
-        "publishedAt": "2026-09-24T11:28:08Z"
+        "id": "d84ea168331f469adc00",
+        "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+        "summary": "习近平称中美须共同做负责任大国，特朗普在国宴上祝酒赞友谊。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-24T22:40:18Z"
+      },
+      {
+        "id": "886f5faca2f75634b305",
+        "title": "The world’s two most powerful men just met. How did it go?",
+        "summary": "BBC驻华记者解析中美元首华盛顿会晤对北京与华盛顿各自的得失。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-24T17:27:10Z"
       },
       {
         "id": "a1306f3a5acafea642a8",
         "title": "Russia could attack a Nato country within months, Danish intelligence says",
-        "summary": "丹麦情报称俄罗斯可能数月内对北约国家发动有限军事攻击，引发警觉。",
+        "summary": "丹麦情报称俄罗斯可能数月内对北约国家发动有限军事攻击。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
         "publishedAt": "2026-09-24T08:05:44Z"
@@ -132,12 +116,28 @@
         "publishedAt": "2026-09-24T07:42:07Z"
       },
       {
-        "id": "a9e9f4ebe8e1064fec80",
-        "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-        "summary": "提格雷武装发动攻势并组建新联盟，埃塞俄比亚内战风险再度上升。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-        "publishedAt": "2026-09-24T07:29:42Z"
+        "id": "20bf6908c5b974e33af1",
+        "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+        "summary": "安全研究披露CVE-2025-13032，可突破Avast杀毒软件沙箱。",
+        "source": "Hacker News",
+        "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+        "publishedAt": "2026-09-24T23:03:46Z"
+      },
+      {
+        "id": "e2a7ad3f5ba6f19707c2",
+        "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
+        "summary": "飓风“波罗”袭击墨西哥西南部，夏威夷附近“诺洛”增强。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
+        "publishedAt": "2026-09-24T22:00:15Z"
+      },
+      {
+        "id": "6b9485c022e2d03f1389",
+        "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+        "summary": "刚果（金）坦噶尼喀湖一艘船倾覆，至少41人死亡、多人失踪。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
+        "publishedAt": "2026-09-24T16:38:13Z"
       }
     ]
   }
