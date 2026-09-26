@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-09-26",
-  "generatedAt": "2026-09-26T11:22:11Z",
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-26T16:21:59Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内焦点集中在中美元首会晤及本轮经贸磋商成果，双方达成多项共识与对等降税安排；同时沙特核风险、伊核停火谈判等国际议题也受到关注。",
     "items": [
       {
         "id": "8c64709860e41a337c3d",
         "title": "中美达成300亿美元对等降税安排",
-        "summary": "中美达成300亿美元对等降税安排，为第八轮经贸磋商核心成果。",
+        "summary": "中美达成300亿美元对等降税安排，被视为本轮经贸磋商的重要突破。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7689753031058918975/",
-        "publishedAt": "2026-09-26T11:22:11Z"
+        "publishedAt": "2026-09-26T16:21:59Z"
       },
       {
-        "id": "ded75ad15f6a64156b1e",
-        "title": "习近平同美国总统特朗普会谈",
-        "summary": "习近平同美国总统特朗普会谈，就双边关系与经贸议题深入交换意见。",
+        "id": "9670de3660bc3785d9ba",
+        "title": "中美达成八点成果共识",
+        "summary": "中美公布八点成果共识，覆盖经贸、机制建设等多个领域。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86",
+        "publishedAt": "2026-09-26T16:21:59Z"
+      },
+      {
+        "id": "2d767950ef1285be9709",
+        "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+        "summary": "习近平和彭丽媛同美国总统特朗普夫妇茶叙，进行高层互动。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34147373",
-        "publishedAt": "2026-09-26T11:22:11Z"
-      },
-      {
-        "id": "77b9194cce7a04915592",
-        "title": "王毅谈习近平主席对美国进行国事访问",
-        "summary": "王毅谈习近平主席对美国进行国事访问，介绍会晤成果与战略意义。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wjqLP4n0jh",
-        "publishedAt": "2026-09-26T11:22:11Z"
-      },
-      {
-        "id": "8dc064f874a96c5ca02f",
-        "title": "中美同意建立人工智能对话",
-        "summary": "中美同意建立人工智能对话机制，白宫称将设双边沟通渠道。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BB%BA%E7%AB%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E8%AF%9D%23",
-        "publishedAt": "2026-09-26T11:22:11Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34151574",
+        "publishedAt": "2026-09-26T16:21:59Z"
       },
       {
         "id": "66e80e556edbda231135",
         "title": "被立案两券商重罚落地！暂停新开户3个月，多名高管遭罚",
-        "summary": "被立案两券商重罚落地，暂停新开户三个月，多名高管遭处罚。",
+        "summary": "两家券商因违规被重罚，暂停新开户三个月，多名高管遭处罚。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2492873",
-        "publishedAt": "2026-09-26T11:22:11Z"
+        "publishedAt": "2026-09-26T16:21:59Z"
       },
       {
-        "id": "34559d111352be8be460",
-        "title": "“平平”“福双”将赴美，助力深化新一轮大熊猫保护国际合作",
-        "summary": "“平平”“福双”将赴美，助力深化新一轮大熊猫保护国际合作。",
+        "id": "77b9194cce7a04915592",
+        "title": "王毅谈习近平主席对美国进行国事访问",
+        "summary": "王毅谈及习近平主席对美国进行国事访问，介绍访问成果与意义。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wjqLP4n0jh",
+        "publishedAt": "2026-09-26T16:21:59Z"
+      },
+      {
+        "id": "4da2f4cab582d5754651",
+        "title": "中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
+        "summary": "中美同意共同构建基于尊重、公平、对等的建设性战略稳定关系。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34146662",
-        "publishedAt": "2026-09-26T11:22:11Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34151551",
+        "publishedAt": "2026-09-26T16:21:59Z"
       },
       {
-        "id": "021d1ecb6d1ba2a13962",
-        "title": "报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸",
-        "summary": "报道称特朗普拒绝伊朗七天停火提议，预计中期选举后恢复轰炸。",
+        "id": "62582e5a358010a107cb",
+        "title": "美情报评估：沙特不排除研发核武器可能性",
+        "summary": "美情报评估认为沙特不排除研发核武器的可能性，引发关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wjzYKtrxBd",
+        "publishedAt": "2026-09-26T16:21:59Z"
+      },
+      {
+        "id": "7e3016ec76ce832484bd",
+        "title": "AI基础设施撞上“墙”！Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键",
+        "summary": "Marvell指出铜连接与内存瓶颈成为AI算力扩张下一阶段的关键制约。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782570",
-        "publishedAt": "2026-09-26T11:22:11Z"
-      },
-      {
-        "id": "ac6f52afb111ea82b1ce",
-        "title": "知名音乐人刘欢病逝，享年63岁",
-        "summary": "知名音乐人刘欢病逝，享年63岁，文化界与公众广泛悼念。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34154106",
-        "publishedAt": "2026-09-26T11:22:11Z"
+        "url": "https://wallstreetcn.com/articles/3782579",
+        "publishedAt": "2026-09-26T16:21:59Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际方面，特朗普拒绝伊朗重开霍尔木兹海峡的七日方案，美伊紧张持续；巴黎教宗露天弥撒吸引数十万人，曼谷洪灾、巴基斯坦袭击等突发事件受到关注。",
     "items": [
       {
-        "id": "fd602f191d17813b1c74",
-        "title": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
-        "summary": "曼谷因持续暴雨引发严重洪灾，当局宣布全市进入灾难状态。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
-        "publishedAt": "2026-09-25T23:47:29Z"
-      },
-      {
-        "id": "af6822be333e636685ef",
-        "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
-        "summary": "雅典卫城附近建筑爆炸致至少两人死亡，多名游客失踪。",
+        "id": "a7f496cc7dd61a93aa02",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "summary": "特朗普拒绝伊朗七日内重开霍尔木兹海峡的方案，称提案不可接受。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-26T02:18:51Z"
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-26T08:16:29Z"
       },
       {
-        "id": "565f74b250a3c9e184bd",
-        "title": "Israel bans Arab parties from election: Who they are, why it matters",
-        "summary": "以色列禁止阿拉伯政党参加选举，相关决定引发广泛争议与关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
-        "publishedAt": "2026-09-26T02:27:11Z"
-      },
-      {
-        "id": "f1e1da44af5a107f3a83",
-        "title": "Ebola spreads in DR Congo, putting neighbouring nations at risk",
-        "summary": "刚果（金）埃博拉疫情蔓延至新地区，周边十国面临高风险。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-ebola-spreading-borders-drc-dr?traffic_source=rss",
-        "publishedAt": "2026-09-26T02:56:00Z"
-      },
-      {
-        "id": "cb6d393b2f6634ae2797",
-        "title": "We followed five people in Gaza from dawn to dusk – this is what the headlines don’t tell us",
-        "summary": "加沙民众在围困中艰难求生，日常困境揭示人道危机另一面。",
+        "id": "5e4d1c274c9d82c2211b",
+        "title": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+        "summary": "教宗在巴黎协和广场举行露天弥撒，约70万人参加。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/we-followed-five-people-in-gaza-from-dawn-to-dusk-this-is-what-the-headlines-dont-tell-us",
-        "publishedAt": "2026-09-26T03:00:34Z"
+        "url": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+        "publishedAt": "2026-09-26T07:50:27Z"
       },
       {
-        "id": "f185abc1b8ca4d51f2f5",
-        "title": "Could AI firms be held responsible for mass shootings?",
-        "summary": "加拿大起诉OpenAI，AI企业是否应为大规模枪击承担责任引关注。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss",
-        "publishedAt": "2026-09-25T23:46:45Z"
-      },
-      {
-        "id": "3422213635d6dd4b3069",
-        "title": "TikTok to pay $100 million to Alabama in teen addiction settlement",
-        "summary": "TikTok与阿拉巴马州和解，支付至少1亿美元并限制青少年使用。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss",
-        "publishedAt": "2026-09-25T18:09:10Z"
-      },
-      {
-        "id": "9ec7503a6facf04d84d4",
-        "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
-        "summary": "巴西总统卢拉在选举前签署禁令，全面禁止固定赔率体育博彩。",
+        "id": "0fd37e6240d3809897ed",
+        "title": "White House blocks CNN from Air Force One in latest escalation with news media",
+        "summary": "白宫阻止CNN随特朗普乘坐空军一号，白宫与媒体冲突升级。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
-        "publishedAt": "2026-09-25T23:58:05Z"
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+        "publishedAt": "2026-09-26T04:45:33Z"
+      },
+      {
+        "id": "26ca4d81bd43ae967ca0",
+        "title": "Watch: Bangkok declared flood disaster zone",
+        "summary": "曼谷因持续暴雨引发严重洪灾，当局宣布全市进入灾难状态。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-26T07:34:18Z"
+      },
+      {
+        "id": "cc1a76a52851bcfcc35b",
+        "title": "Pakistan: Suicide attack at police stop kills at least 11",
+        "summary": "巴基斯坦一处警察检查站遭自杀式袭击，至少11人死亡。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-26T06:27:00Z"
+      },
+      {
+        "id": "d275e825aa53584e3b6b",
+        "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday",
+        "summary": "宾夕法尼亚州麻疹疫情扩散，周三以来新增55例，已有4人死亡。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads",
+        "publishedAt": "2026-09-26T06:10:05Z"
+      },
+      {
+        "id": "2c6085f870f0c85f1652",
+        "title": "Severely disabled young people should get fast-track access to benefits, Milburn says",
+        "summary": "英国官员建议为重度残疾年轻人提供福利快速通道，免于反复证明。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn",
+        "publishedAt": "2026-09-26T01:00:32Z"
+      },
+      {
+        "id": "a2cf5f25a85417066184",
+        "title": "Power outages and flooded roads as major storm bears down on US north-east",
+        "summary": "美国东北部遭强风暴袭击，多地停电、道路被淹，逾7万用户断电。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+        "publishedAt": "2026-09-26T05:35:26Z"
       }
     ]
   }
