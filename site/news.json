@@ -1,34 +1,50 @@
 {
   "version": 1,
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T04:55:18Z",
+  "generatedAt": "2026-09-26T11:22:11Z",
   "generationMode": "ai",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
+        "id": "8c64709860e41a337c3d",
+        "title": "中美达成300亿美元对等降税安排",
+        "summary": "中美达成300亿美元对等降税安排，为第八轮经贸磋商核心成果。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7689753031058918975/",
+        "publishedAt": "2026-09-26T11:22:11Z"
+      },
+      {
         "id": "ded75ad15f6a64156b1e",
         "title": "习近平同美国总统特朗普会谈",
-        "summary": "习近平同美国总统特朗普举行会谈，就双边关系及共同关心问题深入交换意见。",
+        "summary": "习近平同美国总统特朗普会谈，就双边关系与经贸议题深入交换意见。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34147373",
-        "publishedAt": "2026-09-26T04:55:18Z"
+        "publishedAt": "2026-09-26T11:22:11Z"
       },
       {
-        "id": "7851aac4ccc9b94a0a04",
-        "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-        "summary": "习近平和彭丽媛同特朗普夫妇茶叙，以元首外交引领中美关系稳定发展。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782557",
-        "publishedAt": "2026-09-26T04:55:18Z"
+        "id": "77b9194cce7a04915592",
+        "title": "王毅谈习近平主席对美国进行国事访问",
+        "summary": "王毅谈习近平主席对美国进行国事访问，介绍会晤成果与战略意义。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wjqLP4n0jh",
+        "publishedAt": "2026-09-26T11:22:11Z"
       },
       {
-        "id": "0e592ef7430636de6c85",
-        "title": "【早报】商务部：中美第八轮经贸磋商达成多项共识；中际旭创完成50亿元股份回购",
-        "summary": "商务部称中美第八轮经贸磋商达成多项共识，双方同意继续保持沟通。",
+        "id": "8dc064f874a96c5ca02f",
+        "title": "中美同意建立人工智能对话",
+        "summary": "中美同意建立人工智能对话机制，白宫称将设双边沟通渠道。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BB%BA%E7%AB%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E8%AF%9D%23",
+        "publishedAt": "2026-09-26T11:22:11Z"
+      },
+      {
+        "id": "66e80e556edbda231135",
+        "title": "被立案两券商重罚落地！暂停新开户3个月，多名高管遭罚",
+        "summary": "被立案两券商重罚落地，暂停新开户三个月，多名高管遭处罚。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2492860",
-        "publishedAt": "2026-09-26T04:55:18Z"
+        "url": "https://www.cls.cn/detail/2492873",
+        "publishedAt": "2026-09-26T11:22:11Z"
       },
       {
         "id": "34559d111352be8be460",
@@ -36,39 +52,23 @@
         "summary": "“平平”“福双”将赴美，助力深化新一轮大熊猫保护国际合作。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34146662",
-        "publishedAt": "2026-09-26T04:55:18Z"
+        "publishedAt": "2026-09-26T11:22:11Z"
       },
       {
-        "id": "bd79350069457e7ce323",
-        "title": "普京：俄方乐见中美元首会晤",
-        "summary": "普京表示俄方乐见中美元首会晤，认为有助于国际局势稳定。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E6%96%B9%E4%B9%90%E8%A7%81%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-        "publishedAt": "2026-09-26T04:55:18Z"
+        "id": "021d1ecb6d1ba2a13962",
+        "title": "报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸",
+        "summary": "报道称特朗普拒绝伊朗七天停火提议，预计中期选举后恢复轰炸。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782570",
+        "publishedAt": "2026-09-26T11:22:11Z"
       },
       {
-        "id": "66e80e556edbda231135",
-        "title": "被立案两券商重罚落地！暂停新开户3个月，多名高管遭罚",
-        "summary": "两家券商被立案后重罚落地，暂停新开户三个月，多名高管遭处罚。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2492873",
-        "publishedAt": "2026-09-26T04:55:18Z"
-      },
-      {
-        "id": "d46fbbe329fcfc893e28",
-        "title": "荷兰首相游说美方：别再限制ASML对华出口",
-        "summary": "荷兰首相游说美方，呼吁不要再限制ASML对华出口，凸显芯片博弈。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wiBtIoGJu4",
-        "publishedAt": "2026-09-26T04:55:18Z"
-      },
-      {
-        "id": "6f66a569c5c48eaa08e9",
-        "title": "菲方在中方节日期间采取挑衅行径并煽宣炒作，中国海警局回应",
-        "summary": "中国海警局回应菲方在中方节日期间挑衅炒作，称将坚决维护主权。",
+        "id": "ac6f52afb111ea82b1ce",
+        "title": "知名音乐人刘欢病逝，享年63岁",
+        "summary": "知名音乐人刘欢病逝，享年63岁，文化界与公众广泛悼念。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34149665",
-        "publishedAt": "2026-09-26T04:55:18Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34154106",
+        "publishedAt": "2026-09-26T11:22:11Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "f957390b49cd01219043",
-        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-        "summary": "伊朗向美国提出七天内重开霍尔木兹海峡方案，美方称正通过斡旋方沟通。",
+        "id": "fd602f191d17813b1c74",
+        "title": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
+        "summary": "曼谷因持续暴雨引发严重洪灾，当局宣布全市进入灾难状态。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
+        "publishedAt": "2026-09-25T23:47:29Z"
+      },
+      {
+        "id": "af6822be333e636685ef",
+        "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+        "summary": "雅典卫城附近建筑爆炸致至少两人死亡，多名游客失踪。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-25T20:14:30Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-26T02:18:51Z"
+      },
+      {
+        "id": "565f74b250a3c9e184bd",
+        "title": "Israel bans Arab parties from election: Who they are, why it matters",
+        "summary": "以色列禁止阿拉伯政党参加选举，相关决定引发广泛争议与关注。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+        "publishedAt": "2026-09-26T02:27:11Z"
+      },
+      {
+        "id": "f1e1da44af5a107f3a83",
+        "title": "Ebola spreads in DR Congo, putting neighbouring nations at risk",
+        "summary": "刚果（金）埃博拉疫情蔓延至新地区，周边十国面临高风险。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-ebola-spreading-borders-drc-dr?traffic_source=rss",
+        "publishedAt": "2026-09-26T02:56:00Z"
+      },
+      {
+        "id": "cb6d393b2f6634ae2797",
+        "title": "We followed five people in Gaza from dawn to dusk – this is what the headlines don’t tell us",
+        "summary": "加沙民众在围困中艰难求生，日常困境揭示人道危机另一面。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/we-followed-five-people-in-gaza-from-dawn-to-dusk-this-is-what-the-headlines-dont-tell-us",
+        "publishedAt": "2026-09-26T03:00:34Z"
+      },
+      {
+        "id": "f185abc1b8ca4d51f2f5",
+        "title": "Could AI firms be held responsible for mass shootings?",
+        "summary": "加拿大起诉OpenAI，AI企业是否应为大规模枪击承担责任引关注。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss",
+        "publishedAt": "2026-09-25T23:46:45Z"
       },
       {
         "id": "3422213635d6dd4b3069",
         "title": "TikTok to pay $100 million to Alabama in teen addiction settlement",
-        "summary": "TikTok与阿拉巴马州达成和解，支付至少1亿美元并限制青少年使用。",
+        "summary": "TikTok与阿拉巴马州和解，支付至少1亿美元并限制青少年使用。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss",
         "publishedAt": "2026-09-25T18:09:10Z"
       },
       {
-        "id": "f9a0b41d634583801f64",
-        "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-        "summary": "陪审团认定Facebook在剑桥分析案中欺骗用户，须承担相应法律责任。",
-        "source": "Hacker News",
-        "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-        "publishedAt": "2026-09-25T17:36:50Z"
-      },
-      {
-        "id": "8cb3a085d74e2091dd61",
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "summary": "OpenAI称其智能体访问了美国人口普查局和证交会等政府网站公开数据。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-25T18:50:56Z"
-      },
-      {
-        "id": "9660ca0470b2d48cd834",
-        "title": "US court upholds Pentagon’s blacklisting of Anthropic",
-        "summary": "美上诉法院维持五角大楼将Anthropic列为供应链风险的决定，AI军用争议升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/25/us-court-upholds-pentagons-blacklisting-of-anthropic?traffic_source=rss",
-        "publishedAt": "2026-09-25T09:03:52Z"
-      },
-      {
-        "id": "c6af502b5a9cb875ee96",
-        "title": "Supreme court blocks Trump-backed Missouri congressional map from use in midterms",
-        "summary": "美最高法院阻止特朗普支持的密苏里州选区重划图用于中期选举。",
+        "id": "9ec7503a6facf04d84d4",
+        "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+        "summary": "巴西总统卢拉在选举前签署禁令，全面禁止固定赔率体育博彩。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-missouri-maps-trump",
-        "publishedAt": "2026-09-25T14:33:14Z"
-      },
-      {
-        "id": "850aa87baf6de6ceb51f",
-        "title": "Volkswagen, Audi to recall almost 1 million cars in Germany",
-        "summary": "大众及奥迪因潜在转向系统故障，将在德国召回近100万辆汽车。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/volkswagen-audi-to-recall-almost-1-million-cars-in-germany/a-79426960?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-25T01:40:00Z"
-      },
-      {
-        "id": "6af937688a5aa936d7f5",
-        "title": "Iran pitches US a seven-day end to the war at UNGA",
-        "summary": "Iran has pitched a proposal to open the Strait of Hormuz in seven days - if the ",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
-        "publishedAt": "2026-09-25T20:28:58Z"
+        "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+        "publishedAt": "2026-09-25T23:58:05Z"
       }
     ]
   }
