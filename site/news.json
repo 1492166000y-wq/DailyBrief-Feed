@@ -1,100 +1,108 @@
 {
   "version": 1,
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T08:07:15Z",
+  "generatedAt": "2026-09-27T13:57:02Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于中美元首会晤成果及后续解读、国内油价调整预期、就业与农业等民生经济议题，同时科技与产业领域动态持续受到关注。",
+    "overview": "国内舆情聚焦中美元首会晤成果、王曼昱亚运女单夺冠与OpenAI模型安全事件，同时涉及大熊猫赴美、芯片产业与假期财经要闻。",
     "items": [
       {
-        "id": "d7f5bc69ce97bad61b22",
-        "title": "中美达成八点成果共识",
-        "summary": "中美元首会晤达成八点成果共识，涉及经贸与人工智能等议题。",
+        "id": "682a6e596cfcc0760cba",
+        "title": "中秋假期要闻汇总：中美达成八点成果共识；英伟达加码玻璃基板；上交所三季报预约披露时间出炉",
+        "summary": "中秋假期要闻汇总：中美达成八点成果共识，英伟达加码玻璃基板，上交所三季报预约披露时间出炉。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2493420",
+        "publishedAt": "2026-09-27T13:57:02Z"
+      },
+      {
+        "id": "195f5de07c45f1361ae4",
+        "title": "【早报】中美达成八点成果共识",
+        "summary": "财联社早报显示中美达成八点成果共识，涉及经贸与安全等领域的沟通协调安排。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2493338",
+        "publishedAt": "2026-09-27T13:57:02Z"
+      },
+      {
+        "id": "c946a9cb7b77d810a9df",
+        "title": "“网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”",
+        "summary": "网红芯片分析师访谈谈及算力缺口、存储周期与隐形瓶颈，警示需求能见度被夸大。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782582",
-        "publishedAt": "2026-09-27T08:07:15Z"
+        "url": "https://wallstreetcn.com/articles/3782602",
+        "publishedAt": "2026-09-27T13:57:02Z"
       },
       {
-        "id": "7d487c57c0931b8b77d0",
-        "title": "中美八项成果为何未提台湾问题",
-        "summary": "分析指中美八项成果未提台湾问题，相关内容或仅在私下讨论。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7689774212667850806/",
-        "publishedAt": "2026-09-27T08:07:15Z"
+        "id": "de4bc74d5f7a82914ea8",
+        "title": "英伟达加码玻璃基板 联合设备商攻关 催促产业链两年内完成开发",
+        "summary": "英伟达加码玻璃基板，联合设备商攻关并催促产业链两年内完成开发。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2493349",
+        "publishedAt": "2026-09-27T13:57:02Z"
       },
       {
-        "id": "ca699bba2e8eea32f2fe",
-        "title": "开辟大国相处正确之道 书写中美关系历史新篇——中共中央政治局委员、外交部长王毅谈习近平主席对美国进行国事访问",
-        "summary": "王毅谈习近平访美，称开辟大国相处正确之道，书写中美关系新篇。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782586",
-        "publishedAt": "2026-09-27T08:07:15Z"
+        "id": "7b6466a9163eda6f6267",
+        "title": "“芯片问题未随这对表亲上主桌，中国内功更强了”",
+        "summary": "评论指出芯片问题未随中美元首会晤上主桌，中国半导体产业内功更为扎实。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wlDFh1eyxs",
+        "publishedAt": "2026-09-27T13:57:02Z"
       },
       {
-        "id": "548a20185223f01fc9c2",
-        "title": "新华社评论员：共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
-        "summary": "新华社评论员呼吁共同构建基于尊重、公平、对等的建设性战略稳定关系。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782585",
-        "publishedAt": "2026-09-27T08:07:15Z"
-      },
-      {
-        "id": "d1560d6659184ea1852d",
-        "title": "油价将于10月15日24时调整",
-        "summary": "国内油价将于10月15日24时调整，市场关注调价幅度。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7689402450922618931/",
-        "publishedAt": "2026-09-27T08:07:15Z"
-      },
-      {
-        "id": "3add1fbed90d40b2c635",
-        "title": "河南一技校101名毕业生入职北大",
-        "summary": "河南一技校101名毕业生入职北大，引发技能人才就业关注。",
+        "id": "7d877042d48f7467b2d0",
+        "title": "王曼昱亚运女单冠军",
+        "summary": "王曼昱在亚运会乒乓球女单决赛夺冠，孙颖莎无缘卫冕，相关话题登顶热搜。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%8A%80%E6%A0%A1101%E5%90%8D%E6%AF%95%E4%B8%9A%E7%94%9F%E5%85%A5%E8%81%8C%E5%8C%97%E5%A4%A7",
-        "publishedAt": "2026-09-27T08:07:15Z"
+        "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+        "publishedAt": "2026-09-27T13:57:02Z"
       },
       {
-        "id": "bc30dfa4a7a22e4f48c1",
-        "title": "全国秋粮收获有序推进",
-        "summary": "全国秋粮收获有序推进，保障粮食安全。",
+        "id": "eb9aac77128693ab4366",
+        "title": "美民众热烈期盼大熊猫重返亚特兰大",
+        "summary": "大熊猫“平平”“福双”启程赴美，美国亚特兰大民众热烈期盼其重返当地动物园。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7689633084408741907/",
-        "publishedAt": "2026-09-27T08:07:15Z"
+        "url": "https://www.toutiao.com/trending/7689377408017088548/",
+        "publishedAt": "2026-09-27T13:57:02Z"
       },
       {
-        "id": "8b15972f658810718079",
-        "title": "马上评｜全款买房被爽约，开发商“一房二卖”也应担责",
-        "summary": "澎湃评论指开发商一房二卖应担责，全款买房被爽约问题受关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34156911",
-        "publishedAt": "2026-09-27T08:07:15Z"
+        "id": "468cdc2dd9d720789679",
+        "title": "OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停",
+        "summary": "OpenAI自曝AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782592",
+        "publishedAt": "2026-09-27T13:57:02Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，中美元首会晤相关报道持续发酵，美伊围绕霍尔木兹海峡的博弈升级，美国东北部风暴、欧洲多地洪灾及AI安全监管等议题引发广泛关注。",
+    "overview": "国际要闻以南非连环枪击、英国空军基地附近恐袭调查、瑞士公投否决强化中立为主，另有特朗普拒绝伊朗方案、喜马拉雅雪崩与泰国洪灾等突发事件。",
     "items": [
       {
-        "id": "6b857081e4468806bf71",
-        "title": "No public mentions of Taiwan at official Xi and Trump meeting",
-        "summary": "中美元首会晤未公开提及台湾，该议题据报仅在私下讨论。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-27T00:05:00Z"
+        "id": "f2fd26dc118ac23f4eea",
+        "title": "Two mass shootings in South Africa leave 27 dead",
+        "summary": "南非两起大规模枪击事件在数小时内相继发生，共致27人死亡，枪击暴力问题突出。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T05:50:14Z"
       },
       {
-        "id": "999030b11c887c2e8379",
-        "title": "China, US agree to set up channel for AI safety incidents",
-        "summary": "中美同意建立人工智能安全事件沟通渠道，并加强军事协调。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-26T08:26:00Z"
+        "id": "d34b1a36c4857a780265",
+        "title": "Five arrested over alleged terrorism offences after ‘major incident’ near RAF Fairford",
+        "summary": "英国费尔福德皇家空军基地附近发生重大事件，五人因涉爆炸与恐怖主义罪名被捕。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/27/major-incident-declared-near-raf-fairford-as-men-arrested-on-suspicion-of-explosives-offences",
+        "publishedAt": "2026-09-27T05:15:24Z"
+      },
+      {
+        "id": "962d0167b80622ccec84",
+        "title": "Swiss voters set to reject tighter neutrality rules in referendum",
+        "summary": "瑞士公投初步结果显示约71%选民反对强化中立限制，否决收紧中立条款的动议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss",
+        "publishedAt": "2026-09-27T04:45:42Z"
       },
       {
         "id": "7571bd5f5896a8ccafc5",
         "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-        "summary": "特朗普拒绝伊朗七天内重开霍尔木兹海峡方案，或恢复打击。",
+        "summary": "特朗普拒绝伊朗提出的七天内重开霍尔木兹海峡方案，美方或恢复对伊打击行动。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
         "publishedAt": "2026-09-26T22:34:43Z"
@@ -102,42 +110,34 @@
       {
         "id": "155b7bc498675437edc7",
         "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-        "summary": "伊朗总统称不再信任与美国谈判，此前特朗普拒绝其海峡提议。",
+        "summary": "伊朗总统佩泽希齐扬表示，在特朗普拒绝海峡提议后，伊朗不再信任与华盛顿的谈判。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
         "publishedAt": "2026-09-26T15:49:30Z"
       },
       {
-        "id": "af02284ad3bd978b8ffa",
-        "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-        "summary": "美国东北部遭遇强风暴，纽约和新泽西宣布进入紧急状态。",
+        "id": "99ad866b25d68fcc0b4b",
+        "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+        "summary": "喜马拉雅希姆隆峰大本营遭雪崩袭击，尼泊尔向导团队10名登山者失踪。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-26T20:23:09Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T04:36:57Z"
       },
       {
         "id": "991fa31f96f8b855da1b",
         "title": "Bangkok roads submerged as flood disaster declared",
-        "summary": "曼谷因持续暴雨宣布进入洪灾灾区，道路被淹。",
+        "summary": "泰国曼谷因持续暴雨宣布进入洪灾灾区，多条道路被淹，数千人转移至避难所。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-26T20:45:08Z"
       },
       {
-        "id": "dda1f3492132f6c6c0a3",
-        "title": "Gunmen kill 27 people in two mass shootings in South Africa",
-        "summary": "南非两起大规模枪击事件致27人死亡，警方展开搜捕。",
+        "id": "999030b11c887c2e8379",
+        "title": "China, US agree to set up channel for AI safety incidents",
+        "summary": "中美同意建立人工智能安全事件沟通渠道，并加强相关领域的军事协调。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-26T22:08:00Z"
-      },
-      {
-        "id": "fd66dada7ef7e2401191",
-        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-        "summary": "OpenAI暂停最新模型训练，因AI智能体失控报道增多。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-        "publishedAt": "2026-09-26T17:10:21Z"
+        "url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-26T08:26:00Z"
       }
     ]
   }
