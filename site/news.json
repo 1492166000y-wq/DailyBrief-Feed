@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T00:35:06Z",
+  "generatedAt": "2026-09-27T08:07:15Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "习近平主席对美国进行国事访问，中美达成八点成果共识及300亿美元对等降税安排，商务部称第八轮经贸磋商取得多项共识；国内科技与资本市场方面，中际旭创完成50亿元股份回购，AI基础设施瓶颈引发关注。",
+    "overview": "今日国内焦点集中于中美元首会晤成果及后续解读、国内油价调整预期、就业与农业等民生经济议题，同时科技与产业领域动态持续受到关注。",
     "items": [
-      {
-        "id": "8c64709860e41a337c3d",
-        "title": "中美达成300亿美元对等降税安排",
-        "summary": "中美达成300亿美元对等降税安排，系第八轮经贸磋商重要成果之一。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7689753031058918975/",
-        "publishedAt": "2026-09-27T00:35:06Z"
-      },
       {
         "id": "d7f5bc69ce97bad61b22",
         "title": "中美达成八点成果共识",
-        "summary": "中美公布八点成果共识，涉及经贸、AI安全沟通渠道及军事协调等。",
+        "summary": "中美元首会晤达成八点成果共识，涉及经贸与人工智能等议题。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782582",
-        "publishedAt": "2026-09-27T00:35:06Z"
+        "publishedAt": "2026-09-27T08:07:15Z"
       },
       {
-        "id": "77b9194cce7a04915592",
-        "title": "王毅谈习近平主席对美国进行国事访问",
-        "summary": "王毅谈习近平主席对美国进行国事访问，阐述此访战略意义。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wjqLP4n0jh",
-        "publishedAt": "2026-09-27T00:35:06Z"
+        "id": "7d487c57c0931b8b77d0",
+        "title": "中美八项成果为何未提台湾问题",
+        "summary": "分析指中美八项成果未提台湾问题，相关内容或仅在私下讨论。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7689774212667850806/",
+        "publishedAt": "2026-09-27T08:07:15Z"
       },
       {
-        "id": "0e592ef7430636de6c85",
-        "title": "【早报】商务部：中美第八轮经贸磋商达成多项共识；中际旭创完成50亿元股份回购",
-        "summary": "商务部称中美第八轮经贸磋商达成多项共识；中际旭创完成50亿元股份回购。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2492860",
-        "publishedAt": "2026-09-27T00:35:06Z"
-      },
-      {
-        "id": "84d7b6ac2de5dda17168",
-        "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
-        "summary": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2492899",
-        "publishedAt": "2026-09-27T00:35:06Z"
-      },
-      {
-        "id": "5e7dab9c5dd5420a4f5a",
-        "title": "香港证监会就恒大审计问题与普华永道达成和解：普华永道不承认责任但支付10亿港元，该款项非恒大财产，不可用以清偿其债权",
-        "summary": "香港证监会就恒大审计问题与普华永道达成和解，普华永道支付10亿港元。",
+        "id": "ca699bba2e8eea32f2fe",
+        "title": "开辟大国相处正确之道 书写中美关系历史新篇——中共中央政治局委员、外交部长王毅谈习近平主席对美国进行国事访问",
+        "summary": "王毅谈习近平访美，称开辟大国相处正确之道，书写中美关系新篇。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782573",
-        "publishedAt": "2026-09-27T00:35:06Z"
+        "url": "https://wallstreetcn.com/articles/3782586",
+        "publishedAt": "2026-09-27T08:07:15Z"
       },
       {
-        "id": "66e80e556edbda231135",
-        "title": "被立案两券商重罚落地！暂停新开户3个月，多名高管遭罚",
-        "summary": "两家券商被立案后重罚落地：暂停新开户3个月，多名高管遭处罚。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2492873",
-        "publishedAt": "2026-09-27T00:35:06Z"
-      },
-      {
-        "id": "7e3016ec76ce832484bd",
-        "title": "AI基础设施撞上“墙”！Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键",
-        "summary": "Marvell称铜连接与内存瓶颈成AI算力扩张关键，基础设施承压。",
+        "id": "548a20185223f01fc9c2",
+        "title": "新华社评论员：共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
+        "summary": "新华社评论员呼吁共同构建基于尊重、公平、对等的建设性战略稳定关系。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782579",
-        "publishedAt": "2026-09-27T00:35:06Z"
+        "url": "https://wallstreetcn.com/articles/3782585",
+        "publishedAt": "2026-09-27T08:07:15Z"
+      },
+      {
+        "id": "d1560d6659184ea1852d",
+        "title": "油价将于10月15日24时调整",
+        "summary": "国内油价将于10月15日24时调整，市场关注调价幅度。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7689402450922618931/",
+        "publishedAt": "2026-09-27T08:07:15Z"
+      },
+      {
+        "id": "3add1fbed90d40b2c635",
+        "title": "河南一技校101名毕业生入职北大",
+        "summary": "河南一技校101名毕业生入职北大，引发技能人才就业关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%8A%80%E6%A0%A1101%E5%90%8D%E6%AF%95%E4%B8%9A%E7%94%9F%E5%85%A5%E8%81%8C%E5%8C%97%E5%A4%A7",
+        "publishedAt": "2026-09-27T08:07:15Z"
+      },
+      {
+        "id": "bc30dfa4a7a22e4f48c1",
+        "title": "全国秋粮收获有序推进",
+        "summary": "全国秋粮收获有序推进，保障粮食安全。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7689633084408741907/",
+        "publishedAt": "2026-09-27T08:07:15Z"
+      },
+      {
+        "id": "8b15972f658810718079",
+        "title": "马上评｜全款买房被爽约，开发商“一房二卖”也应担责",
+        "summary": "澎湃评论指开发商一房二卖应担责，全款买房被爽约问题受关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34156911",
+        "publishedAt": "2026-09-27T08:07:15Z"
       }
     ]
   },
   "global": {
-    "overview": "特朗普拒绝伊朗七天停火提议并称预计中期选举后恢复轰炸，美伊围绕霍尔木兹海峡博弈持续；美国东北部遭遇强风暴袭击，纽约、新泽西宣布进入紧急状态；欧洲爆发数据中心建设抗议，澳大利亚亦出现类似反对声音。",
+    "overview": "国际方面，中美元首会晤相关报道持续发酵，美伊围绕霍尔木兹海峡的博弈升级，美国东北部风暴、欧洲多地洪灾及AI安全监管等议题引发广泛关注。",
     "items": [
       {
-        "id": "a7f496cc7dd61a93aa02",
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "summary": "特朗普拒绝伊朗七天内重开霍尔木兹海峡的方案，伊方称等待调解方意见。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-26T14:15:59Z"
+        "id": "6b857081e4468806bf71",
+        "title": "No public mentions of Taiwan at official Xi and Trump meeting",
+        "summary": "中美元首会晤未公开提及台湾，该议题据报仅在私下讨论。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-27T00:05:00Z"
+      },
+      {
+        "id": "999030b11c887c2e8379",
+        "title": "China, US agree to set up channel for AI safety incidents",
+        "summary": "中美同意建立人工智能安全事件沟通渠道，并加强军事协调。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-26T08:26:00Z"
+      },
+      {
+        "id": "7571bd5f5896a8ccafc5",
+        "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+        "summary": "特朗普拒绝伊朗七天内重开霍尔木兹海峡方案，或恢复打击。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+        "publishedAt": "2026-09-26T22:34:43Z"
       },
       {
         "id": "155b7bc498675437edc7",
         "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-        "summary": "伊朗总统称伊朗不再信任与华盛顿的谈判，此前特朗普拒绝其海峡提议。",
+        "summary": "伊朗总统称不再信任与美国谈判，此前特朗普拒绝其海峡提议。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
         "publishedAt": "2026-09-26T15:49:30Z"
       },
       {
-        "id": "7542283a1298c6460436",
-        "title": "Is Congo's Ebola outbreak coming under control?",
-        "summary": "刚果（金）埃博拉疫情持续四个月，規模创纪录，官方与专家对其是否受控存分歧。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control",
-        "publishedAt": "2026-09-26T13:13:52Z"
-      },
-      {
         "id": "af02284ad3bd978b8ffa",
         "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-        "summary": "美国东北部强风暴引发洪水，纽约和新泽西宣布进入紧急状态。",
+        "summary": "美国东北部遭遇强风暴，纽约和新泽西宣布进入紧急状态。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-26T14:04:26Z"
+        "publishedAt": "2026-09-26T20:23:09Z"
       },
       {
-        "id": "bc846d1e7bd526c0a6e0",
-        "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
-        "summary": "特朗普宣布撤销拜登时期汽车燃油经济性规则，终止所谓电动车强制令。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
-        "publishedAt": "2026-09-26T13:51:56Z"
-      },
-      {
-        "id": "9636d3e589b5e9fed8aa",
-        "title": "Germany news: EU ministers meet for migration showdown",
-        "summary": "欧盟内政部长在慕尼黑就移民问题召开会议，拟强化边境并加速遣返。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-26T11:09:00Z"
-      },
-      {
-        "id": "26ca4d81bd43ae967ca0",
-        "title": "Watch: Bangkok declared flood disaster zone",
-        "summary": "曼谷因持续暴雨引发严重洪灾，当局宣布全市进入灾难状态。",
+        "id": "991fa31f96f8b855da1b",
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "summary": "曼谷因持续暴雨宣布进入洪灾灾区，道路被淹。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-26T07:34:18Z"
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-26T20:45:08Z"
       },
       {
-        "id": "060055b628a5ae6ebaaf",
-        "title": "Trump rejects combining US-China AI efforts",
-        "summary": "特朗普拒绝将美中人工智能工作合并，并称对AI的担忧只是骗局。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
-        "publishedAt": "2026-09-26T09:39:18Z"
+        "id": "dda1f3492132f6c6c0a3",
+        "title": "Gunmen kill 27 people in two mass shootings in South Africa",
+        "summary": "南非两起大规模枪击事件致27人死亡，警方展开搜捕。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-26T22:08:00Z"
+      },
+      {
+        "id": "fd66dada7ef7e2401191",
+        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "summary": "OpenAI暂停最新模型训练，因AI智能体失控报道增多。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+        "publishedAt": "2026-09-26T17:10:21Z"
       }
     ]
   }
