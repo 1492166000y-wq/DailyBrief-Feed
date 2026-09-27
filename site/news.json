@@ -1,132 +1,124 @@
 {
   "version": 1,
   "date": "2026-09-27",
-  "generatedAt": "2026-09-26T21:07:52Z",
+  "generatedAt": "2026-09-27T00:35:06Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在中美元首会晤成果、经贸降税安排及对等共识，同时涉及资本市场、产业科技动向与社会民生议题。",
+    "overview": "习近平主席对美国进行国事访问，中美达成八点成果共识及300亿美元对等降税安排，商务部称第八轮经贸磋商取得多项共识；国内科技与资本市场方面，中际旭创完成50亿元股份回购，AI基础设施瓶颈引发关注。",
     "items": [
       {
         "id": "8c64709860e41a337c3d",
         "title": "中美达成300亿美元对等降税安排",
-        "summary": "中美达成300亿美元对等降税安排，为双方经贸关系释放积极信号。",
+        "summary": "中美达成300亿美元对等降税安排，系第八轮经贸磋商重要成果之一。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7689753031058918975/",
-        "publishedAt": "2026-09-26T21:07:52Z"
+        "publishedAt": "2026-09-27T00:35:06Z"
+      },
+      {
+        "id": "d7f5bc69ce97bad61b22",
+        "title": "中美达成八点成果共识",
+        "summary": "中美公布八点成果共识，涉及经贸、AI安全沟通渠道及军事协调等。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782582",
+        "publishedAt": "2026-09-27T00:35:06Z"
       },
       {
         "id": "77b9194cce7a04915592",
         "title": "王毅谈习近平主席对美国进行国事访问",
-        "summary": "王毅谈习近平主席对美国进行国事访问，阐述此访重要成果与意义。",
+        "summary": "王毅谈习近平主席对美国进行国事访问，阐述此访战略意义。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8wjqLP4n0jh",
-        "publishedAt": "2026-09-26T21:07:52Z"
+        "publishedAt": "2026-09-27T00:35:06Z"
+      },
+      {
+        "id": "0e592ef7430636de6c85",
+        "title": "【早报】商务部：中美第八轮经贸磋商达成多项共识；中际旭创完成50亿元股份回购",
+        "summary": "商务部称中美第八轮经贸磋商达成多项共识；中际旭创完成50亿元股份回购。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2492860",
+        "publishedAt": "2026-09-27T00:35:06Z"
+      },
+      {
+        "id": "84d7b6ac2de5dda17168",
+        "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+        "summary": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2492899",
+        "publishedAt": "2026-09-27T00:35:06Z"
+      },
+      {
+        "id": "5e7dab9c5dd5420a4f5a",
+        "title": "香港证监会就恒大审计问题与普华永道达成和解：普华永道不承认责任但支付10亿港元，该款项非恒大财产，不可用以清偿其债权",
+        "summary": "香港证监会就恒大审计问题与普华永道达成和解，普华永道支付10亿港元。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782573",
+        "publishedAt": "2026-09-27T00:35:06Z"
       },
       {
         "id": "66e80e556edbda231135",
         "title": "被立案两券商重罚落地！暂停新开户3个月，多名高管遭罚",
-        "summary": "被立案两家券商重罚落地，暂停新开户3个月，多名高管遭处罚。",
+        "summary": "两家券商被立案后重罚落地：暂停新开户3个月，多名高管遭处罚。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2492873",
-        "publishedAt": "2026-09-26T21:07:52Z"
-      },
-      {
-        "id": "62582e5a358010a107cb",
-        "title": "美情报评估：沙特不排除研发核武器可能性",
-        "summary": "美情报评估称沙特不排除研发核武器可能性，引发地区安全关注。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wjzYKtrxBd",
-        "publishedAt": "2026-09-26T21:07:52Z"
-      },
-      {
-        "id": "021d1ecb6d1ba2a13962",
-        "title": "报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸",
-        "summary": "报道称特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782570",
-        "publishedAt": "2026-09-26T21:07:52Z"
-      },
-      {
-        "id": "c5541258d4842b68919c",
-        "title": "中方回应美方“超级智能”提法",
-        "summary": "中方回应美方“超级智能”提法，阐明在人工智能治理上的立场。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E2%80%9C%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E2%80%9D%E6%8F%90%E6%B3%95",
-        "publishedAt": "2026-09-26T21:07:52Z"
+        "publishedAt": "2026-09-27T00:35:06Z"
       },
       {
         "id": "7e3016ec76ce832484bd",
         "title": "AI基础设施撞上“墙”！Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键",
-        "summary": "Marvell称铜连接与内存瓶颈将成AI算力扩张关键，提示基础设施挑战。",
+        "summary": "Marvell称铜连接与内存瓶颈成AI算力扩张关键，基础设施承压。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782579",
-        "publishedAt": "2026-09-26T21:07:52Z"
-      },
-      {
-        "id": "71de61cce02b60a07809",
-        "title": "Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障",
-        "summary": "Meta Muse用户规模十天冲上70万，但已出现算力不足导致的故障。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2493017",
-        "publishedAt": "2026-09-26T21:07:52Z"
+        "publishedAt": "2026-09-27T00:35:06Z"
       }
     ]
   },
   "global": {
-    "overview": "国际聚焦俄乌冲突升级、美伊围绕霍尔木兹海峡的谈判僵局、欧洲移民与国防议题，以及极端天气和公共卫生事件。",
+    "overview": "特朗普拒绝伊朗七天停火提议并称预计中期选举后恢复轰炸，美伊围绕霍尔木兹海峡博弈持续；美国东北部遭遇强风暴袭击，纽约、新泽西宣布进入紧急状态；欧洲爆发数据中心建设抗议，澳大利亚亦出现类似反对声音。",
     "items": [
       {
-        "id": "756a3ae830696cfa8ace",
-        "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-        "summary": "俄罗斯加大对乌克兰多地打击力度，乌最大钢铁制造商暂停运营。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
-        "publishedAt": "2026-09-26T12:57:54Z"
+        "id": "a7f496cc7dd61a93aa02",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "summary": "特朗普拒绝伊朗七天内重开霍尔木兹海峡的方案，伊方称等待调解方意见。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-26T14:15:59Z"
       },
       {
-        "id": "f31c6ab6c1d4d546181f",
-        "title": "Why is violence between Pakistan and Afghanistan recurring?",
-        "summary": "巴基斯坦对阿富汗境内目标发动新打击，两国暴力冲突再度引发关注。",
+        "id": "155b7bc498675437edc7",
+        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+        "summary": "伊朗总统称伊朗不再信任与华盛顿的谈判，此前特朗普拒绝其海峡提议。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
-        "publishedAt": "2026-09-26T12:55:44Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+        "publishedAt": "2026-09-26T15:49:30Z"
       },
       {
-        "id": "b885e72b039f0a99c065",
-        "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-        "summary": "特朗普称伊朗重开霍尔木兹海峡方案“不可接受”，谈判陷入僵局。",
+        "id": "7542283a1298c6460436",
+        "title": "Is Congo's Ebola outbreak coming under control?",
+        "summary": "刚果（金）埃博拉疫情持续四个月，規模创纪录，官方与专家对其是否受控存分歧。",
         "source": "NPR World",
-        "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
-        "publishedAt": "2026-09-26T12:08:28Z"
+        "url": "https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control",
+        "publishedAt": "2026-09-26T13:13:52Z"
       },
       {
-        "id": "bea48c8b9c782caa811e",
-        "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-        "summary": "沙特外交大臣在联大指责伊朗“公然攻击”，并谴责胡塞武装。",
+        "id": "af02284ad3bd978b8ffa",
+        "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+        "summary": "美国东北部强风暴引发洪水，纽约和新泽西宣布进入紧急状态。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-26T14:04:26Z"
+      },
+      {
+        "id": "bc846d1e7bd526c0a6e0",
+        "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+        "summary": "特朗普宣布撤销拜登时期汽车燃油经济性规则，终止所谓电动车强制令。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
-        "publishedAt": "2026-09-26T11:43:03Z"
-      },
-      {
-        "id": "da4bef13a00ef5340f6b",
-        "title": "Major storm in US north-east knocks out power for 100,000 and floods roads",
-        "summary": "美国东北部强风暴导致10万人断电、道路被淹，多地宣布紧急状态。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
-        "publishedAt": "2026-09-26T12:34:42Z"
-      },
-      {
-        "id": "738df9728947df3dc1df",
-        "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
-        "summary": "俄外长拉夫罗夫称对乌军事行动目标将“进行到底”，战事短期难止。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
-        "publishedAt": "2026-09-26T11:40:14Z"
+        "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+        "publishedAt": "2026-09-26T13:51:56Z"
       },
       {
         "id": "9636d3e589b5e9fed8aa",
         "title": "Germany news: EU ministers meet for migration showdown",
-        "summary": "欧盟内政部长在慕尼黑就移民问题召开会议，拟强化边境与加速遣返。",
+        "summary": "欧盟内政部长在慕尼黑就移民问题召开会议，拟强化边境并加速遣返。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-26T11:09:00Z"
@@ -138,6 +130,14 @@
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-26T07:34:18Z"
+      },
+      {
+        "id": "060055b628a5ae6ebaaf",
+        "title": "Trump rejects combining US-China AI efforts",
+        "summary": "特朗普拒绝将美中人工智能工作合并，并称对AI的担忧只是骗局。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+        "publishedAt": "2026-09-26T09:39:18Z"
       }
     ]
   }
