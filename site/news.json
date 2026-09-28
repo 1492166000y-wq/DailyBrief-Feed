@@ -1,79 +1,79 @@
 {
   "version": 1,
-  "date": "2026-09-28",
-  "generatedAt": "2026-09-28T13:50:18Z",
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-28T20:33:09Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，国常会部署逆周期调节与稳楼市、促就业政策，国资委就央企“十五五”规划发声，七部门印发新型电池产业规划；央企人事、高铁开通、工业企业利润等亦受关注。",
+    "overview": "本期国内要闻聚焦：教育部原副部长鲁昕被查、国常会部署稳楼市促就业与逆周期调节、国资委谈央企十五五规划、工业企业利润前8月增15.7%、高铁新线集中开通，以及上海商品房销售新政落地。",
     "items": [
+      {
+        "id": "831462236d4354762ec1",
+        "title": "教育部原党组成员、副部长鲁昕被查",
+        "summary": "教育部原党组成员、副部长鲁昕涉嫌严重违纪违法被查，教育部表态坚决拥护党中央决定。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34163360",
+        "publishedAt": "2026-09-28T20:33:09Z"
+      },
       {
         "id": "d8f1789e254350b7b0d4",
         "title": "国常会：要加大宏观政策逆周期调节力度，推动经济持续向新向优向好发展，努力完成全年经济社会发展目标任务",
-        "summary": "国常会要求加大宏观政策逆周期调节力度，稳定房地产市场、促进就业增收，努力完成全年目标。",
+        "summary": "国常会提出加大宏观政策逆周期调节力度，推动经济持续向新向优向好，努力完成全年目标任务。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2494412",
-        "publishedAt": "2026-09-28T13:50:18Z"
+        "publishedAt": "2026-09-28T20:33:09Z"
       },
       {
         "id": "ed88cd9ffefaf9a6ac1f",
         "title": "国常会：研究出台稳定房地产市场、促进就业增收等政策措施",
-        "summary": "国常会研究出台稳定房地产市场、促进就业增收等政策，释放稳增长与防风险并重信号。",
+        "summary": "国常会研究出台稳定房地产市场、促进就业增收等政策措施，着力稳预期稳市场。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782660",
-        "publishedAt": "2026-09-28T13:50:18Z"
+        "publishedAt": "2026-09-28T20:33:09Z"
       },
       {
         "id": "4acf24192765b7f9b845",
         "title": "国务院国资委最新发声！事关央企“十五五”规划、“六张网”投资",
-        "summary": "国资委就央企“十五五”规划及“六张网”投资发声，明确下一阶段布局重点。",
+        "summary": "国务院国资委就央企“十五五”规划及“六张网”投资发声，明确下一阶段布局重点。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2494148",
-        "publishedAt": "2026-09-28T13:50:18Z"
-      },
-      {
-        "id": "8cc7ca7bf7ff071105fe",
-        "title": "七部门联合印发《新型电池产业发展“十五五”规划》",
-        "summary": "七部门联合印发新型电池产业发展“十五五”规划，明确产业升级与技术攻关方向。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2494001",
-        "publishedAt": "2026-09-28T13:50:18Z"
-      },
-      {
-        "id": "31d4e24c22fa28408bf2",
-        "title": "核心任务抢占科技制高点，《中国科学院“十五五”发展规划》发布",
-        "summary": "中科院发布“十五五”发展规划，将抢占科技制高点列为核心任务。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34162949",
-        "publishedAt": "2026-09-28T13:50:18Z"
+        "publishedAt": "2026-09-28T20:33:09Z"
       },
       {
         "id": "680e602ca021dbb87013",
         "title": "中国工业企业利润前8月同比增长15.7%，电子行业利润同比增长1.1倍，贡献逾六成增量",
-        "summary": "前8月工业企业利润同比增长15.7%，电子行业利润增1.1倍，贡献逾六成增量。",
+        "summary": "前8月中国工业企业利润同比增长15.7%，电子行业利润增长1.1倍，贡献逾六成增量。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782624",
-        "publishedAt": "2026-09-28T13:50:18Z"
-      },
-      {
-        "id": "831462236d4354762ec1",
-        "title": "教育部原党组成员、副部长鲁昕被查",
-        "summary": "教育部原党组成员、副部长鲁昕被查，中央纪委国家监委通报相关情况。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34163360",
-        "publishedAt": "2026-09-28T13:50:18Z"
+        "publishedAt": "2026-09-28T20:33:09Z"
       },
       {
         "id": "83e5406d30bb6d6f40ed",
         "title": "高铁集中上新！四条新线9月28日开通",
-        "summary": "全国四条高铁新线9月28日集中开通，进一步完善区域路网与出行通道。",
+        "summary": "四条高铁新线9月28日集中开通，全国高铁网络进一步加密，出行便利度提升。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34162822",
-        "publishedAt": "2026-09-28T13:50:18Z"
+        "publishedAt": "2026-09-28T20:33:09Z"
+      },
+      {
+        "id": "57b34494e3a4474578c4",
+        "title": "解读丨上海发布商品房销售新政，业内专家怎么看？",
+        "summary": "上海发布商品房销售新政，业内专家解读其对市场供需和购房者的影响。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34166473",
+        "publishedAt": "2026-09-28T20:33:09Z"
+      },
+      {
+        "id": "31d4e24c22fa28408bf2",
+        "title": "核心任务抢占科技制高点，《中国科学院“十五五”发展规划》发布",
+        "summary": "《中国科学院“十五五”发展规划》发布，核心任务为抢占科技制高点。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34162949",
+        "publishedAt": "2026-09-28T20:33:09Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊围绕霍尔木兹海峡与停火条件持续对峙，油价与美债收益率走高；法国极右翼在参议院选举中取得突破，塞尔维亚总统辞职转选总理，英国涉恐事件后续发酵。",
+    "overview": "国际方面：特朗普拒绝伊朗重开霍尔木兹海峡方案致油价上扬，塞尔维亚总统武契奇辞职转选总理，瑞士公投否决收紧中立条款，英国费尔福德空军基地附近五人涉恐被捕后获保释，俄无人机袭击基辅科学院。",
     "items": [
       {
         "id": "7571bd5f5896a8ccafc5",
@@ -100,14 +100,6 @@
         "publishedAt": "2026-09-27T11:09:38Z"
       },
       {
-        "id": "73b1817cc96e68ddc5fd",
-        "title": "France’s far-right National Rally surges in partial Senate elections",
-        "summary": "法国极右翼国民联盟在参议院部分选举中大幅推进，勒庞称取得历史性胜利。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
-        "publishedAt": "2026-09-28T01:46:35Z"
-      },
-      {
         "id": "5ccecb171c2b93a220fa",
         "title": "Swiss voters reject stricter neutrality rules that would have curbed Nato cooperation",
         "summary": "瑞士公投约七成选民否决收紧中立条款动议，维持与北约合作及对俄制裁现状。",
@@ -124,20 +116,28 @@
         "publishedAt": "2026-09-27T05:15:24Z"
       },
       {
-        "id": "1164a438232b071d6d4a",
-        "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
-        "summary": "美国驻华大使称特朗普曾询问习近平中国是否愿购买美国武器，引发外界关注。",
+        "id": "5f0d76f72d9aa390c9a1",
+        "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
+        "summary": "俄无人机袭击基辅乌克兰国家科学院，至少一人死亡、三人受伤，医疗中心亦被击中。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
-        "publishedAt": "2026-09-28T02:40:18Z"
+        "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
+        "publishedAt": "2026-09-28T07:16:50Z"
       },
       {
-        "id": "5aad0717bb0c3b774cd3",
-        "title": "Sweden faces political deadlock after election-winning center-left bloc fails to form government",
-        "summary": "瑞典中左翼阵营组阁失败，社民党领袖放弃组建四党政府，该国陷入政治僵局。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/sweden-faces-political-deadlock-after-election-winning-center-left-bloc-fails-to-form-government/a-79455295?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-28T01:13:00Z"
+        "id": "9c93c2e9137295d95aa3",
+        "title": "Apple ordered to pay $5.7bn in patent infringement case",
+        "summary": "美国加州陪审团裁定苹果侵犯两项专利，须赔偿57亿美元，苹果计划上诉。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
+        "publishedAt": "2026-09-28T12:11:30Z"
+      },
+      {
+        "id": "f49206d89e51e3df7ddf",
+        "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+        "summary": "美国检方重启康奈尔大学涉嫌轮奸案调查，此前受害者已提起民事诉讼。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-28T10:11:07Z"
       }
     ]
   }
