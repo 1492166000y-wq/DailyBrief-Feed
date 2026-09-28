@@ -1,111 +1,111 @@
 {
   "version": 1,
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T05:20:49Z",
+  "generatedAt": "2026-09-28T13:50:18Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦中美元首会晤成果与中东局势外溢影响，亚运会赛事热度较高但多数属体育娱乐范畴，仅作有限纳入；产业方面英伟达玻璃基板、AI智能体安全与A股节前走势受关注，另有武契奇辞职等国际动态被国内媒体转载。",
+    "overview": "国内方面，国常会部署逆周期调节与稳楼市、促就业政策，国资委就央企“十五五”规划发声，七部门印发新型电池产业规划；央企人事、高铁开通、工业企业利润等亦受关注。",
     "items": [
       {
-        "id": "682a6e596cfcc0760cba",
-        "title": "中秋假期要闻汇总：中美达成八点成果共识；英伟达加码玻璃基板；上交所三季报预约披露时间出炉",
-        "summary": "财联社汇总中秋假期要闻：中美达成八点成果共识，英伟达加码玻璃基板，上交所三季报预约披露出炉。",
+        "id": "d8f1789e254350b7b0d4",
+        "title": "国常会：要加大宏观政策逆周期调节力度，推动经济持续向新向优向好发展，努力完成全年经济社会发展目标任务",
+        "summary": "国常会要求加大宏观政策逆周期调节力度，稳定房地产市场、促进就业增收，努力完成全年目标。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2493420",
-        "publishedAt": "2026-09-28T05:20:49Z"
+        "url": "https://www.cls.cn/detail/2494412",
+        "publishedAt": "2026-09-28T13:50:18Z"
       },
       {
-        "id": "02c046f622082529e27d",
-        "title": "国际舆论积极评价中美元首会晤",
-        "summary": "国际舆论积极评价中美元首会晤，认为成果共识有助于稳定双边关系与市场预期。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7690403252361301554/",
-        "publishedAt": "2026-09-28T05:20:49Z"
+        "id": "ed88cd9ffefaf9a6ac1f",
+        "title": "国常会：研究出台稳定房地产市场、促进就业增收等政策措施",
+        "summary": "国常会研究出台稳定房地产市场、促进就业增收等政策，释放稳增长与防风险并重信号。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782660",
+        "publishedAt": "2026-09-28T13:50:18Z"
       },
       {
-        "id": "253f02b570d179ab1a66",
-        "title": "武契奇宣布辞职",
-        "summary": "塞尔维亚总统武契奇宣布辞职，将转战提前议会选举角逐总理，国内媒体跟进报道。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wlycI9pS6n",
-        "publishedAt": "2026-09-28T05:20:49Z"
-      },
-      {
-        "id": "257cb35d993353741915",
-        "title": "【早报】伊朗：已为与美战事重开做好准备；特朗普：预计本周与伊朗谈判；原油高开、黄金下跌；武契奇宣布辞职",
-        "summary": "财联社早报：伊朗称已为与美战事重开做好准备，特朗普预计本周与伊朗谈判，原油高开黄金下跌。",
+        "id": "4acf24192765b7f9b845",
+        "title": "国务院国资委最新发声！事关央企“十五五”规划、“六张网”投资",
+        "summary": "国资委就央企“十五五”规划及“六张网”投资发声，明确下一阶段布局重点。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2493599",
-        "publishedAt": "2026-09-28T05:20:49Z"
+        "url": "https://www.cls.cn/detail/2494148",
+        "publishedAt": "2026-09-28T13:50:18Z"
       },
       {
-        "id": "de4bc74d5f7a82914ea8",
-        "title": "英伟达加码玻璃基板 联合设备商攻关 催促产业链两年内完成开发",
-        "summary": "英伟达加码玻璃基板，联合设备商攻关，催促产业链两年内完成开发，产能布局提速。",
+        "id": "8cc7ca7bf7ff071105fe",
+        "title": "七部门联合印发《新型电池产业发展“十五五”规划》",
+        "summary": "七部门联合印发新型电池产业发展“十五五”规划，明确产业升级与技术攻关方向。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2493349",
-        "publishedAt": "2026-09-28T05:20:49Z"
+        "url": "https://www.cls.cn/detail/2494001",
+        "publishedAt": "2026-09-28T13:50:18Z"
       },
       {
-        "id": "f887829a69ec023410f9",
-        "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
-        "summary": "AI智能体接连失控，OpenAI再次叫停前沿模型开发，沙盒安全机制受质疑。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2493381",
-        "publishedAt": "2026-09-28T05:20:49Z"
+        "id": "31d4e24c22fa28408bf2",
+        "title": "核心任务抢占科技制高点，《中国科学院“十五五”发展规划》发布",
+        "summary": "中科院发布“十五五”发展规划，将抢占科技制高点列为核心任务。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34162949",
+        "publishedAt": "2026-09-28T13:50:18Z"
+      },
+      {
+        "id": "680e602ca021dbb87013",
+        "title": "中国工业企业利润前8月同比增长15.7%，电子行业利润同比增长1.1倍，贡献逾六成增量",
+        "summary": "前8月工业企业利润同比增长15.7%，电子行业利润增1.1倍，贡献逾六成增量。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782624",
+        "publishedAt": "2026-09-28T13:50:18Z"
       },
       {
         "id": "831462236d4354762ec1",
         "title": "教育部原党组成员、副部长鲁昕被查",
-        "summary": "教育部原党组成员、副部长鲁昕被查，中央纪委国家监委发布消息。",
+        "summary": "教育部原党组成员、副部长鲁昕被查，中央纪委国家监委通报相关情况。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34163360",
-        "publishedAt": "2026-09-28T05:20:49Z"
+        "publishedAt": "2026-09-28T13:50:18Z"
       },
       {
-        "id": "d4fa10e4f75118526bf5",
-        "title": "大熊猫“平平”“福双”抵达美国",
-        "summary": "大熊猫“平平”“福双”抵达美国，将赴亚特兰大动物园开展保护合作研究。",
+        "id": "83e5406d30bb6d6f40ed",
+        "title": "高铁集中上新！四条新线9月28日开通",
+        "summary": "全国四条高铁新线9月28日集中开通，进一步完善区域路网与出行通道。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34161119",
-        "publishedAt": "2026-09-28T05:20:49Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34162822",
+        "publishedAt": "2026-09-28T13:50:18Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻以中东局势升级为主线，美伊围绕霍尔木兹海峡与谈判前景持续对峙；塞尔维亚总统武契奇辞职、瑞士公投否决收紧中立、英国空军基地附近反恐抓捕等构成欧洲政治安全焦点，另有美国东北部风暴、尼泊尔灾情及AI监管讨论。",
+    "overview": "国际方面，美伊围绕霍尔木兹海峡与停火条件持续对峙，油价与美债收益率走高；法国极右翼在参议院选举中取得突破，塞尔维亚总统辞职转选总理，英国涉恐事件后续发酵。",
     "items": [
       {
         "id": "7571bd5f5896a8ccafc5",
         "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-        "summary": "特朗普拒绝伊朗七天内重开霍尔木兹海峡方案，美方或恢复对伊打击，中东局势再度紧张。",
+        "summary": "特朗普拒绝伊朗七天内重开霍尔木兹海峡方案，美方或恢复对伊打击，中东局势趋紧。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
         "publishedAt": "2026-09-26T22:34:43Z"
       },
       {
-        "id": "065ddfea3cf0dadb2080",
-        "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-        "summary": "伊朗外长阿拉格齐称伊朗已做好战争准备，甚至“末日战争”也在所不惜，对美强硬表态升级。",
+        "id": "7d70a0a5b61dc1617af7",
+        "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
+        "summary": "特朗普拒绝伊朗重开海峡提议后，布伦特原油涨逾3%并突破每桶107美元。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-        "publishedAt": "2026-09-27T09:46:04Z"
-      },
-      {
-        "id": "155b7bc498675437edc7",
-        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-        "summary": "伊朗总统佩泽希齐扬称在特朗普拒绝海峡提议后，伊朗不再信任与华盛顿的谈判，外交前景蒙阴。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
-        "publishedAt": "2026-09-26T15:49:30Z"
+        "url": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
+        "publishedAt": "2026-09-28T01:17:29Z"
       },
       {
         "id": "cbb6c6ab528ac6faed11",
         "title": "Serbia’s populist president Aleksandar Vučić resigns to run for prime minister",
-        "summary": "塞尔维亚总统武契奇辞职，将转战提前议会选举角逐总理，考验其长期执政地位。",
+        "summary": "塞尔维亚总统武契奇辞职，将参加提前议会选举角逐总理，考验其长期执政地位。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
         "publishedAt": "2026-09-27T11:09:38Z"
+      },
+      {
+        "id": "73b1817cc96e68ddc5fd",
+        "title": "France’s far-right National Rally surges in partial Senate elections",
+        "summary": "法国极右翼国民联盟在参议院部分选举中大幅推进，勒庞称取得历史性胜利。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
+        "publishedAt": "2026-09-28T01:46:35Z"
       },
       {
         "id": "5ccecb171c2b93a220fa",
@@ -124,20 +124,20 @@
         "publishedAt": "2026-09-27T05:15:24Z"
       },
       {
-        "id": "991fa31f96f8b855da1b",
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "summary": "泰国曼谷因持续暴雨宣布进入洪灾灾区，多条道路被淹，数千人转移至避难所。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-26T20:45:08Z"
+        "id": "1164a438232b071d6d4a",
+        "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
+        "summary": "美国驻华大使称特朗普曾询问习近平中国是否愿购买美国武器，引发外界关注。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
+        "publishedAt": "2026-09-28T02:40:18Z"
       },
       {
-        "id": "68c8095e412cb294dcd9",
-        "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
-        "summary": "比尔·盖茨表示AI缺乏监管“完全不负责任”，警告若无限制AI可能带来严重风险。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
-        "publishedAt": "2026-09-27T11:34:42Z"
+        "id": "5aad0717bb0c3b774cd3",
+        "title": "Sweden faces political deadlock after election-winning center-left bloc fails to form government",
+        "summary": "瑞典中左翼阵营组阁失败，社民党领袖放弃组建四党政府，该国陷入政治僵局。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/sweden-faces-political-deadlock-after-election-winning-center-left-bloc-fails-to-form-government/a-79455295?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-28T01:13:00Z"
       }
     ]
   }
