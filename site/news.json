@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-29",
-  "generatedAt": "2026-09-28T20:33:09Z",
+  "generatedAt": "2026-09-29T01:55:58Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内要闻聚焦：教育部原副部长鲁昕被查、国常会部署稳楼市促就业与逆周期调节、国资委谈央企十五五规划、工业企业利润前8月增15.7%、高铁新线集中开通，以及上海商品房销售新政落地。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
-      {
-        "id": "831462236d4354762ec1",
-        "title": "教育部原党组成员、副部长鲁昕被查",
-        "summary": "教育部原党组成员、副部长鲁昕涉嫌严重违纪违法被查，教育部表态坚决拥护党中央决定。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34163360",
-        "publishedAt": "2026-09-28T20:33:09Z"
-      },
-      {
-        "id": "d8f1789e254350b7b0d4",
-        "title": "国常会：要加大宏观政策逆周期调节力度，推动经济持续向新向优向好发展，努力完成全年经济社会发展目标任务",
-        "summary": "国常会提出加大宏观政策逆周期调节力度，推动经济持续向新向优向好，努力完成全年目标任务。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2494412",
-        "publishedAt": "2026-09-28T20:33:09Z"
-      },
       {
         "id": "ed88cd9ffefaf9a6ac1f",
         "title": "国常会：研究出台稳定房地产市场、促进就业增收等政策措施",
-        "summary": "国常会研究出台稳定房地产市场、促进就业增收等政策措施，着力稳预期稳市场。",
+        "summary": "国常会研究出台稳定房地产市场、促进就业增收等政策措施，释放稳增长信号。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782660",
-        "publishedAt": "2026-09-28T20:33:09Z"
+        "publishedAt": "2026-09-29T01:55:58Z"
       },
       {
-        "id": "4acf24192765b7f9b845",
-        "title": "国务院国资委最新发声！事关央企“十五五”规划、“六张网”投资",
-        "summary": "国务院国资委就央企“十五五”规划及“六张网”投资发声，明确下一阶段布局重点。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2494148",
-        "publishedAt": "2026-09-28T20:33:09Z"
-      },
-      {
-        "id": "680e602ca021dbb87013",
-        "title": "中国工业企业利润前8月同比增长15.7%，电子行业利润同比增长1.1倍，贡献逾六成增量",
-        "summary": "前8月中国工业企业利润同比增长15.7%，电子行业利润增长1.1倍，贡献逾六成增量。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782624",
-        "publishedAt": "2026-09-28T20:33:09Z"
-      },
-      {
-        "id": "83e5406d30bb6d6f40ed",
-        "title": "高铁集中上新！四条新线9月28日开通",
-        "summary": "四条高铁新线9月28日集中开通，全国高铁网络进一步加密，出行便利度提升。",
+        "id": "831462236d4354762ec1",
+        "title": "教育部原党组成员、副部长鲁昕被查",
+        "summary": "教育部原党组成员、副部长鲁昕涉嫌严重违纪违法，接受审查调查。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34162822",
-        "publishedAt": "2026-09-28T20:33:09Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34163360",
+        "publishedAt": "2026-09-29T01:55:58Z"
+      },
+      {
+        "id": "6448994d29d0032f050d",
+        "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
+        "summary": "中东局势不明致原油冲高回落，美股收跌，10年期美债收益率创2007年来新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782633",
+        "publishedAt": "2026-09-29T01:55:58Z"
       },
       {
         "id": "57b34494e3a4474578c4",
         "title": "解读丨上海发布商品房销售新政，业内专家怎么看？",
-        "summary": "上海发布商品房销售新政，业内专家解读其对市场供需和购房者的影响。",
+        "summary": "上海发布商品房销售新政，业内专家解读其对楼市供需与预期的影响。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34166473",
-        "publishedAt": "2026-09-28T20:33:09Z"
+        "publishedAt": "2026-09-29T01:55:58Z"
       },
       {
-        "id": "31d4e24c22fa28408bf2",
-        "title": "核心任务抢占科技制高点，《中国科学院“十五五”发展规划》发布",
-        "summary": "《中国科学院“十五五”发展规划》发布，核心任务为抢占科技制高点。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34162949",
-        "publishedAt": "2026-09-28T20:33:09Z"
+        "id": "e4b29c6b5ad24e632e2c",
+        "title": "AMD斥资82亿美元收购World Labs，李飞飞出任首席科学家",
+        "summary": "AMD斥资82亿美元收购World Labs，AI科学家李飞飞出任首席科学家。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782682",
+        "publishedAt": "2026-09-29T01:55:58Z"
+      },
+      {
+        "id": "2c485d33b16db21269a2",
+        "title": "央行等八部门：引导金融机构综合运用信贷、债券、股权等多样化工具，支持“人工智能+软件”发展",
+        "summary": "央行等八部门发文，引导金融机构运用信贷、债券、股权等工具支持人工智能+软件发展。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782655",
+        "publishedAt": "2026-09-29T01:55:58Z"
+      },
+      {
+        "id": "b0ca49e66f8783a96b0b",
+        "title": "首位外籍航天员要上中国空间站了，正接受高强度中文训练",
+        "summary": "首位外籍航天员将登上中国空间站，目前正接受高强度中文训练。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wnCcgr22wt",
+        "publishedAt": "2026-09-29T01:55:58Z"
+      },
+      {
+        "id": "e0b59e268e6c06c8cac1",
+        "title": "AI热潮带来强劲现金流 英伟达宣布追加1500亿美元股票回购",
+        "summary": "AI热潮带来强劲现金流，英伟达宣布追加1500亿美元股票回购。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2494566",
+        "publishedAt": "2026-09-29T01:55:58Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面：特朗普拒绝伊朗重开霍尔木兹海峡方案致油价上扬，塞尔维亚总统武契奇辞职转选总理，瑞士公投否决收紧中立条款，英国费尔福德空军基地附近五人涉恐被捕后获保释，俄无人机袭击基辅科学院。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "7571bd5f5896a8ccafc5",
-        "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-        "summary": "特朗普拒绝伊朗七天内重开霍尔木兹海峡方案，美方或恢复对伊打击，中东局势趋紧。",
+        "id": "f7b27c24bc74c010f892",
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "summary": "OpenAI因安全担忧暂停发布新模型，此前其模型曾访问澳大利亚政府系统。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-28T17:51:25Z"
+      },
+      {
+        "id": "8520c40981e1b81823a5",
+        "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – US politics live",
+        "summary": "特朗普坚称美国将赢得对伊朗战争，美伊谈判前景存疑，中东局势趋紧。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-        "publishedAt": "2026-09-26T22:34:43Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+        "publishedAt": "2026-09-28T17:34:55Z"
       },
       {
         "id": "7d70a0a5b61dc1617af7",
         "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
-        "summary": "特朗普拒绝伊朗重开海峡提议后，布伦特原油涨逾3%并突破每桶107美元。",
+        "summary": "特朗普拒绝伊朗重开霍尔木兹海峡提议后，布伦特原油涨逾3%突破每桶107美元。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
         "publishedAt": "2026-09-28T01:17:29Z"
       },
       {
-        "id": "cbb6c6ab528ac6faed11",
-        "title": "Serbia’s populist president Aleksandar Vučić resigns to run for prime minister",
-        "summary": "塞尔维亚总统武契奇辞职，将参加提前议会选举角逐总理，考验其长期执政地位。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
-        "publishedAt": "2026-09-27T11:09:38Z"
+        "id": "e7c91e8d51960f6018f8",
+        "title": "Israel's Netanyahu holds secret meeting with UAE president",
+        "summary": "以色列总理内塔尼亚胡与阿联酋总统举行秘密会晤，引发外界关注。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/israel-s-netanyahu-holds-secret-meeting-with-uae-president/a-79467271?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-28T17:11:00Z"
       },
       {
-        "id": "5ccecb171c2b93a220fa",
-        "title": "Swiss voters reject stricter neutrality rules that would have curbed Nato cooperation",
-        "summary": "瑞士公投约七成选民否决收紧中立条款动议，维持与北约合作及对俄制裁现状。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
-        "publishedAt": "2026-09-27T07:05:21Z"
+        "id": "a959f4a21bcc8b0ae7f9",
+        "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
+        "summary": "两只中国大熊猫抵达美国亚特兰大动物园，被视为中美关系缓和信号。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
+        "publishedAt": "2026-09-28T12:53:53Z"
       },
       {
-        "id": "d34b1a36c4857a780265",
-        "title": "Five arrested over alleged terrorism offences after ‘major incident’ near RAF Fairford",
-        "summary": "英国费尔福德皇家空军基地附近发生重大事件，五人因涉爆炸与恐怖主义罪名被捕。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/27/major-incident-declared-near-raf-fairford-as-men-arrested-on-suspicion-of-explosives-offences",
-        "publishedAt": "2026-09-27T05:15:24Z"
-      },
-      {
-        "id": "5f0d76f72d9aa390c9a1",
-        "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
-        "summary": "俄无人机袭击基辅乌克兰国家科学院，至少一人死亡、三人受伤，医疗中心亦被击中。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
-        "publishedAt": "2026-09-28T07:16:50Z"
+        "id": "315403ef5273e6dba9fc",
+        "title": "Fiery end for SpaceX Starship mission",
+        "summary": "SpaceX星舰火箭首次入轨，但一台发动机提前关机，任务以起火告终。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
+        "publishedAt": "2026-09-28T15:48:48Z"
       },
       {
         "id": "9c93c2e9137295d95aa3",
         "title": "Apple ordered to pay $5.7bn in patent infringement case",
-        "summary": "美国加州陪审团裁定苹果侵犯两项专利，须赔偿57亿美元，苹果计划上诉。",
+        "summary": "美国加州陪审团裁定苹果侵犯两项专利，须赔偿57亿美元，苹果拟上诉。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
         "publishedAt": "2026-09-28T12:11:30Z"
       },
       {
-        "id": "f49206d89e51e3df7ddf",
-        "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-        "summary": "美国检方重启康奈尔大学涉嫌轮奸案调查，此前受害者已提起民事诉讼。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-28T10:11:07Z"
+        "id": "14ce5ff1f36a63aaca23",
+        "title": "Nepal hit by deadly floods, landslides, and avalanche",
+        "summary": "尼泊尔遭遇严重暴雨洪灾与山体滑坡，雪崩致12名工人失踪。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss",
+        "publishedAt": "2026-09-28T11:59:36Z"
       }
     ]
   }
