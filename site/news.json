@@ -1,58 +1,34 @@
 {
   "version": 1,
   "date": "2026-09-30",
-  "generatedAt": "2026-09-29T16:31:33Z",
+  "generatedAt": "2026-09-29T22:13:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内政策密集落地：中央财政首推房贷贴息，央行调整多项货币政策工具并降息，科技部部署六方面工作推进科技强国建设；内存价格飙升七成，中东局势推高油价并影响资本市场；文体领域陈妤颉夺冠、金鹰奖揭晓。",
+    "overview": "国内焦点包括房贷贴息政策落地、央行调整货币政策工具、北理工教师被解聘及经济数据发布等。",
     "items": [
       {
         "id": "95bddc0b25a5b98e3efc",
         "title": "中央财政史上首次！“房贷贴息”节前落地：首套、120平方米以下、150万元以内可享",
-        "summary": "中央财政首次推出“房贷贴息”，首套、120平方米以下、150万元以内贷款可享，节前落地。",
+        "summary": "中央财政首次推出房贷贴息，首套、120平方米以下、150万元以内可享，10月起实施。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782741",
-        "publishedAt": "2026-09-29T16:31:33Z"
-      },
-      {
-        "id": "3925bf25896cee218409",
-        "title": "中国央行“出手”：“降息”、加大“六张网”金融支持、扩大“再贷款额度”",
-        "summary": "央行“出手”降息、加大“六张网”金融支持、扩大再贷款额度，引导资金流向薄弱环节。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782740",
-        "publishedAt": "2026-09-29T16:31:33Z"
+        "publishedAt": "2026-09-29T22:13:20Z"
       },
       {
         "id": "c9240a9a469af469bb44",
         "title": "央行调整多项货币政策工具：降利率、提额度 引导资金流向薄弱环节",
-        "summary": "央行调整多项货币政策工具：降利率、提额度，引导资金流向薄弱环节。",
+        "summary": "央行调整多项货币政策工具，降利率、提额度，引导资金流向薄弱环节。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2495507",
-        "publishedAt": "2026-09-29T16:31:33Z"
+        "publishedAt": "2026-09-29T22:13:20Z"
       },
       {
-        "id": "a03d8eb8f94823529f7c",
-        "title": "重大利好！央行“四箭齐发”",
-        "summary": "央行“四箭齐发”，推出多项宽松政策，被市场视为重大利好。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%EF%BC%81%E5%A4%AE%E8%A1%8C%E2%80%9C%E5%9B%9B%E7%AE%AD%E9%BD%90%E5%8F%91%E2%80%9D",
-        "publishedAt": "2026-09-29T16:31:33Z"
-      },
-      {
-        "id": "3d28f5a52f6a5da92e0e",
-        "title": "科技部：重点做好6方面工作 推动科技强国建设不断迈上新台阶",
-        "summary": "科技部：重点做好六方面工作，推动科技强国建设不断迈上新台阶。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2495156",
-        "publishedAt": "2026-09-29T16:31:33Z"
-      },
-      {
-        "id": "a841ac1222d05bfe0e0b",
-        "title": "中国已建成世界规模最大的教育体系",
-        "summary": "中国已建成世界规模最大的教育体系，教育普及水平持续提升。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB",
-        "publishedAt": "2026-09-29T16:31:33Z"
+        "id": "f2611c9f855be4a69d24",
+        "title": "北理工：教师裴某严重违反职业道德规范和行为准则，解除聘用关系",
+        "summary": "北理工通报教师裴某严重违反职业道德，已解除聘用关系。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34172944",
+        "publishedAt": "2026-09-29T22:13:20Z"
       },
       {
         "id": "6448994d29d0032f050d",
@@ -60,84 +36,108 @@
         "summary": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782633",
-        "publishedAt": "2026-09-29T16:31:33Z"
+        "publishedAt": "2026-09-29T22:13:20Z"
       },
       {
-        "id": "48e1192088f7cb5deab5",
-        "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
-        "summary": "25年来罕见：10年期美债收益率反超标普500盈利收益率，引发市场关注。",
+        "id": "d4898f7d866f8b989986",
+        "title": "普京签令，俄军第4次扩编",
+        "summary": "普京签署命令，俄军进行第四次扩编，规模增至244万。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8woAsBnRwqm",
+        "publishedAt": "2026-09-29T22:13:20Z"
+      },
+      {
+        "id": "ea555cac548108a2e106",
+        "title": "Anthropic递交招股书：去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告“威胁人类生存”",
+        "summary": "Anthropic递交招股书：去年亏损420亿美元，收入46亿美元，警告威胁人类生存。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782689",
-        "publishedAt": "2026-09-29T16:31:33Z"
+        "url": "https://wallstreetcn.com/articles/3782697",
+        "publishedAt": "2026-09-29T22:13:20Z"
+      },
+      {
+        "id": "038987b687ecc84f8cd0",
+        "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
+        "summary": "人形机器人进驻爱仕达百家终端，从门店上岗到产业实践。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2495303",
+        "publishedAt": "2026-09-29T22:13:20Z"
+      },
+      {
+        "id": "1880a0ee4440f39d6aa5",
+        "title": "医药“十五五”规划落地 科创板创新药+医疗器械企业迎长期政策利好",
+        "summary": "医药“十五五”规划落地，科创板创新药与医疗器械企业迎长期政策利好。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2495469",
+        "publishedAt": "2026-09-29T22:13:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面：特朗普政府推出AI政务工具并拒绝美中共研AI，星舰首次入轨后溅落爆炸；西班牙因驱逐老人事件宣布禁止驱逐并推出住房措施；法国学生抗议预算削减与警方冲突；普京第四次扩军，俄战略轰炸机坠毁；美国贸易争端升级，禁止加拿大酒类乳制品进口。",
+    "overview": "国际要闻涉及法国学生抗议、美国政治与司法动态、西班牙住房危机及俄罗斯相关事件等。",
     "items": [
       {
-        "id": "a5667af0316b4fd347f1",
-        "title": "Trump touts new AI tool he claims will streamline government information access – US politics live",
-        "summary": "特朗普推出新AI工具，声称可简化政府信息获取，并称“绝不遏制”AI发展。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-        "publishedAt": "2026-09-29T08:20:29Z"
+        "id": "ae958c00c0bba74bb2e8",
+        "title": "More than 400 detained as France student protests escalate",
+        "summary": "法国学生抗议升级，超过400人被拘留，抗议涉及学校条件和资源问题。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-29T13:55:13Z"
       },
       {
         "id": "9acc6e9f9235935d2e1d",
         "title": "Trump rules out joint US-China venture to develop AI",
-        "summary": "特朗普排除美国与中国联合开发AI的可能性，继续反对为AI设立监管护栏。",
+        "summary": "特朗普排除美中联合开发AI，继续反对为人工智能设限，称会扼杀增长。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-29T08:09:26Z"
+        "publishedAt": "2026-09-29T13:45:01Z"
       },
       {
-        "id": "f7b27c24bc74c010f892",
-        "title": "OpenAI scraps rollout of new model over safety concerns",
-        "summary": "OpenAI因安全担忧推迟发布新模型GPT-6.1 Astra。",
+        "id": "eed685d55a3bfb26e432",
+        "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – live",
+        "summary": "美最高法院允许特朗普暂时恢复向第三国驱逐人员，已有超2.5万人被驱逐。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+        "publishedAt": "2026-09-29T13:42:03Z"
+      },
+      {
+        "id": "2154e3908554700bd6a0",
+        "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
+        "summary": "美国对加拿大10亿美元商品禁令生效，系特朗普对加反制关税的最新报复。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
+        "publishedAt": "2026-09-29T12:08:33Z"
+      },
+      {
+        "id": "7228433852c07a0e532d",
+        "title": "US troops fully withdraw from Baghdad base after two decades",
+        "summary": "美军在二十年驻军后，已全面撤出巴格达基地。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+        "publishedAt": "2026-09-29T12:00:31Z"
+      },
+      {
+        "id": "4d2325ad15a9d31bc013",
+        "title": "Morocco: King appoints first woman prime minister",
+        "summary": "摩洛哥国王任命首位女首相，系阿拉伯世界第二位女性政府首脑。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-29T11:56:00Z"
+      },
+      {
+        "id": "ef1a19a5cc956d4e7319",
+        "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+        "summary": "爱沙尼亚指责俄罗斯策划对国防公司纵火，欧盟和北约领导人表示支持。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-29T00:13:13Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-29T11:36:41Z"
       },
       {
         "id": "b19a7ed36aee57296ae9",
         "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-        "summary": "西班牙在87岁老人被驱逐引发抗议后宣布禁止驱逐，措施需30天内获议会批准。",
+        "summary": "西班牙宣布禁止驱逐弱势群体，此前87岁老人被驱逐引发大规模抗议。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-09-29T08:23:58Z"
-      },
-      {
-        "id": "41495d7051ab5e3398ec",
-        "title": "Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old",
-        "summary": "西班牙政府批准多项措施应对住房危机，包括对弱势群体驱逐禁令延长至2030年。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction",
-        "publishedAt": "2026-09-29T06:27:03Z"
-      },
-      {
-        "id": "6efa2d21c80735c1a9f4",
-        "title": "Spain agrees on measures to fix housing crisis, ban eviction",
-        "summary": "西班牙内阁就住房危机应对措施达成共识，并同意禁止驱逐。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/spain-agrees-on-measures-to-fix-housing-crisis-ban-eviction/a-79467953?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-29T04:01:00Z"
-      },
-      {
-        "id": "c668a549239d2d461688",
-        "title": "Evicted Spanish pensioner to return home, lawyer says",
-        "summary": "西班牙遭驱逐的87岁老人将返回家中，此前引发大规模抗议。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/evicted-spanish-pensioner-to-return-home-lawyer-says/a-79467953?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-28T21:36:00Z"
-      },
-      {
-        "id": "a8d856a4bd4193e950d8",
-        "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
-        "summary": "爱沙尼亚指责俄罗斯策划8月对无人机厂商的纵火袭击，欧洲和北约领导人表示支持。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
-        "publishedAt": "2026-09-29T06:20:39Z"
       }
     ]
   }
