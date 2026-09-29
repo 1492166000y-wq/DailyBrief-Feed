@@ -1,95 +1,95 @@
 {
   "version": 1,
-  "date": "2026-09-29",
-  "generatedAt": "2026-09-29T08:27:14Z",
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-29T16:31:33Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻涵盖国常会稳楼市促就业、房地产市场新政及资本市场动态，科技领域聚焦华为发布与人工智能风险讨论。",
+    "overview": "国内政策密集落地：中央财政首推房贷贴息，央行调整多项货币政策工具并降息，科技部部署六方面工作推进科技强国建设；内存价格飙升七成，中东局势推高油价并影响资本市场；文体领域陈妤颉夺冠、金鹰奖揭晓。",
     "items": [
       {
-        "id": "ed88cd9ffefaf9a6ac1f",
-        "title": "国常会：研究出台稳定房地产市场、促进就业增收等政策措施",
-        "summary": "国常会研究出台稳定房地产市场、促进就业增收等政策措施，释放稳增长信号。",
+        "id": "95bddc0b25a5b98e3efc",
+        "title": "中央财政史上首次！“房贷贴息”节前落地：首套、120平方米以下、150万元以内可享",
+        "summary": "中央财政首次推出“房贷贴息”，首套、120平方米以下、150万元以内贷款可享，节前落地。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782660",
-        "publishedAt": "2026-09-29T08:27:14Z"
+        "url": "https://wallstreetcn.com/articles/3782741",
+        "publishedAt": "2026-09-29T16:31:33Z"
       },
       {
-        "id": "57b34494e3a4474578c4",
-        "title": "解读丨上海发布商品房销售新政，业内专家怎么看？",
-        "summary": "上海发布商品房销售新政，业内专家解读对楼市影响。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34166473",
-        "publishedAt": "2026-09-29T08:27:14Z"
+        "id": "3925bf25896cee218409",
+        "title": "中国央行“出手”：“降息”、加大“六张网”金融支持、扩大“再贷款额度”",
+        "summary": "央行“出手”降息、加大“六张网”金融支持、扩大再贷款额度，引导资金流向薄弱环节。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782740",
+        "publishedAt": "2026-09-29T16:31:33Z"
       },
       {
-        "id": "456e588e4975aae9a924",
-        "title": "华为Mate90系列搭载睿影Z10相机模组",
-        "summary": "华为Mate90系列搭载睿影Z10相机模组，影像能力再升级。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7690575826940772388/",
-        "publishedAt": "2026-09-29T08:27:14Z"
+        "id": "c9240a9a469af469bb44",
+        "title": "央行调整多项货币政策工具：降利率、提额度 引导资金流向薄弱环节",
+        "summary": "央行调整多项货币政策工具：降利率、提额度，引导资金流向薄弱环节。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2495507",
+        "publishedAt": "2026-09-29T16:31:33Z"
+      },
+      {
+        "id": "a03d8eb8f94823529f7c",
+        "title": "重大利好！央行“四箭齐发”",
+        "summary": "央行“四箭齐发”，推出多项宽松政策，被市场视为重大利好。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%EF%BC%81%E5%A4%AE%E8%A1%8C%E2%80%9C%E5%9B%9B%E7%AE%AD%E9%BD%90%E5%8F%91%E2%80%9D",
+        "publishedAt": "2026-09-29T16:31:33Z"
+      },
+      {
+        "id": "3d28f5a52f6a5da92e0e",
+        "title": "科技部：重点做好6方面工作 推动科技强国建设不断迈上新台阶",
+        "summary": "科技部：重点做好六方面工作，推动科技强国建设不断迈上新台阶。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2495156",
+        "publishedAt": "2026-09-29T16:31:33Z"
+      },
+      {
+        "id": "a841ac1222d05bfe0e0b",
+        "title": "中国已建成世界规模最大的教育体系",
+        "summary": "中国已建成世界规模最大的教育体系，教育普及水平持续提升。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB",
+        "publishedAt": "2026-09-29T16:31:33Z"
       },
       {
         "id": "6448994d29d0032f050d",
         "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
-        "summary": "中东局势不明致原油冲高回落、美股指收跌，10年期美债收益率创2007年来新高。",
+        "summary": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782633",
-        "publishedAt": "2026-09-29T08:27:14Z"
+        "publishedAt": "2026-09-29T16:31:33Z"
       },
       {
-        "id": "d4898f7d866f8b989986",
-        "title": "普京签令，俄军第4次扩编",
-        "summary": "普京签署总统令再次扩编俄军，系俄军第4次扩编。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8woAsBnRwqm",
-        "publishedAt": "2026-09-29T08:27:14Z"
-      },
-      {
-        "id": "4c920e815b3d0efe51a1",
-        "title": "伊朗外长警告：已为“末日战争”做好准备",
-        "summary": "伊朗外长警告已为“末日战争”做好准备，中东紧张局势持续升级。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wmSMFPHohF",
-        "publishedAt": "2026-09-29T08:27:14Z"
-      },
-      {
-        "id": "e4b29c6b5ad24e632e2c",
-        "title": "AMD斥资82亿美元收购World Labs，李飞飞出任首席科学家",
-        "summary": "AMD斥资82亿美元收购World Labs，李飞飞出任首席科学家。",
+        "id": "48e1192088f7cb5deab5",
+        "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
+        "summary": "25年来罕见：10年期美债收益率反超标普500盈利收益率，引发市场关注。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782682",
-        "publishedAt": "2026-09-29T08:27:14Z"
-      },
-      {
-        "id": "6e14d52c71ccc0f0dfe8",
-        "title": "我国生成式人工智能用户规模突破7亿人",
-        "summary": "我国生成式人工智能用户规模突破7亿人，AI应用加速普及。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2495057",
-        "publishedAt": "2026-09-29T08:27:14Z"
+        "url": "https://wallstreetcn.com/articles/3782689",
+        "publishedAt": "2026-09-29T16:31:33Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在中东局势与美伊谈判、俄乌冲突持续升级，同时OpenAI因安全担忧推迟模型发布引发广泛关注。",
+    "overview": "国际方面：特朗普政府推出AI政务工具并拒绝美中共研AI，星舰首次入轨后溅落爆炸；西班牙因驱逐老人事件宣布禁止驱逐并推出住房措施；法国学生抗议预算削减与警方冲突；普京第四次扩军，俄战略轰炸机坠毁；美国贸易争端升级，禁止加拿大酒类乳制品进口。",
     "items": [
       {
-        "id": "9c4d38355ca518674d85",
-        "title": "UK: US government questions bail for Fairford base suspects",
-        "summary": "美国质疑英国法院允许费尔福德基地恐袭案嫌疑人保释，特朗普表示不满。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-29T00:17:00Z"
+        "id": "a5667af0316b4fd347f1",
+        "title": "Trump touts new AI tool he claims will streamline government information access – US politics live",
+        "summary": "特朗普推出新AI工具，声称可简化政府信息获取，并称“绝不遏制”AI发展。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+        "publishedAt": "2026-09-29T08:20:29Z"
       },
       {
-        "id": "863d868aa8f7d153ae06",
-        "title": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections",
-        "summary": "美伊通过调解方继续会谈，但中期选举前达成协议可能性低。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss",
-        "publishedAt": "2026-09-29T00:15:48Z"
+        "id": "9acc6e9f9235935d2e1d",
+        "title": "Trump rules out joint US-China venture to develop AI",
+        "summary": "特朗普排除美国与中国联合开发AI的可能性，继续反对为AI设立监管护栏。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-29T08:09:26Z"
       },
       {
         "id": "f7b27c24bc74c010f892",
@@ -100,36 +100,28 @@
         "publishedAt": "2026-09-29T00:13:13Z"
       },
       {
-        "id": "fa12ebe2042906212b64",
-        "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-        "summary": "飓风“波罗”在墨西哥太平洋沿岸登陆，当地为热门旅游目的地。",
+        "id": "b19a7ed36aee57296ae9",
+        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+        "summary": "西班牙在87岁老人被驱逐引发抗议后宣布禁止驱逐，措施需30天内获议会批准。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-29T00:05:09Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-29T08:23:58Z"
       },
       {
-        "id": "6b459f59efe05b01c68b",
-        "title": "Russia hits port facilities in overnight strikes on Odesa region of Ukraine – Europe live",
-        "summary": "俄军夜间袭击乌克兰敖德萨地区港口设施，至少8人受伤。",
+        "id": "41495d7051ab5e3398ec",
+        "title": "Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old",
+        "summary": "西班牙政府批准多项措施应对住房危机，包括对弱势群体驱逐禁令延长至2030年。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
-        "publishedAt": "2026-09-29T00:00:32Z"
+        "url": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction",
+        "publishedAt": "2026-09-29T06:27:03Z"
       },
       {
-        "id": "4741a6c7a702b2703183",
-        "title": "Germany news: Merz revolts over EU budget, report says",
-        "summary": "德国总理默茨联合五国威胁削减欧盟预算，否则拒绝批准。",
+        "id": "6efa2d21c80735c1a9f4",
+        "title": "Spain agrees on measures to fix housing crisis, ban eviction",
+        "summary": "西班牙内阁就住房危机应对措施达成共识，并同意禁止驱逐。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-news-merz-revolts-over-eu-budget-report-says/live-79468663?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-28T23:54:00Z"
-      },
-      {
-        "id": "891f0eb81c1659faf474",
-        "title": "Australia raises interest rates to 15-year high",
-        "summary": "澳大利亚央行加息至4.6%，创15年新高以应对顽固通胀。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss",
-        "publishedAt": "2026-09-28T22:29:01Z"
+        "url": "https://www.dw.com/en/spain-agrees-on-measures-to-fix-housing-crisis-ban-eviction/a-79467953?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-29T04:01:00Z"
       },
       {
         "id": "c668a549239d2d461688",
@@ -138,6 +130,14 @@
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/evicted-spanish-pensioner-to-return-home-lawyer-says/a-79467953?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-09-28T21:36:00Z"
+      },
+      {
+        "id": "a8d856a4bd4193e950d8",
+        "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+        "summary": "爱沙尼亚指责俄罗斯策划8月对无人机厂商的纵火袭击，欧洲和北约领导人表示支持。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
+        "publishedAt": "2026-09-29T06:20:39Z"
       }
     ]
   }
