@@ -1,10 +1,10 @@
 {
   "version": 1,
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T01:55:58Z",
+  "generatedAt": "2026-09-29T08:27:14Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内要闻涵盖国常会稳楼市促就业、房地产市场新政及资本市场动态，科技领域聚焦华为发布与人工智能风险讨论。",
     "items": [
       {
         "id": "ed88cd9ffefaf9a6ac1f",
@@ -12,132 +12,132 @@
         "summary": "国常会研究出台稳定房地产市场、促进就业增收等政策措施，释放稳增长信号。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782660",
-        "publishedAt": "2026-09-29T01:55:58Z"
-      },
-      {
-        "id": "831462236d4354762ec1",
-        "title": "教育部原党组成员、副部长鲁昕被查",
-        "summary": "教育部原党组成员、副部长鲁昕涉嫌严重违纪违法，接受审查调查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34163360",
-        "publishedAt": "2026-09-29T01:55:58Z"
-      },
-      {
-        "id": "6448994d29d0032f050d",
-        "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
-        "summary": "中东局势不明致原油冲高回落，美股收跌，10年期美债收益率创2007年来新高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782633",
-        "publishedAt": "2026-09-29T01:55:58Z"
+        "publishedAt": "2026-09-29T08:27:14Z"
       },
       {
         "id": "57b34494e3a4474578c4",
         "title": "解读丨上海发布商品房销售新政，业内专家怎么看？",
-        "summary": "上海发布商品房销售新政，业内专家解读其对楼市供需与预期的影响。",
+        "summary": "上海发布商品房销售新政，业内专家解读对楼市影响。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34166473",
-        "publishedAt": "2026-09-29T01:55:58Z"
+        "publishedAt": "2026-09-29T08:27:14Z"
+      },
+      {
+        "id": "456e588e4975aae9a924",
+        "title": "华为Mate90系列搭载睿影Z10相机模组",
+        "summary": "华为Mate90系列搭载睿影Z10相机模组，影像能力再升级。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7690575826940772388/",
+        "publishedAt": "2026-09-29T08:27:14Z"
+      },
+      {
+        "id": "6448994d29d0032f050d",
+        "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
+        "summary": "中东局势不明致原油冲高回落、美股指收跌，10年期美债收益率创2007年来新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782633",
+        "publishedAt": "2026-09-29T08:27:14Z"
+      },
+      {
+        "id": "d4898f7d866f8b989986",
+        "title": "普京签令，俄军第4次扩编",
+        "summary": "普京签署总统令再次扩编俄军，系俄军第4次扩编。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8woAsBnRwqm",
+        "publishedAt": "2026-09-29T08:27:14Z"
+      },
+      {
+        "id": "4c920e815b3d0efe51a1",
+        "title": "伊朗外长警告：已为“末日战争”做好准备",
+        "summary": "伊朗外长警告已为“末日战争”做好准备，中东紧张局势持续升级。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wmSMFPHohF",
+        "publishedAt": "2026-09-29T08:27:14Z"
       },
       {
         "id": "e4b29c6b5ad24e632e2c",
         "title": "AMD斥资82亿美元收购World Labs，李飞飞出任首席科学家",
-        "summary": "AMD斥资82亿美元收购World Labs，AI科学家李飞飞出任首席科学家。",
+        "summary": "AMD斥资82亿美元收购World Labs，李飞飞出任首席科学家。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782682",
-        "publishedAt": "2026-09-29T01:55:58Z"
+        "publishedAt": "2026-09-29T08:27:14Z"
       },
       {
-        "id": "2c485d33b16db21269a2",
-        "title": "央行等八部门：引导金融机构综合运用信贷、债券、股权等多样化工具，支持“人工智能+软件”发展",
-        "summary": "央行等八部门发文，引导金融机构运用信贷、债券、股权等工具支持人工智能+软件发展。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782655",
-        "publishedAt": "2026-09-29T01:55:58Z"
-      },
-      {
-        "id": "b0ca49e66f8783a96b0b",
-        "title": "首位外籍航天员要上中国空间站了，正接受高强度中文训练",
-        "summary": "首位外籍航天员将登上中国空间站，目前正接受高强度中文训练。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wnCcgr22wt",
-        "publishedAt": "2026-09-29T01:55:58Z"
-      },
-      {
-        "id": "e0b59e268e6c06c8cac1",
-        "title": "AI热潮带来强劲现金流 英伟达宣布追加1500亿美元股票回购",
-        "summary": "AI热潮带来强劲现金流，英伟达宣布追加1500亿美元股票回购。",
+        "id": "6e14d52c71ccc0f0dfe8",
+        "title": "我国生成式人工智能用户规模突破7亿人",
+        "summary": "我国生成式人工智能用户规模突破7亿人，AI应用加速普及。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2494566",
-        "publishedAt": "2026-09-29T01:55:58Z"
+        "url": "https://www.cls.cn/detail/2495057",
+        "publishedAt": "2026-09-29T08:27:14Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际焦点集中在中东局势与美伊谈判、俄乌冲突持续升级，同时OpenAI因安全担忧推迟模型发布引发广泛关注。",
     "items": [
+      {
+        "id": "9c4d38355ca518674d85",
+        "title": "UK: US government questions bail for Fairford base suspects",
+        "summary": "美国质疑英国法院允许费尔福德基地恐袭案嫌疑人保释，特朗普表示不满。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-29T00:17:00Z"
+      },
+      {
+        "id": "863d868aa8f7d153ae06",
+        "title": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections",
+        "summary": "美伊通过调解方继续会谈，但中期选举前达成协议可能性低。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss",
+        "publishedAt": "2026-09-29T00:15:48Z"
+      },
       {
         "id": "f7b27c24bc74c010f892",
         "title": "OpenAI scraps rollout of new model over safety concerns",
-        "summary": "OpenAI因安全担忧暂停发布新模型，此前其模型曾访问澳大利亚政府系统。",
+        "summary": "OpenAI因安全担忧推迟发布新模型GPT-6.1 Astra。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-28T17:51:25Z"
+        "publishedAt": "2026-09-29T00:13:13Z"
       },
       {
-        "id": "8520c40981e1b81823a5",
-        "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – US politics live",
-        "summary": "特朗普坚称美国将赢得对伊朗战争，美伊谈判前景存疑，中东局势趋紧。",
+        "id": "fa12ebe2042906212b64",
+        "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+        "summary": "飓风“波罗”在墨西哥太平洋沿岸登陆，当地为热门旅游目的地。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-29T00:05:09Z"
+      },
+      {
+        "id": "6b459f59efe05b01c68b",
+        "title": "Russia hits port facilities in overnight strikes on Odesa region of Ukraine – Europe live",
+        "summary": "俄军夜间袭击乌克兰敖德萨地区港口设施，至少8人受伤。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
-        "publishedAt": "2026-09-28T17:34:55Z"
+        "url": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
+        "publishedAt": "2026-09-29T00:00:32Z"
       },
       {
-        "id": "7d70a0a5b61dc1617af7",
-        "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
-        "summary": "特朗普拒绝伊朗重开霍尔木兹海峡提议后，布伦特原油涨逾3%突破每桶107美元。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "publishedAt": "2026-09-28T01:17:29Z"
-      },
-      {
-        "id": "e7c91e8d51960f6018f8",
-        "title": "Israel's Netanyahu holds secret meeting with UAE president",
-        "summary": "以色列总理内塔尼亚胡与阿联酋总统举行秘密会晤，引发外界关注。",
+        "id": "4741a6c7a702b2703183",
+        "title": "Germany news: Merz revolts over EU budget, report says",
+        "summary": "德国总理默茨联合五国威胁削减欧盟预算，否则拒绝批准。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/israel-s-netanyahu-holds-secret-meeting-with-uae-president/a-79467271?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-28T17:11:00Z"
+        "url": "https://www.dw.com/en/germany-news-merz-revolts-over-eu-budget-report-says/live-79468663?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-28T23:54:00Z"
       },
       {
-        "id": "a959f4a21bcc8b0ae7f9",
-        "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
-        "summary": "两只中国大熊猫抵达美国亚特兰大动物园，被视为中美关系缓和信号。",
+        "id": "891f0eb81c1659faf474",
+        "title": "Australia raises interest rates to 15-year high",
+        "summary": "澳大利亚央行加息至4.6%，创15年新高以应对顽固通胀。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
-        "publishedAt": "2026-09-28T12:53:53Z"
+        "url": "https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss",
+        "publishedAt": "2026-09-28T22:29:01Z"
       },
       {
-        "id": "315403ef5273e6dba9fc",
-        "title": "Fiery end for SpaceX Starship mission",
-        "summary": "SpaceX星舰火箭首次入轨，但一台发动机提前关机，任务以起火告终。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
-        "publishedAt": "2026-09-28T15:48:48Z"
-      },
-      {
-        "id": "9c93c2e9137295d95aa3",
-        "title": "Apple ordered to pay $5.7bn in patent infringement case",
-        "summary": "美国加州陪审团裁定苹果侵犯两项专利，须赔偿57亿美元，苹果拟上诉。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
-        "publishedAt": "2026-09-28T12:11:30Z"
-      },
-      {
-        "id": "14ce5ff1f36a63aaca23",
-        "title": "Nepal hit by deadly floods, landslides, and avalanche",
-        "summary": "尼泊尔遭遇严重暴雨洪灾与山体滑坡，雪崩致12名工人失踪。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss",
-        "publishedAt": "2026-09-28T11:59:36Z"
+        "id": "c668a549239d2d461688",
+        "title": "Evicted Spanish pensioner to return home, lawyer says",
+        "summary": "西班牙遭驱逐的87岁老人将返回家中，此前引发大规模抗议。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/evicted-spanish-pensioner-to-return-home-lawyer-says/a-79467953?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-28T21:36:00Z"
       }
     ]
   }
