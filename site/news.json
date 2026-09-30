@@ -1,95 +1,119 @@
 {
   "version": 1,
   "date": "2026-10-01",
-  "generatedAt": "2026-09-30T16:24:35Z",
+  "generatedAt": "2026-09-30T22:13:34Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，习近平强调加强普惠性、基础性、兜底性民生建设；房贷贴息新政落地，多家银行火速响应；解放军在台岛周边及黄岩岛活动受关注；易会满涉嫌受贿案被提起公诉；国庆出行与旅游消费热度高。",
+    "overview": "国内聚焦国庆升旗与民生政策、反腐司法、科技突破及经济数据；需注意同一事件多来源时只保留信息最完整的一条。",
     "items": [
       {
         "id": "1cae1dfe8396b814b602",
         "title": "习近平：加强普惠性、基础性、兜底性民生建设",
-        "summary": "习近平强调加强普惠性、基础性、兜底性民生建设，突出民生保障重点方向。",
+        "summary": "习近平强调加强普惠性、基础性、兜底性民生建设，明确民生工作方向。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2496167",
-        "publishedAt": "2026-09-30T16:24:35Z"
+        "publishedAt": "2026-09-30T22:13:34Z"
       },
       {
-        "id": "6469a56c7f6a50ff9076",
-        "title": "免申即享、简化手续！多家银行火速响应房贷贴息新政，业内称更多惠及低线城市、刚需人群",
-        "summary": "多家银行火速响应房贷贴息新政，免申即享、简化手续，利好低线城市刚需人群。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496031",
-        "publishedAt": "2026-09-30T16:24:35Z"
-      },
-      {
-        "id": "cee9a7e652899eb46e8b",
-        "title": "解放军22架艘次军机舰船位台岛周边活动",
-        "summary": "解放军22架次军机、舰船位台岛周边活动，台海动向持续受关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7691226500619731466/",
-        "publishedAt": "2026-09-30T16:24:35Z"
+        "id": "4cca0e4a8e1f92ece681",
+        "title": "天安门广场国庆升旗仪式",
+        "summary": "天安门广场举行国庆升旗仪式，庆祝新中国成立77周年。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F",
+        "publishedAt": "2026-09-30T22:13:34Z"
       },
       {
         "id": "3252344d469448fe44d3",
         "title": "检察机关依法对易会满涉嫌受贿案提起公诉",
-        "summary": "检察机关依法对易会满涉嫌受贿案提起公诉，金融领域反腐持续推进。",
+        "summary": "检察机关依法对易会满涉嫌受贿案提起公诉，反腐持续深入。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34177474",
-        "publishedAt": "2026-09-30T16:24:35Z"
+        "publishedAt": "2026-09-30T22:13:34Z"
       },
       {
-        "id": "992414102879806f9e38",
-        "title": "解放军为何再次亮剑黄岩岛",
-        "summary": "解放军再次在黄岩岛亮剑，南海主权与安全议题升温。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7691294098577165833/",
-        "publishedAt": "2026-09-30T16:24:35Z"
-      },
-      {
-        "id": "162e965642221a5d9947",
-        "title": "去年中国25至29岁结婚人数最多",
-        "summary": "去年中国25至29岁结婚人数最多，婚姻与人口结构变化引发讨论。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD25%E8%87%B329%E5%B2%81%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A",
-        "publishedAt": "2026-09-30T16:24:35Z"
-      },
-      {
-        "id": "01ccea6077fa290a0112",
-        "title": "日方再提“拥核讨论”！外交部答凤凰",
-        "summary": "日方再提“拥核讨论”，外交部回应凤凰提问，地区安全议题受关注。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wqHL0VxJ0m",
-        "publishedAt": "2026-09-30T16:24:35Z"
-      },
-      {
-        "id": "01a3daf6d99c22fb593f",
-        "title": "多景区紧急通知：国庆门票售罄",
-        "summary": "多景区紧急通知国庆门票售罄，假期出行与旅游消费热度显著。",
+        "id": "77cc086dd4685170775f",
+        "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
+        "summary": "DeepSeek开源华为昇腾全套组件，剑指英伟达CUDA生态。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496370",
-        "publishedAt": "2026-09-30T16:24:35Z"
+        "url": "https://www.cls.cn/detail/2496566",
+        "publishedAt": "2026-09-30T22:13:34Z"
+      },
+      {
+        "id": "0e6ea9796b97dffc27a9",
+        "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
+        "summary": "美国8月核心PCE同比涨3%低于预期，统计口径修改后通胀数据受关注。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782841",
+        "publishedAt": "2026-09-30T22:13:34Z"
+      },
+      {
+        "id": "cee9a7e652899eb46e8b",
+        "title": "解放军22架艘次军机舰船位台岛周边活动",
+        "summary": "解放军22架次军机舰船在台岛周边活动，台海态势持续受关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7691226500619731466/",
+        "publishedAt": "2026-09-30T22:13:34Z"
+      },
+      {
+        "id": "5c5441d2acfc12942968",
+        "title": "朱忠明当选上海市市长",
+        "summary": "朱忠明当选上海市市长，地方人事调整落定。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2496344",
+        "publishedAt": "2026-09-30T22:13:34Z"
+      },
+      {
+        "id": "99c89ce20c273a9f0602",
+        "title": "从房贷贴息看住房支持政策新探索：从供给侧延伸到需求侧，财政金融协同发力",
+        "summary": "房贷贴息政策探索从供给侧延伸至需求侧，财政金融协同发力。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34174172",
+        "publishedAt": "2026-09-30T22:13:34Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美军完成撤离伊拉克；Flydubai赴以色列航班发生飞行员持刀伤人并疑图坠机事件；俄罗斯大规模袭击乌克兰能源设施；特朗普签署AI自律监管协议；英国首相提出可能重新加入欧盟；南非、瑞典、摩洛哥等社会与政治动态受关注。",
+    "overview": "国际关注中东局势、美欧政治与AI监管、俄乌冲突及航空安全事件；优先选取跨来源确认、影响范围广的新闻。",
     "items": [
+      {
+        "id": "643ed435cd8645e46e0e",
+        "title": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’",
+        "summary": "美防长赫格塞思确认将削减20%高级将领，并发表争议性言论。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
+        "publishedAt": "2026-09-30T13:20:58Z"
+      },
       {
         "id": "0ffafc836f837288ca90",
         "title": "Pentagon says it has formally completed withdrawal of US troops from Iraq",
-        "summary": "五角大楼宣布美军正式完成从伊拉克撤军，结束反IS任务，地区安全格局生变。",
+        "summary": "五角大楼宣布完成从伊拉克撤军，特朗普称伊拉克战争是泥潭。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq",
-        "publishedAt": "2026-09-30T06:31:44Z"
+        "publishedAt": "2026-09-30T10:40:36Z"
       },
       {
-        "id": "9a7be1bbc24736eaae31",
-        "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
-        "summary": "内塔尼亚胡说，飞迪拜一航班飞行员刺伤同事并疑似试图坠机，以方调查是否恐袭。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-        "publishedAt": "2026-09-30T07:16:37Z"
+        "id": "7827fb7f138ee3bd8593",
+        "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+        "summary": "俄罗斯警告北约，若加里宁格勒被切断可能采取核回应。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
+        "publishedAt": "2026-09-30T10:52:51Z"
+      },
+      {
+        "id": "d350f90389ae1dd31f43",
+        "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
+        "summary": "迪拜航空副驾驶刺伤机长并疑似企图坠机，客机紧急降落沙特。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-30T11:13:00Z"
+      },
+      {
+        "id": "96be4010c2aa6e16acd5",
+        "title": "Trump set to announce $200bn in energy investments from South Korea",
+        "summary": "特朗普将宣布韩国2000亿美元对美能源投资，为中期选举造势。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+        "publishedAt": "2026-09-30T10:01:14Z"
       },
       {
         "id": "c9de124ed0611718e01f",
@@ -102,7 +126,7 @@
       {
         "id": "42b55c19e5a607892544",
         "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-        "summary": "特朗普与顶级科技公司签署协议，AI开发推行“自我监管”，引发安全担忧。",
+        "summary": "特朗普与科技巨头签署AI自律协议，推动行业自我监管引发安全担忧。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
         "publishedAt": "2026-09-29T15:43:32Z"
@@ -110,34 +134,10 @@
       {
         "id": "27f29e6a8e1702191c60",
         "title": "Andy Burnham: UK could ‘go all the way’ by rejoining EU",
-        "summary": "英国首相称英国可“一路走到底”重新加入欧盟，考虑所有选项，引发关注。",
+        "summary": "英国首相称英国可“一路走到底”重新加入欧盟，考虑所有选项。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu",
         "publishedAt": "2026-09-29T23:41:26Z"
-      },
-      {
-        "id": "96dfb9f6d0d390f1a29f",
-        "title": "South African leader urges men to speak up on gender-based violence after series of killings",
-        "summary": "南非总统呼吁男性对性别暴力发声，并宣布应对措施，近期连环杀害女性引众怒。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
-        "publishedAt": "2026-09-30T06:16:33Z"
-      },
-      {
-        "id": "448226be8344f194751d",
-        "title": "Sweden must apologise for harm done to Sami people, says state-backed report",
-        "summary": "瑞典国家委托报告要求政府就历史上对萨米人的伤害道歉，并启动补救进程。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/30/sweden-sami-harm-apology-report",
-        "publishedAt": "2026-09-30T07:40:28Z"
-      },
-      {
-        "id": "66821f35ffad0d9f4299",
-        "title": "King appoints Morocco’s first female prime minister",
-        "summary": "摩洛哥国王任命首位女首相，系阿拉伯世界第二位女性政府首脑。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss",
-        "publishedAt": "2026-09-29T18:13:07Z"
       }
     ]
   }
