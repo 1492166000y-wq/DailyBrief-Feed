@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T01:17:49Z",
+  "generatedAt": "2026-09-30T08:31:53Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦房贷贴息政策落地、央行降息与AI产业动态；国际关注美伊战争表态、特朗普AI行政令与学生抗议。",
+    "overview": "国内政策聚焦房贷贴息落地、央行降息与流动性支持，稳楼市信号明确；制造业PMI微升至50.1%，出行与天气受国庆假期关注；中央财政贴息与东航事件引发热议。",
     "items": [
       {
         "id": "95bddc0b25a5b98e3efc",
         "title": "中央财政史上首次！“房贷贴息”节前落地：首套、120平方米以下、150万元以内可享",
-        "summary": "中央财政史上首次推出房贷贴息，首套、120平方米以下、150万元以内可享补贴。",
+        "summary": "中央财政史上首次推出房贷贴息，首套、120平方米以下、150万元以内可享，节前落地。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782741",
-        "publishedAt": "2026-09-30T01:17:49Z"
+        "publishedAt": "2026-09-30T08:31:53Z"
       },
       {
         "id": "3925bf25896cee218409",
         "title": "中国央行“出手”：“降息”、加大“六张网”金融支持、扩大“再贷款额度”",
-        "summary": "央行宣布降息并加大“六张网”金融支持，扩大再贷款额度，引导资金流向薄弱环节。",
+        "summary": "央行出手降息，加大“六张网”金融支持，扩大再贷款额度，释放稳增长信号。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782740",
-        "publishedAt": "2026-09-30T01:17:49Z"
+        "publishedAt": "2026-09-30T08:31:53Z"
       },
       {
-        "id": "ea555cac548108a2e106",
-        "title": "Anthropic递交招股书：去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告“威胁人类生存”",
-        "summary": "Anthropic递交招股书，去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告威胁人类生存。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782697",
-        "publishedAt": "2026-09-30T01:17:49Z"
+        "id": "8bdbf8bf36369305830c",
+        "title": "国家统计局：9月份制造业采购经理指数（PMI）为50.1%",
+        "summary": "国家统计局：9月制造业PMI为50.1%，重回扩张区间，经济景气度改善。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2495891",
+        "publishedAt": "2026-09-30T08:31:53Z"
       },
       {
-        "id": "86dcc07263d2bc270205",
-        "title": "特朗普会见多家科技企业负责人，签署人工智能相关文件",
-        "summary": "特朗普会见多家科技企业负责人，签署人工智能相关文件，推动AI自我监管。",
+        "id": "dc9257a224b811ec6576",
+        "title": "外交部：拥有核武器不是日方想不想讨论的问题",
+        "summary": "外交部回应日本核武讨论，强调拥有核武器不是日方想不想讨论的问题。",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wpgpUOO0vj",
-        "publishedAt": "2026-09-30T01:17:49Z"
+        "url": "https://news.ifeng.com/c/8wqHL0VxJ0m",
+        "publishedAt": "2026-09-30T08:31:53Z"
       },
       {
-        "id": "0b74ac3a908a032207ff",
-        "title": "特朗普评中美会晤：满分10分我打12分",
-        "summary": "特朗普评中美会晤，称满分10分，他打12分。",
+        "id": "0bef9eee285d3e070ba7",
+        "title": "今年下半年以来最强冷空气来袭",
+        "summary": "今年下半年以来最强冷空气来袭，多地气温骤降，国庆出行需注意保暖。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7690091446392651839/",
-        "publishedAt": "2026-09-30T01:17:49Z"
+        "url": "https://www.toutiao.com/trending/7691091796876608046/",
+        "publishedAt": "2026-09-30T08:31:53Z"
       },
       {
-        "id": "d04dcb85c62ac6f45474",
-        "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
-        "summary": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782726",
-        "publishedAt": "2026-09-30T01:17:49Z"
+        "id": "3252344d469448fe44d3",
+        "title": "检察机关依法对易会满涉嫌受贿案提起公诉",
+        "summary": "检察机关依法对易会满涉嫌受贿案提起公诉，金融反腐持续深入。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34177474",
+        "publishedAt": "2026-09-30T08:31:53Z"
       },
       {
-        "id": "a500719031e0b82c0d70",
-        "title": "李在明晒出对华出口走势图",
-        "summary": "李在明晒出对华出口走势图，韩国对华贸易动态引发关注。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wpgFHgVOiC",
-        "publishedAt": "2026-09-30T01:17:49Z"
+        "id": "52a2b804fa2c2d162726",
+        "title": "公安部公布8起新型涉黑恶犯罪典型案例，涉及舆情敲诈等",
+        "summary": "公安部公布8起新型涉黑恶犯罪典型案例，涉及舆情敲诈等，强化打击力度。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34174102",
+        "publishedAt": "2026-09-30T08:31:53Z"
       },
       {
-        "id": "8eb13c31fd4571c32568",
-        "title": "妙瓦底电诈园区公开招募成员",
-        "summary": "妙瓦底电诈园区公开招募成员，电信诈骗问题再度引发关注。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%A6%99%E7%93%A6%E5%BA%95%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%85%AC%E5%BC%80%E6%8B%9B%E5%8B%9F%E6%88%90%E5%91%98%23",
-        "publishedAt": "2026-09-30T01:17:49Z"
+        "id": "38f3e7bb54e291133789",
+        "title": "解读｜购房贷款贴息政策精准为刚需家庭降月供，对楼市拉动效果如何？",
+        "summary": "解读购房贷款贴息政策，精准为刚需家庭降月供，对楼市拉动效果待观察。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34173306",
+        "publishedAt": "2026-09-30T08:31:53Z"
       }
     ]
   },
   "global": {
-    "overview": "全球看点包括特朗普签署AI自律协议、美国最高法院允许第三国遣返、法国学生抗议升级及伊拉克美军撤出。",
+    "overview": "美国AI监管转向行业自律，特朗普签署协议并更名超级智能；美债收益率飙升、能源价波动引关注；韩国就DMZ地雷事件要求道歉，英国探讨重返欧盟。",
     "items": [
       {
         "id": "42b55c19e5a607892544",
         "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-        "summary": "特朗普与顶级科技公司签署协议，AI开发将实施“自我监管”，引发安全担忧。",
+        "summary": "特朗普与顶级科技公司签署协议，AI开发实施“自我监管”，引发安全担忧。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
         "publishedAt": "2026-09-29T15:43:32Z"
       },
       {
-        "id": "be2ac235b85031d0e95c",
-        "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-        "summary": "特朗普称对伊战争将“很快”结束，重申伊朗不会拥有核武器，未提供细节。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-        "publishedAt": "2026-09-29T16:00:00Z"
+        "id": "9a8972be433ca13a30f2",
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "summary": "特朗普“超级智能”峰会三大看点：AI更名、企业自律、监管分歧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-29T20:01:52Z"
       },
       {
-        "id": "93308290cfd221e65c8f",
-        "title": "US Supreme Court allows Trump to continue third-country deportations",
-        "summary": "美国最高法院允许特朗普政府继续实施第三国遣返政策，人权组织批评。",
+        "id": "54586ae1e2ed375ec6b7",
+        "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
+        "summary": "韩国就DMZ地雷爆炸要求朝鲜道歉，朝方否认埋设地雷，边境紧张加剧。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
-        "publishedAt": "2026-09-29T14:06:43Z"
+        "url": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss",
+        "publishedAt": "2026-09-30T00:02:20Z"
       },
       {
-        "id": "9314b5e6426f70a06dad",
-        "title": "French students clash with police as protests over education cuts spread",
-        "summary": "法国学生抗议教育削减，与警方冲突，超过400人被拘留，多数为未成年人。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
-        "publishedAt": "2026-09-29T13:09:23Z"
+        "id": "27f29e6a8e1702191c60",
+        "title": "Andy Burnham: UK could ‘go all the way’ by rejoining EU",
+        "summary": "英国首相称可“一路走到底”重新加入欧盟，考虑所有选项，引发关注。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu",
+        "publishedAt": "2026-09-29T23:41:26Z"
       },
       {
-        "id": "7228433852c07a0e532d",
-        "title": "US troops fully withdraw from Baghdad base after two decades",
-        "summary": "美军在二十年驻军后全面撤出巴格达基地，伊拉克面临新的安全挑战。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
-        "publishedAt": "2026-09-29T12:00:31Z"
-      },
-      {
-        "id": "4d2325ad15a9d31bc013",
-        "title": "Morocco: King appoints first woman prime minister",
-        "summary": "摩洛哥国王任命首位女首相，系阿拉伯世界第二位女性政府首脑。",
+        "id": "86c931f2eab4d6625f7e",
+        "title": "US troops exit Iraq after more than a decade",
+        "summary": "美军在二十多年后全面撤出伊拉克，伊朗表示欢迎，地区安全面临新挑战。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-29T11:56:00Z"
+        "url": "https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-09-29T22:22:00Z"
       },
       {
-        "id": "ef1a19a5cc956d4e7319",
-        "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-        "summary": "爱沙尼亚指责俄罗斯策划对国防公司纵火，欧盟和北约领导人表示支持。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-29T11:36:41Z"
+        "id": "66821f35ffad0d9f4299",
+        "title": "King appoints Morocco’s first female prime minister",
+        "summary": "摩洛哥国王任命首位女首相，系阿拉伯世界第二位女性政府首脑。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss",
+        "publishedAt": "2026-09-29T18:13:07Z"
       },
       {
-        "id": "b19a7ed36aee57296ae9",
-        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-        "summary": "西班牙宣布禁止驱逐弱势群体，此前87岁老人被驱逐引发大规模抗议。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-29T08:23:58Z"
+        "id": "a322c65c7c0a13b598aa",
+        "title": "An 87-year-old woman whose eviction sparked protests in Spain is returning home",
+        "summary": "西班牙87岁老妇驱逐案引发抗议后返家，政府宣布禁止驱逐弱势群体。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5985703/woman-eviction-protests-spain",
+        "publishedAt": "2026-09-29T23:07:42Z"
+      },
+      {
+        "id": "be5dd3d9a3b8200bf7a3",
+        "title": "Andy Burnham says rejoining the EU among all ‘the options’ being considered – UK politics live",
+        "summary": "The prime minister says he wants to open a debate about the UK’s future relation",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+        "publishedAt": "2026-09-30T00:23:23Z"
       }
     ]
   }
