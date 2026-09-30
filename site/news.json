@@ -1,116 +1,116 @@
 {
   "version": 1,
   "date": "2026-09-30",
-  "generatedAt": "2026-09-29T22:13:20Z",
+  "generatedAt": "2026-09-30T01:17:49Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点包括房贷贴息政策落地、央行调整货币政策工具、北理工教师被解聘及经济数据发布等。",
+    "overview": "国内聚焦房贷贴息政策落地、央行降息与AI产业动态；国际关注美伊战争表态、特朗普AI行政令与学生抗议。",
     "items": [
       {
         "id": "95bddc0b25a5b98e3efc",
         "title": "中央财政史上首次！“房贷贴息”节前落地：首套、120平方米以下、150万元以内可享",
-        "summary": "中央财政首次推出房贷贴息，首套、120平方米以下、150万元以内可享，10月起实施。",
+        "summary": "中央财政史上首次推出房贷贴息，首套、120平方米以下、150万元以内可享补贴。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782741",
-        "publishedAt": "2026-09-29T22:13:20Z"
+        "publishedAt": "2026-09-30T01:17:49Z"
       },
       {
-        "id": "c9240a9a469af469bb44",
-        "title": "央行调整多项货币政策工具：降利率、提额度 引导资金流向薄弱环节",
-        "summary": "央行调整多项货币政策工具，降利率、提额度，引导资金流向薄弱环节。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2495507",
-        "publishedAt": "2026-09-29T22:13:20Z"
-      },
-      {
-        "id": "f2611c9f855be4a69d24",
-        "title": "北理工：教师裴某严重违反职业道德规范和行为准则，解除聘用关系",
-        "summary": "北理工通报教师裴某严重违反职业道德，已解除聘用关系。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34172944",
-        "publishedAt": "2026-09-29T22:13:20Z"
-      },
-      {
-        "id": "6448994d29d0032f050d",
-        "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
-        "summary": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫。",
+        "id": "3925bf25896cee218409",
+        "title": "中国央行“出手”：“降息”、加大“六张网”金融支持、扩大“再贷款额度”",
+        "summary": "央行宣布降息并加大“六张网”金融支持，扩大再贷款额度，引导资金流向薄弱环节。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782633",
-        "publishedAt": "2026-09-29T22:13:20Z"
-      },
-      {
-        "id": "d4898f7d866f8b989986",
-        "title": "普京签令，俄军第4次扩编",
-        "summary": "普京签署命令，俄军进行第四次扩编，规模增至244万。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8woAsBnRwqm",
-        "publishedAt": "2026-09-29T22:13:20Z"
+        "url": "https://wallstreetcn.com/articles/3782740",
+        "publishedAt": "2026-09-30T01:17:49Z"
       },
       {
         "id": "ea555cac548108a2e106",
         "title": "Anthropic递交招股书：去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告“威胁人类生存”",
-        "summary": "Anthropic递交招股书：去年亏损420亿美元，收入46亿美元，警告威胁人类生存。",
+        "summary": "Anthropic递交招股书，去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告威胁人类生存。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782697",
-        "publishedAt": "2026-09-29T22:13:20Z"
+        "publishedAt": "2026-09-30T01:17:49Z"
       },
       {
-        "id": "038987b687ecc84f8cd0",
-        "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
-        "summary": "人形机器人进驻爱仕达百家终端，从门店上岗到产业实践。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2495303",
-        "publishedAt": "2026-09-29T22:13:20Z"
+        "id": "86dcc07263d2bc270205",
+        "title": "特朗普会见多家科技企业负责人，签署人工智能相关文件",
+        "summary": "特朗普会见多家科技企业负责人，签署人工智能相关文件，推动AI自我监管。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wpgpUOO0vj",
+        "publishedAt": "2026-09-30T01:17:49Z"
       },
       {
-        "id": "1880a0ee4440f39d6aa5",
-        "title": "医药“十五五”规划落地 科创板创新药+医疗器械企业迎长期政策利好",
-        "summary": "医药“十五五”规划落地，科创板创新药与医疗器械企业迎长期政策利好。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2495469",
-        "publishedAt": "2026-09-29T22:13:20Z"
+        "id": "0b74ac3a908a032207ff",
+        "title": "特朗普评中美会晤：满分10分我打12分",
+        "summary": "特朗普评中美会晤，称满分10分，他打12分。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7690091446392651839/",
+        "publishedAt": "2026-09-30T01:17:49Z"
+      },
+      {
+        "id": "d04dcb85c62ac6f45474",
+        "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
+        "summary": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782726",
+        "publishedAt": "2026-09-30T01:17:49Z"
+      },
+      {
+        "id": "a500719031e0b82c0d70",
+        "title": "李在明晒出对华出口走势图",
+        "summary": "李在明晒出对华出口走势图，韩国对华贸易动态引发关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wpgFHgVOiC",
+        "publishedAt": "2026-09-30T01:17:49Z"
+      },
+      {
+        "id": "8eb13c31fd4571c32568",
+        "title": "妙瓦底电诈园区公开招募成员",
+        "summary": "妙瓦底电诈园区公开招募成员，电信诈骗问题再度引发关注。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%A6%99%E7%93%A6%E5%BA%95%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%85%AC%E5%BC%80%E6%8B%9B%E5%8B%9F%E6%88%90%E5%91%98%23",
+        "publishedAt": "2026-09-30T01:17:49Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻涉及法国学生抗议、美国政治与司法动态、西班牙住房危机及俄罗斯相关事件等。",
+    "overview": "全球看点包括特朗普签署AI自律协议、美国最高法院允许第三国遣返、法国学生抗议升级及伊拉克美军撤出。",
     "items": [
       {
-        "id": "ae958c00c0bba74bb2e8",
-        "title": "More than 400 detained as France student protests escalate",
-        "summary": "法国学生抗议升级，超过400人被拘留，抗议涉及学校条件和资源问题。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-29T13:55:13Z"
-      },
-      {
-        "id": "9acc6e9f9235935d2e1d",
-        "title": "Trump rules out joint US-China venture to develop AI",
-        "summary": "特朗普排除美中联合开发AI，继续反对为人工智能设限，称会扼杀增长。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-29T13:45:01Z"
-      },
-      {
-        "id": "eed685d55a3bfb26e432",
-        "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – live",
-        "summary": "美最高法院允许特朗普暂时恢复向第三国驱逐人员，已有超2.5万人被驱逐。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-        "publishedAt": "2026-09-29T13:42:03Z"
-      },
-      {
-        "id": "2154e3908554700bd6a0",
-        "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
-        "summary": "美国对加拿大10亿美元商品禁令生效，系特朗普对加反制关税的最新报复。",
+        "id": "42b55c19e5a607892544",
+        "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+        "summary": "特朗普与顶级科技公司签署协议，AI开发将实施“自我监管”，引发安全担忧。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
-        "publishedAt": "2026-09-29T12:08:33Z"
+        "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
+        "publishedAt": "2026-09-29T15:43:32Z"
+      },
+      {
+        "id": "be2ac235b85031d0e95c",
+        "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+        "summary": "特朗普称对伊战争将“很快”结束，重申伊朗不会拥有核武器，未提供细节。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+        "publishedAt": "2026-09-29T16:00:00Z"
+      },
+      {
+        "id": "93308290cfd221e65c8f",
+        "title": "US Supreme Court allows Trump to continue third-country deportations",
+        "summary": "美国最高法院允许特朗普政府继续实施第三国遣返政策，人权组织批评。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
+        "publishedAt": "2026-09-29T14:06:43Z"
+      },
+      {
+        "id": "9314b5e6426f70a06dad",
+        "title": "French students clash with police as protests over education cuts spread",
+        "summary": "法国学生抗议教育削减，与警方冲突，超过400人被拘留，多数为未成年人。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
+        "publishedAt": "2026-09-29T13:09:23Z"
       },
       {
         "id": "7228433852c07a0e532d",
         "title": "US troops fully withdraw from Baghdad base after two decades",
-        "summary": "美军在二十年驻军后，已全面撤出巴格达基地。",
+        "summary": "美军在二十年驻军后全面撤出巴格达基地，伊拉克面临新的安全挑战。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
         "publishedAt": "2026-09-29T12:00:31Z"
