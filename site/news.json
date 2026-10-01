@@ -1,34 +1,50 @@
 {
   "version": 1,
   "date": "2026-10-01",
-  "generatedAt": "2026-09-30T22:13:34Z",
+  "generatedAt": "2026-10-01T01:17:47Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦国庆升旗与民生政策、反腐司法、科技突破及经济数据；需注意同一事件多来源时只保留信息最完整的一条。",
+    "overview": "2026年10月1日国内焦点集中于国庆77周年、天安门升旗仪式、习近平民生建设表态、外交部对日表态及经济金融数据。",
     "items": [
       {
         "id": "1cae1dfe8396b814b602",
         "title": "习近平：加强普惠性、基础性、兜底性民生建设",
-        "summary": "习近平强调加强普惠性、基础性、兜底性民生建设，明确民生工作方向。",
+        "summary": "习近平强调加强普惠性、基础性、兜底性民生建设，引发广泛关注。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2496167",
-        "publishedAt": "2026-09-30T22:13:34Z"
+        "publishedAt": "2026-10-01T01:17:47Z"
       },
       {
-        "id": "4cca0e4a8e1f92ece681",
-        "title": "天安门广场国庆升旗仪式",
-        "summary": "天安门广场举行国庆升旗仪式，庆祝新中国成立77周年。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F",
-        "publishedAt": "2026-09-30T22:13:34Z"
+        "id": "01ccea6077fa290a0112",
+        "title": "日方再提“拥核讨论”！外交部答凤凰",
+        "summary": "外交部回应日方再提拥核讨论，表明中方严正立场。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8wqHL0VxJ0m",
+        "publishedAt": "2026-10-01T01:17:47Z"
       },
       {
-        "id": "3252344d469448fe44d3",
-        "title": "检察机关依法对易会满涉嫌受贿案提起公诉",
-        "summary": "检察机关依法对易会满涉嫌受贿案提起公诉，反腐持续深入。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34177474",
-        "publishedAt": "2026-09-30T22:13:34Z"
+        "id": "cc291772beba09634d74",
+        "title": "日本谋求“入常”，俄罗斯回应",
+        "summary": "俄罗斯回应日本谋求入常，国际格局博弈持续。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wrRXxUG5Do",
+        "publishedAt": "2026-10-01T01:17:47Z"
+      },
+      {
+        "id": "0e6ea9796b97dffc27a9",
+        "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
+        "summary": "美国8月核心PCE同比涨3%，低于预期，通胀压力有所缓解。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782841",
+        "publishedAt": "2026-10-01T01:17:47Z"
+      },
+      {
+        "id": "17892510e40c82f8d677",
+        "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
+        "summary": "美债收益率突破5.3%，标普道指三连跌，全球债市Q3重挫。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782819",
+        "publishedAt": "2026-10-01T01:17:47Z"
       },
       {
         "id": "77cc086dd4685170775f",
@@ -36,60 +52,36 @@
         "summary": "DeepSeek开源华为昇腾全套组件，剑指英伟达CUDA生态。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2496566",
-        "publishedAt": "2026-09-30T22:13:34Z"
+        "publishedAt": "2026-10-01T01:17:47Z"
       },
       {
-        "id": "0e6ea9796b97dffc27a9",
-        "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
-        "summary": "美国8月核心PCE同比涨3%低于预期，统计口径修改后通胀数据受关注。",
+        "id": "0ece5d51d76ce6f19b27",
+        "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
+        "summary": "特朗普拒绝AI监管立法，签署AI道德约束协议，推行业自律。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782841",
-        "publishedAt": "2026-09-30T22:13:34Z"
+        "url": "https://wallstreetcn.com/articles/3782769",
+        "publishedAt": "2026-10-01T01:17:47Z"
       },
       {
-        "id": "cee9a7e652899eb46e8b",
-        "title": "解放军22架艘次军机舰船位台岛周边活动",
-        "summary": "解放军22架次军机舰船在台岛周边活动，台海态势持续受关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7691226500619731466/",
-        "publishedAt": "2026-09-30T22:13:34Z"
-      },
-      {
-        "id": "5c5441d2acfc12942968",
-        "title": "朱忠明当选上海市市长",
-        "summary": "朱忠明当选上海市市长，地方人事调整落定。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496344",
-        "publishedAt": "2026-09-30T22:13:34Z"
-      },
-      {
-        "id": "99c89ce20c273a9f0602",
-        "title": "从房贷贴息看住房支持政策新探索：从供给侧延伸到需求侧，财政金融协同发力",
-        "summary": "房贷贴息政策探索从供给侧延伸至需求侧，财政金融协同发力。",
+        "id": "3252344d469448fe44d3",
+        "title": "检察机关依法对易会满涉嫌受贿案提起公诉",
+        "summary": "检察机关依法对易会满涉嫌受贿案提起公诉。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34174172",
-        "publishedAt": "2026-09-30T22:13:34Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34177474",
+        "publishedAt": "2026-10-01T01:17:47Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注中东局势、美欧政治与AI监管、俄乌冲突及航空安全事件；优先选取跨来源确认、影响范围广的新闻。",
+    "overview": "国际焦点涵盖美国通胀数据与债市压力、特朗普AI监管与能源投资、俄乌冲突、中东局势及航空安全事件。",
     "items": [
       {
-        "id": "643ed435cd8645e46e0e",
-        "title": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’",
-        "summary": "美防长赫格塞思确认将削减20%高级将领，并发表争议性言论。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
-        "publishedAt": "2026-09-30T13:20:58Z"
-      },
-      {
-        "id": "0ffafc836f837288ca90",
-        "title": "Pentagon says it has formally completed withdrawal of US troops from Iraq",
-        "summary": "五角大楼宣布完成从伊拉克撤军，特朗普称伊拉克战争是泥潭。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq",
-        "publishedAt": "2026-09-30T10:40:36Z"
+        "id": "96be4010c2aa6e16acd5",
+        "title": "Trump set to announce $200bn in energy investments from South Korea",
+        "summary": "特朗普将宣布韩国2000亿美元对美能源投资，为中期选举造势。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+        "publishedAt": "2026-09-30T10:01:14Z"
       },
       {
         "id": "7827fb7f138ee3bd8593",
@@ -100,6 +92,30 @@
         "publishedAt": "2026-09-30T10:52:51Z"
       },
       {
+        "id": "c9de124ed0611718e01f",
+        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "summary": "俄罗斯对乌克兰能源基础设施发动春季以来最大规模袭击。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-30T06:53:02Z"
+      },
+      {
+        "id": "0ffafc836f837288ca90",
+        "title": "Pentagon says it has formally completed withdrawal of US troops from Iraq",
+        "summary": "五角大楼宣布完成从伊拉克撤军，特朗普称伊拉克战争是泥潭。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq",
+        "publishedAt": "2026-09-30T10:40:36Z"
+      },
+      {
+        "id": "643ed435cd8645e46e0e",
+        "title": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’",
+        "summary": "美防长确认将削减20%高级将领，并发表争议性言论。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
+        "publishedAt": "2026-09-30T13:20:58Z"
+      },
+      {
         "id": "d350f90389ae1dd31f43",
         "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
         "summary": "迪拜航空副驾驶刺伤机长并疑似企图坠机，客机紧急降落沙特。",
@@ -108,36 +124,20 @@
         "publishedAt": "2026-09-30T11:13:00Z"
       },
       {
-        "id": "96be4010c2aa6e16acd5",
-        "title": "Trump set to announce $200bn in energy investments from South Korea",
-        "summary": "特朗普将宣布韩国2000亿美元对美能源投资，为中期选举造势。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
-        "publishedAt": "2026-09-30T10:01:14Z"
-      },
-      {
-        "id": "c9de124ed0611718e01f",
-        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-        "summary": "俄罗斯对乌克兰能源基础设施发动春季以来最大规模袭击，涉及11个地区。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-30T06:53:02Z"
-      },
-      {
         "id": "42b55c19e5a607892544",
         "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-        "summary": "特朗普与科技巨头签署AI自律协议，推动行业自我监管引发安全担忧。",
+        "summary": "特朗普与科技巨头签署AI自律协议，推动行业自我监管。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
         "publishedAt": "2026-09-29T15:43:32Z"
       },
       {
-        "id": "27f29e6a8e1702191c60",
-        "title": "Andy Burnham: UK could ‘go all the way’ by rejoining EU",
-        "summary": "英国首相称英国可“一路走到底”重新加入欧盟，考虑所有选项。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu",
-        "publishedAt": "2026-09-29T23:41:26Z"
+        "id": "1530ceb34d48e13dd555",
+        "title": "California bans child marriage, a practice still legal in 32 US states",
+        "summary": "加州禁止童婚，该做法在美国32个州仍属合法。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-30T16:57:04Z"
       }
     ]
   }
