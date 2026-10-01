@@ -1,50 +1,66 @@
 {
   "version": 1,
   "date": "2026-10-01",
-  "generatedAt": "2026-10-01T01:17:47Z",
+  "generatedAt": "2026-10-01T08:54:07Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "2026年10月1日国内焦点集中于国庆77周年、天安门升旗仪式、习近平民生建设表态、外交部对日表态及经济金融数据。",
+    "overview": "国庆之际央媒社论与升旗活动集中呈现，同时华为Mate90发布、存储与AI产业链动态、楼市与债市走势受关注。",
     "items": [
       {
-        "id": "1cae1dfe8396b814b602",
-        "title": "习近平：加强普惠性、基础性、兜底性民生建设",
-        "summary": "习近平强调加强普惠性、基础性、兜底性民生建设，引发广泛关注。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496167",
-        "publishedAt": "2026-10-01T01:17:47Z"
+        "id": "f176aa8a279df522f1cc",
+        "title": "读报丨央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年",
+        "summary": "央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34184563",
+        "publishedAt": "2026-10-01T08:54:07Z"
       },
       {
-        "id": "01ccea6077fa290a0112",
-        "title": "日方再提“拥核讨论”！外交部答凤凰",
-        "summary": "外交部回应日方再提拥核讨论，表明中方严正立场。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8wqHL0VxJ0m",
-        "publishedAt": "2026-10-01T01:17:47Z"
-      },
-      {
-        "id": "cc291772beba09634d74",
-        "title": "日本谋求“入常”，俄罗斯回应",
-        "summary": "俄罗斯回应日本谋求入常，国际格局博弈持续。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wrRXxUG5Do",
-        "publishedAt": "2026-10-01T01:17:47Z"
-      },
-      {
-        "id": "0e6ea9796b97dffc27a9",
-        "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
-        "summary": "美国8月核心PCE同比涨3%，低于预期，通胀压力有所缓解。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782841",
-        "publishedAt": "2026-10-01T01:17:47Z"
+        "id": "1f44662a2aa27dae2047",
+        "title": "人民日报社论：在新的伟大征程上接续奋斗再创辉煌——热烈庆祝中华人民共和国成立七十七周年",
+        "summary": "人民日报刊发社论，庆祝新中国成立七十七周年，号召接续奋斗。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34181002",
+        "publishedAt": "2026-10-01T08:54:07Z"
       },
       {
         "id": "17892510e40c82f8d677",
         "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
-        "summary": "美债收益率突破5.3%，标普道指三连跌，全球债市Q3重挫。",
+        "summary": "美债压力加剧，标普、道指三连跌，10年期收益率突破5.3%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782819",
-        "publishedAt": "2026-10-01T01:17:47Z"
+        "publishedAt": "2026-10-01T08:54:07Z"
+      },
+      {
+        "id": "18b0b35d4c7ddc5fdfc2",
+        "title": "全球债市再遭重击！美10年期国债收益率创2002年新高，纳指期货抹去涨幅，欧股下挫",
+        "summary": "全球债市再遭重击，美10年期国债收益率创2002年以来新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782859",
+        "publishedAt": "2026-10-01T08:54:07Z"
+      },
+      {
+        "id": "0e6ea9796b97dffc27a9",
+        "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
+        "summary": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782841",
+        "publishedAt": "2026-10-01T08:54:07Z"
+      },
+      {
+        "id": "e00f2b1faadd9c2a3c98",
+        "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+        "summary": "美国8月PCE低于预期，市场削减加息押注，美股期指上涨。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2496575",
+        "publishedAt": "2026-10-01T08:54:07Z"
+      },
+      {
+        "id": "2b082afd20ff3390612a",
+        "title": "华为Mate90全系搭载旗舰韬芯片",
+        "summary": "华为Mate90全系搭载旗舰芯片，新一代旗舰机型正式亮相。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7691528727615786538/",
+        "publishedAt": "2026-10-01T08:54:07Z"
       },
       {
         "id": "77cc086dd4685170775f",
@@ -52,41 +68,49 @@
         "summary": "DeepSeek开源华为昇腾全套组件，剑指英伟达CUDA生态。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2496566",
-        "publishedAt": "2026-10-01T01:17:47Z"
-      },
-      {
-        "id": "0ece5d51d76ce6f19b27",
-        "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
-        "summary": "特朗普拒绝AI监管立法，签署AI道德约束协议，推行业自律。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782769",
-        "publishedAt": "2026-10-01T01:17:47Z"
-      },
-      {
-        "id": "3252344d469448fe44d3",
-        "title": "检察机关依法对易会满涉嫌受贿案提起公诉",
-        "summary": "检察机关依法对易会满涉嫌受贿案提起公诉。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34177474",
-        "publishedAt": "2026-10-01T01:17:47Z"
+        "publishedAt": "2026-10-01T08:54:07Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点涵盖美国通胀数据与债市压力、特朗普AI监管与能源投资、俄乌冲突、中东局势及航空安全事件。",
+    "overview": "全球债市抛售加剧、美债收益率创高，中东与俄乌局势紧张，迪拜航空劫机未遂事件持续发酵。",
     "items": [
       {
-        "id": "96be4010c2aa6e16acd5",
-        "title": "Trump set to announce $200bn in energy investments from South Korea",
-        "summary": "特朗普将宣布韩国2000亿美元对美能源投资，为中期选举造势。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
-        "publishedAt": "2026-09-30T10:01:14Z"
+        "id": "5039883bf85c8accb54e",
+        "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
+        "summary": "全球债券抛售加剧，英国长期借贷成本突破6%，创28年新高。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+        "publishedAt": "2026-10-01T00:27:36Z"
+      },
+      {
+        "id": "ba4146fbe498ecf5c246",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+        "summary": "以色列总理称，现在断定伊朗涉迪拜飞特拉维夫航班袭击为时尚早。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-01T00:25:47Z"
+      },
+      {
+        "id": "dd5a157171f552b393d7",
+        "title": "UK house price growth halves amid rising mortgage interest rates",
+        "summary": "英国房价年涨幅减半，按揭利率上升，9月房价环比下跌0.2%。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/money/2026/oct/01/uk-house-price-growth-rising-mortgage-interest-rates-nationwide",
+        "publishedAt": "2026-09-30T23:51:32Z"
+      },
+      {
+        "id": "1e873b6a2104dc13e6fe",
+        "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
+        "summary": "俄罗斯持续打击乌克兰，泽连斯基视察前线，基辅敖德萨设施受损。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+        "publishedAt": "2026-10-01T00:19:21Z"
       },
       {
         "id": "7827fb7f138ee3bd8593",
         "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-        "summary": "俄罗斯警告北约，若加里宁格勒被切断可能采取核回应。",
+        "summary": "俄罗斯警告北约，若加里宁格勒被切断，可能采取核回应。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
         "publishedAt": "2026-09-30T10:52:51Z"
@@ -100,44 +124,20 @@
         "publishedAt": "2026-09-30T06:53:02Z"
       },
       {
+        "id": "96be4010c2aa6e16acd5",
+        "title": "Trump set to announce $200bn in energy investments from South Korea",
+        "summary": "特朗普将宣布韩国2000亿美元对美能源投资，为中期选举造势。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+        "publishedAt": "2026-09-30T10:01:14Z"
+      },
+      {
         "id": "0ffafc836f837288ca90",
         "title": "Pentagon says it has formally completed withdrawal of US troops from Iraq",
-        "summary": "五角大楼宣布完成从伊拉克撤军，特朗普称伊拉克战争是泥潭。",
+        "summary": "五角大楼宣布正式完成从伊拉克撤军，特朗普称伊拉克战争是泥潭。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq",
         "publishedAt": "2026-09-30T10:40:36Z"
-      },
-      {
-        "id": "643ed435cd8645e46e0e",
-        "title": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’",
-        "summary": "美防长确认将削减20%高级将领，并发表争议性言论。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
-        "publishedAt": "2026-09-30T13:20:58Z"
-      },
-      {
-        "id": "d350f90389ae1dd31f43",
-        "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
-        "summary": "迪拜航空副驾驶刺伤机长并疑似企图坠机，客机紧急降落沙特。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-09-30T11:13:00Z"
-      },
-      {
-        "id": "42b55c19e5a607892544",
-        "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-        "summary": "特朗普与科技巨头签署AI自律协议，推动行业自我监管。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
-        "publishedAt": "2026-09-29T15:43:32Z"
-      },
-      {
-        "id": "1530ceb34d48e13dd555",
-        "title": "California bans child marriage, a practice still legal in 32 US states",
-        "summary": "加州禁止童婚，该做法在美国32个州仍属合法。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-30T16:57:04Z"
       }
     ]
   }
