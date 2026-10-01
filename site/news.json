@@ -1,111 +1,95 @@
 {
   "version": 1,
-  "date": "2026-10-01",
-  "generatedAt": "2026-10-01T08:54:07Z",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-01T17:02:11Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国庆之际央媒社论与升旗活动集中呈现，同时华为Mate90发布、存储与AI产业链动态、楼市与债市走势受关注。",
+    "overview": "今日国内焦点集中于楼市改革细则落地、华为产业链新动向、AI与存储芯片市场波动，以及国庆出行与安全事故等公共议题。",
     "items": [
       {
-        "id": "f176aa8a279df522f1cc",
-        "title": "读报丨央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年",
-        "summary": "央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年。",
+        "id": "a67c0cc560b02544e814",
+        "title": "京沪穗落地住房销售改革细则：三地有哪些不同，对楼市有何影响？",
+        "summary": "京沪穗同日落地住房销售改革细则，优化限购与交易流程，释放稳楼市信号。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34184563",
-        "publishedAt": "2026-10-01T08:54:07Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34180765",
+        "publishedAt": "2026-10-01T17:02:11Z"
       },
       {
-        "id": "1f44662a2aa27dae2047",
-        "title": "人民日报社论：在新的伟大征程上接续奋斗再创辉煌——热烈庆祝中华人民共和国成立七十七周年",
-        "summary": "人民日报刊发社论，庆祝新中国成立七十七周年，号召接续奋斗。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34181002",
-        "publishedAt": "2026-10-01T08:54:07Z"
-      },
-      {
-        "id": "17892510e40c82f8d677",
-        "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
-        "summary": "美债压力加剧，标普、道指三连跌，10年期收益率突破5.3%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782819",
-        "publishedAt": "2026-10-01T08:54:07Z"
-      },
-      {
-        "id": "18b0b35d4c7ddc5fdfc2",
-        "title": "全球债市再遭重击！美10年期国债收益率创2002年新高，纳指期货抹去涨幅，欧股下挫",
-        "summary": "全球债市再遭重击，美10年期国债收益率创2002年以来新高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782859",
-        "publishedAt": "2026-10-01T08:54:07Z"
-      },
-      {
-        "id": "0e6ea9796b97dffc27a9",
-        "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
-        "summary": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782841",
-        "publishedAt": "2026-10-01T08:54:07Z"
-      },
-      {
-        "id": "e00f2b1faadd9c2a3c98",
-        "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-        "summary": "美国8月PCE低于预期，市场削减加息押注，美股期指上涨。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496575",
-        "publishedAt": "2026-10-01T08:54:07Z"
-      },
-      {
-        "id": "2b082afd20ff3390612a",
-        "title": "华为Mate90全系搭载旗舰韬芯片",
-        "summary": "华为Mate90全系搭载旗舰芯片，新一代旗舰机型正式亮相。",
+        "id": "6d79b94372ddb00e9e85",
+        "title": "华为与赛力斯达成新五年合作",
+        "summary": "华为与赛力斯达成新五年合作，深化智能汽车领域协同，稳定产业链预期。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7691528727615786538/",
-        "publishedAt": "2026-10-01T08:54:07Z"
+        "url": "https://www.toutiao.com/trending/7691647976585924122/",
+        "publishedAt": "2026-10-01T17:02:11Z"
       },
       {
         "id": "77cc086dd4685170775f",
         "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
-        "summary": "DeepSeek开源华为昇腾全套组件，剑指英伟达CUDA生态。",
+        "summary": "DeepSeek开源华为昇腾全套组件，剑指英伟达CUDA生态，推动国产算力替代。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2496566",
-        "publishedAt": "2026-10-01T08:54:07Z"
+        "publishedAt": "2026-10-01T17:02:11Z"
+      },
+      {
+        "id": "dd6eb0986cf31313770a",
+        "title": "美光财报炸裂：手握26份长协 料“存储荒”持续至2028年",
+        "summary": "美光财报显示手握26份长协，预计存储芯片供应紧张持续至2028年。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2496812",
+        "publishedAt": "2026-10-01T17:02:11Z"
+      },
+      {
+        "id": "c0704ef0fa211dbbfba5",
+        "title": "武汉发布楼市新政",
+        "summary": "武汉发布楼市新政，优化购房信贷与限购政策，促进房地产市场平稳发展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2496795",
+        "publishedAt": "2026-10-01T17:02:11Z"
+      },
+      {
+        "id": "7c0cdaa019ff96f580a9",
+        "title": "沪昆高速怀化段发生交通事故6死4伤，半挂车司机涉疲劳驾驶被控制",
+        "summary": "沪昆高速怀化段发生交通事故致6死4伤，半挂车司机涉疲劳驾驶被控制。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34185639",
+        "publishedAt": "2026-10-01T17:02:11Z"
+      },
+      {
+        "id": "70af326331196f142043",
+        "title": "“人造太阳”建设新进展！紧凑型聚变能实验装置园区交付使用",
+        "summary": "紧凑型聚变能实验装置园区交付使用，人造太阳建设取得新进展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2496773",
+        "publishedAt": "2026-10-01T17:02:11Z"
+      },
+      {
+        "id": "c89322729a1fb1919364",
+        "title": "日本跌出中国游客十大旅游目的地之列，去年曾是榜首",
+        "summary": "日本跌出中国游客十大旅游目的地之列，去年曾位列榜首。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8ws8OUcHk8Z",
+        "publishedAt": "2026-10-01T17:02:11Z"
       }
     ]
   },
   "global": {
-    "overview": "全球债市抛售加剧、美债收益率创高，中东与俄乌局势紧张，迪拜航空劫机未遂事件持续发酵。",
+    "overview": "国际方面，美欧债券市场波动、美韩能源投资、中东与东欧地缘政治紧张，以及迪拜航空袭击事件持续引发关注。",
     "items": [
       {
         "id": "5039883bf85c8accb54e",
         "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
-        "summary": "全球债券抛售加剧，英国长期借贷成本突破6%，创28年新高。",
+        "summary": "全球债券抛售加剧，英国长期借贷成本突破6%，美债担忧推高收益率至数十年高位。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-        "publishedAt": "2026-10-01T00:27:36Z"
+        "publishedAt": "2026-10-01T07:55:50Z"
       },
       {
-        "id": "ba4146fbe498ecf5c246",
-        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-        "summary": "以色列总理称，现在断定伊朗涉迪拜飞特拉维夫航班袭击为时尚早。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-01T00:25:47Z"
-      },
-      {
-        "id": "dd5a157171f552b393d7",
-        "title": "UK house price growth halves amid rising mortgage interest rates",
-        "summary": "英国房价年涨幅减半，按揭利率上升，9月房价环比下跌0.2%。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/money/2026/oct/01/uk-house-price-growth-rising-mortgage-interest-rates-nationwide",
-        "publishedAt": "2026-09-30T23:51:32Z"
-      },
-      {
-        "id": "1e873b6a2104dc13e6fe",
-        "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
-        "summary": "俄罗斯持续打击乌克兰，泽连斯基视察前线，基辅敖德萨设施受损。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
-        "publishedAt": "2026-10-01T00:19:21Z"
+        "id": "896a82a3f007d866b4ff",
+        "title": "Trump unveils South Korean investment in US energy projects",
+        "summary": "特朗普宣布韩国将向美能源项目投资，韩方称需满足条件后才推进。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/trump-unveils-south-korean-investment-in-us-energy-projects/a-79502998?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-01T05:25:00Z"
       },
       {
         "id": "7827fb7f138ee3bd8593",
@@ -124,12 +108,28 @@
         "publishedAt": "2026-09-30T06:53:02Z"
       },
       {
-        "id": "96be4010c2aa6e16acd5",
-        "title": "Trump set to announce $200bn in energy investments from South Korea",
-        "summary": "特朗普将宣布韩国2000亿美元对美能源投资，为中期选举造势。",
+        "id": "256f2ce77cebb5ebc890",
+        "title": "Britain in talks with European allies over release of emergency diesel stockpiles",
+        "summary": "英国与欧洲盟友讨论释放应急柴油储备，因特朗普威胁切断美国供应。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
+        "publishedAt": "2026-10-01T08:49:01Z"
+      },
+      {
+        "id": "e9c481b8ce9b7f72af79",
+        "title": "Ethiopia: Embassy shut in Eritrea, 10 diplomats expelled",
+        "summary": "埃塞俄比亚关闭驻厄立特里亚使馆并驱逐10名外交官，两国关系急剧恶化。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ethiopia-embassy-shut-in-eritrea-10-diplomats-expelled/a-79507052?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-01T08:57:00Z"
+      },
+      {
+        "id": "98be46ff13a954fd147e",
+        "title": "Carlos Queiroz quits as Ghana coach after AFCON qualifying defeats",
+        "summary": "卡洛斯·奎罗斯因非洲杯预选赛连败辞去加纳队主教练职务。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
-        "publishedAt": "2026-09-30T10:01:14Z"
+        "url": "https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss",
+        "publishedAt": "2026-10-01T03:43:04Z"
       },
       {
         "id": "0ffafc836f837288ca90",
