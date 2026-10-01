@@ -1,50 +1,66 @@
 {
   "version": 1,
   "date": "2026-10-02",
-  "generatedAt": "2026-10-01T17:02:11Z",
+  "generatedAt": "2026-10-01T22:39:48Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于楼市改革细则落地、华为产业链新动向、AI与存储芯片市场波动，以及国庆出行与安全事故等公共议题。",
+    "overview": "国内要闻聚焦国庆假期出行与消费、楼市新政与产业科技突破：多地发布住房销售改革细则，华为与赛力斯达成新五年合作，光热发电、聚变装置等新能源进展提速，同时高速充电排队、交通事故等出行问题受关注。",
     "items": [
       {
         "id": "a67c0cc560b02544e814",
         "title": "京沪穗落地住房销售改革细则：三地有哪些不同，对楼市有何影响？",
-        "summary": "京沪穗同日落地住房销售改革细则，优化限购与交易流程，释放稳楼市信号。",
+        "summary": "京沪穗三地落地住房销售改革细则，各有差异，对楼市影响受关注。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34180765",
-        "publishedAt": "2026-10-01T17:02:11Z"
-      },
-      {
-        "id": "6d79b94372ddb00e9e85",
-        "title": "华为与赛力斯达成新五年合作",
-        "summary": "华为与赛力斯达成新五年合作，深化智能汽车领域协同，稳定产业链预期。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7691647976585924122/",
-        "publishedAt": "2026-10-01T17:02:11Z"
-      },
-      {
-        "id": "77cc086dd4685170775f",
-        "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
-        "summary": "DeepSeek开源华为昇腾全套组件，剑指英伟达CUDA生态，推动国产算力替代。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496566",
-        "publishedAt": "2026-10-01T17:02:11Z"
-      },
-      {
-        "id": "dd6eb0986cf31313770a",
-        "title": "美光财报炸裂：手握26份长协 料“存储荒”持续至2028年",
-        "summary": "美光财报显示手握26份长协，预计存储芯片供应紧张持续至2028年。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496812",
-        "publishedAt": "2026-10-01T17:02:11Z"
+        "publishedAt": "2026-10-01T22:39:48Z"
       },
       {
         "id": "c0704ef0fa211dbbfba5",
         "title": "武汉发布楼市新政",
-        "summary": "武汉发布楼市新政，优化购房信贷与限购政策，促进房地产市场平稳发展。",
+        "summary": "武汉发布楼市新政，涉及住房销售等调整措施。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2496795",
-        "publishedAt": "2026-10-01T17:02:11Z"
+        "publishedAt": "2026-10-01T22:39:48Z"
+      },
+      {
+        "id": "4c399986c3819084b63b",
+        "title": "华为与赛力斯达成新五年合作",
+        "summary": "华为与赛力斯达成新五年合作，双方“光速复合”引发产业关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%BE%BE%E6%88%90%E6%96%B0%E4%BA%94%E5%B9%B4%E5%90%88%E4%BD%9C",
+        "publishedAt": "2026-10-01T22:39:48Z"
+      },
+      {
+        "id": "d420a8ec8978bb567e63",
+        "title": "在建在用规模世界第一，光热发展提速：青海再添百万千瓦级电站",
+        "summary": "我国光热在建在用规模世界第一，青海再添百万千瓦级电站。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34188147",
+        "publishedAt": "2026-10-01T22:39:48Z"
+      },
+      {
+        "id": "70af326331196f142043",
+        "title": "“人造太阳”建设新进展！紧凑型聚变能实验装置园区交付使用",
+        "summary": "紧凑型聚变能实验装置园区交付使用，“人造太阳”建设获新进展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2496773",
+        "publishedAt": "2026-10-01T22:39:48Z"
+      },
+      {
+        "id": "37d82447978a8bcd267e",
+        "title": "华为Mate 90系列发布：全系搭载韬芯片，麒麟9050 Pro亮相",
+        "summary": "华为Mate 90系列发布，全系搭载韬芯片，麒麟9050 Pro亮相。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34186076",
+        "publishedAt": "2026-10-01T22:39:48Z"
+      },
+      {
+        "id": "77cc086dd4685170775f",
+        "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
+        "summary": "DeepSeek开源华为昇腾全套组件，剑指英伟达CUDA生态。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2496566",
+        "publishedAt": "2026-10-01T22:39:48Z"
       },
       {
         "id": "7c0cdaa019ff96f580a9",
@@ -52,92 +68,76 @@
         "summary": "沪昆高速怀化段发生交通事故致6死4伤，半挂车司机涉疲劳驾驶被控制。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34185639",
-        "publishedAt": "2026-10-01T17:02:11Z"
-      },
-      {
-        "id": "70af326331196f142043",
-        "title": "“人造太阳”建设新进展！紧凑型聚变能实验装置园区交付使用",
-        "summary": "紧凑型聚变能实验装置园区交付使用，人造太阳建设取得新进展。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496773",
-        "publishedAt": "2026-10-01T17:02:11Z"
-      },
-      {
-        "id": "c89322729a1fb1919364",
-        "title": "日本跌出中国游客十大旅游目的地之列，去年曾是榜首",
-        "summary": "日本跌出中国游客十大旅游目的地之列，去年曾位列榜首。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8ws8OUcHk8Z",
-        "publishedAt": "2026-10-01T17:02:11Z"
+        "publishedAt": "2026-10-01T22:39:48Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美欧债券市场波动、美韩能源投资、中东与东欧地缘政治紧张，以及迪拜航空袭击事件持续引发关注。",
+    "overview": "国际方面，全球债市抛售加剧、美债收益率走高与美国通胀数据牵动市场情绪；俄乌与中东局势持续紧张，普京就加里宁格勒发出核威慑警告，美伊谈判陷入僵局，埃塞俄比亚与厄立特里亚断交，多国政治与社会动荡升温。",
     "items": [
       {
         "id": "5039883bf85c8accb54e",
         "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
-        "summary": "全球债券抛售加剧，英国长期借贷成本突破6%，美债担忧推高收益率至数十年高位。",
+        "summary": "全球债券抛售加剧，英国长期借贷成本突破6%，美债收益率升至数十年高位。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
         "publishedAt": "2026-10-01T07:55:50Z"
       },
       {
-        "id": "896a82a3f007d866b4ff",
-        "title": "Trump unveils South Korean investment in US energy projects",
-        "summary": "特朗普宣布韩国将向美能源项目投资，韩方称需满足条件后才推进。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/trump-unveils-south-korean-investment-in-us-energy-projects/a-79502998?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-01T05:25:00Z"
-      },
-      {
-        "id": "7827fb7f138ee3bd8593",
-        "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-        "summary": "俄罗斯警告北约，若加里宁格勒被切断，可能采取核回应。",
+        "id": "d4f5fcf36c1b8df5a559",
+        "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+        "summary": "普京在莫斯科讲话中拒绝与乌克兰停火，并警告必要时动用核武器保卫加里宁格勒。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
-        "publishedAt": "2026-09-30T10:52:51Z"
+        "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+        "publishedAt": "2026-10-01T13:33:15Z"
       },
       {
-        "id": "c9de124ed0611718e01f",
-        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-        "summary": "俄罗斯对乌克兰能源基础设施发动春季以来最大规模袭击。",
+        "id": "e5e82945b6e3d15da17a",
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "summary": "普京警告西方，俄准备动用一切武器保护加里宁格勒，但称不威胁任何人。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-30T06:53:02Z"
+        "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-01T11:38:30Z"
       },
       {
-        "id": "256f2ce77cebb5ebc890",
-        "title": "Britain in talks with European allies over release of emergency diesel stockpiles",
-        "summary": "英国与欧洲盟友讨论释放应急柴油储备，因特朗普威胁切断美国供应。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
-        "publishedAt": "2026-10-01T08:49:01Z"
-      },
-      {
-        "id": "e9c481b8ce9b7f72af79",
-        "title": "Ethiopia: Embassy shut in Eritrea, 10 diplomats expelled",
-        "summary": "埃塞俄比亚关闭驻厄立特里亚使馆并驱逐10名外交官，两国关系急剧恶化。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ethiopia-embassy-shut-in-eritrea-10-diplomats-expelled/a-79507052?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-01T08:57:00Z"
-      },
-      {
-        "id": "98be46ff13a954fd147e",
-        "title": "Carlos Queiroz quits as Ghana coach after AFCON qualifying defeats",
-        "summary": "卡洛斯·奎罗斯因非洲杯预选赛连败辞去加纳队主教练职务。",
+        "id": "0aad8b2850baa2e0b772",
+        "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+        "summary": "厄立特里亚宣布与埃塞俄比亚断交，埃塞关闭驻厄使馆并驱逐10名外交官。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss",
-        "publishedAt": "2026-10-01T03:43:04Z"
+        "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+        "publishedAt": "2026-10-01T12:10:52Z"
       },
       {
-        "id": "0ffafc836f837288ca90",
-        "title": "Pentagon says it has formally completed withdrawal of US troops from Iraq",
-        "summary": "五角大楼宣布正式完成从伊拉克撤军，特朗普称伊拉克战争是泥潭。",
+        "id": "00daec35a5f30c93bbb3",
+        "title": "US states and cities sue over Trump EPA’s repeal of emissions rules",
+        "summary": "美国多州和城市起诉特朗普政府环保署废除发电厂温室气体排放限制规则。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq",
-        "publishedAt": "2026-09-30T10:40:36Z"
+        "url": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
+        "publishedAt": "2026-10-01T14:24:25Z"
+      },
+      {
+        "id": "c5274de80d9ad7bf0cc5",
+        "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
+        "summary": "美国最高法院同意审理特朗普政府ICE拘留政策相关案件。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
+        "publishedAt": "2026-10-01T09:35:58Z"
+      },
+      {
+        "id": "98e7610f3ecf298b0979",
+        "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+        "summary": "遭ICE探员枪杀的美国女子雷妮·古德家属起诉特朗普政府官员。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-01T12:30:47Z"
+      },
+      {
+        "id": "888c4406b3a57a710d1e",
+        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+        "summary": "美国死刑犯克里斯塔·派克两次注射死刑未死后情况危急，律师请求减刑。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-01T14:28:45Z"
       }
     ]
   }
