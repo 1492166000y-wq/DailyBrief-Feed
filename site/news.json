@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T12:31:27Z",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-02T19:17:02Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，国庆假期出行与消费热度持续走高，港股与美股波动、科技产业动态及中国外交表态值得关注。",
+    "overview": "国内焦点集中于9月新势力车企销量分化、美国非农数据大幅低于预期对全球市场的影响、中国驻美大使就中美关系及习近平访美表态、华为与赛力斯达成新五年合作、恒指失守24000点、国足惨败引热议、多地地铁改造及国庆出行保障；同时涵盖楼市新政、人形机器人落地、聚变装置交付等产业科技动态。",
     "items": [
       {
-        "id": "6ca0f25b05603089f8f0",
-        "title": "恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%",
-        "summary": "恒指失守24000点创三月来最大跌幅，科技股普跌，物理AI牛股暴跌近五成。",
+        "id": "f535a172c1102a2a2a2f",
+        "title": "9月新势力车企销量冰火两重天",
+        "summary": "9月新势力车企销量呈现明显分化，部分品牌表现强劲，部分承压。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7692080156201979418/",
+        "publishedAt": "2026-10-02T19:17:02Z"
+      },
+      {
+        "id": "f98c758e54ea051d60fd",
+        "title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨",
+        "summary": "美国9月非农仅新增2.9万，远低于预期，美债收益率下行，美股期货上涨。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782911",
-        "publishedAt": "2026-10-02T12:31:27Z"
+        "url": "https://wallstreetcn.com/articles/3782938",
+        "publishedAt": "2026-10-02T19:17:02Z"
       },
       {
         "id": "92172325c86a0530a178",
         "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
-        "summary": "中国驻美大使就习近平对美国事访问及中美关系接受《新闻周刊》专访。",
+        "summary": "中国驻美大使接受专访，谈习近平对美进行国事访问及中美关系。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34190175",
-        "publishedAt": "2026-10-02T12:31:27Z"
+        "publishedAt": "2026-10-02T19:17:02Z"
       },
       {
         "id": "9492c916410b232afec1",
         "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
-        "summary": "美股光通信与存储芯片股爆发，原油黄金齐涨，华为与赛力斯达成新五年合作。",
+        "summary": "早报显示美股光通信、存储芯片股全线爆发；华为与赛力斯达成新五年合作。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2497140",
-        "publishedAt": "2026-10-02T12:31:27Z"
+        "publishedAt": "2026-10-02T19:17:02Z"
       },
       {
-        "id": "d420a8ec8978bb567e63",
-        "title": "在建在用规模世界第一，光热发展提速：青海再添百万千瓦级电站",
-        "summary": "中国光热发电在建在用规模世界第一，青海新增百万千瓦级电站，发展提速。",
+        "id": "6ca0f25b05603089f8f0",
+        "title": "恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%",
+        "summary": "恒指失守24000点，创三月来最大跌幅，权重科网股集体下跌。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782911",
+        "publishedAt": "2026-10-02T19:17:02Z"
+      },
+      {
+        "id": "4389008a7afe8d5d4dba",
+        "title": "国际货币基金组织：“非常欢迎”中美经贸团队磋商取得积极共识",
+        "summary": "国际货币基金组织表示非常欢迎中美经贸团队磋商取得积极共识。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34188147",
-        "publishedAt": "2026-10-02T12:31:27Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34190721",
+        "publishedAt": "2026-10-02T19:17:02Z"
       },
       {
         "id": "3aba4ce338cc2cf039e2",
         "title": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期",
-        "summary": "美联储二号三号高管连续放鸽，压制鹰派发声，平息10月加息预期。",
+        "summary": "美联储二号、三号高管连续放鸽，压制鹰派声音，平息10月加息预期。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782895",
-        "publishedAt": "2026-10-02T12:31:27Z"
-      },
-      {
-        "id": "e51ce84c780f60efea58",
-        "title": "“美国航母出动，增兵万人”",
-        "summary": "美国向中东出动第三艘航母并增兵万人，加大对伊朗施压力度。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wtaAQQBjGX",
-        "publishedAt": "2026-10-02T12:31:27Z"
-      },
-      {
-        "id": "0e164ae0348e1dc3919a",
-        "title": "普京建议西方国家清醒评估局势",
-        "summary": "普京建议西方国家清醒评估当前局势，警告可能动用核武器保卫加里宁格勒。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7691989734310952996/",
-        "publishedAt": "2026-10-02T12:31:27Z"
+        "publishedAt": "2026-10-02T19:17:02Z"
       },
       {
         "id": "c0704ef0fa211dbbfba5",
         "title": "武汉发布楼市新政",
-        "summary": "武汉发布楼市新政，进一步优化房地产调控措施以稳定市场。",
+        "summary": "武汉发布楼市新政，出台系列措施促进房地产市场平稳健康发展。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2496795",
-        "publishedAt": "2026-10-02T12:31:27Z"
+        "publishedAt": "2026-10-02T19:17:02Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，法国学生抗议升级、美国向中东增兵施压伊朗、全球债市动荡及俄乌冲突新动向是主要焦点。",
+    "overview": "国际重点包括美国9月非农仅新增2.9万、G7拟释放1亿桶紧急石油储备、特朗普向伊朗下通牒并增兵中东、以色列最高法院推翻阿拉伯政党参选禁令、法国学生抗议致数百所学校关闭、苏丹军方夺取快速支援部队据点、俄罗斯空袭基辅加剧局势、厄立特里亚与埃塞俄比亚断交、OpenAI解雇涉敏感信息员工、西班牙议会否决住房法案等。",
     "items": [
       {
-        "id": "5c6d585ab94a2d8472ae",
-        "title": "Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live",
-        "summary": "法国超560所学校因抗议停课，近3000名青少年被拘留，示威升级为城市暴力。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-        "publishedAt": "2026-10-02T04:19:57Z"
-      },
-      {
-        "id": "10a597f6ded5ba58b51a",
-        "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
-        "summary": "美国向伊朗周边增派第三艘航母及万人兵力，中东紧张局势面临升级风险。",
+        "id": "6f984049b7efff49ab5d",
+        "title": "US adds just 29,000 jobs as unemployment rises before midterm elections",
+        "summary": "美国9月新增非农就业仅2.9万，失业率升至4.2%，中期选举前经济承压。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss",
-        "publishedAt": "2026-10-02T02:06:21Z"
+        "url": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss",
+        "publishedAt": "2026-10-02T08:20:46Z"
       },
       {
-        "id": "5039883bf85c8accb54e",
-        "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
-        "summary": "全球债券抛售加剧，英国长期借贷成本突破6%，美债收益率升至数十年高位。",
+        "id": "8b8ea8d75ef7eff82690",
+        "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+        "summary": "G7领导人同意释放最多1亿桶紧急石油和柴油储备，以应对价格飙升。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-        "publishedAt": "2026-10-01T07:55:50Z"
+        "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+        "publishedAt": "2026-10-02T10:52:03Z"
       },
       {
-        "id": "d4f5fcf36c1b8df5a559",
-        "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-        "summary": "普京在莫斯科讲话拒绝与乌克兰停火，并警告必要时动用核武器。",
+        "id": "67e2b075c33c276585f6",
+        "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
+        "summary": "以色列最高法院推翻选举委员会对阿拉伯政党参选禁令，恢复其参选资格。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
-        "publishedAt": "2026-10-01T13:33:15Z"
+        "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
+        "publishedAt": "2026-10-02T10:11:37Z"
       },
       {
-        "id": "dce4040b592ab1380d5c",
-        "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
-        "summary": "开罗一幅描绘法老深色皮肤的壁画引发争议，在习近平访问前被当局涂掉。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
-        "publishedAt": "2026-10-02T00:55:42Z"
+        "id": "1753df6235f0358dac13",
+        "title": "France: 400 schools closed as student protests continue",
+        "summary": "法国学生抗议持续，约400所学校关闭，警方已逮捕约2000人。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-02T09:46:00Z"
       },
       {
-        "id": "c71a0f972a2930563cd1",
-        "title": "OpenAI fires workers for 'mishandling sensitive information'",
-        "summary": "OpenAI以不当处理敏感信息为由解雇员工，涉与外部AI评估机构共享数据。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-02T00:20:32Z"
+        "id": "52532b34ab6affb1efce",
+        "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
+        "summary": "苏丹军方称已夺取快速支援部队在北科尔多凡州的重要据点。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
+        "publishedAt": "2026-10-02T10:51:54Z"
+      },
+      {
+        "id": "a7c739e453196d3c9164",
+        "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+        "summary": "乌克兰呼吁加强制裁，俄无人机袭击致基辅多座桥梁关闭、交通瘫痪。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
+        "publishedAt": "2026-10-02T04:47:30Z"
       },
       {
         "id": "0aad8b2850baa2e0b772",
         "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
-        "summary": "厄立特里亚宣布与埃塞俄比亚断交，埃塞关闭驻厄使馆并驱逐十名外交官。",
+        "summary": "厄立特里亚宣布与埃塞俄比亚断交，双方采取针锋相对的外交措施。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
         "publishedAt": "2026-10-01T12:10:52Z"
       },
       {
-        "id": "67a9b41768d20cb09ce9",
-        "title": "Ukraine: Kyiv bridges shut after fatal Russian drone assault",
-        "summary": "基辅遭俄无人机袭击致至少一人死亡，第聂伯河上多座桥梁关闭。",
+        "id": "a6b03cd4d72460f0f6c0",
+        "title": "New York governor condemns handling of Cornell rape case",
+        "summary": "An 2024 alleged gang rape at the prestigious Cornell University has gained natio",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-02T01:28:00Z"
+        "url": "https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-02T11:09:00Z"
       }
     ]
   }
