@@ -1,50 +1,26 @@
 {
   "version": 1,
   "date": "2026-10-03",
-  "generatedAt": "2026-10-02T19:17:02Z",
+  "generatedAt": "2026-10-02T23:46:13Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中于9月新势力车企销量分化、美国非农数据大幅低于预期对全球市场的影响、中国驻美大使就中美关系及习近平访美表态、华为与赛力斯达成新五年合作、恒指失守24000点、国足惨败引热议、多地地铁改造及国庆出行保障；同时涵盖楼市新政、人形机器人落地、聚变装置交付等产业科技动态。",
+    "overview": "国内关注美国非农就业大幅低于预期引发市场波动、G7释放油储、中美关系与经贸磋商、黄金消费变化、科技产业动态等。",
     "items": [
-      {
-        "id": "f535a172c1102a2a2a2f",
-        "title": "9月新势力车企销量冰火两重天",
-        "summary": "9月新势力车企销量呈现明显分化，部分品牌表现强劲，部分承压。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692080156201979418/",
-        "publishedAt": "2026-10-02T19:17:02Z"
-      },
       {
         "id": "f98c758e54ea051d60fd",
         "title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨",
-        "summary": "美国9月非农仅新增2.9万，远低于预期，美债收益率下行，美股期货上涨。",
+        "summary": "美国9月新增就业2.9万，远低于预期，美债收益率下行，美股期货上涨。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782938",
-        "publishedAt": "2026-10-02T19:17:02Z"
+        "publishedAt": "2026-10-02T23:46:13Z"
       },
       {
         "id": "92172325c86a0530a178",
         "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
-        "summary": "中国驻美大使接受专访，谈习近平对美进行国事访问及中美关系。",
+        "summary": "中国驻美大使接受《新闻周刊》专访，谈习近平对美国事访问和中美关系。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34190175",
-        "publishedAt": "2026-10-02T19:17:02Z"
-      },
-      {
-        "id": "9492c916410b232afec1",
-        "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
-        "summary": "早报显示美股光通信、存储芯片股全线爆发；华为与赛力斯达成新五年合作。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2497140",
-        "publishedAt": "2026-10-02T19:17:02Z"
-      },
-      {
-        "id": "6ca0f25b05603089f8f0",
-        "title": "恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%",
-        "summary": "恒指失守24000点，创三月来最大跌幅，权重科网股集体下跌。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782911",
-        "publishedAt": "2026-10-02T19:17:02Z"
+        "publishedAt": "2026-10-02T23:46:13Z"
       },
       {
         "id": "4389008a7afe8d5d4dba",
@@ -52,28 +28,52 @@
         "summary": "国际货币基金组织表示非常欢迎中美经贸团队磋商取得积极共识。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34190721",
-        "publishedAt": "2026-10-02T19:17:02Z"
+        "publishedAt": "2026-10-02T23:46:13Z"
       },
       {
         "id": "3aba4ce338cc2cf039e2",
         "title": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期",
-        "summary": "美联储二号、三号高管连续放鸽，压制鹰派声音，平息10月加息预期。",
+        "summary": "美联储二号三号高管连续放鸽，压制鹰派发声，平息10月加息预期。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782895",
-        "publishedAt": "2026-10-02T19:17:02Z"
+        "publishedAt": "2026-10-02T23:46:13Z"
       },
       {
-        "id": "c0704ef0fa211dbbfba5",
-        "title": "武汉发布楼市新政",
-        "summary": "武汉发布楼市新政，出台系列措施促进房地产市场平稳健康发展。",
+        "id": "ed3ae79dd8b1d105d1b7",
+        "title": "多部门多措并举保障国庆公路出行",
+        "summary": "多部门多措并举保障国庆公路出行，应对假期交通压力。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E5%9B%BD%E5%BA%86%E5%85%AC%E8%B7%AF%E5%87%BA%E8%A1%8C%23",
+        "publishedAt": "2026-10-02T23:46:13Z"
+      },
+      {
+        "id": "efc79c9a8a5175a03d91",
+        "title": "国庆买金变了 年轻人冲向黄金柜台",
+        "summary": "国庆黄金消费变化，年轻人成为购金主力，冲向黄金柜台。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7691634538414637102/",
+        "publishedAt": "2026-10-02T23:46:13Z"
+      },
+      {
+        "id": "a89242e56446c6d206df",
+        "title": "“人造太阳”距离点亮万家灯火有多远",
+        "summary": "人造太阳核聚变研究进展，距离点亮万家灯火还有多远引关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E8%B7%9D%E7%A6%BB%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E6%9C%89%E5%A4%9A%E8%BF%9C",
+        "publishedAt": "2026-10-02T23:46:13Z"
+      },
+      {
+        "id": "9492c916410b232afec1",
+        "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
+        "summary": "早报：美股光通信、存储芯片股爆发；原油黄金齐涨；华为与赛力斯达成新五年合作。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496795",
-        "publishedAt": "2026-10-02T19:17:02Z"
+        "url": "https://www.cls.cn/detail/2497140",
+        "publishedAt": "2026-10-02T23:46:13Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重点包括美国9月非农仅新增2.9万、G7拟释放1亿桶紧急石油储备、特朗普向伊朗下通牒并增兵中东、以色列最高法院推翻阿拉伯政党参选禁令、法国学生抗议致数百所学校关闭、苏丹军方夺取快速支援部队据点、俄罗斯空袭基辅加剧局势、厄立特里亚与埃塞俄比亚断交、OpenAI解雇涉敏感信息员工、西班牙议会否决住房法案等。",
+    "overview": "国际焦点包括美国非农就业数据疲软、G7释放紧急油储、美对韩关税威胁、法国学生抗议、以色列选举与加沙问题等。",
     "items": [
       {
         "id": "6f984049b7efff49ab5d",
@@ -84,12 +84,36 @@
         "publishedAt": "2026-10-02T08:20:46Z"
       },
       {
-        "id": "8b8ea8d75ef7eff82690",
-        "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
-        "summary": "G7领导人同意释放最多1亿桶紧急石油和柴油储备，以应对价格飙升。",
+        "id": "c8b472ed7bbbff333aa1",
+        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+        "summary": "G7将释放1亿桶石油和柴油储备，以应对油价飙升和特朗普出口禁令威胁。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-02T12:25:19Z"
+      },
+      {
+        "id": "0efce11d31cfc7d436ca",
+        "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live",
+        "summary": "特朗普威胁若韩国不支付阿拉斯加天然气管道费用，将加倍征收关税。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
-        "publishedAt": "2026-10-02T10:52:03Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+        "publishedAt": "2026-10-02T15:39:55Z"
+      },
+      {
+        "id": "fb3a0a1abf6ca3b0bdcf",
+        "title": "North Korea fires ballistic missile into sea, Seoul says",
+        "summary": "朝鲜向东部海域发射弹道导弹，韩国军方予以确认。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-02T14:06:00Z"
+      },
+      {
+        "id": "3e4c804867ec24a1018f",
+        "title": "Riot police clash with students as education protests rage in France",
+        "summary": "法国学生抗议持续，约735所学校受干扰，警方与抗议者冲突。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-02T13:13:27Z"
       },
       {
         "id": "67e2b075c33c276585f6",
@@ -100,44 +124,20 @@
         "publishedAt": "2026-10-02T10:11:37Z"
       },
       {
-        "id": "1753df6235f0358dac13",
-        "title": "France: 400 schools closed as student protests continue",
-        "summary": "法国学生抗议持续，约400所学校关闭，警方已逮捕约2000人。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-02T09:46:00Z"
+        "id": "7709a38c1f811a225ed8",
+        "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
+        "summary": "G7紧急会议后同意未来4个月释放1亿桶柴油和原油储备以稳定能源价格。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
+        "publishedAt": "2026-10-02T12:23:49Z"
       },
       {
-        "id": "52532b34ab6affb1efce",
-        "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-        "summary": "苏丹军方称已夺取快速支援部队在北科尔多凡州的重要据点。",
+        "id": "db34f8008b5be3df8fca",
+        "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+        "summary": "以色列前谈判代表称加沙战争本可更早结束，更多人质可能活着返回。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-        "publishedAt": "2026-10-02T10:51:54Z"
-      },
-      {
-        "id": "a7c739e453196d3c9164",
-        "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-        "summary": "乌克兰呼吁加强制裁，俄无人机袭击致基辅多座桥梁关闭、交通瘫痪。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
-        "publishedAt": "2026-10-02T04:47:30Z"
-      },
-      {
-        "id": "0aad8b2850baa2e0b772",
-        "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
-        "summary": "厄立特里亚宣布与埃塞俄比亚断交，双方采取针锋相对的外交措施。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
-        "publishedAt": "2026-10-01T12:10:52Z"
-      },
-      {
-        "id": "a6b03cd4d72460f0f6c0",
-        "title": "New York governor condemns handling of Cornell rape case",
-        "summary": "An 2024 alleged gang rape at the prestigious Cornell University has gained natio",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-02T11:09:00Z"
+        "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+        "publishedAt": "2026-10-02T13:53:17Z"
       }
     ]
   }
