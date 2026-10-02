@@ -1,80 +1,96 @@
 {
   "version": 1,
   "date": "2026-10-02",
-  "generatedAt": "2026-10-01T22:39:48Z",
+  "generatedAt": "2026-10-02T05:33:59Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦国庆假期出行与消费、楼市新政与产业科技突破：多地发布住房销售改革细则，华为与赛力斯达成新五年合作，光热发电、聚变装置等新能源进展提速，同时高速充电排队、交通事故等出行问题受关注。",
+    "overview": "国内关注美联储政策转向与债市抛售、华为Mate 90发布、武汉楼市新政及光热与核聚变等能源科技进展。",
     "items": [
       {
-        "id": "a67c0cc560b02544e814",
-        "title": "京沪穗落地住房销售改革细则：三地有哪些不同，对楼市有何影响？",
-        "summary": "京沪穗三地落地住房销售改革细则，各有差异，对楼市影响受关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34180765",
-        "publishedAt": "2026-10-01T22:39:48Z"
-      },
-      {
-        "id": "c0704ef0fa211dbbfba5",
-        "title": "武汉发布楼市新政",
-        "summary": "武汉发布楼市新政，涉及住房销售等调整措施。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496795",
-        "publishedAt": "2026-10-01T22:39:48Z"
-      },
-      {
-        "id": "4c399986c3819084b63b",
-        "title": "华为与赛力斯达成新五年合作",
-        "summary": "华为与赛力斯达成新五年合作，双方“光速复合”引发产业关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%BE%BE%E6%88%90%E6%96%B0%E4%BA%94%E5%B9%B4%E5%90%88%E4%BD%9C",
-        "publishedAt": "2026-10-01T22:39:48Z"
-      },
-      {
-        "id": "d420a8ec8978bb567e63",
-        "title": "在建在用规模世界第一，光热发展提速：青海再添百万千瓦级电站",
-        "summary": "我国光热在建在用规模世界第一，青海再添百万千瓦级电站。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34188147",
-        "publishedAt": "2026-10-01T22:39:48Z"
-      },
-      {
-        "id": "70af326331196f142043",
-        "title": "“人造太阳”建设新进展！紧凑型聚变能实验装置园区交付使用",
-        "summary": "紧凑型聚变能实验装置园区交付使用，“人造太阳”建设获新进展。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496773",
-        "publishedAt": "2026-10-01T22:39:48Z"
+        "id": "3aba4ce338cc2cf039e2",
+        "title": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期",
+        "summary": "美联储二号三号高管连番放鸽，压制鹰派声音，10月加息预期基本被平息。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782895",
+        "publishedAt": "2026-10-02T05:33:59Z"
       },
       {
         "id": "37d82447978a8bcd267e",
         "title": "华为Mate 90系列发布：全系搭载韬芯片，麒麟9050 Pro亮相",
-        "summary": "华为Mate 90系列发布，全系搭载韬芯片，麒麟9050 Pro亮相。",
+        "summary": "华为Mate 90系列发布，全系搭载韬芯片，麒麟9050 Pro同步亮相。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34186076",
-        "publishedAt": "2026-10-01T22:39:48Z"
+        "publishedAt": "2026-10-02T05:33:59Z"
       },
       {
-        "id": "77cc086dd4685170775f",
-        "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
-        "summary": "DeepSeek开源华为昇腾全套组件，剑指英伟达CUDA生态。",
+        "id": "c0704ef0fa211dbbfba5",
+        "title": "武汉发布楼市新政",
+        "summary": "武汉发布楼市新政，房贷贴息等举措落地，市场客户与房东反应明显。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2496566",
-        "publishedAt": "2026-10-01T22:39:48Z"
+        "url": "https://www.cls.cn/detail/2496795",
+        "publishedAt": "2026-10-02T05:33:59Z"
       },
       {
-        "id": "7c0cdaa019ff96f580a9",
-        "title": "沪昆高速怀化段发生交通事故6死4伤，半挂车司机涉疲劳驾驶被控制",
-        "summary": "沪昆高速怀化段发生交通事故致6死4伤，半挂车司机涉疲劳驾驶被控制。",
+        "id": "d420a8ec8978bb567e63",
+        "title": "在建在用规模世界第一，光热发展提速：青海再添百万千瓦级电站",
+        "summary": "我国光热在建在用规模世界第一，青海再添百万千瓦级光热电站。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34185639",
-        "publishedAt": "2026-10-01T22:39:48Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34188147",
+        "publishedAt": "2026-10-02T05:33:59Z"
+      },
+      {
+        "id": "70af326331196f142043",
+        "title": "“人造太阳”建设新进展！紧凑型聚变能实验装置园区交付使用",
+        "summary": "紧凑型聚变能实验装置园区交付使用，人造太阳建设取得新进展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2496773",
+        "publishedAt": "2026-10-02T05:33:59Z"
+      },
+      {
+        "id": "95d816d7eabab85323e2",
+        "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
+        "summary": "华尔街机构警告美联储犯下原罪，十年期美债收益率或迈向8%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782880",
+        "publishedAt": "2026-10-02T05:33:59Z"
+      },
+      {
+        "id": "a03fb0ac0624032b5b2b",
+        "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
+        "summary": "全球债市抛售加剧，美债收益率触及2002年高位，英债突破6%创1998年新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782875",
+        "publishedAt": "2026-10-02T05:33:59Z"
+      },
+      {
+        "id": "59dc95d2b2deefdb4f4d",
+        "title": "中使馆回应村田晃大持刀侵闯案开庭：敦促日方拿出应有态度，严惩凶犯",
+        "summary": "中使馆回应村田晃大持刀侵闯案开庭，敦促日方严惩凶犯并拿出应有态度。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34188087",
+        "publishedAt": "2026-10-02T05:33:59Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，全球债市抛售加剧、美债收益率走高与美国通胀数据牵动市场情绪；俄乌与中东局势持续紧张，普京就加里宁格勒发出核威慑警告，美伊谈判陷入僵局，埃塞俄比亚与厄立特里亚断交，多国政治与社会动荡升温。",
+    "overview": "国际聚焦欧美柴油储备博弈、全球债市抛售、美国对伊朗军事部署、巴西与以色列大选及多国外交冲突。",
     "items": [
+      {
+        "id": "a118fa444d5efe732f34",
+        "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+        "summary": "美国施压欧洲释放柴油储备，特朗普威胁禁止柴油出口以平抑国内油价。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-01T21:26:06Z"
+      },
+      {
+        "id": "0851b031dc233d609a5f",
+        "title": "US pressures EU allies to release diesel stockpiles",
+        "summary": "特朗普政府呼吁德国法国释放战略柴油储备，欧盟将于周五召开紧急会议。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-01T19:51:00Z"
+      },
       {
         "id": "5039883bf85c8accb54e",
         "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
@@ -84,60 +100,44 @@
         "publishedAt": "2026-10-01T07:55:50Z"
       },
       {
+        "id": "6a7b6edeb7cc8d5d5934",
+        "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+        "summary": "美国向中东大幅增兵，将派出第三艘航母及约五万兵力施压伊朗。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
+        "publishedAt": "2026-10-01T19:14:47Z"
+      },
+      {
         "id": "d4f5fcf36c1b8df5a559",
         "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-        "summary": "普京在莫斯科讲话中拒绝与乌克兰停火，并警告必要时动用核武器保卫加里宁格勒。",
+        "summary": "普京在莫斯科讲话拒绝与乌克兰停火，并警告必要时动用核武器保卫加里宁格勒。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
         "publishedAt": "2026-10-01T13:33:15Z"
       },
       {
-        "id": "e5e82945b6e3d15da17a",
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "summary": "普京警告西方，俄准备动用一切武器保护加里宁格勒，但称不威胁任何人。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-01T11:38:30Z"
-      },
-      {
         "id": "0aad8b2850baa2e0b772",
         "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
-        "summary": "厄立特里亚宣布与埃塞俄比亚断交，埃塞关闭驻厄使馆并驱逐10名外交官。",
+        "summary": "厄立特里亚宣布与埃塞俄比亚断交，埃塞关闭驻厄使馆并驱逐十名外交官。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
         "publishedAt": "2026-10-01T12:10:52Z"
       },
       {
-        "id": "00daec35a5f30c93bbb3",
-        "title": "US states and cities sue over Trump EPA’s repeal of emissions rules",
-        "summary": "美国多州和城市起诉特朗普政府环保署废除发电厂温室气体排放限制规则。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
-        "publishedAt": "2026-10-01T14:24:25Z"
-      },
-      {
-        "id": "c5274de80d9ad7bf0cc5",
-        "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
-        "summary": "美国最高法院同意审理特朗普政府ICE拘留政策相关案件。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
-        "publishedAt": "2026-10-01T09:35:58Z"
-      },
-      {
-        "id": "98e7610f3ecf298b0979",
-        "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-        "summary": "遭ICE探员枪杀的美国女子雷妮·古德家属起诉特朗普政府官员。",
+        "id": "e69b9189754d01cae771",
+        "title": "OpenAI fires workers for mishandling 'sensitive information'",
+        "summary": "OpenAI解雇数名员工，因其不当处理敏感信息，与外部AI评估机构共享数据。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-01T12:30:47Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-01T17:34:56Z"
       },
       {
-        "id": "888c4406b3a57a710d1e",
-        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-        "summary": "美国死刑犯克里斯塔·派克两次注射死刑未死后情况危急，律师请求减刑。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-01T14:28:45Z"
+        "id": "d09a9c8d5d7ce346686c",
+        "title": "EU ministers mull new ways to curb irregular migration",
+        "summary": "欧盟部长商讨遏制非法移民新招，包括设境外遣返中心、强化边境机构。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-01T16:54:00Z"
       }
     ]
   }
