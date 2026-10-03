@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-03",
-  "generatedAt": "2026-10-03T11:38:35Z",
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-03T16:15:55Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内聚焦：美国9月非农就业大幅低于预期，全球市场连锁反应，G7同意释放至多1亿桶油储；中国U23男足战胜乌兹别克斯坦，时隔28年再夺亚运铜牌；华为与赛力斯达成新五年合作。",
+    "overview": "长假出行与消费、宏观金融数据、产业科技动态构成今日国内主线。",
     "items": [
       {
-        "id": "f98c758e54ea051d60fd",
-        "title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨",
-        "summary": "美国9月新增非农就业2.9万人，远低于预期9万人，美债收益率下行，美股期货上涨。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782938",
-        "publishedAt": "2026-10-03T11:38:35Z"
+        "id": "8c72a45140a64e790e09",
+        "title": "国庆假期第3日跨区域人员流动超3亿",
+        "summary": "国庆假期第3日跨区域人员流动超3亿，出行热度持续高位运行。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%AC%AC3%E6%97%A5%E8%B7%A8%E5%8C%BA%E5%9F%9F%E4%BA%BA%E5%91%98%E6%B5%81%E5%8A%A8%E8%B6%853%E4%BA%BF%23",
+        "publishedAt": "2026-10-03T16:15:55Z"
       },
       {
-        "id": "197cdeb52e72a7c3b30d",
-        "title": "中国男足时隔28年再夺亚运铜牌",
-        "summary": "中国U23男足点球大战取胜，时隔28年再夺亚运会铜牌，引发广泛关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C",
-        "publishedAt": "2026-10-03T11:38:35Z"
-      },
-      {
-        "id": "9492c916410b232afec1",
-        "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
-        "summary": "美股光通信、存储芯片股全线爆发，原油黄金齐涨，华为与赛力斯达成新五年合作。",
+        "id": "93d817d144fd8aa8f4b0",
+        "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
+        "summary": "美国9月非农大幅低于预期，美股期指集体上涨，加息预期降温。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2497140",
-        "publishedAt": "2026-10-03T11:38:35Z"
-      },
-      {
-        "id": "4389008a7afe8d5d4dba",
-        "title": "国际货币基金组织：“非常欢迎”中美经贸团队磋商取得积极共识",
-        "summary": "国际货币基金组织表示非常欢迎中美经贸团队磋商取得积极共识。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34190721",
-        "publishedAt": "2026-10-03T11:38:35Z"
-      },
-      {
-        "id": "380e973f010696b53ad3",
-        "title": "【早报】9月非农不及预期；G7将在4个月内释放至多1亿桶柴油和原油储备",
-        "summary": "财联社早报：9月非农不及预期，G7将在四个月内释放至多1亿桶柴油和原油储备。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2497453",
-        "publishedAt": "2026-10-03T11:38:35Z"
-      },
-      {
-        "id": "841ac34aafbb1fc74103",
-        "title": "金价银价“巨震”",
-        "summary": "国际金价银价出现剧烈震荡，市场波动加大，引发投资者高度关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E2%80%9C%E5%B7%A8%E9%9C%87%E2%80%9D",
-        "publishedAt": "2026-10-03T11:38:35Z"
+        "url": "https://www.cls.cn/detail/2497348",
+        "publishedAt": "2026-10-03T16:15:55Z"
       },
       {
         "id": "949dac3366d318f7eb11",
         "title": "美股要“通宵”了！12月起迈入23小时交易时代",
-        "summary": "美股将于12月起迈入23小时交易时代，接近全天候交易，影响全球资本市场。",
+        "summary": "美股12月起迈入23小时交易时代，近乎通宵交易改变全球市场节奏。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3782956",
-        "publishedAt": "2026-10-03T11:38:35Z"
+        "publishedAt": "2026-10-03T16:15:55Z"
+      },
+      {
+        "id": "9492c916410b232afec1",
+        "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
+        "summary": "美股光通信、存储芯片全线爆发，原油黄金齐涨，华为与赛力斯深化合作。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2497140",
+        "publishedAt": "2026-10-03T16:15:55Z"
+      },
+      {
+        "id": "a5b4679178971646dfa3",
+        "title": "“一国两制”台湾方案在岛内引热议",
+        "summary": "“一国两制”台湾方案在岛内引发热议，两岸议题再受关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7691613605808668682/",
+        "publishedAt": "2026-10-03T16:15:55Z"
+      },
+      {
+        "id": "feee3effffba43166dc1",
+        "title": "普京：很快所有人都得开中国车",
+        "summary": "普京称很快所有人都得开中国车，折射中国汽车出口国际影响力提升。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2497224",
+        "publishedAt": "2026-10-03T16:15:55Z"
+      },
+      {
+        "id": "ae610ac7a40a3afdf2b3",
+        "title": "歼-36试飞画面再流出，明年或正式公布",
+        "summary": "歼-36试飞画面再度流出，明年或正式公布，引发军事科技关注。",
+        "source": "凤凰网",
+        "url": "https://v.ifeng.com/c/8wv9C8LgnW0",
+        "publishedAt": "2026-10-03T16:15:55Z"
       },
       {
         "id": "038987b687ecc84f8cd0",
         "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
-        "summary": "人形机器人进驻爱仕达百家终端门店，从门店上岗走向产业实践，推动智能制造落地。",
+        "summary": "人形机器人进驻爱仕达百家终端，从门店上岗走向产业实践。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2495303",
-        "publishedAt": "2026-10-03T11:38:35Z"
+        "publishedAt": "2026-10-03T16:15:55Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻：迪拜航空副驾驶持斧袭击机长，阿联酋定性为恐怖袭击；俄罗斯再袭基辅一座主要桥梁；G7同意释放至多1亿桶紧急油储以平抑油价；巴西大选前夕，美澳暂停驻巴领事服务。",
+    "overview": "美欧政治博弈、西班牙住房危机、中东与俄乌冲突持续占据国际焦点。",
     "items": [
-      {
-        "id": "1eac6bde685b8be4c5a7",
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "summary": "迪拜航空副驾驶持斧袭击机长，阿联酋官员称该以色列航班遭遇恐怖袭击未遂。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T03:20:21Z"
-      },
-      {
-        "id": "7b3e916506da38a95a0d",
-        "title": "Russia strikes second major bridge in Kyiv, mayor says",
-        "summary": "基辅市长称俄罗斯袭击了基辅第二座主要桥梁，此前另一座大桥已多次遭袭。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T01:53:16Z"
-      },
       {
         "id": "bb020e6689b9f92d70c5",
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "summary": "G7同意释放数百万桶石油和柴油储备，以避免美国柴油出口禁令引发价格飙升。",
+        "summary": "G7同意释放数百万桶石油和柴油储备，以缓解美国柴油出口禁令冲击。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-02T20:38:31Z"
       },
       {
-        "id": "e9db27a7ddc7e4ac174b",
-        "title": "US and Australia suspend diplomatic operations in Brazil before election",
-        "summary": "美国和澳大利亚在巴西总统大选前夕暂停驻巴西领事服务，称存在安全威胁。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
-        "publishedAt": "2026-10-02T16:46:10Z"
-      },
-      {
-        "id": "3e4c804867ec24a1018f",
-        "title": "Riot police clash with students as education protests rage in France",
-        "summary": "法国学生抗议持续，约735所学校受干扰，防暴警察与抗议者发生冲突。",
+        "id": "68e5784425bfe21ac4f0",
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+        "summary": "俄罗斯连续两日打击基辅主要桥梁，乌首都关键基础设施受损。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-02T13:13:27Z"
+        "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T04:59:10Z"
       },
       {
-        "id": "49401dcc64f77bab6284",
-        "title": "Polls open in Latvia against backdrop of perceived Russia threat",
-        "summary": "拉脱维亚举行议会选举投票，安全担忧与生活成本上升成为主要议题。",
+        "id": "2fa8e231a872b9e9c350",
+        "title": "Protesters across Spain demand action over housing crisis",
+        "summary": "西班牙多地爆发大规模抗议，要求政府采取行动应对住房危机。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T05:34:11Z"
+      },
+      {
+        "id": "1eac6bde685b8be4c5a7",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "summary": "迪拜航空副驾驶用斧头袭击机长，阿联酋定性为恐怖袭击企图。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T06:27:33Z"
+      },
+      {
+        "id": "dc2c18b0bafda6070414",
+        "title": "Medical plane with 6 on board missing off Massachusetts coast",
+        "summary": "一架医疗飞机在马萨诸塞州海岸失联，机上共6人，搜救进行中。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T07:56:14Z"
+      },
+      {
+        "id": "3f2637ea31d70b54222c",
+        "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
+        "summary": "英国羁押两名伊朗人，指控其策划针对犹太目标的恐怖袭击。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-03T08:10:00Z"
+      },
+      {
+        "id": "d574a448bc832c16fe73",
+        "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+        "summary": "埃塞俄比亚政府军推进并夺回提格雷首府机场，当地战事再起。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
-        "publishedAt": "2026-10-03T00:21:23Z"
+        "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
+        "publishedAt": "2026-10-03T05:00:57Z"
       },
       {
-        "id": "039125a7feb6a900aeb9",
-        "title": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
-        "summary": "朝鲜向海上发射弹道导弹，此前韩国就士兵在非军事区被地雷炸伤要求道歉。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
-        "publishedAt": "2026-10-02T21:31:08Z"
-      },
-      {
-        "id": "4db62d0322a2e03ada9e",
-        "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-        "summary": "巴西大选临近，卢拉与博索纳罗之子对决，成为拉美亲特朗普阵营的一次重要考验。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
-        "publishedAt": "2026-10-02T23:00:35Z"
+        "id": "e78c6f563f972df9679f",
+        "title": "Israel election double standard: Arab leader forced out, far right cleared",
+        "summary": "以色列选举被指双重标准：阿拉伯政党领导人被取消资格，极右翼获准参选。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+        "publishedAt": "2026-10-03T06:06:47Z"
       }
     ]
   }
