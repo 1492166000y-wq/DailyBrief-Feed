@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-04",
-  "generatedAt": "2026-10-03T19:14:43Z",
+  "generatedAt": "2026-10-03T23:02:02Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在长假出行与消费、宏观经济数据预期、以及两岸与国防相关表态；科技与产业方面，芯片、存储、通信及新能源车动态值得关注，社会民生话题也占据一定讨论度。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "9492c916410b232afec1",
-        "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
-        "summary": "美股光通信与存储芯片股全线爆发，原油黄金齐涨，华为与赛力斯达成新五年合作。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2497140",
-        "publishedAt": "2026-10-03T19:14:43Z"
-      },
-      {
-        "id": "298107f6004840942f2f",
-        "title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
-        "summary": "美国9月非农数据爆冷，美债收益率却未明显下行，市场担忧经济深层压力。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782957",
-        "publishedAt": "2026-10-03T19:14:43Z"
-      },
-      {
-        "id": "949dac3366d318f7eb11",
-        "title": "美股要“通宵”了！12月起迈入23小时交易时代",
-        "summary": "美股12月起迈入23小时交易时代，延长时段或改变全球资金交易节奏。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782956",
-        "publishedAt": "2026-10-03T19:14:43Z"
+        "id": "5128efb300f268453a21",
+        "title": "中国队169金89银83铜",
+        "summary": "中国队亚运会以169金89银83铜收官，金牌榜遥遥领先",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C",
+        "publishedAt": "2026-10-03T23:02:02Z"
       },
       {
         "id": "8c72a45140a64e790e09",
         "title": "国庆假期第3日跨区域人员流动超3亿",
-        "summary": "国庆假期第3日跨区域人员流动超3亿人次，出行与消费热度持续。",
+        "summary": "国庆假期第3日跨区域人员流动超3亿人次，出行热度持续",
         "source": "微博",
         "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%AC%AC3%E6%97%A5%E8%B7%A8%E5%8C%BA%E5%9F%9F%E4%BA%BA%E5%91%98%E6%B5%81%E5%8A%A8%E8%B6%853%E4%BA%BF%23",
-        "publishedAt": "2026-10-03T19:14:43Z"
+        "publishedAt": "2026-10-03T23:02:02Z"
       },
       {
-        "id": "0f81bd82d1ad61eb1b98",
-        "title": "中俄白等八国超4.7万人集结大练兵",
-        "summary": "中俄白等八国超4.7万人集结大练兵，多国联合演习规模引发关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692289102359855155/",
-        "publishedAt": "2026-10-03T19:14:43Z"
+        "id": "45adbddf492987d5a249",
+        "title": "东航再通报“空姐下跪道歉”事件：已向公安机关报案",
+        "summary": "东航再通报空姐下跪道歉事件，称已向公安机关报案",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34195679",
+        "publishedAt": "2026-10-03T23:02:02Z"
       },
       {
-        "id": "038987b687ecc84f8cd0",
-        "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
-        "summary": "人形机器人进驻爱仕达百家终端，从门店上岗推进产业实践落地。",
+        "id": "8438da99315b637a9192",
+        "title": "人民日报评“空姐下跪道歉”：一味息事宁人，只会纵容无理者得寸进尺",
+        "summary": "人民日报评空姐下跪道歉：息事宁人只会纵容无理取闹",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34193872",
+        "publishedAt": "2026-10-03T23:02:02Z"
+      },
+      {
+        "id": "9492c916410b232afec1",
+        "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
+        "summary": "华为与赛力斯达成新五年合作，美股光通信存储芯片股爆发",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2495303",
-        "publishedAt": "2026-10-03T19:14:43Z"
+        "url": "https://www.cls.cn/detail/2497140",
+        "publishedAt": "2026-10-03T23:02:02Z"
       },
       {
-        "id": "444c830f03033b092e9b",
-        "title": "军媒：祖国完全统一历史任务定能实现",
-        "summary": "军媒发文称祖国完全统一的历史任务定能实现，涉台表态引发关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7691637778703253546/",
-        "publishedAt": "2026-10-03T19:14:43Z"
+        "id": "298107f6004840942f2f",
+        "title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
+        "summary": "美国9月非农爆冷，美债收益率跌不动凸显华尔街担忧",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782957",
+        "publishedAt": "2026-10-03T23:02:02Z"
       },
       {
-        "id": "a5a59eb4366ed208e11f",
-        "title": "苹果小米等新手机出现部分黑屏现象",
-        "summary": "苹果小米等新手机出现部分黑屏现象，产品品控问题受到消费者关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692072843722555455/",
-        "publishedAt": "2026-10-03T19:14:43Z"
+        "id": "9d23524c3b7453a2078c",
+        "title": "机构高呼9月非农“杀死”10月加息预期！“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要",
+        "summary": "机构称9月非农杀死10月加息预期，新美联储通讯社唱反调",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782945",
+        "publishedAt": "2026-10-03T23:02:02Z"
+      },
+      {
+        "id": "949dac3366d318f7eb11",
+        "title": "美股要“通宵”了！12月起迈入23小时交易时代",
+        "summary": "美股12月起迈入23小时交易时代，纽交所延长交易时段",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782956",
+        "publishedAt": "2026-10-03T23:02:02Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻主要围绕全球宏观经济与能源市场波动、俄乌冲突与中东局势、以及多国政治选举与社会抗议，同时重大事故与安全事件也引发关注。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
-      {
-        "id": "bb020e6689b9f92d70c5",
-        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "summary": "G7同意释放数百万桶石油和柴油储备，以缓解美国柴油出口禁令冲击。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-02T20:38:31Z"
-      },
-      {
-        "id": "3842266e514aea31f8c8",
-        "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-        "summary": "巴基斯坦与阿富汗从盟友邻国走向冲突，巴方空袭邻国，和谈屡屡失败。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-03T10:49:00Z"
-      },
       {
         "id": "145f5bd86869df45c806",
         "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
-        "summary": "基辅与莫斯科互袭，俄军击中基辅第二座关键桥梁，双方交火升级。",
+        "summary": "基辅与莫斯科互袭，俄军击中基辅第二座关键桥梁致5人死亡",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
         "publishedAt": "2026-10-03T04:55:54Z"
       },
       {
+        "id": "f9d21a17ac93ee2ad027",
+        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+        "summary": "西班牙住房法案遭否决，马德里等城超50万人上街抗议",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T05:34:11Z"
+      },
+      {
+        "id": "bb020e6689b9f92d70c5",
+        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+        "summary": "G7同意释放数百万桶石油和柴油储备，缓解柴油出口禁令冲击",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-02T20:38:31Z"
+      },
+      {
         "id": "fc43dbc4072806c67546",
         "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-        "summary": "阿联酋称迪拜航空副驾驶用斧头袭击机长，试图制造恐怖袭击。",
+        "summary": "阿联酋称迪拜航空副驾驶用斧头袭击机长，企图制造恐袭",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
         "publishedAt": "2026-10-03T03:56:46Z"
       },
       {
-        "id": "bff6dd8a60653d3650db",
-        "title": "Spain: Massive protests after housing bills voted down",
-        "summary": "西班牙住房法案被否决后多地爆发大规模抗议，马德里约50万人上街。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-03T06:18:00Z"
-      },
-      {
-        "id": "b4c2543c51ac1e4c8d5c",
-        "title": "Tennessee’s top prison official resigning after botched execution of Christa Pike",
-        "summary": "美国田纳西州监狱主管因死囚处决失败辞职，州政府启动独立调查。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
-        "publishedAt": "2026-10-03T09:09:05Z"
-      },
-      {
         "id": "4db62d0322a2e03ada9e",
         "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-        "summary": "巴西大选选情胶着，卢拉与右翼对手对决，成拉美亲特朗普阵营试金石。",
+        "summary": "巴西大选选情胶着，成拉美亲特朗普阵营重要试金石",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
         "publishedAt": "2026-10-02T23:00:35Z"
       },
       {
+        "id": "c6f97f356bfebf2bb336",
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "summary": "田纳西州死囚处决失败后监狱主管辞职，独立调查启动",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T09:48:42Z"
+      },
+      {
+        "id": "7de95e28ff5592aa2361",
+        "title": "Latvia: Ruling party leads in exit polls amid populist gains",
+        "summary": "拉脱维亚执政党在出口民调中领先，民粹势力有所增长",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-03T10:05:00Z"
+      },
+      {
         "id": "dc2c18b0bafda6070414",
         "title": "Medical plane with 6 on board missing off Massachusetts coast",
-        "summary": "一架载6人医疗飞机在马萨诸塞州海岸附近失联，海岸警卫队展开搜寻。",
+        "summary": "美国马萨诸塞州海岸一架医疗飞机失联，海岸警卫队搜寻",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T10:06:47Z"
+        "publishedAt": "2026-10-03T13:16:21Z"
       }
     ]
   }
