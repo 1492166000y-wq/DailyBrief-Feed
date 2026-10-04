@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-04",
-  "generatedAt": "2026-10-03T23:02:02Z",
+  "generatedAt": "2026-10-04T05:49:36Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内方面，亚运会中国代表团以169金收官创境外参赛最佳战绩，经济政策与产业动态持续引发关注；国际方面，巴西大选、中东冲突升级、乌克兰局势及美国非农数据等成为焦点。",
     "items": [
       {
-        "id": "5128efb300f268453a21",
-        "title": "中国队169金89银83铜",
-        "summary": "中国队亚运会以169金89银83铜收官，金牌榜遥遥领先",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C",
-        "publishedAt": "2026-10-03T23:02:02Z"
-      },
-      {
-        "id": "8c72a45140a64e790e09",
-        "title": "国庆假期第3日跨区域人员流动超3亿",
-        "summary": "国庆假期第3日跨区域人员流动超3亿人次，出行热度持续",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%AC%AC3%E6%97%A5%E8%B7%A8%E5%8C%BA%E5%9F%9F%E4%BA%BA%E5%91%98%E6%B5%81%E5%8A%A8%E8%B6%853%E4%BA%BF%23",
-        "publishedAt": "2026-10-03T23:02:02Z"
-      },
-      {
-        "id": "45adbddf492987d5a249",
-        "title": "东航再通报“空姐下跪道歉”事件：已向公安机关报案",
-        "summary": "东航再通报空姐下跪道歉事件，称已向公安机关报案",
+        "id": "e10d016c99414f8196ae",
+        "title": "169金89银83铜收官！中国队创境外参加亚运会最佳战绩",
+        "summary": "中国代表团以169金89银83铜收官，创境外参加亚运会最佳战绩。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34195679",
-        "publishedAt": "2026-10-03T23:02:02Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34195973",
+        "publishedAt": "2026-10-04T05:49:36Z"
       },
       {
-        "id": "8438da99315b637a9192",
-        "title": "人民日报评“空姐下跪道歉”：一味息事宁人，只会纵容无理者得寸进尺",
-        "summary": "人民日报评空姐下跪道歉：息事宁人只会纵容无理取闹",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34193872",
-        "publishedAt": "2026-10-03T23:02:02Z"
-      },
-      {
-        "id": "9492c916410b232afec1",
-        "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
-        "summary": "华为与赛力斯达成新五年合作，美股光通信存储芯片股爆发",
+        "id": "49819cf1b0a9a51b9988",
+        "title": "连续10天，《人民日报》刊发金轩署名文章",
+        "summary": "《人民日报》连续10天刊发金轩署名文章，引发舆论关注。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2497140",
-        "publishedAt": "2026-10-03T23:02:02Z"
+        "url": "https://www.cls.cn/detail/2497626",
+        "publishedAt": "2026-10-04T05:49:36Z"
       },
       {
-        "id": "298107f6004840942f2f",
-        "title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
-        "summary": "美国9月非农爆冷，美债收益率跌不动凸显华尔街担忧",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782957",
-        "publishedAt": "2026-10-03T23:02:02Z"
+        "id": "41107c574f467b5855b3",
+        "title": "【早报】外交部：中方欢迎普京总统出席APEC深圳峰会；商务部对原产于欧盟的进口对硝基甲苯发起反倾销调查",
+        "summary": "外交部欢迎普京出席APEC深圳峰会；商务部对欧盟对硝基甲苯发起反倾销调查。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2497600",
+        "publishedAt": "2026-10-04T05:49:36Z"
       },
       {
-        "id": "9d23524c3b7453a2078c",
-        "title": "机构高呼9月非农“杀死”10月加息预期！“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要",
-        "summary": "机构称9月非农杀死10月加息预期，新美联储通讯社唱反调",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782945",
-        "publishedAt": "2026-10-03T23:02:02Z"
+        "id": "380e973f010696b53ad3",
+        "title": "【早报】9月非农不及预期；G7将在4个月内释放至多1亿桶柴油和原油储备",
+        "summary": "9月非农不及预期；G7将在4个月内释放至多1亿桶柴油和原油储备。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2497453",
+        "publishedAt": "2026-10-04T05:49:36Z"
       },
       {
-        "id": "949dac3366d318f7eb11",
-        "title": "美股要“通宵”了！12月起迈入23小时交易时代",
-        "summary": "美股12月起迈入23小时交易时代，纽交所延长交易时段",
+        "id": "0e5c1775d32c1ada40fa",
+        "title": "中美俄领导人2022年后将首次同框",
+        "summary": "中美俄领导人自2022年后将首次同框，引发国际高度关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7692586204453326345/",
+        "publishedAt": "2026-10-04T05:49:36Z"
+      },
+      {
+        "id": "833aca309b9da21c2127",
+        "title": "加息预期骤变！美联储官员鹰派立场软化 又一大行“撕报告”",
+        "summary": "美联储官员鹰派立场软化，加息预期骤变，又一大行调整预测。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2497471",
+        "publishedAt": "2026-10-04T05:49:36Z"
+      },
+      {
+        "id": "feee3effffba43166dc1",
+        "title": "普京：很快所有人都得开中国车",
+        "summary": "普京表示很快所有人都得开中国车，凸显中国汽车产业影响力。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2497224",
+        "publishedAt": "2026-10-04T05:49:36Z"
+      },
+      {
+        "id": "04138f2961dc5173dcef",
+        "title": "9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来",
+        "summary": "9月AI债发行突然放缓，大摩判断四季度或卷土重来。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782956",
-        "publishedAt": "2026-10-03T23:02:02Z"
+        "url": "https://wallstreetcn.com/articles/3782964",
+        "publishedAt": "2026-10-04T05:49:36Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "全球关注巴西总统大选左右路线对决、乌克兰与俄罗斯相互袭击、中东也门冲突及沙特炼油厂遇袭、美国非农数据大幅低于预期、以及多国政治社会事件。",
     "items": [
+      {
+        "id": "2b146f52b140aeee1c99",
+        "title": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+        "summary": "巴西2026年总统大选开启，民调显示卢拉与博索纳罗之子势均力敌。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-03T17:26:00Z"
+      },
       {
         "id": "145f5bd86869df45c806",
         "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
-        "summary": "基辅与莫斯科互袭，俄军击中基辅第二座关键桥梁致5人死亡",
+        "summary": "基辅与莫斯科互袭，俄军击中基辅第二座关键桥梁致5人死亡。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
         "publishedAt": "2026-10-03T04:55:54Z"
       },
       {
-        "id": "f9d21a17ac93ee2ad027",
-        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-        "summary": "西班牙住房法案遭否决，马德里等城超50万人上街抗议",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T05:34:11Z"
-      },
-      {
         "id": "bb020e6689b9f92d70c5",
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "summary": "G7同意释放数百万桶石油和柴油储备，缓解柴油出口禁令冲击",
+        "summary": "G7同意释放数百万桶石油和柴油储备，以缓解柴油出口禁令冲击。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-02T20:38:31Z"
       },
       {
-        "id": "fc43dbc4072806c67546",
-        "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-        "summary": "阿联酋称迪拜航空副驾驶用斧头袭击机长，企图制造恐袭",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-        "publishedAt": "2026-10-03T03:56:46Z"
-      },
-      {
-        "id": "4db62d0322a2e03ada9e",
-        "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-        "summary": "巴西大选选情胶着，成拉美亲特朗普阵营重要试金石",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
-        "publishedAt": "2026-10-02T23:00:35Z"
-      },
-      {
-        "id": "c6f97f356bfebf2bb336",
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-        "summary": "田纳西州死囚处决失败后监狱主管辞职，独立调查启动",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T09:48:42Z"
-      },
-      {
-        "id": "7de95e28ff5592aa2361",
-        "title": "Latvia: Ruling party leads in exit polls amid populist gains",
-        "summary": "拉脱维亚执政党在出口民调中领先，民粹势力有所增长",
+        "id": "fc18f3b4746ebb90a8f6",
+        "title": "Germany's Merz arrives in Kyiv to pledge more support",
+        "summary": "德国总理默茨抵达基辅，承诺提供更多军事援助及联合生产拦截无人机。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-03T10:05:00Z"
+        "url": "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-03T21:40:00Z"
       },
       {
-        "id": "dc2c18b0bafda6070414",
-        "title": "Medical plane with 6 on board missing off Massachusetts coast",
-        "summary": "美国马萨诸塞州海岸一架医疗飞机失联，海岸警卫队搜寻",
+        "id": "42b3ef2603c3fe8e74fe",
+        "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+        "summary": "也门战事升级，胡塞武装袭击萨那，特朗普就伊朗问题警告德黑兰。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+        "publishedAt": "2026-10-03T16:00:29Z"
+      },
+      {
+        "id": "a6bcdab4200333dbb1da",
+        "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+        "summary": "埃塞俄比亚政府军称经一周激战后夺取提格雷州首府默克莱。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
+        "publishedAt": "2026-10-03T17:41:28Z"
+      },
+      {
+        "id": "1eac6bde685b8be4c5a7",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "summary": "阿联酋官员称迪拜航空副驾驶用斧头袭击机长，企图制造恐袭。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T13:16:21Z"
+        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T20:57:20Z"
+      },
+      {
+        "id": "50ba1b6f32fd5dd9c4a2",
+        "title": "West Indies beat India in record chase as Hope hits 162 in third ODI",
+        "summary": "Shai Hope's 162 leads the West Indies to a record cricket run chase as they beat",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
+        "publishedAt": "2026-10-03T21:28:38Z"
       }
     ]
   }
