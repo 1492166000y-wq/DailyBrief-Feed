@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-05",
-  "generatedAt": "2026-10-04T21:21:51Z",
+  "generatedAt": "2026-10-05T00:54:53Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内要闻聚焦亚运会闭幕、中美经贸磋商、市场前景等。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "ada778d77c9f0c4db22e",
-        "title": "第20届亚运会闭幕",
-        "summary": "第20届亚运会在杭州闭幕，中国代表团金牌榜居首。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692741633384795674/",
-        "publishedAt": "2026-10-04T21:21:51Z"
+        "id": "9e02080797ed81643e21",
+        "title": "中东战火恐升级！沙特炼厂突冒黑烟，据报将对胡塞武装展开大举反击",
+        "summary": "沙特炼厂冒黑烟，据报将对胡塞武装展开大举反击，中东战火恐升级。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3782972",
+        "publishedAt": "2026-10-05T00:54:53Z"
+      },
+      {
+        "id": "f2a0db0fb5ff33263a57",
+        "title": "日本罕见1天3次强烈抗议美国",
+        "summary": "日本一天内三次强烈抗议美国，涉驻日美军士兵涉嫌在冲绳劫杀女子事件。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%811%E5%A4%A93%E6%AC%A1%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE%E7%BE%8E%E5%9B%BD",
+        "publishedAt": "2026-10-05T00:54:53Z"
       },
       {
         "id": "49819cf1b0a9a51b9988",
         "title": "连续10天，《人民日报》刊发金轩署名文章",
-        "summary": "《人民日报》连续10天刊发金轩署名文章，阐述经济政策。",
+        "summary": "《人民日报》连续10天刊发金轩署名文章，引发外界对政策信号的关注。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2497626",
-        "publishedAt": "2026-10-04T21:21:51Z"
+        "publishedAt": "2026-10-05T00:54:53Z"
       },
       {
-        "id": "380e973f010696b53ad3",
-        "title": "【早报】9月非农不及预期；G7将在4个月内释放至多1亿桶柴油和原油储备",
-        "summary": "9月非农就业不及预期；G7将释放至多1亿桶战略储备。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2497453",
-        "publishedAt": "2026-10-04T21:21:51Z"
+        "id": "ff0db124644a15f6ea67",
+        "title": "“七项条件不落实，霍尔木兹海峡绝不重开”",
+        "summary": "伊朗称七项条件不落实霍尔木兹海峡绝不重开，全球油价面临上行压力。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8wy34tgN9Xn",
+        "publishedAt": "2026-10-05T00:54:53Z"
+      },
+      {
+        "id": "405ea5b8b0e36e23c4e1",
+        "title": "西双版纳景区用象粪做文创：卖得不错",
+        "summary": "西双版纳景区用象粪做文创产品，相关负责人称卖得不错，引发热议。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E6%99%AF%E5%8C%BA%E7%94%A8%E8%B1%A1%E7%B2%AA%E5%81%9A%E6%96%87%E5%88%9B%EF%BC%9A%E5%8D%96%E5%BE%97%E4%B8%8D%E9%94%99",
+        "publishedAt": "2026-10-05T00:54:53Z"
       },
       {
         "id": "41107c574f467b5855b3",
         "title": "【早报】外交部：中方欢迎普京总统出席APEC深圳峰会；商务部对原产于欧盟的进口对硝基甲苯发起反倾销调查",
-        "summary": "外交部欢迎普京出席APEC；商务部对欧盟发起反倾销调查。",
+        "summary": "外交部欢迎普京出席APEC深圳峰会，商务部对欧盟对硝基甲苯发起反倾销调查。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2497600",
-        "publishedAt": "2026-10-04T21:21:51Z"
+        "publishedAt": "2026-10-05T00:54:53Z"
       },
       {
-        "id": "2d93f1fb22bfff7e4159",
-        "title": "特朗普“AI沙皇”人选曝光",
-        "summary": "特朗普“AI沙皇”人选曝光，或影响美国科技政策走向。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wwrNBWlavW",
-        "publishedAt": "2026-10-04T21:21:51Z"
-      },
-      {
-        "id": "833aca309b9da21c2127",
-        "title": "加息预期骤变！美联储官员鹰派立场软化 又一大行“撕报告”",
-        "summary": "美联储官员鹰派立场软化，加息预期骤变，市场反应积极。",
+        "id": "038987b687ecc84f8cd0",
+        "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
+        "summary": "人形机器人进驻爱仕达百家终端门店，从门店上岗迈向产业实践。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2497471",
-        "publishedAt": "2026-10-04T21:21:51Z"
+        "url": "https://www.cls.cn/detail/2495303",
+        "publishedAt": "2026-10-05T00:54:53Z"
       },
       {
-        "id": "259f145b614c1cd261a4",
-        "title": "一向力挺AI的孙正义突然警告：超级智能可能“极其危险”",
-        "summary": "孙正义警告超级智能可能“极其危险”，引发AI安全讨论。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782987",
-        "publishedAt": "2026-10-04T21:21:51Z"
-      },
-      {
-        "id": "dde63c59288daaec2734",
-        "title": "马斯克宣布SpaceXAI将更名",
-        "summary": "马斯克宣布SpaceXAI将更名，或调整其人工智能战略。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8wx5J5c2AXr",
-        "publishedAt": "2026-10-04T21:21:51Z"
+        "id": "cae755ca551de64b0c72",
+        "title": "民进党用高压水炮对大陆渔船喷射90秒",
+        "summary": "民进党用高压水炮对大陆渔船喷射90秒，引发两岸关系紧张关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7691970275295805459/",
+        "publishedAt": "2026-10-05T00:54:53Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，巴西大选、美国AI人事、中东局势等成为关注焦点。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "7f40cacced6a59dc51f3",
-        "title": "Brazil election: Early count puts Bolsonaro ahead of Lula",
-        "summary": "巴西大选初步计票：博索纳罗领先卢拉，选情胶着。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-04T13:19:00Z"
+        "id": "08edd960ac34668031ba",
+        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "summary": "巴西大选首轮无人过半，右翼博索纳罗与卢拉将于10月25日进入第二轮对决。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-04T16:27:06Z"
       },
       {
-        "id": "a939c64339f63ef36b1b",
-        "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-        "summary": "特朗普任命情报总监克莱顿兼任白宫AI事务负责人。",
+        "id": "1e4943e2b86a917fdea7",
+        "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+        "summary": "也门沙特支持政府宣布发动军事行动，欲夺回全部胡塞武装控制领土。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-        "publishedAt": "2026-10-04T09:45:28Z"
+        "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
+        "publishedAt": "2026-10-04T16:38:54Z"
       },
       {
-        "id": "8faef6a10de484a84602",
-        "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-        "summary": "泽连斯基称乌克兰准备与俄罗斯进行美国支持的三方谈判。",
+        "id": "1ac7d80f44248014a70b",
+        "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+        "summary": "也门战事加剧，伊朗称已准备好应对美国袭击，中东局势持续紧张。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
-        "publishedAt": "2026-10-04T09:17:42Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+        "publishedAt": "2026-10-04T16:00:00Z"
       },
       {
         "id": "8c2ad01e75f5282afd23",
         "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-        "summary": "德国总理默茨突访基辅，宣布15亿美元援助并呼吁普京停战。",
+        "summary": "德国总理默茨突访基辅，宣布15亿美元援助并呼吁普京结束战争。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
         "publishedAt": "2026-10-04T08:38:45Z"
       },
       {
-        "id": "c8fad76f244e7a2bcfca",
-        "title": "Japan summons US envoy as marine arrested over Okinawa murder",
-        "summary": "日本就冲绳美军士兵涉嫌谋杀被捕一事召见美国大使抗议。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
-        "publishedAt": "2026-10-04T07:45:04Z"
+        "id": "a939c64339f63ef36b1b",
+        "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+        "summary": "特朗普任命情报总监克莱顿兼任白宫AI事务负责人，AI政策布局受关注。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+        "publishedAt": "2026-10-04T09:45:28Z"
       },
       {
         "id": "a38f750a27bdc3099a98",
         "title": "Iran says Hormuz to remain closed until US meets conditions",
-        "summary": "伊朗称美国不满足条件前霍尔木兹海峡将继续关闭，油价承压。",
+        "summary": "伊朗称美国不满足条件前霍尔木兹海峡将继续关闭，国际油价承压。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
         "publishedAt": "2026-10-04T03:11:30Z"
       },
       {
-        "id": "d736aadbfd757b556b62",
-        "title": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
-        "summary": "波黑塞族民族主义者多迪克宣布其政党在选举中获胜。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
-        "publishedAt": "2026-10-04T12:42:08Z"
+        "id": "c8fad76f244e7a2bcfca",
+        "title": "Japan summons US envoy as marine arrested over Okinawa murder",
+        "summary": "日本就冲绳美军士兵涉嫌谋杀被捕一事召见美国大使，提出正式抗议。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
+        "publishedAt": "2026-10-04T07:45:04Z"
       },
       {
-        "id": "57b7db790577472d9fcf",
-        "title": "France to shutter up to 500 schools as more student protests called",
-        "summary": "法国因学生抗议将关闭多达500所学校，教育部长称出于安全考虑。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
-        "publishedAt": "2026-10-04T11:41:04Z"
+        "id": "b5b606fe66a3b7ac8217",
+        "title": "Brazil votes, with Lula facing Bolsonaro's son",
+        "summary": "巴西大选投票，卢拉对阵博索纳罗之子，选情胶着将进入第二轮。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+        "publishedAt": "2026-10-04T13:52:09Z"
       }
     ]
   }
