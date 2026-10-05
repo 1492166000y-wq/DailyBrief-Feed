@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-05",
-  "generatedAt": "2026-10-05T09:01:37Z",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-05T19:17:30Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内关注：中方就日本诉求及冲绳美军案件对日交涉、普京出席深圳APEC峰会与商务部对欧反倾销立案、缅北电诈集团覆灭后续、华为高通专利协议与AI巨头风险警示、以及投资结构优化、大国重器进展等宏观产业动态。",
+    "overview": "国内聚焦缅北电诈集团覆灭与黄岩岛主权事件，同时关注诺奖揭晓、人民币资产与科技产业动态。",
     "items": [
       {
-        "id": "7377713fb069f919861a",
-        "title": "日本罕见1天3次向美国强烈抗议",
-        "summary": "日本一天三次向美方强烈抗议，涉及驻日美军相关事件，日美同盟摩擦升温。",
+        "id": "8e1c993216d5c7b83d0e",
+        "title": "中方10分钟收网缅北四大家族重要成员",
+        "summary": "中方10分钟内完成对缅北四大家族重要成员的收网行动。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692950590237756937/",
-        "publishedAt": "2026-10-05T09:01:37Z"
+        "url": "https://www.toutiao.com/trending/7693052468208992297/",
+        "publishedAt": "2026-10-05T19:17:30Z"
       },
       {
-        "id": "41107c574f467b5855b3",
-        "title": "【早报】外交部：中方欢迎普京总统出席APEC深圳峰会；商务部对原产于欧盟的进口对硝基甲苯发起反倾销调查",
-        "summary": "外交部称欢迎普京出席APEC深圳峰会，商务部对欧盟对硝基甲苯发起反倾销调查。",
+        "id": "b8b62cbaff63c84304fa",
+        "title": "视频丨菲律宾1架军机非法侵入中国黄岩岛领空，南部战区跟踪监视、警告驱离",
+        "summary": "菲律宾军机非法侵入黄岩岛领空，南部战区跟踪监视并警告驱离。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34202039",
+        "publishedAt": "2026-10-05T19:17:30Z"
+      },
+      {
+        "id": "49819cf1b0a9a51b9988",
+        "title": "连续10天，《人民日报》刊发金轩署名文章",
+        "summary": "《人民日报》连续10天刊发金轩署名文章，引发关注。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2497600",
-        "publishedAt": "2026-10-05T09:01:37Z"
+        "url": "https://www.cls.cn/detail/2497626",
+        "publishedAt": "2026-10-05T19:17:30Z"
       },
       {
-        "id": "db01f2447d56d8481fd0",
-        "title": "中方曾三次约见缅北四大家族代表",
-        "summary": "中方曾三次约见缅北四大家族代表，跨境电诈集团覆灭细节进一步公开。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692387862813265444/",
-        "publishedAt": "2026-10-05T09:01:37Z"
+        "id": "dbec921fbee2194840db",
+        "title": "2026年诺贝尔生理学或医学奖揭晓！",
+        "summary": "2026年诺贝尔生理学或医学奖揭晓，光遗传学三位科学家获奖。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8wyikZ4RM8b",
+        "publishedAt": "2026-10-05T19:17:30Z"
       },
       {
-        "id": "31594ad7873c84f00fa5",
-        "title": "被执行死刑的巫鸿明、白应苍出镜",
-        "summary": "缅北电诈头目巫鸿明、白应苍被执行死刑后出镜，涉案人员受到法律制裁。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692982754535358506/",
-        "publishedAt": "2026-10-05T09:01:37Z"
-      },
-      {
-        "id": "d8f498dcb30de69ac5bd",
-        "title": "华为与高通达成协议",
-        "summary": "华为与高通达成协议，涉及部分专利安排，牵动通信与芯片产业格局。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E9%AB%98%E9%80%9A%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-        "publishedAt": "2026-10-05T09:01:37Z"
-      },
-      {
-        "id": "259f145b614c1cd261a4",
-        "title": "一向力挺AI的孙正义突然警告：超级智能可能“极其危险”",
-        "summary": "孙正义警告超级智能可能极其危险，AI安全与治理再成焦点议题。",
+        "id": "ab73b2c76259fe65fa01",
+        "title": "华为与高通达成重磅专利许可协议，覆盖5G、AI与计算",
+        "summary": "华为与高通达成重磅专利许可协议，覆盖5G、AI与计算领域。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782987",
-        "publishedAt": "2026-10-05T09:01:37Z"
+        "url": "https://wallstreetcn.com/articles/3783008",
+        "publishedAt": "2026-10-05T19:17:30Z"
       },
       {
-        "id": "7a8c9ec7aef7ce9892ef",
-        "title": "今年以来我国投资结构优化持续推进",
-        "summary": "今年以来我国投资结构优化持续推进，高技术产业投资延续增长势头。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7693008121949896750/",
-        "publishedAt": "2026-10-05T09:01:37Z"
+        "id": "d2863d90ff39eb4efee5",
+        "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
+        "summary": "DeepSeek Harness国庆假期上新，90后负责人回应创新目标。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34200055",
+        "publishedAt": "2026-10-05T19:17:30Z"
       },
       {
-        "id": "5906398b6db9ae09bed0",
-        "title": "大国重器BEST、FAST公布最新消息",
-        "summary": "大国重器BEST、FAST公布最新进展，中国大科学装置建设稳步推进。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8BEST%E3%80%81FAST%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF",
-        "publishedAt": "2026-10-05T09:01:37Z"
+        "id": "f094316d3399607e30f9",
+        "title": "四川舰实现连续弹射起飞固定翼无人机 对中国海军意味着什么",
+        "summary": "四川舰实现连续弹射起飞固定翼无人机，引发海军能力关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2497700",
+        "publishedAt": "2026-10-05T19:17:30Z"
+      },
+      {
+        "id": "3056d4b20f44372e40e1",
+        "title": "【早报】特朗普宣布成立“超级智能特别工作组”；马斯克称“SpaceXAI”将更名为“SpaceXSI”",
+        "summary": "特朗普宣布成立超级智能特别工作组，马斯克称SpaceXAI将更名。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2497778",
+        "publishedAt": "2026-10-05T19:17:30Z"
       }
     ]
   },
   "global": {
-    "overview": "本期国际关注：西班牙因住房法案受挫宣布提前大选、巴西首轮选举博索纳罗与卢拉进入第二轮对决、特朗普设立超级智能工作组并任命AI负责人、德国总理突访基辅追加援助、也门政府对胡塞武装发动大规模攻势、中东石油出口恢复及俄乌冲突持续升级。",
+    "overview": "国际关注也门军事攻势、巴西大选首轮结果、欧洲政治经济风险及中东局势演变。",
     "items": [
-      {
-        "id": "f46782c7b9e654f004f4",
-        "title": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
-        "summary": "西班牙首相桑切斯宣布11月29日提前大选，因住房紧急法案遭议会否决。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
-        "publishedAt": "2026-10-05T00:28:17Z"
-      },
-      {
-        "id": "c387f9c7bfd07f42bf03",
-        "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
-        "summary": "巴西大选首轮无人过半，博索纳罗与卢拉将于10月25日进入第二轮对决。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-        "publishedAt": "2026-10-04T21:08:23Z"
-      },
-      {
-        "id": "7fddd45b60ed1b548623",
-        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-        "summary": "特朗普宣布成立“超级智能特别工作组”，任命情报总监牵头AI政策事务。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-04T22:15:29Z"
-      },
-      {
-        "id": "8c2ad01e75f5282afd23",
-        "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-        "summary": "德国总理默茨突访基辅，宣布15亿美元援助并呼吁普京结束战争。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-        "publishedAt": "2026-10-04T08:38:45Z"
-      },
       {
         "id": "1e4943e2b86a917fdea7",
         "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
-        "summary": "也门政府宣布对胡塞武装发动军事攻势，欲夺回其全部控制领土。",
+        "summary": "也门政府发动军事攻势，欲夺回胡塞武装全部控制领土。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
         "publishedAt": "2026-10-04T16:38:54Z"
       },
       {
-        "id": "023ae4434bb37cd030bb",
-        "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
-        "summary": "中东石油出口恢复至伊朗战争前水平，靠替代路线与船对船转运绕过霍尔木兹。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-04T21:35:00Z"
+        "id": "c387f9c7bfd07f42bf03",
+        "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
+        "summary": "巴西大选首轮无人过半，博索纳罗与卢拉将进入第二轮对决。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+        "publishedAt": "2026-10-04T21:08:23Z"
       },
       {
-        "id": "2ff20c89310e0c674295",
-        "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
-        "summary": "俄军以喷气式无人机袭击基辅桥梁，乌首都持续遭昼夜打击，冲突升级。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
-        "publishedAt": "2026-10-05T00:44:06Z"
-      },
-      {
-        "id": "eb37ca710802090538fe",
-        "title": "BT to buy broadband supplier TalkTalk in £400m rescue deal, saving 900 jobs",
-        "summary": "英国电信以4亿英镑收购破产的宽带商TalkTalk，保住约900个岗位。",
+        "id": "dc45431a75ef341a360a",
+        "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers from base",
+        "summary": "美国从英国基地撤走轰炸机，英方坚称基地安全。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/05/bt-buy-broadband-supplier-talktalk-jobs",
-        "publishedAt": "2026-10-05T00:14:37Z"
+        "url": "https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base",
+        "publishedAt": "2026-10-05T10:07:27Z"
+      },
+      {
+        "id": "dab5fe4844a86dfecdcd",
+        "title": "Spain calls snap election amid housing crisis",
+        "summary": "西班牙首相因住房危机宣布提前举行大选。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+        "publishedAt": "2026-10-05T09:27:14Z"
+      },
+      {
+        "id": "4df6513d724b178d150d",
+        "title": "Euro plummets against US dollar: has the next financial crisis begun?",
+        "summary": "欧元兑美元跌至17个月低点，市场担忧欧洲财政危机。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-05T06:28:00Z"
+      },
+      {
+        "id": "7fddd45b60ed1b548623",
+        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "summary": "特朗普宣布成立超级智能特别工作组，任命情报总监牵头AI政策。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-04T22:15:29Z"
+      },
+      {
+        "id": "1ca0dd2a8ab2a09ccec8",
+        "title": "Denmark: Data of millions compromised in hack",
+        "summary": "丹麦黑客入侵事件致约880万注册人口数据泄露。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-05T09:46:00Z"
+      },
+      {
+        "id": "a51dd23c6ef9d01588ee",
+        "title": "Iran’s oil minister resigns as country’s economic crisis worsens",
+        "summary": "伊朗石油部长在经济危机加剧之际辞职。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+        "publishedAt": "2026-10-05T06:16:14Z"
       }
     ]
   }
