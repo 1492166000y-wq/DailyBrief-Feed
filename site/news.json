@@ -1,127 +1,103 @@
 {
   "version": 1,
   "date": "2026-10-07",
-  "generatedAt": "2026-10-06T16:48:03Z",
+  "generatedAt": "2026-10-06T22:39:16Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于诺贝尔物理学奖揭晓、美债收益率飙升冲击全球借贷成本、国庆返程高峰与交通保障，以及缅北电诈打击进展；产业层面DeepSeek大额融资、楼市与MLCC订单回暖受关注。",
+    "overview": "国内要闻聚焦缅北电诈跨境打击、诺贝尔物理学奖揭晓、A股与美债等全球市场波动，以及国庆返程、消费扩容和一批大国重器等产业科技进展。",
     "items": [
       {
-        "id": "0f9d25660f9f1d6a21c0",
-        "title": "2026年诺贝尔物理学奖揭晓！",
-        "summary": "2026年诺贝尔物理学奖揭晓，获奖成果聚焦中微子天文学等前沿领域。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8x0OhL2UzhT",
-        "publishedAt": "2026-10-06T16:48:03Z"
+        "id": "e5672e1607e46ef3e2ac",
+        "title": "有10万民警赴中缅边境打击涉我犯罪",
+        "summary": "有10万民警赴中缅边境打击涉我犯罪，缅北电诈跨境打击行动持续深入推进。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7693322726240734766/",
+        "publishedAt": "2026-10-06T22:39:16Z"
       },
       {
         "id": "a3bcd0ed97f8bc270236",
         "title": "弗朗西斯·哈尔岑获2026年诺贝尔物理学奖",
-        "summary": "弗朗西斯·哈尔岑因主导南极“冰立方”中微子项目获2026年诺贝尔物理学奖。",
+        "summary": "弗朗西斯·哈尔岑获2026年诺贝尔物理学奖，因主导南极“冰立方”中微子项目。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34205378",
-        "publishedAt": "2026-10-06T16:48:03Z"
+        "publishedAt": "2026-10-06T22:39:16Z"
       },
       {
         "id": "8c74310f1fc6a909f342",
         "title": "临界点逼近：30年期美债收益率破6%“或在本月”，美国借贷成本将超越名义GDP",
-        "summary": "30年期美债收益率或本月破6%，美国借贷成本将首次超越名义GDP增速。",
+        "summary": "30年期美债收益率或在月内破6%，美国借贷成本将超越名义GDP，临界点逼近。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783051",
-        "publishedAt": "2026-10-06T16:48:03Z"
-      },
-      {
-        "id": "835895f0aa2ed6120d9b",
-        "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
-        "summary": "美股科技股普涨，纳指创收盘新高，美国10年期国债收益率创2002年以来新高。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498089",
-        "publishedAt": "2026-10-06T16:48:03Z"
-      },
-      {
-        "id": "8cfeb077ba1d301d8189",
-        "title": "缅北电诈头目当庭忏悔向中国人民道歉",
-        "summary": "缅北电诈头目当庭忏悔并向中国人民道歉，相关案件审理持续推进。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7693531438062489115/",
-        "publishedAt": "2026-10-06T16:48:03Z"
-      },
-      {
-        "id": "25dc42de36aca0dbd281",
-        "title": "中国民警：要让缅北电诈血债血还",
-        "summary": "中国民警表示要让缅北电诈分子血债血还，坚决打击跨境犯罪。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692711071282515499/",
-        "publishedAt": "2026-10-06T16:48:03Z"
+        "publishedAt": "2026-10-06T22:39:16Z"
       },
       {
         "id": "0e8632ab4a8833667452",
         "title": "国庆返程高峰来了！尾灯红成一片",
-        "summary": "国庆假期返程高峰来临，全国多地高速车流密集、尾灯连成一片。",
+        "summary": "国庆返程高峰到来，高速公路尾灯红成一片，交通部门增运力优服务应对。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E6%9D%A5%E4%BA%86%EF%BC%81%E5%B0%BE%E7%81%AF%E7%BA%A2%E6%88%90%E4%B8%80%E7%89%87",
-        "publishedAt": "2026-10-06T16:48:03Z"
+        "publishedAt": "2026-10-06T22:39:16Z"
       },
       {
-        "id": "68f1b31451fb79317d99",
-        "title": "交通运输部：预计10月7日全国高速公路有37个路段易发拥堵、58个服务区充电特别繁忙",
-        "summary": "交通运输部预计10月7日37个高速路段易拥堵、58个服务区充电紧张。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34205616",
-        "publishedAt": "2026-10-06T16:48:03Z"
+        "id": "00e0bddb5d6a2ad55ec1",
+        "title": "我国消费市场保持扩容提质发展态势",
+        "summary": "我国消费市场保持扩容提质发展态势，内需潜力持续释放支撑经济增长。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7693432144416849947/",
+        "publishedAt": "2026-10-06T22:39:16Z"
+      },
+      {
+        "id": "9998cc8dc975b268e163",
+        "title": "一批大国重器与重点工程迎来新突破",
+        "summary": "一批大国重器与重点工程迎来新突破，产业与科技自主创新加速推进。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8E%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E6%96%B0%E7%AA%81%E7%A0%B4",
+        "publishedAt": "2026-10-06T22:39:16Z"
+      },
+      {
+        "id": "0bcaa07580840f6f28dc",
+        "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
+        "summary": "报道称DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783055",
+        "publishedAt": "2026-10-06T22:39:16Z"
+      },
+      {
+        "id": "073258d593b086b394ff",
+        "title": "三星电机再获2800亿韩元MLCC大单，行业涨价缺货仍在延续，这些公司是三星电机上游供应商",
+        "summary": "三星电机再获2800亿韩元MLCC大单，行业涨价缺货延续，A股上游供应商受益。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2498156",
+        "publishedAt": "2026-10-06T22:39:16Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，德国选择党首次赢得州议会议长职位、法国学生抗议升级、特朗普涉伊朗言论引发共和党内批评，以及以色列与英国领事馆争端、俄乌黑海袭击等安全议题持续发酵。",
+    "overview": "国际要闻以美债收益率创新高引发的全球债市冲击、法国学生抗议、德国极右翼首次当选州议长与前情报局长涉间谍案，以及红海和中东局势升级为主线。",
     "items": [
       {
-        "id": "51bc74b8f8c47d996f5f",
-        "title": "AfD candidate elected speaker of German regional parliament for first time",
-        "summary": "德国选择党候选人首次当选州议会议长，被视为极右翼的历史性突破。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-06T06:44:03Z"
+        "id": "4725e4878fa3a978802c",
+        "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live",
+        "summary": "无党派报告上调民主党在关键参议院选区的胜算，中期选举格局生变。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+        "publishedAt": "2026-10-06T14:29:21Z"
+      },
+      {
+        "id": "b677772fa26cfb2190ab",
+        "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+        "summary": "法国警方对学生抗议发射催泪瓦斯和水炮，全国超25万人集会，数千人被捕。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+        "publishedAt": "2026-10-06T10:05:44Z"
       },
       {
         "id": "74a0f21378a010806a31",
         "title": "State parliament elects Germany’s first far-right speaker since second world war",
-        "summary": "德国萨安州议会选出二战后首位极右翼议长，引发广泛争议。",
+        "summary": "德国萨安州议会选出二战后首位极右翼议长，引发广泛争议与警惕。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
         "publishedAt": "2026-10-06T07:38:58Z"
-      },
-      {
-        "id": "759fffa22602a2be8668",
-        "title": "France protests: What we know as schools face nationwide action",
-        "summary": "法国学生抗议进入第三周，数百所学校停课，示威者与警方冲突。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss",
-        "publishedAt": "2026-10-06T06:22:36Z"
-      },
-      {
-        "id": "552ce5e5748c9395ae45",
-        "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-        "summary": "巴黎学生抗议警暴与政治失能，称这是“国家暴力”，多起调查启动。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
-        "publishedAt": "2026-10-06T08:23:12Z"
-      },
-      {
-        "id": "ab6fc3bf710b8e6bddf7",
-        "title": "Trump’s suggestion that Iran could ‘take out’ LA or San Diego draws Republican rebuke",
-        "summary": "特朗普称伊朗可“摧毁”洛杉矶或圣迭戈，遭共和党候选人公开批评。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego",
-        "publishedAt": "2026-10-06T07:39:22Z"
-      },
-      {
-        "id": "c287574f969b51d4c60b",
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "summary": "白宫为特朗普涉伊朗言论辩护，称其意在警告伊朗核风险。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-06T08:22:37Z"
       },
       {
         "id": "4acc1c57f5ea407f15f0",
@@ -132,12 +108,36 @@
         "publishedAt": "2026-10-06T04:52:28Z"
       },
       {
-        "id": "6d32d32354fb9a36ace2",
-        "title": "Germany is shaken by an espionage and treason scandal",
-        "summary": "德国爆发间谍与叛国丑闻，前联邦情报局局长被指为外国从事间谍活动。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-is-shaken-by-an-espionage-and-treason-scandal/a-79566578?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-06T06:45:00Z"
+        "id": "b902648b500d5571dbe6",
+        "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+        "summary": "也门冲突升级，胡塞武装与沙特领导部队各自宣称战果，机场遭袭。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
+        "publishedAt": "2026-10-06T13:57:03Z"
+      },
+      {
+        "id": "c287574f969b51d4c60b",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "summary": "白宫为特朗普“让伊朗摧毁洛杉矶”言论辩护，称其意在警告核风险。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-06T12:15:31Z"
+      },
+      {
+        "id": "6b7b17ff7122c08b7abe",
+        "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
+        "summary": "美国死囚派克在拙劣处决后幸存，律师称其已清醒并能说话，仍在医院受治。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
+        "publishedAt": "2026-10-06T14:14:02Z"
+      },
+      {
+        "id": "019f43b536a94b17020d",
+        "title": "Tropical depression in Gulf predicted to be Atlantic season’s first hurricane",
+        "summary": "First hurricane of the season has not formed this late since 1905 as scientists ",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/06/tropical-depression-gulf-hurricane",
+        "publishedAt": "2026-10-06T14:28:20Z"
       }
     ]
   }
