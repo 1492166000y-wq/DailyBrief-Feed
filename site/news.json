@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-06",
-  "generatedAt": "2026-10-06T08:57:25Z",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-06T16:48:03Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦中缅边境执法与电诈覆灭纪实、诺贝尔生理学或医学奖揭晓、国庆返程交通保障，以及中美金融与科技产业动态。",
+    "overview": "今日国内焦点集中于诺贝尔物理学奖揭晓、美债收益率飙升冲击全球借贷成本、国庆返程高峰与交通保障，以及缅北电诈打击进展；产业层面DeepSeek大额融资、楼市与MLCC订单回暖受关注。",
     "items": [
       {
-        "id": "1cd13c13503baaff8679",
-        "title": "神经科学新时代开启！2026年诺贝尔医学奖揭晓：三位“光遗传学”科学家获奖",
-        "summary": "2026年诺贝尔生理学或医学奖授予三位光遗传学科学家，开启神经科学新时代。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783017",
-        "publishedAt": "2026-10-06T08:57:25Z"
+        "id": "0f9d25660f9f1d6a21c0",
+        "title": "2026年诺贝尔物理学奖揭晓！",
+        "summary": "2026年诺贝尔物理学奖揭晓，获奖成果聚焦中微子天文学等前沿领域。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8x0OhL2UzhT",
+        "publishedAt": "2026-10-06T16:48:03Z"
       },
       {
-        "id": "b8b62cbaff63c84304fa",
-        "title": "视频丨菲律宾1架军机非法侵入中国黄岩岛领空，南部战区跟踪监视、警告驱离",
-        "summary": "菲律宾军机非法侵入中国黄岩岛领空，南部战区组织跟踪监视并警告驱离。",
+        "id": "a3bcd0ed97f8bc270236",
+        "title": "弗朗西斯·哈尔岑获2026年诺贝尔物理学奖",
+        "summary": "弗朗西斯·哈尔岑因主导南极“冰立方”中微子项目获2026年诺贝尔物理学奖。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34202039",
-        "publishedAt": "2026-10-06T08:57:25Z"
-      },
-      {
-        "id": "e5672e1607e46ef3e2ac",
-        "title": "有10万民警赴中缅边境打击涉我犯罪",
-        "summary": "10万民警赴中缅边境打击涉我犯罪，缅北电诈覆灭纪实同步播出。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7693322726240734766/",
-        "publishedAt": "2026-10-06T08:57:25Z"
-      },
-      {
-        "id": "8d9bc5c54af488016c2f",
-        "title": "专家建议把存量财富拿出给居民消费",
-        "summary": "专家建议把存量财富拿出来给居民消费，引发对扩大内需路径的讨论。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%AD%98%E9%87%8F%E8%B4%A2%E5%AF%8C%E6%8B%BF%E5%87%BA%E7%BB%99%E5%B1%85%E6%B0%91%E6%B6%88%E8%B4%B9",
-        "publishedAt": "2026-10-06T08:57:25Z"
-      },
-      {
-        "id": "f52a981275625c859f18",
-        "title": "复刻“半导体时刻”？AI制药版的“瓶颈交易”正在成形，谁是下一个“卖铲人”",
-        "summary": "AI制药版“瓶颈交易”正在成形，业界寻找下一个“卖铲人”。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783019",
-        "publishedAt": "2026-10-06T08:57:25Z"
-      },
-      {
-        "id": "038987b687ecc84f8cd0",
-        "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
-        "summary": "人形机器人进驻爱仕达百家终端，从门店上岗走向产业实践。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2495303",
-        "publishedAt": "2026-10-06T08:57:25Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34205378",
+        "publishedAt": "2026-10-06T16:48:03Z"
       },
       {
         "id": "8c74310f1fc6a909f342",
         "title": "临界点逼近：30年期美债收益率破6%“或在本月”，美国借贷成本将超越名义GDP",
-        "summary": "市场警示30年期美债收益率或本月破6%，美国借贷成本将超名义GDP。",
+        "summary": "30年期美债收益率或本月破6%，美国借贷成本将首次超越名义GDP增速。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783051",
-        "publishedAt": "2026-10-06T08:57:25Z"
+        "publishedAt": "2026-10-06T16:48:03Z"
       },
       {
-        "id": "e3834ad1ca92d33f9cea",
-        "title": "今日全国高速有44个路段易发拥堵",
-        "summary": "国庆返程高峰，全国高速44个路段易发拥堵，交通部门强化保障。",
+        "id": "835895f0aa2ed6120d9b",
+        "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
+        "summary": "美股科技股普涨，纳指创收盘新高，美国10年期国债收益率创2002年以来新高。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2498089",
+        "publishedAt": "2026-10-06T16:48:03Z"
+      },
+      {
+        "id": "8cfeb077ba1d301d8189",
+        "title": "缅北电诈头目当庭忏悔向中国人民道歉",
+        "summary": "缅北电诈头目当庭忏悔并向中国人民道歉，相关案件审理持续推进。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692993604423794726/",
-        "publishedAt": "2026-10-06T08:57:25Z"
+        "url": "https://www.toutiao.com/trending/7693531438062489115/",
+        "publishedAt": "2026-10-06T16:48:03Z"
+      },
+      {
+        "id": "25dc42de36aca0dbd281",
+        "title": "中国民警：要让缅北电诈血债血还",
+        "summary": "中国民警表示要让缅北电诈分子血债血还，坚决打击跨境犯罪。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7692711071282515499/",
+        "publishedAt": "2026-10-06T16:48:03Z"
+      },
+      {
+        "id": "0e8632ab4a8833667452",
+        "title": "国庆返程高峰来了！尾灯红成一片",
+        "summary": "国庆假期返程高峰来临，全国多地高速车流密集、尾灯连成一片。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0%E6%9D%A5%E4%BA%86%EF%BC%81%E5%B0%BE%E7%81%AF%E7%BA%A2%E6%88%90%E4%B8%80%E7%89%87",
+        "publishedAt": "2026-10-06T16:48:03Z"
+      },
+      {
+        "id": "68f1b31451fb79317d99",
+        "title": "交通运输部：预计10月7日全国高速公路有37个路段易发拥堵、58个服务区充电特别繁忙",
+        "summary": "交通运输部预计10月7日37个高速路段易拥堵、58个服务区充电紧张。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34205616",
+        "publishedAt": "2026-10-06T16:48:03Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，特朗普AI政策与民调走低、也门战事与红海局势、巴西大选与魁北克独立议题、俄罗斯疫情及欧洲财政风险受关注。",
+    "overview": "国际方面，德国选择党首次赢得州议会议长职位、法国学生抗议升级、特朗普涉伊朗言论引发共和党内批评，以及以色列与英国领事馆争端、俄乌黑海袭击等安全议题持续发酵。",
     "items": [
       {
-        "id": "7fddd45b60ed1b548623",
-        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-        "summary": "特朗普宣布成立“超级智能特别工作组”，由情报总监牵头协调AI政策。",
+        "id": "51bc74b8f8c47d996f5f",
+        "title": "AfD candidate elected speaker of German regional parliament for first time",
+        "summary": "德国选择党候选人首次当选州议会议长，被视为极右翼的历史性突破。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-04T22:15:29Z"
+        "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-06T06:44:03Z"
       },
       {
-        "id": "b8f98c42008df42f975f",
-        "title": "Trump approval ratings plummet to new low, polls show",
-        "summary": "民调显示特朗普支持率跌至32%的历史新低，本人仍称“我做得很好”。",
+        "id": "74a0f21378a010806a31",
+        "title": "State parliament elects Germany’s first far-right speaker since second world war",
+        "summary": "德国萨安州议会选出二战后首位极右翼议长，引发广泛争议。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/05/donald-trump-approval-ratings",
-        "publishedAt": "2026-10-05T14:15:40Z"
+        "url": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
+        "publishedAt": "2026-10-06T07:38:58Z"
       },
       {
-        "id": "22eaaa134db5cbe67227",
-        "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
-        "summary": "也门亲政府武装夺回曼德海峡战略港口摩卡，土耳其与巴基斯坦同意向沙特部署军队。",
+        "id": "759fffa22602a2be8668",
+        "title": "France protests: What we know as schools face nationwide action",
+        "summary": "法国学生抗议进入第三周，数百所学校停课，示威者与警方冲突。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
-        "publishedAt": "2026-10-05T16:00:00Z"
+        "url": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss",
+        "publishedAt": "2026-10-06T06:22:36Z"
       },
       {
-        "id": "393f4b109409ee6eda8c",
-        "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-        "summary": "巴西右翼候选人弗拉维奥·博索纳罗爆冷赢得首轮，将与卢拉进入第二轮对决。",
+        "id": "552ce5e5748c9395ae45",
+        "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+        "summary": "巴黎学生抗议警暴与政治失能，称这是“国家暴力”，多起调查启动。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+        "publishedAt": "2026-10-06T08:23:12Z"
+      },
+      {
+        "id": "ab6fc3bf710b8e6bddf7",
+        "title": "Trump’s suggestion that Iran could ‘take out’ LA or San Diego draws Republican rebuke",
+        "summary": "特朗普称伊朗可“摧毁”洛杉矶或圣迭戈，遭共和党候选人公开批评。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego",
+        "publishedAt": "2026-10-06T07:39:22Z"
+      },
+      {
+        "id": "c287574f969b51d4c60b",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "summary": "白宫为特朗普涉伊朗言论辩护，称其意在警告伊朗核风险。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-05T15:19:14Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-06T08:22:37Z"
       },
       {
-        "id": "13b1e09056a23339ac3b",
-        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-        "summary": "魁北克分离主义政党赢得省选，承诺未来举行独立公投，考验加拿大统一。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-05T18:37:46Z"
-      },
-      {
-        "id": "989262fa39f34405e87b",
-        "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
-        "summary": "俄罗斯西伯利亚一实验室人员疑因肺鼠疫死亡，约200名接触者被监测，美方愿援助。",
+        "id": "4acc1c57f5ea407f15f0",
+        "title": "Former German spy chief arrested on suspicion of treason and espionage",
+        "summary": "德国前情报局长汉宁因涉嫌叛国和间谍活动被捕，其幕僚长同案被拘。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
-        "publishedAt": "2026-10-05T13:03:21Z"
+        "url": "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage?traffic_source=rss",
+        "publishedAt": "2026-10-06T04:52:28Z"
       },
       {
-        "id": "4df6513d724b178d150d",
-        "title": "Euro plummets against US dollar: has the next financial crisis begun?",
-        "summary": "欧元兑美元跌至17个月低点，市场担忧欧洲财政危机与新一轮金融风险。",
+        "id": "6d32d32354fb9a36ace2",
+        "title": "Germany is shaken by an espionage and treason scandal",
+        "summary": "德国爆发间谍与叛国丑闻，前联邦情报局局长被指为外国从事间谍活动。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-05T06:28:00Z"
-      },
-      {
-        "id": "4a67d31d85714f9ab6fb",
-        "title": "OpenAI to reiterate apology to Australia over Medicare hack as inquiry told artists risk becoming ‘roadkill’",
-        "summary": "OpenAI将在澳大利亚议会委员会上再次就Medicare数据泄露事件道歉。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
-        "publishedAt": "2026-10-05T16:53:48Z"
+        "url": "https://www.dw.com/en/germany-is-shaken-by-an-espionage-and-treason-scandal/a-79566578?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-06T06:45:00Z"
       }
     ]
   }
