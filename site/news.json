@@ -1,103 +1,87 @@
 {
   "version": 1,
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T01:17:58Z",
+  "generatedAt": "2026-10-06T08:57:25Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中在缅北电诈跨国打击的阶段性成果、南海黄岩岛主权反制、诺贝尔奖与光遗传学前沿、以及美债与科技股带动下的全球市场波动；同时华为与高通达成5G、AI专利许可成为产业界重头。",
+    "overview": "国内要闻聚焦中缅边境执法与电诈覆灭纪实、诺贝尔生理学或医学奖揭晓、国庆返程交通保障，以及中美金融与科技产业动态。",
     "items": [
+      {
+        "id": "1cd13c13503baaff8679",
+        "title": "神经科学新时代开启！2026年诺贝尔医学奖揭晓：三位“光遗传学”科学家获奖",
+        "summary": "2026年诺贝尔生理学或医学奖授予三位光遗传学科学家，开启神经科学新时代。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783017",
+        "publishedAt": "2026-10-06T08:57:25Z"
+      },
       {
         "id": "b8b62cbaff63c84304fa",
         "title": "视频丨菲律宾1架军机非法侵入中国黄岩岛领空，南部战区跟踪监视、警告驱离",
-        "summary": "菲律宾一架军机非法侵入中国黄岩岛领空，南部战区组织跟踪监视并警告驱离。",
+        "summary": "菲律宾军机非法侵入中国黄岩岛领空，南部战区组织跟踪监视并警告驱离。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34202039",
-        "publishedAt": "2026-10-06T01:17:58Z"
-      },
-      {
-        "id": "08897a541c7b4053a68b",
-        "title": "缅北电诈覆灭纪实第一集：10·20枪击案成“四大家族”穷途末路的开始",
-        "summary": "缅北电诈覆灭纪实披露10·20枪击案，成为四大家族穷途末路的起点。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34202174",
-        "publishedAt": "2026-10-06T01:17:58Z"
+        "publishedAt": "2026-10-06T08:57:25Z"
       },
       {
         "id": "e5672e1607e46ef3e2ac",
         "title": "有10万民警赴中缅边境打击涉我犯罪",
-        "summary": "报道称约10万民警赴中缅边境打击涉我犯罪，跨境执法规模引发关注。",
+        "summary": "10万民警赴中缅边境打击涉我犯罪，缅北电诈覆灭纪实同步播出。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7693322726240734766/",
-        "publishedAt": "2026-10-06T01:17:58Z"
+        "publishedAt": "2026-10-06T08:57:25Z"
       },
       {
-        "id": "1cd13c13503baaff8679",
-        "title": "神经科学新时代开启！2026年诺贝尔医学奖揭晓：三位“光遗传学”科学家获奖",
-        "summary": "2026年诺贝尔生理学或医学奖揭晓，三位光遗传学科学家获奖，神经科学开启新时代。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783017",
-        "publishedAt": "2026-10-06T01:17:58Z"
+        "id": "8d9bc5c54af488016c2f",
+        "title": "专家建议把存量财富拿出给居民消费",
+        "summary": "专家建议把存量财富拿出来给居民消费，引发对扩大内需路径的讨论。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%AD%98%E9%87%8F%E8%B4%A2%E5%AF%8C%E6%8B%BF%E5%87%BA%E7%BB%99%E5%B1%85%E6%B0%91%E6%B6%88%E8%B4%B9",
+        "publishedAt": "2026-10-06T08:57:25Z"
       },
       {
-        "id": "ead97fb91aa861f41c0d",
-        "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
-        "summary": "科技股力挺纳指创盘中新高，美债抛售持续，欧元创17个月新低，布油大幅波动。",
+        "id": "f52a981275625c859f18",
+        "title": "复刻“半导体时刻”？AI制药版的“瓶颈交易”正在成形，谁是下一个“卖铲人”",
+        "summary": "AI制药版“瓶颈交易”正在成形，业界寻找下一个“卖铲人”。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782996",
-        "publishedAt": "2026-10-06T01:17:58Z"
+        "url": "https://wallstreetcn.com/articles/3783019",
+        "publishedAt": "2026-10-06T08:57:25Z"
       },
       {
-        "id": "e91f38d7fba969577461",
-        "title": "一半的股票已进入熊市！美股走到“十字路口”，关键看美债波动率",
-        "summary": "约一半美股已进入熊市，美股走到十字路口，后市关键看美债波动率。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782997",
-        "publishedAt": "2026-10-06T01:17:58Z"
+        "id": "038987b687ecc84f8cd0",
+        "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
+        "summary": "人形机器人进驻爱仕达百家终端，从门店上岗走向产业实践。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2495303",
+        "publishedAt": "2026-10-06T08:57:25Z"
       },
       {
-        "id": "ab73b2c76259fe65fa01",
-        "title": "华为与高通达成重磅专利许可协议，覆盖5G、AI与计算",
-        "summary": "华为与高通达成重磅专利许可协议，覆盖5G、AI与计算领域。",
+        "id": "8c74310f1fc6a909f342",
+        "title": "临界点逼近：30年期美债收益率破6%“或在本月”，美国借贷成本将超越名义GDP",
+        "summary": "市场警示30年期美债收益率或本月破6%，美国借贷成本将超名义GDP。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783008",
-        "publishedAt": "2026-10-06T01:17:58Z"
+        "url": "https://wallstreetcn.com/articles/3783051",
+        "publishedAt": "2026-10-06T08:57:25Z"
       },
       {
-        "id": "78ccefaedc90f06ab13a",
-        "title": "巴西资产大涨，大选首轮小博纳索罗“意外领先”卢拉，右翼东山再起、降息将至？",
-        "summary": "巴西资产大涨，大选首轮小博索纳罗意外领先卢拉，右翼势力东山再起。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3782995",
-        "publishedAt": "2026-10-06T01:17:58Z"
+        "id": "e3834ad1ca92d33f9cea",
+        "title": "今日全国高速有44个路段易发拥堵",
+        "summary": "国庆返程高峰，全国高速44个路段易发拥堵，交通部门强化保障。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7692993604423794726/",
+        "publishedAt": "2026-10-06T08:57:25Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，也门政府军在曼德海峡方向对胡塞武装发起攻势、巴西大选首轮爆冷进入第二轮、特朗普支持率创新低并调整AI与广告争议政策、以及俄罗斯西伯利亚疑似肺鼠疫死亡事件引发关注。",
+    "overview": "国际方面，特朗普AI政策与民调走低、也门战事与红海局势、巴西大选与魁北克独立议题、俄罗斯疫情及欧洲财政风险受关注。",
     "items": [
       {
-        "id": "3bf6480edc5016612db1",
-        "title": "Yemeni military says it has 'secured' Red Sea waterway",
-        "summary": "也门军方称已确保红海航道安全，但各方对是否夺取摩卡港说法矛盾。",
+        "id": "7fddd45b60ed1b548623",
+        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "summary": "特朗普宣布成立“超级智能特别工作组”，由情报总监牵头协调AI政策。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-05T17:05:00Z"
-      },
-      {
-        "id": "22eaaa134db5cbe67227",
-        "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
-        "summary": "也门亲政府武装从胡塞武装手中夺回曼德海峡战略港口摩卡，土耳其与巴基斯坦同意向沙特部署军队。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
-        "publishedAt": "2026-10-05T16:00:00Z"
-      },
-      {
-        "id": "393f4b109409ee6eda8c",
-        "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-        "summary": "巴西右翼候选人弗拉维奥·博索纳罗爆冷赢得首轮，将与卢拉进入10月25日第二轮对决。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-05T15:19:14Z"
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-04T22:15:29Z"
       },
       {
         "id": "b8f98c42008df42f975f",
@@ -108,36 +92,52 @@
         "publishedAt": "2026-10-05T14:15:40Z"
       },
       {
-        "id": "7fddd45b60ed1b548623",
-        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-        "summary": "特朗普宣布成立“超级智能特别工作组”，由情报总监牵头协调AI政策。",
+        "id": "22eaaa134db5cbe67227",
+        "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+        "summary": "也门亲政府武装夺回曼德海峡战略港口摩卡，土耳其与巴基斯坦同意向沙特部署军队。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
+        "publishedAt": "2026-10-05T16:00:00Z"
+      },
+      {
+        "id": "393f4b109409ee6eda8c",
+        "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+        "summary": "巴西右翼候选人弗拉维奥·博索纳罗爆冷赢得首轮，将与卢拉进入第二轮对决。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-04T22:15:29Z"
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-05T15:19:14Z"
+      },
+      {
+        "id": "13b1e09056a23339ac3b",
+        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+        "summary": "魁北克分离主义政党赢得省选，承诺未来举行独立公投，考验加拿大统一。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-05T18:37:46Z"
       },
       {
         "id": "989262fa39f34405e87b",
         "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
-        "summary": "俄罗斯西伯利亚一名实验室人员疑因肺鼠疫死亡，医院被隔离、约200名接触者被监测，美方表态愿提供援助。",
+        "summary": "俄罗斯西伯利亚一实验室人员疑因肺鼠疫死亡，约200名接触者被监测，美方愿援助。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
         "publishedAt": "2026-10-05T13:03:21Z"
       },
       {
-        "id": "4a67d31d85714f9ab6fb",
-        "title": "OpenAI to reiterate apology to Australia over Medicare hack as inquiry told artists risk becoming ‘roadkill’",
-        "summary": "OpenAI将在澳大利亚议会委员会上再次就Medicare数据泄露事件道歉，承认重建信任仍需努力。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
-        "publishedAt": "2026-10-05T16:53:48Z"
-      },
-      {
         "id": "4df6513d724b178d150d",
         "title": "Euro plummets against US dollar: has the next financial crisis begun?",
-        "summary": "欧元兑美元跌至17个月低点，市场担忧欧洲财政危机，有声音质疑新一轮金融危机是否开始。",
+        "summary": "欧元兑美元跌至17个月低点，市场担忧欧洲财政危机与新一轮金融风险。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-05T06:28:00Z"
+      },
+      {
+        "id": "4a67d31d85714f9ab6fb",
+        "title": "OpenAI to reiterate apology to Australia over Medicare hack as inquiry told artists risk becoming ‘roadkill’",
+        "summary": "OpenAI将在澳大利亚议会委员会上再次就Medicare数据泄露事件道歉。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
+        "publishedAt": "2026-10-05T16:53:48Z"
       }
     ]
   }
