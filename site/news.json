@@ -1,135 +1,127 @@
 {
   "version": 1,
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-07T13:19:12Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-07T19:59:05Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内要闻聚焦缅北电诈打击进展、中国央行连续增持黄金、诺贝尔化学奖揭晓、OpenAI数学突破、AI芯片与核电合作等科技产业动态，以及A股策略和半导体涨价周期。",
+    "overview": "国庆假期收官，A股与宏观政策走向受关注；科技领域AI数学突破与诺奖揭晓引发热议；国乒赛事及体育饭圈治理成为公共话题。",
     "items": [
       {
-        "id": "ee43edfce40aacb5872f",
-        "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
-        "summary": "特朗普称对伊军事行动需收尾，中国央行连续第23个月增持黄金，假期要闻汇总。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498581",
-        "publishedAt": "2026-10-07T13:19:12Z"
-      },
-      {
-        "id": "4376b2bd108211d08f53",
-        "title": "中国央行连续第23个月增持黄金，9月购金节奏进一步加快",
-        "summary": "中国央行连续第23个月增持黄金，9月购金节奏进一步加快。",
+        "id": "d77bfb0556d176f87226",
+        "title": "美债重启抛售、收益率创2002年来新高，美股高位承压，早盘道指跌超1%，布油盘中涨2%",
+        "summary": "美债遭抛售，收益率创2002年来新高，美股承压，道指早盘跌超1%，布油涨2%。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783099",
-        "publishedAt": "2026-10-07T13:19:12Z"
-      },
-      {
-        "id": "3459960797a5781ab057",
-        "title": "2026年诺贝尔化学奖揭晓！",
-        "summary": "2026年诺贝尔化学奖揭晓，表彰在不对称分子研究领域的突破性贡献。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8x23HKFeP0P",
-        "publishedAt": "2026-10-07T13:19:12Z"
-      },
-      {
-        "id": "57267e8d490d565674c9",
-        "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
-        "summary": "OpenAI一夜攻克722个数学难题，准黎曼猜想已被证明，引发数学界震动。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783101",
-        "publishedAt": "2026-10-07T13:19:12Z"
-      },
-      {
-        "id": "665a6df9a2b5d4a78bd4",
-        "title": "谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营",
-        "summary": "谷歌签下科技史上最大核能协议，3590兆瓦锁定20年，Gemini嵌入能源运营。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783087",
-        "publishedAt": "2026-10-07T13:19:12Z"
-      },
-      {
-        "id": "2effc43e3e6466d7fa4c",
-        "title": "苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
-        "summary": "AMD苏姿丰称AI芯片需求非常旺盛，公司将持续大幅扩产。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498239",
-        "publishedAt": "2026-10-07T13:19:12Z"
+        "url": "https://wallstreetcn.com/articles/3783096",
+        "publishedAt": "2026-10-07T19:59:05Z"
       },
       {
         "id": "63881723d9dbeda501cf",
         "title": "国庆假期后A股市场怎么走？十大券商策略来了",
-        "summary": "国庆假期后A股市场怎么走？十大券商策略出炉，为投资者提供参考。",
+        "summary": "国庆假期后A股走势受关注，十大券商发布策略研判。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2498701",
-        "publishedAt": "2026-10-07T13:19:12Z"
+        "publishedAt": "2026-10-07T19:59:05Z"
       },
       {
-        "id": "3d467b736f9035bf6834",
-        "title": "DRAM迎超级成长周期 传南亚科计划涨价 涨幅最高达20%",
-        "summary": "DRAM迎超级成长周期，传南亚科计划涨价，涨幅最高达20%。",
+        "id": "ee43edfce40aacb5872f",
+        "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
+        "summary": "假期要闻汇总：特朗普称对伊军事行动须收尾；央行连续23个月增持黄金。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498430",
-        "publishedAt": "2026-10-07T13:19:12Z"
+        "url": "https://www.cls.cn/detail/2498581",
+        "publishedAt": "2026-10-07T19:59:05Z"
+      },
+      {
+        "id": "57267e8d490d565674c9",
+        "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+        "summary": "OpenAI一夜攻克722个数学难题，准黎曼猜想被证明，引发数学界震动。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783101",
+        "publishedAt": "2026-10-07T19:59:05Z"
+      },
+      {
+        "id": "bda91dd25cd16024fd03",
+        "title": "【早报】2026年诺贝尔物理学奖揭晓；国内航线燃油附加费将上调",
+        "summary": "2026年诺贝尔物理学奖揭晓；国内航线燃油附加费将上调。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2498419",
+        "publishedAt": "2026-10-07T19:59:05Z"
+      },
+      {
+        "id": "45826c3072889d37053c",
+        "title": "中国新能源跑出四个“全球第一”",
+        "summary": "中国新能源产业跑出四个“全球第一”，展现强劲竞争力。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%B7%91%E5%87%BA%E5%9B%9B%E4%B8%AA%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E2%80%9D",
+        "publishedAt": "2026-10-07T19:59:05Z"
+      },
+      {
+        "id": "781ee373d37b46f17db1",
+        "title": "点赞！大国工程重器进度条刷新",
+        "summary": "大国工程重器进度条刷新，多项重大装备取得新进展。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7693022388019298345/",
+        "publishedAt": "2026-10-07T19:59:05Z"
+      },
+      {
+        "id": "dd2ebab335040b0fe50c",
+        "title": "中国乒协回应极端球迷越界行为：已协助报案，将推动建立赛场禁入名单制度",
+        "summary": "中国乒协回应极端球迷越界行为：已协助报案，将推动建立赛场禁入名单制度。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34209230",
+        "publishedAt": "2026-10-07T19:59:05Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻涵盖乌克兰遭俄大规模袭击、诺贝尔化学奖颁发、德国前情报局长涉叛国被捕、法国暂停使用震撼弹、以色列纪念10月7日三周年及加沙局势等。",
+    "overview": "俄乌冲突升级致重大伤亡；美欧政治动态频出，特朗普施压盟国、德国前情报局长被捕；诺贝尔化学奖揭晓；巴西大选与中东局势持续发酵。",
     "items": [
       {
-        "id": "de674090ad5e33b97bca",
-        "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
-        "summary": "泽连斯基谴责俄罗斯大规模袭击，公寓楼被毁致20人死亡，救援持续进行。",
+        "id": "371249563de6c9a20167",
+        "title": "At least 24 killed as Russia launches massive attack on Ukraine",
+        "summary": "俄罗斯对乌克兰发动大规模袭击，致至少24人死亡，乌称俄发射130架无人机及多枚导弹。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+        "publishedAt": "2026-10-07T10:32:08Z"
+      },
+      {
+        "id": "3fed5524d3710bb51cda",
+        "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+        "summary": "俄导弹袭击乌克兰居民楼致19死，含5名儿童，30套公寓被毁。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-07T05:02:17Z"
+        "publishedAt": "2026-10-07T10:12:58Z"
+      },
+      {
+        "id": "36de36a2017082b64b61",
+        "title": "German court orders detention of former intelligence chief after spying arrest",
+        "summary": "德国法院下令拘留前情报局长汉宁，其因涉嫌为外国从事间谍活动被捕。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/07/germany-court-august-hanning-spying-arrest-detention-bnd",
+        "publishedAt": "2026-10-07T09:03:53Z"
+      },
+      {
+        "id": "d2d5b78e25732ce8d180",
+        "title": "EU drops sponsorship of disinformation conference at Trump officials’ request",
+        "summary": "欧盟在特朗普官员施压下退出虚假信息会议赞助，加拿大、立陶宛亦被要求退出。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
+        "publishedAt": "2026-10-07T11:38:24Z"
       },
       {
         "id": "a51934d436a86c617c6d",
         "title": "Henri Kagan, Kenso Soai win chemistry Nobel for ‘mirror image’ breakthrough",
-        "summary": "Henri Kagan与Kenso Soai因镜像分子突破获化学诺贝尔奖，助力药物制造。",
+        "summary": "亨利·卡根与硲井健三因“镜像分子”突破获诺贝尔化学奖，助力药物制造。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss",
         "publishedAt": "2026-10-07T05:00:32Z"
       },
       {
-        "id": "9a107a81625373285415",
-        "title": "German spy scandal threatens national security",
-        "summary": "德国前情报局长August Hanning因叛国罪被捕，间谍丑闻威胁国家安全。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-07T04:39:00Z"
-      },
-      {
-        "id": "9954d1174404f6abf46a",
-        "title": "French police suspend use of stun grenades after high school protester loses hand",
-        "summary": "法国警方暂停在高中抗议中使用震撼弹，此前一名抗议者失去手部。",
+        "id": "9b7d0676f045c771cbf2",
+        "title": "Tories accused of prioritising rich voters as Badenoch lays out inheritance tax cut plan",
+        "summary": "英国保守党领袖巴德诺赫提出取消家庭住宅遗产税，被批优先惠及富人。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
-        "publishedAt": "2026-10-07T04:32:05Z"
-      },
-      {
-        "id": "43f3a7aaf4b2ecf4d0dd",
-        "title": "Israel marks third anniversary of 7 October Hamas attacks | First Thing",
-        "summary": "以色列纪念10月7日哈马斯袭击三周年，多地举行悼念活动与集会。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/07/first-thing-israel-marks-third-anniversary-7-october-hamas-attacks",
-        "publishedAt": "2026-10-07T03:53:44Z"
-      },
-      {
-        "id": "996658d75d2ea8d1e6a8",
-        "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
-        "summary": "乌克兰称俄罗斯轰炸公寓楼作为普京生日礼物，致9人死亡含3名儿童。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
-        "publishedAt": "2026-10-07T03:14:24Z"
-      },
-      {
-        "id": "6b497e9079679eb5c684",
-        "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
-        "summary": "巴西大选博索纳罗势力推进，气候活动人士对亚马逊前景感到悲观。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
-        "publishedAt": "2026-10-07T04:03:52Z"
+        "url": "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech",
+        "publishedAt": "2026-10-07T09:58:59Z"
       },
       {
         "id": "7cbf9b4c99ee0dc190ea",
@@ -138,6 +130,14 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
         "publishedAt": "2026-10-07T03:23:31Z"
+      },
+      {
+        "id": "e19de866bb455570a543",
+        "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
+        "summary": "巴西大选首轮意外领先的博索纳罗之子誓言“重新民主化”，引发政变担忧。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
+        "publishedAt": "2026-10-07T07:03:26Z"
       }
     ]
   }
