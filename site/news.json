@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T05:56:20Z",
+  "generatedAt": "2026-10-07T13:19:12Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于金融市场的强劲表现与科技行业的突破。美股乐观情绪外溢，标普纳指齐创新高，债市压力稍缓。同时，AI领域融资与竞争加剧，华为宣布芯片自主化进展并预告涨价，DeepSeek获超大额融资。社会与法治方面，缅北电诈系列报道持续披露案件细节，引发广泛关注。",
+    "overview": "本期国内要闻聚焦缅北电诈打击进展、中国央行连续增持黄金、诺贝尔化学奖揭晓、OpenAI数学突破、AI芯片与核电合作等科技产业动态，以及A股策略和半导体涨价周期。",
     "items": [
       {
-        "id": "74ffc7653cb4e02ff680",
-        "title": "债市抛售暂缓，科技股力挺标普、纳指齐创新高，核电股集体飙升，黄金涨逾1%，原油走V",
-        "summary": "债市抛售暂缓，科技股力挺标普、纳指齐创新高，核电股集体飙升，黄金涨逾1%，原油走V。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783046",
-        "publishedAt": "2026-10-07T05:56:20Z"
-      },
-      {
-        "id": "0bcaa07580840f6f28dc",
-        "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
-        "summary": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783055",
-        "publishedAt": "2026-10-07T05:56:20Z"
-      },
-      {
-        "id": "9332fac437da6f1d1666",
-        "title": "华为徐直军：昇腾中国市场份额已超英伟达，中国芯片自主化是必然之路",
-        "summary": "华为徐直军：昇腾中国市场份额已超英伟达，中国芯片自主化是必然之路。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783066",
-        "publishedAt": "2026-10-07T05:56:20Z"
-      },
-      {
-        "id": "03eee6538e863d6a7b92",
-        "title": "余承东：华为今后不得不涨价",
-        "summary": "余承东：华为今后不得不涨价。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7693429220676157450/",
-        "publishedAt": "2026-10-07T05:56:20Z"
-      },
-      {
-        "id": "073258d593b086b394ff",
-        "title": "三星电机再获2800亿韩元MLCC大单，行业涨价缺货仍在延续，这些公司是三星电机上游供应商",
-        "summary": "三星电机再获2800亿韩元MLCC大单，行业涨价缺货仍在延续。",
+        "id": "ee43edfce40aacb5872f",
+        "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
+        "summary": "特朗普称对伊军事行动需收尾，中国央行连续第23个月增持黄金，假期要闻汇总。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498156",
-        "publishedAt": "2026-10-07T05:56:20Z"
+        "url": "https://www.cls.cn/detail/2498581",
+        "publishedAt": "2026-10-07T13:19:12Z"
       },
       {
-        "id": "80820c62d70d2b22a3cb",
-        "title": "缅北白家涉诈超290亿",
-        "summary": "缅北白家涉诈超290亿，电诈犯罪集团涉案金额触目惊心。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692694262311489067/",
-        "publishedAt": "2026-10-07T05:56:20Z"
+        "id": "4376b2bd108211d08f53",
+        "title": "中国央行连续第23个月增持黄金，9月购金节奏进一步加快",
+        "summary": "中国央行连续第23个月增持黄金，9月购金节奏进一步加快。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783099",
+        "publishedAt": "2026-10-07T13:19:12Z"
       },
       {
-        "id": "78a89407e8bd1a49294b",
-        "title": "20多名中国籍电诈人员集体出逃，缅籍武装人员用AK47近距离扫射致6死8伤",
-        "summary": "20多名中国籍电诈人员集体出逃，缅籍武装人员用AK47扫射致6死8伤。",
+        "id": "3459960797a5781ab057",
+        "title": "2026年诺贝尔化学奖揭晓！",
+        "summary": "2026年诺贝尔化学奖揭晓，表彰在不对称分子研究领域的突破性贡献。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8x23HKFeP0P",
+        "publishedAt": "2026-10-07T13:19:12Z"
+      },
+      {
+        "id": "57267e8d490d565674c9",
+        "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+        "summary": "OpenAI一夜攻克722个数学难题，准黎曼猜想已被证明，引发数学界震动。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783101",
+        "publishedAt": "2026-10-07T13:19:12Z"
+      },
+      {
+        "id": "665a6df9a2b5d4a78bd4",
+        "title": "谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营",
+        "summary": "谷歌签下科技史上最大核能协议，3590兆瓦锁定20年，Gemini嵌入能源运营。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783087",
+        "publishedAt": "2026-10-07T13:19:12Z"
+      },
+      {
+        "id": "2effc43e3e6466d7fa4c",
+        "title": "苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
+        "summary": "AMD苏姿丰称AI芯片需求非常旺盛，公司将持续大幅扩产。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498154",
-        "publishedAt": "2026-10-07T05:56:20Z"
+        "url": "https://www.cls.cn/detail/2498239",
+        "publishedAt": "2026-10-07T13:19:12Z"
       },
       {
-        "id": "ba780e9a6564bdee5b2f",
-        "title": "钧正平：在“台独”这个大是大非问题上，不存在任何模糊空间",
-        "summary": "钧正平：在“台独”这个大是大非问题上，不存在任何模糊空间。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34205694",
-        "publishedAt": "2026-10-07T05:56:20Z"
+        "id": "63881723d9dbeda501cf",
+        "title": "国庆假期后A股市场怎么走？十大券商策略来了",
+        "summary": "国庆假期后A股市场怎么走？十大券商策略出炉，为投资者提供参考。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2498701",
+        "publishedAt": "2026-10-07T13:19:12Z"
+      },
+      {
+        "id": "3d467b736f9035bf6834",
+        "title": "DRAM迎超级成长周期 传南亚科计划涨价 涨幅最高达20%",
+        "summary": "DRAM迎超级成长周期，传南亚科计划涨价，涨幅最高达20%。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2498430",
+        "publishedAt": "2026-10-07T13:19:12Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻聚焦于中东及欧洲的紧张局势与重大司法案件。以色列与加沙冲突迎来三周年节点，双方各自举行纪念活动。也门战事升级，胡塞武装与沙特联军冲突波及亚丁机场。欧洲方面，德国政坛动荡，极右翼当选州议长，前情报局长因间谍罪被捕；法国因学生抗议爆发大规模冲突。此外，澳大利亚气候诉讼与边境墙生态争议也引发关注。",
+    "overview": "国际要闻涵盖乌克兰遭俄大规模袭击、诺贝尔化学奖颁发、德国前情报局长涉叛国被捕、法国暂停使用震撼弹、以色列纪念10月7日三周年及加沙局势等。",
     "items": [
       {
-        "id": "29294de2b85962abb825",
-        "title": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
-        "summary": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze.",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi",
-        "publishedAt": "2026-10-06T20:39:01Z"
-      },
-      {
-        "id": "9053a4921ed129226e4d",
-        "title": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows",
-        "summary": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
-        "publishedAt": "2026-10-06T21:12:55Z"
-      },
-      {
-        "id": "78df29cfe1f302937afb",
-        "title": "India news: Opposition protest clouds Modi's 25-year milestone",
-        "summary": "India news: Opposition protest clouds Modi's 25-year milestone.",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/india-news-opposition-protest-clouds-modi-s-25-year-milestone/live-79570653?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-06T21:03:00Z"
-      },
-      {
-        "id": "d65bb8ba6024128f3620",
-        "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-        "summary": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild.",
+        "id": "de674090ad5e33b97bca",
+        "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+        "summary": "泽连斯基谴责俄罗斯大规模袭击，公寓楼被毁致20人死亡，救援持续进行。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-06T21:02:18Z"
+        "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-07T05:02:17Z"
       },
       {
-        "id": "e19937228a8f77262680",
-        "title": "Three years of Israel’s genocide in Gaza: In numbers",
-        "summary": "Three years of Israel’s genocide in Gaza: In numbers.",
+        "id": "a51934d436a86c617c6d",
+        "title": "Henri Kagan, Kenso Soai win chemistry Nobel for ‘mirror image’ breakthrough",
+        "summary": "Henri Kagan与Kenso Soai因镜像分子突破获化学诺贝尔奖，助力药物制造。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
-        "publishedAt": "2026-10-06T21:02:04Z"
+        "url": "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss",
+        "publishedAt": "2026-10-07T05:00:32Z"
       },
       {
-        "id": "7a11d6d9b17bb39662dd",
-        "title": "Two Houthi missiles target Yemen’s Aden International Airport",
-        "summary": "Two Houthi missiles target Yemen’s Aden International Airport.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
-        "publishedAt": "2026-10-06T17:59:15Z"
+        "id": "9a107a81625373285415",
+        "title": "German spy scandal threatens national security",
+        "summary": "德国前情报局长August Hanning因叛国罪被捕，间谍丑闻威胁国家安全。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-07T04:39:00Z"
       },
       {
-        "id": "b677772fa26cfb2190ab",
-        "title": "France's police fire tear gas and water cannons as school protests sweep the country",
-        "summary": "France's police fire tear gas and water cannons as school protests sweep the country.",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
-        "publishedAt": "2026-10-06T10:05:44Z"
-      },
-      {
-        "id": "74a0f21378a010806a31",
-        "title": "State parliament elects Germany’s first far-right speaker since second world war",
-        "summary": "State parliament elects Germany’s first far-right speaker since second world war.",
+        "id": "9954d1174404f6abf46a",
+        "title": "French police suspend use of stun grenades after high school protester loses hand",
+        "summary": "法国警方暂停在高中抗议中使用震撼弹，此前一名抗议者失去手部。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
-        "publishedAt": "2026-10-06T07:38:58Z"
+        "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+        "publishedAt": "2026-10-07T04:32:05Z"
+      },
+      {
+        "id": "43f3a7aaf4b2ecf4d0dd",
+        "title": "Israel marks third anniversary of 7 October Hamas attacks | First Thing",
+        "summary": "以色列纪念10月7日哈马斯袭击三周年，多地举行悼念活动与集会。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/first-thing-israel-marks-third-anniversary-7-october-hamas-attacks",
+        "publishedAt": "2026-10-07T03:53:44Z"
+      },
+      {
+        "id": "996658d75d2ea8d1e6a8",
+        "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+        "summary": "乌克兰称俄罗斯轰炸公寓楼作为普京生日礼物，致9人死亡含3名儿童。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
+        "publishedAt": "2026-10-07T03:14:24Z"
+      },
+      {
+        "id": "6b497e9079679eb5c684",
+        "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+        "summary": "巴西大选博索纳罗势力推进，气候活动人士对亚马逊前景感到悲观。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+        "publishedAt": "2026-10-07T04:03:52Z"
+      },
+      {
+        "id": "7cbf9b4c99ee0dc190ea",
+        "title": "Royal Mail to cut up to 2,500 jobs amid restructure and fall in letter deliveries",
+        "summary": "英国皇家邮政宣布裁员至多2500人，因信件投递量下降与业务重组。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
+        "publishedAt": "2026-10-07T03:23:31Z"
       }
     ]
   }
