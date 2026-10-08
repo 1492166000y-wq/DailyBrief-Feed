@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T00:11:44Z",
-  "generationMode": "rules_fallback",
+  "generatedAt": "2026-10-08T06:00:56Z",
+  "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "本期国内焦点集中在宏观经济与产业动态：美联储加息预期与美国长债收益率飙升牵动全球市场，A股节后走势受关注；诺奖化学奖揭晓、存储与半导体产业消息密集；汽车、科技、体育治理等领域亦有多条重要资讯。",
     "items": [
       {
-        "id": "eb7997df8159496e91f9",
-        "title": "中国警方：缅北电诈死灰复燃也不怕",
-        "summary": "中国警方：缅北电诈死灰复燃也不怕",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7692945943666249259/",
-        "publishedAt": "2026-10-08T00:11:44Z"
-      },
-      {
-        "id": "39514ba102288403768d",
-        "title": "国庆高速免费最后1分钟车主卡点通过",
-        "summary": "国庆高速免费最后1分钟车主卡点通过",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E1%E5%88%86%E9%92%9F%E8%BD%A6%E4%B8%BB%E5%8D%A1%E7%82%B9%E9%80%9A%E8%BF%87",
-        "publishedAt": "2026-10-08T00:11:44Z"
-      },
-      {
-        "id": "5b513277eb7bd978b547",
-        "title": "债市风暴重燃，标普纳指自纪录高位回落，30年期美债收益率创2002年新高，原油先涨后跌",
-        "summary": "债市风暴重燃，标普纳指自纪录高位回落，30年期美债收益率创2002年新高，原油先涨后跌",
+        "id": "d5cbfb3f0cc6a1be4e9b",
+        "title": "美联储会议纪要：全体19名决策者支持9月加息，“大多数”预计年内还加1次，但暗示10月不急",
+        "summary": "美联储9月会议纪要显示全体19名决策者支持加息，多数预计年内再加一次，但暗示10月不急。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783096",
-        "publishedAt": "2026-10-08T00:11:44Z"
+        "url": "https://wallstreetcn.com/articles/3783127",
+        "publishedAt": "2026-10-08T06:00:56Z"
+      },
+      {
+        "id": "0f257fc65ed70b054374",
+        "title": "ASIC、存储和光模块等组件的“尾部风险”：美国缺电，装上机架却通不了电",
+        "summary": "美媒指出美国缺电成ASIC、存储和光模块等组件尾部风险，机架装好却无法通电。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783110",
+        "publishedAt": "2026-10-08T06:00:56Z"
+      },
+      {
+        "id": "36491cddd5f90f460d1b",
+        "title": "“存储荒”持续！三星Q3营业利润猛增近8倍 史上首破100万亿韩元大关",
+        "summary": "三星Q3营业利润同比猛增近8倍，史上首破100万亿韩元，存储荒持续推高业绩。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2498903",
+        "publishedAt": "2026-10-08T06:00:56Z"
+      },
+      {
+        "id": "faf82059638fb1b4dc27",
+        "title": "破解“同手性如何自发产生”百年化学谜题！官方详解今年化学诺奖为何颁给这两位科学家",
+        "summary": "2026年诺贝尔化学奖揭晓，两位科学家破解生命手性起源之谜，成果深刻影响制药产业。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34209081",
+        "publishedAt": "2026-10-08T06:00:56Z"
+      },
+      {
+        "id": "ee1cc8208d423a8d7535",
+        "title": "我国科学家研制成功核光钟",
+        "summary": "我国科学家研制成功核光钟，在时间频率计量领域取得重要突破。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7693419528524496950/",
+        "publishedAt": "2026-10-08T06:00:56Z"
+      },
+      {
+        "id": "9d0f94c6a1295a167212",
+        "title": "安踏集团15亿欧元收购彪马29.06%股权交易完成，正式成为第一大股东",
+        "summary": "安踏集团完成15亿欧元收购彪马29.06%股权交易，正式成为第一大股东。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34209242",
+        "publishedAt": "2026-10-08T06:00:56Z"
+      },
+      {
+        "id": "e513ade1df8a662e58e7",
+        "title": "华为余承东：芯片基本摆脱对美依赖，手机利润率正在急剧下降，未来不得不涨价",
+        "summary": "余承东称华为芯片基本摆脱对美依赖，但手机利润率急剧下降，未来不得不涨价。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783111",
+        "publishedAt": "2026-10-08T06:00:56Z"
       },
       {
         "id": "dd2ebab335040b0fe50c",
         "title": "中国乒协回应极端球迷越界行为：已协助报案，将推动建立赛场禁入名单制度",
-        "summary": "中国乒协回应极端球迷越界行为：已协助报案，将推动建立赛场禁入名单制度",
+        "summary": "中国乒协回应极端球迷越界行为，已协助报案并将推动建立赛场禁入名单制度。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34209230",
-        "publishedAt": "2026-10-08T00:11:44Z"
-      },
-      {
-        "id": "63881723d9dbeda501cf",
-        "title": "国庆假期后A股市场怎么走？十大券商策略来了",
-        "summary": "国庆假期后A股市场怎么走？十大券商策略来了",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498701",
-        "publishedAt": "2026-10-08T00:11:44Z"
-      },
-      {
-        "id": "8e25512e0976d3074dc6",
-        "title": "25年前他“诺奖被偷”，熬到95岁终于拿到",
-        "summary": "25年前他“诺奖被偷”，熬到95岁终于拿到",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8x2H1s3YtWh",
-        "publishedAt": "2026-10-08T00:11:44Z"
-      },
-      {
-        "id": "4c13aef9c9120527c6e7",
-        "title": "门诊告示豆包诊断患者改问千问",
-        "summary": "门诊告示豆包诊断患者改问千问",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%E9%97%A8%E8%AF%8A%E5%91%8A%E7%A4%BA%E8%B1%86%E5%8C%85%E8%AF%8A%E6%96%AD%E6%82%A3%E8%80%85%E6%94%B9%E9%97%AE%E5%8D%83%E9%97%AE",
-        "publishedAt": "2026-10-08T00:11:44Z"
-      },
-      {
-        "id": "65d332abf4f167cd228b",
-        "title": "孙颖莎爆冷止步32强",
-        "summary": "孙颖莎爆冷止步32强",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7693751587668049971/",
-        "publishedAt": "2026-10-08T00:11:44Z"
+        "publishedAt": "2026-10-08T06:00:56Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际方面，中东冲突持续升级，也门胡塞武装袭击沙特机场并威胁霍尔木兹海峡通道；美国政治与司法事件频发，特朗普集会遭抗议、死刑执行引发争议；欧洲多国爆发住房与教育抗议，日本啤酒巨头遭反垄断调查，科技界先驱玛格丽特·汉密尔顿逝世。",
     "items": [
       {
-        "id": "7b2f2e14957a083989fe",
-        "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-        "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment o",
+        "id": "c67e235af4ba4dc2f5a9",
+        "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+        "summary": "也门胡塞武装袭击沙特两座国际机场，造成三人死亡，沙特方面已确认。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-07T16:09:17Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-07T19:32:35Z"
       },
       {
-        "id": "5c2db5d96b056d5077f5",
-        "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
-        "summary": "Saudi-backed Yemeni forces claim advances in western Taiz's mountain belt overlo",
+        "id": "9210f06cd89f8921b580",
+        "title": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+        "summary": "英国海事机构称一艘油轮在卡塔尔北部海域遭多枚炮弹击中，霍尔木兹海峡袭击增多。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
-        "publishedAt": "2026-10-07T16:00:00Z"
-      },
-      {
-        "id": "056108972c7dcf8902c7",
-        "title": "Multiple protesters interrupt Trump as he speaks at Paxton rally in Texas – US politics live",
-        "summary": "The interruptions seemed to momentarily derail the president, who baselessly cla",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
-        "publishedAt": "2026-10-07T15:53:21Z"
+        "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss",
+        "publishedAt": "2026-10-07T18:48:25Z"
       },
       {
         "id": "83158125da4cf47aae51",
         "title": "EU-China trade talks begin in Beijing amid escalating pressure",
-        "summary": "Talks will focus on the €1bn daily deficit and rare earth export restrictions.",
+        "summary": "中欧贸易谈判在北京举行，聚焦每日10亿欧元逆差与稀土出口限制问题。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
         "publishedAt": "2026-10-07T15:45:03Z"
       },
       {
-        "id": "2d1c73bd59332615f7d9",
-        "title": "Patricia Krenwinkel, former Manson follower, granted parole for third time",
-        "summary": "The 78-year-old has spent nearly six decades in prison and California governor h",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole",
-        "publishedAt": "2026-10-07T15:37:11Z"
+        "id": "a7646652fbd7560e33e3",
+        "title": "Germany news: UK's Burnham, Merz to talk security in Berlin",
+        "summary": "英国首相伯纳姆访问柏林，与德国总理默茨启动联合安全伙伴关系。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-07T21:50:00Z"
       },
       {
-        "id": "786d7f951c162af6926d",
-        "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
-        "summary": "The United Nations Interim Force in Lebanon said there were no casualties after ",
+        "id": "8f195a6763a8bb24ace5",
+        "title": "Why single Ebola death in Kenya has sparked fears of wider African spread",
+        "summary": "肯尼亚出现一例埃博拉死亡病例，引发非洲疫情扩散担忧，患者曾在刚果金发病。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
-        "publishedAt": "2026-10-07T15:33:29Z"
+        "url": "https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss",
+        "publishedAt": "2026-10-07T21:34:34Z"
       },
       {
-        "id": "4f72a17a467d6422a202",
-        "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
-        "summary": "Death row inmate who survived execution by lethal injection is said to be 'angry",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
-        "publishedAt": "2026-10-07T15:20:01Z"
+        "id": "96fd10c27cfd04c9c1df",
+        "title": "IMF reaches tentative $1.21 billion bailout deal with Pakistan",
+        "summary": "IMF与巴基斯坦达成约12.1亿美元初步纾困协议，助其应对中东冲突外溢影响。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/imf-reaches-tentative-1-21-billion-bailout-deal-with-pakistan/a-79587047?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-07T18:24:00Z"
       },
       {
-        "id": "d059dfb946c2804cdf6e",
-        "title": "Leon Botstein resigns from Bard roles as key Democrat demands investigation into Epstein links",
-        "summary": "Jamie Raskin says ‘startling’ email asked whether young woman was ‘for me, or ar",
+        "id": "5e00a55a41c79854bf26",
+        "title": "Japan beer giants raided over suspicions they colluded to set the price of beverages",
+        "summary": "日本四大啤酒巨头朝日、麒麟、三得利、札幌因涉嫌合谋定价遭当局突击搜查。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/07/leon-botstein-bard-college-jeffrey-epstein",
-        "publishedAt": "2026-10-07T15:07:53Z"
+        "url": "https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages",
+        "publishedAt": "2026-10-07T19:54:38Z"
+      },
+      {
+        "id": "186db63e47411454bb10",
+        "title": "Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90",
+        "summary": "阿波罗登月软件先驱玛格丽特·汉密尔顿逝世，享年90岁，曾获总统自由勋章。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software",
+        "publishedAt": "2026-10-07T16:40:37Z"
       }
     ]
   }
