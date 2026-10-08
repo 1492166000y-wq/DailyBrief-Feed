@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-08",
-  "generatedAt": "2026-10-08T13:26:26Z",
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-08T19:56:35Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦中东局势外溢影响、央行汇率立场、A股节后走势、安踏收购彪马以及多项公共治理动态。",
+    "overview": "国内方面，央行明确人民币汇率不预设目标、防范短期超调，广东省人大常委会副主任张硕辅被查，多家A股公司三季度业绩预喜，国庆假期楼市与跨区域流动数据回暖。",
     "items": [
       {
         "id": "62059d7ad97fc5adbfb1",
         "title": "央行系统性阐述汇率立场！人民币汇率不预设目标，重点防范短期破坏性超调",
-        "summary": "央行系统性阐述汇率立场，人民币不预设目标，重点防范短期破坏性超调。",
+        "summary": "央行系统阐述汇率立场：人民币不预设目标，重点防范短期破坏性超调。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2499625",
-        "publishedAt": "2026-10-08T13:26:26Z"
+        "publishedAt": "2026-10-08T19:56:35Z"
       },
       {
         "id": "45eabdc7e7f988498edc",
         "title": "广东省人大常委会党组成员、副主任张硕辅被查",
-        "summary": "广东省人大常委会党组成员、副主任张硕辅涉嫌严重违纪违法被查。",
+        "summary": "广东省人大常委会党组成员、副主任张硕辅被查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34212338",
-        "publishedAt": "2026-10-08T13:26:26Z"
+        "publishedAt": "2026-10-08T19:56:35Z"
       },
       {
-        "id": "9d0f94c6a1295a167212",
-        "title": "安踏集团15亿欧元收购彪马29.06%股权交易完成，正式成为第一大股东",
-        "summary": "安踏集团15亿欧元收购彪马29.06%股权完成，正式成为第一大股东。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34209242",
-        "publishedAt": "2026-10-08T13:26:26Z"
+        "id": "9fb67087f5a7a869907e",
+        "title": "多家A股公司三季度业绩报喜，东岳硅材净利最高预增逾190倍",
+        "summary": "多家A股公司三季度业绩报喜，东岳硅材净利最高预增逾190倍。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2499581",
+        "publishedAt": "2026-10-08T19:56:35Z"
       },
       {
-        "id": "8216d0fbe0196a04c066",
-        "title": "科创50跌近5%，光芯片重挫，长鑫大跌超7%，工行、中行等创新高，恒科指跌逾2%，科网股集体低迷",
-        "summary": "科创50跌近5%，光芯片重挫，长鑫大跌超7%，工行、中行等创新高。",
+        "id": "d5cbfb3f0cc6a1be4e9b",
+        "title": "美联储会议纪要：全体19名决策者支持9月加息，“大多数”预计年内还加1次，但暗示10月不急",
+        "summary": "美联储会议纪要：全体19名决策者支持9月加息，多数预计年内再加一次。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783152",
-        "publishedAt": "2026-10-08T13:26:26Z"
+        "url": "https://wallstreetcn.com/articles/3783127",
+        "publishedAt": "2026-10-08T19:56:35Z"
       },
       {
-        "id": "4240cf5adab947973092",
-        "title": "中秋国庆假期收官：8天以上长线行程占比接近翻倍，小城景区霸榜",
-        "summary": "中秋国庆假期收官：8天以上长线行程占比接近翻倍，小城景区霸榜。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34209162",
-        "publishedAt": "2026-10-08T13:26:26Z"
+        "id": "d39e0380375c5cdb76d7",
+        "title": "国庆假期楼市升温！上海二手房日均成交同比涨30% 深圳增45%",
+        "summary": "国庆假期楼市升温，上海二手房日均成交同比涨30%，深圳增45%。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2499742",
+        "publishedAt": "2026-10-08T19:56:35Z"
       },
       {
         "id": "d4e01284e6a0d64f5108",
         "title": "假期超21亿人次跨区域流动",
-        "summary": "假期超21亿人次跨区域流动，交通出行需求旺盛。",
+        "summary": "国庆假期超21亿人次跨区域流动。",
         "source": "微博",
         "url": "https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%B6%8521%E4%BA%BF%E4%BA%BA%E6%AC%A1%E8%B7%A8%E5%8C%BA%E5%9F%9F%E6%B5%81%E5%8A%A8%23",
-        "publishedAt": "2026-10-08T13:26:26Z"
+        "publishedAt": "2026-10-08T19:56:35Z"
+      },
+      {
+        "id": "4399f66fcd50f125697f",
+        "title": "大连：加大对坊间已有绰号诨名干部的鉴别力度，坚决防止“带病提名”“带病提拔”",
+        "summary": "大连加大对有绰号诨名干部的鉴别力度，防止“带病提拔”。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34210672",
+        "publishedAt": "2026-10-08T19:56:35Z"
       },
       {
         "id": "6b1cb4e325f2c7a5bc22",
         "title": "余承东：手机芯片基本摆脱外部依赖",
-        "summary": "余承东称华为手机芯片基本摆脱外部依赖，供应链自主可控增强。",
+        "summary": "余承东称手机芯片已基本摆脱外部依赖。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7693984805352129070/",
-        "publishedAt": "2026-10-08T13:26:26Z"
-      },
-      {
-        "id": "7db40a59a1f84376f668",
-        "title": "外交部回应直呼高市早苗名字",
-        "summary": "外交部回应直呼高市早苗名字，就相关涉华言论表明立场。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7693342745545130025/",
-        "publishedAt": "2026-10-08T13:26:26Z"
+        "publishedAt": "2026-10-08T19:56:35Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻聚焦中东冲突升级与油价大涨、俄乌战事持续、诺贝尔文学奖揭晓以及多国政治经济动向。",
+    "overview": "国际方面，俄军袭击乌克兰克拉马托尔斯克致至少30人死亡，美方扩大对马杜罗的指控，美联储会议纪要显示决策者支持加息，中东局势与油价波动持续，诺贝尔文学奖揭晓。",
     "items": [
-      {
-        "id": "6d040be443ca5e7c768d",
-        "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-        "summary": "中东紧张与美国飓风威胁推油价涨5%，全球债市抛售、股市下挫。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
-        "publishedAt": "2026-10-08T03:11:47Z"
-      },
       {
         "id": "37a98561e69b8cc22f62",
         "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-        "summary": "俄罗斯导弹袭击克拉马托尔斯克一辆巴士，造成至少30人死亡。",
+        "summary": "俄军袭击乌克兰克拉马托尔斯克，巴士遇袭致至少30人死亡。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
         "publishedAt": "2026-10-08T03:32:51Z"
       },
       {
-        "id": "8c8d5baa0b4a88ff3d60",
-        "title": "Burnham committed to deeper EU cooperation, he tells Merz – Europe live",
-        "summary": "英国首相伯纳姆访柏林会晤默茨，承诺深化与欧盟合作。",
+        "id": "463c191983aceb474d33",
+        "title": "Two Latvian men arrested at RAF base in Cambridgeshire used by US military",
+        "summary": "两名拉脱维亚男子闯入英美使用的英国军事基地被捕。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-        "publishedAt": "2026-10-08T05:14:51Z"
+        "url": "https://www.theguardian.com/uk-news/2026/oct/08/two-latvian-men-arrested-raf-molesworth-cambridgeshire-us-nato",
+        "publishedAt": "2026-10-08T09:34:27Z"
+      },
+      {
+        "id": "4c96a760574e091a10f9",
+        "title": "A lake pilgrimage and a quiet car ride to the beach: last hours of sisters who took own lives in Brighton",
+        "summary": "英国布莱顿三姐妹自杀案听证，生前最后时刻细节公布。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/08/last-hours-three-sisters-brighton-inquest",
+        "publishedAt": "2026-10-08T09:19:48Z"
       },
       {
         "id": "ba1da16d2835799477b9",
         "title": "Anne Carson wins Nobel prize in literature 2026",
-        "summary": "加拿大诗人安妮·卡森获2026年诺贝尔文学奖，瑞典学院予以表彰。",
+        "summary": "加拿大诗人安妮·卡森获2026年诺贝尔文学奖。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
         "publishedAt": "2026-10-08T03:44:31Z"
       },
       {
-        "id": "83158125da4cf47aae51",
-        "title": "EU-China trade talks begin in Beijing amid escalating pressure",
-        "summary": "中欧贸易谈判在北京举行，聚焦每日10亿欧元逆差与稀土出口限制。",
+        "id": "92f6790807a23c236f43",
+        "title": "Man City charges: Maresca says players focused on Liverpool test",
+        "summary": "曼城财务违规裁决前，主帅称球员专注备战利物浦。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-        "publishedAt": "2026-10-07T15:45:03Z"
+        "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss",
+        "publishedAt": "2026-10-08T11:17:38Z"
       },
       {
-        "id": "3a613d6d3aeb59b10e19",
-        "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-        "summary": "英国霍尔本和圣潘克拉斯选区补选投票，填补斯塔默离任后席位。",
+        "id": "6d040be443ca5e7c768d",
+        "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
+        "summary": "中东紧张与美国飓风威胁推油价涨5%，全球债市遭抛售、股市下挫。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
-        "publishedAt": "2026-10-08T05:10:57Z"
+        "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+        "publishedAt": "2026-10-08T03:11:47Z"
       },
       {
-        "id": "186db63e47411454bb10",
-        "title": "Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90",
-        "summary": "阿波罗登月软件先驱玛格丽特·汉密尔顿逝世，享年90岁。",
+        "id": "e3ea68918e2e245b9fff",
+        "title": "Seychelles giant tortoise numbers hit record 180,000 in conservation triumph",
+        "summary": "塞舌尔阿尔达布拉象龟数量创纪录达18万只，保护成效显著。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software",
-        "publishedAt": "2026-10-07T16:40:37Z"
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "publishedAt": "2026-10-08T09:03:42Z"
       },
       {
-        "id": "6f28d62ff57b03148125",
-        "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
-        "summary": "UK Prime Minister Andy Burnham is visiting Berlin to launch a new bilateral trea",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-08T05:23:00Z"
+        "id": "2100630c4c277d1ee344",
+        "title": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says",
+        "summary": "美副总统万斯称微软被暂停为H-1B员工申请绿卡。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
+        "publishedAt": "2026-10-08T10:23:47Z"
       }
     ]
   }
