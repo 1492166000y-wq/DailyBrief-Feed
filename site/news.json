@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-08",
-  "generatedAt": "2026-10-07T19:59:05Z",
-  "generationMode": "ai",
+  "generatedAt": "2026-10-08T00:11:44Z",
+  "generationMode": "rules_fallback",
   "domestic": {
-    "overview": "国庆假期收官，A股与宏观政策走向受关注；科技领域AI数学突破与诺奖揭晓引发热议；国乒赛事及体育饭圈治理成为公共话题。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "d77bfb0556d176f87226",
-        "title": "美债重启抛售、收益率创2002年来新高，美股高位承压，早盘道指跌超1%，布油盘中涨2%",
-        "summary": "美债遭抛售，收益率创2002年来新高，美股承压，道指早盘跌超1%，布油涨2%。",
+        "id": "eb7997df8159496e91f9",
+        "title": "中国警方：缅北电诈死灰复燃也不怕",
+        "summary": "中国警方：缅北电诈死灰复燃也不怕",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7692945943666249259/",
+        "publishedAt": "2026-10-08T00:11:44Z"
+      },
+      {
+        "id": "39514ba102288403768d",
+        "title": "国庆高速免费最后1分钟车主卡点通过",
+        "summary": "国庆高速免费最后1分钟车主卡点通过",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E1%E5%88%86%E9%92%9F%E8%BD%A6%E4%B8%BB%E5%8D%A1%E7%82%B9%E9%80%9A%E8%BF%87",
+        "publishedAt": "2026-10-08T00:11:44Z"
+      },
+      {
+        "id": "5b513277eb7bd978b547",
+        "title": "债市风暴重燃，标普纳指自纪录高位回落，30年期美债收益率创2002年新高，原油先涨后跌",
+        "summary": "债市风暴重燃，标普纳指自纪录高位回落，30年期美债收益率创2002年新高，原油先涨后跌",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783096",
-        "publishedAt": "2026-10-07T19:59:05Z"
-      },
-      {
-        "id": "63881723d9dbeda501cf",
-        "title": "国庆假期后A股市场怎么走？十大券商策略来了",
-        "summary": "国庆假期后A股走势受关注，十大券商发布策略研判。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498701",
-        "publishedAt": "2026-10-07T19:59:05Z"
-      },
-      {
-        "id": "ee43edfce40aacb5872f",
-        "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
-        "summary": "假期要闻汇总：特朗普称对伊军事行动须收尾；央行连续23个月增持黄金。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498581",
-        "publishedAt": "2026-10-07T19:59:05Z"
-      },
-      {
-        "id": "57267e8d490d565674c9",
-        "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
-        "summary": "OpenAI一夜攻克722个数学难题，准黎曼猜想被证明，引发数学界震动。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783101",
-        "publishedAt": "2026-10-07T19:59:05Z"
-      },
-      {
-        "id": "bda91dd25cd16024fd03",
-        "title": "【早报】2026年诺贝尔物理学奖揭晓；国内航线燃油附加费将上调",
-        "summary": "2026年诺贝尔物理学奖揭晓；国内航线燃油附加费将上调。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2498419",
-        "publishedAt": "2026-10-07T19:59:05Z"
-      },
-      {
-        "id": "45826c3072889d37053c",
-        "title": "中国新能源跑出四个“全球第一”",
-        "summary": "中国新能源产业跑出四个“全球第一”，展现强劲竞争力。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%B7%91%E5%87%BA%E5%9B%9B%E4%B8%AA%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E2%80%9D",
-        "publishedAt": "2026-10-07T19:59:05Z"
-      },
-      {
-        "id": "781ee373d37b46f17db1",
-        "title": "点赞！大国工程重器进度条刷新",
-        "summary": "大国工程重器进度条刷新，多项重大装备取得新进展。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7693022388019298345/",
-        "publishedAt": "2026-10-07T19:59:05Z"
+        "publishedAt": "2026-10-08T00:11:44Z"
       },
       {
         "id": "dd2ebab335040b0fe50c",
         "title": "中国乒协回应极端球迷越界行为：已协助报案，将推动建立赛场禁入名单制度",
-        "summary": "中国乒协回应极端球迷越界行为：已协助报案，将推动建立赛场禁入名单制度。",
+        "summary": "中国乒协回应极端球迷越界行为：已协助报案，将推动建立赛场禁入名单制度",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34209230",
-        "publishedAt": "2026-10-07T19:59:05Z"
+        "publishedAt": "2026-10-08T00:11:44Z"
+      },
+      {
+        "id": "63881723d9dbeda501cf",
+        "title": "国庆假期后A股市场怎么走？十大券商策略来了",
+        "summary": "国庆假期后A股市场怎么走？十大券商策略来了",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2498701",
+        "publishedAt": "2026-10-08T00:11:44Z"
+      },
+      {
+        "id": "8e25512e0976d3074dc6",
+        "title": "25年前他“诺奖被偷”，熬到95岁终于拿到",
+        "summary": "25年前他“诺奖被偷”，熬到95岁终于拿到",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8x2H1s3YtWh",
+        "publishedAt": "2026-10-08T00:11:44Z"
+      },
+      {
+        "id": "4c13aef9c9120527c6e7",
+        "title": "门诊告示豆包诊断患者改问千问",
+        "summary": "门诊告示豆包诊断患者改问千问",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%E9%97%A8%E8%AF%8A%E5%91%8A%E7%A4%BA%E8%B1%86%E5%8C%85%E8%AF%8A%E6%96%AD%E6%82%A3%E8%80%85%E6%94%B9%E9%97%AE%E5%8D%83%E9%97%AE",
+        "publishedAt": "2026-10-08T00:11:44Z"
+      },
+      {
+        "id": "65d332abf4f167cd228b",
+        "title": "孙颖莎爆冷止步32强",
+        "summary": "孙颖莎爆冷止步32强",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7693751587668049971/",
+        "publishedAt": "2026-10-08T00:11:44Z"
       }
     ]
   },
   "global": {
-    "overview": "俄乌冲突升级致重大伤亡；美欧政治动态频出，特朗普施压盟国、德国前情报局长被捕；诺贝尔化学奖揭晓；巴西大选与中东局势持续发酵。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "371249563de6c9a20167",
-        "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-        "summary": "俄罗斯对乌克兰发动大规模袭击，致至少24人死亡，乌称俄发射130架无人机及多枚导弹。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-        "publishedAt": "2026-10-07T10:32:08Z"
-      },
-      {
-        "id": "3fed5524d3710bb51cda",
-        "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-        "summary": "俄导弹袭击乌克兰居民楼致19死，含5名儿童，30套公寓被毁。",
+        "id": "7b2f2e14957a083989fe",
+        "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+        "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment o",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-07T10:12:58Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-07T16:09:17Z"
       },
       {
-        "id": "36de36a2017082b64b61",
-        "title": "German court orders detention of former intelligence chief after spying arrest",
-        "summary": "德国法院下令拘留前情报局长汉宁，其因涉嫌为外国从事间谍活动被捕。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/07/germany-court-august-hanning-spying-arrest-detention-bnd",
-        "publishedAt": "2026-10-07T09:03:53Z"
-      },
-      {
-        "id": "d2d5b78e25732ce8d180",
-        "title": "EU drops sponsorship of disinformation conference at Trump officials’ request",
-        "summary": "欧盟在特朗普官员施压下退出虚假信息会议赞助，加拿大、立陶宛亦被要求退出。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
-        "publishedAt": "2026-10-07T11:38:24Z"
-      },
-      {
-        "id": "a51934d436a86c617c6d",
-        "title": "Henri Kagan, Kenso Soai win chemistry Nobel for ‘mirror image’ breakthrough",
-        "summary": "亨利·卡根与硲井健三因“镜像分子”突破获诺贝尔化学奖，助力药物制造。",
+        "id": "5c2db5d96b056d5077f5",
+        "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+        "summary": "Saudi-backed Yemeni forces claim advances in western Taiz's mountain belt overlo",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss",
-        "publishedAt": "2026-10-07T05:00:32Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
+        "publishedAt": "2026-10-07T16:00:00Z"
       },
       {
-        "id": "9b7d0676f045c771cbf2",
-        "title": "Tories accused of prioritising rich voters as Badenoch lays out inheritance tax cut plan",
-        "summary": "英国保守党领袖巴德诺赫提出取消家庭住宅遗产税，被批优先惠及富人。",
+        "id": "056108972c7dcf8902c7",
+        "title": "Multiple protesters interrupt Trump as he speaks at Paxton rally in Texas – US politics live",
+        "summary": "The interruptions seemed to momentarily derail the president, who baselessly cla",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech",
-        "publishedAt": "2026-10-07T09:58:59Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+        "publishedAt": "2026-10-07T15:53:21Z"
       },
       {
-        "id": "7cbf9b4c99ee0dc190ea",
-        "title": "Royal Mail to cut up to 2,500 jobs amid restructure and fall in letter deliveries",
-        "summary": "英国皇家邮政宣布裁员至多2500人，因信件投递量下降与业务重组。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
-        "publishedAt": "2026-10-07T03:23:31Z"
+        "id": "83158125da4cf47aae51",
+        "title": "EU-China trade talks begin in Beijing amid escalating pressure",
+        "summary": "Talks will focus on the €1bn daily deficit and rare earth export restrictions.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
+        "publishedAt": "2026-10-07T15:45:03Z"
       },
       {
-        "id": "e19de866bb455570a543",
-        "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
-        "summary": "巴西大选首轮意外领先的博索纳罗之子誓言“重新民主化”，引发政变担忧。",
+        "id": "2d1c73bd59332615f7d9",
+        "title": "Patricia Krenwinkel, former Manson follower, granted parole for third time",
+        "summary": "The 78-year-old has spent nearly six decades in prison and California governor h",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
-        "publishedAt": "2026-10-07T07:03:26Z"
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole",
+        "publishedAt": "2026-10-07T15:37:11Z"
+      },
+      {
+        "id": "786d7f951c162af6926d",
+        "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+        "summary": "The United Nations Interim Force in Lebanon said there were no casualties after ",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
+        "publishedAt": "2026-10-07T15:33:29Z"
+      },
+      {
+        "id": "4f72a17a467d6422a202",
+        "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
+        "summary": "Death row inmate who survived execution by lethal injection is said to be 'angry",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
+        "publishedAt": "2026-10-07T15:20:01Z"
+      },
+      {
+        "id": "d059dfb946c2804cdf6e",
+        "title": "Leon Botstein resigns from Bard roles as key Democrat demands investigation into Epstein links",
+        "summary": "Jamie Raskin says ‘startling’ email asked whether young woman was ‘for me, or ar",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/leon-botstein-bard-college-jeffrey-epstein",
+        "publishedAt": "2026-10-07T15:07:53Z"
       }
     ]
   }
