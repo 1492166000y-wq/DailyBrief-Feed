@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T00:21:51Z",
+  "generatedAt": "2026-10-09T09:01:03Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，央行系统阐述人民币汇率立场，强调不搞竞争性货币贬值、防范短期破坏性超调；美联储会议纪要偏鹰，全球股市与芯片股承压；中东局势推升油价，A股三季报预喜与科创板块回调并存。",
+    "overview": "国内方面，央行明确人民币汇率立场、财政部部署积极财政政策，OpenAI营收预期差重创AI板块，全国秋粮收获过四成，精诚矿业瞒报案宣判，国家气候中心确认超强厄尔尼诺形成。",
     "items": [
       {
         "id": "8902f14f950beb2ae6c9",
         "title": "央行阐明人民币汇率政策立场：中国从不搞竞争性货币贬值",
-        "summary": "央行阐明人民币汇率政策立场，强调中国从不搞竞争性货币贬值。",
+        "summary": "央行阐明人民币汇率政策立场，强调中国从不搞竞争性货币贬值，不预设汇率目标。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34212989",
-        "publishedAt": "2026-10-09T00:21:51Z"
-      },
-      {
-        "id": "62059d7ad97fc5adbfb1",
-        "title": "央行系统性阐述汇率立场！人民币汇率不预设目标，重点防范短期破坏性超调",
-        "summary": "央行系统阐述汇率立场：不预设目标，重点防范短期破坏性超调。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2499625",
-        "publishedAt": "2026-10-09T00:21:51Z"
-      },
-      {
-        "id": "d5cbfb3f0cc6a1be4e9b",
-        "title": "美联储会议纪要：全体19名决策者支持9月加息，“大多数”预计年内还加1次，但暗示10月不急",
-        "summary": "美联储纪要：全体决策者支持9月加息，多数预计年内再加一次。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783127",
-        "publishedAt": "2026-10-09T00:21:51Z"
-      },
-      {
-        "id": "72831ab4a8e3450241ae",
-        "title": "美联储沃勒：进一步加息仍有必要 但无需连续采取行动",
-        "summary": "美联储沃勒称进一步加息仍有必要，但无需连续会议上采取行动。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2499740",
-        "publishedAt": "2026-10-09T00:21:51Z"
+        "publishedAt": "2026-10-09T09:01:03Z"
       },
       {
         "id": "da9d501db49106844663",
         "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
-        "summary": "OpenAI营收逊色重创AI股，标普纳指两连跌，芯片指数跌超3%。",
+        "summary": "OpenAI营收逊于预期重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783173",
-        "publishedAt": "2026-10-09T00:21:51Z"
+        "publishedAt": "2026-10-09T09:01:03Z"
       },
       {
-        "id": "14eb75bf8c9f297c10ff",
-        "title": "【早报】美股存储、半导体板块，全线重挫；原油飙升、黄金收涨；多家A股公司三季报预增",
-        "summary": "早报：美股存储半导体板块全线重挫，原油飙升黄金收涨。",
+        "id": "a764c8773f7887e3a135",
+        "title": "财政部：有力有效实施更加积极的财政政策 支持全方位扩大国内需求",
+        "summary": "财政部表示将有力有效实施更加积极的财政政策，支持全方位扩大国内需求。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2499995",
-        "publishedAt": "2026-10-09T00:21:51Z"
+        "url": "https://www.cls.cn/detail/2500448",
+        "publishedAt": "2026-10-09T09:01:03Z"
       },
       {
-        "id": "9fb67087f5a7a869907e",
-        "title": "多家A股公司三季度业绩报喜，东岳硅材净利最高预增逾190倍",
-        "summary": "多家A股公司三季度业绩报喜，东岳硅材净利最高预增逾190倍。",
+        "id": "8b93caa5a43a1822270d",
+        "title": "缺货看不到尽头！美国光通信龙头：2029年初的产能也已售罄",
+        "summary": "美国光通信龙头称缺货看不到尽头，2029年初产能已全部售罄，凸显供应链紧张。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2499581",
-        "publishedAt": "2026-10-09T00:21:51Z"
+        "url": "https://www.cls.cn/detail/2500196",
+        "publishedAt": "2026-10-09T09:01:03Z"
       },
       {
-        "id": "d4c50fea0d9e1245a486",
-        "title": "中东冲突再升级：沙特机场遇袭、波斯湾油轮中弹，特朗普拟对伊朗再动手，布油站上102美元",
-        "summary": "中东冲突升级：沙特机场遇袭、油轮中弹，布油站上102美元。",
+        "id": "f2ed4bdef5af17a2b868",
+        "title": "48起事故致54死 精诚矿业案宣判",
+        "summary": "精诚矿业瞒报48起事故致54人死亡案宣判，相关责任人被依法追究刑事责任。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=48%E8%B5%B7%E4%BA%8B%E6%95%85%E8%87%B454%E6%AD%BB+%E7%B2%BE%E8%AF%9A%E7%9F%BF%E4%B8%9A%E6%A1%88%E5%AE%A3%E5%88%A4",
+        "publishedAt": "2026-10-09T09:01:03Z"
+      },
+      {
+        "id": "bc0e078fdc8aeec8ac75",
+        "title": "国家气候中心：超强厄尔尼诺已经形成",
+        "summary": "国家气候中心确认超强厄尔尼诺已经形成，或对全球及中国气候产生显著影响。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34217295",
+        "publishedAt": "2026-10-09T09:01:03Z"
+      },
+      {
+        "id": "e5ec91e624a0387d58c9",
+        "title": "美签证风暴来袭！微软等多家科技公司H-1B绿卡通道被封，哈佛等9所名校遭欺诈调查",
+        "summary": "美签证风暴来袭，微软等多家科技公司H-1B绿卡通道被封，哈佛等9所名校遭欺诈调查。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783182",
-        "publishedAt": "2026-10-09T00:21:51Z"
+        "url": "https://wallstreetcn.com/articles/3783215",
+        "publishedAt": "2026-10-09T09:01:03Z"
+      },
+      {
+        "id": "fff0e82756e1dfcd81db",
+        "title": "全国秋粮收获过四成",
+        "summary": "全国秋粮收获已过四成，各地秋收工作有序推进，为全年粮食丰收奠定基础。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E5%9B%9B%E6%88%90",
+        "publishedAt": "2026-10-09T09:01:03Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，中东冲突持续升级，霍尔木兹海峡爆炸、美伊博弈与油价飙升牵动全球市场；俄乌战事与非洲之角、南亚多地动荡加剧；美国内政与司法争议、科技行业政策调整亦受关注。",
+    "overview": "国际方面，2026年诺贝尔和平奖揭晓，特朗普表态中期选举前不动伊朗，OpenAI下调营收预期引发AI增长质疑，乌克兰无人机反攻与俄罗斯冬季攻势预期并存，南非反移民暴力升级。",
     "items": [
       {
-        "id": "0d8db8f4c607a706b34a",
-        "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
-        "summary": "伊朗媒体称霍尔木兹海峡发生大规模爆炸，引述军方消息。",
+        "id": "3d33242b6508c2c65bcf",
+        "title": "Winner of 2026 Nobel peace prize to be announced - live",
+        "summary": "2026年诺贝尔和平奖在挪威奥斯陆揭晓，评选结果引发国际社会广泛关注。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+        "publishedAt": "2026-10-09T00:35:55Z"
+      },
+      {
+        "id": "4ce41727cecb40ba6500",
+        "title": "Trump says US will not strike Iran before midterm elections",
+        "summary": "特朗普表示美国不会在中期选举前对伊朗动武，国际油价应声下跌。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
-        "publishedAt": "2026-10-08T16:00:21Z"
+        "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+        "publishedAt": "2026-10-08T22:22:07Z"
       },
       {
-        "id": "316bf12ed6c83f02ac30",
-        "title": "Putin pledges Russia’s support to end US-led war on Iran",
-        "summary": "普京承诺俄支持结束美国主导的对伊朗战争，与伊总统会晤。",
+        "id": "75537234f344fdb47b17",
+        "title": "OpenAI projected to bring in $20bn less in revenue than expected",
+        "summary": "OpenAI预计营收比此前向投资者暗示的低约200亿美元，引发AI增长可持续性质疑。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+        "publishedAt": "2026-10-09T00:06:09Z"
+      },
+      {
+        "id": "9f2059654d9e531b55ac",
+        "title": "Ukraine has battlefield success with drones, but Russian airstrikes relentless",
+        "summary": "乌克兰借助无人机反攻夺回部分领土，但俄罗斯持续空袭乌城市，战况胶着。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5995483/ukraine-has-battlefield-success-with-drones-but-russian-airstrikes-relentless",
+        "publishedAt": "2026-10-09T00:25:16Z"
+      },
+      {
+        "id": "d34dd4a8d08174157b06",
+        "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+        "summary": "南非反移民暴力事件升级，车辆被烧、商铺遭抢，社会紧张局势加剧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-09T00:28:57Z"
+      },
+      {
+        "id": "b129a5b12875eff098bc",
+        "title": "Japan’s Okinawa calls for review of US forces pact after killing",
+        "summary": "日本冲绳因美军士兵涉命案集会，要求重新审视驻日美军地位协定。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
-        "publishedAt": "2026-10-08T14:30:37Z"
+        "url": "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss",
+        "publishedAt": "2026-10-09T00:51:04Z"
       },
       {
-        "id": "d54d7de3a4acb538926a",
-        "title": "US will not resume strikes on Iran before midterms — Trump",
-        "summary": "特朗普称美中期选举前不会恢复对伊朗打击，油价与物价成选民关切。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-08T10:18:00Z"
-      },
-      {
-        "id": "6d040be443ca5e7c768d",
-        "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-        "summary": "中东紧张与美国飓风威胁推油价涨5%，全球债市遭抛售股市下挫。",
+        "id": "6825e39ed2e8ac6a2bef",
+        "title": "Labour wins Holborn and St Pancras byelection; Polanski ‘absolutely’ intends to remain Green party leader – UK politics live",
+        "summary": "英国工党赢得霍尔本和圣潘克拉斯补选，绿党领袖波拉斯基表示将继续留任。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
-        "publishedAt": "2026-10-08T03:11:47Z"
+        "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+        "publishedAt": "2026-10-09T00:40:31Z"
       },
       {
-        "id": "37a98561e69b8cc22f62",
-        "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-        "summary": "俄军袭击乌克兰克拉马托尔斯克，巴士遇袭致至少30人死亡。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
-        "publishedAt": "2026-10-08T03:32:51Z"
-      },
-      {
-        "id": "3f2f5c06285c10d1949a",
-        "title": "South Africa: Anti-migrant protests turn violent",
-        "summary": "南非反移民抗议演变为暴力，多辆汽车被烧、外籍商铺被迫关闭。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-08T10:42:00Z"
-      },
-      {
-        "id": "ba1da16d2835799477b9",
-        "title": "Anne Carson wins Nobel prize in literature 2026",
-        "summary": "加拿大诗人安妮·卡森获2026年诺贝尔文学奖。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-        "publishedAt": "2026-10-08T03:44:31Z"
-      },
-      {
-        "id": "2100630c4c277d1ee344",
-        "title": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says",
-        "summary": "美副总统万斯称微软被暂停为H-1B员工申请绿卡。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
-        "publishedAt": "2026-10-08T10:23:47Z"
+        "id": "fec3cdacf5863c0d2174",
+        "title": "Uproar in NY after ICE shoots man with child in the car",
+        "summary": "纽约ICE执法人员开枪击伤一名车内有儿童男子，引发抗议和多方谴责。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss",
+        "publishedAt": "2026-10-08T20:26:50Z"
       }
     ]
   }
