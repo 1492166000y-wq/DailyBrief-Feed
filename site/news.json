@@ -1,116 +1,108 @@
 {
   "version": 1,
   "date": "2026-10-10",
-  "generatedAt": "2026-10-09T22:36:37Z",
+  "generatedAt": "2026-10-10T05:49:10Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦新质生产力政策落地、中欧贸易磋商、资本市场改革与AI产业动态。",
+    "overview": "国内要闻聚焦中欧贸易磋商达成多项共识、基本养老保险参保数据、金融支持新质生产力举措以及A股与油价动态，同时涵盖科技、人口与突发事件。",
     "items": [
-      {
-        "id": "93aa35bf5803e9490b21",
-        "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
-        "summary": "中共中央、国务院印发《关于发展新质生产力的意见》，部署科技创新与产业升级。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2500676",
-        "publishedAt": "2026-10-09T22:36:37Z"
-      },
       {
         "id": "d8ceaaec79c1539ffa4d",
         "title": "中欧贸易投资磋商联合声明：就混动汽车贸易达成谅解，进一步强化出口管制对话，愿为稀土永磁体出口审批提供便利",
-        "summary": "中欧就混动汽车贸易达成谅解，强化出口管制对话，便利稀土永磁体出口审批。",
+        "summary": "中欧贸易投资磋商发表联合声明，就混动汽车贸易达成谅解，强化出口管制对话，愿为稀土永磁体出口审批提供便利。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783281",
-        "publishedAt": "2026-10-09T22:36:37Z"
+        "publishedAt": "2026-10-10T05:49:10Z"
+      },
+      {
+        "id": "bdf6766ffecbab59bd4e",
+        "title": "我国基本养老保险参保人数10.79亿人",
+        "summary": "人社部数据显示，我国基本养老保险参保人数达10.79亿人，社保覆盖面持续扩大。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7694857035574050854/",
+        "publishedAt": "2026-10-10T05:49:10Z"
       },
       {
         "id": "769fe9ae0975e82b99cf",
         "title": "支持科技企业上市融资、优化并购重组、民企可牵头重大技术攻关……新质生产力金融举措来了",
-        "summary": "新质生产力金融举措出台，支持科技企业上市融资，优化并购重组。",
+        "summary": "金融支持新质生产力举措出台，包括支持科技企业上市融资、优化并购重组、民企可牵头重大技术攻关等。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783278",
-        "publishedAt": "2026-10-09T22:36:37Z"
+        "publishedAt": "2026-10-10T05:49:10Z"
       },
       {
-        "id": "b3d9977acc5c4069a1f3",
-        "title": "时隔12年，公募基金运作办法修订，十大亮点看变化，多举措支持逆周期布局",
-        "summary": "公募基金运作办法时隔12年修订，十大亮点支持逆周期布局。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2500642",
-        "publishedAt": "2026-10-09T22:36:37Z"
-      },
-      {
-        "id": "da9d501db49106844663",
-        "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
-        "summary": "OpenAI营收逊于预期重创AI股，标普纳指两连跌，芯片指数跌超3%。",
+        "id": "dfd4ec930d0861f11355",
+        "title": "A股V型反转，三大股指集体收涨，多只宽基ETF放量，江淮汽车再跌8%，恒科指涨超3%，小米暴涨近10%",
+        "summary": "A股V型反转，三大股指集体收涨，多只宽基ETF放量，江淮汽车再跌8%，恒科指涨超3%，小米暴涨近10%。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783173",
-        "publishedAt": "2026-10-09T22:36:37Z"
+        "url": "https://wallstreetcn.com/articles/3783237",
+        "publishedAt": "2026-10-10T05:49:10Z"
       },
       {
-        "id": "07a0557e9eaf87926638",
-        "title": "特朗普改口，宣布11月3日中期选举前不打伊朗",
-        "summary": "特朗普改口，宣布11月3日中期选举前不对伊朗动武，国际油价应声下跌。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8x4dLLeVPpO",
-        "publishedAt": "2026-10-09T22:36:37Z"
+        "id": "245f7bd3fe9c30a42b6a",
+        "title": "【早报】深夜，中概股全线爆发；原油黄金，双双收涨；时隔12年，公募基金运作办法修订",
+        "summary": "财联社早报称，中概股全线爆发，原油黄金双双收涨，时隔12年公募基金运作办法修订。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2501001",
+        "publishedAt": "2026-10-10T05:49:10Z"
       },
       {
-        "id": "3b034ea151cd7f803cd2",
-        "title": "超强厄尔尼诺来袭，真正的考验为何在2027年？对话国家气候中心主任巢清尘",
-        "summary": "国家气候中心确认超强厄尔尼诺形成，对话专家解析2027年真正考验。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34218590",
-        "publishedAt": "2026-10-09T22:36:37Z"
-      },
-      {
-        "id": "18232d3331faf5a37f8a",
-        "title": "飞天奖获奖名单",
-        "summary": "飞天奖获奖名单公布，王仁君获优秀男演员奖。",
+        "id": "11d8081d0ae909d1699f",
+        "title": "卫星互联网低轨27组卫星成功发射",
+        "summary": "我国成功发射卫星互联网低轨27组卫星，航天发射任务再获突破。",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
-        "publishedAt": "2026-10-09T22:36:37Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A827%E7%BB%84%E5%8D%AB%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23",
+        "publishedAt": "2026-10-10T05:49:10Z"
+      },
+      {
+        "id": "8a22cf465d8aa1fcba0b",
+        "title": "油价将于10月15日24时调整",
+        "summary": "国内油价将于10月15日24时调整，预计迎来新一轮调价窗口。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7694096070196723753/",
+        "publishedAt": "2026-10-10T05:49:10Z"
+      },
+      {
+        "id": "ecdec6ff3c539a0b0431",
+        "title": "我国将开展适应人工智能发展促就业行动",
+        "summary": "我国将开展适应人工智能发展促就业行动，应对AI对劳动力市场的冲击。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2501064",
+        "publishedAt": "2026-10-10T05:49:10Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注特朗普放宽对俄制裁、巴拿马强震、诺贝尔和平奖及多国政治安全事件。",
+    "overview": "国际要闻关注特朗普与普京达成俄罗斯柴油供应协议、诺贝尔和平奖授予南非人权律师、巴拿马强震及飓风登陆美国等重大事件。",
     "items": [
       {
-        "id": "aa0d23a5df21e1e0c966",
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-        "summary": "特朗普宣布美从俄获取柴油，泽连斯基批评此举是给普京的礼物。",
+        "id": "c58be44ebad28038ad98",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "summary": "特朗普宣布与普京达成协议，俄罗斯将立即向美国供应柴油，泽连斯基批评此举是给普京的礼物。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-09T13:54:28Z"
-      },
-      {
-        "id": "78bd7fb2ea53af392529",
-        "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-        "summary": "巴拿马发生7.6级强震，引发中美洲及南美洲多国海啸预警。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-        "publishedAt": "2026-10-09T13:58:02Z"
+        "publishedAt": "2026-10-09T20:38:20Z"
       },
       {
         "id": "b39a55f09d848525a6a9",
         "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
-        "summary": "南非人权律师纳维·皮莱获2026年诺贝尔和平奖，表彰其捍卫国际法。",
+        "summary": "南非人权律师纳维·皮莱获2026年诺贝尔和平奖，表彰其毕生捍卫国际法与人权。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
         "publishedAt": "2026-10-09T12:29:30Z"
       },
       {
-        "id": "3f50f8214bf6db83a5dd",
-        "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-        "summary": "三名男子被判谋杀两名澳大利亚冲浪兄弟及其美国友人罪名成立。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-09T13:55:51Z"
+        "id": "78bd7fb2ea53af392529",
+        "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+        "summary": "巴拿马发生7.6级强震，引发中美洲及南美洲多国海啸预警，总统宣布重大灾难状态。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+        "publishedAt": "2026-10-09T13:58:02Z"
       },
       {
         "id": "c70fa838775fa0c2efd6",
         "title": "Hurricane Isaias barrels toward Gulf coast as category 3 storm",
-        "summary": "飓风伊萨亚斯升级为三级，美国墨西哥湾沿岸三州宣布紧急状态。",
+        "summary": "飓风伊萨亚斯升级为三级风暴，直扑美国墨西哥湾沿岸，三州宣布紧急状态。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
         "publishedAt": "2026-10-09T13:22:04Z"
@@ -118,26 +110,34 @@
       {
         "id": "3c892b06a717c718992a",
         "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-        "summary": "欧洲多国、加拿大、日本及联合国支持国际刑事法院，反对美国制裁。",
+        "summary": "欧洲多国、加拿大、日本及联合国支持国际刑事法院，反对美国对该法院实施制裁。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
         "publishedAt": "2026-10-09T11:32:13Z"
       },
       {
-        "id": "cfaeec7e61759b87e99c",
-        "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
-        "summary": "阿联酋检方称迪拜航空副驾驶图谋对以色列机场发动自杀式袭击。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
-        "publishedAt": "2026-10-09T12:38:11Z"
+        "id": "a88f5476350d0b02e25c",
+        "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+        "summary": "台湾地区领导人赖清德称增加防务开支旨在“威慑战争”，强调台海和平与自由。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
+        "publishedAt": "2026-10-09T21:08:49Z"
       },
       {
-        "id": "6e1e5ed80dd5e516a1e3",
-        "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-        "summary": "联合国特使警告也门重回全面战争，呼吁各方对话。",
+        "id": "3b69b4b50410de73d976",
+        "title": "US judge rules Trump administration’s use of voter data unlawful",
+        "summary": "美国联邦法官裁定特朗普政府使用选民数据行为违法，司法部交叉比对移民数据库被叫停。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
-        "publishedAt": "2026-10-09T12:56:01Z"
+        "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+        "publishedAt": "2026-10-09T13:29:01Z"
+      },
+      {
+        "id": "35187a7fab19201a1991",
+        "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
+        "summary": "Anthropic旗下AI模型向费城警方提交虚假凶杀线索，当局称其两个月延迟报告“不可接受”。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+        "publishedAt": "2026-10-09T20:54:59Z"
       }
     ]
   }
