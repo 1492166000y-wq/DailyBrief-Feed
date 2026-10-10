@@ -1,111 +1,127 @@
 {
   "version": 1,
   "date": "2026-10-11",
-  "generatedAt": "2026-10-10T18:33:48Z",
+  "generatedAt": "2026-10-10T23:32:14Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦资本市场政策、就业与社保改革、产业规范及突发事件：证监会召开专家座谈会，人社部推进参保与退休预服务，四部门规范汽车产业，就业与AI结合受关注。",
+    "overview": "国内焦点集中在资本市场政策信号、产业监管新规与宏观经济部署：证监会召开座谈会强调壮大耐心资本与优化发行上市制度，发改委推动“十五五”重大工程尽早开工，四部门整治“速成车”乱象，人社部推进未参保人员参保。",
     "items": [
-      {
-        "id": "391a2a3270a4a2c08a40",
-        "title": "中国证监会召开资本市场和金融形势专家座谈会",
-        "summary": "证监会召开资本市场和金融形势专家座谈会，讨论市场运行与政策举措。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34226694",
-        "publishedAt": "2026-10-10T18:33:48Z"
-      },
-      {
-        "id": "d7383eece7d6bf81ccc7",
-        "title": "这次证监会专家座谈会内容有何不同？历次会后，A股怎么走？",
-        "summary": "证监会座谈会内容受关注，市场回顾历次会后A股走势。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2501350",
-        "publishedAt": "2026-10-10T18:33:48Z"
-      },
       {
         "id": "5be9ef916d018b22f32a",
         "title": "证监会召开座谈会：发展壮大耐心资，推动加大分红回购力度，优化发行上市制度",
-        "summary": "证监会座谈会提出发展壮大耐心资本、加大分红回购、优化发行上市制度。",
+        "summary": "证监会召开座谈会，强调发展壮大耐心资本，推动加大分红回购力度，优化发行上市制度。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783337",
-        "publishedAt": "2026-10-10T18:33:48Z"
+        "publishedAt": "2026-10-10T23:32:14Z"
       },
       {
-        "id": "2f78dfa6b5acd31e1294",
-        "title": "人社部：要把未参保人员找到动员参保",
-        "summary": "人社部要求把未参保人员找到并动员参保，扩大社保覆盖面。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7694141289457156150/",
-        "publishedAt": "2026-10-10T18:33:48Z"
-      },
-      {
-        "id": "6dd96203c5f84a949ec6",
-        "title": "人社部：全面推进“退休预服务”",
-        "summary": "人社部全面推进退休预服务，提前做好退休相关准备。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7694404649629089835/",
-        "publishedAt": "2026-10-10T18:33:48Z"
+        "id": "9b0c02be83a04783978e",
+        "title": "国家发改委：推动“十五五”规划、“六张网”建设实施方案等明确的重大工程项目尽早开工建设，激发释放内需潜力",
+        "summary": "发改委要求推动“十五五”规划及“六张网”建设等重大工程项目尽早开工，激发内需潜力。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2501307",
+        "publishedAt": "2026-10-10T23:32:14Z"
       },
       {
         "id": "9b560396a0d24ed2ce94",
         "title": "四部门“通知”终结“速成车”乱象！环境验证不少于一年 可靠性试验大于三万公里",
-        "summary": "四部门发文终结速成车乱象，要求环境验证不少于一年，可靠性试验超三万公里。",
+        "summary": "四部门发文终结“速成车”乱象，要求环境验证不少于一年、可靠性试验超三万公里。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2501345",
-        "publishedAt": "2026-10-10T18:33:48Z"
+        "publishedAt": "2026-10-10T23:32:14Z"
+      },
+      {
+        "id": "2f78dfa6b5acd31e1294",
+        "title": "人社部：要把未参保人员找到动员参保",
+        "summary": "人社部表示要把未参保人员找到并动员参保，进一步扩大社保覆盖面。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7694141289457156150/",
+        "publishedAt": "2026-10-10T23:32:14Z"
       },
       {
         "id": "ecdec6ff3c539a0b0431",
         "title": "我国将开展适应人工智能发展促就业行动",
-        "summary": "我国将开展适应人工智能发展的促就业行动，应对AI对就业影响。",
+        "summary": "我国将开展适应人工智能发展的促就业行动，应对AI对劳动力市场的冲击。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2501064",
-        "publishedAt": "2026-10-10T18:33:48Z"
+        "publishedAt": "2026-10-10T23:32:14Z"
       },
       {
-        "id": "245f7bd3fe9c30a42b6a",
-        "title": "【早报】深夜，中概股全线爆发；原油黄金，双双收涨；时隔12年，公募基金运作办法修订",
-        "summary": "财联社早报：深夜中概股全线爆发，原油黄金双双收涨，公募基金运作办法时隔12年修订。",
+        "id": "b3df05377839f59303da",
+        "title": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
+        "summary": "AI回报疑虑暂退，标普纳指反弹，光通信股领涨，电信股重挫，油价剧烈波动。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783254",
+        "publishedAt": "2026-10-10T23:32:14Z"
+      },
+      {
+        "id": "2f6430f1db64cd0cbe3c",
+        "title": "油轮运费创六十年新高：从美国运一船油到中国，比发射火箭还贵！",
+        "summary": "油轮运费创六十年新高，从美国运一船油到中国成本比发射火箭还贵。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783314",
+        "publishedAt": "2026-10-10T23:32:14Z"
+      },
+      {
+        "id": "bf8116671bfb81637e95",
+        "title": "统一涨价10%！光刻机巨头上调在韩零部件报价 三星、SK海力士已“买单”",
+        "summary": "光刻机巨头统一上调在韩零部件报价10%，三星、SK海力士已接受涨价。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2501001",
-        "publishedAt": "2026-10-10T18:33:48Z"
+        "url": "https://www.cls.cn/detail/2501087",
+        "publishedAt": "2026-10-10T23:32:14Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注俄乌冲突与美俄柴油协议引发的连锁反应、中东也门胡塞武装袭击沙特机场、美国宾州枪击案与死刑直播争议、AI安全事件及自然灾害等议题。",
+    "overview": "国际焦点集中在中东冲突升级、美俄柴油协议引发的外交震荡以及美国自然灾害：沙特利雅得机场遭袭致12死，特朗普呼吁乌克兰更换领导人，飓风“伊萨亚斯”致4死并造成大规模断电。",
     "items": [
       {
-        "id": "092e1cd9f9fe2e57ee2e",
-        "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-        "summary": "特朗普宣布购买俄罗斯柴油协议，泽连斯基愤怒，此举或与西方盟友产生新危机。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
-        "publishedAt": "2026-10-10T02:09:46Z"
-      },
-      {
-        "id": "4986ec92ec1d67429ce4",
-        "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
-        "summary": "泽连斯基称俄军致命打击是回应特朗普柴油协议，欧洲领导人重申支持基辅。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-        "publishedAt": "2026-10-10T06:45:15Z"
-      },
-      {
-        "id": "84b47ed8839cbe23f558",
-        "title": "Germany sticks to Russia sanctions after Trump diesel deal",
-        "summary": "德国在特朗普柴油协议后坚持对俄制裁，继续施压莫斯科并支持乌克兰。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-10T05:25:00Z"
-      },
-      {
-        "id": "d30912175c3ddb16b7e7",
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
-        "summary": "沙特首都利雅得机场遭袭击致多人受伤，美国大使馆称已知悉。",
+        "id": "bbf72fa87f60cacf62e4",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+        "summary": "沙特利雅得机场遭袭致12死309伤，也门胡塞武装称对此负责，地区冲突升级。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-10T08:56:32Z"
+        "publishedAt": "2026-10-10T14:40:56Z"
+      },
+      {
+        "id": "f22188efae101201b5a6",
+        "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+        "summary": "特朗普称乌克兰需要新领导人，指责泽连斯基未足够努力结束战争。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+        "publishedAt": "2026-10-10T12:42:55Z"
+      },
+      {
+        "id": "b279cf00c49fb7789571",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "summary": "俄罗斯滑翔炸弹袭击扎波罗热致至少20人死亡，泽连斯基谴责俄方在“感谢”美国柴油协议。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-10T12:51:12Z"
+      },
+      {
+        "id": "c360f430c9bffcfa7bee",
+        "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+        "summary": "飓风“伊萨亚斯”减弱为后热带气旋，已致4死，佛州等地约50万人断电。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
+        "publishedAt": "2026-10-10T11:08:54Z"
+      },
+      {
+        "id": "78bd7fb2ea53af392529",
+        "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+        "summary": "巴拿马发生7.6级强震并触发海啸预警，总统宣布重大灾难状态，中美洲多国受影响。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+        "publishedAt": "2026-10-09T13:58:02Z"
+      },
+      {
+        "id": "97145e3467723dcca931",
+        "title": "Palestinian president postpones elections until late 2027",
+        "summary": "巴勒斯坦总统阿巴斯推迟选举至2027年底，称因以色列措施造成障碍。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-10T14:54:00Z"
       },
       {
         "id": "8749333b509056b198fe",
@@ -116,28 +132,12 @@
         "publishedAt": "2026-10-10T09:48:45Z"
       },
       {
-        "id": "d6a314283eff44b432a7",
-        "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
-        "summary": "教宗称死刑不可接受，美国计划对死刑犯执行过程进行直播引发争议。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
-        "publishedAt": "2026-10-10T09:38:18Z"
-      },
-      {
         "id": "c7dfdb6f85e2d8b1946f",
         "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
         "summary": "Anthropic的AI代理向费城警方提交虚假凶杀线索，当局批评其延迟两月才报告。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-10T02:06:23Z"
-      },
-      {
-        "id": "78bd7fb2ea53af392529",
-        "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-        "summary": "巴拿马发生7.6级强震并触发海啸预警，总统宣布重大灾难状态，中美洲多国受影响。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-        "publishedAt": "2026-10-09T13:58:02Z"
       }
     ]
   }
