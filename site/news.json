@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T05:43:22Z",
+  "generatedAt": "2026-10-11T12:46:08Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦证监会资本市场座谈会释放政策信号、人民日报评刹车踏板安全风波、沙特机场遇袭事件持续发酵及新能源车市承压等核心议题。",
+    "overview": "今日焦点：证监会召开资本市场专家座谈会并发布人工智能等新质生产力重磅文件，多项汽车安全新规征求意见；中网女单郑钦文历史性晋级决赛受关注。",
     "items": [
-      {
-        "id": "5be9ef916d018b22f32a",
-        "title": "证监会召开座谈会：发展壮大耐心资，推动加大分红回购力度，优化发行上市制度",
-        "summary": "证监会召开座谈会，强调发展壮大耐心资本，推动加大分红回购力度，优化发行上市制度。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783337",
-        "publishedAt": "2026-10-11T05:43:22Z"
-      },
-      {
-        "id": "391a2a3270a4a2c08a40",
-        "title": "中国证监会召开资本市场和金融形势专家座谈会",
-        "summary": "中国证监会召开资本市场和金融形势专家座谈会，吴清出席并听取意见建议。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34226694",
-        "publishedAt": "2026-10-11T05:43:22Z"
-      },
       {
         "id": "d7383eece7d6bf81ccc7",
         "title": "这次证监会专家座谈会内容有何不同？历次会后，A股怎么走？",
-        "summary": "证监会专家座谈会内容与以往不同，市场关注历次会议后A股走势的历史规律。",
+        "summary": "证监会召开资本市场和金融形势专家座谈会，吴清发声，市场关注历次会后A股走势。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2501350",
-        "publishedAt": "2026-10-11T05:43:22Z"
+        "publishedAt": "2026-10-11T12:46:08Z"
       },
       {
-        "id": "03b207c8c3498615ca02",
-        "title": "人民日报：一辆汽车的刹车踏板，绝不应该在驾驶中出现“断裂”",
-        "summary": "人民日报评论称，一辆汽车的刹车踏板绝不应该在驾驶中出现断裂，回应安全争议。",
+        "id": "29d2b0ceaeffb970389b",
+        "title": "周末要闻汇总：事关人工智能等新质生产力，国务院发布重磅文件；证监会召开资本市场和金融形势专家座谈会",
+        "summary": "国务院发布事关人工智能等新质生产力的重磅文件，证监会同步召开资本市场专家座谈会。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2501423",
-        "publishedAt": "2026-10-11T05:43:22Z"
+        "url": "https://www.cls.cn/detail/2501472",
+        "publishedAt": "2026-10-11T12:46:08Z"
+      },
+      {
+        "id": "683b98f91d3bcc80e05b",
+        "title": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件",
+        "summary": "四部委征求意见稿拟禁止隐藏式车门把手，要求关键功能保留实体操纵件。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783341",
+        "publishedAt": "2026-10-11T12:46:08Z"
       },
       {
         "id": "9b560396a0d24ed2ce94",
         "title": "四部门“通知”终结“速成车”乱象！环境验证不少于一年 可靠性试验大于三万公里",
-        "summary": "四部门发文终结速成车乱象，要求环境验证不少于一年、可靠性试验超三万公里。",
+        "summary": "四部门通知整治“速成车”乱象，要求环境验证不少于一年、可靠性试验超三万公里。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2501345",
-        "publishedAt": "2026-10-11T05:43:22Z"
+        "publishedAt": "2026-10-11T12:46:08Z"
       },
       {
         "id": "9b0c02be83a04783978e",
         "title": "国家发改委：推动“十五五”规划、“六张网”建设实施方案等明确的重大工程项目尽早开工建设，激发释放内需潜力",
-        "summary": "国家发改委表示推动十五五规划及六张网建设等重大工程项目尽早开工，激发内需潜力。",
+        "summary": "国家发改委表示将推动“十五五”规划及“六张网”等重大工程项目尽早开工，释放内需潜力。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2501307",
-        "publishedAt": "2026-10-11T05:43:22Z"
+        "publishedAt": "2026-10-11T12:46:08Z"
       },
       {
-        "id": "498b014a677fb2fd1a8a",
-        "title": "中国新能源车9月销量同比转负12%，乘用车零售降24%",
-        "summary": "中国新能源车9月销量同比转负12%，乘用车零售下降24%，市场承压明显。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783338",
-        "publishedAt": "2026-10-11T05:43:22Z"
-      },
-      {
-        "id": "15c274f9e932ac64802c",
-        "title": "食品安全法修订公开征求意见，涉及AI监管、校园食品安全等",
-        "summary": "食品安全法修订公开征求意见，涉及AI监管和校园食品安全等内容。",
+        "id": "3194c3a5a10bbd895212",
+        "title": "创历史！郑钦文成为打进中网女单决赛首位中国球员",
+        "summary": "郑钦文成为首位打进中网女单决赛的中国球员，创造历史。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34226825",
-        "publishedAt": "2026-10-11T05:43:22Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34226698",
+        "publishedAt": "2026-10-11T12:46:08Z"
+      },
+      {
+        "id": "9c8bdee70142a9a1dab0",
+        "title": "沙特利雅得机场遭袭致12死309伤 美总统：美军可能下场",
+        "summary": "沙特利雅得机场遭袭致12死309伤，美总统称美军可能下场，中方裁判已转移。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2501417",
+        "publishedAt": "2026-10-11T12:46:08Z"
+      },
+      {
+        "id": "204f9011dc1a02ab5849",
+        "title": "市咨会召开在即，上海为何邀外企高管登上这座内陆岛",
+        "summary": "上海市咨会召开在即，邀外企高管登上内陆岛考察，释放扩大开放信号。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34227204",
+        "publishedAt": "2026-10-11T12:46:08Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，沙特利雅得机场遭袭引发地区局势紧张、特朗普就乌克兰问题施压泽连斯基、美国宾州枪击案及飓风灾害持续受关注。",
+    "overview": "国际焦点：胡塞武装袭击沙特利雅得机场致12死300余伤，美方评估是否加入打击；特朗普再要求乌克兰换总统，波兰调查针对总理的暗杀图谋。",
     "items": [
       {
-        "id": "87b45361ba2d65e2ccf6",
-        "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-        "summary": "沙特利雅得机场遭胡塞武装袭击，造成至少12人死亡、300余人受伤。",
+        "id": "639dd716b6921079d0d4",
+        "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
+        "summary": "沙特利雅得机场遭胡塞武装袭击致至少12死300余伤，沙特誓言回应这一“战争罪行”。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-        "publishedAt": "2026-10-10T17:02:07Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+        "publishedAt": "2026-10-11T04:28:11Z"
+      },
+      {
+        "id": "83be3b9581523c496089",
+        "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+        "summary": "胡塞武装警告旅客勿使用沙特机场，特朗普称正评估美国是否加入对胡塞打击。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+        "publishedAt": "2026-10-11T04:25:58Z"
       },
       {
         "id": "a03ef756e1944743e65b",
         "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-        "summary": "国际社会谴责胡塞武装袭击沙特利雅得机场，特朗普称美方正评估是否加入打击。",
+        "summary": "国际社会谴责胡塞武装袭击沙特利雅得机场，特朗普称美方正评估加入打击行动。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
         "publishedAt": "2026-10-10T18:12:07Z"
       },
       {
-        "id": "8b1402ff11b1ccca659c",
-        "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-        "summary": "利雅得机场遇袭致12死数百伤，沙特称系胡塞武装所为，特朗普评估美国是否参与打击。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-        "publishedAt": "2026-10-10T15:37:27Z"
-      },
-      {
         "id": "f9f2a9d39e8166cf8b51",
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "summary": "特朗普称乌克兰应选新总统，此前泽连斯基谴责俄罗斯柴油协议助俄资助战争。",
+        "summary": "特朗普称乌克兰应换新总统，此前泽连斯基谴责俄柴油协议资助战争。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-10T17:41:29Z"
       },
       {
-        "id": "10f4fa7ff43c065a2f5e",
-        "title": "Shooter kills 8 people and himself in Pennsylvania — police",
-        "summary": "美国宾夕法尼亚州伊利市发生枪击案，枪手杀害8人后自杀，州长表示哀悼。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-10T17:52:00Z"
-      },
-      {
-        "id": "c360f430c9bffcfa7bee",
-        "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
-        "summary": "飓风伊萨亚斯减弱为后热带气旋，已致4人死亡，佛州等地约50万人断电。",
+        "id": "7ed76939315e7a1f0321",
+        "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+        "summary": "英国国防大臣表示英国支持泽连斯基，强调维持西方在俄乌问题上的团结。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
-        "publishedAt": "2026-10-10T11:08:54Z"
+        "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+        "publishedAt": "2026-10-11T02:03:16Z"
       },
       {
-        "id": "0a25059f31ffbd1635a9",
-        "title": "US opens antitrust probe into TV networks halting Trump coverage",
-        "summary": "美国司法部对暂停报道特朗普的白宫记者团五家媒体展开反垄断调查。",
+        "id": "37c1665f1bf947035a43",
+        "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+        "summary": "波兰警方调查针对总理图斯克和国防部长的暗杀图谋，安全官员召开紧急会议。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-        "publishedAt": "2026-10-10T20:30:10Z"
+        "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
+        "publishedAt": "2026-10-11T04:09:54Z"
       },
       {
         "id": "c7dfdb6f85e2d8b1946f",
         "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-        "summary": "Anthropic的AI代理向费城警方提交虚假凶杀线索，当局批评其延迟两个月才报告。",
+        "summary": "Anthropic的AI代理向费城警方提交虚假凶杀线索，当局批评其延迟两月才报告。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-10T02:06:23Z"
+      },
+      {
+        "id": "1b445d4d1d0c1b5c2dbb",
+        "title": "Pope Leo to have surgery after lump found on lung",
+        "summary": "教皇利奥十四世因肺部发现结节将接受手术，称处于极早期阶段。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-11T04:32:23Z"
       }
     ]
   }
