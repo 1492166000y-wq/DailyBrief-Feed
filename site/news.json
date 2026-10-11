@@ -1,108 +1,100 @@
 {
   "version": 1,
   "date": "2026-10-12",
-  "generatedAt": "2026-10-11T18:53:33Z",
+  "generatedAt": "2026-10-11T23:39:04Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面：郑钦文中网夺冠刷屏，沙特机场遇袭与油价风险抬升，国务院发布人工智能文件、证监会座谈释放资本市场信号，台独言论遭批，胡塞武装与“家长教师化”等引关注。",
+    "overview": "今日重点：沙特利雅得机场连续遭胡塞武装袭击，美国称可能介入；国务院发布人工智能等新质生产力重磅文件，证监会召开资本市场座谈会；郑钦文首夺中网女单冠军创造历史。",
     "items": [
       {
-        "id": "c4c0dcefc79164cecb83",
-        "title": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军",
-        "summary": "郑钦文击败安德烈耶娃夺得中网女单冠军，首夺WTA1000赛冠军，收获115万美元并锁定澳网种子席位。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34232410",
-        "publishedAt": "2026-10-11T18:53:33Z"
-      },
-      {
-        "id": "9c8bdee70142a9a1dab0",
-        "title": "沙特利雅得机场遭袭致12死309伤 美总统：美军可能下场",
-        "summary": "沙特利雅得机场遭胡塞武装袭击，造成12人死亡309人受伤，特朗普称美军可能加入打击行动。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2501417",
-        "publishedAt": "2026-10-11T18:53:33Z"
+        "id": "45f290003805f3a3948a",
+        "title": "沙特利雅得机场遇袭造成12人死亡309人受伤，特朗普称美国有可能加入对胡塞武装的打击",
+        "summary": "沙特利雅得机场遇袭致12死309伤，特朗普称美国可能加入对胡塞武装打击。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783345",
+        "publishedAt": "2026-10-11T23:39:04Z"
       },
       {
         "id": "29d2b0ceaeffb970389b",
         "title": "周末要闻汇总：事关人工智能等新质生产力，国务院发布重磅文件；证监会召开资本市场和金融形势专家座谈会",
-        "summary": "国务院发布事关人工智能等新质生产力重磅文件，证监会召开资本市场和金融形势专家座谈会。",
+        "summary": "国务院发布人工智能等新质生产力重磅文件，证监会召开资本市场与金融形势专家座谈会。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2501472",
-        "publishedAt": "2026-10-11T18:53:33Z"
+        "publishedAt": "2026-10-11T23:39:04Z"
       },
       {
-        "id": "e5592d617e99133721ec",
-        "title": "专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减",
-        "summary": "专家指出，赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减，顽固坚持分裂立场。",
+        "id": "c4c0dcefc79164cecb83",
+        "title": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军",
+        "summary": "郑钦文击败安德烈耶娃首夺中网女单冠军，创生涯1000赛首冠。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34231024",
-        "publishedAt": "2026-10-11T18:53:33Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34232410",
+        "publishedAt": "2026-10-11T23:39:04Z"
       },
       {
         "id": "176efc8dad2331711595",
         "title": "特朗普宣布俄乌达成“能源停火”",
-        "summary": "特朗普宣布俄乌达成“能源停火”，双方同意停止袭击炼油厂、发电厂等能源基础设施。",
+        "summary": "特朗普宣布俄乌达成能源停火，停止打击炼油厂等能源基础设施。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8x90UwKzhnS",
-        "publishedAt": "2026-10-11T18:53:33Z"
+        "publishedAt": "2026-10-11T23:39:04Z"
+      },
+      {
+        "id": "e5592d617e99133721ec",
+        "title": "专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减",
+        "summary": "专家称赖清德所谓双十讲话暴露其台独分裂本质不变、毒性不减。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34231024",
+        "publishedAt": "2026-10-11T23:39:04Z"
+      },
+      {
+        "id": "b94ae7890aececb14836",
+        "title": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”",
+        "summary": "德银警告美股7月下旬以来第五轮科技股反弹已到顶，或迎倒V反转。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783359",
+        "publishedAt": "2026-10-11T23:39:04Z"
       },
       {
         "id": "a1364303289613694763",
         "title": "食品安全法大幅修订回应哪些关切？专家解读",
-        "summary": "食品安全法大幅修订，专家解读称回应了近年食品安全领域突出问题与公众关切。",
+        "summary": "食品安全法大幅修订回应社会关切，专家就修法内容进行解读。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34229428",
-        "publishedAt": "2026-10-11T18:53:33Z"
+        "publishedAt": "2026-10-11T23:39:04Z"
       },
       {
-        "id": "d7383eece7d6bf81ccc7",
-        "title": "这次证监会专家座谈会内容有何不同？历次会后，A股怎么走？",
-        "summary": "证监会专家座谈会内容引发关注，市场分析历次会后A股走势，关注政策信号。",
+        "id": "9b560396a0d24ed2ce94",
+        "title": "四部门“通知”终结“速成车”乱象！环境验证不少于一年 可靠性试验大于三万公里",
+        "summary": "四部门发文终结速成车乱象，要求环境验证不少于一年、可靠性试验超三万公里。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2501350",
-        "publishedAt": "2026-10-11T18:53:33Z"
-      },
-      {
-        "id": "d5df04a940757df3172a",
-        "title": "人民日报评刹车踏板风波",
-        "summary": "人民日报评刹车踏板风波，强调一辆汽车的刹车踏板绝不应在驾驶中出现断裂。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7693822162725228073/",
-        "publishedAt": "2026-10-11T18:53:33Z"
+        "url": "https://www.cls.cn/detail/2501345",
+        "publishedAt": "2026-10-11T23:39:04Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面：特朗普称俄乌达成能源停火但泽连斯基称不知情，胡塞武装连续袭击沙特利雅得机场，波兰挫败暗杀图斯克图谋，教皇将接受肺部手术，加州、阿富汗、尼泊尔等灾害持续。",
+    "overview": "国际焦点：胡塞武装连续袭击沙特首都机场，地区冲突升级风险上升；特朗普宣布俄乌能源停火但俄方沉默、乌方称事先不知情；美乌因俄柴油协议关系趋紧。",
     "items": [
       {
-        "id": "e120e87d5cf80f8ab10e",
-        "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
-        "summary": "特朗普宣布俄乌能源停火，泽连斯基称事先不知情，但表示若莫斯科遵守基辅也会接受。",
+        "id": "1ccc0afe90895a29f586",
+        "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+        "summary": "利雅得机场再遭袭击致一人死亡，胡塞武装连续打击沙特，地区冲突风险升级。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-        "publishedAt": "2026-10-11T09:21:39Z"
+        "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+        "publishedAt": "2026-10-11T14:28:50Z"
       },
       {
-        "id": "9965b3df3352182e2c84",
-        "title": "Saudi capital airport hit by second Houthi strike in two days",
-        "summary": "胡塞武装两天内第二次袭击沙特首都机场，称周末袭击致13人死亡，并袭击两座机场和石油设施。",
+        "id": "042d7f261a5155042366",
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "summary": "泽连斯基对特朗普宣布的能源停火表示欢迎，俄方尚未作出回应。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T08:41:37Z"
-      },
-      {
-        "id": "8973945cc2ef6f10029d",
-        "title": "Poland detains man suspected of planning assassination of PM Tusk",
-        "summary": "波兰拘留一名涉嫌策划暗杀总理图斯克及国防部长的男子，图斯克赞扬警方迅速果断行动。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T09:27:24Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-11T13:36:40Z"
       },
       {
         "id": "f9f2a9d39e8166cf8b51",
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "summary": "特朗普称乌克兰该换新总统，此前泽连斯基谴责俄柴油协议资助战争，美乌关系趋紧。",
+        "summary": "泽连斯基谴责俄柴油协议资助战争后，特朗普称乌克兰该换新总统。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-10T17:41:29Z"
@@ -110,18 +102,10 @@
       {
         "id": "93b75f292beec91b863b",
         "title": "Pope Leo XIV to undergo surgery after lump found in lung",
-        "summary": "教皇利奥十四世因肺部发现结节将接受手术，称处于极早期阶段，本周进行。",
+        "summary": "教皇利奥十四世因肺部发现结节将接受手术，称处于极早期阶段。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
         "publishedAt": "2026-10-11T07:24:50Z"
-      },
-      {
-        "id": "1ccc0afe90895a29f586",
-        "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
-        "summary": "沙特方面称利雅得机场再遭不明 projectile 袭击，此前胡塞导弹袭击已致12人死亡。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-        "publishedAt": "2026-10-11T08:49:05Z"
       },
       {
         "id": "c7dfdb6f85e2d8b1946f",
@@ -132,12 +116,28 @@
         "publishedAt": "2026-10-10T02:06:23Z"
       },
       {
-        "id": "3d57fb2d6bf8a3086af6",
-        "title": "At least five people missing as flash floods in Nepal sweep away houses",
-        "summary": "尼泊尔中部突发山洪冲毁房屋，至少五人失踪，当局敦促村民转移至安全地带。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
-        "publishedAt": "2026-10-11T08:00:48Z"
+        "id": "8973945cc2ef6f10029d",
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "summary": "波兰拘留一名涉嫌策划暗杀总理图斯克及国防部长的男子，警方迅速行动。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-11T09:27:24Z"
+      },
+      {
+        "id": "0bc021fcf1478f7e83f4",
+        "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+        "summary": "苏丹与埃及边境金矿遭空袭，据称致72人死亡，当地非法采金活动猖獗。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-11T11:41:00Z"
+      },
+      {
+        "id": "3f80fc817a9b711f688e",
+        "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+        "summary": "大众汽车CEO支持欧盟强化本土产业计划，称需与中国车企在可比条件下竞争。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+        "publishedAt": "2026-10-11T08:53:01Z"
       }
     ]
   }
