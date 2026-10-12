@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T15:18:52Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-12T22:57:27Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，新能源汽车出口退税政策调整、A股三季报密集报喜、比亚迪冲击全球第一等产业与宏观动态值得关注；社会民生领域蛋价回落、校园陪餐制拟入法等引发讨论。",
+    "overview": "国内聚焦新能源车出口退税下调、诺奖宏观经济学成果、A股三季报与存储芯片行情、台海及中东局势评论等。",
     "items": [
       {
         "id": "f7a48de7dda1806e3f1e",
@@ -12,7 +12,23 @@
         "summary": "财政部宣布明年4月1日起新能源汽车增值税出口退税率由13%下调至9%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783438",
-        "publishedAt": "2026-10-12T15:18:52Z"
+        "publishedAt": "2026-10-12T22:57:27Z"
+      },
+      {
+        "id": "b8542956bf8d3c57c6ac",
+        "title": "诺贝尔经济学奖揭晓：两位学者重新诠释凯恩斯理论，为宏观稳定政策奠定微观基础",
+        "summary": "诺贝尔经济学奖授予两位学者，重新诠释凯恩斯理论，为宏观稳定政策奠定微观基础。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783443",
+        "publishedAt": "2026-10-12T22:57:27Z"
+      },
+      {
+        "id": "5c38612cbfd220d90998",
+        "title": "业绩大增！两只千元“光通信”产业龙头股三季报预告出炉",
+        "summary": "两只千元光通信产业龙头股三季报预告业绩大增。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2502579",
+        "publishedAt": "2026-10-12T22:57:27Z"
       },
       {
         "id": "9221c99963e19a652e66",
@@ -20,77 +36,45 @@
         "summary": "三季报密集报喜，多家A股公司前三季度净利预计倍增。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2502243",
-        "publishedAt": "2026-10-12T15:18:52Z"
+        "publishedAt": "2026-10-12T22:57:27Z"
       },
       {
-        "id": "edda2f6ff29ddb6fc1aa",
-        "title": "比亚迪副总裁：5年内成全球第一车企",
-        "summary": "比亚迪副总裁称公司5年内将成为全球第一车企。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7695467334634586634/",
-        "publishedAt": "2026-10-12T15:18:52Z"
+        "id": "933e6d816ecec8f82436",
+        "title": "创业板跌超2%，工业富联跌7%，文化传媒逆势拉升，贵州茅台重夺“股王”宝座，30年期国债升至逾一年高位",
+        "summary": "创业板跌超2%，工业富联跌7%，贵州茅台重夺股王，30年期国债升至逾一年高位。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783404",
+        "publishedAt": "2026-10-12T22:57:27Z"
       },
       {
-        "id": "9f2faa8892706cff781b",
-        "title": "蛋价跌回“4元时代”",
-        "summary": "蛋价跌回“4元时代”，引发市场与民生关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%9B%8B%E4%BB%B7%E8%B7%8C%E5%9B%9E%E2%80%9C4%E5%85%83%E6%97%B6%E4%BB%A3%E2%80%9D",
-        "publishedAt": "2026-10-12T15:18:52Z"
+        "id": "38686f847816b017cac7",
+        "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
+        "summary": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783408",
+        "publishedAt": "2026-10-12T22:57:27Z"
       },
       {
-        "id": "0b18410db251a390e218",
-        "title": "众声丨陪餐制拟入法：守护校园餐桌，关键在于“责”",
-        "summary": "陪餐制拟入法，评论称守护校园餐桌关键在于“责”。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34235914",
-        "publishedAt": "2026-10-12T15:18:52Z"
-      },
-      {
-        "id": "5c38612cbfd220d90998",
-        "title": "业绩大增！两只千元“光通信”产业龙头股三季报预告出炉",
-        "summary": "两只千元“光通信”产业龙头股三季报预告显示业绩大增。",
+        "id": "4d2c6831c4b41f258cc8",
+        "title": "新规严禁“宽基窄投”，这81只基金可能要整改了",
+        "summary": "新规严禁宽基窄投，81只基金可能面临整改。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2502579",
-        "publishedAt": "2026-10-12T15:18:52Z"
+        "url": "https://www.cls.cn/detail/2502620",
+        "publishedAt": "2026-10-12T22:57:27Z"
       },
       {
         "id": "7cad4f1d13df46d59c36",
         "title": "评论员：日本是铁了心要介入台海",
-        "summary": "评论员称日本铁了心要介入台海，引发舆论关注。",
+        "summary": "评论员称日本铁了心要介入台海。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7695707626033954852/",
-        "publishedAt": "2026-10-12T15:18:52Z"
-      },
-      {
-        "id": "efde18155c05c2101d2e",
-        "title": "刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖",
-        "summary": "Karpathy警告全人类对AI认知正撕裂，称仅5000人知其恐怖。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783396",
-        "publishedAt": "2026-10-12T15:18:52Z"
+        "publishedAt": "2026-10-12T22:57:27Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国联邦探员搜查特朗普批评者奥马尔住所、俄乌“能源停火”争议持续、沙特机场连遭胡塞武装袭击、2026年诺贝尔经济学奖揭晓等事件影响广泛。",
+    "overview": "国际关注美俄乌能源停火僵局、胡塞袭沙特机场、英国指伊朗涉空军基地事件、法国学校枪击与超市网络攻击、诺奖经济学奖等。",
     "items": [
-      {
-        "id": "14812884647177b1c458",
-        "title": "Federal agents search Ilhan Omar’s home as part of criminal investigation",
-        "summary": "美联邦探员搜查民主党众议员奥马尔住所，称属刑事调查。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
-        "publishedAt": "2026-10-12T06:15:06Z"
-      },
-      {
-        "id": "46106113c99ac2640f7f",
-        "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-        "summary": "美移民探员搜查国会女议员奥马尔住所，系特朗普批评者。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-12T07:02:41Z"
-      },
       {
         "id": "e5afa0637a0abfee51c9",
         "title": "Zelenskyy says Russia hit six energy facilities on Monday and is not willing to accept US ‘energy ceasefire’ proposal – Europe live",
@@ -98,6 +82,14 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
         "publishedAt": "2026-10-12T06:57:07Z"
+      },
+      {
+        "id": "0643da4eb610d0cff50b",
+        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+        "summary": "泽连斯基称特朗普宣布停火以来俄已袭击六处乌克兰能源设施。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-12T13:20:51Z"
       },
       {
         "id": "d2c781fcaf8c3ba3a280",
@@ -108,12 +100,36 @@
         "publishedAt": "2026-10-12T03:49:34Z"
       },
       {
-        "id": "9df545b1c9a993e1a881",
-        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-        "summary": "利雅得机场两天内第二次遭胡塞武装袭击，致1死11伤。",
+        "id": "cc481e16c254f235f59d",
+        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "summary": "沙特部长誓言对胡塞袭击机场作出严肃回应，袭击致13人死亡。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T14:45:58Z"
+        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-12T12:54:09Z"
+      },
+      {
+        "id": "69a5830aeb00f4c43cb6",
+        "title": "Iran’s Revolutionary Guards ‘almost certainly’ behind RAF Fairford threats, says Burnham",
+        "summary": "英国首相称伊朗革命卫队几乎肯定是RAF Fairford威胁幕后黑手。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/12/iran-revolutionary-guards-irgc-raf-fairford-threats",
+        "publishedAt": "2026-10-12T09:08:11Z"
+      },
+      {
+        "id": "1fe36efe070a77832543",
+        "title": "Teenager shoots headmaster, teacher at French school",
+        "summary": "法国一14岁少年持猎枪在学校开枪，致校长和教师受伤。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
+        "publishedAt": "2026-10-12T11:44:00Z"
+      },
+      {
+        "id": "877681dcab319ba90622",
+        "title": "Fridges in French supermarkets hit by cyber attack",
+        "summary": "法国数百家超市冷冻系统遭网络攻击，大量生鲜冷冻食品变质。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-12T10:31:32Z"
       },
       {
         "id": "47e69c595a0fdc878e78",
@@ -122,22 +138,6 @@
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-12T01:55:00Z"
-      },
-      {
-        "id": "fc2994bbcb57323ccfa2",
-        "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
-        "summary": "欧盟将中国混合动力汽车年进口量限制在35万辆。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
-        "publishedAt": "2026-10-12T03:23:55Z"
-      },
-      {
-        "id": "260f8013cb4d5c5932e5",
-        "title": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
-        "summary": "德国称欧盟新一轮对俄制裁前所未有，涉超千实体制裁。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-12T02:48:00Z"
       }
     ]
   }
