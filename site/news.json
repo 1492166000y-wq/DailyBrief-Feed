@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T05:53:21Z",
+  "generatedAt": "2026-10-12T15:18:52Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，科技、资本市场与产业政策密集发声：中国天眼发现三体世界、四部门出手规范汽车产业、证监会表态回报投资者、半导体链动态频出；同时耕地撂荒、项目烂尾等监督报道引发关注。",
+    "overview": "国内方面，新能源汽车出口退税政策调整、A股三季报密集报喜、比亚迪冲击全球第一等产业与宏观动态值得关注；社会民生领域蛋价回落、校园陪餐制拟入法等引发讨论。",
     "items": [
       {
-        "id": "00e23055472d3d0b7108",
-        "title": "“中国天眼”发现真实宇宙三体世界",
-        "summary": "“中国天眼”发现真实宇宙三体世界，为国际天文前沿成果，引发广泛关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7695464182212313610/",
-        "publishedAt": "2026-10-12T05:53:21Z"
-      },
-      {
-        "id": "a6f90027d70ef25f4576",
-        "title": "【早报】特朗普：俄乌同意“能源停火”；吴清：共同把资本市场建设好，更好回报广大投资者；四部门出手，事关汽车产业",
-        "summary": "财联社早报：特朗普称俄乌同意能源停火；吴清表态共同建设资本市场、回报投资者；四部门出手规范汽车产业。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2501666",
-        "publishedAt": "2026-10-12T05:53:21Z"
-      },
-      {
-        "id": "5f1896871f88152afe24",
-        "title": "本周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报",
-        "summary": "本周重磅日程：中美CPI、沃什讲话、Anthropic投资者日及台积电、ASML财报密集登场。",
+        "id": "f7a48de7dda1806e3f1e",
+        "title": "财政部：明年4月1日起，新能源汽车增值税出口退税率由13%下调至9%",
+        "summary": "财政部宣布明年4月1日起新能源汽车增值税出口退税率由13%下调至9%。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783242",
-        "publishedAt": "2026-10-12T05:53:21Z"
+        "url": "https://wallstreetcn.com/articles/3783438",
+        "publishedAt": "2026-10-12T15:18:52Z"
       },
       {
-        "id": "684d44ecba6082c5fecd",
-        "title": "科技股能否回稳？四季度哪些机会值得布局？十大券商策略来了",
-        "summary": "十大券商发布四季度策略，聚焦科技股能否回稳及后续布局机会。",
+        "id": "9221c99963e19a652e66",
+        "title": "三季报密集报喜：多家A股公司前三季度净利预计倍增",
+        "summary": "三季报密集报喜，多家A股公司前三季度净利预计倍增。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2501541",
-        "publishedAt": "2026-10-12T05:53:21Z"
+        "url": "https://www.cls.cn/detail/2502243",
+        "publishedAt": "2026-10-12T15:18:52Z"
       },
       {
-        "id": "cdc48d9384290e26d55d",
-        "title": "央视曝光：千亩耕地遭撂荒，荒废多年仍领补贴",
-        "summary": "央视曝光千亩耕地遭撂荒，荒废多年仍领取补贴，耕地保护与补贴监管受质疑。",
+        "id": "edda2f6ff29ddb6fc1aa",
+        "title": "比亚迪副总裁：5年内成全球第一车企",
+        "summary": "比亚迪副总裁称公司5年内将成为全球第一车企。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7695467334634586634/",
+        "publishedAt": "2026-10-12T15:18:52Z"
+      },
+      {
+        "id": "9f2faa8892706cff781b",
+        "title": "蛋价跌回“4元时代”",
+        "summary": "蛋价跌回“4元时代”，引发市场与民生关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%9B%8B%E4%BB%B7%E8%B7%8C%E5%9B%9E%E2%80%9C4%E5%85%83%E6%97%B6%E4%BB%A3%E2%80%9D",
+        "publishedAt": "2026-10-12T15:18:52Z"
+      },
+      {
+        "id": "0b18410db251a390e218",
+        "title": "众声丨陪餐制拟入法：守护校园餐桌，关键在于“责”",
+        "summary": "陪餐制拟入法，评论称守护校园餐桌关键在于“责”。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34232503",
-        "publishedAt": "2026-10-12T05:53:21Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34235914",
+        "publishedAt": "2026-10-12T15:18:52Z"
       },
       {
-        "id": "30d8546f320921e7c0b4",
-        "title": "央视曝投资1.2亿项目仅建5个棚",
-        "summary": "央视曝投资1.2亿元项目仅建5个棚，涉事蔬菜大棚被指沦为骗资工具。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7695387010010365971/",
-        "publishedAt": "2026-10-12T05:53:21Z"
-      },
-      {
-        "id": "9b37485101c12fd6b185",
-        "title": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”",
-        "summary": "高盛讨论会指出AI交易正从硬件转向应用，市场迫切寻找“下一个AI故事”。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783363",
-        "publishedAt": "2026-10-12T05:53:21Z"
-      },
-      {
-        "id": "0e2746e853a8d03860a9",
-        "title": "基金规则大改周末刷屏，降门槛等成关键词，招商、景顺长城、汇添富、摩根等多家发声",
-        "summary": "基金规则大改周末刷屏，降门槛成关键词，招商、景顺长城、汇添富、摩根等多家机构发声。",
+        "id": "5c38612cbfd220d90998",
+        "title": "业绩大增！两只千元“光通信”产业龙头股三季报预告出炉",
+        "summary": "两只千元“光通信”产业龙头股三季报预告显示业绩大增。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2501566",
-        "publishedAt": "2026-10-12T05:53:21Z"
+        "url": "https://www.cls.cn/detail/2502579",
+        "publishedAt": "2026-10-12T15:18:52Z"
+      },
+      {
+        "id": "7cad4f1d13df46d59c36",
+        "title": "评论员：日本是铁了心要介入台海",
+        "summary": "评论员称日本铁了心要介入台海，引发舆论关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7695707626033954852/",
+        "publishedAt": "2026-10-12T15:18:52Z"
+      },
+      {
+        "id": "efde18155c05c2101d2e",
+        "title": "刚刚，Karpathy警告：全人类对AI的认知正在彻底撕裂，全世界只有5000人知道它有多恐怖",
+        "summary": "Karpathy警告全人类对AI认知正撕裂，称仅5000人知其恐怖。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783396",
+        "publishedAt": "2026-10-12T15:18:52Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，中东局势急剧升级，胡塞武装连续袭击沙特利雅得机场；特朗普宣布俄乌“能源停火”遭质疑，美俄柴油交易引发反弹；北韩再度试射弹道导弹，英国预算与AI安全议题亦受关注。",
+    "overview": "国际方面，美国联邦探员搜查特朗普批评者奥马尔住所、俄乌“能源停火”争议持续、沙特机场连遭胡塞武装袭击、2026年诺贝尔经济学奖揭晓等事件影响广泛。",
     "items": [
       {
-        "id": "1ccc0afe90895a29f586",
-        "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
-        "summary": "沙特称利雅得机场再遭胡塞武装袭击，致一人死亡，地区冲突风险升级。",
+        "id": "14812884647177b1c458",
+        "title": "Federal agents search Ilhan Omar’s home as part of criminal investigation",
+        "summary": "美联邦探员搜查民主党众议员奥马尔住所，称属刑事调查。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-        "publishedAt": "2026-10-11T14:28:50Z"
+        "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
+        "publishedAt": "2026-10-12T06:15:06Z"
+      },
+      {
+        "id": "46106113c99ac2640f7f",
+        "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+        "summary": "美移民探员搜查国会女议员奥马尔住所，系特朗普批评者。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-12T07:02:41Z"
+      },
+      {
+        "id": "e5afa0637a0abfee51c9",
+        "title": "Zelenskyy says Russia hit six energy facilities on Monday and is not willing to accept US ‘energy ceasefire’ proposal – Europe live",
+        "summary": "泽连斯基称俄周一袭击六处能源设施，不接受美方能源停火提议。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+        "publishedAt": "2026-10-12T06:57:07Z"
+      },
+      {
+        "id": "d2c781fcaf8c3ba3a280",
+        "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+        "summary": "沙特利雅得机场再遭胡塞袭击后进一步暂停航班。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+        "publishedAt": "2026-10-12T03:49:34Z"
       },
       {
         "id": "9df545b1c9a993e1a881",
         "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-        "summary": "利雅得机场两天内第二次遭胡塞袭击，一人死亡、十一人受伤，沙特首都周末连遭打击。",
+        "summary": "利雅得机场两天内第二次遭胡塞武装袭击，致1死11伤。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-11T14:45:58Z"
       },
       {
-        "id": "042d7f261a5155042366",
-        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-        "summary": "泽连斯基对特朗普宣布的俄乌“能源停火”表示欢迎，俄方尚未回应。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T13:36:40Z"
+        "id": "47e69c595a0fdc878e78",
+        "title": "Nobel Prize in Economics goes to pair of US economists",
+        "summary": "2026年诺贝尔经济学奖授予两名美国经济学家霍尔与伍德福德。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-12T01:55:00Z"
       },
       {
-        "id": "f9f2a9d39e8166cf8b51",
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "summary": "泽连斯基谴责俄柴油协议资助战争后，特朗普称乌克兰应换新总统。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-10T17:41:29Z"
-      },
-      {
-        "id": "cbdb03d116a9836abec5",
-        "title": "Trump faces growing backlash over plans to import diesel from Russia",
-        "summary": "特朗普计划从俄罗斯进口柴油，共和与民主两党议员齐声批评，中期选举前争议升温。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T15:18:45Z"
-      },
-      {
-        "id": "7b53f276edaa9f003f8c",
-        "title": "North Korea fires multiple ballistic missiles towards the sea",
-        "summary": "朝鲜向海上方向发射多枚弹道导弹，首尔称为回应韩方高超音速导弹试射的武力展示。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-        "publishedAt": "2026-10-11T19:37:12Z"
-      },
-      {
-        "id": "f603297327392b9ca56b",
-        "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
-        "summary": "英国首相伯纳姆称“明确”俄罗斯干预了2016年脱欧公投，系英首相首次公开承认。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
-        "publishedAt": "2026-10-11T17:12:35Z"
-      },
-      {
-        "id": "4076a9a9d50efbfc0154",
-        "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
-        "summary": "英国智库IFS警告，若无明确计划覆盖350亿英镑支出压力，预算将沦为“虚构作品”。",
+        "id": "fc2994bbcb57323ccfa2",
+        "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
+        "summary": "欧盟将中国混合动力汽车年进口量限制在35万辆。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
-        "publishedAt": "2026-10-11T21:49:11Z"
+        "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
+        "publishedAt": "2026-10-12T03:23:55Z"
+      },
+      {
+        "id": "260f8013cb4d5c5932e5",
+        "title": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
+        "summary": "德国称欧盟新一轮对俄制裁前所未有，涉超千实体制裁。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-12T02:48:00Z"
       }
     ]
   }
