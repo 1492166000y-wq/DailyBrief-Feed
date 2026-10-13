@@ -1,34 +1,50 @@
 {
   "version": 1,
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T15:56:30Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-13T21:14:05Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦反腐、司法与资本市场：黄奇帆被查、缅北电诈家族宣判、金融监管新规及A股三季报行情。科技与产业方面，存储芯片、人形机器人和AI融资动态受关注。",
+    "overview": "国内方面，缅北电诈集团获刑、黄奇帆被查、A股三季报预增及存储芯片波动等构成时政财经焦点；科技领域AI投资、机器人应用也受关注。",
     "items": [
-      {
-        "id": "d68aeb9c2e3a0741ceb1",
-        "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
-        "summary": "重庆市委原副书记、市政府原市长黄奇帆涉嫌严重违纪违法被查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34243299",
-        "publishedAt": "2026-10-13T15:56:30Z"
-      },
       {
         "id": "1377b44d77bb9890f6d2",
         "title": "缅北四大家族3个已被中国宣判",
-        "summary": "缅北四大家族中三个犯罪集团已被中国法院依法宣判。",
+        "summary": "缅北四大家族中三个已被中国依法宣判，彰显打击跨境电信诈骗犯罪力度。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7696014004717273151/",
-        "publishedAt": "2026-10-13T15:56:30Z"
+        "publishedAt": "2026-10-13T21:14:05Z"
       },
       {
-        "id": "531f2890cba0819e4d18",
-        "title": "中国人民银行批准威士公司筹备银行卡清算机构",
-        "summary": "央行批准威士公司筹备银行卡清算机构，扩大金融市场开放。",
+        "id": "d68aeb9c2e3a0741ceb1",
+        "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
+        "summary": "重庆市委原副书记、市政府原市长黄奇帆被查，系近期重要反腐动态。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34241256",
-        "publishedAt": "2026-10-13T15:56:30Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34243299",
+        "publishedAt": "2026-10-13T21:14:05Z"
+      },
+      {
+        "id": "8b6ceb2e8cf61409d86a",
+        "title": "全球AI交易重挫，费城半导体指数跌超2%，苹果股价再创新高，布油跌超1%",
+        "summary": "全球AI交易重挫，费城半导体指数跌超2%，苹果股价再创新高，布油跌超1%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783492",
+        "publishedAt": "2026-10-13T21:14:05Z"
+      },
+      {
+        "id": "4eab4da1518b9492ccf3",
+        "title": "A股再现三季报业绩“预增潮”：3家公司净利预增超5倍",
+        "summary": "A股再现三季报业绩预增潮，3家公司净利预增超5倍，市场关注度升温。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2503675",
+        "publishedAt": "2026-10-13T21:14:05Z"
+      },
+      {
+        "id": "6044207f68e16b28a5d4",
+        "title": "泽连斯基向美方提交新一轮会晤方案",
+        "summary": "泽连斯基向美方提交新一轮会晤方案，美乌互动持续引发关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xCXTYftD7S",
+        "publishedAt": "2026-10-13T21:14:05Z"
       },
       {
         "id": "083d138b1a994c58f8eb",
@@ -36,68 +52,68 @@
         "summary": "香港证监会就涉嫌操纵IPO采取行动，并暂停茶百道股份交易。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2503437",
-        "publishedAt": "2026-10-13T15:56:30Z"
+        "publishedAt": "2026-10-13T21:14:05Z"
       },
       {
-        "id": "4eab4da1518b9492ccf3",
-        "title": "A股再现三季报业绩“预增潮”：3家公司净利预增超5倍",
-        "summary": "A股三季报预增潮涌现，3家公司净利预增超5倍。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2503675",
-        "publishedAt": "2026-10-13T15:56:30Z"
+        "id": "531f2890cba0819e4d18",
+        "title": "中国人民银行批准威士公司筹备银行卡清算机构",
+        "summary": "中国人民银行批准威士公司筹备银行卡清算机构，金融开放稳步推进。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34241256",
+        "publishedAt": "2026-10-13T21:14:05Z"
       },
       {
-        "id": "c9a0738b4eddb1eae0f6",
-        "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
-        "summary": "长鑫4F²架构引发海外存储股大跌，马斯克称中国制造能力惊人。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783500",
-        "publishedAt": "2026-10-13T15:56:30Z"
-      },
-      {
-        "id": "b7cd1072fc5f397559d9",
-        "title": "半个月，500亿变1000亿！DeepSeek将完成新一轮融资，梁文峰盯上具身智能",
-        "summary": "DeepSeek半月内估值翻倍，将完成新一轮融资并布局具身智能。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783495",
-        "publishedAt": "2026-10-13T15:56:30Z"
-      },
-      {
-        "id": "c3ff99227d250fbdde24",
-        "title": "英特尔和博通CEO同日警告：资本已成AI最大瓶颈，ROI比芯片更短缺！马斯克回应：在赌场就别哭",
-        "summary": "英特尔与博通CEO同日警告AI资本与回报率瓶颈，马斯克回应。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783487",
-        "publishedAt": "2026-10-13T15:56:30Z"
+        "id": "ce3baa5cd9c57296935f",
+        "title": "德国总理：我无意成为国民的宠儿，不要支持率也要改革",
+        "summary": "德国总理表示无意成为国民宠儿，不要支持率也要推进改革。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xCJNoIlNWH",
+        "publishedAt": "2026-10-13T21:14:05Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻围绕俄乌冲突、中东局势和美国政治：乌克兰称遭俄导弹袭击且无预警，胡塞武装袭击沙特机场，美驻希腊大使被要求辞职。IMF警告AI股价与全球金融风险。",
+    "overview": "国际方面，图帕克谋杀案宣判、教宗确诊肺癌、沙特与胡塞武装冲突升级、特朗普政府人事变动及美乌俄博弈等事件持续发酵，全球金融市场与地缘风险交织。",
     "items": [
+      {
+        "id": "1545e8b68d3208d759bc",
+        "title": "Tupac Shakur killer sentenced to 40 years in prison",
+        "summary": "图帕克·沙库尔谋杀案凶手被判40年监禁，这起近30年悬案终有结果。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+        "publishedAt": "2026-10-13T12:46:22Z"
+      },
+      {
+        "id": "68db17c3f3d354331e1c",
+        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+        "summary": "梵蒂冈称教宗确诊肺癌并已成功接受手术，切除右肺下叶。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-13T12:46:06Z"
+      },
+      {
+        "id": "2311945abd7f6e1ca622",
+        "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
+        "summary": "沙特空袭也门萨那附近石油设施，并称拦截针对阿美总部方向导弹。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+        "publishedAt": "2026-10-13T09:26:08Z"
+      },
+      {
+        "id": "d335158016a235b7032c",
+        "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
+        "summary": "美国驻希腊大使吉尔福伊尔因不当行为指控辞职，特朗普政府人事再起波澜。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+        "publishedAt": "2026-10-13T12:45:46Z"
+      },
       {
         "id": "f18558e8e814a84f4515",
         "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-        "summary": "泽连斯基称盟友未就俄弹道导弹袭击基辅提前预警，导弹击中民用设施。",
+        "summary": "泽连斯基称盟友未就俄弹道导弹袭击基辅提前预警，乌方对情报共享不满。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-        "publishedAt": "2026-10-13T05:51:50Z"
-      },
-      {
-        "id": "15ad0f04a795df346ef2",
-        "title": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
-        "summary": "胡塞武装威胁袭击沙特阿美设施和机场，萨那传出爆炸声。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-        "publishedAt": "2026-10-13T07:01:36Z"
-      },
-      {
-        "id": "ca10c181e270c357370d",
-        "title": "White House says it has asked Kimberly Guilfoyle to resign as US ambassador to Greece – live",
-        "summary": "白宫要求美国驻希腊大使吉尔福伊尔辞职，其面临不当行为指控。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-        "publishedAt": "2026-10-13T07:43:34Z"
+        "publishedAt": "2026-10-13T09:17:13Z"
       },
       {
         "id": "4027e34c1103645f801d",
@@ -110,34 +126,18 @@
       {
         "id": "749de696443b2274f564",
         "title": "Russia did try to interfere in Brexit referendum, head of MI5 confirms",
-        "summary": "英国军情五处负责人证实俄罗斯曾试图干预脱欧公投。",
+        "summary": "英国军情五处负责人证实俄罗斯曾试图干预脱欧公投，称影响有限。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
         "publishedAt": "2026-10-13T07:15:45Z"
       },
       {
-        "id": "9c1ac47e34c380d98fa9",
-        "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-        "summary": "匈牙利议会投票废除欧尔班时代反LGBTQ立法，活动人士表示欢迎。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-13T05:23:45Z"
-      },
-      {
-        "id": "708fcf61508c352d7e35",
-        "title": "Ex-president named leader of new DR Congo rebel coalition",
-        "summary": "刚果（金）前总统卡比拉被指领导新的反政府武装政治联盟。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-13T05:40:45Z"
-      },
-      {
-        "id": "5a36285721e051ad2285",
-        "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-        "summary": "美国六旗主题公园过山车事故致1死多伤，多州关闭同类设施。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-13T07:38:03Z"
+        "id": "b04a1a8e62edba50e8dc",
+        "title": "Scientists urge tighter AI controls to prevent global cyber risks",
+        "summary": "科学家呼吁加强AI管控以防全球网络风险，正值美国中期选举临近。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
+        "publishedAt": "2026-10-13T12:00:32Z"
       }
     ]
   }
