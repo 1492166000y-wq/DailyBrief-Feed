@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-13",
-  "generatedAt": "2026-10-12T22:57:27Z",
+  "generatedAt": "2026-10-13T06:45:50Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦新能源车出口退税下调、诺奖宏观经济学成果、A股三季报与存储芯片行情、台海及中东局势评论等。",
+    "overview": "今日国内焦点集中于缅北魏家犯罪集团案宣判、新能源汽车出口退税调整、诺贝尔经济学奖解读及A股市场波动，同时涉及新质生产力、消费活力等宏观议题。",
     "items": [
+      {
+        "id": "bdca27c0b306c5ed841b",
+        "title": "3人死刑！缅北魏家犯罪集团案宣判",
+        "summary": "缅北魏家犯罪集团案宣判，魏怀仁等3人被判死刑，犯罪集团覆灭始末披露。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696008851812417578/",
+        "publishedAt": "2026-10-13T06:45:50Z"
+      },
       {
         "id": "f7a48de7dda1806e3f1e",
         "title": "财政部：明年4月1日起，新能源汽车增值税出口退税率由13%下调至9%",
-        "summary": "财政部宣布明年4月1日起新能源汽车增值税出口退税率由13%下调至9%。",
+        "summary": "财政部：明年4月1日起，新能源汽车增值税出口退税率由13%下调至9%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783438",
-        "publishedAt": "2026-10-12T22:57:27Z"
+        "publishedAt": "2026-10-13T06:45:50Z"
       },
       {
         "id": "b8542956bf8d3c57c6ac",
         "title": "诺贝尔经济学奖揭晓：两位学者重新诠释凯恩斯理论，为宏观稳定政策奠定微观基础",
-        "summary": "诺贝尔经济学奖授予两位学者，重新诠释凯恩斯理论，为宏观稳定政策奠定微观基础。",
+        "summary": "2026年诺贝尔经济学奖揭晓，两位学者重新诠释凯恩斯理论，为宏观稳定政策奠定微观基础。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783443",
-        "publishedAt": "2026-10-12T22:57:27Z"
-      },
-      {
-        "id": "5c38612cbfd220d90998",
-        "title": "业绩大增！两只千元“光通信”产业龙头股三季报预告出炉",
-        "summary": "两只千元光通信产业龙头股三季报预告业绩大增。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2502579",
-        "publishedAt": "2026-10-12T22:57:27Z"
-      },
-      {
-        "id": "9221c99963e19a652e66",
-        "title": "三季报密集报喜：多家A股公司前三季度净利预计倍增",
-        "summary": "三季报密集报喜，多家A股公司前三季度净利预计倍增。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2502243",
-        "publishedAt": "2026-10-12T22:57:27Z"
+        "publishedAt": "2026-10-13T06:45:50Z"
       },
       {
         "id": "933e6d816ecec8f82436",
         "title": "创业板跌超2%，工业富联跌7%，文化传媒逆势拉升，贵州茅台重夺“股王”宝座，30年期国债升至逾一年高位",
-        "summary": "创业板跌超2%，工业富联跌7%，贵州茅台重夺股王，30年期国债升至逾一年高位。",
+        "summary": "创业板跌超2%，贵州茅台重夺“股王”宝座，30年期国债升至逾一年高位。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783404",
-        "publishedAt": "2026-10-12T22:57:27Z"
+        "publishedAt": "2026-10-13T06:45:50Z"
       },
       {
-        "id": "38686f847816b017cac7",
-        "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
-        "summary": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783408",
-        "publishedAt": "2026-10-12T22:57:27Z"
-      },
-      {
-        "id": "4d2c6831c4b41f258cc8",
-        "title": "新规严禁“宽基窄投”，这81只基金可能要整改了",
-        "summary": "新规严禁宽基窄投，81只基金可能面临整改。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2502620",
-        "publishedAt": "2026-10-12T22:57:27Z"
-      },
-      {
-        "id": "7cad4f1d13df46d59c36",
-        "title": "评论员：日本是铁了心要介入台海",
-        "summary": "评论员称日本铁了心要介入台海。",
+        "id": "456783dc8f2787de6522",
+        "title": "新质生产力发展路线图来了",
+        "summary": "新质生产力发展路线图发布，明确产业升级与科技创新方向。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7695707626033954852/",
-        "publishedAt": "2026-10-12T22:57:27Z"
+        "url": "https://www.toutiao.com/trending/7695758868088897579/",
+        "publishedAt": "2026-10-13T06:45:50Z"
+      },
+      {
+        "id": "90bb1232fb0fd0aab0de",
+        "title": "【数读IPO】粤芯半导体，今日上市",
+        "summary": "粤芯半导体今日上市，为半导体产业再添资本力量。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2502851",
+        "publishedAt": "2026-10-13T06:45:50Z"
+      },
+      {
+        "id": "7e4b12f17b29654dc4b7",
+        "title": "中方：台湾问题是中国内政不容干涉",
+        "summary": "中方重申台湾问题是中国内政，不容任何外部势力干涉。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7694979322327334954/",
+        "publishedAt": "2026-10-13T06:45:50Z"
+      },
+      {
+        "id": "55836f9b270e6c8acdb0",
+        "title": "俄鼠疫防治所一人员因不明原因肺炎死亡，呼伦贝尔发布风险提示",
+        "summary": "俄鼠疫防治所一人员因不明原因肺炎死亡，呼伦贝尔发布风险提示。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xBNANgXYXo",
+        "publishedAt": "2026-10-13T06:45:50Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注美俄乌能源停火僵局、胡塞袭沙特机场、英国指伊朗涉空军基地事件、法国学校枪击与超市网络攻击、诺奖经济学奖等。",
+    "overview": "国际方面，IMF警告全球经济韧性面临考验并提示AI股市崩盘风险，沙特与胡塞武装冲突升级，乌克兰能源停火争议持续，美德州主题公园事故及法国超市网络攻击等突发事件亦受关注。",
     "items": [
       {
-        "id": "e5afa0637a0abfee51c9",
-        "title": "Zelenskyy says Russia hit six energy facilities on Monday and is not willing to accept US ‘energy ceasefire’ proposal – Europe live",
-        "summary": "泽连斯基称俄周一袭击六处能源设施，不接受美方能源停火提议。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-        "publishedAt": "2026-10-12T06:57:07Z"
-      },
-      {
-        "id": "0643da4eb610d0cff50b",
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-        "summary": "泽连斯基称特朗普宣布停火以来俄已袭击六处乌克兰能源设施。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-12T13:20:51Z"
-      },
-      {
-        "id": "d2c781fcaf8c3ba3a280",
-        "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-        "summary": "沙特利雅得机场再遭胡塞袭击后进一步暂停航班。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-        "publishedAt": "2026-10-12T03:49:34Z"
+        "id": "930daa16b830148d5730",
+        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+        "summary": "IMF警告AI股价崩盘可能危及全球金融稳定，债务与网络攻击风险叠加。",
+        "source": "Hacker News",
+        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+        "publishedAt": "2026-10-12T21:57:32Z"
       },
       {
         "id": "cc481e16c254f235f59d",
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-        "summary": "沙特部长誓言对胡塞袭击机场作出严肃回应，袭击致13人死亡。",
+        "summary": "沙特大臣誓言对胡塞武装袭击机场作出“严肃回应”，此前袭击致13人死亡。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-12T12:54:09Z"
+        "publishedAt": "2026-10-12T20:30:09Z"
       },
       {
-        "id": "69a5830aeb00f4c43cb6",
-        "title": "Iran’s Revolutionary Guards ‘almost certainly’ behind RAF Fairford threats, says Burnham",
-        "summary": "英国首相称伊朗革命卫队几乎肯定是RAF Fairford威胁幕后黑手。",
+        "id": "1c246d964efe1fe10b2e",
+        "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+        "summary": "IMF称全球经济“可能很快测试韧性极限”，因石油库存低、预算过度紧张。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/12/iran-revolutionary-guards-irgc-raf-fairford-threats",
-        "publishedAt": "2026-10-12T09:08:11Z"
+        "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+        "publishedAt": "2026-10-12T18:00:11Z"
       },
       {
-        "id": "1fe36efe070a77832543",
-        "title": "Teenager shoots headmaster, teacher at French school",
-        "summary": "法国一14岁少年持猎枪在学校开枪，致校长和教师受伤。",
+        "id": "423c0272e89eb9ce9814",
+        "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
+        "summary": "特朗普坚称能源停火有效，但乌克兰报告俄军发动新袭击。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
-        "publishedAt": "2026-10-12T11:44:00Z"
+        "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
+        "publishedAt": "2026-10-12T19:30:23Z"
       },
       {
-        "id": "877681dcab319ba90622",
-        "title": "Fridges in French supermarkets hit by cyber attack",
-        "summary": "法国数百家超市冷冻系统遭网络攻击，大量生鲜冷冻食品变质。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-12T10:31:32Z"
+        "id": "b70ce2635b62394fd7d0",
+        "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
+        "summary": "法国数百家超市遭“前所未有”网络攻击，冷柜升温引发火灾。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+        "publishedAt": "2026-10-12T18:37:10Z"
       },
       {
-        "id": "47e69c595a0fdc878e78",
-        "title": "Nobel Prize in Economics goes to pair of US economists",
-        "summary": "2026年诺贝尔经济学奖授予两名美国经济学家霍尔与伍德福德。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-12T01:55:00Z"
+        "id": "8b114338dcda2fa064f4",
+        "title": "Death on Six Flags rollercoaster in US triggers ride closures across six states",
+        "summary": "美国六旗主题公园过山车事故致1死多伤，六州九座过山车关闭。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster",
+        "publishedAt": "2026-10-12T20:27:38Z"
+      },
+      {
+        "id": "a6da043da4ebcd1a8116",
+        "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+        "summary": "IMF预计中东和中亚经济2026年因战争而萎缩，多国GDP两位数下滑。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+        "publishedAt": "2026-10-12T21:59:48Z"
+      },
+      {
+        "id": "99ce860d4ba0a10f9378",
+        "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+        "summary": "波兰称两名土耳其人因涉嫌与俄罗斯有关的星链站纵火案被捕。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+        "publishedAt": "2026-10-12T14:44:00Z"
       }
     ]
   }
