@@ -1,84 +1,100 @@
 {
   "version": 1,
   "date": "2026-10-15",
-  "generatedAt": "2026-10-14T18:36:34Z",
+  "generatedAt": "2026-10-14T23:12:37Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，干部档案筛查、双11规则简化、外贸与金融数据、央行流动性操作及高层人事动态值得关注，同时科技与产业领域如AI漫剧、存储芯片等亦有亮点。",
+    "overview": "今日国内焦点集中在美国9月CPI超预期升温、外贸数据量质齐升、央行大额逆回购操作、黄奇帆被查以及多地筛查干部档案等财经与政经议题。",
     "items": [
+      {
+        "id": "3d3233c1911eefca8dde",
+        "title": "五个月来最大涨幅！美国9月CPI同比3.7%，核心CPI同比2.6%超预期，10月加息预期飙升",
+        "summary": "美国9月CPI同比3.7%创五个月最大涨幅，核心CPI超预期，市场对10月加息押注骤升。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783634",
+        "publishedAt": "2026-10-14T23:12:37Z"
+      },
+      {
+        "id": "a4d49aa2b817710d601c",
+        "title": "美国9月CPI通胀再度升温 强化美联储加息预期 现货黄金跌破4100美元关口",
+        "summary": "美9月CPI通胀再度升温，强化美联储加息预期，现货黄金跌破4100美元关口。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2504926",
+        "publishedAt": "2026-10-14T23:12:37Z"
+      },
+      {
+        "id": "66019e449a94c4e68763",
+        "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
+        "summary": "美CPI数据重燃加息押注，纳指跌近2%，芯片指数六连跌，美元创18个月新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783586",
+        "publishedAt": "2026-10-14T23:12:37Z"
+      },
       {
         "id": "c767361e0dda7feed53a",
         "title": "2026年前三季度外贸量质齐升",
-        "summary": "2026年前三季度外贸量质齐升，进出口结构优化，显示经济韧性。",
+        "summary": "2026年前三季度我国外贸量质齐升，进出口结构持续优化，韧性凸显。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7696012365628309547/",
-        "publishedAt": "2026-10-14T18:36:34Z"
-      },
-      {
-        "id": "bca9fc589600375042fa",
-        "title": "李乐成调研长鑫科技",
-        "summary": "工信部部长李乐成调研长鑫科技，关注存储芯片产业自主创新进展。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2504873",
-        "publishedAt": "2026-10-14T18:36:34Z"
-      },
-      {
-        "id": "f88642557c013de45297",
-        "title": "最新金融数据出炉：前三季企业债净融资同比增约1.75倍，金融资源向科技创新等领域集聚",
-        "summary": "前三季企业债净融资同比增约1.75倍，金融资源向科技创新集聚。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2504640",
-        "publishedAt": "2026-10-14T18:36:34Z"
+        "publishedAt": "2026-10-14T23:12:37Z"
       },
       {
         "id": "bf86654581f9328468d2",
         "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
-        "summary": "央行将开展7000亿元买断式逆回购，四季度加发政府债券获流动性支持。",
+        "summary": "央行将开展7000亿元买断式逆回购，为四季度加发政府债券提供流动性支持。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2504925",
-        "publishedAt": "2026-10-14T18:36:34Z"
+        "publishedAt": "2026-10-14T23:12:37Z"
       },
       {
-        "id": "30693fbc2e9037108cad",
-        "title": "多地组织筛查干部档案有何深意",
-        "summary": "多地组织筛查干部档案，旨在从严管理干部、夯实组织基础。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696389122834910756/",
-        "publishedAt": "2026-10-14T18:36:34Z"
-      },
-      {
-        "id": "1c6fff827d3b61ad1ad8",
-        "title": "今年双11告别算数题",
-        "summary": "今年双11告别算数题，平台简化促销规则，优化消费者购物体验。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98",
-        "publishedAt": "2026-10-14T18:36:34Z"
+        "id": "20f92a633275e5e73df3",
+        "title": "中国9月社融新增3.55万亿元，人民币贷款新增1.08万亿，环比双双大幅回升，M2同比增加7.2%",
+        "summary": "中国9月社融新增3.55万亿元，人民币贷款增加1.08万亿，M2同比增7.2%，环比大幅回升。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783617",
+        "publishedAt": "2026-10-14T23:12:37Z"
       },
       {
         "id": "b12eaf79246027c1cd11",
         "title": "黄奇帆被查，重庆：坚决拥护党中央决定",
-        "summary": "黄奇帆被查，重庆表态坚决拥护党中央决定，体现反腐持续深入。",
+        "summary": "黄奇帆被查，重庆表示坚决拥护党中央决定，释放从严治党强烈信号。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34249369",
-        "publishedAt": "2026-10-14T18:36:34Z"
+        "publishedAt": "2026-10-14T23:12:37Z"
       },
       {
-        "id": "e1e5f453c012f97d1672",
-        "title": "蔡康永现身沈伯洋竞选活动，国台办：在大是大非问题上，没有任何模糊空间",
-        "summary": "蔡康永现身沈伯洋活动，国台办强调大是大非问题无模糊空间。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34247472",
-        "publishedAt": "2026-10-14T18:36:34Z"
+        "id": "30693fbc2e9037108cad",
+        "title": "多地组织筛查干部档案有何深意",
+        "summary": "多地组织筛查干部档案，旨在严把选人用人关，引发对干部管理机制的关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696389122834910756/",
+        "publishedAt": "2026-10-14T23:12:37Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国CPI超预期强化加息押注、俄乌冲突中Starlink限制与能源制裁、中东局势及Hormuz海峡航运安全、AI安全与治理等议题持续发酵。",
+    "overview": "国际方面，美国CPI反弹推高加息预期、俄乌战场态势生变、霍尔木兹海峡货船遇袭、土耳其接管新闻频道及全球多地政治经济动态值得关注。",
     "items": [
+      {
+        "id": "94e5637644764762077b",
+        "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+        "summary": "丹麦对特朗普宣扬格陵兰石油矿产交易表示反对，美格协议排除采矿钻探权并重申格陵兰主权。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+        "publishedAt": "2026-10-14T15:03:10Z"
+      },
+      {
+        "id": "ee7ea51e700439dad01d",
+        "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
+        "summary": "泽连斯基称因星链访问受限而感到被特朗普“背叛”，质疑美国对乌长期支持。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
+        "publishedAt": "2026-10-14T15:00:08Z"
+      },
       {
         "id": "53776887b8ab07c26d3f",
         "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
-        "summary": "乌克兰军方Starlink访问突然受限，俄导弹袭击同期无美方预警。",
+        "summary": "乌克兰军方Starlink访问突然受限，同期俄导弹袭击无美方预警，战场通信受重大影响。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
         "publishedAt": "2026-10-14T08:18:46Z"
@@ -86,58 +102,42 @@
       {
         "id": "8162ce812964ea49613d",
         "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
-        "summary": "霍尔木兹海峡附近两艘集装箱船遭导弹击沉，伊朗袭击航运激增。",
+        "summary": "霍尔木兹海峡附近两艘集装箱船遭导弹击沉，伊朗袭击航运激增，地区局势骤然紧张。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
         "publishedAt": "2026-10-14T09:05:42Z"
       },
       {
-        "id": "4a765b684319b08ec565",
-        "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
-        "summary": "文章指出美国并非失去稀土产业，而是主动出售了相关能力。",
-        "source": "Hacker News",
-        "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-        "publishedAt": "2026-10-14T09:50:26Z"
-      },
-      {
         "id": "2766b353910d87e93957",
         "title": "What if you could turn off your algorithm? Australia is about to try",
-        "summary": "澳大利亚拟立法要求科技巨头允许用户关闭算法推荐，影响深远。",
+        "summary": "澳大利亚拟立法要求科技巨头允许用户关闭算法推荐，若落地将产生深远影响。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-14T10:00:54Z"
       },
       {
-        "id": "8e0d4876bc5904ce0a59",
-        "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-        "summary": "ASML订单强劲，缓解市场对AI支出热潮见顶的担忧，股价获支撑。",
-        "source": "Hacker News",
-        "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-        "publishedAt": "2026-10-14T06:38:55Z"
-      },
-      {
-        "id": "b6fdd4e754054aed9a78",
-        "title": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
-        "summary": "特朗普与俄罗斯达成柴油协议，乌克兰及盟友警觉，影响待观察。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-14T09:55:00Z"
-      },
-      {
         "id": "becc136ff5bfcf230ca8",
         "title": "Turkey: Government raids, takes over top news channel",
-        "summary": "土耳其政府突袭并接管Halk TV，媒体管控进一步收紧。",
+        "summary": "土耳其政府突袭并接管Halk TV，媒体管控进一步收紧，引发国际关注。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-14T08:07:00Z"
       },
       {
-        "id": "f186b1f785158974898b",
-        "title": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-        "summary": "Ukraine accused SpaceX of restricting use of its Starlink system, impacting Kyiv",
+        "id": "b6fdd4e754054aed9a78",
+        "title": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
+        "summary": "特朗普与俄罗斯达成柴油协议，乌克兰及盟友警觉，协议影响尚待观察。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-14T10:28:00Z"
+        "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-14T09:55:00Z"
+      },
+      {
+        "id": "4a765b684319b08ec565",
+        "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
+        "summary": "文章指出美国并非失去稀土产业，而是主动出售了相关能力，引发产业安全反思。",
+        "source": "Hacker News",
+        "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+        "publishedAt": "2026-10-14T09:50:26Z"
       }
     ]
   }
