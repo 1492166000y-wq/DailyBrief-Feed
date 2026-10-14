@@ -1,79 +1,79 @@
 {
   "version": 1,
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T07:35:46Z",
+  "generatedAt": "2026-10-14T13:42:14Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦经济数据与金融动态：前三季度外贸增长18.8%，9月CPI、PPI数据发布；A股午后探底回升，沪指重回3800点。外资与监管方面，茶百道遭香港证监会停牌。社会与政经领域，重庆原市长黄奇帆被查，缅北四大家族三人已被宣判，中朝新鸭绿江大桥明日开通。",
+    "overview": "今日国内焦点集中于金融与经济数据：三季度外贸量质齐升、金融数据出炉、A股三季报预喜，美国CPI超预期引发全球市场波动；同时反腐与两岸议题持续，社会民生事件如医患纠纷、网络差评轻生等亦受关注。",
     "items": [
       {
-        "id": "e41f821d7dd2a3e1f278",
-        "title": "前三季度我国外贸增长18.8%",
-        "summary": "前三季度我国外贸增长18.8%，进出口延续回稳向好态势。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%95%BF18.8%25%23",
-        "publishedAt": "2026-10-14T07:35:46Z"
+        "id": "c767361e0dda7feed53a",
+        "title": "2026年前三季度外贸量质齐升",
+        "summary": "海关总署数据显示，前三季度我国外贸进出口量质齐升，结构持续优化。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696012365628309547/",
+        "publishedAt": "2026-10-14T13:42:14Z"
       },
       {
-        "id": "f9b7e8b511022a00f686",
-        "title": "国家统计局：9月份CPI同比上涨0.9% PPI同比上涨5.0%",
-        "summary": "国家统计局：9月CPI同比涨0.9%，PPI同比涨5.0%。",
+        "id": "f88642557c013de45297",
+        "title": "最新金融数据出炉：前三季企业债净融资同比增约1.75倍，金融资源向科技创新等领域集聚",
+        "summary": "前三季度企业债净融资同比增约1.75倍，金融资源向科技创新等领域集聚。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2503984",
-        "publishedAt": "2026-10-14T07:35:46Z"
+        "url": "https://www.cls.cn/detail/2504640",
+        "publishedAt": "2026-10-14T13:42:14Z"
       },
       {
-        "id": "d68aeb9c2e3a0741ceb1",
-        "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
-        "summary": "重庆市委原副书记、市政府原市长黄奇帆被查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34243299",
-        "publishedAt": "2026-10-14T07:35:46Z"
-      },
-      {
-        "id": "e038ea112896828439dc",
-        "title": "午后大逆转！A股三大指数探底回升，沪指重新站上3800点，PCB、覆铜板掀涨停潮，军工爆发，恒指转涨",
-        "summary": "A股午后探底回升，沪指重回3800点，PCB、军工板块爆发。",
+        "id": "0501f7971327294fab75",
+        "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
+        "summary": "财报季银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783494",
-        "publishedAt": "2026-10-14T07:35:46Z"
+        "url": "https://wallstreetcn.com/articles/3783492",
+        "publishedAt": "2026-10-14T13:42:14Z"
       },
       {
-        "id": "7d926f359d5332e39848",
-        "title": "44亿港元资产被限制！茶百道遭香港证监会停牌：IPO涉嫌人为操纵，募资款或暗中回流至承配人",
-        "summary": "茶百道遭香港证监会停牌，44亿港元资产被限制，IPO涉嫌操纵。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34243282",
-        "publishedAt": "2026-10-14T07:35:46Z"
-      },
-      {
-        "id": "daf57e5ac36f82a8a2e1",
-        "title": "9月重点商品出海数据出炉：集成电路同比暴增136%，手机环比大涨超九成",
-        "summary": "9月重点商品出海数据出炉：集成电路同比暴增136%，手机环比大涨。",
+        "id": "5fb49a6c4a6335b7ff57",
+        "title": "A股三季报预喜潮延续：嘉元科技净利预增超11倍",
+        "summary": "A股三季报预喜潮延续，嘉元科技净利预增超11倍，多家公司业绩报喜。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2504174",
-        "publishedAt": "2026-10-14T07:35:46Z"
+        "url": "https://www.cls.cn/detail/2504579",
+        "publishedAt": "2026-10-14T13:42:14Z"
       },
       {
-        "id": "1377b44d77bb9890f6d2",
-        "title": "缅北四大家族3个已被中国宣判",
-        "summary": "缅北四大家族中三个已被中国法院宣判。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696014004717273151/",
-        "publishedAt": "2026-10-14T07:35:46Z"
+        "id": "3d3233c1911eefca8dde",
+        "title": "五个月来最大涨幅！美国9月CPI同比3.7%，核心CPI同比2.6%超预期，10月加息预期飙升",
+        "summary": "美国9月CPI同比3.7%超预期，核心CPI同比2.6%，10月加息预期飙升。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783634",
+        "publishedAt": "2026-10-14T13:42:14Z"
       },
       {
-        "id": "4ec55d31a246207ab1dd",
-        "title": "中朝新鸭绿江大桥明日开通",
-        "summary": "中朝新鸭绿江大桥将于明日正式开通。",
+        "id": "b0576a26f85978b2b05f",
+        "title": "“女老虎”包惠被开除党籍",
+        "summary": "“女老虎”包惠被开除党籍，涉嫌严重违纪违法，反腐力度持续。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7695322691175383081/",
-        "publishedAt": "2026-10-14T07:35:46Z"
+        "url": "https://www.toutiao.com/trending/7696446731625434651/",
+        "publishedAt": "2026-10-14T13:42:14Z"
+      },
+      {
+        "id": "a9a6b466579c63513570",
+        "title": "黄奇帆卸任重庆市市长近10年后被查",
+        "summary": "黄奇帆卸任重庆市市长近10年后被查，涉嫌严重违纪违法。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696475497122762278/",
+        "publishedAt": "2026-10-14T13:42:14Z"
+      },
+      {
+        "id": "937cef584629d3408de3",
+        "title": "中朝新鸭绿江大桥明日将正式开通",
+        "summary": "中朝新鸭绿江大桥将于明日正式开通，促进双边经贸与人员往来。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34247327",
+        "publishedAt": "2026-10-14T13:42:14Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，俄乌冲突持续升级，俄军导弹连续第二晚袭击基辅，泽连斯基称未获盟友预警；乌克兰无人机深入俄境打击，北溪管道爆炸案在德国开庭审理。中东局势紧张，胡塞武装向沙特发射导弹，沙特联盟打击也门目标。此外，IMF警告AI股价崩盘风险，美国银行因反洗钱不力被罚12亿美元。",
+    "overview": "国际方面，俄乌冲突升级，俄罗斯大规模袭击致基辅断电，星链限制乌军作战，北溪管道案开庭；美沙关系因胡塞武装袭击紧张，OpenAI工程师涉窃听被捕，IMF警告AI股价崩盘风险，多国政治事件交织。",
     "items": [
       {
         "id": "8ca6ecc97a76d6579525",
@@ -84,28 +84,36 @@
         "publishedAt": "2026-10-13T23:08:32Z"
       },
       {
-        "id": "739c471d3adfb9416dd2",
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "summary": "泽连斯基称俄弹道导弹袭击基辅关键电厂，盟友未提前预警。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-13T20:36:06Z"
+        "id": "cfa0fcd1576f055d0bc0",
+        "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
+        "summary": "乌克兰士兵在战斗中访问星链卫星互联网受限，影响乌军任务执行。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+        "publishedAt": "2026-10-14T05:33:56Z"
       },
       {
-        "id": "c187c4c495fbd6847175",
-        "title": "Ukrainian drones strike more than 100km into Russian territory",
-        "summary": "乌克兰无人机深入俄境100多公里，袭击萨拉托夫地区。",
+        "id": "1a90ea2e6d957a2d2b4b",
+        "title": "Germany news: Nord Stream sabotage suspect's trial opens",
+        "summary": "德国北溪管道爆炸案嫌疑人在汉堡出庭受审，引发对乌方角色质疑。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-13T22:51:00Z"
+      },
+      {
+        "id": "041afc2cf83d8e6f16e6",
+        "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+        "summary": "胡塞武装导弹击中沙特阿美大楼，此前沙特联军空袭也门燃料库。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T04:26:13Z"
+      },
+      {
+        "id": "a37b4d17b6b56ddc98f3",
+        "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+        "summary": "OpenAI一名沙特籍工程师因在会议室放置窃听设备被起诉。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
-        "publishedAt": "2026-10-13T21:07:55Z"
-      },
-      {
-        "id": "00851b6f2d225dbb31f4",
-        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-        "summary": "德国开庭审理乌克兰人涉嫌炸毁北溪管道案，系首次庭审。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-13T15:42:22Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
+        "publishedAt": "2026-10-13T20:16:13Z"
       },
       {
         "id": "4027e34c1103645f801d",
@@ -124,20 +132,12 @@
         "publishedAt": "2026-10-13T18:05:32Z"
       },
       {
-        "id": "1a90ea2e6d957a2d2b4b",
-        "title": "Germany news: Nord Stream sabotage suspect's trial opens",
-        "summary": "德国北溪管道爆炸案嫌疑人在汉堡出庭受审。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-13T22:51:00Z"
-      },
-      {
-        "id": "a37b4d17b6b56ddc98f3",
-        "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-        "summary": "OpenAI一名沙特籍工程师因在会议室放置窃听设备被起诉。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
-        "publishedAt": "2026-10-13T20:16:13Z"
+        "id": "32a0ca3737e0e9e4d86f",
+        "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+        "summary": "美国驻希腊大使因不当行为指控辞职，白宫要求其离职。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
+        "publishedAt": "2026-10-14T01:09:39Z"
       }
     ]
   }
