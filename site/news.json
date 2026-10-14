@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T13:42:14Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-14T18:36:34Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于金融与经济数据：三季度外贸量质齐升、金融数据出炉、A股三季报预喜，美国CPI超预期引发全球市场波动；同时反腐与两岸议题持续，社会民生事件如医患纠纷、网络差评轻生等亦受关注。",
+    "overview": "国内方面，干部档案筛查、双11规则简化、外贸与金融数据、央行流动性操作及高层人事动态值得关注，同时科技与产业领域如AI漫剧、存储芯片等亦有亮点。",
     "items": [
       {
         "id": "c767361e0dda7feed53a",
         "title": "2026年前三季度外贸量质齐升",
-        "summary": "海关总署数据显示，前三季度我国外贸进出口量质齐升，结构持续优化。",
+        "summary": "2026年前三季度外贸量质齐升，进出口结构优化，显示经济韧性。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7696012365628309547/",
-        "publishedAt": "2026-10-14T13:42:14Z"
+        "publishedAt": "2026-10-14T18:36:34Z"
+      },
+      {
+        "id": "bca9fc589600375042fa",
+        "title": "李乐成调研长鑫科技",
+        "summary": "工信部部长李乐成调研长鑫科技，关注存储芯片产业自主创新进展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2504873",
+        "publishedAt": "2026-10-14T18:36:34Z"
       },
       {
         "id": "f88642557c013de45297",
         "title": "最新金融数据出炉：前三季企业债净融资同比增约1.75倍，金融资源向科技创新等领域集聚",
-        "summary": "前三季度企业债净融资同比增约1.75倍，金融资源向科技创新等领域集聚。",
+        "summary": "前三季企业债净融资同比增约1.75倍，金融资源向科技创新集聚。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2504640",
-        "publishedAt": "2026-10-14T13:42:14Z"
+        "publishedAt": "2026-10-14T18:36:34Z"
       },
       {
-        "id": "0501f7971327294fab75",
-        "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
-        "summary": "财报季银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783492",
-        "publishedAt": "2026-10-14T13:42:14Z"
-      },
-      {
-        "id": "5fb49a6c4a6335b7ff57",
-        "title": "A股三季报预喜潮延续：嘉元科技净利预增超11倍",
-        "summary": "A股三季报预喜潮延续，嘉元科技净利预增超11倍，多家公司业绩报喜。",
+        "id": "bf86654581f9328468d2",
+        "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
+        "summary": "央行将开展7000亿元买断式逆回购，四季度加发政府债券获流动性支持。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2504579",
-        "publishedAt": "2026-10-14T13:42:14Z"
+        "url": "https://www.cls.cn/detail/2504925",
+        "publishedAt": "2026-10-14T18:36:34Z"
       },
       {
-        "id": "3d3233c1911eefca8dde",
-        "title": "五个月来最大涨幅！美国9月CPI同比3.7%，核心CPI同比2.6%超预期，10月加息预期飙升",
-        "summary": "美国9月CPI同比3.7%超预期，核心CPI同比2.6%，10月加息预期飙升。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783634",
-        "publishedAt": "2026-10-14T13:42:14Z"
-      },
-      {
-        "id": "b0576a26f85978b2b05f",
-        "title": "“女老虎”包惠被开除党籍",
-        "summary": "“女老虎”包惠被开除党籍，涉嫌严重违纪违法，反腐力度持续。",
+        "id": "30693fbc2e9037108cad",
+        "title": "多地组织筛查干部档案有何深意",
+        "summary": "多地组织筛查干部档案，旨在从严管理干部、夯实组织基础。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696446731625434651/",
-        "publishedAt": "2026-10-14T13:42:14Z"
+        "url": "https://www.toutiao.com/trending/7696389122834910756/",
+        "publishedAt": "2026-10-14T18:36:34Z"
       },
       {
-        "id": "a9a6b466579c63513570",
-        "title": "黄奇帆卸任重庆市市长近10年后被查",
-        "summary": "黄奇帆卸任重庆市市长近10年后被查，涉嫌严重违纪违法。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696475497122762278/",
-        "publishedAt": "2026-10-14T13:42:14Z"
+        "id": "1c6fff827d3b61ad1ad8",
+        "title": "今年双11告别算数题",
+        "summary": "今年双11告别算数题，平台简化促销规则，优化消费者购物体验。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98",
+        "publishedAt": "2026-10-14T18:36:34Z"
       },
       {
-        "id": "937cef584629d3408de3",
-        "title": "中朝新鸭绿江大桥明日将正式开通",
-        "summary": "中朝新鸭绿江大桥将于明日正式开通，促进双边经贸与人员往来。",
+        "id": "b12eaf79246027c1cd11",
+        "title": "黄奇帆被查，重庆：坚决拥护党中央决定",
+        "summary": "黄奇帆被查，重庆表态坚决拥护党中央决定，体现反腐持续深入。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34247327",
-        "publishedAt": "2026-10-14T13:42:14Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34249369",
+        "publishedAt": "2026-10-14T18:36:34Z"
+      },
+      {
+        "id": "e1e5f453c012f97d1672",
+        "title": "蔡康永现身沈伯洋竞选活动，国台办：在大是大非问题上，没有任何模糊空间",
+        "summary": "蔡康永现身沈伯洋活动，国台办强调大是大非问题无模糊空间。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34247472",
+        "publishedAt": "2026-10-14T18:36:34Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，俄乌冲突升级，俄罗斯大规模袭击致基辅断电，星链限制乌军作战，北溪管道案开庭；美沙关系因胡塞武装袭击紧张，OpenAI工程师涉窃听被捕，IMF警告AI股价崩盘风险，多国政治事件交织。",
+    "overview": "国际方面，美国CPI超预期强化加息押注、俄乌冲突中Starlink限制与能源制裁、中东局势及Hormuz海峡航运安全、AI安全与治理等议题持续发酵。",
     "items": [
       {
-        "id": "8ca6ecc97a76d6579525",
-        "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
-        "summary": "俄罗斯对乌克兰发动大规模袭击，致至少6人死亡，基辅断电。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
-        "publishedAt": "2026-10-13T23:08:32Z"
-      },
-      {
-        "id": "cfa0fcd1576f055d0bc0",
-        "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
-        "summary": "乌克兰士兵在战斗中访问星链卫星互联网受限，影响乌军任务执行。",
+        "id": "53776887b8ab07c26d3f",
+        "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
+        "summary": "乌克兰军方Starlink访问突然受限，俄导弹袭击同期无美方预警。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-        "publishedAt": "2026-10-14T05:33:56Z"
+        "publishedAt": "2026-10-14T08:18:46Z"
       },
       {
-        "id": "1a90ea2e6d957a2d2b4b",
-        "title": "Germany news: Nord Stream sabotage suspect's trial opens",
-        "summary": "德国北溪管道爆炸案嫌疑人在汉堡出庭受审，引发对乌方角色质疑。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-13T22:51:00Z"
-      },
-      {
-        "id": "041afc2cf83d8e6f16e6",
-        "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
-        "summary": "胡塞武装导弹击中沙特阿美大楼，此前沙特联军空袭也门燃料库。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T04:26:13Z"
-      },
-      {
-        "id": "a37b4d17b6b56ddc98f3",
-        "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-        "summary": "OpenAI一名沙特籍工程师因在会议室放置窃听设备被起诉。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
-        "publishedAt": "2026-10-13T20:16:13Z"
-      },
-      {
-        "id": "4027e34c1103645f801d",
-        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-        "summary": "IMF警告AI股价崩盘风险危及全球金融稳定，并提示债务风险。",
+        "id": "8162ce812964ea49613d",
+        "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+        "summary": "霍尔木兹海峡附近两艘集装箱船遭导弹击沉，伊朗袭击航运激增。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-        "publishedAt": "2026-10-13T04:30:01Z"
+        "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+        "publishedAt": "2026-10-14T09:05:42Z"
       },
       {
-        "id": "71205775cd2743dc7fa9",
-        "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-        "summary": "美国银行因反洗钱不力被罚12亿美元，涉中国洗钱网络。",
+        "id": "4a765b684319b08ec565",
+        "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
+        "summary": "文章指出美国并非失去稀土产业，而是主动出售了相关能力。",
+        "source": "Hacker News",
+        "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+        "publishedAt": "2026-10-14T09:50:26Z"
+      },
+      {
+        "id": "2766b353910d87e93957",
+        "title": "What if you could turn off your algorithm? Australia is about to try",
+        "summary": "澳大利亚拟立法要求科技巨头允许用户关闭算法推荐，影响深远。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-13T18:05:32Z"
+        "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T10:00:54Z"
       },
       {
-        "id": "32a0ca3737e0e9e4d86f",
-        "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-        "summary": "美国驻希腊大使因不当行为指控辞职，白宫要求其离职。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
-        "publishedAt": "2026-10-14T01:09:39Z"
+        "id": "8e0d4876bc5904ce0a59",
+        "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+        "summary": "ASML订单强劲，缓解市场对AI支出热潮见顶的担忧，股价获支撑。",
+        "source": "Hacker News",
+        "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+        "publishedAt": "2026-10-14T06:38:55Z"
+      },
+      {
+        "id": "b6fdd4e754054aed9a78",
+        "title": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
+        "summary": "特朗普与俄罗斯达成柴油协议，乌克兰及盟友警觉，影响待观察。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-14T09:55:00Z"
+      },
+      {
+        "id": "becc136ff5bfcf230ca8",
+        "title": "Turkey: Government raids, takes over top news channel",
+        "summary": "土耳其政府突袭并接管Halk TV，媒体管控进一步收紧。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-14T08:07:00Z"
+      },
+      {
+        "id": "f186b1f785158974898b",
+        "title": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
+        "summary": "Ukraine accused SpaceX of restricting use of its Starlink system, impacting Kyiv",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-14T10:28:00Z"
       }
     ]
   }
