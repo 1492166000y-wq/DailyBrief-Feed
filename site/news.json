@@ -1,119 +1,119 @@
 {
   "version": 1,
   "date": "2026-10-14",
-  "generatedAt": "2026-10-13T21:14:05Z",
+  "generatedAt": "2026-10-14T01:13:09Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，缅北电诈集团获刑、黄奇帆被查、A股三季报预增及存储芯片波动等构成时政财经焦点；科技领域AI投资、机器人应用也受关注。",
+    "overview": "国内要闻聚焦重庆市委原副书记黄奇帆被查、公积金激活政策与A股三季报预增潮，同时关注科技产业AI芯片格局变化与存储股波动，以及核电力量、医疗改革等公共议题。",
     "items": [
-      {
-        "id": "1377b44d77bb9890f6d2",
-        "title": "缅北四大家族3个已被中国宣判",
-        "summary": "缅北四大家族中三个已被中国依法宣判，彰显打击跨境电信诈骗犯罪力度。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696014004717273151/",
-        "publishedAt": "2026-10-13T21:14:05Z"
-      },
       {
         "id": "d68aeb9c2e3a0741ceb1",
         "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
-        "summary": "重庆市委原副书记、市政府原市长黄奇帆被查，系近期重要反腐动态。",
+        "summary": "重庆市委原副书记、市政府原市长黄奇帆被查，系又一名省部级官员落马。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34243299",
-        "publishedAt": "2026-10-13T21:14:05Z"
+        "publishedAt": "2026-10-14T01:13:09Z"
       },
       {
-        "id": "8b6ceb2e8cf61409d86a",
-        "title": "全球AI交易重挫，费城半导体指数跌超2%，苹果股价再创新高，布油跌超1%",
-        "summary": "全球AI交易重挫，费城半导体指数跌超2%，苹果股价再创新高，布油跌超1%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783492",
-        "publishedAt": "2026-10-13T21:14:05Z"
+        "id": "39adbc86f59dbcf7f4fb",
+        "title": "10万亿“沉睡”公积金正在激活",
+        "summary": "10万亿公积金正在激活，涉及缴存人住房消费与资金使用效率提升。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E2%80%9C%E6%B2%89%E7%9D%A1%E2%80%9D%E5%85%AC%E7%A7%AF%E9%87%91%E6%AD%A3%E5%9C%A8%E6%BF%80%E6%B4%BB",
+        "publishedAt": "2026-10-14T01:13:09Z"
       },
       {
         "id": "4eab4da1518b9492ccf3",
         "title": "A股再现三季报业绩“预增潮”：3家公司净利预增超5倍",
-        "summary": "A股再现三季报业绩预增潮，3家公司净利预增超5倍，市场关注度升温。",
+        "summary": "A股三季报预增潮初现，3家公司净利预增超5倍，业绩分化明显。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2503675",
-        "publishedAt": "2026-10-13T21:14:05Z"
+        "publishedAt": "2026-10-14T01:13:09Z"
       },
       {
-        "id": "6044207f68e16b28a5d4",
-        "title": "泽连斯基向美方提交新一轮会晤方案",
-        "summary": "泽连斯基向美方提交新一轮会晤方案，美乌互动持续引发关注。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xCXTYftD7S",
-        "publishedAt": "2026-10-13T21:14:05Z"
+        "id": "c81749ed0dbf0ef20689",
+        "title": "报告：英伟达中国AI芯片份额跌至34%",
+        "summary": "报告称英伟达中国AI芯片份额跌至34%，国产替代加速推进。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696186267725205046/",
+        "publishedAt": "2026-10-14T01:13:09Z"
       },
       {
-        "id": "083d138b1a994c58f8eb",
-        "title": "香港证监会：对涉嫌操纵首次公开招股的集团采取行动并暂停茶百道的股份交易",
-        "summary": "香港证监会就涉嫌操纵IPO采取行动，并暂停茶百道股份交易。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2503437",
-        "publishedAt": "2026-10-13T21:14:05Z"
+        "id": "c9a0738b4eddb1eae0f6",
+        "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
+        "summary": "长鑫4F²架构引发海外存储股下跌，马斯克称中国规模化制造能力超全球其他地区总和。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783500",
+        "publishedAt": "2026-10-14T01:13:09Z"
+      },
+      {
+        "id": "24124ef3a48a2ae511c0",
+        "title": "专家：中国核力量能摧毁任何来犯之敌",
+        "summary": "专家表示中国核力量能摧毁任何来犯之敌，强调战略威慑能力。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696232890182664731/",
+        "publishedAt": "2026-10-14T01:13:09Z"
+      },
+      {
+        "id": "3062c0e25bc7c1ba6ac0",
+        "title": "未来五年看病就医会有哪些新变化",
+        "summary": "未来五年看病就医将迎多项新变化，医疗改革持续深化。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E7%9C%8B%E7%97%85%E5%B0%B1%E5%8C%BB%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96",
+        "publishedAt": "2026-10-14T01:13:09Z"
       },
       {
         "id": "531f2890cba0819e4d18",
         "title": "中国人民银行批准威士公司筹备银行卡清算机构",
-        "summary": "中国人民银行批准威士公司筹备银行卡清算机构，金融开放稳步推进。",
+        "summary": "中国人民银行批准威士公司筹备银行卡清算机构，金融开放再进一步。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34241256",
-        "publishedAt": "2026-10-13T21:14:05Z"
-      },
-      {
-        "id": "ce3baa5cd9c57296935f",
-        "title": "德国总理：我无意成为国民的宠儿，不要支持率也要改革",
-        "summary": "德国总理表示无意成为国民宠儿，不要支持率也要推进改革。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xCJNoIlNWH",
-        "publishedAt": "2026-10-13T21:14:05Z"
+        "publishedAt": "2026-10-14T01:13:09Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，图帕克谋杀案宣判、教宗确诊肺癌、沙特与胡塞武装冲突升级、特朗普政府人事变动及美乌俄博弈等事件持续发酵，全球金融市场与地缘风险交织。",
+    "overview": "国际要闻围绕中东冲突升级、俄乌局势及教宗健康、OpenAI窃听事件等科技安全议题，同时涉及英国脱欧干预确认、IMF对AI股市风险的警告等重大经济与安全动态。",
     "items": [
       {
-        "id": "1545e8b68d3208d759bc",
-        "title": "Tupac Shakur killer sentenced to 40 years in prison",
-        "summary": "图帕克·沙库尔谋杀案凶手被判40年监禁，这起近30年悬案终有结果。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-        "publishedAt": "2026-10-13T12:46:22Z"
+        "id": "f8c8ba4bd313f702827a",
+        "title": "Houthis launch fresh wave of missiles across Saudi Arabia",
+        "summary": "胡塞武装向沙特发射新一轮导弹，沙特联盟打击也门能源设施，局势升级。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-13T16:50:00Z"
+      },
+      {
+        "id": "739c471d3adfb9416dd2",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "summary": "俄军弹道导弹袭击基辅关键电厂，泽连斯基称盟友未提前预警。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-13T14:14:33Z"
       },
       {
         "id": "68db17c3f3d354331e1c",
         "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "summary": "梵蒂冈称教宗确诊肺癌并已成功接受手术，切除右肺下叶。",
+        "summary": "梵蒂冈确认教宗良十四世确诊肺癌并成功手术，切除右肺下叶。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-13T12:46:06Z"
+        "publishedAt": "2026-10-13T16:17:00Z"
       },
       {
-        "id": "2311945abd7f6e1ca622",
-        "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
-        "summary": "沙特空袭也门萨那附近石油设施，并称拦截针对阿美总部方向导弹。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
-        "publishedAt": "2026-10-13T09:26:08Z"
+        "id": "71ff08007085f93a1d84",
+        "title": "OpenAI engineer charged after listening device found in meeting room",
+        "summary": "OpenAI一名工程师因在会议室放置窃听设备被起诉，系沙特籍员工。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+        "publishedAt": "2026-10-13T15:55:33Z"
       },
       {
-        "id": "d335158016a235b7032c",
-        "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
-        "summary": "美国驻希腊大使吉尔福伊尔因不当行为指控辞职，特朗普政府人事再起波澜。",
+        "id": "749de696443b2274f564",
+        "title": "Russia did try to interfere in Brexit referendum, head of MI5 confirms",
+        "summary": "英国军情五处负责人证实俄罗斯曾试图干预脱欧公投，但称影响有限。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-        "publishedAt": "2026-10-13T12:45:46Z"
-      },
-      {
-        "id": "f18558e8e814a84f4515",
-        "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-        "summary": "泽连斯基称盟友未就俄弹道导弹袭击基辅提前预警，乌方对情报共享不满。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-        "publishedAt": "2026-10-13T09:17:13Z"
+        "url": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
+        "publishedAt": "2026-10-13T07:15:45Z"
       },
       {
         "id": "4027e34c1103645f801d",
@@ -124,20 +124,20 @@
         "publishedAt": "2026-10-13T04:30:01Z"
       },
       {
-        "id": "749de696443b2274f564",
-        "title": "Russia did try to interfere in Brexit referendum, head of MI5 confirms",
-        "summary": "英国军情五处负责人证实俄罗斯曾试图干预脱欧公投，称影响有限。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
-        "publishedAt": "2026-10-13T07:15:45Z"
-      },
-      {
         "id": "b04a1a8e62edba50e8dc",
         "title": "Scientists urge tighter AI controls to prevent global cyber risks",
         "summary": "科学家呼吁加强AI管控以防全球网络风险，正值美国中期选举临近。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
         "publishedAt": "2026-10-13T12:00:32Z"
+      },
+      {
+        "id": "00851b6f2d225dbb31f4",
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "summary": "德国开庭审理乌克兰人涉嫌炸毁北溪管道案，系该案首次庭审。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-13T15:42:22Z"
       }
     ]
   }
