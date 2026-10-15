@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-15T11:25:18Z",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-15T16:58:22Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期时政与宏观聚焦内外两条主线：国内方面，纸尿裤甲酰胺调查结果公布并启动问责，深圳、杭州同日推进商品房销售改革，沪指失守3700点、科技股承压；国际方面，美国CPI超预期重燃加息押注，美元走强、纳指走低，俄乌能源停火破裂并恢复互相打击，沙特与胡塞武装冲突升级，巴基斯坦学校屋顶坍塌致重大伤亡。",
+    "overview": "国内方面，央行与财政部释放稳增长信号，社保缴费与房地产销售改革等民生政策落地；苹果智能功能获批、AI科技股承压引关注。",
     "items": [
       {
-        "id": "4ef011da4bb88b35e787",
-        "title": "纸尿裤甲酰胺问题调查结果公布",
-        "summary": "纸尿裤甲酰胺问题调查结果公布，婴幼儿用品质量安全再受关注，多部门启动后续处置。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696801435836534323/",
-        "publishedAt": "2026-10-15T11:25:18Z"
+        "id": "e94e164e2461ff3fe998",
+        "title": "潘功胜：央行将继续实施好适度宽松的货币政策，为中国经济稳定增长和金融市场的平稳运行营造良好的货币金融环境",
+        "summary": "潘功胜表示央行将继续实施适度宽松货币政策，为经济增长和金融市场平稳运行营造良好货币金融环境。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2505984",
+        "publishedAt": "2026-10-15T16:58:22Z"
       },
       {
-        "id": "fbee3df3bbe588e45900",
-        "title": "山东多名干部因纸尿裤事件被问责",
-        "summary": "山东多名干部因纸尿裤甲酰胺事件被问责，监管失职问题被追究责任。",
+        "id": "43f5b54232d868a4bf88",
+        "title": "蓝佛安：将精准有效实施更加积极的财政政策，推动经济持续向新向优向好发展，为世界经济注入信心和确定性",
+        "summary": "蓝佛安称将精准有效实施更加积极的财政政策，推动经济持续向新向优向好，为世界经济注入信心。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2506032",
+        "publishedAt": "2026-10-15T16:58:22Z"
+      },
+      {
+        "id": "fdffd7e885aed4f6c05e",
+        "title": "11月1日起社保缴费有新变化",
+        "summary": "11月1日起社保缴费有新变化，涉及缴费基数或方式调整，与参保人切身利益相关。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696835237392682539/",
-        "publishedAt": "2026-10-15T11:25:18Z"
+        "url": "https://www.toutiao.com/trending/7695902034788876307/",
+        "publishedAt": "2026-10-15T16:58:22Z"
       },
       {
         "id": "2b3b8c35a341738fb6e3",
         "title": "深圳杭州同日出手！商品房销售改革落地扩至7城 现房销售加速",
-        "summary": "深圳、杭州同日出手推进商品房销售改革，现房销售试点扩至7城。",
+        "summary": "深圳杭州同日出手，商品房销售改革落地扩至7城，现房销售加速推进。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2505849",
-        "publishedAt": "2026-10-15T11:25:18Z"
+        "publishedAt": "2026-10-15T16:58:22Z"
       },
       {
-        "id": "2c35c3320b418e74cc5e",
-        "title": "杭州出台房产新政",
-        "summary": "杭州出台房产新政，进一步调整商品房销售与市场监管安排。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2505489",
-        "publishedAt": "2026-10-15T11:25:18Z"
+        "id": "b50363ee2dc59877c828",
+        "title": "独家｜库克：首批苹果智能核心功能已在华获批，10月底推测试版",
+        "summary": "库克透露首批苹果智能核心功能已在华获批，10月底推出测试版。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34256510",
+        "publishedAt": "2026-10-15T16:58:22Z"
       },
       {
-        "id": "66019e449a94c4e68763",
-        "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
-        "summary": "美国CPI超预期重燃加息押注，纳指跌近2%，芯片指数六连跌，美元创18个月新高。",
+        "id": "113a39ceba557b4d3ef1",
+        "title": "AI担忧持续、科技股再压美股，芯片指数一度跌超4%，CoreWeave信用风险创新高",
+        "summary": "AI担忧持续，科技股再度压低美股，芯片指数一度跌超4%，CoreWeave信用风险创新高。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783586",
-        "publishedAt": "2026-10-15T11:25:18Z"
+        "url": "https://wallstreetcn.com/articles/3783663",
+        "publishedAt": "2026-10-15T16:58:22Z"
       },
       {
-        "id": "6a42f5659f670b0609ed",
-        "title": "【每日收评】沪指跌1.59%险守3700点，全市场超5100股收绿，宽基ETF尾盘大幅放量",
-        "summary": "沪指跌1.59%险守3700点，全市场超5100股收绿，宽基ETF尾盘大幅放量。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2505784",
-        "publishedAt": "2026-10-15T11:25:18Z"
+        "id": "61b6ec588634c34eb80d",
+        "title": "黄海南部实弹射击 连续47天禁止驶入",
+        "summary": "黄海南部实弹射击，连续47天禁止驶入，相关海域航行安全受关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696567128011375142/",
+        "publishedAt": "2026-10-15T16:58:22Z"
       },
       {
-        "id": "a14febe2953b420bf96d",
-        "title": "库克：苹果智能在华已经获得批准",
-        "summary": "库克表示苹果智能在华已获批准，相关服务落地进程受关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%EF%BC%9A%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E5%9C%A8%E5%8D%8E%E5%B7%B2%E7%BB%8F%E8%8E%B7%E5%BE%97%E6%89%B9%E5%87%86",
-        "publishedAt": "2026-10-15T11:25:18Z"
-      },
-      {
-        "id": "3ba38d9603d60f4b27a5",
-        "title": "菲舰载直升机侵入黄岩岛领空，南部战区驱离",
-        "summary": "菲律宾舰载直升机侵入黄岩岛领空，南部战区组织兵力予以驱离。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xFI2cynWTF",
-        "publishedAt": "2026-10-15T11:25:18Z"
+        "id": "9fbcd777f258d975e576",
+        "title": "深圳全市全天禁鸣喇叭5年",
+        "summary": "深圳宣布全市全天禁鸣喇叭，为期5年，城市噪声治理再升级。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%85%A8%E5%A4%A9%E7%A6%81%E9%B8%A3%E5%96%87%E5%8F%AD5%E5%B9%B4%23",
+        "publishedAt": "2026-10-15T16:58:22Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻以中东与俄乌局势、美国通胀与货币政策为主线：俄乌短暂能源停火破裂，双方恢复对炼油设施与基础设施打击；也门战事升温，沙特与胡塞武装互相升级，霍尔木兹海峡附近货船沉没与黑海油轮遇袭牵动航运安全；美国9月CPI超预期推高加息预期，美元创18个月新高，纳指与芯片股下挫；欧盟峰会聚焦对华贸易与乌克兰议题。",
+    "overview": "国际方面，美通胀数据超预期推高加息押注，全球科技股与AI基建承压；俄乌能源停火破裂、冲突持续，多国政坛动荡。",
     "items": [
       {
-        "id": "7d8426e48b59d85d3b35",
-        "title": "Russia and Ukraine resume energy strikes despite Trump warnings",
-        "summary": "俄乌能源停火破裂：俄以创纪录无人机群袭击乌中部，乌方称将恢复打击俄炼油厂。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-        "publishedAt": "2026-10-15T02:14:49Z"
-      },
-      {
-        "id": "50820a8c5ab9032ab17f",
-        "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-        "summary": "泽连斯基称将重启对俄炼油厂打击，俄方报告梁赞地区炼油设施遭袭。",
+        "id": "71f815c9361c16b601eb",
+        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+        "summary": "俄罗斯指责乌克兰袭击炼油厂，此前泽连斯基称恢复打击能源设施，能源停火破裂。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T02:27:26Z"
+        "publishedAt": "2026-10-15T08:50:18Z"
       },
       {
-        "id": "897d43fc423e066b40d0",
-        "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-        "summary": "也门战事升级：胡塞武装以升级回应升级，试图抬高沙特参战成本。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
-        "publishedAt": "2026-10-15T02:52:12Z"
-      },
-      {
-        "id": "e211bc1b0d69b36c17c8",
-        "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
-        "summary": "罗马尼亚近海油轮遭无人机袭击起火，8名船员失踪，黑海搜救仍在进行。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T03:12:54Z"
-      },
-      {
-        "id": "d87a5ec0c1e1fbb95f92",
-        "title": "Dozens of children killed after roof collapses in Pakistani school",
-        "summary": "巴基斯坦白沙瓦一学校屋顶坍塌，至少29人死亡，多为学生，50余人受伤。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
-        "publishedAt": "2026-10-15T02:21:43Z"
-      },
-      {
-        "id": "26100eec8735bc5e2d1c",
-        "title": "EU summit to focus on China, Ukraine and bloc budget",
-        "summary": "欧盟峰会聚焦中国、乌克兰与预算议题，拟讨论削减对华贸易逆差。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-14T22:43:00Z"
-      },
-      {
-        "id": "34b7827d09a24d27e547",
-        "title": "Watch: Harry and Meghan at first joint engagement since UK return",
-        "summary": "The Duke and Duchess of Sussex are making several public appearances in Nottingh",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T03:10:59Z"
-      },
-      {
-        "id": "dfaa9505e2e7bf63fa8d",
-        "title": "Former DUP leader Jeffrey Donaldson sentenced to 15 years for child sexual abuse – latest updates",
-        "summary": "Ex-leader deserves ‘every day of lengthy sentence,’ says DUPJeffrey Donaldson se",
+        "id": "378ff4798030ac5f9e5b",
+        "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+        "summary": "俄乌互袭升级，特朗普斡旋的能源停火崩溃，乌方称将重启对俄炼油厂打击。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/live/2026/oct/15/former-dup-leader-jeffrey-donaldson-sentenced-child-sexual-abuse-latest-updates",
-        "publishedAt": "2026-10-15T03:08:12Z"
+        "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+        "publishedAt": "2026-10-15T07:01:10Z"
+      },
+      {
+        "id": "c9f32e192d3ac1fbe247",
+        "title": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
+        "summary": "委内瑞拉马杜罗在纽约法院对美国的酷刑共谋指控作无罪抗辩。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
+        "publishedAt": "2026-10-15T08:04:58Z"
+      },
+      {
+        "id": "e6d586e078557ed858b4",
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "summary": "巴基斯坦一学校屋顶坍塌，至少33名学生和一名教师死亡，救援持续。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-15T07:26:16Z"
+      },
+      {
+        "id": "12c9e8b5adbbcc76d100",
+        "title": "Why are eight US states suing OpenAI?",
+        "summary": "美国八个州起诉OpenAI，指ChatGPT对其居民造成伤害，涉嫌诱导自残或伤人。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss",
+        "publishedAt": "2026-10-15T08:28:44Z"
+      },
+      {
+        "id": "a5790d26fe8a4a3ebb32",
+        "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+        "summary": "调查称以色列广告技术公司通过广告在半岛电视台设备植入间谍软件，数十台设备被感染。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
+        "publishedAt": "2026-10-15T08:32:03Z"
+      },
+      {
+        "id": "42ab760a569e99cfb3aa",
+        "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters take your questions live",
+        "summary": "The high cost of living has Americans angrier than ever. Guardian reporters answ",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+        "publishedAt": "2026-10-15T08:54:41Z"
+      },
+      {
+        "id": "f75a293a7993127ee216",
+        "title": "Lawmakers from both parties welcome Trump’s decision to cancel livestream of firing squad execution – live",
+        "summary": "Democrat Senator Elissa Slotkin called plan to broadcast execution of Nidal Hasa",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+        "publishedAt": "2026-10-15T08:52:55Z"
       }
     ]
   }
