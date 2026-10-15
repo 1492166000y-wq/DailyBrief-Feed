@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-15",
-  "generatedAt": "2026-10-14T23:12:37Z",
-  "generationMode": "ai",
+  "generatedAt": "2026-10-15T04:35:04Z",
+  "generationMode": "rules_fallback",
   "domestic": {
-    "overview": "今日国内焦点集中在美国9月CPI超预期升温、外贸数据量质齐升、央行大额逆回购操作、黄奇帆被查以及多地筛查干部档案等财经与政经议题。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "3d3233c1911eefca8dde",
-        "title": "五个月来最大涨幅！美国9月CPI同比3.7%，核心CPI同比2.6%超预期，10月加息预期飙升",
-        "summary": "美国9月CPI同比3.7%创五个月最大涨幅，核心CPI超预期，市场对10月加息押注骤升。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783634",
-        "publishedAt": "2026-10-14T23:12:37Z"
-      },
-      {
-        "id": "a4d49aa2b817710d601c",
-        "title": "美国9月CPI通胀再度升温 强化美联储加息预期 现货黄金跌破4100美元关口",
-        "summary": "美9月CPI通胀再度升温，强化美联储加息预期，现货黄金跌破4100美元关口。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2504926",
-        "publishedAt": "2026-10-14T23:12:37Z"
+        "id": "16c4d4348054faa32e49",
+        "title": "长实否认李嘉诚去世",
+        "summary": "长实否认李嘉诚去世",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696736574441291795/",
+        "publishedAt": "2026-10-15T04:35:04Z"
       },
       {
         "id": "66019e449a94c4e68763",
         "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
-        "summary": "美CPI数据重燃加息押注，纳指跌近2%，芯片指数六连跌，美元创18个月新高。",
+        "summary": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783586",
-        "publishedAt": "2026-10-14T23:12:37Z"
-      },
-      {
-        "id": "c767361e0dda7feed53a",
-        "title": "2026年前三季度外贸量质齐升",
-        "summary": "2026年前三季度我国外贸量质齐升，进出口结构持续优化，韧性凸显。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696012365628309547/",
-        "publishedAt": "2026-10-14T23:12:37Z"
-      },
-      {
-        "id": "bf86654581f9328468d2",
-        "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
-        "summary": "央行将开展7000亿元买断式逆回购，为四季度加发政府债券提供流动性支持。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2504925",
-        "publishedAt": "2026-10-14T23:12:37Z"
-      },
-      {
-        "id": "20f92a633275e5e73df3",
-        "title": "中国9月社融新增3.55万亿元，人民币贷款新增1.08万亿，环比双双大幅回升，M2同比增加7.2%",
-        "summary": "中国9月社融新增3.55万亿元，人民币贷款增加1.08万亿，M2同比增7.2%，环比大幅回升。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783617",
-        "publishedAt": "2026-10-14T23:12:37Z"
+        "publishedAt": "2026-10-15T04:35:04Z"
       },
       {
         "id": "b12eaf79246027c1cd11",
         "title": "黄奇帆被查，重庆：坚决拥护党中央决定",
-        "summary": "黄奇帆被查，重庆表示坚决拥护党中央决定，释放从严治党强烈信号。",
+        "summary": "黄奇帆被查，重庆：坚决拥护党中央决定",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34249369",
-        "publishedAt": "2026-10-14T23:12:37Z"
+        "publishedAt": "2026-10-15T04:35:04Z"
       },
       {
-        "id": "30693fbc2e9037108cad",
-        "title": "多地组织筛查干部档案有何深意",
-        "summary": "多地组织筛查干部档案，旨在严把选人用人关，引发对干部管理机制的关注。",
+        "id": "316bfec26186bee67197",
+        "title": "【早报】纳指跳水跌超500点，半导体大跌；黄金、白银重挫，原油上涨；A股业绩预喜潮延续",
+        "summary": "【早报】纳指跳水跌超500点，半导体大跌；黄金、白银重挫，原油上涨；A股业绩预喜潮延续",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2505117",
+        "publishedAt": "2026-10-15T04:35:04Z"
+      },
+      {
+        "id": "add55ee35edce4d76b19",
+        "title": "鲁比奥即将开启亚洲两国行，来干什么？",
+        "summary": "鲁比奥即将开启亚洲两国行，来干什么？",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xEdg6n3qjI",
+        "publishedAt": "2026-10-15T04:35:04Z"
+      },
+      {
+        "id": "872c5019c912673f50f9",
+        "title": "长实否认李嘉诚逝世",
+        "summary": "长实否认李嘉诚逝世",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%9E%E5%90%A6%E8%AE%A4%E6%9D%8E%E5%98%89%E8%AF%9A%E9%80%9D%E4%B8%96%23",
+        "publishedAt": "2026-10-15T04:35:04Z"
+      },
+      {
+        "id": "e50f38ec3aafbd9ab397",
+        "title": "中朝新鸭绿江大桥正式开通",
+        "summary": "中朝新鸭绿江大桥正式开通",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696389122834910756/",
-        "publishedAt": "2026-10-14T23:12:37Z"
+        "url": "https://www.toutiao.com/trending/7696709987644476938/",
+        "publishedAt": "2026-10-15T04:35:04Z"
+      },
+      {
+        "id": "3436a2b607df1221d222",
+        "title": "新规来了！买牙膏避坑必看",
+        "summary": "新规来了！买牙膏避坑必看",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%81%E4%B9%B0%E7%89%99%E8%86%8F%E9%81%BF%E5%9D%91%E5%BF%85%E7%9C%8B",
+        "publishedAt": "2026-10-15T04:35:04Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国CPI反弹推高加息预期、俄乌战场态势生变、霍尔木兹海峡货船遇袭、土耳其接管新闻频道及全球多地政治经济动态值得关注。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "94e5637644764762077b",
-        "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-        "summary": "丹麦对特朗普宣扬格陵兰石油矿产交易表示反对，美格协议排除采矿钻探权并重申格陵兰主权。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
-        "publishedAt": "2026-10-14T15:03:10Z"
-      },
-      {
-        "id": "ee7ea51e700439dad01d",
-        "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-        "summary": "泽连斯基称因星链访问受限而感到被特朗普“背叛”，质疑美国对乌长期支持。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
-        "publishedAt": "2026-10-14T15:00:08Z"
-      },
-      {
-        "id": "53776887b8ab07c26d3f",
-        "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
-        "summary": "乌克兰军方Starlink访问突然受限，同期俄导弹袭击无美方预警，战场通信受重大影响。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-        "publishedAt": "2026-10-14T08:18:46Z"
-      },
-      {
-        "id": "8162ce812964ea49613d",
-        "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
-        "summary": "霍尔木兹海峡附近两艘集装箱船遭导弹击沉，伊朗袭击航运激增，地区局势骤然紧张。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-        "publishedAt": "2026-10-14T09:05:42Z"
-      },
-      {
-        "id": "2766b353910d87e93957",
-        "title": "What if you could turn off your algorithm? Australia is about to try",
-        "summary": "澳大利亚拟立法要求科技巨头允许用户关闭算法推荐，若落地将产生深远影响。",
+        "id": "cb7edbec4403c72bb17e",
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits wh",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T10:00:54Z"
+        "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T20:30:08Z"
       },
       {
-        "id": "becc136ff5bfcf230ca8",
-        "title": "Turkey: Government raids, takes over top news channel",
-        "summary": "土耳其政府突袭并接管Halk TV，媒体管控进一步收紧，引发国际关注。",
+        "id": "1570819e1614fa301942",
+        "title": "Australian politics live: Wells says ‘manosphere’ podcasts and moon landing conspiracies allowed under Labor duty of care reform",
+        "summary": "Follow the day’s news live.Get our breaking news email, free app or daily news p",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+        "publishedAt": "2026-10-14T20:25:04Z"
+      },
+      {
+        "id": "fb4dfd2133a607149e26",
+        "title": "Indonesia fights fire with dry ice as toxic haze spreads across region",
+        "summary": "Having tried cloud seeding and water bombing, one pilot project will see dry ice",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
+        "publishedAt": "2026-10-14T20:25:03Z"
+      },
+      {
+        "id": "610a90e35a38d4b50e93",
+        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+        "summary": "It comes as some investors have become concerned about the amount of money being",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T20:19:17Z"
+      },
+      {
+        "id": "a666401b2fdbbc7be0de",
+        "title": "Heavy rain causes mass pileup in Brazil tunnel",
+        "summary": "Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangaba",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
+        "publishedAt": "2026-10-14T20:19:06Z"
+      },
+      {
+        "id": "108c2a863e2e8111ed61",
+        "title": "India urges Russia, Ukraine to protect Black Sea shipping",
+        "summary": "New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black ",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-14T08:07:00Z"
+        "url": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-14T20:19:00Z"
       },
       {
-        "id": "b6fdd4e754054aed9a78",
-        "title": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
-        "summary": "特朗普与俄罗斯达成柴油协议，乌克兰及盟友警觉，协议影响尚待观察。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-14T09:55:00Z"
+        "id": "999d7312f8c8efebe989",
+        "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
+        "summary": "Exclusive: Out-of-pocket costs for abortion care to be covered regardless of who",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
+        "publishedAt": "2026-10-14T20:05:58Z"
       },
       {
-        "id": "4a765b684319b08ec565",
-        "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
-        "summary": "文章指出美国并非失去稀土产业，而是主动出售了相关能力，引发产业安全反思。",
-        "source": "Hacker News",
-        "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-        "publishedAt": "2026-10-14T09:50:26Z"
+        "id": "5d5063233f1d661dc3cc",
+        "title": "Greens senator Jordan Steele-John takes leave amid investigation into complaints",
+        "summary": "Steele-John said he rejected the claims and had referred them to the Western Aus",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/15/greens-senator-jordan-steele-john-leave-investigation-complaints-ntwnb",
+        "publishedAt": "2026-10-14T20:00:50Z"
       }
     ]
   }
