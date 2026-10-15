@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T04:35:04Z",
-  "generationMode": "rules_fallback",
+  "generatedAt": "2026-10-15T11:25:18Z",
+  "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "本期时政与宏观聚焦内外两条主线：国内方面，纸尿裤甲酰胺调查结果公布并启动问责，深圳、杭州同日推进商品房销售改革，沪指失守3700点、科技股承压；国际方面，美国CPI超预期重燃加息押注，美元走强、纳指走低，俄乌能源停火破裂并恢复互相打击，沙特与胡塞武装冲突升级，巴基斯坦学校屋顶坍塌致重大伤亡。",
     "items": [
       {
-        "id": "16c4d4348054faa32e49",
-        "title": "长实否认李嘉诚去世",
-        "summary": "长实否认李嘉诚去世",
+        "id": "4ef011da4bb88b35e787",
+        "title": "纸尿裤甲酰胺问题调查结果公布",
+        "summary": "纸尿裤甲酰胺问题调查结果公布，婴幼儿用品质量安全再受关注，多部门启动后续处置。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696736574441291795/",
-        "publishedAt": "2026-10-15T04:35:04Z"
+        "url": "https://www.toutiao.com/trending/7696801435836534323/",
+        "publishedAt": "2026-10-15T11:25:18Z"
+      },
+      {
+        "id": "fbee3df3bbe588e45900",
+        "title": "山东多名干部因纸尿裤事件被问责",
+        "summary": "山东多名干部因纸尿裤甲酰胺事件被问责，监管失职问题被追究责任。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7696835237392682539/",
+        "publishedAt": "2026-10-15T11:25:18Z"
+      },
+      {
+        "id": "2b3b8c35a341738fb6e3",
+        "title": "深圳杭州同日出手！商品房销售改革落地扩至7城 现房销售加速",
+        "summary": "深圳、杭州同日出手推进商品房销售改革，现房销售试点扩至7城。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2505849",
+        "publishedAt": "2026-10-15T11:25:18Z"
+      },
+      {
+        "id": "2c35c3320b418e74cc5e",
+        "title": "杭州出台房产新政",
+        "summary": "杭州出台房产新政，进一步调整商品房销售与市场监管安排。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2505489",
+        "publishedAt": "2026-10-15T11:25:18Z"
       },
       {
         "id": "66019e449a94c4e68763",
         "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
-        "summary": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
+        "summary": "美国CPI超预期重燃加息押注，纳指跌近2%，芯片指数六连跌，美元创18个月新高。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783586",
-        "publishedAt": "2026-10-15T04:35:04Z"
+        "publishedAt": "2026-10-15T11:25:18Z"
       },
       {
-        "id": "b12eaf79246027c1cd11",
-        "title": "黄奇帆被查，重庆：坚决拥护党中央决定",
-        "summary": "黄奇帆被查，重庆：坚决拥护党中央决定",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34249369",
-        "publishedAt": "2026-10-15T04:35:04Z"
-      },
-      {
-        "id": "316bfec26186bee67197",
-        "title": "【早报】纳指跳水跌超500点，半导体大跌；黄金、白银重挫，原油上涨；A股业绩预喜潮延续",
-        "summary": "【早报】纳指跳水跌超500点，半导体大跌；黄金、白银重挫，原油上涨；A股业绩预喜潮延续",
+        "id": "6a42f5659f670b0609ed",
+        "title": "【每日收评】沪指跌1.59%险守3700点，全市场超5100股收绿，宽基ETF尾盘大幅放量",
+        "summary": "沪指跌1.59%险守3700点，全市场超5100股收绿，宽基ETF尾盘大幅放量。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2505117",
-        "publishedAt": "2026-10-15T04:35:04Z"
+        "url": "https://www.cls.cn/detail/2505784",
+        "publishedAt": "2026-10-15T11:25:18Z"
       },
       {
-        "id": "add55ee35edce4d76b19",
-        "title": "鲁比奥即将开启亚洲两国行，来干什么？",
-        "summary": "鲁比奥即将开启亚洲两国行，来干什么？",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xEdg6n3qjI",
-        "publishedAt": "2026-10-15T04:35:04Z"
-      },
-      {
-        "id": "872c5019c912673f50f9",
-        "title": "长实否认李嘉诚逝世",
-        "summary": "长实否认李嘉诚逝世",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%9E%E5%90%A6%E8%AE%A4%E6%9D%8E%E5%98%89%E8%AF%9A%E9%80%9D%E4%B8%96%23",
-        "publishedAt": "2026-10-15T04:35:04Z"
-      },
-      {
-        "id": "e50f38ec3aafbd9ab397",
-        "title": "中朝新鸭绿江大桥正式开通",
-        "summary": "中朝新鸭绿江大桥正式开通",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696709987644476938/",
-        "publishedAt": "2026-10-15T04:35:04Z"
-      },
-      {
-        "id": "3436a2b607df1221d222",
-        "title": "新规来了！买牙膏避坑必看",
-        "summary": "新规来了！买牙膏避坑必看",
+        "id": "a14febe2953b420bf96d",
+        "title": "库克：苹果智能在华已经获得批准",
+        "summary": "库克表示苹果智能在华已获批准，相关服务落地进程受关注。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%81%E4%B9%B0%E7%89%99%E8%86%8F%E9%81%BF%E5%9D%91%E5%BF%85%E7%9C%8B",
-        "publishedAt": "2026-10-15T04:35:04Z"
+        "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%EF%BC%9A%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E5%9C%A8%E5%8D%8E%E5%B7%B2%E7%BB%8F%E8%8E%B7%E5%BE%97%E6%89%B9%E5%87%86",
+        "publishedAt": "2026-10-15T11:25:18Z"
+      },
+      {
+        "id": "3ba38d9603d60f4b27a5",
+        "title": "菲舰载直升机侵入黄岩岛领空，南部战区驱离",
+        "summary": "菲律宾舰载直升机侵入黄岩岛领空，南部战区组织兵力予以驱离。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xFI2cynWTF",
+        "publishedAt": "2026-10-15T11:25:18Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际要闻以中东与俄乌局势、美国通胀与货币政策为主线：俄乌短暂能源停火破裂，双方恢复对炼油设施与基础设施打击；也门战事升温，沙特与胡塞武装互相升级，霍尔木兹海峡附近货船沉没与黑海油轮遇袭牵动航运安全；美国9月CPI超预期推高加息预期，美元创18个月新高，纳指与芯片股下挫；欧盟峰会聚焦对华贸易与乌克兰议题。",
     "items": [
       {
-        "id": "cb7edbec4403c72bb17e",
-        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits wh",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T20:30:08Z"
-      },
-      {
-        "id": "1570819e1614fa301942",
-        "title": "Australian politics live: Wells says ‘manosphere’ podcasts and moon landing conspiracies allowed under Labor duty of care reform",
-        "summary": "Follow the day’s news live.Get our breaking news email, free app or daily news p",
+        "id": "7d8426e48b59d85d3b35",
+        "title": "Russia and Ukraine resume energy strikes despite Trump warnings",
+        "summary": "俄乌能源停火破裂：俄以创纪录无人机群袭击乌中部，乌方称将恢复打击俄炼油厂。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
-        "publishedAt": "2026-10-14T20:25:04Z"
+        "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+        "publishedAt": "2026-10-15T02:14:49Z"
       },
       {
-        "id": "fb4dfd2133a607149e26",
-        "title": "Indonesia fights fire with dry ice as toxic haze spreads across region",
-        "summary": "Having tried cloud seeding and water bombing, one pilot project will see dry ice",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
-        "publishedAt": "2026-10-14T20:25:03Z"
-      },
-      {
-        "id": "610a90e35a38d4b50e93",
-        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-        "summary": "It comes as some investors have become concerned about the amount of money being",
+        "id": "50820a8c5ab9032ab17f",
+        "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+        "summary": "泽连斯基称将重启对俄炼油厂打击，俄方报告梁赞地区炼油设施遭袭。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T20:19:17Z"
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-15T02:27:26Z"
       },
       {
-        "id": "a666401b2fdbbc7be0de",
-        "title": "Heavy rain causes mass pileup in Brazil tunnel",
-        "summary": "Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangaba",
+        "id": "897d43fc423e066b40d0",
+        "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+        "summary": "也门战事升级：胡塞武装以升级回应升级，试图抬高沙特参战成本。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
-        "publishedAt": "2026-10-14T20:19:06Z"
+        "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+        "publishedAt": "2026-10-15T02:52:12Z"
       },
       {
-        "id": "108c2a863e2e8111ed61",
-        "title": "India urges Russia, Ukraine to protect Black Sea shipping",
-        "summary": "New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black ",
+        "id": "e211bc1b0d69b36c17c8",
+        "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+        "summary": "罗马尼亚近海油轮遭无人机袭击起火，8名船员失踪，黑海搜救仍在进行。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-15T03:12:54Z"
+      },
+      {
+        "id": "d87a5ec0c1e1fbb95f92",
+        "title": "Dozens of children killed after roof collapses in Pakistani school",
+        "summary": "巴基斯坦白沙瓦一学校屋顶坍塌，至少29人死亡，多为学生，50余人受伤。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+        "publishedAt": "2026-10-15T02:21:43Z"
+      },
+      {
+        "id": "26100eec8735bc5e2d1c",
+        "title": "EU summit to focus on China, Ukraine and bloc budget",
+        "summary": "欧盟峰会聚焦中国、乌克兰与预算议题，拟讨论削减对华贸易逆差。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-14T20:19:00Z"
+        "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-14T22:43:00Z"
       },
       {
-        "id": "999d7312f8c8efebe989",
-        "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
-        "summary": "Exclusive: Out-of-pocket costs for abortion care to be covered regardless of who",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
-        "publishedAt": "2026-10-14T20:05:58Z"
+        "id": "34b7827d09a24d27e547",
+        "title": "Watch: Harry and Meghan at first joint engagement since UK return",
+        "summary": "The Duke and Duchess of Sussex are making several public appearances in Nottingh",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-15T03:10:59Z"
       },
       {
-        "id": "5d5063233f1d661dc3cc",
-        "title": "Greens senator Jordan Steele-John takes leave amid investigation into complaints",
-        "summary": "Steele-John said he rejected the claims and had referred them to the Western Aus",
+        "id": "dfaa9505e2e7bf63fa8d",
+        "title": "Former DUP leader Jeffrey Donaldson sentenced to 15 years for child sexual abuse – latest updates",
+        "summary": "Ex-leader deserves ‘every day of lengthy sentence,’ says DUPJeffrey Donaldson se",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/15/greens-senator-jordan-steele-john-leave-investigation-complaints-ntwnb",
-        "publishedAt": "2026-10-14T20:00:50Z"
+        "url": "https://www.theguardian.com/uk-news/live/2026/oct/15/former-dup-leader-jeffrey-donaldson-sentenced-child-sexual-abuse-latest-updates",
+        "publishedAt": "2026-10-15T03:08:12Z"
       }
     ]
   }
