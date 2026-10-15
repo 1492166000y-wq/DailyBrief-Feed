@@ -1,95 +1,103 @@
 {
   "version": 1,
   "date": "2026-10-16",
-  "generatedAt": "2026-10-15T16:58:22Z",
+  "generatedAt": "2026-10-15T21:20:46Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，央行与财政部释放稳增长信号，社保缴费与房地产销售改革等民生政策落地；苹果智能功能获批、AI科技股承压引关注。",
+    "overview": "国内焦点集中在货币政策、财政政策与社保缴费调整，房地产现房销售改革扩围，A股震荡及上市公司回购增持，同时涵盖苹果AI入华、黄海实弹射击等科技与安全议题。",
     "items": [
+      {
+        "id": "fdffd7e885aed4f6c05e",
+        "title": "11月1日起社保缴费有新变化",
+        "summary": "11月1日起社保缴费将迎调整，涉及缴费基数或比例变化，影响参保人员与用人单位。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7695902034788876307/",
+        "publishedAt": "2026-10-15T21:20:46Z"
+      },
       {
         "id": "e94e164e2461ff3fe998",
         "title": "潘功胜：央行将继续实施好适度宽松的货币政策，为中国经济稳定增长和金融市场的平稳运行营造良好的货币金融环境",
-        "summary": "潘功胜表示央行将继续实施适度宽松货币政策，为经济增长和金融市场平稳运行营造良好货币金融环境。",
+        "summary": "央行行长潘功胜表示将继续实施适度宽松货币政策，为经济增长和金融市场平稳运行营造环境。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2505984",
-        "publishedAt": "2026-10-15T16:58:22Z"
+        "publishedAt": "2026-10-15T21:20:46Z"
       },
       {
         "id": "43f5b54232d868a4bf88",
         "title": "蓝佛安：将精准有效实施更加积极的财政政策，推动经济持续向新向优向好发展，为世界经济注入信心和确定性",
-        "summary": "蓝佛安称将精准有效实施更加积极的财政政策，推动经济持续向新向优向好，为世界经济注入信心。",
+        "summary": "财政部部长蓝佛安称将精准有效实施更加积极财政政策，推动经济向新向优向好。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2506032",
-        "publishedAt": "2026-10-15T16:58:22Z"
-      },
-      {
-        "id": "fdffd7e885aed4f6c05e",
-        "title": "11月1日起社保缴费有新变化",
-        "summary": "11月1日起社保缴费有新变化，涉及缴费基数或方式调整，与参保人切身利益相关。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7695902034788876307/",
-        "publishedAt": "2026-10-15T16:58:22Z"
-      },
-      {
-        "id": "2b3b8c35a341738fb6e3",
-        "title": "深圳杭州同日出手！商品房销售改革落地扩至7城 现房销售加速",
-        "summary": "深圳杭州同日出手，商品房销售改革落地扩至7城，现房销售加速推进。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2505849",
-        "publishedAt": "2026-10-15T16:58:22Z"
+        "publishedAt": "2026-10-15T21:20:46Z"
       },
       {
         "id": "b50363ee2dc59877c828",
         "title": "独家｜库克：首批苹果智能核心功能已在华获批，10月底推测试版",
-        "summary": "库克透露首批苹果智能核心功能已在华获批，10月底推出测试版。",
+        "summary": "库克透露首批苹果智能核心功能已在华获批，10月底将推出测试版。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34256510",
-        "publishedAt": "2026-10-15T16:58:22Z"
+        "publishedAt": "2026-10-15T21:20:46Z"
       },
       {
-        "id": "113a39ceba557b4d3ef1",
-        "title": "AI担忧持续、科技股再压美股，芯片指数一度跌超4%，CoreWeave信用风险创新高",
-        "summary": "AI担忧持续，科技股再度压低美股，芯片指数一度跌超4%，CoreWeave信用风险创新高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783663",
-        "publishedAt": "2026-10-15T16:58:22Z"
+        "id": "2b3b8c35a341738fb6e3",
+        "title": "深圳杭州同日出手！商品房销售改革落地扩至7城 现房销售加速",
+        "summary": "深圳、杭州同日推进商品房销售改革，现房销售试点扩至7城，改革节奏加快。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2505849",
+        "publishedAt": "2026-10-15T21:20:46Z"
       },
       {
         "id": "61b6ec588634c34eb80d",
         "title": "黄海南部实弹射击 连续47天禁止驶入",
-        "summary": "黄海南部实弹射击，连续47天禁止驶入，相关海域航行安全受关注。",
+        "summary": "黄海南部连续47天实弹射击，禁止驶入，属重大军事演训活动。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7696567128011375142/",
-        "publishedAt": "2026-10-15T16:58:22Z"
+        "publishedAt": "2026-10-15T21:20:46Z"
       },
       {
-        "id": "9fbcd777f258d975e576",
-        "title": "深圳全市全天禁鸣喇叭5年",
-        "summary": "深圳宣布全市全天禁鸣喇叭，为期5年，城市噪声治理再升级。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%85%A8%E5%A4%A9%E7%A6%81%E9%B8%A3%E5%96%87%E5%8F%AD5%E5%B9%B4%23",
-        "publishedAt": "2026-10-15T16:58:22Z"
+        "id": "6a42f5659f670b0609ed",
+        "title": "【每日收评】沪指跌1.59%险守3700点，全市场超5100股收绿，宽基ETF尾盘大幅放量",
+        "summary": "沪指跌1.59%险守3700点，超5100股收绿，宽基ETF尾盘大幅放量。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2505784",
+        "publishedAt": "2026-10-15T21:20:46Z"
+      },
+      {
+        "id": "564027423c55cdd7e88f",
+        "title": "A股增持回购潮再起：新易盛、天孚通信、佰维存储集体披露回购计划",
+        "summary": "A股增持回购潮再起，新易盛、天孚通信、佰维存储等集体披露回购计划。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2505953",
+        "publishedAt": "2026-10-15T21:20:46Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美通胀数据超预期推高加息押注，全球科技股与AI基建承压；俄乌能源停火破裂、冲突持续，多国政坛动荡。",
+    "overview": "国际方面，美国通胀数据超预期引发全球市场波动，俄乌能源停火破裂、黑海无人机袭击船只，中东也门冲突升级，另有美国中期选举、马杜罗庭审等重要事件。",
     "items": [
-      {
-        "id": "71f815c9361c16b601eb",
-        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-        "summary": "俄罗斯指责乌克兰袭击炼油厂，此前泽连斯基称恢复打击能源设施，能源停火破裂。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T08:50:18Z"
-      },
       {
         "id": "378ff4798030ac5f9e5b",
         "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-        "summary": "俄乌互袭升级，特朗普斡旋的能源停火崩溃，乌方称将重启对俄炼油厂打击。",
+        "summary": "俄乌互袭升级，特朗普斡旋的能源停火破裂，乌方称将重启对俄炼油厂打击。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
         "publishedAt": "2026-10-15T07:01:10Z"
+      },
+      {
+        "id": "d2fac54a14dbbc85241f",
+        "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+        "summary": "黑海两艘油轮遭无人机袭击起火，七名船员失踪，罗马尼亚谴责袭击不可接受。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
+        "publishedAt": "2026-10-15T09:31:30Z"
+      },
+      {
+        "id": "bd546930aa4f668ba838",
+        "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
+        "summary": "也门胡塞武装导弹袭击亚丁总统府，至少5人死亡，沙特联军指责其获外部导弹部件。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+        "publishedAt": "2026-10-15T08:50:42Z"
       },
       {
         "id": "c9f32e192d3ac1fbe247",
@@ -100,6 +108,14 @@
         "publishedAt": "2026-10-15T08:04:58Z"
       },
       {
+        "id": "1ab4c4032b90ff891b78",
+        "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
+        "summary": "美国中期选举前民调显示选民对特朗普感到失望，求变情绪升温。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
+        "publishedAt": "2026-10-15T10:17:57Z"
+      },
+      {
         "id": "e6d586e078557ed858b4",
         "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
         "summary": "巴基斯坦一学校屋顶坍塌，至少33名学生和一名教师死亡，救援持续。",
@@ -108,36 +124,20 @@
         "publishedAt": "2026-10-15T07:26:16Z"
       },
       {
-        "id": "12c9e8b5adbbcc76d100",
-        "title": "Why are eight US states suing OpenAI?",
-        "summary": "美国八个州起诉OpenAI，指ChatGPT对其居民造成伤害，涉嫌诱导自残或伤人。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss",
-        "publishedAt": "2026-10-15T08:28:44Z"
+        "id": "318836195a045ccc54ff",
+        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+        "summary": "Two people were severely injured and evacuated by helicopter but no one's life a",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-15T13:12:14Z"
       },
       {
-        "id": "a5790d26fe8a4a3ebb32",
-        "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
-        "summary": "调查称以色列广告技术公司通过广告在半岛电视台设备植入间谍软件，数十台设备被感染。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
-        "publishedAt": "2026-10-15T08:32:03Z"
-      },
-      {
-        "id": "42ab760a569e99cfb3aa",
-        "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters take your questions live",
-        "summary": "The high cost of living has Americans angrier than ever. Guardian reporters answ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-        "publishedAt": "2026-10-15T08:54:41Z"
-      },
-      {
-        "id": "f75a293a7993127ee216",
-        "title": "Lawmakers from both parties welcome Trump’s decision to cancel livestream of firing squad execution – live",
-        "summary": "Democrat Senator Elissa Slotkin called plan to broadcast execution of Nidal Hasa",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-        "publishedAt": "2026-10-15T08:52:55Z"
+        "id": "398069b4db0f84049524",
+        "title": "Three years on, Israel still bars foreign journalists from entering Gaza",
+        "summary": "More than a year into a declared ceasefire in Gaza — and three years into the wa",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
+        "publishedAt": "2026-10-15T13:01:50Z"
       }
     ]
   }
