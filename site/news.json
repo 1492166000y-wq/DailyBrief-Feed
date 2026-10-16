@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-16",
-  "generatedAt": "2026-10-15T21:20:46Z",
+  "generatedAt": "2026-10-16T00:23:10Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在货币政策、财政政策与社保缴费调整，房地产现房销售改革扩围，A股震荡及上市公司回购增持，同时涵盖苹果AI入华、黄海实弹射击等科技与安全议题。",
+    "overview": "国内方面，央行重申适度宽松货币政策，财政政策强调精准有效；苹果智能核心功能在华获批；也门总统府遭胡塞武装袭击致人员伤亡；深圳全市全天禁鸣喇叭等引发关注。",
     "items": [
-      {
-        "id": "fdffd7e885aed4f6c05e",
-        "title": "11月1日起社保缴费有新变化",
-        "summary": "11月1日起社保缴费将迎调整，涉及缴费基数或比例变化，影响参保人员与用人单位。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7695902034788876307/",
-        "publishedAt": "2026-10-15T21:20:46Z"
-      },
       {
         "id": "e94e164e2461ff3fe998",
         "title": "潘功胜：央行将继续实施好适度宽松的货币政策，为中国经济稳定增长和金融市场的平稳运行营造良好的货币金融环境",
-        "summary": "央行行长潘功胜表示将继续实施适度宽松货币政策，为经济增长和金融市场平稳运行营造环境。",
+        "summary": "央行行长潘功胜表示，将继续实施好适度宽松货币政策，营造良好货币金融环境。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2505984",
-        "publishedAt": "2026-10-15T21:20:46Z"
+        "publishedAt": "2026-10-16T00:23:10Z"
       },
       {
         "id": "43f5b54232d868a4bf88",
         "title": "蓝佛安：将精准有效实施更加积极的财政政策，推动经济持续向新向优向好发展，为世界经济注入信心和确定性",
-        "summary": "财政部部长蓝佛安称将精准有效实施更加积极财政政策，推动经济向新向优向好。",
+        "summary": "财政部部长蓝佛安称，将精准有效实施更加积极的财政政策，推动经济向好。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2506032",
-        "publishedAt": "2026-10-15T21:20:46Z"
+        "publishedAt": "2026-10-16T00:23:10Z"
       },
       {
         "id": "b50363ee2dc59877c828",
         "title": "独家｜库克：首批苹果智能核心功能已在华获批，10月底推测试版",
-        "summary": "库克透露首批苹果智能核心功能已在华获批，10月底将推出测试版。",
+        "summary": "库克透露首批苹果智能核心功能已在华获批，10月底推出测试版。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34256510",
-        "publishedAt": "2026-10-15T21:20:46Z"
+        "publishedAt": "2026-10-16T00:23:10Z"
       },
       {
-        "id": "2b3b8c35a341738fb6e3",
-        "title": "深圳杭州同日出手！商品房销售改革落地扩至7城 现房销售加速",
-        "summary": "深圳、杭州同日推进商品房销售改革，现房销售试点扩至7城，改革节奏加快。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2505849",
-        "publishedAt": "2026-10-15T21:20:46Z"
+        "id": "b7d26e21b0ef7ca3b378",
+        "title": "胡塞武装袭击也门总统府致5死16伤",
+        "summary": "胡塞武装导弹袭击也门总统府致5死16伤，也门总理等官员未受伤。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xFqPNfF1ty",
+        "publishedAt": "2026-10-16T00:23:10Z"
       },
       {
-        "id": "61b6ec588634c34eb80d",
-        "title": "黄海南部实弹射击 连续47天禁止驶入",
-        "summary": "黄海南部连续47天实弹射击，禁止驶入，属重大军事演训活动。",
+        "id": "fc9538d3aa153889167f",
+        "title": "深圳全市全天禁鸣喇叭 有效期5年",
+        "summary": "深圳全市全天禁鸣喇叭，有效期5年，旨在减少交通噪声污染。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%85%A8%E5%A4%A9%E7%A6%81%E9%B8%A3%E5%96%87%E5%8F%AD+%E6%9C%89%E6%95%88%E6%9C%9F5%E5%B9%B4",
+        "publishedAt": "2026-10-16T00:23:10Z"
+      },
+      {
+        "id": "8d1561961ca112333291",
+        "title": "人民日报：严打“公考围岗”",
+        "summary": "人民日报发文严打“公考围岗”，打击扰乱公务员考试秩序行为。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696567128011375142/",
-        "publishedAt": "2026-10-15T21:20:46Z"
+        "url": "https://www.toutiao.com/trending/7696412224667009066/",
+        "publishedAt": "2026-10-16T00:23:10Z"
       },
       {
-        "id": "6a42f5659f670b0609ed",
-        "title": "【每日收评】沪指跌1.59%险守3700点，全市场超5100股收绿，宽基ETF尾盘大幅放量",
-        "summary": "沪指跌1.59%险守3700点，超5100股收绿，宽基ETF尾盘大幅放量。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2505784",
-        "publishedAt": "2026-10-15T21:20:46Z"
+        "id": "96c5ff809f5f4601a171",
+        "title": "四部门联合调查组发布婴幼儿纸尿裤甲酰胺问题核查情况通报",
+        "summary": "四部门联合调查组通报婴幼儿纸尿裤甲酰胺问题核查情况。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34256315",
+        "publishedAt": "2026-10-16T00:23:10Z"
       },
       {
-        "id": "564027423c55cdd7e88f",
-        "title": "A股增持回购潮再起：新易盛、天孚通信、佰维存储集体披露回购计划",
-        "summary": "A股增持回购潮再起，新易盛、天孚通信、佰维存储等集体披露回购计划。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2505953",
-        "publishedAt": "2026-10-15T21:20:46Z"
+        "id": "3ba38d9603d60f4b27a5",
+        "title": "菲舰载直升机侵入黄岩岛领空，南部战区驱离",
+        "summary": "菲律宾舰载直升机侵入黄岩岛领空，南部战区组织海空兵力驱离。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xFI2cynWTF",
+        "publishedAt": "2026-10-16T00:23:10Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国通胀数据超预期引发全球市场波动，俄乌能源停火破裂、黑海无人机袭击船只，中东也门冲突升级，另有美国中期选举、马杜罗庭审等重要事件。",
+    "overview": "国际方面，也门胡塞武装袭击总统府致5死，美方警告沙特机场风险；俄乌能源停火谈判破裂，双方互袭持续；美国PPI通胀创四年新高；俄勒冈州小学枪击案致4死；巴基斯坦学校屋顶坍塌致33名学生死亡；马杜罗在纽约就酷刑指控作无罪抗辩。",
     "items": [
-      {
-        "id": "378ff4798030ac5f9e5b",
-        "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-        "summary": "俄乌互袭升级，特朗普斡旋的能源停火破裂，乌方称将重启对俄炼油厂打击。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-        "publishedAt": "2026-10-15T07:01:10Z"
-      },
-      {
-        "id": "d2fac54a14dbbc85241f",
-        "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
-        "summary": "黑海两艘油轮遭无人机袭击起火，七名船员失踪，罗马尼亚谴责袭击不可接受。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
-        "publishedAt": "2026-10-15T09:31:30Z"
-      },
       {
         "id": "bd546930aa4f668ba838",
         "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-        "summary": "也门胡塞武装导弹袭击亚丁总统府，至少5人死亡，沙特联军指责其获外部导弹部件。",
+        "summary": "也门胡塞武装导弹袭击亚丁总统府，至少5人死亡，沙特联军指其获外部导弹部件。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
         "publishedAt": "2026-10-15T08:50:42Z"
       },
       {
-        "id": "c9f32e192d3ac1fbe247",
-        "title": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
-        "summary": "委内瑞拉马杜罗在纽约法院对美国的酷刑共谋指控作无罪抗辩。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
-        "publishedAt": "2026-10-15T08:04:58Z"
+        "id": "378ff4798030ac5f9e5b",
+        "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+        "summary": "俄乌能源停火谈判破裂，双方互袭持续，莫斯科发动创纪录无人机袭击。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+        "publishedAt": "2026-10-15T15:57:20Z"
       },
       {
-        "id": "1ab4c4032b90ff891b78",
-        "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-        "summary": "美国中期选举前民调显示选民对特朗普感到失望，求变情绪升温。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
-        "publishedAt": "2026-10-15T10:17:57Z"
+        "id": "4d509f5abdbf2fdf51e1",
+        "title": "Three children and one adult reportedly killed in Oregon elementary school shooting",
+        "summary": "美国俄勒冈州本德市一小学发生枪击案，3名儿童和1名成人死亡，枪手被击毙。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+        "publishedAt": "2026-10-15T15:33:26Z"
       },
       {
         "id": "e6d586e078557ed858b4",
         "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-        "summary": "巴基斯坦一学校屋顶坍塌，至少33名学生和一名教师死亡，救援持续。",
+        "summary": "巴基斯坦一学校屋顶坍塌，至少33名学生和1名教师死亡，救援持续。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-15T07:26:16Z"
       },
       {
-        "id": "318836195a045ccc54ff",
-        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-        "summary": "Two people were severely injured and evacuated by helicopter but no one's life a",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T13:12:14Z"
+        "id": "c9f32e192d3ac1fbe247",
+        "title": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
+        "summary": "委内瑞拉总统马杜罗在纽约法院对美国的酷刑共谋指控作无罪抗辩。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
+        "publishedAt": "2026-10-15T08:04:58Z"
       },
       {
-        "id": "398069b4db0f84049524",
-        "title": "Three years on, Israel still bars foreign journalists from entering Gaza",
-        "summary": "More than a year into a declared ceasefire in Gaza — and three years into the wa",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
-        "publishedAt": "2026-10-15T13:01:50Z"
+        "id": "d2fac54a14dbbc85241f",
+        "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+        "summary": "黑海两艘油轮遭无人机袭击起火，7名船员失踪，罗马尼亚谴责袭击。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
+        "publishedAt": "2026-10-15T09:31:30Z"
+      },
+      {
+        "id": "3bd23ebdd48bbfbf5b45",
+        "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+        "summary": "Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns o",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+        "publishedAt": "2026-10-15T16:02:37Z"
+      },
+      {
+        "id": "2084e4247445dfeae8e3",
+        "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+        "summary": "UK defence secretary says he has been ‘reassured directly’ counterpart Pete Hegs",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+        "publishedAt": "2026-10-15T15:49:57Z"
       }
     ]
   }
