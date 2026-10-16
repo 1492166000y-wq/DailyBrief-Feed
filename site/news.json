@@ -1,58 +1,50 @@
 {
   "version": 1,
   "date": "2026-10-16",
-  "generatedAt": "2026-10-16T07:07:45Z",
+  "generatedAt": "2026-10-16T13:14:21Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内关注存款利率上调、宽基ETF资金流入与潘功胜金融开放表态、商务部拟修订出口技术目录、国常会AI定位、四川雷波县问责结果、台独顽固分子关系网及地方债务问题。",
     "items": [
       {
-        "id": "b3efd03eec24c88842db",
-        "title": "通胀全面超预期！美国9月PPI同比上涨6.3%，创四年来最高纪录，核心涨幅扩大至5%",
-        "summary": "美国9月PPI同比涨6.3%创四年新高，核心涨幅扩至5%，通胀全面超预期。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783717",
-        "publishedAt": "2026-10-16T07:07:45Z"
+        "id": "b92b3b1eac532cfac135",
+        "title": "存款利率普遍上调了",
+        "summary": "存款利率普遍上调，市场关注居民储蓄与银行负债成本变化。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%99%AE%E9%81%8D%E4%B8%8A%E8%B0%83%E4%BA%86",
+        "publishedAt": "2026-10-16T13:14:21Z"
       },
       {
-        "id": "b50363ee2dc59877c828",
-        "title": "独家｜库克：首批苹果智能核心功能已在华获批，10月底推测试版",
-        "summary": "库克称首批苹果智能核心功能已在华获批，10月底推出测试版。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34256510",
-        "publishedAt": "2026-10-16T07:07:45Z"
+        "id": "07f153f2713e28e9c797",
+        "title": "潘功胜：将进一步支持全球投资者和发行人参与中国金融市场",
+        "summary": "潘功胜表示将进一步支持全球投资者和发行人参与中国金融市场。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2506800",
+        "publishedAt": "2026-10-16T13:14:21Z"
       },
       {
-        "id": "c1bf1ee22610f787a979",
-        "title": "多个手机品牌集体宣布降价",
-        "summary": "多个手机品牌集体宣布降价，反映行业竞争与市场调整态势。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697064393934848019/",
-        "publishedAt": "2026-10-16T07:07:45Z"
+        "id": "b082440da011ca00502d",
+        "title": "多只宽基尾盘爆量！股票ETF连续净流入1400亿，信号如何解读？",
+        "summary": "多只宽基尾盘爆量，股票ETF连续净流入1400亿元，信号引解读。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2506882",
+        "publishedAt": "2026-10-16T13:14:21Z"
       },
       {
-        "id": "13f67d7a3784bf58a4d6",
-        "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
-        "summary": "黄仁勋力挺CoreWeave，纳指惊险收涨，芯片指数七连跌，欧美债市上涨。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783663",
-        "publishedAt": "2026-10-16T07:07:45Z"
+        "id": "75c1297de90f4b779724",
+        "title": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》 增列部分人工智能、生物医药、光伏技术",
+        "summary": "商务部、科技部拟修订禁止出口限制出口技术目录，增列AI、生物医药、光伏技术。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2506840",
+        "publishedAt": "2026-10-16T13:14:21Z"
       },
       {
-        "id": "e0e6e94b5064f8726d06",
-        "title": "亚洲科技股崩盘正演变成全面恐慌",
-        "summary": "亚洲科技股崩盘正演变成全面恐慌，引发市场对科技资产估值担忧。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783710",
-        "publishedAt": "2026-10-16T07:07:45Z"
-      },
-      {
-        "id": "53fd4cc749943388cd02",
-        "title": "DeepSeek宕机5小时：一上新就崩？影响有多大？",
-        "summary": "DeepSeek宕机5小时，一上新就崩溃，引发对AI服务稳定性的讨论。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34257535",
-        "publishedAt": "2026-10-16T07:07:45Z"
+        "id": "ce9232833d96f80cb34a",
+        "title": "国常会：人工智能是影响未来发展的关键变量",
+        "summary": "国常会指出人工智能是影响未来发展的关键变量。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507165",
+        "publishedAt": "2026-10-16T13:14:21Z"
       },
       {
         "id": "2e122ea05f9b1b57da89",
@@ -60,20 +52,28 @@
         "summary": "四川雷波县教师被安排“耻辱”合影事件调查结果公布，县长等多人被问责。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34260969",
-        "publishedAt": "2026-10-16T07:07:45Z"
+        "publishedAt": "2026-10-16T13:14:21Z"
       },
       {
-        "id": "9a6f62837e5aa7296516",
-        "title": "今年汽车出口有望突破1000万辆",
-        "summary": "今年汽车出口有望突破1000万辆，显示中国汽车产业出口强劲势头。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%9C%89%E6%9C%9B%E7%AA%81%E7%A0%B41000%E4%B8%87%E8%BE%86",
-        "publishedAt": "2026-10-16T07:07:45Z"
+        "id": "02d4e1025930fb462a1a",
+        "title": "拆解14人“台独”顽固分子关系网",
+        "summary": "拆解14人“台独”顽固分子关系网，揭示其背后资金与利益链条。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xH0F3ptd25",
+        "publishedAt": "2026-10-16T13:14:21Z"
+      },
+      {
+        "id": "7f4f0d42f4171dc07df9",
+        "title": "江西丰城同田乡政府拖欠工程款数年本息达5000多万元，败诉后称无力偿还",
+        "summary": "江西丰城同田乡政府拖欠工程款本息超5000万元，败诉后称无力偿还。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34262076",
+        "publishedAt": "2026-10-16T13:14:21Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际聚焦俄乌能源停火破裂与欧盟对乌支持、美德法汽车业应对、俄中核裁军谈判、英国脱欧后食品出口下滑、欧勒冈校园枪击案及尼日利亚油罐车爆炸等。",
     "items": [
       {
         "id": "378ff4798030ac5f9e5b",
@@ -84,60 +84,60 @@
         "publishedAt": "2026-10-15T15:57:20Z"
       },
       {
-        "id": "4d509f5abdbf2fdf51e1",
-        "title": "Three children and one adult reportedly killed in Oregon elementary school shooting",
-        "summary": "美国俄勒冈州本德市一小学发生枪击案，3名儿童和1名成人死亡，枪手被击毙。",
+        "id": "83e471e4a36194ce114b",
+        "title": "EU summit: European leaders pledge support for Ukraine's Zelenskyy",
+        "summary": "欧盟峰会欧洲领导人承诺支持乌克兰泽连斯基，应对俄罗斯自卫。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-16T04:10:00Z"
+      },
+      {
+        "id": "9ec94ccff97d05263e00",
+        "title": "Germany, France agree on deal to support Europe's struggling car industry",
+        "summary": "德国与法国达成协议支持欧洲陷入困境的汽车工业，鼓励研发。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-16T04:45:00Z"
+      },
+      {
+        "id": "87f42be07fa48c3deac1",
+        "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
+        "summary": "特朗普称美国正与俄罗斯和中国进行无核化谈判。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
+        "publishedAt": "2026-10-16T03:28:12Z"
+      },
+      {
+        "id": "874e805160e4e378174e",
+        "title": "British food and drink exports to EU collapse by more than a third since Brexit",
+        "summary": "英国脱欧后对欧盟食品饮料出口下降超三分之一，鸡蛋和糖出口受重创。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
+        "publishedAt": "2026-10-16T04:34:37Z"
+      },
+      {
+        "id": "94836f61865190267ff1",
+        "title": "Shooter kills three children and one teacher at Oregon elementary school",
+        "summary": "美国俄勒冈州小学枪击案致三名儿童和一名教师死亡，嫌犯被击毙。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
-        "publishedAt": "2026-10-15T15:33:26Z"
+        "publishedAt": "2026-10-16T03:25:44Z"
       },
       {
-        "id": "b72c1fd857472816987e",
-        "title": "Argentine students protest on campus over Milei’s austerity",
-        "summary": "阿根廷学生抗议米莱紧缩政策，校园冲突升级，法官裁定政府未资助大学违法。",
+        "id": "e8b52241807f9a1c9b14",
+        "title": "Fuel tanker fire engulfs market in southern Nigeria",
+        "summary": "尼日利亚南部油罐车起火爆炸吞噬市场，造成严重伤亡。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
-        "publishedAt": "2026-10-15T18:11:33Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
+        "publishedAt": "2026-10-16T04:23:12Z"
       },
       {
-        "id": "842e3180a32f345a91b4",
-        "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
-        "summary": "特朗普称乌克兰恢复打击俄炼油厂是“耻辱”，并称泽连斯基比普京更难打交道。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
-        "publishedAt": "2026-10-15T22:02:52Z"
-      },
-      {
-        "id": "bd546930aa4f668ba838",
-        "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-        "summary": "也门胡塞武装导弹袭击亚丁总统府，至少5人死亡，沙特联军指其获外部导弹部件。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
-        "publishedAt": "2026-10-15T08:50:42Z"
-      },
-      {
-        "id": "e6d586e078557ed858b4",
-        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-        "summary": "巴基斯坦一学校屋顶坍塌，至少33名学生和1名教师死亡，救援持续。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T07:26:16Z"
-      },
-      {
-        "id": "8ce844871a1cc422360f",
-        "title": "Carney says US trying to break Canada amid vote for Alberta independence referendum",
-        "summary": "加拿大阿尔伯塔省将就独立举行公投，总理卡尼称美国试图分裂加拿大。",
+        "id": "2eae74d4a18aaab4d84c",
+        "title": "The EU wants an AI revolution. But on whose terms?",
+        "summary": "欧盟寻求以AI推动经济，但在保护工人、安全和气候方面面临竞争挑战。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-15T20:24:00Z"
-      },
-      {
-        "id": "5b3a35e9f1f40d3d33cc",
-        "title": "They fled Russia, but the West sent them back",
-        "summary": "过去一年，反政府活动人士从欧美被驱逐回俄罗斯的数量急剧上升。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T20:57:28Z"
+        "url": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-16T05:12:00Z"
       }
     ]
   }
