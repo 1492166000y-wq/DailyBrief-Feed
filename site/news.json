@@ -1,42 +1,50 @@
 {
   "version": 1,
   "date": "2026-10-17",
-  "generatedAt": "2026-10-16T18:02:16Z",
+  "generatedAt": "2026-10-16T21:05:12Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在宏观政策与产业监管，国常会定调人工智能、多部门拟限制关键技术出口，资本市场方面证监会重罚操纵市场、多家银行严查信贷资金入市。社会法治领域，雷波县问责结果与天水幼儿园铅中毒案宣判引发关注。",
+    "overview": "国内聚焦宏观政策、金融监管与科技产业：国常会定调人工智能、存款利率普遍上调、证监会巨额罚单、两部门拟限制AI等40项技术出口，并关注地方问责与民生事件。",
     "items": [
+      {
+        "id": "e68e991fc901a5f17764",
+        "title": "习近平在内蒙古乌兰察布考察",
+        "summary": "习近平在内蒙古乌兰察布考察，就当地发展与民生工作作出指示。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507057",
+        "publishedAt": "2026-10-16T21:05:12Z"
+      },
       {
         "id": "ce9232833d96f80cb34a",
         "title": "国常会：人工智能是影响未来发展的关键变量",
-        "summary": "国务院常务会议指出人工智能是影响未来发展的关键变量，部署相关发展与治理工作。",
+        "summary": "国常会指出人工智能是影响未来发展的关键变量，部署相关重点工作。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507165",
-        "publishedAt": "2026-10-16T18:02:16Z"
+        "publishedAt": "2026-10-16T21:05:12Z"
       },
       {
-        "id": "6fcfa1e29095adad982b",
-        "title": "两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术",
-        "summary": "两部门拟对人工智能、生物医药、光伏三领域40项技术实施出口禁止或限制，公开征求意见。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783782",
-        "publishedAt": "2026-10-16T18:02:16Z"
+        "id": "b92b3b1eac532cfac135",
+        "title": "存款利率普遍上调了",
+        "summary": "存款利率普遍上调，多家银行调整存款挂牌利率引发市场关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%99%AE%E9%81%8D%E4%B8%8A%E8%B0%83%E4%BA%86",
+        "publishedAt": "2026-10-16T21:05:12Z"
       },
       {
         "id": "ba8b483faba56d410c1d",
         "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
-        "summary": "证监会开出两张巨额罚单，3名自然人因操纵市场等行为被合计罚没逾5亿元。",
+        "summary": "证监会开出两张巨额罚单，3名自然人被合计罚没逾5亿元。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507088",
-        "publishedAt": "2026-10-16T18:02:16Z"
+        "publishedAt": "2026-10-16T21:05:12Z"
       },
       {
-        "id": "e0bea194a01aa702504e",
-        "title": "多家银行严查贷款违规流入股市",
-        "summary": "多家银行加强信贷资金流向监测，严查贷款违规流入股市等行为。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%A5%E6%9F%A5%E8%B4%B7%E6%AC%BE%E8%BF%9D%E8%A7%84%E6%B5%81%E5%85%A5%E8%82%A1%E5%B8%82",
-        "publishedAt": "2026-10-16T18:02:16Z"
+        "id": "6fcfa1e29095adad982b",
+        "title": "两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术",
+        "summary": "两部门拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783782",
+        "publishedAt": "2026-10-16T21:05:12Z"
       },
       {
         "id": "2e122ea05f9b1b57da89",
@@ -44,100 +52,92 @@
         "summary": "四川雷波县教师被安排“耻辱”合影事件调查结果公布，县长等多人被问责。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34260969",
-        "publishedAt": "2026-10-16T18:02:16Z"
+        "publishedAt": "2026-10-16T21:05:12Z"
       },
       {
         "id": "a667083616d0d42ee213",
         "title": "甘肃天水幼儿园铅中毒案一审宣判：负责人李慧芳被判无期",
-        "summary": "甘肃天水幼儿园铅中毒案一审宣判，负责人李慧芳被判处无期徒刑。",
+        "summary": "甘肃天水幼儿园铅中毒案一审宣判，负责人李慧芳被判无期徒刑。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34263974",
-        "publishedAt": "2026-10-16T18:02:16Z"
-      },
-      {
-        "id": "b92b3b1eac532cfac135",
-        "title": "存款利率普遍上调了",
-        "summary": "多家银行普遍上调存款利率，市场关注储户资金配置与银行负债成本变化。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%99%AE%E9%81%8D%E4%B8%8A%E8%B0%83%E4%BA%86",
-        "publishedAt": "2026-10-16T18:02:16Z"
+        "publishedAt": "2026-10-16T21:05:12Z"
       },
       {
         "id": "7405bebe69bb0158e48b",
         "title": "国务院免去王刚原职 此前已履新河北",
-        "summary": "国务院免去王刚相关职务，其此前已赴河北履新，人事调整引发关注。",
+        "summary": "国务院免去王刚原职，其此前已履新河北。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7696921328695427113/",
-        "publishedAt": "2026-10-16T18:02:16Z"
+        "publishedAt": "2026-10-16T21:05:12Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻聚焦美欧关系裂痕与俄乌冲突，特朗普政府对乌态度反复、欧盟力挺泽连斯基，星链限制风波发酵。此外，白宫新闻秘书入职五天遭解职、以色列定居者在约旦河西岸袭击巴勒斯坦人与美国记者等事件受瞩目。",
+    "overview": "国际方面，美国政府人事动荡、欧洲学生抗议、加沙粮食危机、巴西雨林保护与选举博弈、乌克兰局势及欧美汽车产业政策成主要看点。",
     "items": [
       {
-        "id": "f979ab7e5d5a6947364d",
-        "title": "Katie Zacharia fired after five days as White House press secretary – reports",
-        "summary": "凯蒂·扎卡里亚就任白宫新闻秘书仅五天后遭解职，此前首场简报会广受批评。",
+        "id": "61994217e467739a7008",
+        "title": "Katie Zacharia fired after five days as White House press secretary",
+        "summary": "白宫新闻秘书扎卡里亚上任仅五天即被解职，成该职位史上任期最短者。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
-        "publishedAt": "2026-10-16T09:50:51Z"
+        "publishedAt": "2026-10-16T11:29:43Z"
       },
       {
-        "id": "87aa7ff631791d064f8f",
-        "title": "EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – as it happened",
-        "summary": "冯德莱恩称欧盟对乌支持比以往更重要，欧美关系因特朗普言论趋冷。",
+        "id": "e651252e9d0ec45d7c52",
+        "title": "Students in Europe are rising up to call for better education",
+        "summary": "欧洲多国学生发起抗议，要求改善教育体系，部分地区出现暴力骚乱。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+        "publishedAt": "2026-10-16T12:38:00Z"
+      },
+      {
+        "id": "a09f9746bd872b6f640a",
+        "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+        "summary": "以色列暂停商业物资进入加沙，当地食品供应与物价引发担忧。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+        "publishedAt": "2026-10-16T12:37:22Z"
+      },
+      {
+        "id": "d760243f42220e594766",
+        "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+        "summary": "泽连斯基在欧盟峰会讲话，欧盟重申支持乌克兰，乌美关系因俄罗斯问题趋紧。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-16T11:42:00Z"
+      },
+      {
+        "id": "dd839f85bc358d2aa32b",
+        "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+        "summary": "巴西政府数据显示亚马逊雨林砍伐量降至1988年有记录以来最低，大选前引关注。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
-        "publishedAt": "2026-10-16T09:37:17Z"
-      },
-      {
-        "id": "6be7760476c99bb368d7",
-        "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
-        "summary": "泽连斯基称乌军星链接入尚未完全恢复，指美方限制是危险且不愉快的意外。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
-        "publishedAt": "2026-10-16T07:39:41Z"
-      },
-      {
-        "id": "9f1f064471b48a719a04",
-        "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-        "summary": "美国参议员呼吁调查乌克兰星链网络受限一事，乌方称影响战场任务。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T06:19:50Z"
+        "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+        "publishedAt": "2026-10-16T11:37:53Z"
       },
       {
         "id": "eca40acda9e915106dbc",
         "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
-        "summary": "以色列定居者在约旦河西岸袭击巴勒斯坦橄榄种植者及《华盛顿邮报》记者。",
+        "summary": "以色列定居者在约旦河西岸袭击巴勒斯坦橄榄农户及一名美国记者。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
         "publishedAt": "2026-10-16T08:34:58Z"
       },
       {
-        "id": "9ec94ccff97d05263e00",
-        "title": "Germany, France agree on deal to support Europe's struggling car industry",
-        "summary": "德国与法国就支持欧洲汽车业达成协议，重点鼓励研发以应对中国电动车竞争。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-16T07:31:00Z"
-      },
-      {
-        "id": "fa22b84851597a7ecf7f",
-        "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-        "summary": "泽连斯基称乌克兰有权自卫，此前特朗普抨击最新袭击是“耻辱”，欧盟力挺乌方。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T07:59:30Z"
-      },
-      {
-        "id": "971b0595773fe6a8fcd5",
-        "title": "The artisanal miners behind Nigeria’s lithium boom",
-        "summary": "手工采矿者支撑尼日利亚锂矿热潮，纳萨拉瓦州成为清洁能源竞赛焦点。",
+        "id": "f6d203c94000c719bb6a",
+        "title": "US records 4,410 measles cases as outbreak grows",
+        "summary": "美国麻疹疫情持续扩大，累计报告4410例病例，疾控中心扩大疫苗接种。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
-        "publishedAt": "2026-10-16T08:23:09Z"
+        "url": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
+        "publishedAt": "2026-10-16T09:40:18Z"
+      },
+      {
+        "id": "c40ae4caf690e7e268d3",
+        "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+        "summary": "英国未排除对中国电动汽车加征关税，中方警告此举具歧视性。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+        "publishedAt": "2026-10-16T10:09:34Z"
       }
     ]
   }
