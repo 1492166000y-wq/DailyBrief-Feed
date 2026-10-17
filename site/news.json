@@ -1,84 +1,108 @@
 {
   "version": 1,
   "date": "2026-10-18",
-  "generatedAt": "2026-10-17T18:29:20Z",
+  "generatedAt": "2026-10-17T22:17:08Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦AI产业政策与经济金融波动，兼有反腐、外交表态及民生试点议题。",
+    "overview": "国内聚焦养老、教育政策试点与AI产业动向，股市受AI交易忧虑冲击，同时中日围绕靖国神社问题再起外交交锋。",
     "items": [
       {
-        "id": "ce9232833d96f80cb34a",
-        "title": "国常会：人工智能是影响未来发展的关键变量",
-        "summary": "国常会明确人工智能是影响未来发展的关键变量，产业政策定调受到高度关注。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507165",
-        "publishedAt": "2026-10-17T18:29:20Z"
-      },
-      {
-        "id": "b82606d7460570ce154d",
-        "title": "黄奇帆被查 中纪委官网重磅发文",
-        "summary": "中纪委官网发文通报黄奇帆被查，引发舆论对反腐动向的集中关注。",
+        "id": "1f19b51f17b4aa124426",
+        "title": "国家出手 养老账单要变了",
+        "summary": "国家出台养老政策调整，养老账单将发生变化，影响范围广泛。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697485333599882806/",
-        "publishedAt": "2026-10-17T18:29:20Z"
+        "url": "https://www.toutiao.com/trending/7697029903337881641/",
+        "publishedAt": "2026-10-17T22:17:08Z"
       },
       {
-        "id": "4579be1f9f32d0ef5922",
-        "title": "中纪委网站：不论职务高低贡献大小退休与否，只要搞了腐败就没有所谓平安着陆",
-        "summary": "中纪委网站强调不论职务高低、退休与否，只要搞腐败就没有平安着陆。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34269908",
-        "publishedAt": "2026-10-17T18:29:20Z"
-      },
-      {
-        "id": "c88bc6ee1bc076bfa3da",
-        "title": "中方：强烈谴责日方涉靖国神社消极动向",
-        "summary": "中方强烈谴责日方涉靖国神社消极动向，相关表态由多家媒体同步报道。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xIuMYrHorw",
-        "publishedAt": "2026-10-17T18:29:20Z"
-      },
-      {
-        "id": "6c652e4d0c0001cc4ef4",
-        "title": "我驻日使馆：中方强烈谴责日方涉靖国神社消极动向",
-        "summary": "我驻日使馆就日方涉靖国神社消极动向表态，重申中方强烈谴责立场。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34271937",
-        "publishedAt": "2026-10-17T18:29:20Z"
+        "id": "cc802fe228571c54d793",
+        "title": "多地试点直升高中",
+        "summary": "多地试点直升高中政策，涉及升学路径改革，引发社会关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
+        "publishedAt": "2026-10-17T22:17:08Z"
       },
       {
         "id": "3511924e05f5f5ad8176",
         "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-        "summary": "AI交易忧虑拖累美股，纳指跌超2%，CoreWeave暴跌12%，国际油价突破110美元。",
+        "summary": "AI交易忧虑拖累美股，纳指跌超2%，布油突破110美元。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783778",
-        "publishedAt": "2026-10-17T18:29:20Z"
+        "publishedAt": "2026-10-17T22:17:08Z"
       },
       {
-        "id": "862b6b1f562f0ee195d2",
-        "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-        "summary": "早报汇总纳指大跌逾500点、半导体存储股跳水、油价大涨及多家公司回购计划。",
+        "id": "ce9232833d96f80cb34a",
+        "title": "国常会：人工智能是影响未来发展的关键变量",
+        "summary": "国常会指出人工智能是影响未来发展的关键变量，释放政策信号。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507382",
-        "publishedAt": "2026-10-17T18:29:20Z"
+        "url": "https://www.cls.cn/detail/2507165",
+        "publishedAt": "2026-10-17T22:17:08Z"
+      },
+      {
+        "id": "c88bc6ee1bc076bfa3da",
+        "title": "中方：强烈谴责日方涉靖国神社消极动向",
+        "summary": "中方强烈谴责日方涉靖国神社消极动向，重申历史立场。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xIuMYrHorw",
+        "publishedAt": "2026-10-17T22:17:08Z"
+      },
+      {
+        "id": "b82606d7460570ce154d",
+        "title": "黄奇帆被查 中纪委官网重磅发文",
+        "summary": "黄奇帆被查，中纪委官网发文，反腐动向受高度关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697485333599882806/",
+        "publishedAt": "2026-10-17T22:17:08Z"
       },
       {
         "id": "0befc2a9cb19520bc9a5",
         "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
-        "summary": "黄金暴跌27%、白银价格腰斩，市场警示更大范围贵金属危机可能正在酝酿。",
+        "summary": "黄金暴跌27%、白银价格腰斩，贵金属市场危机引关注。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783830",
-        "publishedAt": "2026-10-17T18:29:20Z"
+        "publishedAt": "2026-10-17T22:17:08Z"
+      },
+      {
+        "id": "dca72e7b846720204964",
+        "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
+        "summary": "AI缺钱风暴席卷市场，产业巨额投资面临信心大考。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507445",
+        "publishedAt": "2026-10-17T22:17:08Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中于特朗普暂缓对俄制裁引发争议、法国全国抗议、加州山火及中东局势升级。",
+    "overview": "法国学生抗议演变为大规模社会动荡，特朗普暂缓对俄制裁引发跨党派批评，欧洲多国生活成本抗议同步升温。",
     "items": [
+      {
+        "id": "2d588205bf506524312d",
+        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "summary": "法国抗议演变为暴力冲突，超千人被捕，多地建筑遭纵火。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T12:52:17Z"
+      },
+      {
+        "id": "56d7ee07022754d6ce62",
+        "title": "Student protests widen into greater social unrest in France",
+        "summary": "法国学生抗议扩大为社会动荡，多数和平但部分演变为暴力。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+        "publishedAt": "2026-10-17T13:18:52Z"
+      },
+      {
+        "id": "5070f373bfaa470eb5cb",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "summary": "特朗普暂缓多项对俄制裁，与泽连斯基矛盾加剧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T11:19:19Z"
+      },
       {
         "id": "3ae333e44e1b706e7d8b",
         "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-        "summary": "特朗普暂缓对俄制裁引发两党批评，被指削弱对乌克兰的支持。",
+        "summary": "特朗普暂缓对俄制裁引发两党批评，被指削弱对乌支持。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
         "publishedAt": "2026-10-17T09:24:07Z"
@@ -86,58 +110,34 @@
       {
         "id": "903586b3a3417f9b4173",
         "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
-        "summary": "泽连斯基称特朗普暂缓对俄制裁是对普京的奖赏，警告将助长俄方攻势。",
+        "summary": "泽连斯基称特朗普暂缓对俄制裁是对普京的奖赏，警告助长俄攻势。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
         "publishedAt": "2026-10-17T07:38:17Z"
       },
       {
-        "id": "5070f373bfaa470eb5cb",
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "特朗普以国家安全为由暂缓执行国会对俄新制裁，与泽连斯基分歧加深。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T03:56:06Z"
-      },
-      {
-        "id": "d49b106e8bad2796eeec",
-        "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-        "summary": "俄军袭击乌克兰多地，造成至少8人死亡、约100万人断电。",
+        "id": "2e9ecf817545c3130663",
+        "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+        "summary": "比利时、意大利、葡萄牙和法国爆发生活成本抗议，数十万人上街。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
-        "publishedAt": "2026-10-16T21:19:19Z"
+        "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+        "publishedAt": "2026-10-17T13:02:26Z"
       },
       {
-        "id": "ae515f3382592c072bfe",
-        "title": "Police clash with protesters as tens of thousands take to streets across France",
-        "summary": "法国多地数万人上街抗议，巴黎警方发射催泪瓦斯，马赛抗议者冲击市政厅。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-        "publishedAt": "2026-10-17T08:55:57Z"
+        "id": "e11a7232bcf159449f1d",
+        "title": "Ten killed in fire at beach resort in Bangladesh",
+        "summary": "孟加拉国海滩度假村发生火灾，造成十人死亡，含一家六口。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
+        "publishedAt": "2026-10-17T12:50:01Z"
       },
       {
-        "id": "b04df4b6690e6a1b3e54",
-        "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
-        "summary": "罗马尼亚空军F-16在黑海上空击落两架无人机，此前附近两艘油轮遭袭。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-17T09:51:00Z"
-      },
-      {
-        "id": "78cd7305a00daf7858c1",
-        "title": "Six homes burned and two firefighters injured in fast-moving California wildfire",
-        "summary": "加州南部山火迅速蔓延，至少6栋住宅被毁、2名消防员受伤，约6000户疏散。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires",
-        "publishedAt": "2026-10-17T10:10:26Z"
-      },
-      {
-        "id": "609382eb1f5dce17d727",
-        "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-        "summary": "埃及总统塞西表示若被要求将保卫沙特，此番表态正值胡塞武装袭击升级。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-17T09:49:00Z"
+        "id": "b9de71ac43fee1b07227",
+        "title": "At least 17 dead in crush at Hindu festival event in India",
+        "summary": "印度加尔各答宗教活动发生踩踏，至少17人死亡，多人受伤。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T11:19:16Z"
       }
     ]
   }
