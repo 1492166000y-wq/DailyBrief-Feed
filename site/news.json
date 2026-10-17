@@ -1,92 +1,92 @@
 {
   "version": 1,
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T06:54:36Z",
+  "generatedAt": "2026-10-17T12:10:57Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦高层经济部署、金融与产业监管、地方治理及社会案件；AI交易忧虑拖累美股并波及全球市场。",
+    "overview": "国内焦点集中于金融市场动荡、宏观政策与产业动向：AI交易忧虑引发美股和半导体抛售，四部门座谈车企强化研发测试管理，国常会定调人工智能为关键变量；同时养老账单、社保新规、省级党代会等民生与政治议题受关注。",
     "items": [
+      {
+        "id": "862b6b1f562f0ee195d2",
+        "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+        "summary": "美股纳指大跌超500点，半导体存储股全线跳水；黄仁勋谈AI市场震荡，国际油价大涨，多家A股公司计划回购。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507382",
+        "publishedAt": "2026-10-17T12:10:57Z"
+      },
       {
         "id": "ce9232833d96f80cb34a",
         "title": "国常会：人工智能是影响未来发展的关键变量",
-        "summary": "国常会指出人工智能是影响未来发展的关键变量，释放政策加码信号。",
+        "summary": "国常会指出人工智能是影响未来发展的关键变量，释放政策信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507165",
-        "publishedAt": "2026-10-17T06:54:36Z"
-      },
-      {
-        "id": "6fcfa1e29095adad982b",
-        "title": "两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术",
-        "summary": "两部门拟禁止、限制出口人工智能、生物医药、光伏三领域40项技术。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783782",
-        "publishedAt": "2026-10-17T06:54:36Z"
-      },
-      {
-        "id": "b82606d7460570ce154d",
-        "title": "黄奇帆被查 中纪委官网重磅发文",
-        "summary": "中纪委官网发文通报黄奇帆被查，引发广泛关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697485333599882806/",
-        "publishedAt": "2026-10-17T06:54:36Z"
-      },
-      {
-        "id": "a667083616d0d42ee213",
-        "title": "甘肃天水幼儿园铅中毒案一审宣判：负责人李慧芳被判无期",
-        "summary": "甘肃天水幼儿园铅中毒案一审宣判，负责人李慧芳被判无期徒刑。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34263974",
-        "publishedAt": "2026-10-17T06:54:36Z"
+        "publishedAt": "2026-10-17T12:10:57Z"
       },
       {
         "id": "68c5ecb8dcb47c9682a1",
         "title": "四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理",
-        "summary": "四部门组织30余家车企座谈，加强汽车产品研发测试验证管理。",
+        "summary": "四部门组织30余家车企座谈，部署加强汽车产品研发测试验证管理。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34264638",
-        "publishedAt": "2026-10-17T06:54:36Z"
+        "publishedAt": "2026-10-17T12:10:57Z"
       },
       {
-        "id": "ba8b483faba56d410c1d",
-        "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
-        "summary": "证监会开出2张巨额罚单，3名自然人合计被罚没逾5亿元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507088",
-        "publishedAt": "2026-10-17T06:54:36Z"
+        "id": "4de964544272b24e28db",
+        "title": "全国即将进入省级党代会时间",
+        "summary": "全国即将进入省级党代会时间，地方换届工作备受关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34265066",
+        "publishedAt": "2026-10-17T12:10:57Z"
       },
       {
-        "id": "99515617ee7cf2f50dab",
-        "title": "自愿放弃社保无效",
-        "summary": "“自愿放弃社保无效”登上热搜，涉及劳动者权益保障议题。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88",
-        "publishedAt": "2026-10-17T06:54:36Z"
+        "id": "1f19b51f17b4aa124426",
+        "title": "国家出手 养老账单要变了",
+        "summary": "国家出手调整养老账单，养老保障政策变动涉及广大民众切身利益。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697029903337881641/",
+        "publishedAt": "2026-10-17T12:10:57Z"
+      },
+      {
+        "id": "bf5d94206725a7e8e336",
+        "title": "单位欠缴社保处罚新规将施行",
+        "summary": "单位欠缴社保处罚新规将施行，强化社保征缴监管。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BD%8D%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D%E5%A4%84%E7%BD%9A%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C%23",
+        "publishedAt": "2026-10-17T12:10:57Z"
+      },
+      {
+        "id": "440ba2a96c48c6c36917",
+        "title": "银行又开始抢长期存款了",
+        "summary": "银行开始抢长期存款，反映利率与负债端管理新动向。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697567915482025515/",
+        "publishedAt": "2026-10-17T12:10:57Z"
       },
       {
         "id": "16f15e2a708943f313a0",
         "title": "下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空",
-        "summary": "苹果首款折叠屏iPhone Duo开启预购即售罄，发货排到明年。",
+        "summary": "苹果首款折叠屏iPhone Duo开启预购，首发现货秒空，订单排至明年。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34265063",
-        "publishedAt": "2026-10-17T06:54:36Z"
+        "publishedAt": "2026-10-17T12:10:57Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美俄关系与俄乌冲突持续紧张，美国内政人事与枪击事件受关注，巴西环保进展及多国社会动荡亦有报道。",
+    "overview": "国际焦点围绕俄乌冲突与美欧关系：特朗普暂缓对俄新制裁引发欧洲忧虑，俄军空袭致乌克兰多地断电及平民伤亡；法国全国性抗议蔓延，美国俄勒冈州校园枪击案及加州山火等突发事件亦受关注。",
     "items": [
       {
         "id": "5070f373bfaa470eb5cb",
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "特朗普以国家安全为由暂缓实施多项对俄制裁，与泽连斯基分歧加深。",
+        "summary": "特朗普以国家安全为由暂缓执行对俄新制裁，与泽连斯基分歧加剧。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T22:39:40Z"
+        "publishedAt": "2026-10-17T03:56:06Z"
       },
       {
         "id": "3ced2bb3c816d41052b6",
         "title": "Trump puts on hold new Russia sanctions he signed into law",
-        "summary": "特朗普签署行政令暂缓执行其刚签署成法的对俄新制裁。",
+        "summary": "特朗普签署行政令暂缓执行其刚签署成法的对俄新制裁，引发欧洲担忧。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
         "publishedAt": "2026-10-16T20:45:03Z"
@@ -100,6 +100,30 @@
         "publishedAt": "2026-10-16T21:19:19Z"
       },
       {
+        "id": "2292919311d3f92a4933",
+        "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+        "summary": "泽连斯基称俄欲在冬季来临前让乌克兰断电断暖，批评美放宽制裁助俄。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-17T03:34:00Z"
+      },
+      {
+        "id": "fe52cb72cd1b9a911ef9",
+        "title": "Protests spread across France as ‘yellow vests’ set to join",
+        "summary": "法国抗议活动蔓延，黄背心运动计划加入，社会不满扩大。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
+        "publishedAt": "2026-10-17T03:21:32Z"
+      },
+      {
+        "id": "dd02b62fe21ae18f092d",
+        "title": "France braces for nationwide protests",
+        "summary": "法国学生、工会与黄背心发起全国抗议，抗议高物价与不平等，当局担忧暴力。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-17T00:02:00Z"
+      },
+      {
         "id": "d0f1b1ad58c678c887e3",
         "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
         "summary": "美国俄勒冈州校园枪击致3名学生和1名教师死亡，警方称赞干预者英勇。",
@@ -108,36 +132,12 @@
         "publishedAt": "2026-10-16T22:04:00Z"
       },
       {
-        "id": "17a406d241ce0171dbcb",
-        "title": "Katie Zacharia leaving White House role less than five days into job",
-        "summary": "白宫新闻秘书扎卡里亚上任不足五天即离任，成史上任期最短者。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T21:20:40Z"
-      },
-      {
-        "id": "00d6d5474c7b85339f7a",
-        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-        "summary": "巴西亚马逊雨林砍伐量降至1988年有记录以来最低，选举前释放利好。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T18:33:09Z"
-      },
-      {
-        "id": "45373286fc5b13695bc8",
-        "title": "Families demand justice after Pakistan school collapse",
-        "summary": "巴基斯坦白沙瓦学校屋顶坍塌致34名儿童死亡，家属要求追责。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
-        "publishedAt": "2026-10-16T14:38:04Z"
-      },
-      {
-        "id": "8174277107a26ddc17c3",
-        "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
-        "summary": "阿尔巴尼亚学生抗议升级，总理拉马称有“外国之手”推动。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
-        "publishedAt": "2026-10-16T15:27:01Z"
+        "id": "070386058124b8cac0ac",
+        "title": "US: California wildfires destroy homes, leave thousands without power",
+        "summary": "加州山火摧毁多处住宅，数千人疏散断电，消防员持续扑救。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-16T22:08:00Z"
       }
     ]
   }
