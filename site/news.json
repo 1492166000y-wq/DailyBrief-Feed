@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T12:10:57Z",
+  "generatedAt": "2026-10-17T15:31:25Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中于金融市场动荡、宏观政策与产业动向：AI交易忧虑引发美股和半导体抛售，四部门座谈车企强化研发测试管理，国常会定调人工智能为关键变量；同时养老账单、社保新规、省级党代会等民生与政治议题受关注。",
+    "overview": "国内焦点集中于美方AI交易忧虑引发美股科技股重挫、地缘政治摩擦升温与宏观政策走向；社会与产业议题涵盖教育试点、反腐表态及消费市场动向。",
     "items": [
       {
-        "id": "862b6b1f562f0ee195d2",
-        "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-        "summary": "美股纳指大跌超500点，半导体存储股全线跳水；黄仁勋谈AI市场震荡，国际油价大涨，多家A股公司计划回购。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507382",
-        "publishedAt": "2026-10-17T12:10:57Z"
+        "id": "3511924e05f5f5ad8176",
+        "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+        "summary": "AI交易忧虑压垮美股，纳指跌超2%，CoreWeave暴跌12%，油价破110美元",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783778",
+        "publishedAt": "2026-10-17T15:31:25Z"
       },
       {
         "id": "ce9232833d96f80cb34a",
         "title": "国常会：人工智能是影响未来发展的关键变量",
-        "summary": "国常会指出人工智能是影响未来发展的关键变量，释放政策信号。",
+        "summary": "国常会指出人工智能是影响未来发展的关键变量，明确政策方向",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507165",
-        "publishedAt": "2026-10-17T12:10:57Z"
+        "publishedAt": "2026-10-17T15:31:25Z"
       },
       {
-        "id": "68c5ecb8dcb47c9682a1",
-        "title": "四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理",
-        "summary": "四部门组织30余家车企座谈，部署加强汽车产品研发测试验证管理。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34264638",
-        "publishedAt": "2026-10-17T12:10:57Z"
+        "id": "c88bc6ee1bc076bfa3da",
+        "title": "中方：强烈谴责日方涉靖国神社消极动向",
+        "summary": "中方强烈谴责日方涉靖国神社消极动向，重申严正立场",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xIuMYrHorw",
+        "publishedAt": "2026-10-17T15:31:25Z"
       },
       {
-        "id": "4de964544272b24e28db",
-        "title": "全国即将进入省级党代会时间",
-        "summary": "全国即将进入省级党代会时间，地方换届工作备受关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34265066",
-        "publishedAt": "2026-10-17T12:10:57Z"
-      },
-      {
-        "id": "1f19b51f17b4aa124426",
-        "title": "国家出手 养老账单要变了",
-        "summary": "国家出手调整养老账单，养老保障政策变动涉及广大民众切身利益。",
+        "id": "64f76f9b54ea8090fc8c",
+        "title": "普京：炼油厂遭袭导致俄GDP下降1%",
+        "summary": "普京称炼油厂遭袭导致俄GDP下降1%，暴露俄能源设施脆弱性",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697029903337881641/",
-        "publishedAt": "2026-10-17T12:10:57Z"
+        "url": "https://www.toutiao.com/trending/7696499656641086002/",
+        "publishedAt": "2026-10-17T15:31:25Z"
       },
       {
-        "id": "bf5d94206725a7e8e336",
-        "title": "单位欠缴社保处罚新规将施行",
-        "summary": "单位欠缴社保处罚新规将施行，强化社保征缴监管。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BD%8D%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D%E5%A4%84%E7%BD%9A%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C%23",
-        "publishedAt": "2026-10-17T12:10:57Z"
-      },
-      {
-        "id": "440ba2a96c48c6c36917",
-        "title": "银行又开始抢长期存款了",
-        "summary": "银行开始抢长期存款，反映利率与负债端管理新动向。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697567915482025515/",
-        "publishedAt": "2026-10-17T12:10:57Z"
-      },
-      {
-        "id": "16f15e2a708943f313a0",
-        "title": "下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空",
-        "summary": "苹果首款折叠屏iPhone Duo开启预购，首发现货秒空，订单排至明年。",
+        "id": "4579be1f9f32d0ef5922",
+        "title": "中纪委网站：不论职务高低贡献大小退休与否，只要搞了腐败就没有所谓平安着陆",
+        "summary": "中纪委强调不论职务高低退休与否，搞腐败就没有平安着陆",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34265063",
-        "publishedAt": "2026-10-17T12:10:57Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34269908",
+        "publishedAt": "2026-10-17T15:31:25Z"
+      },
+      {
+        "id": "cc802fe228571c54d793",
+        "title": "多地试点直升高中",
+        "summary": "多地试点直升高中，探索中考升学路径改革",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
+        "publishedAt": "2026-10-17T15:31:25Z"
+      },
+      {
+        "id": "0befc2a9cb19520bc9a5",
+        "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
+        "summary": "黄金暴跌27%、白银价格腰斩，市场担忧更大贵金属危机酝酿",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783830",
+        "publishedAt": "2026-10-17T15:31:25Z"
+      },
+      {
+        "id": "371d7c11707e4eec8c6e",
+        "title": "马上评｜欣赏特斯拉的想象力，更要读懂中国新能源汽车硬实力",
+        "summary": "澎湃评论称欣赏特斯拉想象力之余，更要读懂中国新能源汽车硬实力",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34270632",
+        "publishedAt": "2026-10-17T15:31:25Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点围绕俄乌冲突与美欧关系：特朗普暂缓对俄新制裁引发欧洲忧虑，俄军空袭致乌克兰多地断电及平民伤亡；法国全国性抗议蔓延，美国俄勒冈州校园枪击案及加州山火等突发事件亦受关注。",
+    "overview": "国际方面，特朗普暂缓对俄新制裁引发乌克兰与欧洲盟友强烈反应，俄乌冲突持续升级；法国爆发全国性抗议，中东与美洲多地安全与政治事件频发。",
     "items": [
+      {
+        "id": "903586b3a3417f9b4173",
+        "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
+        "summary": "泽连斯基称特朗普暂缓对俄制裁是对普京的奖励，将助长俄方战争",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+        "publishedAt": "2026-10-17T06:46:05Z"
+      },
       {
         "id": "5070f373bfaa470eb5cb",
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "特朗普以国家安全为由暂缓执行对俄新制裁，与泽连斯基分歧加剧。",
+        "summary": "特朗普以国家安全为由暂缓执行国会通过对俄新制裁，引发争议",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-17T03:56:06Z"
       },
       {
-        "id": "3ced2bb3c816d41052b6",
-        "title": "Trump puts on hold new Russia sanctions he signed into law",
-        "summary": "特朗普签署行政令暂缓执行其刚签署成法的对俄新制裁，引发欧洲担忧。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-        "publishedAt": "2026-10-16T20:45:03Z"
-      },
-      {
         "id": "d49b106e8bad2796eeec",
         "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-        "summary": "俄军袭击乌克兰多地致至少8人死亡，约100万人断电。",
+        "summary": "俄军袭击乌克兰多地致至少8人死亡，约100万人断电",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
         "publishedAt": "2026-10-16T21:19:19Z"
       },
       {
-        "id": "2292919311d3f92a4933",
-        "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-        "summary": "泽连斯基称俄欲在冬季来临前让乌克兰断电断暖，批评美放宽制裁助俄。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-17T03:34:00Z"
-      },
-      {
-        "id": "fe52cb72cd1b9a911ef9",
-        "title": "Protests spread across France as ‘yellow vests’ set to join",
-        "summary": "法国抗议活动蔓延，黄背心运动计划加入，社会不满扩大。",
+        "id": "3e9381040a8d85b3ba04",
+        "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
+        "summary": "突尼斯数千人举行多年来最大规模抗议，反对赛义德执政",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
-        "publishedAt": "2026-10-17T03:21:32Z"
+        "url": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
+        "publishedAt": "2026-10-17T06:57:24Z"
       },
       {
-        "id": "dd02b62fe21ae18f092d",
-        "title": "France braces for nationwide protests",
-        "summary": "法国学生、工会与黄背心发起全国抗议，抗议高物价与不平等，当局担忧暴力。",
+        "id": "061aee7d1c63cf3b2d2b",
+        "title": "France: Police and protesters clash in nationwide protests",
+        "summary": "法国全国抗议爆发，学生、工会与黄背心人士与警方冲突",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-top-1022-rdf",
+        "url": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-17T00:02:00Z"
       },
       {
-        "id": "d0f1b1ad58c678c887e3",
-        "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-        "summary": "美国俄勒冈州校园枪击致3名学生和1名教师死亡，警方称赞干预者英勇。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-16T22:04:00Z"
+        "id": "b4d0433c071dbb7953ca",
+        "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+        "summary": "全球太阳能发电量首次超过核电，能源结构迎来里程碑",
+        "source": "Hacker News",
+        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+        "publishedAt": "2026-10-17T06:01:01Z"
       },
       {
-        "id": "070386058124b8cac0ac",
-        "title": "US: California wildfires destroy homes, leave thousands without power",
-        "summary": "加州山火摧毁多处住宅，数千人疏散断电，消防员持续扑救。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-16T22:08:00Z"
+        "id": "f5f0fd8fbe17f74c3723",
+        "title": "Pope discharged from hospital days after lung cancer surgery",
+        "summary": "教皇利奥十四世肺癌手术后出院，将于周日主持传统祈祷",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T05:51:36Z"
+      },
+      {
+        "id": "26821c671abe7557a61d",
+        "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+        "summary": "埃及总统塞西寻求授权，应沙特请求提供防务援助",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+        "publishedAt": "2026-10-17T06:00:24Z"
       }
     ]
   }
