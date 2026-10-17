@@ -1,42 +1,34 @@
 {
   "version": 1,
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T00:27:38Z",
+  "generatedAt": "2026-10-17T06:54:36Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦：国常会强调人工智能关键作用，四部门约谈车企严管研发测试，两部门拟限制AI等40项技术出口；证监会开出逾5亿元罚单，天水幼儿园铅中毒案一审宣判；高市早苗向靖国神社供奉祭品引发外交关注。",
+    "overview": "国内要闻聚焦高层经济部署、金融与产业监管、地方治理及社会案件；AI交易忧虑拖累美股并波及全球市场。",
     "items": [
       {
         "id": "ce9232833d96f80cb34a",
         "title": "国常会：人工智能是影响未来发展的关键变量",
-        "summary": "国务院常务会议指出人工智能是影响未来发展的关键变量，部署相关发展与治理工作。",
+        "summary": "国常会指出人工智能是影响未来发展的关键变量，释放政策加码信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507165",
-        "publishedAt": "2026-10-17T00:27:38Z"
-      },
-      {
-        "id": "68c5ecb8dcb47c9682a1",
-        "title": "四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理",
-        "summary": "四部门组织30余家车企座谈，要求加强汽车产品研发测试验证管理，强化质量安全。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34264638",
-        "publishedAt": "2026-10-17T00:27:38Z"
+        "publishedAt": "2026-10-17T06:54:36Z"
       },
       {
         "id": "6fcfa1e29095adad982b",
         "title": "两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术",
-        "summary": "两部门拟禁止、限制出口人工智能、生物医药、光伏三个领域共40项技术，公开征求意见。",
+        "summary": "两部门拟禁止、限制出口人工智能、生物医药、光伏三领域40项技术。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783782",
-        "publishedAt": "2026-10-17T00:27:38Z"
+        "publishedAt": "2026-10-17T06:54:36Z"
       },
       {
-        "id": "ba8b483faba56d410c1d",
-        "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
-        "summary": "证监会开出两张巨额罚单，3名自然人因违法违规被合计罚没逾5亿元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507088",
-        "publishedAt": "2026-10-17T00:27:38Z"
+        "id": "b82606d7460570ce154d",
+        "title": "黄奇帆被查 中纪委官网重磅发文",
+        "summary": "中纪委官网发文通报黄奇帆被查，引发广泛关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697485333599882806/",
+        "publishedAt": "2026-10-17T06:54:36Z"
       },
       {
         "id": "a667083616d0d42ee213",
@@ -44,100 +36,108 @@
         "summary": "甘肃天水幼儿园铅中毒案一审宣判，负责人李慧芳被判无期徒刑。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34263974",
-        "publishedAt": "2026-10-17T00:27:38Z"
+        "publishedAt": "2026-10-17T06:54:36Z"
       },
       {
-        "id": "e39c5a6b59f62d85e21d",
-        "title": "高市早苗向靖国神社供奉祭品",
-        "summary": "日本政客高市早苗向靖国神社供奉祭品，中方此前敦促日方正视历史。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xHoqNefVgX",
-        "publishedAt": "2026-10-17T00:27:38Z"
-      },
-      {
-        "id": "2e122ea05f9b1b57da89",
-        "title": "四川雷波县教师被安排“耻辱”合影事件调查结果公布：县长等多人被问责",
-        "summary": "四川雷波县教师被安排“耻辱”合影事件调查结果公布，县长等多人被问责。",
+        "id": "68c5ecb8dcb47c9682a1",
+        "title": "四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理",
+        "summary": "四部门组织30余家车企座谈，加强汽车产品研发测试验证管理。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34260969",
-        "publishedAt": "2026-10-17T00:27:38Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34264638",
+        "publishedAt": "2026-10-17T06:54:36Z"
       },
       {
-        "id": "3511924e05f5f5ad8176",
-        "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-        "summary": "AI交易忧虑重挫美股，纳指跌超2%，CoreWeave暴跌12%，布油涨破110美元。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783778",
-        "publishedAt": "2026-10-17T00:27:38Z"
+        "id": "ba8b483faba56d410c1d",
+        "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
+        "summary": "证监会开出2张巨额罚单，3名自然人合计被罚没逾5亿元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507088",
+        "publishedAt": "2026-10-17T06:54:36Z"
+      },
+      {
+        "id": "99515617ee7cf2f50dab",
+        "title": "自愿放弃社保无效",
+        "summary": "“自愿放弃社保无效”登上热搜，涉及劳动者权益保障议题。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88",
+        "publishedAt": "2026-10-17T06:54:36Z"
+      },
+      {
+        "id": "16f15e2a708943f313a0",
+        "title": "下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空",
+        "summary": "苹果首款折叠屏iPhone Duo开启预购即售罄，发货排到明年。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34265063",
+        "publishedAt": "2026-10-17T06:54:36Z"
       }
     ]
   },
   "global": {
-    "overview": "国际聚焦：美伊在霍尔木兹海峡对峙升级，特朗普佐治亚集会遭抗议并再质疑选举；白宫新闻秘书上任五天即离职；意大利调查以色列部长涉虐待船队活动人士，巴西雨林砍伐创近40年新低。",
+    "overview": "国际方面，美俄关系与俄乌冲突持续紧张，美国内政人事与枪击事件受关注，巴西环保进展及多国社会动荡亦有报道。",
     "items": [
       {
-        "id": "1620e6078a91163d4d53",
-        "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
-        "summary": "特朗普称美国海军封锁已阻止所有伊朗船只通过霍尔木兹海峡，美伊对峙持续升级。",
+        "id": "5070f373bfaa470eb5cb",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "summary": "特朗普以国家安全为由暂缓实施多项对俄制裁，与泽连斯基分歧加深。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-16T22:39:40Z"
+      },
+      {
+        "id": "3ced2bb3c816d41052b6",
+        "title": "Trump puts on hold new Russia sanctions he signed into law",
+        "summary": "特朗普签署行政令暂缓执行其刚签署成法的对俄新制裁。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-        "publishedAt": "2026-10-16T16:00:00Z"
+        "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+        "publishedAt": "2026-10-16T20:45:03Z"
       },
       {
-        "id": "9a3f56bd60854e7a4438",
-        "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
-        "summary": "特朗普赴佐治亚州为共和党候选人造势，集会遭反ICE抗议者干扰，中期选举临近。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-        "publishedAt": "2026-10-16T16:07:20Z"
-      },
-      {
-        "id": "5b4a3b78ef7dea028828",
-        "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
-        "summary": "特朗普在佐治亚集会上再次声称2020年大选存在舞弊，称参议员奥索夫当选不合法。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
-        "publishedAt": "2026-10-16T14:59:37Z"
-      },
-      {
-        "id": "61994217e467739a7008",
-        "title": "Katie Zacharia fired after five days as White House press secretary",
-        "summary": "白宫新闻秘书扎卡里亚上任仅五天即被解职，成为该职位史上任期最短者。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
-        "publishedAt": "2026-10-16T11:29:43Z"
-      },
-      {
-        "id": "30e9af1173468fc95d9d",
-        "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
-        "summary": "意大利检方就以色列部长卡茨涉虐待、性侵加沙船队活动人士展开调查。",
+        "id": "d49b106e8bad2796eeec",
+        "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+        "summary": "俄军袭击乌克兰多地致至少8人死亡，约100万人断电。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
-        "publishedAt": "2026-10-16T14:48:54Z"
+        "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
+        "publishedAt": "2026-10-16T21:19:19Z"
       },
       {
-        "id": "dd839f85bc358d2aa32b",
-        "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-        "summary": "巴西政府数据显示，亚马逊雨林砍伐量降至1988年有记录以来最低水平。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
-        "publishedAt": "2026-10-16T11:37:53Z"
+        "id": "d0f1b1ad58c678c887e3",
+        "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+        "summary": "美国俄勒冈州校园枪击致3名学生和1名教师死亡，警方称赞干预者英勇。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-16T22:04:00Z"
+      },
+      {
+        "id": "17a406d241ce0171dbcb",
+        "title": "Katie Zacharia leaving White House role less than five days into job",
+        "summary": "白宫新闻秘书扎卡里亚上任不足五天即离任，成史上任期最短者。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-16T21:20:40Z"
+      },
+      {
+        "id": "00d6d5474c7b85339f7a",
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "summary": "巴西亚马逊雨林砍伐量降至1988年有记录以来最低，选举前释放利好。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-16T18:33:09Z"
       },
       {
         "id": "45373286fc5b13695bc8",
         "title": "Families demand justice after Pakistan school collapse",
-        "summary": "巴基斯坦白沙瓦学校屋顶坍塌致34名儿童死亡，家属要求追究责任。",
+        "summary": "巴基斯坦白沙瓦学校屋顶坍塌致34名儿童死亡，家属要求追责。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
         "publishedAt": "2026-10-16T14:38:04Z"
       },
       {
-        "id": "fc13ed904279501b1e5a",
-        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-        "summary": "意大利防长对BBC表示，特朗普限制对乌支持“完全错误”，恐延长俄罗斯入侵。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T15:54:35Z"
+        "id": "8174277107a26ddc17c3",
+        "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+        "summary": "阿尔巴尼亚学生抗议升级，总理拉马称有“外国之手”推动。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+        "publishedAt": "2026-10-16T15:27:01Z"
       }
     ]
   }
