@@ -1,58 +1,42 @@
 {
   "version": 1,
   "date": "2026-10-17",
-  "generatedAt": "2026-10-16T21:05:12Z",
+  "generatedAt": "2026-10-17T00:27:38Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦宏观政策、金融监管与科技产业：国常会定调人工智能、存款利率普遍上调、证监会巨额罚单、两部门拟限制AI等40项技术出口，并关注地方问责与民生事件。",
+    "overview": "国内聚焦：国常会强调人工智能关键作用，四部门约谈车企严管研发测试，两部门拟限制AI等40项技术出口；证监会开出逾5亿元罚单，天水幼儿园铅中毒案一审宣判；高市早苗向靖国神社供奉祭品引发外交关注。",
     "items": [
-      {
-        "id": "e68e991fc901a5f17764",
-        "title": "习近平在内蒙古乌兰察布考察",
-        "summary": "习近平在内蒙古乌兰察布考察，就当地发展与民生工作作出指示。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507057",
-        "publishedAt": "2026-10-16T21:05:12Z"
-      },
       {
         "id": "ce9232833d96f80cb34a",
         "title": "国常会：人工智能是影响未来发展的关键变量",
-        "summary": "国常会指出人工智能是影响未来发展的关键变量，部署相关重点工作。",
+        "summary": "国务院常务会议指出人工智能是影响未来发展的关键变量，部署相关发展与治理工作。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507165",
-        "publishedAt": "2026-10-16T21:05:12Z"
+        "publishedAt": "2026-10-17T00:27:38Z"
       },
       {
-        "id": "b92b3b1eac532cfac135",
-        "title": "存款利率普遍上调了",
-        "summary": "存款利率普遍上调，多家银行调整存款挂牌利率引发市场关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%99%AE%E9%81%8D%E4%B8%8A%E8%B0%83%E4%BA%86",
-        "publishedAt": "2026-10-16T21:05:12Z"
-      },
-      {
-        "id": "ba8b483faba56d410c1d",
-        "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
-        "summary": "证监会开出两张巨额罚单，3名自然人被合计罚没逾5亿元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507088",
-        "publishedAt": "2026-10-16T21:05:12Z"
+        "id": "68c5ecb8dcb47c9682a1",
+        "title": "四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理",
+        "summary": "四部门组织30余家车企座谈，要求加强汽车产品研发测试验证管理，强化质量安全。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34264638",
+        "publishedAt": "2026-10-17T00:27:38Z"
       },
       {
         "id": "6fcfa1e29095adad982b",
         "title": "两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术",
-        "summary": "两部门拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术。",
+        "summary": "两部门拟禁止、限制出口人工智能、生物医药、光伏三个领域共40项技术，公开征求意见。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783782",
-        "publishedAt": "2026-10-16T21:05:12Z"
+        "publishedAt": "2026-10-17T00:27:38Z"
       },
       {
-        "id": "2e122ea05f9b1b57da89",
-        "title": "四川雷波县教师被安排“耻辱”合影事件调查结果公布：县长等多人被问责",
-        "summary": "四川雷波县教师被安排“耻辱”合影事件调查结果公布，县长等多人被问责。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34260969",
-        "publishedAt": "2026-10-16T21:05:12Z"
+        "id": "ba8b483faba56d410c1d",
+        "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
+        "summary": "证监会开出两张巨额罚单，3名自然人因违法违规被合计罚没逾5亿元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507088",
+        "publishedAt": "2026-10-17T00:27:38Z"
       },
       {
         "id": "a667083616d0d42ee213",
@@ -60,84 +44,100 @@
         "summary": "甘肃天水幼儿园铅中毒案一审宣判，负责人李慧芳被判无期徒刑。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34263974",
-        "publishedAt": "2026-10-16T21:05:12Z"
+        "publishedAt": "2026-10-17T00:27:38Z"
       },
       {
-        "id": "7405bebe69bb0158e48b",
-        "title": "国务院免去王刚原职 此前已履新河北",
-        "summary": "国务院免去王刚原职，其此前已履新河北。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7696921328695427113/",
-        "publishedAt": "2026-10-16T21:05:12Z"
+        "id": "e39c5a6b59f62d85e21d",
+        "title": "高市早苗向靖国神社供奉祭品",
+        "summary": "日本政客高市早苗向靖国神社供奉祭品，中方此前敦促日方正视历史。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xHoqNefVgX",
+        "publishedAt": "2026-10-17T00:27:38Z"
+      },
+      {
+        "id": "2e122ea05f9b1b57da89",
+        "title": "四川雷波县教师被安排“耻辱”合影事件调查结果公布：县长等多人被问责",
+        "summary": "四川雷波县教师被安排“耻辱”合影事件调查结果公布，县长等多人被问责。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34260969",
+        "publishedAt": "2026-10-17T00:27:38Z"
+      },
+      {
+        "id": "3511924e05f5f5ad8176",
+        "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+        "summary": "AI交易忧虑重挫美股，纳指跌超2%，CoreWeave暴跌12%，布油涨破110美元。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783778",
+        "publishedAt": "2026-10-17T00:27:38Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国政府人事动荡、欧洲学生抗议、加沙粮食危机、巴西雨林保护与选举博弈、乌克兰局势及欧美汽车产业政策成主要看点。",
+    "overview": "国际聚焦：美伊在霍尔木兹海峡对峙升级，特朗普佐治亚集会遭抗议并再质疑选举；白宫新闻秘书上任五天即离职；意大利调查以色列部长涉虐待船队活动人士，巴西雨林砍伐创近40年新低。",
     "items": [
+      {
+        "id": "1620e6078a91163d4d53",
+        "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
+        "summary": "特朗普称美国海军封锁已阻止所有伊朗船只通过霍尔木兹海峡，美伊对峙持续升级。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+        "publishedAt": "2026-10-16T16:00:00Z"
+      },
+      {
+        "id": "9a3f56bd60854e7a4438",
+        "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
+        "summary": "特朗普赴佐治亚州为共和党候选人造势，集会遭反ICE抗议者干扰，中期选举临近。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+        "publishedAt": "2026-10-16T16:07:20Z"
+      },
+      {
+        "id": "5b4a3b78ef7dea028828",
+        "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
+        "summary": "特朗普在佐治亚集会上再次声称2020年大选存在舞弊，称参议员奥索夫当选不合法。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
+        "publishedAt": "2026-10-16T14:59:37Z"
+      },
       {
         "id": "61994217e467739a7008",
         "title": "Katie Zacharia fired after five days as White House press secretary",
-        "summary": "白宫新闻秘书扎卡里亚上任仅五天即被解职，成该职位史上任期最短者。",
+        "summary": "白宫新闻秘书扎卡里亚上任仅五天即被解职，成为该职位史上任期最短者。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
         "publishedAt": "2026-10-16T11:29:43Z"
       },
       {
-        "id": "e651252e9d0ec45d7c52",
-        "title": "Students in Europe are rising up to call for better education",
-        "summary": "欧洲多国学生发起抗议，要求改善教育体系，部分地区出现暴力骚乱。",
+        "id": "30e9af1173468fc95d9d",
+        "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+        "summary": "意大利检方就以色列部长卡茨涉虐待、性侵加沙船队活动人士展开调查。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
-        "publishedAt": "2026-10-16T12:38:00Z"
-      },
-      {
-        "id": "a09f9746bd872b6f640a",
-        "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
-        "summary": "以色列暂停商业物资进入加沙，当地食品供应与物价引发担忧。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
-        "publishedAt": "2026-10-16T12:37:22Z"
-      },
-      {
-        "id": "d760243f42220e594766",
-        "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
-        "summary": "泽连斯基在欧盟峰会讲话，欧盟重申支持乌克兰，乌美关系因俄罗斯问题趋紧。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-16T11:42:00Z"
+        "url": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
+        "publishedAt": "2026-10-16T14:48:54Z"
       },
       {
         "id": "dd839f85bc358d2aa32b",
         "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-        "summary": "巴西政府数据显示亚马逊雨林砍伐量降至1988年有记录以来最低，大选前引关注。",
+        "summary": "巴西政府数据显示，亚马逊雨林砍伐量降至1988年有记录以来最低水平。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
         "publishedAt": "2026-10-16T11:37:53Z"
       },
       {
-        "id": "eca40acda9e915106dbc",
-        "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
-        "summary": "以色列定居者在约旦河西岸袭击巴勒斯坦橄榄农户及一名美国记者。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
-        "publishedAt": "2026-10-16T08:34:58Z"
-      },
-      {
-        "id": "f6d203c94000c719bb6a",
-        "title": "US records 4,410 measles cases as outbreak grows",
-        "summary": "美国麻疹疫情持续扩大，累计报告4410例病例，疾控中心扩大疫苗接种。",
+        "id": "45373286fc5b13695bc8",
+        "title": "Families demand justice after Pakistan school collapse",
+        "summary": "巴基斯坦白沙瓦学校屋顶坍塌致34名儿童死亡，家属要求追究责任。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
-        "publishedAt": "2026-10-16T09:40:18Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
+        "publishedAt": "2026-10-16T14:38:04Z"
       },
       {
-        "id": "c40ae4caf690e7e268d3",
-        "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-        "summary": "英国未排除对中国电动汽车加征关税，中方警告此举具歧视性。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-        "publishedAt": "2026-10-16T10:09:34Z"
+        "id": "fc13ed904279501b1e5a",
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+        "summary": "意大利防长对BBC表示，特朗普限制对乌支持“完全错误”，恐延长俄罗斯入侵。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-16T15:54:35Z"
       }
     ]
   }
