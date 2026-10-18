@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-18",
-  "generatedAt": "2026-10-17T22:17:08Z",
+  "generatedAt": "2026-10-18T00:05:00Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦养老、教育政策试点与AI产业动向，股市受AI交易忧虑冲击，同时中日围绕靖国神社问题再起外交交锋。",
+    "overview": "国内要闻聚焦央国企招聘诈骗提示、中纪委反腐表态、黄金白银价格异动及美股科技股大跌；科技领域关注特斯拉飞行汽车争议与AI投资风险。",
     "items": [
       {
-        "id": "1f19b51f17b4aa124426",
-        "title": "国家出手 养老账单要变了",
-        "summary": "国家出台养老政策调整，养老账单将发生变化，影响范围广泛。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697029903337881641/",
-        "publishedAt": "2026-10-17T22:17:08Z"
-      },
-      {
-        "id": "cc802fe228571c54d793",
-        "title": "多地试点直升高中",
-        "summary": "多地试点直升高中政策，涉及升学路径改革，引发社会关注。",
+        "id": "ec47b0cc169bda0d6684",
+        "title": "五部门提示：这类央国企招聘全是骗局",
+        "summary": "五部门提示：央国企招聘骗局需警惕，求职者应通过官方渠道核实信息。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
-        "publishedAt": "2026-10-17T22:17:08Z"
+        "url": "https://www.baidu.com/s?wd=%E4%BA%94%E9%83%A8%E9%97%A8%E6%8F%90%E7%A4%BA%EF%BC%9A%E8%BF%99%E7%B1%BB%E5%A4%AE%E5%9B%BD%E4%BC%81%E6%8B%9B%E8%81%98%E5%85%A8%E6%98%AF%E9%AA%97%E5%B1%80",
+        "publishedAt": "2026-10-18T00:05:00Z"
       },
       {
-        "id": "3511924e05f5f5ad8176",
-        "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-        "summary": "AI交易忧虑拖累美股，纳指跌超2%，布油突破110美元。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783778",
-        "publishedAt": "2026-10-17T22:17:08Z"
-      },
-      {
-        "id": "ce9232833d96f80cb34a",
-        "title": "国常会：人工智能是影响未来发展的关键变量",
-        "summary": "国常会指出人工智能是影响未来发展的关键变量，释放政策信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507165",
-        "publishedAt": "2026-10-17T22:17:08Z"
-      },
-      {
-        "id": "c88bc6ee1bc076bfa3da",
-        "title": "中方：强烈谴责日方涉靖国神社消极动向",
-        "summary": "中方强烈谴责日方涉靖国神社消极动向，重申历史立场。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xIuMYrHorw",
-        "publishedAt": "2026-10-17T22:17:08Z"
-      },
-      {
-        "id": "b82606d7460570ce154d",
-        "title": "黄奇帆被查 中纪委官网重磅发文",
-        "summary": "黄奇帆被查，中纪委官网发文，反腐动向受高度关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697485333599882806/",
-        "publishedAt": "2026-10-17T22:17:08Z"
+        "id": "4579be1f9f32d0ef5922",
+        "title": "中纪委网站：不论职务高低贡献大小退休与否，只要搞了腐败就没有所谓平安着陆",
+        "summary": "中纪委发文强调，无论职务高低、退休与否，搞腐败就没有平安着陆。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34269908",
+        "publishedAt": "2026-10-18T00:05:00Z"
       },
       {
         "id": "0befc2a9cb19520bc9a5",
         "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
-        "summary": "黄金暴跌27%、白银价格腰斩，贵金属市场危机引关注。",
+        "summary": "黄金暴跌27%、白银腰斩，市场担忧更大贵金属危机正在酝酿。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783830",
-        "publishedAt": "2026-10-17T22:17:08Z"
+        "publishedAt": "2026-10-18T00:05:00Z"
+      },
+      {
+        "id": "862b6b1f562f0ee195d2",
+        "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+        "summary": "美股纳指大跌超500点，半导体存储股跳水，国际油价大涨，多家公司回购。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507382",
+        "publishedAt": "2026-10-18T00:05:00Z"
       },
       {
         "id": "dca72e7b846720204964",
         "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
-        "summary": "AI缺钱风暴席卷市场，产业巨额投资面临信心大考。",
+        "summary": "AI缺钱风暴席卷市场，Meta财报打头阵，产业巨额投资迎信心大考。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507445",
-        "publishedAt": "2026-10-17T22:17:08Z"
+        "publishedAt": "2026-10-18T00:05:00Z"
+      },
+      {
+        "id": "6c652e4d0c0001cc4ef4",
+        "title": "我驻日使馆：中方强烈谴责日方涉靖国神社消极动向",
+        "summary": "我驻日使馆强烈谴责日方涉靖国神社消极动向，敦促日方正视历史。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34271937",
+        "publishedAt": "2026-10-18T00:05:00Z"
+      },
+      {
+        "id": "1f19b51f17b4aa124426",
+        "title": "国家出手 养老账单要变了",
+        "summary": "国家出手调整养老账单，相关政策变化引发社会广泛关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697029903337881641/",
+        "publishedAt": "2026-10-18T00:05:00Z"
+      },
+      {
+        "id": "1a9501960956ebdd546e",
+        "title": "观察丨“战犯神社”的“和平包装”骗不了世界",
+        "summary": "观察文章指出，日本“战犯神社”的和平包装骗不了世界，需警惕军国主义复活。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34271196",
+        "publishedAt": "2026-10-18T00:05:00Z"
       }
     ]
   },
   "global": {
-    "overview": "法国学生抗议演变为大规模社会动荡，特朗普暂缓对俄制裁引发跨党派批评，欧洲多国生活成本抗议同步升温。",
+    "overview": "国际方面，法国抗议活动演变为暴力冲突致多人被捕，以色列定居者袭击欧洲外交官，特朗普暂缓对俄制裁引发乌克兰及两党批评。",
     "items": [
       {
         "id": "2d588205bf506524312d",
         "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-        "summary": "法国抗议演变为暴力冲突，超千人被捕，多地建筑遭纵火。",
+        "summary": "法国抗议活动演变为暴力冲突，超千人被捕，多地建筑遭纵火抢劫。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-17T12:52:17Z"
       },
       {
-        "id": "56d7ee07022754d6ce62",
-        "title": "Student protests widen into greater social unrest in France",
-        "summary": "法国学生抗议扩大为社会动荡，多数和平但部分演变为暴力。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
-        "publishedAt": "2026-10-17T13:18:52Z"
+        "id": "b62ca0dc2964d40399d6",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "summary": "以色列定居者在约旦河西岸袭击欧洲外交官，以军谴责暴力，法方强烈谴责。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T15:52:38Z"
       },
       {
         "id": "5070f373bfaa470eb5cb",
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "特朗普暂缓多项对俄制裁，与泽连斯基矛盾加剧。",
+        "summary": "特朗普暂缓多项对俄制裁，称出于国家安全关切，引发与泽连斯基矛盾加剧。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-17T11:19:19Z"
       },
       {
-        "id": "3ae333e44e1b706e7d8b",
-        "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-        "summary": "特朗普暂缓对俄制裁引发两党批评，被指削弱对乌支持。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
-        "publishedAt": "2026-10-17T09:24:07Z"
-      },
-      {
         "id": "903586b3a3417f9b4173",
         "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
-        "summary": "泽连斯基称特朗普暂缓对俄制裁是对普京的奖赏，警告助长俄攻势。",
+        "summary": "泽连斯基称特朗普暂缓对俄制裁是对普京的奖赏，警告将助长俄方攻势。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
         "publishedAt": "2026-10-17T07:38:17Z"
       },
       {
-        "id": "2e9ecf817545c3130663",
-        "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-        "summary": "比利时、意大利、葡萄牙和法国爆发生活成本抗议，数十万人上街。",
+        "id": "3ae333e44e1b706e7d8b",
+        "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+        "summary": "特朗普暂缓对俄制裁引发美国两党批评，被指削弱对乌克兰的支持。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-        "publishedAt": "2026-10-17T13:02:26Z"
+        "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+        "publishedAt": "2026-10-17T09:24:07Z"
       },
       {
-        "id": "e11a7232bcf159449f1d",
-        "title": "Ten killed in fire at beach resort in Bangladesh",
-        "summary": "孟加拉国海滩度假村发生火灾，造成十人死亡，含一家六口。",
+        "id": "c7a02177191649e1f0b9",
+        "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
+        "summary": "伊朗国家电视台播出视频，称一艘油轮在霍尔木兹海峡触雷爆炸。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-        "publishedAt": "2026-10-17T12:50:01Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
+        "publishedAt": "2026-10-17T12:02:22Z"
       },
       {
-        "id": "b9de71ac43fee1b07227",
-        "title": "At least 17 dead in crush at Hindu festival event in India",
-        "summary": "印度加尔各答宗教活动发生踩踏，至少17人死亡，多人受伤。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T11:19:16Z"
+        "id": "3169f6e166f6db129bcf",
+        "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
+        "summary": "飓风“特鲁迪”增强为二级，向墨西哥太平洋沿岸移动，多地发布飓风警告。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
+        "publishedAt": "2026-10-17T15:24:40Z"
+      },
+      {
+        "id": "b1b00563e29995771713",
+        "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+        "summary": "肯尼亚新增4例埃博拉病例，累计达7例，其中3名医护人员感染。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
+        "publishedAt": "2026-10-17T08:48:46Z"
       }
     ]
   }
