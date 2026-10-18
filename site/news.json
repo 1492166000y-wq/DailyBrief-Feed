@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T11:01:33Z",
+  "generatedAt": "2026-10-18T15:50:19Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点包括AI与美股波动、法国骚乱外溢、反腐与国防演练，以及产业回购与政策动向。",
+    "overview": "国内焦点集中在经济金融与反腐：社保缴费基数统一、外贸与广交会创新高、AI概念股回调及上市公司回购、金融街论坛与GDP数据前瞻，以及广西政协原副主席被查。",
     "items": [
       {
-        "id": "862b6b1f562f0ee195d2",
-        "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-        "summary": "美股纳指跌超500点，半导体存储股全线跳水，国际油价大涨，多家A股公司拟回购。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507382",
-        "publishedAt": "2026-10-18T11:01:33Z"
-      },
-      {
-        "id": "c8398105b833d0932f31",
-        "title": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
-        "summary": "中东、俄乌、AI云暴雷与美国高通胀交织，市场经历“灾难一周”，投资者重估风险。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783849",
-        "publishedAt": "2026-10-18T11:01:33Z"
-      },
-      {
-        "id": "0a88ba372304748f0de0",
-        "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
-        "summary": "CoreWeave遭遇“股债双杀”，被视为本轮AI板块崩盘的风暴眼，引发估值担忧。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783851",
-        "publishedAt": "2026-10-18T11:01:33Z"
-      },
-      {
-        "id": "dca72e7b846720204964",
-        "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
-        "summary": "“AI缺钱”担忧席卷市场，Meta财报打头阵，巨额AI投资面临信心考验。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507445",
-        "publishedAt": "2026-10-18T11:01:33Z"
+        "id": "36f5362b17096b3b6318",
+        "title": "为什么要把社保缴费的尺子统一起来",
+        "summary": "社保缴费基数统一引关注，涉及地区差异与待遇公平，影响面广。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697117829618958377/",
+        "publishedAt": "2026-10-18T15:50:19Z"
       },
       {
         "id": "2caa86f522d4fb0a7b33",
         "title": "涉嫌严重职务违法，广西壮族自治区政协原副主席黄日波被查",
-        "summary": "广西壮族自治区政协原副主席黄日波涉嫌严重职务违法，正接受调查。",
+        "summary": "广西壮族自治区政协原副主席黄日波涉嫌严重职务违法被查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34273711",
-        "publishedAt": "2026-10-18T11:01:33Z"
+        "publishedAt": "2026-10-18T15:50:19Z"
       },
       {
-        "id": "fa77d54aefaf21e10d48",
-        "title": "解放军4艘大型登陆舰实弹演练",
-        "summary": "解放军4艘大型登陆舰开展实弹演练，检验两栖投送与火力打击能力。",
+        "id": "813b75090fb54741afa7",
+        "title": "中国外贸风向标 创多项历史新高",
+        "summary": "中国外贸风向标创新高，显示出口韧性与结构升级。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697656601322242090/",
-        "publishedAt": "2026-10-18T11:01:33Z"
+        "url": "https://www.toutiao.com/trending/7697924553620013098/",
+        "publishedAt": "2026-10-18T15:50:19Z"
       },
       {
-        "id": "6c652e4d0c0001cc4ef4",
-        "title": "我驻日使馆：中方强烈谴责日方涉靖国神社消极动向",
-        "summary": "中国驻日使馆强烈谴责日方涉靖国神社消极动向，敦促正视历史。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34271937",
-        "publishedAt": "2026-10-18T11:01:33Z"
-      },
-      {
-        "id": "35d67eba950b7ce81091",
-        "title": "高市早苗称对涉历史错误言论毫无遗憾",
-        "summary": "高市早苗称对涉历史错误言论毫无遗憾，其立场引发关注与批评。",
+        "id": "fff0249bee2e3db18269",
+        "title": "广交会见证中国制造硬核升级",
+        "summary": "广交会见证中国制造硬核升级，高端化与智能化成亮点。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E5%AF%B9%E6%B6%89%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%E6%AF%AB%E6%97%A0%E9%81%97%E6%86%BE",
-        "publishedAt": "2026-10-18T11:01:33Z"
+        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%BA%A4%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7",
+        "publishedAt": "2026-10-18T15:50:19Z"
+      },
+      {
+        "id": "0a88ba372304748f0de0",
+        "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
+        "summary": "CoreWeave股债双杀，被视为本轮AI概念股调整的风暴眼。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783851",
+        "publishedAt": "2026-10-18T15:50:19Z"
+      },
+      {
+        "id": "9163dcba8052517e9554",
+        "title": "周末要闻汇总：长鑫科技领衔 多家A股公司开启新一轮回购",
+        "summary": "长鑫科技等多家A股公司开启新一轮回购，释放维稳信号。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507640",
+        "publishedAt": "2026-10-18T15:50:19Z"
+      },
+      {
+        "id": "201579ca966bb276972e",
+        "title": "金融街论坛明日开幕！潘功胜、丁向群、吴清、朱鹤新将作主题演讲",
+        "summary": "金融街论坛开幕，潘功胜、吴清等将发表主题演讲，市场关注政策信号。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507699",
+        "publishedAt": "2026-10-18T15:50:19Z"
+      },
+      {
+        "id": "f17081e6f97998a3ef9c",
+        "title": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报",
+        "summary": "下周关注中国GDP、APEC财长会及英伟达GTC、特斯拉等财报。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783759",
+        "publishedAt": "2026-10-18T15:50:19Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在法国抗议骚乱、乌克兰星链争议与俄乌战事、以色列定居者暴力及美俄制裁调整。",
+    "overview": "国际焦点为法国抗议骚乱升级、俄乌互相打击能源设施与无人机袭击圣彼得堡、特朗普豁免对俄制裁及星链争议，另有以色列定居者袭击外交官、加拿大军事基地火灾等。",
     "items": [
       {
-        "id": "8eb4f0d191015c2d1ae8",
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "summary": "法国抗议演变为骚乱与抢劫，约1800人被捕，巴黎街头车辆烧毁、玻璃破碎。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-18T02:53:54Z"
+        "id": "5d728ddfef93ef836438",
+        "title": "French government in crisis talks after ‘colossal failure of the state’",
+        "summary": "法国骚乱后政府紧急磋商，公共建筑被烧、逾两千人被捕。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+        "publishedAt": "2026-10-18T07:10:32Z"
       },
       {
         "id": "089ac96c2d15cc052618",
         "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-        "summary": "法国抗议被捕人数升至1800人，巴黎部分街区遭严重破坏，内政部长称共和国不会退让。",
+        "summary": "法国抗议被捕人数升至1800人，巴黎部分街区受损严重。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-        "publishedAt": "2026-10-18T02:57:17Z"
+        "publishedAt": "2026-10-18T06:50:37Z"
       },
       {
-        "id": "8a6653a5f55ab2367c2b",
-        "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
-        "summary": "法国生活成本抗议引发骚乱、纵火与抢劫，利摩日历史市政厅被毁，逾1800人被捕。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-18T02:26:00Z"
+        "id": "6378176ef0bb20bf5a71",
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "summary": "俄圣彼得堡遭夜袭，油设施与数据中心被击中，至少一人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-18T07:46:10Z"
       },
       {
-        "id": "f234e7be72571c0038fe",
-        "title": "Buildings burn as French protests go into the night",
-        "summary": "法国抗议持续至夜间，多地建筑遭纵火，利摩日市政厅基本被毁。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
-        "publishedAt": "2026-10-17T17:30:46Z"
+        "id": "c88fa2791663c28c399b",
+        "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+        "summary": "俄乌互袭能源设施，乌出动逾千架无人机，致2死17伤。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+        "publishedAt": "2026-10-18T06:31:30Z"
+      },
+      {
+        "id": "5070f373bfaa470eb5cb",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "summary": "特朗普以国家安全为由豁免多项对俄制裁，与泽连斯基分歧加剧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T17:10:25Z"
       },
       {
         "id": "7cf10cfbafb58175d276",
         "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-        "summary": "鲁比奥称乌克兰没有“星盾”使用权，相关前景仍在讨论中。",
+        "summary": "鲁比奥称乌克兰无“星盾”使用权，相关前景仍在讨论。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
         "publishedAt": "2026-10-18T01:42:40Z"
       },
       {
-        "id": "102c7f511ca05db230a2",
-        "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-        "summary": "乌克兰无人机袭击俄圣彼得堡，致1人死亡并击中能源设施；泽连斯基称俄违反能源停火。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-        "publishedAt": "2026-10-18T02:34:09Z"
-      },
-      {
         "id": "2367c95be2b527109baa",
         "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-        "summary": "以色列定居者在约旦河西岸袭击欧洲外交官及法国市长等，多人受伤。",
+        "summary": "以色列定居者在约旦河西岸袭击欧洲外交官，多人受伤。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
         "publishedAt": "2026-10-17T17:02:37Z"
       },
       {
-        "id": "5070f373bfaa470eb5cb",
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "特朗普暂缓多项对俄制裁，称出于国家安全考虑，引发争议。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T17:10:25Z"
+        "id": "39f50bc5fc2204a1e4c9",
+        "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
+        "summary": "加拿大阿尔伯塔军事基地火灾致多人死伤，当局展开调查。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+        "publishedAt": "2026-10-18T07:31:33Z"
       }
     ]
   }
