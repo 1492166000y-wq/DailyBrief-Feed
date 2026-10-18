@@ -1,111 +1,87 @@
 {
   "version": 1,
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T15:50:19Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-18T18:37:54Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在经济金融与反腐：社保缴费基数统一、外贸与广交会创新高、AI概念股回调及上市公司回购、金融街论坛与GDP数据前瞻，以及广西政协原副主席被查。",
+    "overview": "国内聚焦：广西政协原副主席黄日波被查、金融街论坛将开幕、广交会外贸创新高，AI市场震荡与回购潮受关注。",
     "items": [
-      {
-        "id": "36f5362b17096b3b6318",
-        "title": "为什么要把社保缴费的尺子统一起来",
-        "summary": "社保缴费基数统一引关注，涉及地区差异与待遇公平，影响面广。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697117829618958377/",
-        "publishedAt": "2026-10-18T15:50:19Z"
-      },
       {
         "id": "2caa86f522d4fb0a7b33",
         "title": "涉嫌严重职务违法，广西壮族自治区政协原副主席黄日波被查",
-        "summary": "广西壮族自治区政协原副主席黄日波涉嫌严重职务违法被查。",
+        "summary": "广西壮族自治区政协原副主席黄日波涉嫌严重职务违法，接受监察调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34273711",
-        "publishedAt": "2026-10-18T15:50:19Z"
-      },
-      {
-        "id": "813b75090fb54741afa7",
-        "title": "中国外贸风向标 创多项历史新高",
-        "summary": "中国外贸风向标创新高，显示出口韧性与结构升级。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697924553620013098/",
-        "publishedAt": "2026-10-18T15:50:19Z"
-      },
-      {
-        "id": "fff0249bee2e3db18269",
-        "title": "广交会见证中国制造硬核升级",
-        "summary": "广交会见证中国制造硬核升级，高端化与智能化成亮点。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%BA%A4%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7",
-        "publishedAt": "2026-10-18T15:50:19Z"
-      },
-      {
-        "id": "0a88ba372304748f0de0",
-        "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
-        "summary": "CoreWeave股债双杀，被视为本轮AI概念股调整的风暴眼。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783851",
-        "publishedAt": "2026-10-18T15:50:19Z"
-      },
-      {
-        "id": "9163dcba8052517e9554",
-        "title": "周末要闻汇总：长鑫科技领衔 多家A股公司开启新一轮回购",
-        "summary": "长鑫科技等多家A股公司开启新一轮回购，释放维稳信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507640",
-        "publishedAt": "2026-10-18T15:50:19Z"
+        "publishedAt": "2026-10-18T18:37:54Z"
       },
       {
         "id": "201579ca966bb276972e",
         "title": "金融街论坛明日开幕！潘功胜、丁向群、吴清、朱鹤新将作主题演讲",
-        "summary": "金融街论坛开幕，潘功胜、吴清等将发表主题演讲，市场关注政策信号。",
+        "summary": "金融街论坛明日开幕，潘功胜、吴清、朱鹤新等将发表主题演讲。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507699",
-        "publishedAt": "2026-10-18T15:50:19Z"
+        "publishedAt": "2026-10-18T18:37:54Z"
       },
       {
         "id": "f17081e6f97998a3ef9c",
         "title": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报",
-        "summary": "下周关注中国GDP、APEC财长会及英伟达GTC、特斯拉等财报。",
+        "summary": "下周重磅日程：中国GDP数据、金融街论坛、APEC财长会及多家科技巨头财报。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783759",
-        "publishedAt": "2026-10-18T15:50:19Z"
+        "publishedAt": "2026-10-18T18:37:54Z"
+      },
+      {
+        "id": "813b75090fb54741afa7",
+        "title": "中国外贸风向标 创多项历史新高",
+        "summary": "中国外贸风向标创多项历史新高，广交会见证中国制造升级。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697924553620013098/",
+        "publishedAt": "2026-10-18T18:37:54Z"
+      },
+      {
+        "id": "9163dcba8052517e9554",
+        "title": "周末要闻汇总：长鑫科技领衔 多家A股公司开启新一轮回购",
+        "summary": "长鑫科技领衔，多家A股公司开启新一轮股份回购，稳市场信号明显。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507640",
+        "publishedAt": "2026-10-18T18:37:54Z"
+      },
+      {
+        "id": "0a88ba372304748f0de0",
+        "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
+        "summary": "CoreWeave股债双杀成AI崩盘风暴眼，AI产业巨额投资面临信心考验。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783851",
+        "publishedAt": "2026-10-18T18:37:54Z"
+      },
+      {
+        "id": "c8398105b833d0932f31",
+        "title": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
+        "summary": "中东、俄乌、AI云与高通胀叠加，市场经历灾难一周，风险资产承压。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783849",
+        "publishedAt": "2026-10-18T18:37:54Z"
+      },
+      {
+        "id": "36f5362b17096b3b6318",
+        "title": "为什么要把社保缴费的尺子统一起来",
+        "summary": "社保缴费基数统一改革推进，旨在缩小地区差距、促进制度公平。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697117829618958377/",
+        "publishedAt": "2026-10-18T18:37:54Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点为法国抗议骚乱升级、俄乌互相打击能源设施与无人机袭击圣彼得堡、特朗普豁免对俄制裁及星链争议，另有以色列定居者袭击外交官、加拿大军事基地火灾等。",
+    "overview": "国际聚焦：法国骚乱升级、美俄乌制裁与星链博弈、以色列定居者袭击欧洲外交官、加拿大军事基地火灾。",
     "items": [
       {
         "id": "5d728ddfef93ef836438",
         "title": "French government in crisis talks after ‘colossal failure of the state’",
-        "summary": "法国骚乱后政府紧急磋商，公共建筑被烧、逾两千人被捕。",
+        "summary": "法国骚乱后政府召开危机会议，多地公共建筑被烧、逾两千人被捕。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
         "publishedAt": "2026-10-18T07:10:32Z"
-      },
-      {
-        "id": "089ac96c2d15cc052618",
-        "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-        "summary": "法国抗议被捕人数升至1800人，巴黎部分街区受损严重。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-        "publishedAt": "2026-10-18T06:50:37Z"
-      },
-      {
-        "id": "6378176ef0bb20bf5a71",
-        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-        "summary": "俄圣彼得堡遭夜袭，油设施与数据中心被击中，至少一人死亡。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-18T07:46:10Z"
-      },
-      {
-        "id": "c88fa2791663c28c399b",
-        "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
-        "summary": "俄乌互袭能源设施，乌出动逾千架无人机，致2死17伤。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
-        "publishedAt": "2026-10-18T06:31:30Z"
       },
       {
         "id": "5070f373bfaa470eb5cb",
@@ -118,26 +94,50 @@
       {
         "id": "7cf10cfbafb58175d276",
         "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-        "summary": "鲁比奥称乌克兰无“星盾”使用权，相关前景仍在讨论。",
+        "summary": "鲁比奥称乌克兰未获星盾使用权，未来安排仍在讨论，乌方表关切。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
         "publishedAt": "2026-10-18T01:42:40Z"
       },
       {
-        "id": "2367c95be2b527109baa",
-        "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-        "summary": "以色列定居者在约旦河西岸袭击欧洲外交官，多人受伤。",
+        "id": "23118ea63a56602c60b3",
+        "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
+        "summary": "以色列定居者在约旦河西岸袭击欧盟外交官代表团，欧盟要求追责。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-        "publishedAt": "2026-10-17T17:02:37Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+        "publishedAt": "2026-10-18T09:52:37Z"
       },
       {
-        "id": "39f50bc5fc2204a1e4c9",
-        "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
-        "summary": "加拿大阿尔伯塔军事基地火灾致多人死伤，当局展开调查。",
+        "id": "470d3fcfab5e12bedf6f",
+        "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+        "summary": "加拿大阿尔伯塔军事基地大火致4死数十伤，总理称和平时期最惨重悲剧之一。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-        "publishedAt": "2026-10-18T07:31:33Z"
+        "publishedAt": "2026-10-18T09:34:53Z"
+      },
+      {
+        "id": "6378176ef0bb20bf5a71",
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "summary": "俄圣彼得堡夜间遭袭，油料设施与数据中心被击中，至少一人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-18T07:46:10Z"
+      },
+      {
+        "id": "2631fc0d3eb956d14e23",
+        "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
+        "summary": "意大利多城生活成本抗议演变为暴力，梅洛尼支持警方，工会号召总罢工。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-18T08:02:00Z"
+      },
+      {
+        "id": "d410d647df1cd07566c9",
+        "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+        "summary": "台湾称驱离16艘中国船只，指北京以“混合战”手法改变现状。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+        "publishedAt": "2026-10-18T08:25:52Z"
       }
     ]
   }
