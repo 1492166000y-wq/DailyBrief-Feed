@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-19",
-  "generatedAt": "2026-10-19T04:37:06Z",
+  "generatedAt": "2026-10-19T13:08:36Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注金融街论坛与三季度经济数据，汇源果汁停产引发品牌争议，留学生不当行为受到舆论批评，A股走势受关注。",
+    "overview": "国内重点关注：中国留学生身披旭日旗引发舆论谴责，官方媒体集体发声；金融街论坛释放重磅政策信号，央行、证监会高层密集表态；三季度GDP数据出炉，经济运行总体平稳；房地产市场呈现分化走势；中纪委连打三“虎”，金融反腐持续深入。",
     "items": [
       {
-        "id": "c578f881da0e71d1aa82",
-        "title": "国家统计局：今年前三季度GDP同比增长4.6%",
-        "summary": "国家统计局公布今年前三季度GDP同比增长4.6%。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507795",
-        "publishedAt": "2026-10-19T04:37:06Z"
+        "id": "e2d3d64bcebbfe38cb0f",
+        "title": "人民日报评中国留学生身披旭日旗",
+        "summary": "人民日报评中国留学生身披旭日旗事件，强调民族尊严不容冒犯，对精日言行零容忍。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97",
+        "publishedAt": "2026-10-19T13:08:36Z"
       },
       {
-        "id": "0c560eb9b4af23fcfdfb",
-        "title": "【早报】金融街论坛今日开幕，四家金融监管部门负责人将发声；科技龙头股，密集回购",
-        "summary": "金融街论坛开幕，四家金融监管部门负责人将发声；科技龙头股密集回购。",
+        "id": "86d63f7c6766ffb22789",
+        "title": "一图看懂 | 潘功胜、吴清等发言重点来了！这些重磅政策在路上",
+        "summary": "央行行长潘功胜、证监会主席吴清等重磅发声，多项金融政策在路上，涉及流动性工具和资本市场改革。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507781",
-        "publishedAt": "2026-10-19T04:37:06Z"
+        "url": "https://www.cls.cn/detail/2508569",
+        "publishedAt": "2026-10-19T13:08:36Z"
       },
       {
-        "id": "201579ca966bb276972e",
-        "title": "金融街论坛明日开幕！潘功胜、丁向群、吴清、朱鹤新将作主题演讲",
-        "summary": "金融街论坛明日开幕，潘功胜、吴清等将发表主题演讲。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507699",
-        "publishedAt": "2026-10-19T04:37:06Z"
+        "id": "9dc314e737be11ad76d8",
+        "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
+        "summary": "中国三季度GDP同比增长4.5%，前三季度增长4.6%，经济运行总体平稳，出口和工业产出支撑增长。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783889",
+        "publishedAt": "2026-10-19T13:08:36Z"
       },
       {
-        "id": "94482256d63aa8e443d3",
-        "title": "汇源集团：不再生产“汇源”果汁",
-        "summary": "汇源集团宣布不再生产“汇源”果汁，商标与经营归属引发关注。",
+        "id": "68209db9acc1fe05f3e9",
+        "title": "9月70城房价：一线城市二手房价环比涨幅扩大、新房房价环比继续上涨，二三线城市环比降幅总体收窄",
+        "summary": "9月70城房价显示一线城市二手房环比涨幅扩大，新房继续上涨，二三线城市降幅收窄。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783886",
+        "publishedAt": "2026-10-19T13:08:36Z"
+      },
+      {
+        "id": "5133c800baa8a8cb6bf3",
+        "title": "中纪委连打三“虎”",
+        "summary": "中纪委连打三“虎”，持续释放金融、社保等领域反腐高压信号。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7698173332499333139/",
-        "publishedAt": "2026-10-19T04:37:06Z"
+        "url": "https://www.toutiao.com/trending/7698306606186040858/",
+        "publishedAt": "2026-10-19T13:08:36Z"
       },
       {
-        "id": "62164b1bb40138b6dca0",
-        "title": "钧正平就中国留学生身披旭日旗发声",
-        "summary": "钧正平就中国留学生身披旭日旗发声，强调民族尊严不容冒犯。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697204184608771620/",
-        "publishedAt": "2026-10-19T04:37:06Z"
-      },
-      {
-        "id": "5a74578ccced908db2a9",
-        "title": "马上评｜中国留学生竟身披旭日旗，民族尊严岂容冒犯？",
-        "summary": "澎湃评论批评留学生身披旭日旗行为，强调民族尊严不容冒犯。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34276344",
-        "publishedAt": "2026-10-19T04:37:06Z"
-      },
-      {
-        "id": "0a044ff5d69f0a29a3c3",
-        "title": "我国首个十万卡AI超集群 “能装一个宇宙”",
-        "summary": "我国首个十万卡AI超集群亮相，算力规模创国内纪录。",
+        "id": "b8642128d73a33198eed",
+        "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
+        "summary": "首批18只主动ETF获批，A股将迎更多增量资金，丰富投资工具。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507661",
-        "publishedAt": "2026-10-19T04:37:06Z"
+        "url": "https://www.cls.cn/detail/2508677",
+        "publishedAt": "2026-10-19T13:08:36Z"
       },
       {
-        "id": "ca0a2f1f3e3acc2feac7",
-        "title": "九部门：加快推进科技兴商 深入实施“人工智能+制造”专项行动",
-        "summary": "九部门发文推进科技兴商，深入实施“人工智能+制造”专项行动。",
+        "id": "04ab8bb3d7ce27b89241",
+        "title": "境外调研违规，5家券商、基金公司被“点名”通报，细节来了",
+        "summary": "境外调研违规，5家券商、基金公司被点名通报，监管细节披露。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507957",
-        "publishedAt": "2026-10-19T04:37:06Z"
+        "url": "https://www.cls.cn/detail/2508098",
+        "publishedAt": "2026-10-19T13:08:36Z"
+      },
+      {
+        "id": "b6ad1b0e42050f90d7c0",
+        "title": "高市早苗向靖国神社供奉“玉串料”",
+        "summary": "日本政客高市早苗向靖国神社供奉“玉串料”，多名议员参拜，引发关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xLDGTxM0Ut",
+        "publishedAt": "2026-10-19T13:08:36Z"
       }
     ]
   },
   "global": {
-    "overview": "国际聚焦法国骚乱及马克龙应对、特朗普与泽连斯基围绕乌克兰问题分歧升级、加拿大军事基地火灾、卢拉与博索纳罗辩论，以及Anthropic的股权承诺。",
+    "overview": "国际焦点：法国骚乱蔓延至欧洲多国，政府面临巨大压力；特朗普与泽连斯基关系紧张，美乌矛盾公开化；以色列定居者袭击事件引发外交摩擦；加沙粮食援助削减加剧人道危机；澳大利亚议员遭汽车撞击重伤；多国发生自然灾害与安全事故。",
     "items": [
       {
         "id": "940b5ea80ff494b55667",
         "title": "France's government under pressure after weekend of widespread violence",
-        "summary": "法国多地抗议演变为大规模骚乱，政府面临巨大政治压力。",
+        "summary": "法国多地抗议演变为大规模骚乱，政府面临巨大政治压力，马克龙谴责暴力。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-18T20:16:46Z"
       },
       {
-        "id": "beb8579b0aff76ea662a",
-        "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
-        "summary": "马克龙谴责法国骚乱中的无节制暴力，全国约2400人被捕。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-        "publishedAt": "2026-10-18T10:57:48Z"
-      },
-      {
-        "id": "9fc1387c6822c741ee4a",
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "summary": "马克龙就法国多地骚乱发表全国讲话，呼吁保持冷静与秩序。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-18T12:33:21Z"
-      },
-      {
-        "id": "488da726e5162588844d",
-        "title": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
-        "summary": "卢拉与博索纳罗在巴西总统决选首场辩论中激烈交锋。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
-        "publishedAt": "2026-10-18T20:27:00Z"
-      },
-      {
         "id": "e53358bae5e039d79f84",
         "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
-        "summary": "特朗普为放松对俄制裁辩护，并抨击泽连斯基无意结束战争。",
+        "summary": "特朗普为放松对俄制裁辩护，并抨击泽连斯基无意结束战争，美乌矛盾公开化。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
         "publishedAt": "2026-10-18T19:10:05Z"
       },
       {
-        "id": "470d3fcfab5e12bedf6f",
-        "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-        "summary": "加拿大阿尔伯塔一军事基地大火致四人死亡、数十人受伤。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-        "publishedAt": "2026-10-18T15:53:13Z"
+        "id": "ab2d7372c858e84546a6",
+        "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
+        "summary": "以色列警方逮捕10名涉嫌袭击美国记者和欧洲外交官的定居者，人权组织称定居者袭击频发。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-19T00:33:00Z"
+      },
+      {
+        "id": "6caa7fc557a986ebf1d7",
+        "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+        "summary": "联合国世界粮食计划署因资金短缺削减对加沙50万巴勒斯坦人的援助，三分之二人口面临严重饥饿。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-19T03:41:00Z"
+      },
+      {
+        "id": "5316cbe0c3bdc40767bb",
+        "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+        "summary": "澳大利亚独立议员海伦·海恩斯遭汽车撞击重伤，总理称系“故意行为”，司机被捕。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+        "publishedAt": "2026-10-19T03:38:43Z"
       },
       {
         "id": "35411055e88a069979aa",
         "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-        "summary": "乌克兰向俄发射逾千架无人机，多处石油设施起火，冲突升级。",
+        "summary": "乌克兰向俄罗斯发射逾千架无人机，多处石油设施起火，冲突进一步升级。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
         "publishedAt": "2026-10-18T18:10:09Z"
       },
       {
-        "id": "e7d85bf4c22d60bc8309",
-        "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-        "summary": "Anthropic宣布将5%股份投入公益基金，为上市铺路。",
+        "id": "0d15257411fc096e52fa",
+        "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+        "summary": "加拿大阿尔伯塔省举行公投决定是否就分离问题启动投票，民调显示多数人支持留在加拿大。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-18T20:30:59Z"
+        "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-19T01:24:33Z"
+      },
+      {
+        "id": "4c62f9e79b889cf9b305",
+        "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
+        "summary": "意大利总理梅洛尼就周末暴力冲突召开紧急会议，超200人被拘留。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-19T03:23:36Z"
       }
     ]
   }
