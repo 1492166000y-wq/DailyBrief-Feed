@@ -1,84 +1,92 @@
 {
   "version": 1,
   "date": "2026-10-19",
-  "generatedAt": "2026-10-18T22:24:49Z",
+  "generatedAt": "2026-10-19T04:37:06Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注反腐、外贸升级、社保与消费监管，以及A股与AI市场波动；国际聚焦法国骚乱、俄乌星链争端、美对俄制裁及欧洲青年抗议。",
+    "overview": "国内关注金融街论坛与三季度经济数据，汇源果汁停产引发品牌争议，留学生不当行为受到舆论批评，A股走势受关注。",
     "items": [
       {
-        "id": "2caa86f522d4fb0a7b33",
-        "title": "涉嫌严重职务违法，广西壮族自治区政协原副主席黄日波被查",
-        "summary": "广西壮族自治区政协原副主席黄日波涉嫌严重职务违法被查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34273711",
-        "publishedAt": "2026-10-18T22:24:49Z"
+        "id": "c578f881da0e71d1aa82",
+        "title": "国家统计局：今年前三季度GDP同比增长4.6%",
+        "summary": "国家统计局公布今年前三季度GDP同比增长4.6%。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507795",
+        "publishedAt": "2026-10-19T04:37:06Z"
       },
       {
-        "id": "813b75090fb54741afa7",
-        "title": "中国外贸风向标 创多项历史新高",
-        "summary": "中国外贸风向标数据创多项历史新高，显示外贸韧性。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697924553620013098/",
-        "publishedAt": "2026-10-18T22:24:49Z"
-      },
-      {
-        "id": "fff0249bee2e3db18269",
-        "title": "广交会见证中国制造硬核升级",
-        "summary": "广交会见证中国制造硬核升级，产业竞争力持续提升。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%BA%A4%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7",
-        "publishedAt": "2026-10-18T22:24:49Z"
-      },
-      {
-        "id": "36f5362b17096b3b6318",
-        "title": "为什么要把社保缴费的尺子统一起来",
-        "summary": "社保缴费基数统一改革推进，旨在增强公平与制度可持续性。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697117829618958377/",
-        "publishedAt": "2026-10-18T22:24:49Z"
-      },
-      {
-        "id": "95306eef1a3892922ddc",
-        "title": "建议售价1980元的眼镜片批发价30元",
-        "summary": "建议售价1980元眼镜片批发价仅30元，引发对眼镜行业加价质疑。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697595174012403753/",
-        "publishedAt": "2026-10-18T22:24:49Z"
+        "id": "0c560eb9b4af23fcfdfb",
+        "title": "【早报】金融街论坛今日开幕，四家金融监管部门负责人将发声；科技龙头股，密集回购",
+        "summary": "金融街论坛开幕，四家金融监管部门负责人将发声；科技龙头股密集回购。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507781",
+        "publishedAt": "2026-10-19T04:37:06Z"
       },
       {
         "id": "201579ca966bb276972e",
         "title": "金融街论坛明日开幕！潘功胜、丁向群、吴清、朱鹤新将作主题演讲",
-        "summary": "金融街论坛开幕，潘功胜、吴清等将发表主题演讲，市场关注政策信号。",
+        "summary": "金融街论坛明日开幕，潘功胜、吴清等将发表主题演讲。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2507699",
-        "publishedAt": "2026-10-18T22:24:49Z"
+        "publishedAt": "2026-10-19T04:37:06Z"
       },
       {
-        "id": "f17081e6f97998a3ef9c",
-        "title": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报",
-        "summary": "下周关注中国GDP、金融街论坛、APEC财长会及英伟达GTC等重磅日程。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783759",
-        "publishedAt": "2026-10-18T22:24:49Z"
+        "id": "94482256d63aa8e443d3",
+        "title": "汇源集团：不再生产“汇源”果汁",
+        "summary": "汇源集团宣布不再生产“汇源”果汁，商标与经营归属引发关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7698173332499333139/",
+        "publishedAt": "2026-10-19T04:37:06Z"
       },
       {
-        "id": "183bac0938a22db7d60a",
-        "title": "A股市场调整接近尾声？投资主线有哪些？十大券商策略来了",
-        "summary": "十大券商策略发布，研判A股调整接近尾声及后续投资主线。",
+        "id": "62164b1bb40138b6dca0",
+        "title": "钧正平就中国留学生身披旭日旗发声",
+        "summary": "钧正平就中国留学生身披旭日旗发声，强调民族尊严不容冒犯。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697204184608771620/",
+        "publishedAt": "2026-10-19T04:37:06Z"
+      },
+      {
+        "id": "5a74578ccced908db2a9",
+        "title": "马上评｜中国留学生竟身披旭日旗，民族尊严岂容冒犯？",
+        "summary": "澎湃评论批评留学生身披旭日旗行为，强调民族尊严不容冒犯。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34276344",
+        "publishedAt": "2026-10-19T04:37:06Z"
+      },
+      {
+        "id": "0a044ff5d69f0a29a3c3",
+        "title": "我国首个十万卡AI超集群 “能装一个宇宙”",
+        "summary": "我国首个十万卡AI超集群亮相，算力规模创国内纪录。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2507695",
-        "publishedAt": "2026-10-18T22:24:49Z"
+        "url": "https://www.cls.cn/detail/2507661",
+        "publishedAt": "2026-10-19T04:37:06Z"
+      },
+      {
+        "id": "ca0a2f1f3e3acc2feac7",
+        "title": "九部门：加快推进科技兴商 深入实施“人工智能+制造”专项行动",
+        "summary": "九部门发文推进科技兴商，深入实施“人工智能+制造”专项行动。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2507957",
+        "publishedAt": "2026-10-19T04:37:06Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重点为法国全国骚乱与马克龙表态、美国豁免对俄制裁及星链争议、欧洲青年抗议蔓延，另有也门冲突、加拿大军基地火灾等事件。",
+    "overview": "国际聚焦法国骚乱及马克龙应对、特朗普与泽连斯基围绕乌克兰问题分歧升级、加拿大军事基地火灾、卢拉与博索纳罗辩论，以及Anthropic的股权承诺。",
     "items": [
+      {
+        "id": "940b5ea80ff494b55667",
+        "title": "France's government under pressure after weekend of widespread violence",
+        "summary": "法国多地抗议演变为大规模骚乱，政府面临巨大政治压力。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-18T20:16:46Z"
+      },
       {
         "id": "beb8579b0aff76ea662a",
         "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
-        "summary": "法国骚乱后马克龙谴责无节制暴力，全国已有约2400人被捕。",
+        "summary": "马克龙谴责法国骚乱中的无节制暴力，全国约2400人被捕。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
         "publishedAt": "2026-10-18T10:57:48Z"
@@ -92,52 +100,44 @@
         "publishedAt": "2026-10-18T12:33:21Z"
       },
       {
-        "id": "34fff1d33b85759ab400",
-        "title": "Macron condemns violence after riots lead to looting and mass arrests",
-        "summary": "马克龙谴责骚乱中的暴力与抢劫，要求肇事者承担法律责任。",
+        "id": "488da726e5162588844d",
+        "title": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
+        "summary": "卢拉与博索纳罗在巴西总统决选首场辩论中激烈交锋。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
-        "publishedAt": "2026-10-18T13:10:47Z"
+        "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
+        "publishedAt": "2026-10-18T20:27:00Z"
       },
       {
-        "id": "5070f373bfaa470eb5cb",
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "特朗普以国家安全为由豁免多项对俄制裁，与泽连斯基分歧加剧。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T17:10:25Z"
-      },
-      {
-        "id": "7cf10cfbafb58175d276",
-        "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-        "summary": "鲁比奥称乌克兰未获星盾使用权，未来安排仍在讨论，乌方表关切。",
+        "id": "e53358bae5e039d79f84",
+        "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+        "summary": "特朗普为放松对俄制裁辩护，并抨击泽连斯基无意结束战争。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
-        "publishedAt": "2026-10-18T01:42:40Z"
-      },
-      {
-        "id": "52902b437ccfa4cc832d",
-        "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
-        "summary": "泽连斯基感谢美恢复情报共享，但坚持美方故意限速星链服务。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
-        "publishedAt": "2026-10-18T08:37:52Z"
+        "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+        "publishedAt": "2026-10-18T19:10:05Z"
       },
       {
         "id": "470d3fcfab5e12bedf6f",
         "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-        "summary": "加拿大阿尔伯塔一军事基地发生猛烈火灾，至少4人死亡、多人受伤。",
+        "summary": "加拿大阿尔伯塔一军事基地大火致四人死亡、数十人受伤。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-        "publishedAt": "2026-10-18T09:34:53Z"
+        "publishedAt": "2026-10-18T15:53:13Z"
       },
       {
-        "id": "2631fc0d3eb956d14e23",
-        "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
-        "summary": "意大利多城生活成本抗议演变为暴力，梅洛尼表态支持警方执法。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-18T08:02:00Z"
+        "id": "35411055e88a069979aa",
+        "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+        "summary": "乌克兰向俄发射逾千架无人机，多处石油设施起火，冲突升级。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+        "publishedAt": "2026-10-18T18:10:09Z"
+      },
+      {
+        "id": "e7d85bf4c22d60bc8309",
+        "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+        "summary": "Anthropic宣布将5%股份投入公益基金，为上市铺路。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-18T20:30:59Z"
       }
     ]
   }
