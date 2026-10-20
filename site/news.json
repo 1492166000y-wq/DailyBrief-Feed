@@ -1,119 +1,135 @@
 {
   "version": 1,
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T11:32:33Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-20T17:01:19Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内时政与财经焦点集中在监管信号、数据要素市场化与外交安全议题：工信部规范智能座椅使用、国家数据集团成立、证监会释放稳市信号，以及中美在科技与乌克兰问题上的互动。",
+    "overview": "国内焦点集中在经济数据与科技产业：前三季度增速、半导体业绩回暖、国家数据集团成立及AI监管新动向；外交层面涉台海演习、菲律宾大使风波与中美俄互动。",
     "items": [
+      {
+        "id": "0ec2fcc3dd0e1010eede",
+        "title": "前三季度中国经济“成绩单”来了",
+        "summary": "前三季度经济成绩单出炉，宏观政策成效与全年目标完成情况受关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697852837388533802/",
+        "publishedAt": "2026-10-20T17:01:19Z"
+      },
+      {
+        "id": "b01aa024f0997f493fd5",
+        "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
+        "summary": "半导体多家龙头前三季度净利倍增，AI需求成主要增长动力。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2510147",
+        "publishedAt": "2026-10-20T17:01:19Z"
+      },
+      {
+        "id": "9c69444c182a96ec6478",
+        "title": "国家数据集团成立，简勤任董事长，陈荣辉任总经理",
+        "summary": "国家数据集团正式成立，简勤任董事长、陈荣辉任总经理。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2510143",
+        "publishedAt": "2026-10-20T17:01:19Z"
+      },
+      {
+        "id": "c5b048a9f348b2c0bcd0",
+        "title": "日美利剑演习是否为介入台海做准备",
+        "summary": "日美“利剑”演习规模扩大，外界关注是否针对台海介入做准备。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7698319902914904603/",
+        "publishedAt": "2026-10-20T17:01:19Z"
+      },
+      {
+        "id": "04d4ec325bb906cca625",
+        "title": "菲媒：若驱逐中国大使中方必对等回应",
+        "summary": "菲媒称若驱逐中国大使，中方将对等回应，双边关系再趋紧张。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%AA%92%EF%BC%9A%E8%8B%A5%E9%A9%B1%E9%80%90%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%B8%AD%E6%96%B9%E5%BF%85%E5%AF%B9%E7%AD%89%E5%9B%9E%E5%BA%94",
+        "publishedAt": "2026-10-20T17:01:19Z"
+      },
+      {
+        "id": "6f11fcf665f535e57cfc",
+        "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+        "summary": "特朗普对中俄美三方会谈态度积极，外交部作出回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
+        "publishedAt": "2026-10-20T17:01:19Z"
+      },
       {
         "id": "2600a721b9ba7f740ce0",
         "title": "工信部：禁止车辆行驶时用零重力座椅",
-        "summary": "工信部明确禁止车辆行驶时使用零重力座椅，直指部分车企产品验证不充分，强化智能座舱安全监管。",
+        "summary": "工信部明确禁止车辆行驶时使用零重力座椅，强化汽车安全监管。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7698667807361319433/",
-        "publishedAt": "2026-10-20T11:32:33Z"
+        "publishedAt": "2026-10-20T17:01:19Z"
       },
       {
-        "id": "e8da369ce4b2e77ed57c",
-        "title": "新央企！国家数据集团成立",
-        "summary": "国家数据集团正式成立，作为新设央企推进数据要素市场化配置，释放数据基础制度建设信号。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A4%AE%E4%BC%81%EF%BC%81%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E5%9B%A2%E6%88%90%E7%AB%8B",
-        "publishedAt": "2026-10-20T11:32:33Z"
-      },
-      {
-        "id": "d2b19237d4d5e0a923ed",
-        "title": "吴清主席释放多重稳市信号，公私募一线解读：中国资产将迎来价值重估",
-        "summary": "证监会主席吴清在金融街论坛释放多重稳市信号，机构解读为中国资产将迎来价值重估。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2509368",
-        "publishedAt": "2026-10-20T11:32:33Z"
-      },
-      {
-        "id": "dfb9f58326084a8321f9",
-        "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮",
-        "summary": "吴清最新发言八大要点出炉，涵盖中国资产、市场稳定与AI浪潮，明确资本市场改革方向。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34282373",
-        "publishedAt": "2026-10-20T11:32:33Z"
-      },
-      {
-        "id": "9352f1d11fc009affc12",
-        "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
-        "summary": "美国政府指示各机构停用DeepSeek，外交部回应反对将科技经贸问题政治化。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2509748",
-        "publishedAt": "2026-10-20T11:32:33Z"
-      },
-      {
-        "id": "85b5d095a518c3e100c1",
-        "title": "国家发改委：正在研究制定扩大内需战略实施方案",
-        "summary": "国家发改委表示正在研究制定扩大内需战略实施方案，宏观政策持续加力稳增长。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2509343",
-        "publishedAt": "2026-10-20T11:32:33Z"
-      },
-      {
-        "id": "59672148771d5393f377",
-        "title": "潘功胜金融街论坛发声释放重磅信号 短端利率调控改革有何深意？权威解读来了！",
-        "summary": "潘功胜在金融街论坛发声，短端利率调控改革释放重磅信号，权威解读其政策深意。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2509402",
-        "publishedAt": "2026-10-20T11:32:33Z"
-      },
-      {
-        "id": "5ffaed826fa7bf11e1f3",
-        "title": "圆通致歉“客户取消快递订单被记为投诉”事件：不存在“咨询即处罚”等情况，将强化管理和培训",
-        "summary": "圆通就客户取消订单被记为投诉事件致歉，否认“咨询即处罚”，承诺强化管理与培训。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34283747",
-        "publishedAt": "2026-10-20T11:32:33Z"
+        "id": "7648ceb9ae83ee24b36a",
+        "title": "英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成",
+        "summary": "英伟达量子容错计算模拟突破，所需物理比特降九成。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783958",
+        "publishedAt": "2026-10-20T17:01:19Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，法国骚乱后多地实施宵禁、意大利向米兰派兵维稳；特朗普调整对俄姿态并施压乌克兰谈判；此外加拿大阿尔伯塔独立公投被否决、印度启动史上最大IPO等值得关注。",
+    "overview": "全球关注法国骚乱后安全措施升级、加拿大阿尔伯塔分离公投被否，以及美乌关系紧张、中东战事与日本火星探测等重大事件。",
     "items": [
+      {
+        "id": "f0a84da6e1c6f12b5474",
+        "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+        "summary": "意大利向米兰部署500名军人，应对连日抗议和抢劫事件。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+        "publishedAt": "2026-10-20T08:13:25Z"
+      },
       {
         "id": "40aa660b6e04a3c9779d",
         "title": "France imposes partial curfews in several cities, including parts of Paris",
-        "summary": "法国骚乱后巴黎等多城实施部分宵禁，内政部长承认警方在部分地区一度失控。",
+        "summary": "法国骚乱后巴黎等多城实施部分宵禁，内政部长承认警方一度失控。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
         "publishedAt": "2026-10-19T10:16:45Z"
       },
       {
-        "id": "f0a84da6e1c6f12b5474",
-        "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-        "summary": "意大利向米兰部署500名军人，此前抗议高生活成本活动演变为冲突和抢劫。",
+        "id": "a8ce5ec552a81e596ad3",
+        "title": "Alberta voters reject plan for referendum to leave Canada",
+        "summary": "加拿大阿尔伯塔省选民否决分离公投，卡尼称国家统一获重大胜利。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-        "publishedAt": "2026-10-20T03:00:05Z"
-      },
-      {
-        "id": "22b8012801d153a1148e",
-        "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
-        "summary": "特朗普调整对俄姿态，寻求结束乌克兰战争，能源价格与中期选举压力成推手。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
-        "publishedAt": "2026-10-20T03:03:52Z"
+        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+        "publishedAt": "2026-10-20T08:24:05Z"
       },
       {
         "id": "a8466c3d0c8788958093",
         "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-        "summary": "美乌关系趋紧，特朗普称泽连斯基应换人谈判，乌方指美方拖延武器交付。",
+        "summary": "美乌关系趋紧，特朗普称泽连斯基应换人谈判，乌方指美拖延武器交付。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
         "publishedAt": "2026-10-19T22:23:44Z"
       },
       {
-        "id": "a8ce5ec552a81e596ad3",
-        "title": "Alberta voters reject plan for referendum to leave Canada",
-        "summary": "加拿大阿尔伯塔省独立公投被压倒性否决，约七成六选民支持留在加拿大。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-        "publishedAt": "2026-10-20T01:02:43Z"
+        "id": "22b8012801d153a1148e",
+        "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+        "summary": "特朗普调整对俄姿态以寻求结束乌克兰战争，能源与选举压力成推手。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+        "publishedAt": "2026-10-20T03:03:52Z"
+      },
+      {
+        "id": "1dd40ddf8223d433ca26",
+        "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+        "summary": "苏丹政府军无人机袭击悼念人群和油市，造成300余人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-20T08:09:54Z"
+      },
+      {
+        "id": "be27f0ec7bccbea65991",
+        "title": "Japan probe sets course for Mars moon",
+        "summary": "日本发射MMX探测器前往火星卫星火卫一采样，探索太阳系形成。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-19T23:16:00Z"
       },
       {
         "id": "55159fa23e187be78798",
@@ -122,22 +138,6 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
         "publishedAt": "2026-10-20T01:53:27Z"
-      },
-      {
-        "id": "6789b52f006c4ad4ee61",
-        "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-        "summary": "法国利摩日市政厅在骚乱中被纵火，钟楼尖顶倒塌，一名嫌疑人已被逮捕。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-20T00:58:26Z"
-      },
-      {
-        "id": "be27f0ec7bccbea65991",
-        "title": "Japan probe sets course for Mars moon",
-        "summary": "日本发射MMX探测器前往火星卫星火卫一采样，有望解答太阳系形成问题。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-19T23:16:00Z"
       }
     ]
   }
