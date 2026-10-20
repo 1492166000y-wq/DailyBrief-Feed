@@ -1,84 +1,92 @@
 {
   "version": 1,
   "date": "2026-10-21",
-  "generatedAt": "2026-10-20T17:01:19Z",
+  "generatedAt": "2026-10-20T21:35:30Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在经济数据与科技产业：前三季度增速、半导体业绩回暖、国家数据集团成立及AI监管新动向；外交层面涉台海演习、菲律宾大使风波与中美俄互动。",
+    "overview": "本期国内聚焦数据要素市场化改革与半导体产业复苏，同时关注中日关系、中美互动及汽车安全新规等政策动向。",
     "items": [
       {
-        "id": "0ec2fcc3dd0e1010eede",
-        "title": "前三季度中国经济“成绩单”来了",
-        "summary": "前三季度经济成绩单出炉，宏观政策成效与全年目标完成情况受关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697852837388533802/",
-        "publishedAt": "2026-10-20T17:01:19Z"
+        "id": "0b76c73a8e0b87b04673",
+        "title": "国家数据集团成立，有何标志性意义？",
+        "summary": "国家数据集团正式成立，标志着数据要素市场化改革迈出关键一步。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34291005",
+        "publishedAt": "2026-10-20T21:35:30Z"
       },
       {
         "id": "b01aa024f0997f493fd5",
         "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
-        "summary": "半导体多家龙头前三季度净利倍增，AI需求成主要增长动力。",
+        "summary": "半导体行业业绩亮眼，多家龙头净利倍增，AI需求成主要增长动力。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2510147",
-        "publishedAt": "2026-10-20T17:01:19Z"
-      },
-      {
-        "id": "9c69444c182a96ec6478",
-        "title": "国家数据集团成立，简勤任董事长，陈荣辉任总经理",
-        "summary": "国家数据集团正式成立，简勤任董事长、陈荣辉任总经理。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2510143",
-        "publishedAt": "2026-10-20T17:01:19Z"
-      },
-      {
-        "id": "c5b048a9f348b2c0bcd0",
-        "title": "日美利剑演习是否为介入台海做准备",
-        "summary": "日美“利剑”演习规模扩大，外界关注是否针对台海介入做准备。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7698319902914904603/",
-        "publishedAt": "2026-10-20T17:01:19Z"
-      },
-      {
-        "id": "04d4ec325bb906cca625",
-        "title": "菲媒：若驱逐中国大使中方必对等回应",
-        "summary": "菲媒称若驱逐中国大使，中方将对等回应，双边关系再趋紧张。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%AA%92%EF%BC%9A%E8%8B%A5%E9%A9%B1%E9%80%90%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%B8%AD%E6%96%B9%E5%BF%85%E5%AF%B9%E7%AD%89%E5%9B%9E%E5%BA%94",
-        "publishedAt": "2026-10-20T17:01:19Z"
+        "publishedAt": "2026-10-20T21:35:30Z"
       },
       {
         "id": "6f11fcf665f535e57cfc",
         "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
-        "summary": "特朗普对中俄美三方会谈态度积极，外交部作出回应。",
+        "summary": "外交部就特朗普积极表态举行中俄美三方会谈一事作出回应。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
-        "publishedAt": "2026-10-20T17:01:19Z"
+        "publishedAt": "2026-10-20T21:35:30Z"
       },
       {
         "id": "2600a721b9ba7f740ce0",
         "title": "工信部：禁止车辆行驶时用零重力座椅",
-        "summary": "工信部明确禁止车辆行驶时使用零重力座椅，强化汽车安全监管。",
+        "summary": "工信部拟规定禁止车辆行驶时使用零重力座椅，以提升行车安全。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7698667807361319433/",
-        "publishedAt": "2026-10-20T17:01:19Z"
+        "publishedAt": "2026-10-20T21:35:30Z"
       },
       {
-        "id": "7648ceb9ae83ee24b36a",
-        "title": "英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成",
-        "summary": "英伟达量子容错计算模拟突破，所需物理比特降九成。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783958",
-        "publishedAt": "2026-10-20T17:01:19Z"
+        "id": "f2cb12291a4eabe57fb2",
+        "title": "媒体：身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定",
+        "summary": "身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34286371",
+        "publishedAt": "2026-10-20T21:35:30Z"
+      },
+      {
+        "id": "0ec2fcc3dd0e1010eede",
+        "title": "前三季度中国经济“成绩单”来了",
+        "summary": "前三季度中国经济成绩单发布，主要指标显示经济持续恢复。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7697852837388533802/",
+        "publishedAt": "2026-10-20T21:35:30Z"
+      },
+      {
+        "id": "04d4ec325bb906cca625",
+        "title": "菲媒：若驱逐中国大使中方必对等回应",
+        "summary": "菲媒警告若驱逐中国大使，中方必将采取对等回应措施。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%AA%92%EF%BC%9A%E8%8B%A5%E9%A9%B1%E9%80%90%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%B8%AD%E6%96%B9%E5%BF%85%E5%AF%B9%E7%AD%89%E5%9B%9E%E5%BA%94",
+        "publishedAt": "2026-10-20T21:35:30Z"
+      },
+      {
+        "id": "b903b824219e6b815241",
+        "title": "国家癌症中心公布发病前五癌症",
+        "summary": "国家癌症中心公布发病前五癌症，为癌症防治提供数据参考。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87",
+        "publishedAt": "2026-10-20T21:35:30Z"
       }
     ]
   },
   "global": {
-    "overview": "全球关注法国骚乱后安全措施升级、加拿大阿尔伯塔分离公投被否，以及美乌关系紧张、中东战事与日本火星探测等重大事件。",
+    "overview": "全球方面，美乌关系因情报共享与谈判分歧出现波动，法国骚乱持续发酵，非洲埃博拉疫情扩散引发关注。",
     "items": [
+      {
+        "id": "9fc7a8a4bea302ba8208",
+        "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+        "summary": "泽连斯基称美国已恢复与乌克兰共享俄导弹袭击情报。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+        "publishedAt": "2026-10-20T11:32:28Z"
+      },
       {
         "id": "f0a84da6e1c6f12b5474",
         "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-        "summary": "意大利向米兰部署500名军人，应对连日抗议和抢劫事件。",
+        "summary": "意大利向米兰部署500名军人，以应对连日抗议和抢劫事件。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
         "publishedAt": "2026-10-20T08:13:25Z"
@@ -108,6 +116,14 @@
         "publishedAt": "2026-10-19T22:23:44Z"
       },
       {
+        "id": "0caec8c9edc63a41ccdb",
+        "title": "Nigeria records its first Ebola case, in capital Abuja",
+        "summary": "尼日利亚报告首例埃博拉病例，患者为从乌干达飞抵阿布贾的女性。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-20T11:08:00Z"
+      },
+      {
         "id": "22b8012801d153a1148e",
         "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
         "summary": "特朗普调整对俄姿态以寻求结束乌克兰战争，能源与选举压力成推手。",
@@ -116,28 +132,12 @@
         "publishedAt": "2026-10-20T03:03:52Z"
       },
       {
-        "id": "1dd40ddf8223d433ca26",
-        "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-        "summary": "苏丹政府军无人机袭击悼念人群和油市，造成300余人死亡。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-20T08:09:54Z"
-      },
-      {
         "id": "be27f0ec7bccbea65991",
         "title": "Japan probe sets course for Mars moon",
         "summary": "日本发射MMX探测器前往火星卫星火卫一采样，探索太阳系形成。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-19T23:16:00Z"
-      },
-      {
-        "id": "55159fa23e187be78798",
-        "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
-        "summary": "印度安巴尼旗下Jio平台启动该国史上最大IPO，目标估值约810亿英镑。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
-        "publishedAt": "2026-10-20T01:53:27Z"
       }
     ]
   }
