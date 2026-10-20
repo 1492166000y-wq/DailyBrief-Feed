@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-20",
-  "generatedAt": "2026-10-19T23:38:15Z",
+  "generatedAt": "2026-10-20T04:46:43Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦金融街论坛政策信号：央行拟设非银机构流动性支持工具并推进利率市场化，证监会部署应对输入性风险、规范减持及推出主动ETF；三季度GDP平稳增长。此外，中纪委连打三虎、中日外交摩擦及社会热点获关注。",
+    "overview": "国内聚焦金融监管高层发声与三季度经济数据：央行拟设非银流动性支持工具并推进利率改革，证监会释放稳市信号，发改委研究扩大内需方案；社会层面关注旭日旗事件处理与法国骚乱的国内解读。",
     "items": [
-      {
-        "id": "9dc314e737be11ad76d8",
-        "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
-        "summary": "国家统计局：三季度GDP同比增长4.5%，前三季度增4.6%，经济运行总体平稳。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783889",
-        "publishedAt": "2026-10-19T23:38:15Z"
-      },
       {
         "id": "9917675e20e9d4315580",
         "title": "潘功胜：央行拟设非银机构大额赎回流动性支持工具，用市场化利率指标替代存贷款基准利率",
-        "summary": "潘功胜：央行拟设非银机构大额赎回流动性支持工具，以市场化利率指标替代存贷款基准利率。",
+        "summary": "央行行长潘功胜提出拟设非银机构大额赎回流动性支持工具，并以市场化利率指标替代存贷款基准利率。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783926",
-        "publishedAt": "2026-10-19T23:38:15Z"
+        "publishedAt": "2026-10-20T04:46:43Z"
       },
       {
         "id": "b2ee4f38b2fbd672dd59",
         "title": "吴清：全力应对多重超预期输入性风险挑战，近期将推出四项举措，完善违规减持处罚规则",
-        "summary": "吴清：全力应对超预期输入性风险，近期推出四项举措，完善违规减持处罚规则。",
+        "summary": "证监会主席吴清表示全力应对超预期输入性风险，近期推出四项举措并完善违规减持处罚规则。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3783929",
-        "publishedAt": "2026-10-19T23:38:15Z"
+        "publishedAt": "2026-10-20T04:46:43Z"
       },
       {
-        "id": "b8642128d73a33198eed",
-        "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
-        "summary": "首批18只主动ETF获批，A股将迎更多增量资金。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2508677",
-        "publishedAt": "2026-10-19T23:38:15Z"
-      },
-      {
-        "id": "68209db9acc1fe05f3e9",
-        "title": "9月70城房价：一线城市二手房价环比涨幅扩大、新房房价环比继续上涨，二三线城市环比降幅总体收窄",
-        "summary": "9月70城房价：一线二手环比涨幅扩大、新房续涨，二三线降幅收窄。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783886",
-        "publishedAt": "2026-10-19T23:38:15Z"
-      },
-      {
-        "id": "5133c800baa8a8cb6bf3",
-        "title": "中纪委连打三“虎”",
-        "summary": "中纪委连打三“虎”。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7698306606186040858/",
-        "publishedAt": "2026-10-19T23:38:15Z"
-      },
-      {
-        "id": "960afe9bf5d008b06db9",
-        "title": "中美俄元首将举行会晤讨论结束俄乌冲突？外交部回应",
-        "summary": "外交部回应中美俄元首将举行会晤讨论结束俄乌冲突。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xLpKthfiXq",
-        "publishedAt": "2026-10-19T23:38:15Z"
-      },
-      {
-        "id": "c4e1511f35325e650e2c",
-        "title": "多名日本议员参拜靖国神社，高市早苗供奉祭祀费",
-        "summary": "多名日本议员参拜靖国神社，高市早苗供奉祭祀费。",
+        "id": "dfb9f58326084a8321f9",
+        "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮",
+        "summary": "吴清最新发言八大要点涉及中国资产、市场稳定与AI浪潮，释放多重稳市信号。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34278381",
-        "publishedAt": "2026-10-19T23:38:15Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34282373",
+        "publishedAt": "2026-10-20T04:46:43Z"
+      },
+      {
+        "id": "85b5d095a518c3e100c1",
+        "title": "国家发改委：正在研究制定扩大内需战略实施方案",
+        "summary": "国家发改委表示正在研究制定扩大内需战略实施方案，以政策助推消费潜能释放。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2509343",
+        "publishedAt": "2026-10-20T04:46:43Z"
+      },
+      {
+        "id": "365f8fe97d62e5ee38b5",
+        "title": "一组数字看2026前三季度中国经济",
+        "summary": "一组数字梳理2026年前三季度中国经济运行情况，展现增长与结构变化。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7698572268691000841/",
+        "publishedAt": "2026-10-20T04:46:43Z"
+      },
+      {
+        "id": "054c87e406fd52bde6b4",
+        "title": "中国留学生课堂披旭日旗，钧正平：为军国主义张目是对人类良知的公然冒犯",
+        "summary": "中国留学生课堂身披旭日旗引争议，钧正平批评其为军国主义张目，是对人类良知的冒犯。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34280886",
+        "publishedAt": "2026-10-20T04:46:43Z"
+      },
+      {
+        "id": "f2cb12291a4eabe57fb2",
+        "title": "媒体：身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定",
+        "summary": "媒体称身披旭日旗的中国留学生已被遣返，校方表示将尽快公布开除决定。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34286371",
+        "publishedAt": "2026-10-20T04:46:43Z"
+      },
+      {
+        "id": "25a4d342e74640cd971f",
+        "title": "科技巨头护盘，标普、纳指反弹，芯片指数终结八连跌，美油八连涨，黄金冲高转跌",
+        "summary": "科技巨头护盘推动标普与纳指反弹，芯片指数终结八连跌，美油八连涨、黄金冲高转跌。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783911",
+        "publishedAt": "2026-10-20T04:46:43Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，法国骚乱后实施部分宵禁并承认局面失控，特朗普民调创新低且因对俄制裁豁免与泽连斯基公开分歧；俄乌冲突持续，俄无人机袭击致平民死亡。澳大利亚议员遭车撞伤势危重，肯尼亚邪教头目谋杀罪成立，也门胡塞武装袭击致重大伤亡。",
+    "overview": "国际焦点集中在法国全国骚乱后多城宵禁、澳大利亚议员遭驾车撞击致重伤，以及美俄乌局势新动向；科技与灾害方面有日本火卫一取样任务、西班牙洪灾和AI生物武器风险讨论。",
     "items": [
       {
         "id": "40aa660b6e04a3c9779d",
         "title": "France imposes partial curfews in several cities, including parts of Paris",
-        "summary": "法国骚乱后巴黎等多城实施部分宵禁，内政部长承认警方一度失控。",
+        "summary": "法国骚乱后巴黎等多城实施部分宵禁，内政部长承认警方在部分地区一度失控。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
         "publishedAt": "2026-10-19T10:16:45Z"
       },
       {
-        "id": "cd67e4a52327a14abe80",
-        "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
-        "summary": "特朗普批评泽连斯基，因对俄制裁豁免出现分歧，并称应由他人谈判。",
+        "id": "058f29785c2d3f317d77",
+        "title": "Helen Haines loses leg after car allegedly did U-turn and struck her twice in Wangaratta",
+        "summary": "澳大利亚独立议员海伦·海恩斯在选区办公室外遭汽车两次撞击，失去一条腿，伤势危重但稳定。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-        "publishedAt": "2026-10-19T15:26:10Z"
+        "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+        "publishedAt": "2026-10-19T17:50:34Z"
       },
       {
-        "id": "441946fc7d1789a127ca",
-        "title": "Children among six killed in Russian drone strike on Ukraine park",
-        "summary": "俄无人机袭击乌克兰公园致6人死亡，包括儿童。",
+        "id": "6e5b03f87023da0afaf6",
+        "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
+        "summary": "泽连斯基指责美国拖延爱国者导弹交付，美乌关系趋紧；乌方称美限制情报共享致平民伤亡。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-19T18:15:00Z"
+      },
+      {
+        "id": "8af8296c1a9725b63765",
+        "title": "Japan launches historic mission to bring back Mars moon samples",
+        "summary": "日本发射五年期无人任务，拟从火星卫星火卫一采集样本并带回地球。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
-        "publishedAt": "2026-10-19T15:12:42Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+        "publishedAt": "2026-10-19T20:08:33Z"
       },
       {
-        "id": "4eaf5645bba748ddfe90",
-        "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
-        "summary": "澳大利亚独立议员海恩斯遭车撞伤势危重，反恐工作组调查。",
+        "id": "490438a69b7a0f82ce5f",
+        "title": "At least four dead after flooding in eastern Spain",
+        "summary": "西班牙东部地中海沿岸暴雨引发洪灾，至少四人死亡，数百人被困屋顶或车内。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-19T16:32:00Z"
+      },
+      {
+        "id": "f9c50bc4be42a3516f35",
+        "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+        "summary": "英国军情五处负责人警告AI可能改变生物武器风险格局，专家在播客中解析威胁。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-        "publishedAt": "2026-10-19T15:19:54Z"
+        "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+        "publishedAt": "2026-10-19T20:00:15Z"
       },
       {
-        "id": "999cbd482b92ea377dfa",
-        "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-        "summary": "肯尼亚法院认定邪教头目麦肯齐谋杀190名儿童和1名成人罪名成立。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-        "publishedAt": "2026-10-19T08:08:14Z"
-      },
-      {
-        "id": "9c6d5f6fe73bdd061cc7",
-        "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-        "summary": "也门胡塞武装导弹袭击政府军训练营致至少53人死亡，为内战重启以来最大单次伤亡。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-        "publishedAt": "2026-10-19T09:15:23Z"
-      },
-      {
-        "id": "a5a690683f8077e5304f",
-        "title": "Over three dozen Congress members’ offices targeted with white powder envelopes",
-        "summary": "美国中期选举前逾30名国会议员办公室收到含白色粉末信封，联邦机构展开调查。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/19/white-powder-envelopes-congress",
-        "publishedAt": "2026-10-19T11:44:47Z"
-      },
-      {
-        "id": "9a98baf34990ba9836d0",
-        "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
-        "summary": "世界粮食计划署因资金短缺削减对加沙粮食援助，当地饥饿状况恐进一步恶化。",
+        "id": "9deb13f75bac6088a073",
+        "title": "Fourteen dead in illegal Colombian gold mine collapse",
+        "summary": "哥伦比亚一处非法金矿坍塌，造成至少14人死亡、7人受伤。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-        "publishedAt": "2026-10-19T08:06:57Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+        "publishedAt": "2026-10-19T19:55:27Z"
+      },
+      {
+        "id": "17bc7850187854278009",
+        "title": "Mother of alleged Alan Jones victim ‘absolutely trusted’ the radio host, court told",
+        "summary": "Witness breaks down in tears, tells court ‘I was scared’ after son declined to r",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
+        "publishedAt": "2026-10-19T20:16:22Z"
       }
     ]
   }
