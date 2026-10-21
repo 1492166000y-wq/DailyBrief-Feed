@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-22",
-  "generatedAt": "2026-10-21T18:36:32Z",
+  "generatedAt": "2026-10-21T23:17:19Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内舆论聚焦中办国办发布科技创新与产业融合意见、半导体三季报业绩大增及SpaceX与特斯拉合并动向；星巴克消费入座、红果下线金币功能等商业调整受关注；宁德时代单日重挫拖累A股。",
+    "overview": "国内要闻聚焦中央推动科技创新与产业创新深度融合、半导体三季报业绩爆发、宁德时代罕见暴跌、新能源汽车安全争议，以及中菲南海摩擦、两岸交流受阻等议题。",
     "items": [
       {
         "id": "48b80bf106f3b9de2da9",
         "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
-        "summary": "中办国办发文推动科技创新与产业创新深度融合，明确重点任务与政策安排。",
+        "summary": "中办、国办发文推动科技创新与产业创新深度融合，明确重点任务与政策举措。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2511236",
-        "publishedAt": "2026-10-21T18:36:32Z"
+        "publishedAt": "2026-10-21T23:17:19Z"
       },
       {
         "id": "fc94771e38ca67d1dc72",
         "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
-        "summary": "半导体产业链三季报亮眼，20家公司净利翻倍，最高预增超30倍。",
+        "summary": "半导体产业链三季报亮眼，已有20家公司净利翻倍，最高预增超30倍。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2511081",
-        "publishedAt": "2026-10-21T18:36:32Z"
+        "publishedAt": "2026-10-21T23:17:19Z"
       },
       {
-        "id": "1be881a7195e38ccf540",
-        "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
-        "summary": "SpaceX称马斯克预期明年ARR上看1万亿，已设委员会探索与特斯拉合并。",
+        "id": "648a3545bbc60f9a7b00",
+        "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
+        "summary": "创业板跌超1%，宁德时代单日跌12%创历史最大跌幅，光通信与存储芯片反弹。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784071",
-        "publishedAt": "2026-10-21T18:36:32Z"
+        "url": "https://wallstreetcn.com/articles/3784091",
+        "publishedAt": "2026-10-21T23:17:19Z"
       },
       {
-        "id": "25da5133a53cb50436ab",
-        "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
-        "summary": "SpaceX三季度AI业务收入暴增830%，利润超预期，资本支出近200亿美元。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784066",
-        "publishedAt": "2026-10-21T18:36:32Z"
+        "id": "639b62a883b7528fc5f0",
+        "title": "问界回应“陕西神木一车辆碰撞起火”：事发时处于人驾状态，电池爆燃等传闻不实",
+        "summary": "问界回应陕西神木车辆碰撞起火，称事发时处于人驾状态，电池爆燃传闻不实。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34299917",
+        "publishedAt": "2026-10-21T23:17:19Z"
+      },
+      {
+        "id": "c6923cbdc8a59ae006e9",
+        "title": "菲律宾对其非法“坐滩”仁爱礁船只运送生活物资，中国海警发声",
+        "summary": "菲律宾向非法“坐滩”仁爱礁船只运送生活物资，中国海警就此发声回应。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34301991",
+        "publishedAt": "2026-10-21T23:17:19Z"
+      },
+      {
+        "id": "27c5a5e23d8c3181ba55",
+        "title": "民进党当局拒绝张凌赫赴台交流，国台办回应",
+        "summary": "民进党当局拒绝大陆艺人张凌赫赴台交流，国台办作出回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xOmf6nGkjo",
+        "publishedAt": "2026-10-21T23:17:19Z"
       },
       {
         "id": "b7ca7edc75638a3e420a",
         "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
-        "summary": "黄仁勋在GTC柏林称AI工厂部署最快缩至14天，智能体与物理AI加速落地。",
+        "summary": "黄仁勋在GTC柏林演讲称AI工厂部署最快缩至14天，智能体与物理AI加速落地。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2511348",
-        "publishedAt": "2026-10-21T18:36:32Z"
+        "publishedAt": "2026-10-21T23:17:19Z"
       },
       {
-        "id": "a897419c1ae3f4f00e0a",
-        "title": "星巴克中国：10月22日起将在全国开始施行消费入座，会遵循友好、友善的沟通原则",
-        "summary": "星巴克中国宣布10月22日起全国施行消费入座，称将友好沟通。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34297764",
-        "publishedAt": "2026-10-21T18:36:32Z"
-      },
-      {
-        "id": "da5bd5fdd4440a001a74",
-        "title": "红果短剧：预计自2026年11月1日起，不再向新用户提供金币功能；2026年12月底前，全面下线金币功能",
-        "summary": "红果短剧宣布11月起停止向新用户发金币，年底前全面下线该功能。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2511111",
-        "publishedAt": "2026-10-21T18:36:32Z"
-      },
-      {
-        "id": "8ebb0f37f6d2ccae91c4",
-        "title": "日本关键稀土元素储备即将耗尽，外交部：中方依法依规对日实施出口管制",
-        "summary": "日本关键稀土储备将耗尽，外交部称中方依法依规对日实施出口管制。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34299680",
-        "publishedAt": "2026-10-21T18:36:32Z"
+        "id": "1be881a7195e38ccf540",
+        "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
+        "summary": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索与特斯拉合并。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784071",
+        "publishedAt": "2026-10-21T23:17:19Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，特朗普与普京特使会晤后俄方释放美国公民并称愿恢复三方谈判，乌克兰局势与美对乌立场持续发酵；法国骚乱推高国债收益率，欧洲政经风险升温；印度选民名册大规模除名、尼日利亚确诊埃博拉病例及Meta巨额罚单亦受关注。",
+    "overview": "国际要闻围绕法国骚乱与马克龙强硬回应、马斯克酝酿SpaceX与特斯拉合并、Meta被罚250亿美元、美俄乌和谈动向、中东局势升温及全球网络安全风险。",
     "items": [
       {
-        "id": "b9f08b055b606b3d7af6",
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-        "summary": "俄方称准备重启与乌克兰及美国的三方谈判以结束战争。",
+        "id": "d812654e5ff8f9009956",
+        "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+        "summary": "马克龙指责特朗普等外国领导人就法国骚乱发表“愚蠢言论”以谋政治利益。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+        "publishedAt": "2026-10-21T15:06:36Z"
+      },
+      {
+        "id": "adfad578cbf0821e8ec9",
+        "title": "France bans protests in parts of Paris as Macron slams Trump",
+        "summary": "法国骚乱持续，巴黎部分区域禁止集会，马克龙抨击外国领导人言论。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-21T14:32:00Z"
+      },
+      {
+        "id": "d7a63a909b55f5d37019",
+        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+        "summary": "马斯克酝酿SpaceX与特斯拉超级合并，称合并“收益可观”，或成史上最大并购。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T15:04:03Z"
+      },
+      {
+        "id": "628c1baa54430181e601",
+        "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+        "summary": "特斯拉季度业绩超预期，马斯克称与SpaceX合并“很有价值”，需半数股东批准。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+        "publishedAt": "2026-10-21T15:03:16Z"
+      },
+      {
+        "id": "9385938f245f59cc5d67",
+        "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+        "summary": "新墨西哥州法院因剑桥分析案判Meta支付250亿美元，指其误导用户。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-21T11:27:00Z"
+      },
+      {
+        "id": "92579662ce8a2ce4df3e",
+        "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+        "summary": "普京表示俄方原则上愿恢复与乌克兰及美国的和平谈判，此前美特使访俄。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
+        "publishedAt": "2026-10-21T11:01:05Z"
+      },
+      {
+        "id": "727b48e519bd01b65302",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "summary": "俄同意美方呼吁恢复乌克兰和谈后，基辅仍遭导弹袭击，特朗普称接近结束战争。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-21T09:42:34Z"
+        "publishedAt": "2026-10-21T13:27:41Z"
       },
       {
-        "id": "a0b141d44096cb0b2bb6",
-        "title": "Russia releases American Stephen Hubbard after four years in prison",
-        "summary": "俄方在普京会见美特使期间释放服刑四年的美国人哈伯德。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
-        "publishedAt": "2026-10-21T06:31:53Z"
-      },
-      {
-        "id": "4f847b15844cfe84d0cd",
-        "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
-        "summary": "法国骚乱与预算僵局冲击市场，十年期国债收益率创24年新高。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
-        "publishedAt": "2026-10-21T05:17:32Z"
-      },
-      {
-        "id": "03f6c4bc757cee247b5f",
-        "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
-        "summary": "印度选民名册大规模修订，约1.3亿人被除名，引发政治争议。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
-        "publishedAt": "2026-10-21T00:42:10Z"
-      },
-      {
-        "id": "98cb7c8a0c0b2731fd8c",
-        "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-        "summary": "Meta因剑桥分析相关案件被新墨西哥州判罚250亿美元。",
-        "source": "Hacker News",
-        "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-        "publishedAt": "2026-10-21T09:45:13Z"
-      },
-      {
-        "id": "b28ac67f614868e331ae",
-        "title": "Nigeria confirms Ebola case linked to East Africa",
-        "summary": "尼日利亚阿布贾确诊一例与东非相关的埃博拉病例，患者已隔离。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-21T04:39:34Z"
-      },
-      {
-        "id": "d881d48ab350a3e82b45",
-        "title": "Booking.com under investigation by EU regulators over fake listings and scams",
-        "summary": "欧盟监管机构调查Booking.com，指其虚假房源与诈骗防护严重不足。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
-        "publishedAt": "2026-10-21T07:01:24Z"
-      },
-      {
-        "id": "b04ffbe4f2302445235f",
-        "title": "Canada wants to expand its LNG business. Critics raise red flags",
-        "summary": "加拿大拟扩大LNG业务，批评者警示相关人权问题风险。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/longform/2026/10/21/canada-wants-to-expand-its-lng-business-critics-raise-red-flags-2?traffic_source=rss",
-        "publishedAt": "2026-10-21T07:52:46Z"
+        "id": "a7dab3ca0e8cc35ce282",
+        "title": "PHP developers say key patches available after global scare",
+        "summary": "PHP语言曝严重漏洞，多国政府机构预警并下线网站，开发者称须立即修补。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-21T08:56:00Z"
       }
     ]
   }
