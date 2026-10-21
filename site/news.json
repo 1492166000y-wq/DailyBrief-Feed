@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T07:36:02Z",
+  "generatedAt": "2026-10-21T13:45:34Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦国家数据集团成立、AI监管动向、经济数据与产业动态，台海议题亦有涉及。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "0b76c73a8e0b87b04673",
-        "title": "国家数据集团成立，有何标志性意义？",
-        "summary": "国家数据集团成立，标志数据要素市场化改革迈出关键一步，引发广泛关注。",
+        "id": "48b80bf106f3b9de2da9",
+        "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
+        "summary": "中办国办发文推动科技创新与产业创新深度融合，部署重点任务。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2511236",
+        "publishedAt": "2026-10-21T13:45:34Z"
+      },
+      {
+        "id": "9ebc8664be6d304babb8",
+        "title": "美以窃取商业秘密为由制裁5家中企，商务部：中方对此坚决反对",
+        "summary": "美以窃取商业秘密为由制裁5家中企，商务部表示坚决反对。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34291005",
-        "publishedAt": "2026-10-21T07:36:02Z"
-      },
-      {
-        "id": "abee4eb493ae1fc404f6",
-        "title": "“中国AI禁令”拟出台 震动全球",
-        "summary": "中国拟出台AI禁令的消息震动全球市场，监管动向引发产业链高度关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E2%80%9D%E6%8B%9F%E5%87%BA%E5%8F%B0+%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83",
-        "publishedAt": "2026-10-21T07:36:02Z"
-      },
-      {
-        "id": "790ee946fef4b4b0f1c2",
-        "title": "国际油价昨夜上演大逆转",
-        "summary": "国际油价昨夜上演大逆转，美伊妥协方案搅动市场，原油价格剧烈波动。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7698870180273307686/",
-        "publishedAt": "2026-10-21T07:36:02Z"
-      },
-      {
-        "id": "265eae17dc8a32cb225e",
-        "title": "三个维度看前三季度经济含金量",
-        "summary": "三个维度看前三季度经济含金量，宏观数据揭示经济运行韧性与结构变化。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E7%9C%8B%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%BB%8F%E6%B5%8E%E5%90%AB%E9%87%91%E9%87%8F",
-        "publishedAt": "2026-10-21T07:36:02Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34293468",
+        "publishedAt": "2026-10-21T13:45:34Z"
       },
       {
         "id": "f36908677bfe33b95cbe",
         "title": "国台办：将举办台湾光复纪念活动",
-        "summary": "国台办宣布将举办台湾光复纪念活动，强调共同铭记历史、维护国家统一。",
+        "summary": "国台办宣布将举办台湾光复纪念活动，强调两岸共同历史记忆。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xOmqsnatio",
-        "publishedAt": "2026-10-21T07:36:02Z"
+        "publishedAt": "2026-10-21T13:45:34Z"
       },
       {
-        "id": "ca29159bfe61a1d9d018",
-        "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
-        "summary": "工信部要求坚决防范不合理创新设计和未经充分测试验证的汽车产品进入市场。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34289607",
-        "publishedAt": "2026-10-21T07:36:02Z"
+        "id": "704aaa0c810586e2d1ce",
+        "title": "泽连斯基：愿保留75%领土控制权达协议",
+        "summary": "泽连斯基称愿保留75%领土控制权达成协议，乌方立场受关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8E%A7%E5%88%B6%E6%9D%83%E8%BE%BE%E5%8D%8F%E8%AE%AE",
+        "publishedAt": "2026-10-21T13:45:34Z"
       },
       {
         "id": "7c3c72ca5c7c8141f507",
         "title": "海南广电记者采访遭殴打、警方已介入，中国记协：呼吁涉事方正视问题配合调查",
-        "summary": "海南广电记者采访遭殴打，警方介入，中国记协呼吁涉事方正视问题配合调查。",
+        "summary": "海南广电记者采访遭殴打，警方介入，中国记协呼吁涉事方配合调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34293577",
-        "publishedAt": "2026-10-21T07:36:02Z"
+        "publishedAt": "2026-10-21T13:45:34Z"
       },
       {
-        "id": "35d5290bc99d6b44d685",
-        "title": "宁德时代前三季度营收同比增长56.2%，归母净利润增长31.6% | 财报见闻",
-        "summary": "宁德时代前三季度营收同比增长56.2%，归母净利润增长31.6%，业绩稳健。",
+        "id": "5385a903b2d060fb65f0",
+        "title": "14家银行叫停或限制个人异地存款",
+        "summary": "14家银行叫停或限制个人异地存款，中小银行揽储格局或调整。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE",
+        "publishedAt": "2026-10-21T13:45:34Z"
+      },
+      {
+        "id": "c93fcaa2ad332a2bb022",
+        "title": "500亿增持投向来了！中国国新三季度增持、新进个股揭晓",
+        "summary": "中国国新三季度500亿元增持投向揭晓，新进多只个股。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2510897",
+        "publishedAt": "2026-10-21T13:45:34Z"
+      },
+      {
+        "id": "25da5133a53cb50436ab",
+        "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
+        "summary": "SpaceX三季度AI业务收入暴增830%，利润超预期，资本支出近200亿。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784039",
-        "publishedAt": "2026-10-21T07:36:02Z"
+        "url": "https://wallstreetcn.com/articles/3784066",
+        "publishedAt": "2026-10-21T13:45:34Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注法国骚乱后续、美俄乌谈判进展、SpaceX与特斯拉合并传闻及英国财政赤字。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "312ce87fd06093db1548",
-        "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-        "summary": "法国骚乱后社会分歧加剧，各方对责任归属与教训反思争论不休。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-20T22:50:40Z"
-      },
-      {
-        "id": "5c12f17b129b4fc6b626",
-        "title": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
-        "summary": "美国特使与泽连斯基会谈后称积极，随即赴俄与普京磋商结束乌克兰战争。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-20T22:46:00Z"
-      },
-      {
-        "id": "ec705b671871fa5cd569",
-        "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
-        "summary": "英国政府借款升至245亿英镑，债务利息创九月纪录，财政压力加大。",
+        "id": "6f77d3969a3bbe289d6f",
+        "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
+        "summary": "普京会见美特使期间释放被押美国教师，特朗普称无需交换条件。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
-        "publishedAt": "2026-10-20T22:48:00Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+        "publishedAt": "2026-10-21T05:14:30Z"
+      },
+      {
+        "id": "03f6c4bc757cee247b5f",
+        "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+        "summary": "印度选民名册大规模修订，约1.3亿人被除名，引发政治危机。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
+        "publishedAt": "2026-10-21T00:42:10Z"
+      },
+      {
+        "id": "4f847b15844cfe84d0cd",
+        "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
+        "summary": "法国十年期国债收益率破5%创24年新高，骚乱与预算僵局冲击市场。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
+        "publishedAt": "2026-10-21T05:17:32Z"
+      },
+      {
+        "id": "d1ae1e954c136fab448f",
+        "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
+        "summary": "澳议员海恩斯遭车辆冲撞双腿截肢，嫌疑人出庭被控多项罪名。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
+        "publishedAt": "2026-10-21T00:34:37Z"
+      },
+      {
+        "id": "b28ac67f614868e331ae",
+        "title": "Nigeria confirms Ebola case linked to East Africa",
+        "summary": "尼日利亚阿布贾确诊首例埃博拉病例，患者已隔离，来源待查。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T04:39:34Z"
+      },
+      {
+        "id": "2064bf0a6b7cbebd9db1",
+        "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+        "summary": "苏丹与南苏丹争议边境地区遭无人机袭击，至少153人死亡。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
+        "publishedAt": "2026-10-21T00:25:45Z"
+      },
+      {
+        "id": "a432e93c6a7557b44a91",
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "summary": "印度eMudhra证书机构密钥被曝数毫秒内破解，网络安全风险引忧。",
+        "source": "Hacker News",
+        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "publishedAt": "2026-10-21T01:08:08Z"
       },
       {
         "id": "4a3299b79e3daae5ccdf",
         "title": "Elon Musk confirms talks to merge Tesla and SpaceX",
-        "summary": "马斯克确认特斯拉与SpaceX正探讨合并，双方已成立特别委员会评估。",
+        "summary": "马斯克确认特斯拉与SpaceX正探讨合并，已设委员会评估。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-20T21:48:46Z"
-      },
-      {
-        "id": "982519a54f4d7b58b6f3",
-        "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
-        "summary": "法国宣布巴黎等城市中心实施夜间宵禁，称将持续必要时长以恢复秩序。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
-        "publishedAt": "2026-10-20T21:37:28Z"
-      },
-      {
-        "id": "0caec8c9edc63a41ccdb",
-        "title": "Nigeria records its first Ebola case, in capital Abuja",
-        "summary": "尼日利亚报告首例埃博拉病例，患者为从乌干达飞抵阿布贾的女性。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-20T11:08:00Z"
-      },
-      {
-        "id": "70e3a32cc8d8a29c82c1",
-        "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
-        "summary": "北约因俄袭击升级向黑海增派军事力量，多艘商船遇袭引发安全担忧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
-        "publishedAt": "2026-10-20T09:43:40Z"
-      },
-      {
-        "id": "8956cbe2b9cf2fe9388c",
-        "title": "Anthropic posts $80bn loss in first half of 2026: WSJ",
-        "summary": "Anthropic上半年亏损800亿美元，同比扩大，主因会计费用激增。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss",
-        "publishedAt": "2026-10-20T21:33:20Z"
       }
     ]
   }
