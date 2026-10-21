@@ -1,95 +1,119 @@
 {
   "version": 1,
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T00:36:55Z",
+  "generatedAt": "2026-10-21T07:36:02Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦国家数据集团成立与三季度经济成绩单，同时涉及医保跨省共济、工信部汽车安全新规及中美、中日关系动态。",
+    "overview": "国内聚焦国家数据集团成立、AI监管动向、经济数据与产业动态，台海议题亦有涉及。",
     "items": [
       {
         "id": "0b76c73a8e0b87b04673",
         "title": "国家数据集团成立，有何标志性意义？",
-        "summary": "国家数据集团成立，被视作数据要素市场化改革标志性事件。",
+        "summary": "国家数据集团成立，标志数据要素市场化改革迈出关键一步，引发广泛关注。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34291005",
-        "publishedAt": "2026-10-21T00:36:55Z"
+        "publishedAt": "2026-10-21T07:36:02Z"
       },
       {
-        "id": "0ec2fcc3dd0e1010eede",
-        "title": "前三季度中国经济“成绩单”来了",
-        "summary": "前三季度中国经济成绩单发布，多项宏观指标受到关注。",
+        "id": "abee4eb493ae1fc404f6",
+        "title": "“中国AI禁令”拟出台 震动全球",
+        "summary": "中国拟出台AI禁令的消息震动全球市场，监管动向引发产业链高度关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E2%80%9D%E6%8B%9F%E5%87%BA%E5%8F%B0+%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83",
+        "publishedAt": "2026-10-21T07:36:02Z"
+      },
+      {
+        "id": "790ee946fef4b4b0f1c2",
+        "title": "国际油价昨夜上演大逆转",
+        "summary": "国际油价昨夜上演大逆转，美伊妥协方案搅动市场，原油价格剧烈波动。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7697852837388533802/",
-        "publishedAt": "2026-10-21T00:36:55Z"
+        "url": "https://www.toutiao.com/trending/7698870180273307686/",
+        "publishedAt": "2026-10-21T07:36:02Z"
       },
       {
-        "id": "6f11fcf665f535e57cfc",
-        "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
-        "summary": "外交部回应特朗普对与中俄举行三方会谈态度积极。",
+        "id": "265eae17dc8a32cb225e",
+        "title": "三个维度看前三季度经济含金量",
+        "summary": "三个维度看前三季度经济含金量，宏观数据揭示经济运行韧性与结构变化。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E7%9C%8B%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%BB%8F%E6%B5%8E%E5%90%AB%E9%87%91%E9%87%8F",
+        "publishedAt": "2026-10-21T07:36:02Z"
+      },
+      {
+        "id": "f36908677bfe33b95cbe",
+        "title": "国台办：将举办台湾光复纪念活动",
+        "summary": "国台办宣布将举办台湾光复纪念活动，强调共同铭记历史、维护国家统一。",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
-        "publishedAt": "2026-10-21T00:36:55Z"
-      },
-      {
-        "id": "347f4cd430f54b719973",
-        "title": "医保个人账户跨省共济落地全国",
-        "summary": "医保个人账户跨省共济落地全国，提升家庭互助保障范围。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%B7%A8%E7%9C%81%E5%85%B1%E6%B5%8E%E8%90%BD%E5%9C%B0%E5%85%A8%E5%9B%BD%23",
-        "publishedAt": "2026-10-21T00:36:55Z"
+        "url": "https://news.ifeng.com/c/8xOmqsnatio",
+        "publishedAt": "2026-10-21T07:36:02Z"
       },
       {
         "id": "ca29159bfe61a1d9d018",
         "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
-        "summary": "工信部要求防范不合理创新设计与未经充分验证汽车产品入市。",
+        "summary": "工信部要求坚决防范不合理创新设计和未经充分测试验证的汽车产品进入市场。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34289607",
-        "publishedAt": "2026-10-21T00:36:55Z"
+        "publishedAt": "2026-10-21T07:36:02Z"
       },
       {
-        "id": "8251b632633c875519a6",
-        "title": "台退将：辽宁舰再赴西太是警告日本",
-        "summary": "台退将称辽宁舰再赴西太平洋是对日本的警告。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7698598904883413055/",
-        "publishedAt": "2026-10-21T00:36:55Z"
+        "id": "7c3c72ca5c7c8141f507",
+        "title": "海南广电记者采访遭殴打、警方已介入，中国记协：呼吁涉事方正视问题配合调查",
+        "summary": "海南广电记者采访遭殴打，警方介入，中国记协呼吁涉事方正视问题配合调查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34293577",
+        "publishedAt": "2026-10-21T07:36:02Z"
       },
       {
-        "id": "aef671e7bc5e070a8035",
-        "title": "【早报】国际油价，一夜“过山车”；SpaceX Q3 业绩超预期；宁德时代等三季报出炉",
-        "summary": "早报：国际油价剧烈震荡，SpaceX三季度超预期，宁德时代等财报出炉。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2510447",
-        "publishedAt": "2026-10-21T00:36:55Z"
-      },
-      {
-        "id": "b361034592240caeddf8",
-        "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
-        "summary": "沪指尾盘翻红，北证50大涨，人形机器人板块爆发，恒指下跌。",
+        "id": "35d5290bc99d6b44d685",
+        "title": "宁德时代前三季度营收同比增长56.2%，归母净利润增长31.6% | 财报见闻",
+        "summary": "宁德时代前三季度营收同比增长56.2%，归母净利润增长31.6%，业绩稳健。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3783987",
-        "publishedAt": "2026-10-21T00:36:55Z"
+        "url": "https://wallstreetcn.com/articles/3784039",
+        "publishedAt": "2026-10-21T07:36:02Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美乌关系因谈判与情报问题趋紧，法国骚乱后多地实施宵禁，尼日利亚确诊埃博拉病例，北约加强黑海部署，特朗普中期选举前大额投入。",
+    "overview": "国际关注法国骚乱后续、美俄乌谈判进展、SpaceX与特斯拉合并传闻及英国财政赤字。",
     "items": [
       {
-        "id": "a8466c3d0c8788958093",
-        "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-        "summary": "美乌关系趋紧，特朗普称泽连斯基应换人谈判，乌方指美拖延武器交付。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
-        "publishedAt": "2026-10-19T22:23:44Z"
+        "id": "312ce87fd06093db1548",
+        "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+        "summary": "法国骚乱后社会分歧加剧，各方对责任归属与教训反思争论不休。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-20T22:50:40Z"
       },
       {
-        "id": "40aa660b6e04a3c9779d",
-        "title": "France imposes partial curfews in several cities, including parts of Paris",
-        "summary": "法国骚乱后巴黎等多城实施部分宵禁，内政部长承认警方一度失控。",
+        "id": "5c12f17b129b4fc6b626",
+        "title": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
+        "summary": "美国特使与泽连斯基会谈后称积极，随即赴俄与普京磋商结束乌克兰战争。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-20T22:46:00Z"
+      },
+      {
+        "id": "ec705b671871fa5cd569",
+        "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
+        "summary": "英国政府借款升至245亿英镑，债务利息创九月纪录，财政压力加大。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-        "publishedAt": "2026-10-19T10:16:45Z"
+        "url": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
+        "publishedAt": "2026-10-20T22:48:00Z"
+      },
+      {
+        "id": "4a3299b79e3daae5ccdf",
+        "title": "Elon Musk confirms talks to merge Tesla and SpaceX",
+        "summary": "马斯克确认特斯拉与SpaceX正探讨合并，双方已成立特别委员会评估。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-20T21:48:46Z"
+      },
+      {
+        "id": "982519a54f4d7b58b6f3",
+        "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
+        "summary": "法国宣布巴黎等城市中心实施夜间宵禁，称将持续必要时长以恢复秩序。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
+        "publishedAt": "2026-10-20T21:37:28Z"
       },
       {
         "id": "0caec8c9edc63a41ccdb",
@@ -102,42 +126,18 @@
       {
         "id": "70e3a32cc8d8a29c82c1",
         "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
-        "summary": "北约因俄袭击升级向黑海增派军事力量，多艘商船遇袭。",
+        "summary": "北约因俄袭击升级向黑海增派军事力量，多艘商船遇袭引发安全担忧。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
         "publishedAt": "2026-10-20T09:43:40Z"
       },
       {
-        "id": "f39bc89e6af8f7d8fe6f",
-        "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-        "summary": "特朗普在中期选举前投入超4亿美元支持共和党候选人。",
+        "id": "8956cbe2b9cf2fe9388c",
+        "title": "Anthropic posts $80bn loss in first half of 2026: WSJ",
+        "summary": "Anthropic上半年亏损800亿美元，同比扩大，主因会计费用激增。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-        "publishedAt": "2026-10-20T13:27:38Z"
-      },
-      {
-        "id": "be27f0ec7bccbea65991",
-        "title": "Japan probe sets course for Mars moon",
-        "summary": "日本发射MMX探测器前往火星卫星火卫一采样，探索太阳系形成。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-19T23:16:00Z"
-      },
-      {
-        "id": "9fc7a8a4bea302ba8208",
-        "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
-        "summary": "泽连斯基称美国已恢复与乌克兰共享俄导弹袭击情报。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
-        "publishedAt": "2026-10-20T11:32:28Z"
-      },
-      {
-        "id": "1f3ee06c72ee03e7975d",
-        "title": "Helen Haines live updates: Brendan Nugent doesn’t apply for bail in first court appearance since alleged attack",
-        "summary": "Independent MP’s condition remains critical on Wednesday after surgery to save h",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
-        "publishedAt": "2026-10-20T16:34:21Z"
+        "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss",
+        "publishedAt": "2026-10-20T21:33:20Z"
       }
     ]
   }
