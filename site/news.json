@@ -1,95 +1,87 @@
 {
   "version": 1,
   "date": "2026-10-21",
-  "generatedAt": "2026-10-20T21:35:30Z",
+  "generatedAt": "2026-10-21T00:36:55Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内聚焦数据要素市场化改革与半导体产业复苏，同时关注中日关系、中美互动及汽车安全新规等政策动向。",
+    "overview": "今日国内要闻聚焦国家数据集团成立与三季度经济成绩单，同时涉及医保跨省共济、工信部汽车安全新规及中美、中日关系动态。",
     "items": [
       {
         "id": "0b76c73a8e0b87b04673",
         "title": "国家数据集团成立，有何标志性意义？",
-        "summary": "国家数据集团正式成立，标志着数据要素市场化改革迈出关键一步。",
+        "summary": "国家数据集团成立，被视作数据要素市场化改革标志性事件。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34291005",
-        "publishedAt": "2026-10-20T21:35:30Z"
-      },
-      {
-        "id": "b01aa024f0997f493fd5",
-        "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
-        "summary": "半导体行业业绩亮眼，多家龙头净利倍增，AI需求成主要增长动力。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2510147",
-        "publishedAt": "2026-10-20T21:35:30Z"
-      },
-      {
-        "id": "6f11fcf665f535e57cfc",
-        "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
-        "summary": "外交部就特朗普积极表态举行中俄美三方会谈一事作出回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
-        "publishedAt": "2026-10-20T21:35:30Z"
-      },
-      {
-        "id": "2600a721b9ba7f740ce0",
-        "title": "工信部：禁止车辆行驶时用零重力座椅",
-        "summary": "工信部拟规定禁止车辆行驶时使用零重力座椅，以提升行车安全。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7698667807361319433/",
-        "publishedAt": "2026-10-20T21:35:30Z"
-      },
-      {
-        "id": "f2cb12291a4eabe57fb2",
-        "title": "媒体：身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定",
-        "summary": "身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34286371",
-        "publishedAt": "2026-10-20T21:35:30Z"
+        "publishedAt": "2026-10-21T00:36:55Z"
       },
       {
         "id": "0ec2fcc3dd0e1010eede",
         "title": "前三季度中国经济“成绩单”来了",
-        "summary": "前三季度中国经济成绩单发布，主要指标显示经济持续恢复。",
+        "summary": "前三季度中国经济成绩单发布，多项宏观指标受到关注。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7697852837388533802/",
-        "publishedAt": "2026-10-20T21:35:30Z"
+        "publishedAt": "2026-10-21T00:36:55Z"
       },
       {
-        "id": "04d4ec325bb906cca625",
-        "title": "菲媒：若驱逐中国大使中方必对等回应",
-        "summary": "菲媒警告若驱逐中国大使，中方必将采取对等回应措施。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%AA%92%EF%BC%9A%E8%8B%A5%E9%A9%B1%E9%80%90%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%B8%AD%E6%96%B9%E5%BF%85%E5%AF%B9%E7%AD%89%E5%9B%9E%E5%BA%94",
-        "publishedAt": "2026-10-20T21:35:30Z"
+        "id": "6f11fcf665f535e57cfc",
+        "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+        "summary": "外交部回应特朗普对与中俄举行三方会谈态度积极。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
+        "publishedAt": "2026-10-21T00:36:55Z"
       },
       {
-        "id": "b903b824219e6b815241",
-        "title": "国家癌症中心公布发病前五癌症",
-        "summary": "国家癌症中心公布发病前五癌症，为癌症防治提供数据参考。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87",
-        "publishedAt": "2026-10-20T21:35:30Z"
+        "id": "347f4cd430f54b719973",
+        "title": "医保个人账户跨省共济落地全国",
+        "summary": "医保个人账户跨省共济落地全国，提升家庭互助保障范围。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%B7%A8%E7%9C%81%E5%85%B1%E6%B5%8E%E8%90%BD%E5%9C%B0%E5%85%A8%E5%9B%BD%23",
+        "publishedAt": "2026-10-21T00:36:55Z"
+      },
+      {
+        "id": "ca29159bfe61a1d9d018",
+        "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
+        "summary": "工信部要求防范不合理创新设计与未经充分验证汽车产品入市。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34289607",
+        "publishedAt": "2026-10-21T00:36:55Z"
+      },
+      {
+        "id": "8251b632633c875519a6",
+        "title": "台退将：辽宁舰再赴西太是警告日本",
+        "summary": "台退将称辽宁舰再赴西太平洋是对日本的警告。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7698598904883413055/",
+        "publishedAt": "2026-10-21T00:36:55Z"
+      },
+      {
+        "id": "aef671e7bc5e070a8035",
+        "title": "【早报】国际油价，一夜“过山车”；SpaceX Q3 业绩超预期；宁德时代等三季报出炉",
+        "summary": "早报：国际油价剧烈震荡，SpaceX三季度超预期，宁德时代等财报出炉。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2510447",
+        "publishedAt": "2026-10-21T00:36:55Z"
+      },
+      {
+        "id": "b361034592240caeddf8",
+        "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
+        "summary": "沪指尾盘翻红，北证50大涨，人形机器人板块爆发，恒指下跌。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3783987",
+        "publishedAt": "2026-10-21T00:36:55Z"
       }
     ]
   },
   "global": {
-    "overview": "全球方面，美乌关系因情报共享与谈判分歧出现波动，法国骚乱持续发酵，非洲埃博拉疫情扩散引发关注。",
+    "overview": "国际方面，美乌关系因谈判与情报问题趋紧，法国骚乱后多地实施宵禁，尼日利亚确诊埃博拉病例，北约加强黑海部署，特朗普中期选举前大额投入。",
     "items": [
       {
-        "id": "9fc7a8a4bea302ba8208",
-        "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
-        "summary": "泽连斯基称美国已恢复与乌克兰共享俄导弹袭击情报。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
-        "publishedAt": "2026-10-20T11:32:28Z"
-      },
-      {
-        "id": "f0a84da6e1c6f12b5474",
-        "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-        "summary": "意大利向米兰部署500名军人，以应对连日抗议和抢劫事件。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-        "publishedAt": "2026-10-20T08:13:25Z"
+        "id": "a8466c3d0c8788958093",
+        "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+        "summary": "美乌关系趋紧，特朗普称泽连斯基应换人谈判，乌方指美拖延武器交付。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
+        "publishedAt": "2026-10-19T22:23:44Z"
       },
       {
         "id": "40aa660b6e04a3c9779d",
@@ -100,22 +92,6 @@
         "publishedAt": "2026-10-19T10:16:45Z"
       },
       {
-        "id": "a8ce5ec552a81e596ad3",
-        "title": "Alberta voters reject plan for referendum to leave Canada",
-        "summary": "加拿大阿尔伯塔省选民否决分离公投，卡尼称国家统一获重大胜利。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-        "publishedAt": "2026-10-20T08:24:05Z"
-      },
-      {
-        "id": "a8466c3d0c8788958093",
-        "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-        "summary": "美乌关系趋紧，特朗普称泽连斯基应换人谈判，乌方指美拖延武器交付。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
-        "publishedAt": "2026-10-19T22:23:44Z"
-      },
-      {
         "id": "0caec8c9edc63a41ccdb",
         "title": "Nigeria records its first Ebola case, in capital Abuja",
         "summary": "尼日利亚报告首例埃博拉病例，患者为从乌干达飞抵阿布贾的女性。",
@@ -124,12 +100,20 @@
         "publishedAt": "2026-10-20T11:08:00Z"
       },
       {
-        "id": "22b8012801d153a1148e",
-        "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
-        "summary": "特朗普调整对俄姿态以寻求结束乌克兰战争，能源与选举压力成推手。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
-        "publishedAt": "2026-10-20T03:03:52Z"
+        "id": "70e3a32cc8d8a29c82c1",
+        "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+        "summary": "北约因俄袭击升级向黑海增派军事力量，多艘商船遇袭。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+        "publishedAt": "2026-10-20T09:43:40Z"
+      },
+      {
+        "id": "f39bc89e6af8f7d8fe6f",
+        "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+        "summary": "特朗普在中期选举前投入超4亿美元支持共和党候选人。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+        "publishedAt": "2026-10-20T13:27:38Z"
       },
       {
         "id": "be27f0ec7bccbea65991",
@@ -138,6 +122,22 @@
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-19T23:16:00Z"
+      },
+      {
+        "id": "9fc7a8a4bea302ba8208",
+        "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+        "summary": "泽连斯基称美国已恢复与乌克兰共享俄导弹袭击情报。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+        "publishedAt": "2026-10-20T11:32:28Z"
+      },
+      {
+        "id": "1f3ee06c72ee03e7975d",
+        "title": "Helen Haines live updates: Brendan Nugent doesn’t apply for bail in first court appearance since alleged attack",
+        "summary": "Independent MP’s condition remains critical on Wednesday after surgery to save h",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
+        "publishedAt": "2026-10-20T16:34:21Z"
       }
     ]
   }
