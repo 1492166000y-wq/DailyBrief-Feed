@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T13:45:34Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-21T18:36:32Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "今日国内舆论聚焦中办国办发布科技创新与产业融合意见、半导体三季报业绩大增及SpaceX与特斯拉合并动向；星巴克消费入座、红果下线金币功能等商业调整受关注；宁德时代单日重挫拖累A股。",
     "items": [
       {
         "id": "48b80bf106f3b9de2da9",
         "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
-        "summary": "中办国办发文推动科技创新与产业创新深度融合，部署重点任务。",
+        "summary": "中办国办发文推动科技创新与产业创新深度融合，明确重点任务与政策安排。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2511236",
-        "publishedAt": "2026-10-21T13:45:34Z"
+        "publishedAt": "2026-10-21T18:36:32Z"
       },
       {
-        "id": "9ebc8664be6d304babb8",
-        "title": "美以窃取商业秘密为由制裁5家中企，商务部：中方对此坚决反对",
-        "summary": "美以窃取商业秘密为由制裁5家中企，商务部表示坚决反对。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34293468",
-        "publishedAt": "2026-10-21T13:45:34Z"
-      },
-      {
-        "id": "f36908677bfe33b95cbe",
-        "title": "国台办：将举办台湾光复纪念活动",
-        "summary": "国台办宣布将举办台湾光复纪念活动，强调两岸共同历史记忆。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xOmqsnatio",
-        "publishedAt": "2026-10-21T13:45:34Z"
-      },
-      {
-        "id": "704aaa0c810586e2d1ce",
-        "title": "泽连斯基：愿保留75%领土控制权达协议",
-        "summary": "泽连斯基称愿保留75%领土控制权达成协议，乌方立场受关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8E%A7%E5%88%B6%E6%9D%83%E8%BE%BE%E5%8D%8F%E8%AE%AE",
-        "publishedAt": "2026-10-21T13:45:34Z"
-      },
-      {
-        "id": "7c3c72ca5c7c8141f507",
-        "title": "海南广电记者采访遭殴打、警方已介入，中国记协：呼吁涉事方正视问题配合调查",
-        "summary": "海南广电记者采访遭殴打，警方介入，中国记协呼吁涉事方配合调查。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34293577",
-        "publishedAt": "2026-10-21T13:45:34Z"
-      },
-      {
-        "id": "5385a903b2d060fb65f0",
-        "title": "14家银行叫停或限制个人异地存款",
-        "summary": "14家银行叫停或限制个人异地存款，中小银行揽储格局或调整。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE",
-        "publishedAt": "2026-10-21T13:45:34Z"
-      },
-      {
-        "id": "c93fcaa2ad332a2bb022",
-        "title": "500亿增持投向来了！中国国新三季度增持、新进个股揭晓",
-        "summary": "中国国新三季度500亿元增持投向揭晓，新进多只个股。",
+        "id": "fc94771e38ca67d1dc72",
+        "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
+        "summary": "半导体产业链三季报亮眼，20家公司净利翻倍，最高预增超30倍。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2510897",
-        "publishedAt": "2026-10-21T13:45:34Z"
+        "url": "https://www.cls.cn/detail/2511081",
+        "publishedAt": "2026-10-21T18:36:32Z"
+      },
+      {
+        "id": "1be881a7195e38ccf540",
+        "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
+        "summary": "SpaceX称马斯克预期明年ARR上看1万亿，已设委员会探索与特斯拉合并。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784071",
+        "publishedAt": "2026-10-21T18:36:32Z"
       },
       {
         "id": "25da5133a53cb50436ab",
         "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
-        "summary": "SpaceX三季度AI业务收入暴增830%，利润超预期，资本支出近200亿。",
+        "summary": "SpaceX三季度AI业务收入暴增830%，利润超预期，资本支出近200亿美元。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784066",
-        "publishedAt": "2026-10-21T13:45:34Z"
+        "publishedAt": "2026-10-21T18:36:32Z"
+      },
+      {
+        "id": "b7ca7edc75638a3e420a",
+        "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+        "summary": "黄仁勋在GTC柏林称AI工厂部署最快缩至14天，智能体与物理AI加速落地。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2511348",
+        "publishedAt": "2026-10-21T18:36:32Z"
+      },
+      {
+        "id": "a897419c1ae3f4f00e0a",
+        "title": "星巴克中国：10月22日起将在全国开始施行消费入座，会遵循友好、友善的沟通原则",
+        "summary": "星巴克中国宣布10月22日起全国施行消费入座，称将友好沟通。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34297764",
+        "publishedAt": "2026-10-21T18:36:32Z"
+      },
+      {
+        "id": "da5bd5fdd4440a001a74",
+        "title": "红果短剧：预计自2026年11月1日起，不再向新用户提供金币功能；2026年12月底前，全面下线金币功能",
+        "summary": "红果短剧宣布11月起停止向新用户发金币，年底前全面下线该功能。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2511111",
+        "publishedAt": "2026-10-21T18:36:32Z"
+      },
+      {
+        "id": "8ebb0f37f6d2ccae91c4",
+        "title": "日本关键稀土元素储备即将耗尽，外交部：中方依法依规对日实施出口管制",
+        "summary": "日本关键稀土储备将耗尽，外交部称中方依法依规对日实施出口管制。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34299680",
+        "publishedAt": "2026-10-21T18:36:32Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际方面，特朗普与普京特使会晤后俄方释放美国公民并称愿恢复三方谈判，乌克兰局势与美对乌立场持续发酵；法国骚乱推高国债收益率，欧洲政经风险升温；印度选民名册大规模除名、尼日利亚确诊埃博拉病例及Meta巨额罚单亦受关注。",
     "items": [
       {
-        "id": "6f77d3969a3bbe289d6f",
-        "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
-        "summary": "普京会见美特使期间释放被押美国教师，特朗普称无需交换条件。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-        "publishedAt": "2026-10-21T05:14:30Z"
+        "id": "b9f08b055b606b3d7af6",
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "summary": "俄方称准备重启与乌克兰及美国的三方谈判以结束战争。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T09:42:34Z"
       },
       {
-        "id": "03f6c4bc757cee247b5f",
-        "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
-        "summary": "印度选民名册大规模修订，约1.3亿人被除名，引发政治危机。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
-        "publishedAt": "2026-10-21T00:42:10Z"
+        "id": "a0b141d44096cb0b2bb6",
+        "title": "Russia releases American Stephen Hubbard after four years in prison",
+        "summary": "俄方在普京会见美特使期间释放服刑四年的美国人哈伯德。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
+        "publishedAt": "2026-10-21T06:31:53Z"
       },
       {
         "id": "4f847b15844cfe84d0cd",
         "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
-        "summary": "法国十年期国债收益率破5%创24年新高，骚乱与预算僵局冲击市场。",
+        "summary": "法国骚乱与预算僵局冲击市场，十年期国债收益率创24年新高。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
         "publishedAt": "2026-10-21T05:17:32Z"
       },
       {
-        "id": "d1ae1e954c136fab448f",
-        "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
-        "summary": "澳议员海恩斯遭车辆冲撞双腿截肢，嫌疑人出庭被控多项罪名。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
-        "publishedAt": "2026-10-21T00:34:37Z"
+        "id": "03f6c4bc757cee247b5f",
+        "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+        "summary": "印度选民名册大规模修订，约1.3亿人被除名，引发政治争议。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
+        "publishedAt": "2026-10-21T00:42:10Z"
+      },
+      {
+        "id": "98cb7c8a0c0b2731fd8c",
+        "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+        "summary": "Meta因剑桥分析相关案件被新墨西哥州判罚250亿美元。",
+        "source": "Hacker News",
+        "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+        "publishedAt": "2026-10-21T09:45:13Z"
       },
       {
         "id": "b28ac67f614868e331ae",
         "title": "Nigeria confirms Ebola case linked to East Africa",
-        "summary": "尼日利亚阿布贾确诊首例埃博拉病例，患者已隔离，来源待查。",
+        "summary": "尼日利亚阿布贾确诊一例与东非相关的埃博拉病例，患者已隔离。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-21T04:39:34Z"
       },
       {
-        "id": "2064bf0a6b7cbebd9db1",
-        "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-        "summary": "苏丹与南苏丹争议边境地区遭无人机袭击，至少153人死亡。",
+        "id": "d881d48ab350a3e82b45",
+        "title": "Booking.com under investigation by EU regulators over fake listings and scams",
+        "summary": "欧盟监管机构调查Booking.com，指其虚假房源与诈骗防护严重不足。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
+        "publishedAt": "2026-10-21T07:01:24Z"
+      },
+      {
+        "id": "b04ffbe4f2302445235f",
+        "title": "Canada wants to expand its LNG business. Critics raise red flags",
+        "summary": "加拿大拟扩大LNG业务，批评者警示相关人权问题风险。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
-        "publishedAt": "2026-10-21T00:25:45Z"
-      },
-      {
-        "id": "a432e93c6a7557b44a91",
-        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-        "summary": "印度eMudhra证书机构密钥被曝数毫秒内破解，网络安全风险引忧。",
-        "source": "Hacker News",
-        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-        "publishedAt": "2026-10-21T01:08:08Z"
-      },
-      {
-        "id": "4a3299b79e3daae5ccdf",
-        "title": "Elon Musk confirms talks to merge Tesla and SpaceX",
-        "summary": "马斯克确认特斯拉与SpaceX正探讨合并，已设委员会评估。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-20T21:48:46Z"
+        "url": "https://www.aljazeera.com/economy/longform/2026/10/21/canada-wants-to-expand-its-lng-business-critics-raise-red-flags-2?traffic_source=rss",
+        "publishedAt": "2026-10-21T07:52:46Z"
       }
     ]
   }
