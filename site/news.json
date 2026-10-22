@@ -1,95 +1,95 @@
 {
   "version": 1,
   "date": "2026-10-23",
-  "generatedAt": "2026-10-22T17:08:20Z",
+  "generatedAt": "2026-10-22T21:33:24Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，西藏那曲发生7.0级地震，习近平出席长征胜利90周年大会并发表讲话；A股大幅回调、AI交易与算力产业链承压，同时AI发现PHP严重漏洞引发全球网络安全担忧。",
+    "overview": "国内焦点集中在西藏那曲7.0级地震及习近平出席长征胜利90周年大会，同时涵盖夏林茂被查、AI算力与股市波动等重要动态。",
     "items": [
-      {
-        "id": "9f50450712c114f72ee8",
-        "title": "西藏那曲巴青县发生7.0级地震",
-        "summary": "西藏那曲巴青县发生7.0级地震，为震中近5年最大地震，居民紧急室外避险。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7699503642620988966/",
-        "publishedAt": "2026-10-22T17:08:20Z"
-      },
       {
         "id": "1d1abd09f7bfe1adedbe",
         "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
-        "summary": "习近平出席纪念红军长征胜利90周年大会并发表重要讲话，各大报集中刊发社论。",
+        "summary": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34307574",
-        "publishedAt": "2026-10-22T17:08:20Z"
+        "publishedAt": "2026-10-22T21:33:24Z"
       },
       {
-        "id": "88a7215221f0307a369e",
-        "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
-        "summary": "A股大幅调整，创业板跌超4%失守2600点，算力硬件重挫，工行建行逆势创新高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784171",
-        "publishedAt": "2026-10-22T17:08:20Z"
+        "id": "9f50450712c114f72ee8",
+        "title": "西藏那曲巴青县发生7.0级地震",
+        "summary": "西藏那曲巴青县发生7.0级地震，各方关注震情与救援进展。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7699503642620988966/",
+        "publishedAt": "2026-10-22T21:33:24Z"
       },
       {
-        "id": "84f3d64cae04f0dabcce",
-        "title": "【焦点复盘】沪指失守3700点再创年内新低，“易中天”三巨头均跌超8%，工行、建行逆势创历史新高",
-        "summary": "沪指失守3700点创年内新低，全市场近5000股下跌，“易中天”三巨头均跌超8%。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2512417",
-        "publishedAt": "2026-10-22T17:08:20Z"
-      },
-      {
-        "id": "7c6df032566c856ff5fe",
-        "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
-        "summary": "AI发现PHP严重漏洞，全球约75%至70%网站受威胁，欧洲多国政府网站紧急下线。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784140",
-        "publishedAt": "2026-10-22T17:08:20Z"
+        "id": "34b7c1ef3be666d78bef",
+        "title": "北京市委常委、副市长夏林茂被查",
+        "summary": "北京市委常委、副市长夏林茂被查，北京市委表态坚决拥护党中央决定。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34308652",
+        "publishedAt": "2026-10-22T21:33:24Z"
       },
       {
         "id": "58b0f034ad99fdd7e7eb",
         "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
-        "summary": "黄仁勋称AI算力需求极其旺盛，但资本短缺制约“新云”扩张，行业扩张受限。",
+        "summary": "黄仁勋称AI算力需求极其旺盛，但资本短缺制约“新云”扩张。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2512629",
-        "publishedAt": "2026-10-22T17:08:20Z"
+        "publishedAt": "2026-10-22T21:33:24Z"
       },
       {
-        "id": "5e7a58e464fd116dd42a",
-        "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
-        "summary": "AI交易熄火叠加中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%。",
+        "id": "16660dad1aae5face744",
+        "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%",
+        "summary": "AI交易熄火叠加中东局势恶化，美股跌幅扩大，费城半导体跌超6%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784189",
-        "publishedAt": "2026-10-22T17:08:20Z"
+        "publishedAt": "2026-10-22T21:33:24Z"
       },
       {
-        "id": "c7cf4b693f645cdb7c4a",
-        "title": "北京市委就夏林茂被查表态",
-        "summary": "北京市委就夏林茂被查表态，表示坚决拥护党中央决定，相关审查调查进行中。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7699467341230329394/",
-        "publishedAt": "2026-10-22T17:08:20Z"
+        "id": "b3211b00401bd5589103",
+        "title": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞",
+        "summary": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34310385",
+        "publishedAt": "2026-10-22T21:33:24Z"
+      },
+      {
+        "id": "f95ec221ddbd3dea8f6e",
+        "title": "欧盟“外长”声称不要让俄中主导北极航线，外交部回应",
+        "summary": "欧盟“外长”称不要让俄中主导北极航线，外交部就此作出回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xQnPFm9g1W",
+        "publishedAt": "2026-10-22T21:33:24Z"
+      },
+      {
+        "id": "9c097dd187e614561b9d",
+        "title": "乌外长会见中国大使：感谢中方",
+        "summary": "乌克兰外长会见中国大使，感谢中方相关立场与努力。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8xQpNizLtCq",
+        "publishedAt": "2026-10-22T21:33:24Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美以被曝计划中期选举后对伊朗动武、沙特遇袭推高油价；法国骚乱后马克龙限制抗议，俄乌在恢复谈判之际冲突升级。",
+    "overview": "国际方面，美以或计划中期选举后袭击伊朗、俄乌谈判与能源设施遭袭、油价飙升及欧洲骚乱成为主要看点。",
     "items": [
       {
         "id": "b8423b877102cbb5a01b",
         "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
-        "summary": "消息称美以计划在美国中期选举后对伊朗发动可能袭击，伊朗表示已做好准备。",
+        "summary": "消息称美以计划在中期选举后对伊朗发动可能袭击，伊朗称已做好准备。",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
         "publishedAt": "2026-10-22T00:56:58Z"
       },
       {
-        "id": "b83e6eeffd94ba6615cf",
-        "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
-        "summary": "胡塞武装袭击沙特，美国下令部分外交官及家属撤离，海湾紧张局势升级。",
+        "id": "0f0a92b29c61c170dc37",
+        "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+        "summary": "俄罗斯同意恢复谈判数小时后以导弹袭击基辅，被指意在摧毁能源设施。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
-        "publishedAt": "2026-10-22T05:05:30Z"
+        "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+        "publishedAt": "2026-10-22T07:46:56Z"
       },
       {
         "id": "5f0c95a1aac6aadcf770",
@@ -100,44 +100,44 @@
         "publishedAt": "2026-10-22T03:28:11Z"
       },
       {
-        "id": "0f0a92b29c61c170dc37",
-        "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-        "summary": "俄罗斯在同意恢复谈判数小时后以导弹大规模袭击基辅，被指意在摧毁能源设施。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-        "publishedAt": "2026-10-22T07:46:56Z"
+        "id": "bc28c344582c1621b09b",
+        "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
+        "summary": "马克龙称将禁止“非法”抗议，法国骚乱持续，多地已全面禁示威。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-22T08:28:00Z"
       },
       {
-        "id": "b8eeca8c671bea41209c",
-        "title": "Macron bans ‘illegitimate‘ protests in France as he tries to get a grip on unrest",
-        "summary": "马克龙称将禁止“非法”抗议，里昂、尼斯等城市已全面禁示威，法国骚乱持续。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
-        "publishedAt": "2026-10-22T07:54:13Z"
+        "id": "f1074bcd7b04f54903c8",
+        "title": "US-sanctioned ICC wins top EU human rights award",
+        "summary": "欧盟将最高人权奖授予遭美国制裁的国际刑事法院。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
+        "publishedAt": "2026-10-22T09:46:03Z"
       },
       {
-        "id": "daecf457484228b4a395",
-        "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-        "summary": "卢拉指对手涉嫌受Meta干预应取消资格，Meta否认偏袒，巴西选前争议升级。",
+        "id": "bb5fd81a0bc8a701de2a",
+        "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+        "summary": "世卫组织警告埃博拉疫情更趋复杂，已在三个非洲国家出现。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
+        "publishedAt": "2026-10-22T11:31:27Z"
+      },
+      {
+        "id": "5f061edcc67b95140fb2",
+        "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
+        "summary": "IUCN警告全球96%的浅水珊瑚礁面临崩溃风险，气候变化是最大威胁。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-22T10:18:00Z"
+      },
+      {
+        "id": "93b005f9436f8d565b65",
+        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+        "summary": "德国总理默茨称德国遭“密集”间谍活动，此前一名疑似俄间谍被捕。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T09:01:47Z"
-      },
-      {
-        "id": "a8b80b5b47331f07b3e1",
-        "title": "Shamonda virus detected in human for first time in France",
-        "summary": "法国首次在人类身上检出沙蒙达病毒，患者已死亡，当局称公众风险低。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
-        "publishedAt": "2026-10-22T07:07:01Z"
-      },
-      {
-        "id": "02e7db42aa3e44ab1a7d",
-        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-        "summary": "特朗普因BBC《全景》节目剪辑其演讲被诉，法院令其宣誓接受质询。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T09:02:33Z"
+        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-22T09:07:03Z"
       }
     ]
   }
