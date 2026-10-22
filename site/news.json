@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T04:40:23Z",
+  "generatedAt": "2026-10-22T11:48:16Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内要闻聚焦长征胜利90周年纪念、北京市委常委夏林茂被查、A股创年内新低、物理AI与机器人产业进展，以及PHP漏洞引发的网络安全事件。",
     "items": [
       {
-        "id": "d835b40705be32999a50",
-        "title": "马上评丨挡得住张凌赫赴台，挡不住两岸年轻人情感相连",
-        "summary": "台风“麦德姆”在广东徐闻登陆，粤桂琼等地紧急转移安置群众。",
+        "id": "1d1abd09f7bfe1adedbe",
+        "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
+        "summary": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34298844",
-        "publishedAt": "2026-10-22T04:40:23Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34307574",
+        "publishedAt": "2026-10-22T11:48:16Z"
       },
       {
-        "id": "c6923cbdc8a59ae006e9",
-        "title": "菲律宾对其非法“坐滩”仁爱礁船只运送生活物资，中国海警发声",
-        "summary": "市场监管总局就智能网联汽车辅助驾驶安全新规公开征求意见。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34301991",
-        "publishedAt": "2026-10-22T04:40:23Z"
-      },
-      {
-        "id": "3a26a70e8b2e96b0c531",
-        "title": "体检查出这6种病基本不用治",
-        "summary": "互联网平台涉税信息首次集中报送，强化平台经济税收监管。",
+        "id": "04acfd214625280b4df6",
+        "title": "北京市副市长夏林茂被查",
+        "summary": "北京市副市长夏林茂被查，系北京市委常委，引发关注。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BD%93%E6%A3%80%E6%9F%A5%E5%87%BA%E8%BF%996%E7%A7%8D%E7%97%85%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%94%A8%E6%B2%BB",
-        "publishedAt": "2026-10-22T04:40:23Z"
+        "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E5%A4%8F%E6%9E%97%E8%8C%82%E8%A2%AB%E6%9F%A5",
+        "publishedAt": "2026-10-22T11:48:16Z"
       },
       {
-        "id": "e2c641c533d3776c767b",
-        "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
-        "summary": "国庆中秋假期消费数据发布，文旅与餐饮明显回暖。",
+        "id": "54aa49e53bdfef0e6284",
+        "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
+        "summary": "物理AI进入爆发前夜，王兴兴、黄仁勋齐发声，机器人成重要落地场景。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2511640",
-        "publishedAt": "2026-10-22T04:40:23Z"
+        "url": "https://www.cls.cn/detail/2511957",
+        "publishedAt": "2026-10-22T11:48:16Z"
       },
       {
-        "id": "b4c077f1e1753af2b4fb",
-        "title": "杭州大二学生开一人公司营收破60万",
-        "summary": "国家统计局：9月制造业PMI回升至荣枯线上方，经济景气改善。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7699292163918020635/",
-        "publishedAt": "2026-10-22T04:40:23Z"
+        "id": "5814f321e9d9c75666c7",
+        "title": "全球七成网站面临威胁！PHP致命漏洞肆虐 多国企业连夜“下线”",
+        "summary": "PHP致命漏洞肆虐，全球七成网站面临威胁，多国企业连夜下线。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2512099",
+        "publishedAt": "2026-10-22T11:48:16Z"
       },
       {
-        "id": "79dc5d02ba7268ca9557",
-        "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
-        "summary": "多地优化住房公积金政策，支持刚性和改善性住房需求。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784141",
-        "publishedAt": "2026-10-22T04:40:23Z"
-      },
-      {
-        "id": "8ebb0f37f6d2ccae91c4",
-        "title": "日本关键稀土元素储备即将耗尽，外交部：中方依法依规对日实施出口管制",
-        "summary": "国常会部署新一轮稳外贸举措，加力支持跨境电商发展。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34299680",
-        "publishedAt": "2026-10-22T04:40:23Z"
+        "id": "074d29d9c35b34ce8e58",
+        "title": "专家谈A股创年内新低",
+        "summary": "专家谈A股创年内新低，创业板跌超4%失守2600点。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%B0%88A%E8%82%A1%E5%88%9B%E5%B9%B4%E5%86%85%E6%96%B0%E4%BD%8E%23",
+        "publishedAt": "2026-10-22T11:48:16Z"
       },
       {
         "id": "e4fc4e5d393f20038f69",
         "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局 推动工业机理与智能体决策模型融合",
-        "summary": "中央网信办启动未成年人网络环境整治专项行动。",
+        "summary": "八部门发文加强产业基础领域大模型研发布局，推动工业机理与智能体决策融合。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2511817",
-        "publishedAt": "2026-10-22T04:40:23Z"
+        "publishedAt": "2026-10-22T11:48:16Z"
+      },
+      {
+        "id": "c6923cbdc8a59ae006e9",
+        "title": "菲律宾对其非法“坐滩”仁爱礁船只运送生活物资，中国海警发声",
+        "summary": "菲律宾向非法“坐滩”仁爱礁船只运送生活物资，中国海警发声。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34301991",
+        "publishedAt": "2026-10-22T11:48:16Z"
+      },
+      {
+        "id": "9ff2bd66c7aab2149816",
+        "title": "上海：前三季度GDP同比增长5.5%",
+        "summary": "上海前三季度GDP同比增长5.5%。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2511834",
+        "publishedAt": "2026-10-22T11:48:16Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际要闻关注俄乌冲突谈判与袭击、美以或计划中期选举后打击伊朗、法国骚乱与极左抗议、欧洲经济与政治动态，以及Meta与AI相关的科技监管新闻。",
     "items": [
       {
-        "id": "89319684aa82003a0a7a",
-        "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
-        "summary": "美以对伊朗多地发动空袭，伊朗誓言报复，中东局势急剧升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-        "publishedAt": "2026-10-21T16:00:00Z"
+        "id": "0f0a92b29c61c170dc37",
+        "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+        "summary": "俄罗斯同意恢复与乌克兰谈判后数小时，对基辅发动大规模导弹袭击。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+        "publishedAt": "2026-10-22T02:14:23Z"
       },
       {
-        "id": "9a3534a45226fcc908c7",
-        "title": "Trump's green card curbs test Indian tech workers' American dream",
-        "summary": "联合国大会一般性辩论开幕，中东局势与气候融资成焦点。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-21T15:06:37Z"
-      },
-      {
-        "id": "b7c6bba6b466c2e59e5d",
-        "title": "AIPAC halts endorsements and direct contributions to candidates",
-        "summary": "特朗普政府宣布对多国加征新一轮关税，贸易摩擦再起。",
+        "id": "b8423b877102cbb5a01b",
+        "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+        "summary": "消息称美以计划在美国中期选举后对伊朗发动可能袭击，伊朗表示已做好准备。",
         "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
-        "publishedAt": "2026-10-21T16:22:48Z"
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+        "publishedAt": "2026-10-22T00:56:58Z"
       },
       {
-        "id": "2e6f51a1c8f2d6c66b2a",
-        "title": "Waitrose opens first new supermarket in eight years in north London",
-        "summary": "欧元区9月通胀回落至2%附近，市场预期欧央行暂停降息。",
+        "id": "ea7f45bffb7a86507f87",
+        "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
+        "summary": "马克龙谴责“极左”的“煽动行为”，并表示将寻求禁止部分抗议活动。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
-        "publishedAt": "2026-10-21T20:00:06Z"
+        "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+        "publishedAt": "2026-10-22T03:28:47Z"
       },
       {
-        "id": "a0eb42f4c7a1e20bd778",
-        "title": "Australian TV reporter rescues man from sinking car",
-        "summary": "奥地利极右翼政党在议会选举中领先，欧洲政治版图生变。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
-        "publishedAt": "2026-10-21T20:19:33Z"
-      },
-      {
-        "id": "20a50bbe861e4b376e5f",
-        "title": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
-        "summary": "苏丹冲突双方在部分地区达成停火，人道危机仍未缓解。",
+        "id": "5f0c95a1aac6aadcf770",
+        "title": "Oil prices jump to five-month high as attacks threaten global supply",
+        "summary": "沙特和霍尔木兹海峡船只遇袭，油价跳涨至五个月高点。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
-        "publishedAt": "2026-10-21T15:36:31Z"
+        "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+        "publishedAt": "2026-10-22T03:28:11Z"
+      },
+      {
+        "id": "a94b0b21b82fe51c16a0",
+        "title": "At least four dead after storm brings flooding to southern France",
+        "summary": "风暴给法国南部带来洪水，至少四人死亡，包括两名在地下室溺亡的女性。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-22T03:23:16Z"
       },
       {
         "id": "111eff1b27d3f58e149f",
         "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "summary": "英国政府公布新一轮公共支出审查，聚焦医疗与教育投入。",
+        "summary": "AI发现PHP长期隐藏的编程漏洞，引发全球网络安全紧急响应。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-21T19:48:50Z"
+        "publishedAt": "2026-10-22T03:15:58Z"
       },
       {
-        "id": "0a2503b6719737abc4a1",
-        "title": "Tigray resumes daily life amid fears of wider war",
-        "summary": "日本央行维持利率不变，但暗示关注通胀上行风险。",
+        "id": "669b71d995f04ea3e901",
+        "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+        "summary": "Meta因剑桥分析相关数据隐私问题在新墨西哥州被罚250亿美元。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
-        "publishedAt": "2026-10-21T18:08:05Z"
+        "url": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
+        "publishedAt": "2026-10-22T01:23:53Z"
+      },
+      {
+        "id": "b626daa9ad9812de432a",
+        "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+        "summary": "俄乌承诺恢复和谈但仍互相攻击，基辅夜袭致15人伤，莫斯科称拦截163架无人机。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+        "publishedAt": "2026-10-22T01:57:47Z"
       }
     ]
   }
