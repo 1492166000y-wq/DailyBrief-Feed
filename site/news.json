@@ -1,88 +1,80 @@
 {
   "version": 1,
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T11:48:16Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-22T17:08:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦长征胜利90周年纪念、北京市委常委夏林茂被查、A股创年内新低、物理AI与机器人产业进展，以及PHP漏洞引发的网络安全事件。",
+    "overview": "国内方面，西藏那曲发生7.0级地震，习近平出席长征胜利90周年大会并发表讲话；A股大幅回调、AI交易与算力产业链承压，同时AI发现PHP严重漏洞引发全球网络安全担忧。",
     "items": [
+      {
+        "id": "9f50450712c114f72ee8",
+        "title": "西藏那曲巴青县发生7.0级地震",
+        "summary": "西藏那曲巴青县发生7.0级地震，为震中近5年最大地震，居民紧急室外避险。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7699503642620988966/",
+        "publishedAt": "2026-10-22T17:08:20Z"
+      },
       {
         "id": "1d1abd09f7bfe1adedbe",
         "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
-        "summary": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话。",
+        "summary": "习近平出席纪念红军长征胜利90周年大会并发表重要讲话，各大报集中刊发社论。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34307574",
-        "publishedAt": "2026-10-22T11:48:16Z"
+        "publishedAt": "2026-10-22T17:08:20Z"
       },
       {
-        "id": "04acfd214625280b4df6",
-        "title": "北京市副市长夏林茂被查",
-        "summary": "北京市副市长夏林茂被查，系北京市委常委，引发关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E5%A4%8F%E6%9E%97%E8%8C%82%E8%A2%AB%E6%9F%A5",
-        "publishedAt": "2026-10-22T11:48:16Z"
+        "id": "88a7215221f0307a369e",
+        "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
+        "summary": "A股大幅调整，创业板跌超4%失守2600点，算力硬件重挫，工行建行逆势创新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784171",
+        "publishedAt": "2026-10-22T17:08:20Z"
       },
       {
-        "id": "54aa49e53bdfef0e6284",
-        "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
-        "summary": "物理AI进入爆发前夜，王兴兴、黄仁勋齐发声，机器人成重要落地场景。",
+        "id": "84f3d64cae04f0dabcce",
+        "title": "【焦点复盘】沪指失守3700点再创年内新低，“易中天”三巨头均跌超8%，工行、建行逆势创历史新高",
+        "summary": "沪指失守3700点创年内新低，全市场近5000股下跌，“易中天”三巨头均跌超8%。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2511957",
-        "publishedAt": "2026-10-22T11:48:16Z"
+        "url": "https://www.cls.cn/detail/2512417",
+        "publishedAt": "2026-10-22T17:08:20Z"
       },
       {
-        "id": "5814f321e9d9c75666c7",
-        "title": "全球七成网站面临威胁！PHP致命漏洞肆虐 多国企业连夜“下线”",
-        "summary": "PHP致命漏洞肆虐，全球七成网站面临威胁，多国企业连夜下线。",
+        "id": "7c6df032566c856ff5fe",
+        "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
+        "summary": "AI发现PHP严重漏洞，全球约75%至70%网站受威胁，欧洲多国政府网站紧急下线。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784140",
+        "publishedAt": "2026-10-22T17:08:20Z"
+      },
+      {
+        "id": "58b0f034ad99fdd7e7eb",
+        "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
+        "summary": "黄仁勋称AI算力需求极其旺盛，但资本短缺制约“新云”扩张，行业扩张受限。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2512099",
-        "publishedAt": "2026-10-22T11:48:16Z"
+        "url": "https://www.cls.cn/detail/2512629",
+        "publishedAt": "2026-10-22T17:08:20Z"
       },
       {
-        "id": "074d29d9c35b34ce8e58",
-        "title": "专家谈A股创年内新低",
-        "summary": "专家谈A股创年内新低，创业板跌超4%失守2600点。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%B0%88A%E8%82%A1%E5%88%9B%E5%B9%B4%E5%86%85%E6%96%B0%E4%BD%8E%23",
-        "publishedAt": "2026-10-22T11:48:16Z"
+        "id": "5e7a58e464fd116dd42a",
+        "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
+        "summary": "AI交易熄火叠加中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784189",
+        "publishedAt": "2026-10-22T17:08:20Z"
       },
       {
-        "id": "e4fc4e5d393f20038f69",
-        "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局 推动工业机理与智能体决策模型融合",
-        "summary": "八部门发文加强产业基础领域大模型研发布局，推动工业机理与智能体决策融合。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2511817",
-        "publishedAt": "2026-10-22T11:48:16Z"
-      },
-      {
-        "id": "c6923cbdc8a59ae006e9",
-        "title": "菲律宾对其非法“坐滩”仁爱礁船只运送生活物资，中国海警发声",
-        "summary": "菲律宾向非法“坐滩”仁爱礁船只运送生活物资，中国海警发声。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34301991",
-        "publishedAt": "2026-10-22T11:48:16Z"
-      },
-      {
-        "id": "9ff2bd66c7aab2149816",
-        "title": "上海：前三季度GDP同比增长5.5%",
-        "summary": "上海前三季度GDP同比增长5.5%。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2511834",
-        "publishedAt": "2026-10-22T11:48:16Z"
+        "id": "c7cf4b693f645cdb7c4a",
+        "title": "北京市委就夏林茂被查表态",
+        "summary": "北京市委就夏林茂被查表态，表示坚决拥护党中央决定，相关审查调查进行中。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7699467341230329394/",
+        "publishedAt": "2026-10-22T17:08:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻关注俄乌冲突谈判与袭击、美以或计划中期选举后打击伊朗、法国骚乱与极左抗议、欧洲经济与政治动态，以及Meta与AI相关的科技监管新闻。",
+    "overview": "国际方面，美以被曝计划中期选举后对伊朗动武、沙特遇袭推高油价；法国骚乱后马克龙限制抗议，俄乌在恢复谈判之际冲突升级。",
     "items": [
-      {
-        "id": "0f0a92b29c61c170dc37",
-        "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-        "summary": "俄罗斯同意恢复与乌克兰谈判后数小时，对基辅发动大规模导弹袭击。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-        "publishedAt": "2026-10-22T02:14:23Z"
-      },
       {
         "id": "b8423b877102cbb5a01b",
         "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
@@ -92,52 +84,60 @@
         "publishedAt": "2026-10-22T00:56:58Z"
       },
       {
-        "id": "ea7f45bffb7a86507f87",
-        "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
-        "summary": "马克龙谴责“极左”的“煽动行为”，并表示将寻求禁止部分抗议活动。",
+        "id": "b83e6eeffd94ba6615cf",
+        "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+        "summary": "胡塞武装袭击沙特，美国下令部分外交官及家属撤离，海湾紧张局势升级。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-        "publishedAt": "2026-10-22T03:28:47Z"
+        "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+        "publishedAt": "2026-10-22T05:05:30Z"
       },
       {
         "id": "5f0c95a1aac6aadcf770",
         "title": "Oil prices jump to five-month high as attacks threaten global supply",
-        "summary": "沙特和霍尔木兹海峡船只遇袭，油价跳涨至五个月高点。",
+        "summary": "沙特和霍尔木兹海峡船只遇袭，国际油价跳涨至五个月高点，全球供应受威胁。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
         "publishedAt": "2026-10-22T03:28:11Z"
       },
       {
-        "id": "a94b0b21b82fe51c16a0",
-        "title": "At least four dead after storm brings flooding to southern France",
-        "summary": "风暴给法国南部带来洪水，至少四人死亡，包括两名在地下室溺亡的女性。",
+        "id": "0f0a92b29c61c170dc37",
+        "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+        "summary": "俄罗斯在同意恢复谈判数小时后以导弹大规模袭击基辅，被指意在摧毁能源设施。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+        "publishedAt": "2026-10-22T07:46:56Z"
+      },
+      {
+        "id": "b8eeca8c671bea41209c",
+        "title": "Macron bans ‘illegitimate‘ protests in France as he tries to get a grip on unrest",
+        "summary": "马克龙称将禁止“非法”抗议，里昂、尼斯等城市已全面禁示威，法国骚乱持续。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
+        "publishedAt": "2026-10-22T07:54:13Z"
+      },
+      {
+        "id": "daecf457484228b4a395",
+        "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+        "summary": "卢拉指对手涉嫌受Meta干预应取消资格，Meta否认偏袒，巴西选前争议升级。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T03:23:16Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-22T09:01:47Z"
       },
       {
-        "id": "111eff1b27d3f58e149f",
-        "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "summary": "AI发现PHP长期隐藏的编程漏洞，引发全球网络安全紧急响应。",
+        "id": "a8b80b5b47331f07b3e1",
+        "title": "Shamonda virus detected in human for first time in France",
+        "summary": "法国首次在人类身上检出沙蒙达病毒，患者已死亡，当局称公众风险低。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+        "publishedAt": "2026-10-22T07:07:01Z"
+      },
+      {
+        "id": "02e7db42aa3e44ab1a7d",
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "summary": "特朗普因BBC《全景》节目剪辑其演讲被诉，法院令其宣誓接受质询。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T03:15:58Z"
-      },
-      {
-        "id": "669b71d995f04ea3e901",
-        "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
-        "summary": "Meta因剑桥分析相关数据隐私问题在新墨西哥州被罚250亿美元。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
-        "publishedAt": "2026-10-22T01:23:53Z"
-      },
-      {
-        "id": "b626daa9ad9812de432a",
-        "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
-        "summary": "俄乌承诺恢复和谈但仍互相攻击，基辅夜袭致15人伤，莫斯科称拦截163架无人机。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
-        "publishedAt": "2026-10-22T01:57:47Z"
+        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-22T09:02:33Z"
       }
     ]
   }
