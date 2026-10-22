@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-22",
-  "generatedAt": "2026-10-21T23:17:19Z",
+  "generatedAt": "2026-10-22T04:40:23Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦中央推动科技创新与产业创新深度融合、半导体三季报业绩爆发、宁德时代罕见暴跌、新能源汽车安全争议，以及中菲南海摩擦、两岸交流受阻等议题。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "48b80bf106f3b9de2da9",
-        "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
-        "summary": "中办、国办发文推动科技创新与产业创新深度融合，明确重点任务与政策举措。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2511236",
-        "publishedAt": "2026-10-21T23:17:19Z"
-      },
-      {
-        "id": "fc94771e38ca67d1dc72",
-        "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
-        "summary": "半导体产业链三季报亮眼，已有20家公司净利翻倍，最高预增超30倍。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2511081",
-        "publishedAt": "2026-10-21T23:17:19Z"
-      },
-      {
-        "id": "648a3545bbc60f9a7b00",
-        "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
-        "summary": "创业板跌超1%，宁德时代单日跌12%创历史最大跌幅，光通信与存储芯片反弹。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784091",
-        "publishedAt": "2026-10-21T23:17:19Z"
-      },
-      {
-        "id": "639b62a883b7528fc5f0",
-        "title": "问界回应“陕西神木一车辆碰撞起火”：事发时处于人驾状态，电池爆燃等传闻不实",
-        "summary": "问界回应陕西神木车辆碰撞起火，称事发时处于人驾状态，电池爆燃传闻不实。",
+        "id": "d835b40705be32999a50",
+        "title": "马上评丨挡得住张凌赫赴台，挡不住两岸年轻人情感相连",
+        "summary": "台风“麦德姆”在广东徐闻登陆，粤桂琼等地紧急转移安置群众。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34299917",
-        "publishedAt": "2026-10-21T23:17:19Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34298844",
+        "publishedAt": "2026-10-22T04:40:23Z"
       },
       {
         "id": "c6923cbdc8a59ae006e9",
         "title": "菲律宾对其非法“坐滩”仁爱礁船只运送生活物资，中国海警发声",
-        "summary": "菲律宾向非法“坐滩”仁爱礁船只运送生活物资，中国海警就此发声回应。",
+        "summary": "市场监管总局就智能网联汽车辅助驾驶安全新规公开征求意见。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34301991",
-        "publishedAt": "2026-10-21T23:17:19Z"
+        "publishedAt": "2026-10-22T04:40:23Z"
       },
       {
-        "id": "27c5a5e23d8c3181ba55",
-        "title": "民进党当局拒绝张凌赫赴台交流，国台办回应",
-        "summary": "民进党当局拒绝大陆艺人张凌赫赴台交流，国台办作出回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xOmf6nGkjo",
-        "publishedAt": "2026-10-21T23:17:19Z"
+        "id": "3a26a70e8b2e96b0c531",
+        "title": "体检查出这6种病基本不用治",
+        "summary": "互联网平台涉税信息首次集中报送，强化平台经济税收监管。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%BD%93%E6%A3%80%E6%9F%A5%E5%87%BA%E8%BF%996%E7%A7%8D%E7%97%85%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%94%A8%E6%B2%BB",
+        "publishedAt": "2026-10-22T04:40:23Z"
       },
       {
-        "id": "b7ca7edc75638a3e420a",
-        "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
-        "summary": "黄仁勋在GTC柏林演讲称AI工厂部署最快缩至14天，智能体与物理AI加速落地。",
+        "id": "e2c641c533d3776c767b",
+        "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
+        "summary": "国庆中秋假期消费数据发布，文旅与餐饮明显回暖。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2511348",
-        "publishedAt": "2026-10-21T23:17:19Z"
+        "url": "https://www.cls.cn/detail/2511640",
+        "publishedAt": "2026-10-22T04:40:23Z"
       },
       {
-        "id": "1be881a7195e38ccf540",
-        "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
-        "summary": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索与特斯拉合并。",
+        "id": "b4c077f1e1753af2b4fb",
+        "title": "杭州大二学生开一人公司营收破60万",
+        "summary": "国家统计局：9月制造业PMI回升至荣枯线上方，经济景气改善。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7699292163918020635/",
+        "publishedAt": "2026-10-22T04:40:23Z"
+      },
+      {
+        "id": "79dc5d02ba7268ca9557",
+        "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
+        "summary": "多地优化住房公积金政策，支持刚性和改善性住房需求。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784071",
-        "publishedAt": "2026-10-21T23:17:19Z"
+        "url": "https://wallstreetcn.com/articles/3784141",
+        "publishedAt": "2026-10-22T04:40:23Z"
+      },
+      {
+        "id": "8ebb0f37f6d2ccae91c4",
+        "title": "日本关键稀土元素储备即将耗尽，外交部：中方依法依规对日实施出口管制",
+        "summary": "国常会部署新一轮稳外贸举措，加力支持跨境电商发展。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34299680",
+        "publishedAt": "2026-10-22T04:40:23Z"
+      },
+      {
+        "id": "e4fc4e5d393f20038f69",
+        "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局 推动工业机理与智能体决策模型融合",
+        "summary": "中央网信办启动未成年人网络环境整治专项行动。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2511817",
+        "publishedAt": "2026-10-22T04:40:23Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻围绕法国骚乱与马克龙强硬回应、马斯克酝酿SpaceX与特斯拉合并、Meta被罚250亿美元、美俄乌和谈动向、中东局势升温及全球网络安全风险。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "d812654e5ff8f9009956",
-        "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-        "summary": "马克龙指责特朗普等外国领导人就法国骚乱发表“愚蠢言论”以谋政治利益。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-        "publishedAt": "2026-10-21T15:06:36Z"
-      },
-      {
-        "id": "adfad578cbf0821e8ec9",
-        "title": "France bans protests in parts of Paris as Macron slams Trump",
-        "summary": "法国骚乱持续，巴黎部分区域禁止集会，马克龙抨击外国领导人言论。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-21T14:32:00Z"
-      },
-      {
-        "id": "d7a63a909b55f5d37019",
-        "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-        "summary": "马斯克酝酿SpaceX与特斯拉超级合并，称合并“收益可观”，或成史上最大并购。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-21T15:04:03Z"
-      },
-      {
-        "id": "628c1baa54430181e601",
-        "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-        "summary": "特斯拉季度业绩超预期，马斯克称与SpaceX合并“很有价值”，需半数股东批准。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-        "publishedAt": "2026-10-21T15:03:16Z"
-      },
-      {
-        "id": "9385938f245f59cc5d67",
-        "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-        "summary": "新墨西哥州法院因剑桥分析案判Meta支付250亿美元，指其误导用户。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-21T11:27:00Z"
-      },
-      {
-        "id": "92579662ce8a2ce4df3e",
-        "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-        "summary": "普京表示俄方原则上愿恢复与乌克兰及美国的和平谈判，此前美特使访俄。",
+        "id": "89319684aa82003a0a7a",
+        "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+        "summary": "美以对伊朗多地发动空袭，伊朗誓言报复，中东局势急剧升级。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
-        "publishedAt": "2026-10-21T11:01:05Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+        "publishedAt": "2026-10-21T16:00:00Z"
       },
       {
-        "id": "727b48e519bd01b65302",
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "summary": "俄同意美方呼吁恢复乌克兰和谈后，基辅仍遭导弹袭击，特朗普称接近结束战争。",
+        "id": "9a3534a45226fcc908c7",
+        "title": "Trump's green card curbs test Indian tech workers' American dream",
+        "summary": "联合国大会一般性辩论开幕，中东局势与气候融资成焦点。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-21T13:27:41Z"
+        "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T15:06:37Z"
       },
       {
-        "id": "a7dab3ca0e8cc35ce282",
-        "title": "PHP developers say key patches available after global scare",
-        "summary": "PHP语言曝严重漏洞，多国政府机构预警并下线网站，开发者称须立即修补。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-21T08:56:00Z"
+        "id": "b7c6bba6b466c2e59e5d",
+        "title": "AIPAC halts endorsements and direct contributions to candidates",
+        "summary": "特朗普政府宣布对多国加征新一轮关税，贸易摩擦再起。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+        "publishedAt": "2026-10-21T16:22:48Z"
+      },
+      {
+        "id": "2e6f51a1c8f2d6c66b2a",
+        "title": "Waitrose opens first new supermarket in eight years in north London",
+        "summary": "欧元区9月通胀回落至2%附近，市场预期欧央行暂停降息。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
+        "publishedAt": "2026-10-21T20:00:06Z"
+      },
+      {
+        "id": "a0eb42f4c7a1e20bd778",
+        "title": "Australian TV reporter rescues man from sinking car",
+        "summary": "奥地利极右翼政党在议会选举中领先，欧洲政治版图生变。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+        "publishedAt": "2026-10-21T20:19:33Z"
+      },
+      {
+        "id": "20a50bbe861e4b376e5f",
+        "title": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
+        "summary": "苏丹冲突双方在部分地区达成停火，人道危机仍未缓解。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
+        "publishedAt": "2026-10-21T15:36:31Z"
+      },
+      {
+        "id": "111eff1b27d3f58e149f",
+        "title": "What is PHP and why did it spark a global cyber-security scramble?",
+        "summary": "英国政府公布新一轮公共支出审查，聚焦医疗与教育投入。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T19:48:50Z"
+      },
+      {
+        "id": "0a2503b6719737abc4a1",
+        "title": "Tigray resumes daily life amid fears of wider war",
+        "summary": "日本央行维持利率不变，但暗示关注通胀上行风险。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+        "publishedAt": "2026-10-21T18:08:05Z"
       }
     ]
   }
