@@ -1,26 +1,26 @@
 {
   "version": 1,
   "date": "2026-10-23",
-  "generatedAt": "2026-10-22T21:33:24Z",
+  "generatedAt": "2026-10-23T00:39:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在西藏那曲7.0级地震及习近平出席长征胜利90周年大会，同时涵盖夏林茂被查、AI算力与股市波动等重要动态。",
+    "overview": "国内关注西藏那曲7.0级地震致16死46伤，多源确认；长征胜利90周年大会与习近平讲话、北京副市长夏林茂被查构成时政主线；AI融资担忧引发科技股重挫、油价大涨，央行流动性承压。外部涉及乌克兰、伊朗及中东局势等外交动向。",
     "items": [
+      {
+        "id": "2c3a233114a4a4baf4dc",
+        "title": "西藏7.0级强震已致16死46伤",
+        "summary": "西藏那曲发生7.0级地震，已造成16人死亡、46人受伤，救援力量紧急展开搜救。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7699628400520121906/",
+        "publishedAt": "2026-10-23T00:39:20Z"
+      },
       {
         "id": "1d1abd09f7bfe1adedbe",
         "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
-        "summary": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话。",
+        "summary": "习近平出席纪念红军长征胜利90周年大会并发表重要讲话，强调走好新的长征路。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34307574",
-        "publishedAt": "2026-10-22T21:33:24Z"
-      },
-      {
-        "id": "9f50450712c114f72ee8",
-        "title": "西藏那曲巴青县发生7.0级地震",
-        "summary": "西藏那曲巴青县发生7.0级地震，各方关注震情与救援进展。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7699503642620988966/",
-        "publishedAt": "2026-10-22T21:33:24Z"
+        "publishedAt": "2026-10-23T00:39:20Z"
       },
       {
         "id": "34b7c1ef3be666d78bef",
@@ -28,65 +28,73 @@
         "summary": "北京市委常委、副市长夏林茂被查，北京市委表态坚决拥护党中央决定。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34308652",
-        "publishedAt": "2026-10-22T21:33:24Z"
+        "publishedAt": "2026-10-23T00:39:20Z"
       },
       {
-        "id": "58b0f034ad99fdd7e7eb",
-        "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
-        "summary": "黄仁勋称AI算力需求极其旺盛，但资本短缺制约“新云”扩张。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2512629",
-        "publishedAt": "2026-10-22T21:33:24Z"
-      },
-      {
-        "id": "16660dad1aae5face744",
-        "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%",
-        "summary": "AI交易熄火叠加中东局势恶化，美股跌幅扩大，费城半导体跌超6%。",
+        "id": "5997a959fe4519dfa9d7",
+        "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+        "summary": "AI融资担忧重创科技股，纳指跌超2%，美债收益率下行，黄金重挫、原油大涨。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784189",
-        "publishedAt": "2026-10-22T21:33:24Z"
+        "publishedAt": "2026-10-23T00:39:20Z"
       },
       {
-        "id": "b3211b00401bd5589103",
-        "title": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞",
-        "summary": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34310385",
-        "publishedAt": "2026-10-22T21:33:24Z"
+        "id": "88a7215221f0307a369e",
+        "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
+        "summary": "创业板跌超4%失守2600点，算力硬件回调，工行、建行逆势创新高，恒科指跌超5%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784171",
+        "publishedAt": "2026-10-23T00:39:20Z"
       },
       {
-        "id": "f95ec221ddbd3dea8f6e",
-        "title": "欧盟“外长”声称不要让俄中主导北极航线，外交部回应",
-        "summary": "欧盟“外长”称不要让俄中主导北极航线，外交部就此作出回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xQnPFm9g1W",
-        "publishedAt": "2026-10-22T21:33:24Z"
+        "id": "a9d5ab053c2a6f902b27",
+        "title": "布油突破112美元！胡塞武装称对沙特发动多轮袭击，目标包括国防部、沙特阿美原油设施",
+        "summary": "布油突破112美元，胡塞武装称对沙特发动多轮袭击，目标含沙特阿美原油设施。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784231",
+        "publishedAt": "2026-10-23T00:39:20Z"
       },
       {
         "id": "9c097dd187e614561b9d",
         "title": "乌外长会见中国大使：感谢中方",
-        "summary": "乌克兰外长会见中国大使，感谢中方相关立场与努力。",
+        "summary": "乌克兰外长会见中国大使，对中方表达感谢，双方就相关问题交换意见。",
         "source": "凤凰网",
         "url": "https://original.ifeng.com/c/8xQpNizLtCq",
-        "publishedAt": "2026-10-22T21:33:24Z"
+        "publishedAt": "2026-10-23T00:39:20Z"
+      },
+      {
+        "id": "b3211b00401bd5589103",
+        "title": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞",
+        "summary": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织现场打捞清理。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34310385",
+        "publishedAt": "2026-10-23T00:39:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美以或计划中期选举后袭击伊朗、俄乌谈判与能源设施遭袭、油价飙升及欧洲骚乱成为主要看点。",
+    "overview": "国际焦点包括美以或计划中期选举后打击伊朗、特朗普暗示新一轮打击；俄同意复谈后仍导弹袭击基辅；胡塞袭击沙特设施推动油价升至五个月高位、AI股全球抛售；ICC获欧盟人权奖、埃博拉疫情扩散三国、珊瑚礁灭绝风险等。",
     "items": [
       {
         "id": "b8423b877102cbb5a01b",
         "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
-        "summary": "消息称美以计划在中期选举后对伊朗发动可能袭击，伊朗称已做好准备。",
+        "summary": "消息称美以正筹划中期选举后对伊朗发动可能袭击，伊朗方面表示已做好应对准备。",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
         "publishedAt": "2026-10-22T00:56:58Z"
       },
       {
+        "id": "4a000e8597f6672716c5",
+        "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+        "summary": "特朗普暗示将对伊朗发动新一轮打击，称美国已重创伊朗，中东局势持续紧张。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+        "publishedAt": "2026-10-22T16:00:00Z"
+      },
+      {
         "id": "0f0a92b29c61c170dc37",
         "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-        "summary": "俄罗斯同意恢复谈判数小时后以导弹袭击基辅，被指意在摧毁能源设施。",
+        "summary": "俄罗斯同意恢复谈判数小时后以导弹袭击基辅，被指意在摧毁乌克兰能源设施。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
         "publishedAt": "2026-10-22T07:46:56Z"
@@ -94,23 +102,23 @@
       {
         "id": "5f0c95a1aac6aadcf770",
         "title": "Oil prices jump to five-month high as attacks threaten global supply",
-        "summary": "沙特和霍尔木兹海峡船只遇袭，国际油价跳涨至五个月高点，全球供应受威胁。",
+        "summary": "沙特及霍尔木兹海峡船只遇袭，国际油价跳涨至五个月高点，全球供应受威胁。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
         "publishedAt": "2026-10-22T03:28:11Z"
       },
       {
-        "id": "bc28c344582c1621b09b",
-        "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
-        "summary": "马克龙称将禁止“非法”抗议，法国骚乱持续，多地已全面禁示威。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-22T08:28:00Z"
+        "id": "b428e8d985ec1620a625",
+        "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+        "summary": "AI板块大跌拖累全球市场，标普500下跌1.2%，油价因伊朗战争担忧升至五月来高位。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+        "publishedAt": "2026-10-22T13:50:13Z"
       },
       {
         "id": "f1074bcd7b04f54903c8",
         "title": "US-sanctioned ICC wins top EU human rights award",
-        "summary": "欧盟将最高人权奖授予遭美国制裁的国际刑事法院。",
+        "summary": "欧盟将最高人权奖授予遭美国制裁的国际刑事法院，凸显欧美在司法机构上的分歧。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
         "publishedAt": "2026-10-22T09:46:03Z"
@@ -118,7 +126,7 @@
       {
         "id": "bb5fd81a0bc8a701de2a",
         "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
-        "summary": "世卫组织警告埃博拉疫情更趋复杂，已在三个非洲国家出现。",
+        "summary": "世卫组织警告埃博拉疫情更趋复杂，已在三个非洲国家出现，防控难度上升。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
         "publishedAt": "2026-10-22T11:31:27Z"
@@ -126,18 +134,10 @@
       {
         "id": "5f061edcc67b95140fb2",
         "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
-        "summary": "IUCN警告全球96%的浅水珊瑚礁面临崩溃风险，气候变化是最大威胁。",
+        "summary": "IUCN警告全球96%的浅水珊瑚礁面临崩溃风险，气候变化被列为最大威胁。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-22T10:18:00Z"
-      },
-      {
-        "id": "93b005f9436f8d565b65",
-        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-        "summary": "德国总理默茨称德国遭“密集”间谍活动，此前一名疑似俄间谍被捕。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T09:07:03Z"
       }
     ]
   }
