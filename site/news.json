@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T07:29:06Z",
+  "generatedAt": "2026-10-23T13:23:56Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注西藏那曲7.0级地震造成人员伤亡与救援进展，北京市委常委夏林茂被查，娃哈哈董事长辞职引关注；财经聚焦AI股全球抛售、油价大涨与A股波动。",
+    "overview": "国内方面，西藏那曲巴青7.0级地震造成16人遇难，成因确认为拉张型破裂，军民正全力救援；人工智能相关就业政策、花旗证券获批、A股大幅波动等经济金融动态受到关注。",
     "items": [
       {
         "id": "6aa1dad2b99a04feaba4",
         "title": "西藏那曲巴青7.0级地震已造成16人遇难，46人受伤",
-        "summary": "西藏那曲巴青7.0级地震已致16人遇难、46人受伤，救援力量赶赴震中。",
+        "summary": "西藏那曲巴青7.0级地震已致16人遇难、46人受伤，救援工作正在推进。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34314220",
-        "publishedAt": "2026-10-23T07:29:06Z"
+        "publishedAt": "2026-10-23T13:23:56Z"
       },
       {
-        "id": "34b7c1ef3be666d78bef",
-        "title": "北京市委常委、副市长夏林茂被查",
-        "summary": "北京市委常委、副市长夏林茂被查，市委表示坚决拥护党中央决定。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34308652",
-        "publishedAt": "2026-10-23T07:29:06Z"
-      },
-      {
-        "id": "2c1cd034204e705a0a2b",
-        "title": "娃哈哈集团董事长被曝辞职",
-        "summary": "娃哈哈集团董事长被曝辞职，引发市场对企业治理的关注。",
+        "id": "7a5396b2a3f4732070da",
+        "title": "西藏巴青地震为一次拉张型破裂",
+        "summary": "专家确认西藏巴青地震为一次拉张型破裂，为防震减灾提供科学依据。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9B%9D%E8%BE%9E%E8%81%8C",
-        "publishedAt": "2026-10-23T07:29:06Z"
+        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%B8%80%E6%AC%A1%E6%8B%89%E5%BC%A0%E5%9E%8B%E7%A0%B4%E8%A3%82",
+        "publishedAt": "2026-10-23T13:23:56Z"
+      },
+      {
+        "id": "19d7fdb95bd24c0f61b5",
+        "title": "人民子弟兵投入西藏巴青抗震救灾",
+        "summary": "人民子弟兵投入西藏巴青抗震救灾，开展搜救和群众安置工作。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E6%8A%95%E5%85%A5%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE",
+        "publishedAt": "2026-10-23T13:23:56Z"
+      },
+      {
+        "id": "587e62651191d0164cd6",
+        "title": "国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间",
+        "summary": "国办印发意见，推动适应人工智能发展、构建就业友好型发展方式。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2513630",
+        "publishedAt": "2026-10-23T13:23:56Z"
+      },
+      {
+        "id": "bf51440cbc6446cd85cb",
+        "title": "证监会：核准设立花旗证券（中国）有限公司",
+        "summary": "证监会核准设立花旗证券（中国）有限公司，外资券商布局再进一步。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2513545",
+        "publishedAt": "2026-10-23T13:23:56Z"
       },
       {
         "id": "5997a959fe4519dfa9d7",
         "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-        "summary": "AI融资担忧重创科技股，纳指跌超2%，美债收益率跌破5%，黄金重挫、原油大涨。",
+        "summary": "AI融资担忧重创科技股，纳指跌超2%，美债收益率跌破5%，黄金重挫。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784189",
-        "publishedAt": "2026-10-23T07:29:06Z"
+        "publishedAt": "2026-10-23T13:23:56Z"
       },
       {
-        "id": "88a7215221f0307a369e",
-        "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
-        "summary": "创业板跌超4%失守2600点，算力硬件回调，恒科指跌超5%。",
+        "id": "68d8d3a2ba42efd80f87",
+        "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
+        "summary": "A股午后绝地反攻，创业板暴涨超4%，机器人概念掀涨停潮。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784171",
-        "publishedAt": "2026-10-23T07:29:06Z"
+        "url": "https://wallstreetcn.com/articles/3784272",
+        "publishedAt": "2026-10-23T13:23:56Z"
       },
       {
-        "id": "a9d5ab053c2a6f902b27",
-        "title": "布油突破112美元！胡塞武装称对沙特发动多轮袭击，目标包括国防部、沙特阿美原油设施",
-        "summary": "布油突破112美元，胡塞武装称袭击沙特国防部及沙特阿美原油设施。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784231",
-        "publishedAt": "2026-10-23T07:29:06Z"
-      },
-      {
-        "id": "b3211b00401bd5589103",
-        "title": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞",
-        "summary": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34310385",
-        "publishedAt": "2026-10-23T07:29:06Z"
-      },
-      {
-        "id": "9409757c3456c82a36e0",
-        "title": "玉渊谭天：“中国AI禁令”是怎么回事",
-        "summary": "玉渊谭天发文解读所谓“中国AI禁令”的来龙去脉。",
+        "id": "805dc2ec54ca953a52b2",
+        "title": "商务部就美国防部公布所谓科研安全审查结果事答记者问",
+        "summary": "商务部就美国防部所谓科研安全审查结果答记者问，表明中方立场。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2512926",
-        "publishedAt": "2026-10-23T07:29:06Z"
+        "url": "https://www.cls.cn/detail/2513414",
+        "publishedAt": "2026-10-23T13:23:56Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美以拟对伊朗动武、油价攀升及AI股暴跌引发市场震荡，欧洲冬季天然气储备告急，塞尔维亚大选前学生抗议升温，多国关注西藏地震。",
+    "overview": "国际方面，约旦教堂葬礼枪击致7死，法国部署7万警力应对抗议，乌克兰Starlink限速争议持续，俄罗斯称11月将在阿联酋举行俄乌会谈，中东局势推高油价。",
     "items": [
       {
-        "id": "b8423b877102cbb5a01b",
-        "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
-        "summary": "消息称美以正筹划中期选举后对伊朗发动可能袭击，伊方称已做好准备。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
-        "publishedAt": "2026-10-22T00:56:58Z"
-      },
-      {
-        "id": "5f0c95a1aac6aadcf770",
-        "title": "Oil prices jump to five-month high as attacks threaten global supply",
-        "summary": "沙特及霍尔木兹海峡船只遇袭，国际油价跳涨至五个月高点。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
-        "publishedAt": "2026-10-22T03:28:11Z"
-      },
-      {
-        "id": "b428e8d985ec1620a625",
-        "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-        "summary": "AI板块大跌拖累全球市场，标普500下跌1.2%，油价因伊朗战事担忧走高。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-        "publishedAt": "2026-10-22T13:50:13Z"
-      },
-      {
-        "id": "00834b52ee3a45306312",
-        "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-        "summary": "西藏那曲发生7.0级地震，已致16人死亡，偏远山区救援展开。",
+        "id": "9c0c2709c1f4340be87f",
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+        "summary": "约旦卡拉克一教堂葬礼遭枪手袭击，致7死10伤，警方正展开搜捕。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T21:16:37Z"
+        "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-23T05:12:15Z"
       },
       {
-        "id": "91328695f543b28c862a",
-        "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
-        "summary": "国际能源署署长警告，欧盟进入冬季时天然气储备为历史最低。",
+        "id": "0db38834e06ef89af4b2",
+        "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
+        "summary": "法国部署7万警力应对周末抗议，部分地区示威被全面禁止。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+        "publishedAt": "2026-10-23T05:10:24Z"
+      },
+      {
+        "id": "f86ac52efae7046be800",
+        "title": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+        "summary": "克里姆林宫称俄乌会谈计划11月在阿联酋举行，为今年中断后首次。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
-        "publishedAt": "2026-10-22T22:02:15Z"
+        "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss",
+        "publishedAt": "2026-10-23T04:54:44Z"
       },
       {
-        "id": "f1f49081974de157bfbe",
-        "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-        "summary": "塞尔维亚学生抗议运动挑战武契奇十二年执政，周日举行关键选举。",
+        "id": "63e690f773843af70230",
+        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+        "summary": "乌克兰称特朗普宣称解除限制后，Starlink网络仍存在限速问题。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T22:26:25Z"
+        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-23T03:01:08Z"
       },
       {
-        "id": "619364c1b9eda2c9e4f5",
-        "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-        "summary": "尼日利亚与肯尼亚埃博拉患者或曾在乌干达机场交集，世卫警告疫情趋复杂。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T20:54:25Z"
+        "id": "a1078f82626010fce15c",
+        "title": "Jordan: Karak church shooting leaves 7 dead",
+        "summary": "约旦南部希腊东正教堂葬礼发生枪击，两名不明枪手开火致多人死亡。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-23T05:07:00Z"
       },
       {
-        "id": "0f0a92b29c61c170dc37",
-        "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-        "summary": "俄罗斯同意恢复谈判数小时后以导弹袭击基辅，被指针对乌能源设施。",
+        "id": "279a8fbc14adadb09c2b",
+        "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
+        "summary": "受美或再袭伊朗担忧影响，布伦特原油涨至五个月高点每桶114.72美元。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-        "publishedAt": "2026-10-22T07:46:56Z"
+        "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+        "publishedAt": "2026-10-23T03:35:51Z"
+      },
+      {
+        "id": "c17fcb49b0879abc59ee",
+        "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+        "summary": "影响七成网站的PHP语言被AI发现严重漏洞，各国紧急加强安全防护。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+        "publishedAt": "2026-10-23T01:37:38Z"
+      },
+      {
+        "id": "742b9d13836425e1f35d",
+        "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+        "summary": "塞尔维亚10月25日提前举行议会选举，学生团体挑战武契奇长期执政。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
+        "publishedAt": "2026-10-23T01:52:20Z"
       }
     ]
   }
