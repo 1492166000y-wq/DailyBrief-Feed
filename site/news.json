@@ -1,95 +1,127 @@
 {
   "version": 1,
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T13:23:56Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-23T18:19:07Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，西藏那曲巴青7.0级地震造成16人遇难，成因确认为拉张型破裂，军民正全力救援；人工智能相关就业政策、花旗证券获批、A股大幅波动等经济金融动态受到关注。",
+    "overview": "国内焦点集中于西藏巴青7.0级地震救援与成因、监管层新政策及资本市场剧烈波动；涉外事务涉及中美互动与外资准入。",
     "items": [
       {
         "id": "6aa1dad2b99a04feaba4",
         "title": "西藏那曲巴青7.0级地震已造成16人遇难，46人受伤",
-        "summary": "西藏那曲巴青7.0级地震已致16人遇难、46人受伤，救援工作正在推进。",
+        "summary": "西藏那曲巴青发生7.0级地震，已致16人遇难、46人受伤，救援力量紧急投入。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34314220",
-        "publishedAt": "2026-10-23T13:23:56Z"
+        "publishedAt": "2026-10-23T18:19:07Z"
       },
       {
-        "id": "7a5396b2a3f4732070da",
-        "title": "西藏巴青地震为一次拉张型破裂",
-        "summary": "专家确认西藏巴青地震为一次拉张型破裂，为防震减灾提供科学依据。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%B8%80%E6%AC%A1%E6%8B%89%E5%BC%A0%E5%9E%8B%E7%A0%B4%E8%A3%82",
-        "publishedAt": "2026-10-23T13:23:56Z"
+        "id": "531df9630787ca32209d",
+        "title": "西藏强震成因揭晓",
+        "summary": "西藏强震成因揭晓，地质专家解析巴青地震构造背景与后续风险。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7699809994400599593/",
+        "publishedAt": "2026-10-23T18:19:07Z"
       },
       {
-        "id": "19d7fdb95bd24c0f61b5",
-        "title": "人民子弟兵投入西藏巴青抗震救灾",
-        "summary": "人民子弟兵投入西藏巴青抗震救灾，开展搜救和群众安置工作。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E6%8A%95%E5%85%A5%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE",
-        "publishedAt": "2026-10-23T13:23:56Z"
+        "id": "7fa2533b9f09ca848774",
+        "title": "国常会：要加快建设生育友好型社会",
+        "summary": "国常会部署加快建设生育友好型社会，出台配套支持措施。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2513857",
+        "publishedAt": "2026-10-23T18:19:07Z"
       },
       {
         "id": "587e62651191d0164cd6",
         "title": "国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间",
-        "summary": "国办印发意见，推动适应人工智能发展、构建就业友好型发展方式。",
+        "summary": "国办印发意见，推动适应人工智能发展的就业友好型发展方式，拓展新兴就业空间。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2513630",
-        "publishedAt": "2026-10-23T13:23:56Z"
+        "publishedAt": "2026-10-23T18:19:07Z"
       },
       {
         "id": "bf51440cbc6446cd85cb",
         "title": "证监会：核准设立花旗证券（中国）有限公司",
-        "summary": "证监会核准设立花旗证券（中国）有限公司，外资券商布局再进一步。",
+        "summary": "证监会核准设立花旗证券（中国）有限公司，外资券商准入再进一步。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2513545",
-        "publishedAt": "2026-10-23T13:23:56Z"
+        "publishedAt": "2026-10-23T18:19:07Z"
       },
       {
-        "id": "5997a959fe4519dfa9d7",
-        "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-        "summary": "AI融资担忧重创科技股，纳指跌超2%，美债收益率跌破5%，黄金重挫。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784189",
-        "publishedAt": "2026-10-23T13:23:56Z"
+        "id": "34927be18ac676319b10",
+        "title": "美国防部公布所谓科研安全审查结果，商务部回应",
+        "summary": "美国防部公布所谓科研安全审查结果，中国商务部作出回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xSRFzZ7poU",
+        "publishedAt": "2026-10-23T18:19:07Z"
       },
       {
         "id": "68d8d3a2ba42efd80f87",
         "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
-        "summary": "A股午后绝地反攻，创业板暴涨超4%，机器人概念掀涨停潮。",
+        "summary": "A股午后强势反攻，创业板指涨超4%，机器人概念掀涨停潮，成交显著放量。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784272",
-        "publishedAt": "2026-10-23T13:23:56Z"
+        "publishedAt": "2026-10-23T18:19:07Z"
       },
       {
-        "id": "805dc2ec54ca953a52b2",
-        "title": "商务部就美国防部公布所谓科研安全审查结果事答记者问",
-        "summary": "商务部就美国防部所谓科研安全审查结果答记者问，表明中方立场。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2513414",
-        "publishedAt": "2026-10-23T13:23:56Z"
+        "id": "54156113fc11f436cac3",
+        "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+        "summary": "AI融资担忧冲击全球市场，纳指大跌，10年期美债收益率创硅谷银行危机以来最大跌幅。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784249",
+        "publishedAt": "2026-10-23T18:19:07Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，约旦教堂葬礼枪击致7死，法国部署7万警力应对抗议，乌克兰Starlink限速争议持续，俄罗斯称11月将在阿联酋举行俄乌会谈，中东局势推高油价。",
+    "overview": "国际焦点覆盖中东冲突多点升级、俄乌局部停火与人道危机、法美政坛动向，以及全球能源与市场波动。",
     "items": [
       {
-        "id": "9c0c2709c1f4340be87f",
-        "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-        "summary": "约旦卡拉克一教堂葬礼遭枪手袭击，致7死10伤，警方正展开搜捕。",
+        "id": "ac60e7d9e9b9c86acc1d",
+        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "summary": "白宫称梅拉尼娅促成俄乌在奥列什基停火，当地民众缺粮缺水濒临灾难。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-23T05:12:15Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-23T08:59:51Z"
       },
       {
-        "id": "0db38834e06ef89af4b2",
-        "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
-        "summary": "法国部署7万警力应对周末抗议，部分地区示威被全面禁止。",
+        "id": "d4885ed0c644e58300fb",
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "summary": "约旦卡拉克一教堂葬礼遭枪手袭击，致7人死亡、34人受伤，警方展开追捕。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-23T10:10:56Z"
+      },
+      {
+        "id": "ec60ce279119861ce57c",
+        "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+        "summary": "巴黎近郊发生疑似恐怖主义枪击，1死5伤，嫌犯已被抓获。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-23T08:17:02Z"
+      },
+      {
+        "id": "5a0dcf09c067806587c3",
+        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "summary": "两名以军士兵在希伯伦检查站被射杀后，以军开始拆除当地巴勒斯坦建筑。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-23T07:37:07Z"
+      },
+      {
+        "id": "23b2717f5480b0486bed",
+        "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "summary": "担忧美重启对伊打击，布伦特原油升破每桶117美元，创逾半年新高。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-        "publishedAt": "2026-10-23T05:10:24Z"
+        "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+        "publishedAt": "2026-10-23T08:48:28Z"
+      },
+      {
+        "id": "f02fbf99f9dc40e1f5ab",
+        "title": "US and Israel are warned against launching fresh strikes on Iran",
+        "summary": "八个欧中东国家外长在伊斯坦布尔峰会上呼吁美伊走外交途径，勿再动武。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+        "publishedAt": "2026-10-23T09:18:34Z"
       },
       {
         "id": "f86ac52efae7046be800",
@@ -100,44 +132,12 @@
         "publishedAt": "2026-10-23T04:54:44Z"
       },
       {
-        "id": "63e690f773843af70230",
-        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-        "summary": "乌克兰称特朗普宣称解除限制后，Starlink网络仍存在限速问题。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-23T03:01:08Z"
-      },
-      {
-        "id": "a1078f82626010fce15c",
-        "title": "Jordan: Karak church shooting leaves 7 dead",
-        "summary": "约旦南部希腊东正教堂葬礼发生枪击，两名不明枪手开火致多人死亡。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-23T05:07:00Z"
-      },
-      {
-        "id": "279a8fbc14adadb09c2b",
-        "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
-        "summary": "受美或再袭伊朗担忧影响，布伦特原油涨至五个月高点每桶114.72美元。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-        "publishedAt": "2026-10-23T03:35:51Z"
-      },
-      {
         "id": "c17fcb49b0879abc59ee",
         "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-        "summary": "影响七成网站的PHP语言被AI发现严重漏洞，各国紧急加强安全防护。",
+        "summary": "AI发现PHP语言严重漏洞，影响约七成网站，多国紧急加强安全防护。",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
         "publishedAt": "2026-10-23T01:37:38Z"
-      },
-      {
-        "id": "742b9d13836425e1f35d",
-        "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-        "summary": "塞尔维亚10月25日提前举行议会选举，学生团体挑战武契奇长期执政。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
-        "publishedAt": "2026-10-23T01:52:20Z"
       }
     ]
   }
