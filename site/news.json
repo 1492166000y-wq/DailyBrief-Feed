@@ -1,66 +1,26 @@
 {
   "version": 1,
   "date": "2026-10-24",
-  "generatedAt": "2026-10-23T23:08:05Z",
+  "generatedAt": "2026-10-24T04:33:21Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注西藏巴青抗震救灾与地震成因，国常会部署生育友好型社会及AI就业政策，花旗证券获批设立，A股午后大幅反攻；国际聚焦俄乌在奥列什基达成局部停火、法国骚乱与巴黎枪击案、约旦教堂葬礼枪击案及非洲埃博拉疫情扩散。",
+    "overview": "国内聚焦宏观政策、资本市场与科技产业：国常会部署生育友好型社会，A股与ETF放量、油价推升通胀忧虑，AI大模型与芯片业绩受关注。",
     "items": [
-      {
-        "id": "4f46280c3d39a004537b",
-        "title": "西藏巴青“拉张型”地震是如何发生的？影响有多大？",
-        "summary": "西藏巴青7.0级地震为拉张型地震，专家解读成因及影响范围。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34317116",
-        "publishedAt": "2026-10-23T23:08:05Z"
-      },
-      {
-        "id": "19d7fdb95bd24c0f61b5",
-        "title": "人民子弟兵投入西藏巴青抗震救灾",
-        "summary": "人民子弟兵投入西藏巴青抗震救灾，开展搜救与群众安置工作。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E6%8A%95%E5%85%A5%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE",
-        "publishedAt": "2026-10-23T23:08:05Z"
-      },
-      {
-        "id": "614d0687c2c64306f604",
-        "title": "警惕涉西藏巴青7.0级地震不实信息",
-        "summary": "官方提醒警惕涉西藏巴青7.0级地震的不实信息，勿传谣。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%E6%B6%89%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%927.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF",
-        "publishedAt": "2026-10-23T23:08:05Z"
-      },
       {
         "id": "7fa2533b9f09ca848774",
         "title": "国常会：要加快建设生育友好型社会",
-        "summary": "国常会部署加快建设生育友好型社会，完善相关支持政策。",
+        "summary": "国常会提出加快建设生育友好型社会，释放完善生育支持政策的信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2513857",
-        "publishedAt": "2026-10-23T23:08:05Z"
+        "publishedAt": "2026-10-24T04:33:21Z"
       },
       {
-        "id": "587e62651191d0164cd6",
-        "title": "国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 拓展新兴领域人工智能就业新空间",
-        "summary": "国办印发意见，推动适应AI技术发展、构建就业友好型发展方式。",
+        "id": "5b48c3a6f6538d2ae309",
+        "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+        "summary": "早报：特朗普称或对伊发动小规模打击，证监会核准设立花旗证券（中国），多家龙头披露三季报。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2513630",
-        "publishedAt": "2026-10-23T23:08:05Z"
-      },
-      {
-        "id": "bf51440cbc6446cd85cb",
-        "title": "证监会：核准设立花旗证券（中国）有限公司",
-        "summary": "证监会核准设立花旗证券（中国）有限公司，外资券商再扩围。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2513545",
-        "publishedAt": "2026-10-23T23:08:05Z"
-      },
-      {
-        "id": "2826484206ac13313e05",
-        "title": "【每日收评】A股午后绝地反攻，创业板指放量涨超4%，全市场超4500股收红",
-        "summary": "A股午后绝地反攻，创业板指放量涨超4%，逾4500只个股收红。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2513562",
-        "publishedAt": "2026-10-23T23:08:05Z"
+        "url": "https://www.cls.cn/detail/2514116",
+        "publishedAt": "2026-10-24T04:33:21Z"
       },
       {
         "id": "34927be18ac676319b10",
@@ -68,76 +28,116 @@
         "summary": "美国防部公布所谓科研安全审查结果，中国商务部作出回应。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xSRFzZ7poU",
-        "publishedAt": "2026-10-23T23:08:05Z"
+        "publishedAt": "2026-10-24T04:33:21Z"
+      },
+      {
+        "id": "372dff5f54e3441788d0",
+        "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+        "summary": "油价飙升引发通胀忧虑，美股美债承压，黄金周内跌4%，苹果市值一度超英伟达。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784279",
+        "publishedAt": "2026-10-24T04:33:21Z"
+      },
+      {
+        "id": "68d8d3a2ba42efd80f87",
+        "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
+        "summary": "创业板大涨超4%，机器人板块掀涨停潮，宇树科技上市首日涨停，恒科指涨超2%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784272",
+        "publishedAt": "2026-10-24T04:33:21Z"
+      },
+      {
+        "id": "4bb3be89489e9e03cf49",
+        "title": "重磅信号出现：宽基ETF历史天量",
+        "summary": "宽基ETF成交创历史天量，被视为资金入场的重要信号。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784317",
+        "publishedAt": "2026-10-24T04:33:21Z"
+      },
+      {
+        "id": "78b6592644472377fdc0",
+        "title": "主动ETF，帮投资者“被动抄底”？首日发行即冲150亿，摩根易方达富国三只“日光”",
+        "summary": "首批主动ETF发行首日合计冲150亿，摩根、易方达、富国三只产品一日售罄。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2513701",
+        "publishedAt": "2026-10-24T04:33:21Z"
+      },
+      {
+        "id": "b447aa36557567ed47b2",
+        "title": "Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重",
+        "summary": "Kimi发布3万亿参数级模型，编程智能体测评超GPT-6，11月4日前开放权重。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784358",
+        "publishedAt": "2026-10-24T04:33:21Z"
       }
     ]
   },
   "global": {
-    "overview": "全球方面，白宫称梅拉尼娅斡旋促成俄乌奥列什基停火，乌克兰称星链限制仍在；法国部署七万警力应对抗议，巴黎郊区枪击被定性为种族主义恐怖袭击；约旦卡拉克教堂葬礼遭枪击致七人死亡；肯尼亚报告第二例埃博拉死亡，疫情已扩散至四国。",
+    "overview": "国际焦点为中东与俄乌局势：美或再打击伊朗推高油价，约旦教堂枪击致重大伤亡，俄乌达成局部停火，法国抗议前大规模布警。",
     "items": [
       {
-        "id": "d3a7dc79de027508c83e",
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "summary": "白宫称梅拉尼娅斡旋促成俄乌在奥列什基局部停火，当地人道危机严重。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-23T11:30:19Z"
+        "id": "23b2717f5480b0486bed",
+        "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "summary": "担心中东局势升级，布伦特原油涨破每桶117美元，创半年多新高。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+        "publishedAt": "2026-10-23T08:48:28Z"
       },
       {
-        "id": "63e690f773843af70230",
-        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-        "summary": "乌克兰称星链限制仍在，特朗普表示若有问题将协调解决。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-23T10:52:17Z"
+        "id": "9aa4264060236d52149a",
+        "title": "Seven killed and 40 injured after gunmen open fire at church funeral in Jordan",
+        "summary": "约旦卡拉克一教堂葬礼遭枪手袭击，致至少7人死亡、40人受伤。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+        "publishedAt": "2026-10-23T17:57:47Z"
+      },
+      {
+        "id": "05b402c7312752f20849",
+        "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+        "summary": "白宫称俄乌在奥列什基达成由梅拉尼娅斡旋的局部停火，人道危机严重。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+        "publishedAt": "2026-10-23T12:02:21Z"
       },
       {
         "id": "ee8b68bef2d7117e793a",
         "title": "France to deploy 70,000 police officers ahead of protests",
-        "summary": "法国周末抗议前部署7万名警察，誓言防止抢劫与暴力破坏。",
+        "summary": "法国全国抗议前部署7万名警察，誓言防止抢劫与暴力破坏。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-23T14:01:00Z"
       },
       {
-        "id": "e8a853da08a183fec701",
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "summary": "巴黎附近枪击致一死五伤，马克龙称其为种族主义恐怖袭击。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-23T11:42:08Z"
-      },
-      {
-        "id": "d4885ed0c644e58300fb",
-        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-        "summary": "约旦卡拉克教堂葬礼遭枪手袭击致7死34伤，警方展开追捕。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-23T11:46:30Z"
-      },
-      {
-        "id": "00ea4e58a0ad8e0b79e3",
-        "title": "Ebola: Kenya announces second death",
-        "summary": "肯尼亚报告第二例埃博拉死亡，患者为此前死亡病例的亲属。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-23T13:09:00Z"
-      },
-      {
-        "id": "7b3a88bd86992d4e8830",
-        "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
-        "summary": "肯尼亚称无证据显示埃博拉社区传播，疫情已波及非洲四国。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
-        "publishedAt": "2026-10-23T14:33:48Z"
-      },
-      {
         "id": "c17fcb49b0879abc59ee",
         "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-        "summary": "AI发现PHP语言严重漏洞，影响约七成网站，多国紧急加强防护。",
+        "summary": "AI发现PHP严重漏洞，影响约七成网站，多国紧急加强防护。",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
         "publishedAt": "2026-10-23T01:37:38Z"
+      },
+      {
+        "id": "f7c0779f1e8854dcb91a",
+        "title": "Pentagon designates Confucius Institutes a national security threat",
+        "summary": "美国防部将孔子学院列为国家安全威胁，称已拆除80个伪装机构。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
+        "publishedAt": "2026-10-23T19:38:20Z"
+      },
+      {
+        "id": "45d213b4d850955b1c50",
+        "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
+        "summary": "美国务卿鲁比奥呼吁古巴人与中情局合作，推动该国政权更迭。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
+        "publishedAt": "2026-10-23T19:50:32Z"
+      },
+      {
+        "id": "ef4e7d03faf92fda6ec5",
+        "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+        "summary": "世卫组织宣布在刚果（金）启动埃博拉疫苗临床试验，评估多种疫苗。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+        "publishedAt": "2026-10-23T16:27:21Z"
       }
     ]
   }
