@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T04:33:21Z",
+  "generatedAt": "2026-10-24T10:55:18Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦宏观政策、资本市场与科技产业：国常会部署生育友好型社会，A股与ETF放量、油价推升通胀忧虑，AI大模型与芯片业绩受关注。",
+    "overview": "今日国内焦点集中在油价通胀压力、地方经济突破与俄乌局部停火等；财经与科技领域多条动态值得关注。",
     "items": [
       {
-        "id": "7fa2533b9f09ca848774",
-        "title": "国常会：要加快建设生育友好型社会",
-        "summary": "国常会提出加快建设生育友好型社会，释放完善生育支持政策的信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2513857",
-        "publishedAt": "2026-10-24T04:33:21Z"
-      },
-      {
-        "id": "5b48c3a6f6538d2ae309",
-        "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
-        "summary": "早报：特朗普称或对伊发动小规模打击，证监会核准设立花旗证券（中国），多家龙头披露三季报。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514116",
-        "publishedAt": "2026-10-24T04:33:21Z"
-      },
-      {
-        "id": "34927be18ac676319b10",
-        "title": "美国防部公布所谓科研安全审查结果，商务部回应",
-        "summary": "美国防部公布所谓科研安全审查结果，中国商务部作出回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xSRFzZ7poU",
-        "publishedAt": "2026-10-24T04:33:21Z"
+        "id": "10b2d6bd5d6efae2f2bc",
+        "title": "中国首个6万亿城市呼之欲出了",
+        "summary": "中国首个GDP破6万亿元的城市呼之欲出，引发对头部城市经济能级的关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA6%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA%E4%BA%86",
+        "publishedAt": "2026-10-24T10:55:18Z"
       },
       {
         "id": "372dff5f54e3441788d0",
         "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-        "summary": "油价飙升引发通胀忧虑，美股美债承压，黄金周内跌4%，苹果市值一度超英伟达。",
+        "summary": "油价飙升加剧通胀忧虑，美股美债承压，苹果市值一度超越英伟达，黄金周内跌4%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784279",
-        "publishedAt": "2026-10-24T04:33:21Z"
+        "publishedAt": "2026-10-24T10:55:18Z"
       },
       {
-        "id": "68d8d3a2ba42efd80f87",
-        "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
-        "summary": "创业板大涨超4%，机器人板块掀涨停潮，宇树科技上市首日涨停，恒科指涨超2%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784272",
-        "publishedAt": "2026-10-24T04:33:21Z"
+        "id": "67e21772b9553c0437b6",
+        "title": "俄乌同意局部停火，三方会谈或于下月举行",
+        "summary": "俄乌同意局部停火，三方会谈或于下月举行，为冲突降温带来外交窗口。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xU97lVbtE5",
+        "publishedAt": "2026-10-24T10:55:18Z"
       },
       {
-        "id": "4bb3be89489e9e03cf49",
-        "title": "重磅信号出现：宽基ETF历史天量",
-        "summary": "宽基ETF成交创历史天量，被视为资金入场的重要信号。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784317",
-        "publishedAt": "2026-10-24T04:33:21Z"
+        "id": "7fa2533b9f09ca848774",
+        "title": "国常会：要加快建设生育友好型社会",
+        "summary": "国常会提出加快建设生育友好型社会，释放鼓励生育的政策信号。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2513857",
+        "publishedAt": "2026-10-24T10:55:18Z"
+      },
+      {
+        "id": "e0dca0da7a1e8990f240",
+        "title": "去年全国结婚登记676万对",
+        "summary": "去年全国结婚登记676万对，初婚人数重回千万，人口形势受关注。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0676%E4%B8%87%E5%AF%B9%23",
+        "publishedAt": "2026-10-24T10:55:18Z"
       },
       {
         "id": "78b6592644472377fdc0",
         "title": "主动ETF，帮投资者“被动抄底”？首日发行即冲150亿，摩根易方达富国三只“日光”",
-        "summary": "首批主动ETF发行首日合计冲150亿，摩根、易方达、富国三只产品一日售罄。",
+        "summary": "首批主动ETF发行首日冲至150亿元，摩根、易方达、富国三只产品当日售罄。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2513701",
-        "publishedAt": "2026-10-24T04:33:21Z"
+        "publishedAt": "2026-10-24T10:55:18Z"
+      },
+      {
+        "id": "e5a3a57a728056254fc7",
+        "title": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%",
+        "summary": "美伊局势一触即发，油价4月以来首次触及117美元，单月涨幅超10%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784375",
+        "publishedAt": "2026-10-24T10:55:18Z"
       },
       {
         "id": "b447aa36557567ed47b2",
         "title": "Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重",
-        "summary": "Kimi发布3万亿参数级模型，编程智能体测评超GPT-6，11月4日前开放权重。",
+        "summary": "Kimi发布3万亿级模型，编程智能体测评超过GPT-6，11月4日前开放权重。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784358",
-        "publishedAt": "2026-10-24T04:33:21Z"
+        "publishedAt": "2026-10-24T10:55:18Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点为中东与俄乌局势：美或再打击伊朗推高油价，约旦教堂枪击致重大伤亡，俄乌达成局部停火，法国抗议前大规模布警。",
+    "overview": "国际方面，法国全国抗议局势紧张，中东美伊对峙推高油价，朝鲜领导人经新桥访华；多条突发事件并行。",
     "items": [
+      {
+        "id": "e5e9f9d352b35d8f75f6",
+        "title": "Protests begin across France, with shops, businesses and tourist sites closed – Europe live",
+        "summary": "法国全国抗议开始，商铺和景点关闭，当局部署7万警力，意大利等多国亦有示威。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+        "publishedAt": "2026-10-24T02:36:45Z"
+      },
+      {
+        "id": "a5f74e3252b095dbb07a",
+        "title": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
+        "summary": "约旦一东正教堂葬礼遭枪手袭击，致8死40伤，当局定性为极端分子恐怖行为。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+        "publishedAt": "2026-10-24T02:23:13Z"
+      },
+      {
+        "id": "763531a90488bc7237a4",
+        "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+        "summary": "希特勒前阿尔卑斯山“鹰巢”发生火灾几近焚毁，德国警方已逮捕一名嫌疑人。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+        "publishedAt": "2026-10-24T02:04:04Z"
+      },
+      {
+        "id": "d2eb2987e9fa915467c6",
+        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "summary": "肯尼亚一名65岁女性死于埃博拉，成为该国第二例死亡病例，系首例患者亲属。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-24T01:46:53Z"
+      },
+      {
+        "id": "edd3da90d0b5936563e5",
+        "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+        "summary": "肯尼亚首都内罗毕一栋在建多层建筑倒塌，7人失踪，救援正在进行。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-24T01:44:01Z"
+      },
+      {
+        "id": "355addb09736d350aeb9",
+        "title": "Kim Jong-un crosses over newly opened bridge into China",
+        "summary": "金正恩经新开通的鸭绿江新桥赴中国，为一年多来首次已知出访。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+        "publishedAt": "2026-10-24T01:34:40Z"
+      },
+      {
+        "id": "80e25b14c6a4b5db55e0",
+        "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
+        "summary": "欧盟拟放宽农药使用规定，称便于农民采用环保方案，专家警告健康与环境风险过大。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-24T02:33:00Z"
+      },
       {
         "id": "23b2717f5480b0486bed",
         "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "summary": "担心中东局势升级，布伦特原油涨破每桶117美元，创半年多新高。",
+        "summary": "因担忧美国再打击伊朗，布伦特原油涨破每桶117美元，创半年多新高。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
         "publishedAt": "2026-10-23T08:48:28Z"
-      },
-      {
-        "id": "9aa4264060236d52149a",
-        "title": "Seven killed and 40 injured after gunmen open fire at church funeral in Jordan",
-        "summary": "约旦卡拉克一教堂葬礼遭枪手袭击，致至少7人死亡、40人受伤。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-        "publishedAt": "2026-10-23T17:57:47Z"
-      },
-      {
-        "id": "05b402c7312752f20849",
-        "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
-        "summary": "白宫称俄乌在奥列什基达成由梅拉尼娅斡旋的局部停火，人道危机严重。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
-        "publishedAt": "2026-10-23T12:02:21Z"
-      },
-      {
-        "id": "ee8b68bef2d7117e793a",
-        "title": "France to deploy 70,000 police officers ahead of protests",
-        "summary": "法国全国抗议前部署7万名警察，誓言防止抢劫与暴力破坏。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-23T14:01:00Z"
-      },
-      {
-        "id": "c17fcb49b0879abc59ee",
-        "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-        "summary": "AI发现PHP严重漏洞，影响约七成网站，多国紧急加强防护。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-        "publishedAt": "2026-10-23T01:37:38Z"
-      },
-      {
-        "id": "f7c0779f1e8854dcb91a",
-        "title": "Pentagon designates Confucius Institutes a national security threat",
-        "summary": "美国防部将孔子学院列为国家安全威胁，称已拆除80个伪装机构。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-        "publishedAt": "2026-10-23T19:38:20Z"
-      },
-      {
-        "id": "45d213b4d850955b1c50",
-        "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
-        "summary": "美国务卿鲁比奥呼吁古巴人与中情局合作，推动该国政权更迭。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
-        "publishedAt": "2026-10-23T19:50:32Z"
-      },
-      {
-        "id": "ef4e7d03faf92fda6ec5",
-        "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
-        "summary": "世卫组织宣布在刚果（金）启动埃博拉疫苗临床试验，评估多种疫苗。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
-        "publishedAt": "2026-10-23T16:27:21Z"
       }
     ]
   }
