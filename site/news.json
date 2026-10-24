@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T10:55:18Z",
+  "generatedAt": "2026-10-24T15:54:52Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中在油价通胀压力、地方经济突破与俄乌局部停火等；财经与科技领域多条动态值得关注。",
+    "overview": "国内聚焦二十届五中全会、国常会生育友好型社会建设、外贸出口破8万亿及A股与AI产业动向；金正恩访华、油价攀升与多地民生治理事件亦受关注。",
     "items": [
       {
-        "id": "10b2d6bd5d6efae2f2bc",
-        "title": "中国首个6万亿城市呼之欲出了",
-        "summary": "中国首个GDP破6万亿元的城市呼之欲出，引发对头部城市经济能级的关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA6%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA%E4%BA%86",
-        "publishedAt": "2026-10-24T10:55:18Z"
-      },
-      {
-        "id": "372dff5f54e3441788d0",
-        "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-        "summary": "油价飙升加剧通胀忧虑，美股美债承压，苹果市值一度超越英伟达，黄金周内跌4%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784279",
-        "publishedAt": "2026-10-24T10:55:18Z"
-      },
-      {
-        "id": "67e21772b9553c0437b6",
-        "title": "俄乌同意局部停火，三方会谈或于下月举行",
-        "summary": "俄乌同意局部停火，三方会谈或于下月举行，为冲突降温带来外交窗口。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xU97lVbtE5",
-        "publishedAt": "2026-10-24T10:55:18Z"
+        "id": "d826eff5a3123cb011a6",
+        "title": "二十届五中全会是什么会",
+        "summary": "二十届五中全会召开在即，会议职能与议程受关注，将影响未来政策部署。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BC%9A%23",
+        "publishedAt": "2026-10-24T15:54:52Z"
       },
       {
         "id": "7fa2533b9f09ca848774",
         "title": "国常会：要加快建设生育友好型社会",
-        "summary": "国常会提出加快建设生育友好型社会，释放鼓励生育的政策信号。",
+        "summary": "国务院常务会议提出加快建设生育友好型社会，释放优化生育支持政策信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2513857",
-        "publishedAt": "2026-10-24T10:55:18Z"
+        "publishedAt": "2026-10-24T15:54:52Z"
       },
       {
-        "id": "e0dca0da7a1e8990f240",
-        "title": "去年全国结婚登记676万对",
-        "summary": "去年全国结婚登记676万对，初婚人数重回千万，人口形势受关注。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0676%E4%B8%87%E5%AF%B9%23",
-        "publishedAt": "2026-10-24T10:55:18Z"
+        "id": "7d52ea7782a47f948a26",
+        "title": "出口首破8万亿 “新”字挑大梁",
+        "summary": "我国出口规模首次突破8万亿元，新动能产品挑大梁，外贸结构持续升级。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81",
+        "publishedAt": "2026-10-24T15:54:52Z"
       },
       {
-        "id": "78b6592644472377fdc0",
-        "title": "主动ETF，帮投资者“被动抄底”？首日发行即冲150亿，摩根易方达富国三只“日光”",
-        "summary": "首批主动ETF发行首日冲至150亿元，摩根、易方达、富国三只产品当日售罄。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2513701",
-        "publishedAt": "2026-10-24T10:55:18Z"
+        "id": "817e870785670048385d",
+        "title": "金正恩访问丹东 王沪宁陪同",
+        "summary": "金正恩访问丹东，王沪宁陪同，中朝高层互动引发外界对双边关系关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7700187033473679398/",
+        "publishedAt": "2026-10-24T15:54:52Z"
       },
       {
         "id": "e5a3a57a728056254fc7",
         "title": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%",
-        "summary": "美伊局势一触即发，油价4月以来首次触及117美元，单月涨幅超10%。",
+        "summary": "美伊局势一触即发，国际油价4月以来首次触及117美元，单月涨幅超10%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784375",
-        "publishedAt": "2026-10-24T10:55:18Z"
+        "publishedAt": "2026-10-24T15:54:52Z"
+      },
+      {
+        "id": "24ace1c629200369df73",
+        "title": "A股“换挡”，资金在等什么？多位知名首席研判",
+        "summary": "A股进入换挡期，多位知名首席研判资金观望原因与后续配置方向。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2514147",
+        "publishedAt": "2026-10-24T15:54:52Z"
       },
       {
         "id": "b447aa36557567ed47b2",
         "title": "Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重",
-        "summary": "Kimi发布3万亿级模型，编程智能体测评超过GPT-6，11月4日前开放权重。",
+        "summary": "Kimi发布3万亿级模型，编程智能体测评超GPT-6，11月4日前开放权重。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784358",
-        "publishedAt": "2026-10-24T10:55:18Z"
+        "publishedAt": "2026-10-24T15:54:52Z"
+      },
+      {
+        "id": "21fe7a780ca22222c8dc",
+        "title": "广州新规：“电鸡”多次违法可扣车",
+        "summary": "广州出台新规，电动自行车多次违法可被扣车，强化城市交通治理。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%96%B0%E8%A7%84%EF%BC%9A%E2%80%9C%E7%94%B5%E9%B8%A1%E2%80%9D%E5%A4%9A%E6%AC%A1%E8%BF%9D%E6%B3%95%E5%8F%AF%E6%89%A3%E8%BD%A6",
+        "publishedAt": "2026-10-24T15:54:52Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，法国全国抗议局势紧张，中东美伊对峙推高油价，朝鲜领导人经新桥访华；多条突发事件并行。",
+    "overview": "国际焦点为美伊紧张升级推高油价、法国多地示威与欧洲抗议浪潮、俄乌局部停火及星链恢复，另有约旦教堂枪击、以色列西岸行动等多起重大事件。",
     "items": [
       {
-        "id": "e5e9f9d352b35d8f75f6",
-        "title": "Protests begin across France, with shops, businesses and tourist sites closed – Europe live",
-        "summary": "法国全国抗议开始，商铺和景点关闭，当局部署7万警力，意大利等多国亦有示威。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-        "publishedAt": "2026-10-24T02:36:45Z"
-      },
-      {
-        "id": "a5f74e3252b095dbb07a",
-        "title": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
-        "summary": "约旦一东正教堂葬礼遭枪手袭击，致8死40伤，当局定性为极端分子恐怖行为。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-        "publishedAt": "2026-10-24T02:23:13Z"
-      },
-      {
-        "id": "763531a90488bc7237a4",
-        "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-        "summary": "希特勒前阿尔卑斯山“鹰巢”发生火灾几近焚毁，德国警方已逮捕一名嫌疑人。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-        "publishedAt": "2026-10-24T02:04:04Z"
-      },
-      {
-        "id": "d2eb2987e9fa915467c6",
-        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-        "summary": "肯尼亚一名65岁女性死于埃博拉，成为该国第二例死亡病例，系首例患者亲属。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-24T01:46:53Z"
-      },
-      {
-        "id": "edd3da90d0b5936563e5",
-        "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-        "summary": "肯尼亚首都内罗毕一栋在建多层建筑倒塌，7人失踪，救援正在进行。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-24T01:44:01Z"
-      },
-      {
-        "id": "355addb09736d350aeb9",
-        "title": "Kim Jong-un crosses over newly opened bridge into China",
-        "summary": "金正恩经新开通的鸭绿江新桥赴中国，为一年多来首次已知出访。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-        "publishedAt": "2026-10-24T01:34:40Z"
-      },
-      {
-        "id": "80e25b14c6a4b5db55e0",
-        "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-        "summary": "欧盟拟放宽农药使用规定，称便于农民采用环保方案，专家警告健康与环境风险过大。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-24T02:33:00Z"
+        "id": "d4166fbf497fc66f5be9",
+        "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+        "summary": "伊朗称不允许美舰靠近，特朗普考虑新一轮打击，海湾战争风险上升。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+        "publishedAt": "2026-10-24T05:06:03Z"
       },
       {
         "id": "23b2717f5480b0486bed",
         "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "summary": "因担忧美国再打击伊朗，布伦特原油涨破每桶117美元，创半年多新高。",
+        "summary": "受美国或再袭伊朗担忧影响，布伦特原油突破每桶117美元，创半年多新高。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
         "publishedAt": "2026-10-23T08:48:28Z"
+      },
+      {
+        "id": "02d7206bf69171f81667",
+        "title": "France protests live: 135 arrested as marches held under tight security",
+        "summary": "法国多地示威持续，警方已逮捕135人，政府部署精锐力量严防骚乱。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
+        "publishedAt": "2026-10-24T04:55:37Z"
+      },
+      {
+        "id": "0bbd2729dc849b995458",
+        "title": "Security forces deploy as Milan braces for another day of protests",
+        "summary": "意大利向米兰增派数百士兵，应对新一轮抗议，欧洲多地示威蔓延。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+        "publishedAt": "2026-10-24T07:05:58Z"
+      },
+      {
+        "id": "804ebb2b59123ae6cf65",
+        "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+        "summary": "乌克兰称星链连接已恢复，乌俄美谈判代表预计下月在阿布扎比会晤。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+        "publishedAt": "2026-10-24T06:23:40Z"
+      },
+      {
+        "id": "34d412053ff7102c3b98",
+        "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
+        "summary": "约旦一教堂葬礼遭枪手袭击致9死40伤，当局定性为恐怖袭击并追捕凶手。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+        "publishedAt": "2026-10-24T06:24:15Z"
+      },
+      {
+        "id": "7565c9af871f8a23eeab",
+        "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+        "summary": "以军拆除希伯伦一街区，数百家庭被迫离家，内塔尼亚胡称系报复行动。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+        "publishedAt": "2026-10-24T05:17:13Z"
+      },
+      {
+        "id": "a86eae1232a052e35aea",
+        "title": "Google illegally cut down 250K trees in Finland for data center",
+        "summary": "谷歌被指在芬兰为建数据中心非法砍伐25万棵树，引发当地民众不满。",
+        "source": "Hacker News",
+        "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+        "publishedAt": "2026-10-24T06:38:34Z"
       }
     ]
   }
