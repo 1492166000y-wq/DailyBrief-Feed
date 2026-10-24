@@ -1,116 +1,92 @@
 {
   "version": 1,
   "date": "2026-10-25",
-  "generatedAt": "2026-10-24T18:47:01Z",
+  "generatedAt": "2026-10-24T22:28:05Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦：国常会推进生育友好型社会建设，金正恩经新桥访丹东，出口规模首破8万亿，广州电动自行车管理新规，以及AI资本与产业动态。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "7fa2533b9f09ca848774",
-        "title": "国常会：要加快建设生育友好型社会",
-        "summary": "国常会部署加快建设生育友好型社会，完善相关支持政策。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2513857",
-        "publishedAt": "2026-10-24T18:47:01Z"
-      },
-      {
-        "id": "817e870785670048385d",
-        "title": "金正恩访问丹东 王沪宁陪同",
-        "summary": "金正恩经新鸭绿江大桥访问丹东，王沪宁陪同，系近期中朝高层互动。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7700187033473679398/",
-        "publishedAt": "2026-10-24T18:47:01Z"
-      },
-      {
-        "id": "7d52ea7782a47f948a26",
-        "title": "出口首破8万亿 “新”字挑大梁",
-        "summary": "我国出口规模首次突破8万亿元，新动能产品出口挑大梁。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81",
-        "publishedAt": "2026-10-24T18:47:01Z"
-      },
-      {
-        "id": "21fe7a780ca22222c8dc",
-        "title": "广州新规：“电鸡”多次违法可扣车",
-        "summary": "广州出台新规，电动自行车多次违法可依法扣留车辆。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%96%B0%E8%A7%84%EF%BC%9A%E2%80%9C%E7%94%B5%E9%B8%A1%E2%80%9D%E5%A4%9A%E6%AC%A1%E8%BF%9D%E6%B3%95%E5%8F%AF%E6%89%A3%E8%BD%A6",
-        "publishedAt": "2026-10-24T18:47:01Z"
+        "id": "9eb30d4f95b467c0b39a",
+        "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+        "summary": "王沪宁陪同金正恩访问丹东，朝方跨新鸭绿江大桥访华，称希望扩大对华合作。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34325705",
+        "publishedAt": "2026-10-24T22:28:05Z"
       },
       {
         "id": "dfe661a1c0b134e42631",
         "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
-        "summary": "AI板块回调引发全球资本从美股向美债等资产转移，市场现资本争夺战。",
+        "summary": "AI投资回调资金转向美债，全球资本争夺加剧，机构大幅减仓AI引发市场关注。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784376",
-        "publishedAt": "2026-10-24T18:47:01Z"
-      },
-      {
-        "id": "b447aa36557567ed47b2",
-        "title": "Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重",
-        "summary": "Kimi发布3万亿级模型，编程智能体测评超GPT-6，11月4日前开放权重。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784358",
-        "publishedAt": "2026-10-24T18:47:01Z"
+        "publishedAt": "2026-10-24T22:28:05Z"
       },
       {
         "id": "24ace1c629200369df73",
         "title": "A股“换挡”，资金在等什么？多位知名首席研判",
-        "summary": "A股市场进入“换挡”期，多位首席分析师研判资金等待方向。",
+        "summary": "A股进入换挡期，多位首席研判资金观望原因与后市走向，关注政策与盈利支撑。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2514147",
-        "publishedAt": "2026-10-24T18:47:01Z"
+        "publishedAt": "2026-10-24T22:28:05Z"
       },
       {
         "id": "e5a3a57a728056254fc7",
         "title": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%",
-        "summary": "美伊局势紧张推升油价，4月以来首次触及117美元，单月涨超10%。",
+        "summary": "美伊局势紧张，油价四月来首次触及117美元，单月涨超10%，通胀忧虑升温。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784375",
-        "publishedAt": "2026-10-24T18:47:01Z"
+        "publishedAt": "2026-10-24T22:28:05Z"
+      },
+      {
+        "id": "7d52ea7782a47f948a26",
+        "title": "出口首破8万亿 “新”字挑大梁",
+        "summary": "我国出口首次突破8万亿元，“新”动能挑大梁，外贸结构持续优化。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81",
+        "publishedAt": "2026-10-24T22:28:05Z"
+      },
+      {
+        "id": "7fa2533b9f09ca848774",
+        "title": "国常会：要加快建设生育友好型社会",
+        "summary": "国常会部署加快建设生育友好型社会，完善支持政策，应对人口与婚育形势。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2513857",
+        "publishedAt": "2026-10-24T22:28:05Z"
+      },
+      {
+        "id": "c9ca2c913a01d24cd804",
+        "title": "一图世界｜多型导弹首次参与，瞄准岛链封锁，美日“利剑”演习为何值得关注",
+        "summary": "美日“利剑”演习多型导弹首次参演，演练岛链封锁，地区安全动向受关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34325334",
+        "publishedAt": "2026-10-24T22:28:05Z"
+      },
+      {
+        "id": "dd56369478a822f6e5f8",
+        "title": "台风“蔷琵”影响何时结束？今年编号台风数已并列本世纪以来最多",
+        "summary": "台风“蔷琵”影响趋于结束，今年编号台风数并列本世纪以来最多，防灾形势严峻。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34324451",
+        "publishedAt": "2026-10-24T22:28:05Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻聚焦：法国全国性抗议与逮捕，巴西大选冲刺，伊朗局势与油价飙升，以军西岸行动，乌克兰星链恢复，以及约旦教堂袭击事件。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "62b82c3d16cbd171d096",
-        "title": "Hundreds of thousands march across France in protests over schools and policing",
-        "summary": "法国数十万人游行要求改善学校与警务，政府称至少40万人参与。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-        "publishedAt": "2026-10-24T09:54:41Z"
-      },
-      {
-        "id": "9cd31d1e39470ba1557f",
-        "title": "Hundreds of thousands march across France as protests take place across Europe – Europe live",
-        "summary": "欧洲多国爆发抗议，法国警方逮捕135人，意大利警方突击搜查。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-        "publishedAt": "2026-10-24T10:26:30Z"
-      },
-      {
-        "id": "4a893e1a09b3765083ba",
-        "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
-        "summary": "巴西大选第二轮前夕，数万卢拉支持者在里约海滩举行集会。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-        "publishedAt": "2026-10-24T10:11:44Z"
-      },
-      {
-        "id": "a4be9152d5c29cf3b8cc",
-        "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-        "summary": "巴西大选二轮选前民调显示卢拉与博索纳罗支持率接近。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-        "publishedAt": "2026-10-24T07:36:38Z"
+        "id": "d65df5762d9d853111e2",
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "summary": "法国全国大规模抗议再起，近千人被捕，警方强力维稳避免重演上周骚乱。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-24T13:09:27Z"
       },
       {
         "id": "d4166fbf497fc66f5be9",
         "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-        "summary": "伊朗称不允许美舰靠近，特朗普考虑新打击，海湾战争风险上升。",
+        "summary": "伊朗称不允许美舰靠近，特朗普考虑新的打击，海湾军事冲突风险上升。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
         "publishedAt": "2026-10-24T05:06:03Z"
@@ -118,26 +94,50 @@
       {
         "id": "23b2717f5480b0486bed",
         "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "summary": "受美国或再袭伊朗担忧影响，布伦特原油突破每桶117美元，创半年多新高。",
+        "summary": "担忧美国再袭伊朗，布伦特原油突破每桶117美元，创半年多新高。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
         "publishedAt": "2026-10-23T08:48:28Z"
       },
       {
-        "id": "7565c9af871f8a23eeab",
-        "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-        "summary": "以军拆除希伯伦一街区，数百家庭被迫离家，内塔尼亚胡称系报复行动。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-        "publishedAt": "2026-10-24T05:17:13Z"
+        "id": "3a215c919bac2319cb73",
+        "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+        "summary": "巴西大选二轮投票前夕，卢拉与博索纳罗阵营分别举行大型集会，选情胶着。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+        "publishedAt": "2026-10-24T13:39:29Z"
       },
       {
-        "id": "74ff3881891505881d2c",
-        "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-        "summary": "乌克兰军方称星链连接恢复稳定，此前限制曾影响防空与后勤。",
+        "id": "804ebb2b59123ae6cf65",
+        "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+        "summary": "乌克兰称星链连接恢复稳定，乌俄美谈判代表预计下月在阿布扎比会晤。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+        "publishedAt": "2026-10-24T06:23:40Z"
+      },
+      {
+        "id": "ef356304a03362abfd92",
+        "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
+        "summary": "以色列极右翼部长获内塔尼亚胡重用，选前强硬政策与巴勒斯坦问题受关注。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
+        "publishedAt": "2026-10-24T13:20:52Z"
+      },
+      {
+        "id": "34d412053ff7102c3b98",
+        "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
+        "summary": "约旦一东正教堂葬礼遭枪手袭击，致9死40伤，当局定性为恐怖袭击。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-        "publishedAt": "2026-10-24T07:47:20Z"
+        "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+        "publishedAt": "2026-10-24T06:24:15Z"
+      },
+      {
+        "id": "763531a90488bc7237a4",
+        "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+        "summary": "希特勒旧居“鹰巢”起火损毁严重，德国警方逮捕一名33岁德国籍嫌疑人。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+        "publishedAt": "2026-10-24T06:28:15Z"
       }
     ]
   }
