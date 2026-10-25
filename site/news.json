@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T11:22:40Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-25T16:14:01Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点：王沪宁陪同金正恩访问丹东，A股市场资金观望情绪升温，半导体关键材料氦气获美方关注，AI投资逻辑与网络安全风险持续发酵，同时金饰价格回落与AI造假带货等民生科技议题受到关注。",
+    "overview": "国内要闻聚焦资本市场规则调整、AI与科技产业动态及地方人事变动，同时涵盖国际时事与安全议题；已排除娱乐体育类热搜。",
     "items": [
       {
-        "id": "9eb30d4f95b467c0b39a",
-        "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
-        "summary": "王沪宁陪同朝鲜最高领导人金正恩访问丹东，凸显中朝高层交往与边境合作动向。",
+        "id": "7258615fd2e5c5e1585a",
+        "title": "俯瞰中国台湾，20张高清卫星影像定格宝岛多样地貌与鲜活人文",
+        "summary": "澎湃新闻发布20张中国台湾高清卫星影像，展现宝岛多样地貌与人文风貌。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34325705",
-        "publishedAt": "2026-10-25T11:22:40Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34328530",
+        "publishedAt": "2026-10-25T16:14:01Z"
+      },
+      {
+        "id": "8e0662bac802370093dd",
+        "title": "周末要闻汇总：上证指数、科创综指明起有新变化；高盛下调韩国股指目标价",
+        "summary": "周末要闻汇总：上证指数、科创综指明日起调整，高盛下调韩国股指目标价。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2514420",
+        "publishedAt": "2026-10-25T16:14:01Z"
       },
       {
         "id": "24ace1c629200369df73",
         "title": "A股“换挡”，资金在等什么？多位知名首席研判",
-        "summary": "A股“换挡”引发市场关注，多位首席研判资金观望原因与后续方向。",
+        "summary": "A股进入“换挡”阶段，多位知名首席研判资金观望原因与后续走向。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2514147",
-        "publishedAt": "2026-10-25T11:22:40Z"
+        "publishedAt": "2026-10-25T16:14:01Z"
+      },
+      {
+        "id": "5f1d34703dc3de00eabe",
+        "title": "明起实施！上证指数、科创综指等拟修订，单样本权重不超15%",
+        "summary": "上证指数、科创综指等修订明起实施，单一样本权重上限设为15%。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34328014",
+        "publishedAt": "2026-10-25T16:14:01Z"
       },
       {
         "id": "eac3422d3635890ffbc7",
         "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-        "summary": "美国能源部将氦气认定为关键材料，攸关半导体生产，或影响全球供应链。",
+        "summary": "美国能源部将氦气列为关键材料，事关半导体生产供应链安全。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2514219",
-        "publishedAt": "2026-10-25T11:22:40Z"
+        "publishedAt": "2026-10-25T16:14:01Z"
       },
       {
-        "id": "7f886c17e2e4ab358e19",
-        "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
-        "summary": "AI投资逻辑从“稳赚不赔”转向“两害相权”，市场风险偏好明显变化。",
+        "id": "b71ff0b6011b8469f48a",
+        "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+        "summary": "下周迎来美联储决议与科技巨头财报，市场关注AI交易能否企稳。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784381",
-        "publishedAt": "2026-10-25T11:22:40Z"
+        "url": "https://wallstreetcn.com/articles/3784282",
+        "publishedAt": "2026-10-25T16:14:01Z"
       },
       {
-        "id": "4c52c2fa484c53c34e5f",
-        "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-        "summary": "“黑色十月”席卷全球互联网，AI正深刻改变网络安全攻防格局。",
+        "id": "da9a022f1914d81b27b0",
+        "title": "【早报】美发布新版对外投资限制拟议规则，商务部回应；国内金饰克价跌穿1200元",
+        "summary": "美发布新版对外投资限制拟议规则，商务部回应；国内金饰克价跌破1200元。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514247",
-        "publishedAt": "2026-10-25T11:22:40Z"
+        "url": "https://www.cls.cn/detail/2514282",
+        "publishedAt": "2026-10-25T16:14:01Z"
       },
       {
-        "id": "c9ca2c913a01d24cd804",
-        "title": "一图世界｜多型导弹首次参与，瞄准岛链封锁，美日“利剑”演习为何值得关注",
-        "summary": "美日“利剑”演习多型导弹首次参与，瞄准岛链封锁，地区安全影响受关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34325334",
-        "publishedAt": "2026-10-25T11:22:40Z"
-      },
-      {
-        "id": "12a2f917160a43a52708",
-        "title": "国内金饰克价跌穿1200元意味什么",
-        "summary": "国内金饰克价跌穿1200元，引发市场对黄金消费与投资前景的讨论。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7700540247485976083/",
-        "publishedAt": "2026-10-25T11:22:40Z"
-      },
-      {
-        "id": "44700eacabcd53da360e",
-        "title": "央视曝AI人哭着卖惨带货",
-        "summary": "央视曝光AI人哭着卖惨带货，引发对人工智能滥用与消费者保护的关注。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9DAI%E4%BA%BA%E5%93%AD%E7%9D%80%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7%23",
-        "publishedAt": "2026-10-25T11:22:40Z"
+        "id": "e1fedac3f04f88e72f40",
+        "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
+        "summary": "苹果首款折叠屏iPhone Duo曝出折痕裂屏问题，有用户折叠不足20次即损坏。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784402",
+        "publishedAt": "2026-10-25T16:14:01Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面：巴西与塞尔维亚大选投票成为焦点，法国大规模抗议与欧洲多国示威持续发酵，美伊紧张局势推高油价，以色列大选前安保与政治博弈升温，同时沙特与胡塞武装冲突加剧。",
+    "overview": "国际要闻围绕多国选举、中东局势与能源安全、欧洲抗议浪潮及AI治理等跨来源确认议题展开。",
     "items": [
       {
         "id": "5ee77717c32f019ee57c",
         "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-        "summary": "巴西总统大选二轮投票，卢拉与博索纳罗之子对决，结果牵动拉美政治走向。",
+        "summary": "巴西举行总统选举第二轮投票，左翼卢拉与极右翼博索纳罗阵营对决。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-        "publishedAt": "2026-10-25T00:00:58Z"
+        "publishedAt": "2026-10-25T06:41:17Z"
       },
       {
-        "id": "e37ea8bfbd9f311a6d4b",
-        "title": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-        "summary": "塞尔维亚举行激烈选举，学生主导的反对派挑战武契奇长期执政地位。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-25T02:42:00Z"
-      },
-      {
-        "id": "c2c9fc4cd23e8d9bc4f1",
-        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-        "summary": "法国大规模抗议后冲突再起，超1300人被捕，示威浪潮蔓延欧洲多国。",
+        "id": "89f8e64e94107612c16e",
+        "title": "Early reports suggest record high turnout in Serbia elections",
+        "summary": "塞尔维亚议会选举初步报告显示投票率创新高，学生运动挑战武契奇长期执政。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-25T02:38:15Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-25T08:05:15Z"
+      },
+      {
+        "id": "6595d3cb2eb8e12b6b4c",
+        "title": "Israelis have changed. Will they change their leadership?",
+        "summary": "以色列本周举行大选，经历多年战争后选民关注领导层是否更替。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+        "publishedAt": "2026-10-25T08:00:00Z"
+      },
+      {
+        "id": "62b82c3d16cbd171d096",
+        "title": "Hundreds of thousands march across France in protests over schools and policing",
+        "summary": "法国数十万人游行抗议学校与治安问题，近千人被捕，示威蔓延欧洲多城。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+        "publishedAt": "2026-10-25T04:07:05Z"
+      },
+      {
+        "id": "478b7fedc491d5a1c63f",
+        "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+        "summary": "加沙多地遭以色列空袭，一所大学校区遇袭致三名警卫死亡，共七人丧生。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+        "publishedAt": "2026-10-25T07:40:25Z"
       },
       {
         "id": "23b2717f5480b0486bed",
         "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "summary": "担忧美国再袭伊朗，布伦特原油突破每桶117美元，创半年多新高。",
+        "summary": "担忧美国再度打击伊朗，布伦特原油突破每桶117美元，创半年多新高。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
         "publishedAt": "2026-10-23T08:48:28Z"
       },
       {
-        "id": "83b59c23ef513557abed",
-        "title": "Israeli elections: What are the possible outcomes?",
-        "summary": "以色列大选临近，内塔尼亚胡领导地位面临考验，可能结果引发关注。",
+        "id": "0a029e3c18ad31929acd",
+        "title": "UN official warns AI could ‘deepen’ global inequality",
+        "summary": "联合国官员警告人工智能可能“加深”全球不平等，呼吁加强治理。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss",
-        "publishedAt": "2026-10-24T23:10:52Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+        "publishedAt": "2026-10-25T07:38:52Z"
       },
       {
-        "id": "0060a742fe1364876250",
-        "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-        "summary": "沙特拦截针对利雅得及南部地区的导弹和无人机，与胡塞武装冲突升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-        "publishedAt": "2026-10-25T02:42:51Z"
-      },
-      {
-        "id": "fcb892f6fb690fe49558",
-        "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
-        "summary": "纽约大主教区同意向1300名性侵幸存者支付8亿美元，为美国第二大同类和解。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss",
-        "publishedAt": "2026-10-24T19:57:13Z"
-      },
-      {
-        "id": "28662b17aa76224aa2fe",
-        "title": "Trump announces Audi will build $4 billion factory in US",
-        "summary": "特朗普宣布奥迪将在美建40亿美元工厂，德车企确认但投产或需至下个十年初。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-24T20:44:00Z"
+        "id": "81299bd57d485539332a",
+        "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+        "summary": "奥迪将在美国佐治亚州投资40亿美元建厂，创造4500个岗位，大众本土裁员同步进行。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+        "publishedAt": "2026-10-25T05:43:19Z"
       }
     ]
   }
