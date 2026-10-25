@@ -1,95 +1,103 @@
 {
   "version": 1,
   "date": "2026-10-25",
-  "generatedAt": "2026-10-24T22:28:05Z",
+  "generatedAt": "2026-10-25T04:37:47Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内聚焦高层外交、宏观政策与科技产业动态，朝鲜领导人访华、国常会部署生育友好型社会、A股市场研判及AI投资逻辑变化受关注。",
     "items": [
       {
         "id": "9eb30d4f95b467c0b39a",
         "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
-        "summary": "王沪宁陪同金正恩访问丹东，朝方跨新鸭绿江大桥访华，称希望扩大对华合作。",
+        "summary": "王沪宁陪同朝鲜最高领导人金正恩访问丹东，凸显中朝高层交往。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34325705",
-        "publishedAt": "2026-10-24T22:28:05Z"
-      },
-      {
-        "id": "dfe661a1c0b134e42631",
-        "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
-        "summary": "AI投资回调资金转向美债，全球资本争夺加剧，机构大幅减仓AI引发市场关注。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784376",
-        "publishedAt": "2026-10-24T22:28:05Z"
-      },
-      {
-        "id": "24ace1c629200369df73",
-        "title": "A股“换挡”，资金在等什么？多位知名首席研判",
-        "summary": "A股进入换挡期，多位首席研判资金观望原因与后市走向，关注政策与盈利支撑。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514147",
-        "publishedAt": "2026-10-24T22:28:05Z"
-      },
-      {
-        "id": "e5a3a57a728056254fc7",
-        "title": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%",
-        "summary": "美伊局势紧张，油价四月来首次触及117美元，单月涨超10%，通胀忧虑升温。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784375",
-        "publishedAt": "2026-10-24T22:28:05Z"
-      },
-      {
-        "id": "7d52ea7782a47f948a26",
-        "title": "出口首破8万亿 “新”字挑大梁",
-        "summary": "我国出口首次突破8万亿元，“新”动能挑大梁，外贸结构持续优化。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81",
-        "publishedAt": "2026-10-24T22:28:05Z"
+        "publishedAt": "2026-10-25T04:37:47Z"
       },
       {
         "id": "7fa2533b9f09ca848774",
         "title": "国常会：要加快建设生育友好型社会",
-        "summary": "国常会部署加快建设生育友好型社会，完善支持政策，应对人口与婚育形势。",
+        "summary": "国务院常务会议要求加快建设生育友好型社会，完善配套支持政策。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2513857",
-        "publishedAt": "2026-10-24T22:28:05Z"
+        "publishedAt": "2026-10-25T04:37:47Z"
       },
       {
-        "id": "c9ca2c913a01d24cd804",
-        "title": "一图世界｜多型导弹首次参与，瞄准岛链封锁，美日“利剑”演习为何值得关注",
-        "summary": "美日“利剑”演习多型导弹首次参演，演练岛链封锁，地区安全动向受关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34325334",
-        "publishedAt": "2026-10-24T22:28:05Z"
+        "id": "24ace1c629200369df73",
+        "title": "A股“换挡”，资金在等什么？多位知名首席研判",
+        "summary": "A股市场进入“换挡”期，多位知名首席研判资金流向与配置方向。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2514147",
+        "publishedAt": "2026-10-25T04:37:47Z"
       },
       {
-        "id": "dd56369478a822f6e5f8",
-        "title": "台风“蔷琵”影响何时结束？今年编号台风数已并列本世纪以来最多",
-        "summary": "台风“蔷琵”影响趋于结束，今年编号台风数并列本世纪以来最多，防灾形势严峻。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34324451",
-        "publishedAt": "2026-10-24T22:28:05Z"
+        "id": "d8e0160de135856e5e57",
+        "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
+        "summary": "高盛解读机构大幅减仓AI，称“共识交易”瓦解、新共识正在形成。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784388",
+        "publishedAt": "2026-10-25T04:37:47Z"
+      },
+      {
+        "id": "f8a11b6454293a8484e4",
+        "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
+        "summary": "亚马逊CEO称AI业务年化收入超250亿美元，增速远超AWS初期，仍供不应求。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784391",
+        "publishedAt": "2026-10-25T04:37:47Z"
+      },
+      {
+        "id": "eac3422d3635890ffbc7",
+        "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
+        "summary": "美国能源部将氦气认定为关键材料，因其攸关半导体生产引发关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2514219",
+        "publishedAt": "2026-10-25T04:37:47Z"
+      },
+      {
+        "id": "2bfd4aa5b062bafc8910",
+        "title": "泽连斯基：绝不接受放弃25%领土提议",
+        "summary": "泽连斯基表示绝不接受放弃25%领土的提议，俄乌和谈立场强硬。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7699509225088745526/",
+        "publishedAt": "2026-10-25T04:37:47Z"
+      },
+      {
+        "id": "e527780b2918b97323ad",
+        "title": "高盛：人民币将迎来5.5时代",
+        "summary": "高盛预测人民币将迎来5.5时代，引发市场对汇率走势关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7699576136581513252/",
+        "publishedAt": "2026-10-25T04:37:47Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际方面，法国大规模抗议引发逮捕潮，美国中期选举临近奥巴马助选，美伊紧张局势推高油价，巴西大选投票在即。",
     "items": [
       {
         "id": "d65df5762d9d853111e2",
         "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-        "summary": "法国全国大规模抗议再起，近千人被捕，警方强力维稳避免重演上周骚乱。",
+        "summary": "法国大规模抗议后爆发冲突，近千人被捕，示威浪潮波及欧洲多国。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-24T13:09:27Z"
+        "publishedAt": "2026-10-24T20:16:52Z"
       },
       {
-        "id": "d4166fbf497fc66f5be9",
-        "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-        "summary": "伊朗称不允许美舰靠近，特朗普考虑新的打击，海湾军事冲突风险上升。",
+        "id": "f6bddcb9c3b72c24893c",
+        "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+        "summary": "特朗普暗示可能于周日对伊朗发动攻击或达成协议，美伊局势高度紧张。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
-        "publishedAt": "2026-10-24T05:06:03Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+        "publishedAt": "2026-10-24T16:00:00Z"
+      },
+      {
+        "id": "bdf80b4f24c79c277a0c",
+        "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+        "summary": "奥巴马在中期选举集会上抨击特朗普的“残忍与腐败”，为民主党助选。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+        "publishedAt": "2026-10-24T16:34:43Z"
       },
       {
         "id": "23b2717f5480b0486bed",
@@ -100,28 +108,28 @@
         "publishedAt": "2026-10-23T08:48:28Z"
       },
       {
-        "id": "3a215c919bac2319cb73",
-        "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-        "summary": "巴西大选二轮投票前夕，卢拉与博索纳罗阵营分别举行大型集会，选情胶着。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
-        "publishedAt": "2026-10-24T13:39:29Z"
+        "id": "edf35397adf0fcdd7bf7",
+        "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+        "summary": "巴西大选二轮投票前夕，超百万卢拉支持者在里约集会，选情胶着。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+        "publishedAt": "2026-10-24T13:10:23Z"
       },
       {
-        "id": "804ebb2b59123ae6cf65",
-        "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-        "summary": "乌克兰称星链连接恢复稳定，乌俄美谈判代表预计下月在阿布扎比会晤。",
+        "id": "fcb892f6fb690fe49558",
+        "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
+        "summary": "纽约大主教区同意向1300名性侵幸存者支付8亿美元，为美国第二大同类和解。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-        "publishedAt": "2026-10-24T06:23:40Z"
+        "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss",
+        "publishedAt": "2026-10-24T19:57:13Z"
       },
       {
-        "id": "ef356304a03362abfd92",
-        "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
-        "summary": "以色列极右翼部长获内塔尼亚胡重用，选前强硬政策与巴勒斯坦问题受关注。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
-        "publishedAt": "2026-10-24T13:20:52Z"
+        "id": "1c3dcff444f0c8884c70",
+        "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+        "summary": "以色列大选前数千人集会反对内塔尼亚胡，要求调查10月7日事件。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+        "publishedAt": "2026-10-24T18:07:29Z"
       },
       {
         "id": "34d412053ff7102c3b98",
@@ -130,14 +138,6 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
         "publishedAt": "2026-10-24T06:24:15Z"
-      },
-      {
-        "id": "763531a90488bc7237a4",
-        "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-        "summary": "希特勒旧居“鹰巢”起火损毁严重，德国警方逮捕一名33岁德国籍嫌疑人。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-        "publishedAt": "2026-10-24T06:28:15Z"
       }
     ]
   }
