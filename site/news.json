@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-26",
-  "generatedAt": "2026-10-25T19:03:07Z",
+  "generatedAt": "2026-10-25T22:32:14Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内时政聚焦中央巡视反馈、民生与产业动向；资本市场关注A股换挡、券商策略与半导体氦气等关键材料；科技领域折叠屏iPhone质量、AI出海合规及机器人IPO门槛成热点。",
+    "overview": "国内要闻聚焦宏观政策与资本市场动态：券商研判A股反弹主线，上证指数与科创综指迎来新调整；进博会筹备、国家水网建设等重大议题推进；科技领域关注苹果折叠屏质量、AI产业趋势及半导体材料供应风险。社会层面涉及地震抢险与人口走失案件。",
     "items": [
       {
-        "id": "c0bcaee4650b00b7f10b",
-        "title": "二十届中央第七轮巡视完成反馈",
-        "summary": "二十届中央第七轮巡视完成反馈，巡视整改与问题清单成后续监督重点。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34329709",
-        "publishedAt": "2026-10-25T19:03:07Z"
-      },
-      {
-        "id": "3bb32439020576420d11",
-        "title": "国家水网到底有多硬核",
-        "summary": "国家水网建设进展受关注，跨流域调水与供水保障能力持续提升。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E6%B0%B4%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8",
-        "publishedAt": "2026-10-25T19:03:07Z"
-      },
-      {
-        "id": "fa86be61790fe9524c90",
-        "title": "县委书记回应被扔下水：张雪临时起意",
-        "summary": "县委书记回应被扔下水事件，称当事人张雪系临时起意，引发基层治理讨论。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%89%94%E4%B8%8B%E6%B0%B4%EF%BC%9A%E5%BC%A0%E9%9B%AA%E4%B8%B4%E6%97%B6%E8%B5%B7%E6%84%8F",
-        "publishedAt": "2026-10-25T19:03:07Z"
+        "id": "ea9da143820e23e51110",
+        "title": "A股蓄势反弹可期？投资主线有哪些？十大券商策略来了",
+        "summary": "十大券商策略出炉，研判A股蓄势反弹可期，并梳理后续投资主线。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2514451",
+        "publishedAt": "2026-10-25T22:32:14Z"
       },
       {
         "id": "8e0662bac802370093dd",
         "title": "周末要闻汇总：上证指数、科创综指明起有新变化；高盛下调韩国股指目标价",
-        "summary": "上证指数、科创综指明起调整，高盛下调韩国股指目标价，周末市场信息密集。",
+        "summary": "上证指数、科创综指明起调整，高盛下调韩国股指目标价。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2514420",
-        "publishedAt": "2026-10-25T19:03:07Z"
+        "publishedAt": "2026-10-25T22:32:14Z"
       },
       {
-        "id": "ea9da143820e23e51110",
-        "title": "A股蓄势反弹可期？投资主线有哪些？十大券商策略来了",
-        "summary": "十大券商策略发布，研判A股蓄势反弹可能性与后续投资主线。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514451",
-        "publishedAt": "2026-10-25T19:03:07Z"
+        "id": "ef32ac05e7ec83e0ecde",
+        "title": "六大议题、90余场活动，2026进博会上海会议活动开放报名",
+        "summary": "2026进博会上海会议活动开放报名，涵盖六大议题和90余场活动。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34329840",
+        "publishedAt": "2026-10-25T22:32:14Z"
       },
       {
-        "id": "24ace1c629200369df73",
-        "title": "A股“换挡”，资金在等什么？多位知名首席研判",
-        "summary": "多位知名首席研判A股“换挡”，分析资金观望原因与配置方向。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514147",
-        "publishedAt": "2026-10-25T19:03:07Z"
+        "id": "e1fedac3f04f88e72f40",
+        "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
+        "summary": "苹果首款折叠屏iPhone Duo曝质量缺陷，有用户折叠不到20次即裂屏。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784402",
+        "publishedAt": "2026-10-25T22:32:14Z"
       },
       {
         "id": "eac3422d3635890ffbc7",
         "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-        "summary": "美国能源部将氦气列为关键材料，因其攸关半导体生产而受产业界关注。",
+        "summary": "美国能源部将氦气列为关键材料，或影响全球半导体生产供应。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2514219",
-        "publishedAt": "2026-10-25T19:03:07Z"
+        "publishedAt": "2026-10-25T22:32:14Z"
       },
       {
-        "id": "a86a90c6aaff087e89a6",
-        "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
-        "summary": "DeepSeek、MiniMax完成AI模型出海登记，合规路径落地提振行业信心。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514315",
-        "publishedAt": "2026-10-25T19:03:07Z"
+        "id": "b71ff0b6011b8469f48a",
+        "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+        "summary": "下周美联储决议与科技巨头财报密集发布，市场关注AI交易能否止跌。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784282",
+        "publishedAt": "2026-10-25T22:32:14Z"
+      },
+      {
+        "id": "ad67645096f069f9a7a0",
+        "title": "西藏巴青地震抢险安置工作一刻没停",
+        "summary": "西藏巴青地震抢险安置工作持续推进，救援一刻未停。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E6%8A%A2%E9%99%A9%E5%AE%89%E7%BD%AE%E5%B7%A5%E4%BD%9C%E4%B8%80%E5%88%BB%E6%B2%A1%E5%81%9C%23",
+        "publishedAt": "2026-10-25T22:32:14Z"
+      },
+      {
+        "id": "1e4370c269cf3553354e",
+        "title": "24岁女子赴泰见男网友被绑往边境",
+        "summary": "24岁女子赴泰国见男网友遭绑架，被带往边境，引发安全警示。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E5%AD%90%E8%B5%B4%E6%B3%B0%E8%A7%81%E7%94%B7%E7%BD%91%E5%8F%8B%E8%A2%AB%E7%BB%91%E5%BE%80%E8%BE%B9%E5%A2%83%23",
+        "publishedAt": "2026-10-25T22:32:14Z"
       }
     ]
   },
   "global": {
-    "overview": "国际看点包括塞尔维亚大选、法国大规模抗议外溢欧洲、巴西总统选举决选、委内瑞拉反对派领袖归国，以及以色列大选与加沙冲突、油价与AI全球不平等议题。",
+    "overview": "国际局势多点震荡：塞尔维亚大选武契奇承认败选，学生运动崛起；巴西总统选举进入决选；以色列大选在即，内塔尼亚胡面临挑战；法国大规模抗议持续，勒庞启动选战；英国风暴致人员伤亡与断电；美伊紧张推高油价；AI领域价格战与监管议题升温。",
     "items": [
       {
-        "id": "e3e0350d52ec9ccad775",
-        "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
-        "summary": "塞尔维亚举行大选，武契奇面对学生运动挑战其12年执政，投票率受关注。",
+        "id": "f03938447621edbc6c35",
+        "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
+        "summary": "塞尔维亚大选武契奇承认败选，学生运动预计获138席，贝尔格莱德爆发庆祝。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-        "publishedAt": "2026-10-25T10:48:28Z"
+        "publishedAt": "2026-10-25T14:28:41Z"
       },
       {
-        "id": "89f8e64e94107612c16e",
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "summary": "初步报告显示塞尔维亚选举投票率创新高，学生运动试图撼动长期执政格局。",
+        "id": "b42985e8c0b7d60a769e",
+        "title": "Brazil elections: Vote counting resumes after extension",
+        "summary": "巴西总统选举投票延长后恢复计票，卢拉与博索纳罗家族候选人对决胶着。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/brazil-elections-vote-counting-resumes-after-extension/live-79755630?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-25T14:15:00Z"
+      },
+      {
+        "id": "6560d2e1e96b90bc9a8f",
+        "title": "Deeply divided Israel braces for pivotal election",
+        "summary": "以色列大选在即，社会深度分裂，安全与民主成核心议题。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-25T08:05:15Z"
+        "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-25T14:11:13Z"
+      },
+      {
+        "id": "5aef6c233df5073c5813",
+        "title": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
+        "summary": "风暴Boelo袭击英国，两人遇难，超16万处房产断电。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+        "publishedAt": "2026-10-25T14:19:18Z"
       },
       {
         "id": "62b82c3d16cbd171d096",
         "title": "Hundreds of thousands march across France in protests over schools and policing",
-        "summary": "法国数十万人游行抗议学校与治安问题，近千人被捕，示威蔓延欧洲多城。",
+        "summary": "法国数十万人游行抗议学校和治安问题，近千人被捕，示威蔓延欧洲多城。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
         "publishedAt": "2026-10-25T04:07:05Z"
       },
       {
-        "id": "c2c9fc4cd23e8d9bc4f1",
-        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-        "summary": "法国连日大规模抗议后冲突不断，超1300人被捕，多国出现声援示威。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-25T02:38:15Z"
-      },
-      {
-        "id": "5ee77717c32f019ee57c",
-        "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-        "summary": "巴西总统选举进入决选，卢拉与博索纳罗家族候选人展开高度不确定的对决。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-        "publishedAt": "2026-10-25T06:41:17Z"
-      },
-      {
-        "id": "66f7f97dc506a6a8e18d",
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "summary": "委内瑞拉反对派领袖马查多流亡数月后回国，政治局势走向受关注。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-25T10:29:00Z"
-      },
-      {
         "id": "23b2717f5480b0486bed",
         "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "summary": "担忧美国再度打击伊朗，布伦特原油突破每桶117美元，创半年多新高。",
+        "summary": "担忧美国再打击伊朗，布伦特原油突破每桶117美元，创半年多新高。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
         "publishedAt": "2026-10-23T08:48:28Z"
       },
       {
-        "id": "72431702832ad1da9b5e",
-        "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-        "summary": "联合国官员警告AI“机会鸿沟”可能加深全球不平等，呼吁缩小接入差距。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-        "publishedAt": "2026-10-25T09:26:22Z"
+        "id": "727bf06a0e41598cca24",
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "summary": "OpenAI与Anthropic数月内将大模型价格下调最高80%，引发行业关注。",
+        "source": "Hacker News",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "publishedAt": "2026-10-25T13:11:31Z"
+      },
+      {
+        "id": "148313f2d44130c8a784",
+        "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+        "summary": "委内瑞拉反对派领袖马查多结束流亡回国，称“我在这里，与你们同在”。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+        "publishedAt": "2026-10-25T11:56:56Z"
       }
     ]
   }
