@@ -1,103 +1,95 @@
 {
   "version": 1,
   "date": "2026-10-26",
-  "generatedAt": "2026-10-25T16:14:01Z",
+  "generatedAt": "2026-10-25T19:03:07Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦资本市场规则调整、AI与科技产业动态及地方人事变动，同时涵盖国际时事与安全议题；已排除娱乐体育类热搜。",
+    "overview": "国内时政聚焦中央巡视反馈、民生与产业动向；资本市场关注A股换挡、券商策略与半导体氦气等关键材料；科技领域折叠屏iPhone质量、AI出海合规及机器人IPO门槛成热点。",
     "items": [
       {
-        "id": "7258615fd2e5c5e1585a",
-        "title": "俯瞰中国台湾，20张高清卫星影像定格宝岛多样地貌与鲜活人文",
-        "summary": "澎湃新闻发布20张中国台湾高清卫星影像，展现宝岛多样地貌与人文风貌。",
+        "id": "c0bcaee4650b00b7f10b",
+        "title": "二十届中央第七轮巡视完成反馈",
+        "summary": "二十届中央第七轮巡视完成反馈，巡视整改与问题清单成后续监督重点。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34328530",
-        "publishedAt": "2026-10-25T16:14:01Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34329709",
+        "publishedAt": "2026-10-25T19:03:07Z"
+      },
+      {
+        "id": "3bb32439020576420d11",
+        "title": "国家水网到底有多硬核",
+        "summary": "国家水网建设进展受关注，跨流域调水与供水保障能力持续提升。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E6%B0%B4%E7%BD%91%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8",
+        "publishedAt": "2026-10-25T19:03:07Z"
+      },
+      {
+        "id": "fa86be61790fe9524c90",
+        "title": "县委书记回应被扔下水：张雪临时起意",
+        "summary": "县委书记回应被扔下水事件，称当事人张雪系临时起意，引发基层治理讨论。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%89%94%E4%B8%8B%E6%B0%B4%EF%BC%9A%E5%BC%A0%E9%9B%AA%E4%B8%B4%E6%97%B6%E8%B5%B7%E6%84%8F",
+        "publishedAt": "2026-10-25T19:03:07Z"
       },
       {
         "id": "8e0662bac802370093dd",
         "title": "周末要闻汇总：上证指数、科创综指明起有新变化；高盛下调韩国股指目标价",
-        "summary": "周末要闻汇总：上证指数、科创综指明日起调整，高盛下调韩国股指目标价。",
+        "summary": "上证指数、科创综指明起调整，高盛下调韩国股指目标价，周末市场信息密集。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2514420",
-        "publishedAt": "2026-10-25T16:14:01Z"
+        "publishedAt": "2026-10-25T19:03:07Z"
+      },
+      {
+        "id": "ea9da143820e23e51110",
+        "title": "A股蓄势反弹可期？投资主线有哪些？十大券商策略来了",
+        "summary": "十大券商策略发布，研判A股蓄势反弹可能性与后续投资主线。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2514451",
+        "publishedAt": "2026-10-25T19:03:07Z"
       },
       {
         "id": "24ace1c629200369df73",
         "title": "A股“换挡”，资金在等什么？多位知名首席研判",
-        "summary": "A股进入“换挡”阶段，多位知名首席研判资金观望原因与后续走向。",
+        "summary": "多位知名首席研判A股“换挡”，分析资金观望原因与配置方向。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2514147",
-        "publishedAt": "2026-10-25T16:14:01Z"
-      },
-      {
-        "id": "5f1d34703dc3de00eabe",
-        "title": "明起实施！上证指数、科创综指等拟修订，单样本权重不超15%",
-        "summary": "上证指数、科创综指等修订明起实施，单一样本权重上限设为15%。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34328014",
-        "publishedAt": "2026-10-25T16:14:01Z"
+        "publishedAt": "2026-10-25T19:03:07Z"
       },
       {
         "id": "eac3422d3635890ffbc7",
         "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-        "summary": "美国能源部将氦气列为关键材料，事关半导体生产供应链安全。",
+        "summary": "美国能源部将氦气列为关键材料，因其攸关半导体生产而受产业界关注。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2514219",
-        "publishedAt": "2026-10-25T16:14:01Z"
+        "publishedAt": "2026-10-25T19:03:07Z"
       },
       {
-        "id": "b71ff0b6011b8469f48a",
-        "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
-        "summary": "下周迎来美联储决议与科技巨头财报，市场关注AI交易能否企稳。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784282",
-        "publishedAt": "2026-10-25T16:14:01Z"
-      },
-      {
-        "id": "da9a022f1914d81b27b0",
-        "title": "【早报】美发布新版对外投资限制拟议规则，商务部回应；国内金饰克价跌穿1200元",
-        "summary": "美发布新版对外投资限制拟议规则，商务部回应；国内金饰克价跌破1200元。",
+        "id": "a86a90c6aaff087e89a6",
+        "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
+        "summary": "DeepSeek、MiniMax完成AI模型出海登记，合规路径落地提振行业信心。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514282",
-        "publishedAt": "2026-10-25T16:14:01Z"
-      },
-      {
-        "id": "e1fedac3f04f88e72f40",
-        "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
-        "summary": "苹果首款折叠屏iPhone Duo曝出折痕裂屏问题，有用户折叠不足20次即损坏。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784402",
-        "publishedAt": "2026-10-25T16:14:01Z"
+        "url": "https://www.cls.cn/detail/2514315",
+        "publishedAt": "2026-10-25T19:03:07Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻围绕多国选举、中东局势与能源安全、欧洲抗议浪潮及AI治理等跨来源确认议题展开。",
+    "overview": "国际看点包括塞尔维亚大选、法国大规模抗议外溢欧洲、巴西总统选举决选、委内瑞拉反对派领袖归国，以及以色列大选与加沙冲突、油价与AI全球不平等议题。",
     "items": [
       {
-        "id": "5ee77717c32f019ee57c",
-        "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-        "summary": "巴西举行总统选举第二轮投票，左翼卢拉与极右翼博索纳罗阵营对决。",
+        "id": "e3e0350d52ec9ccad775",
+        "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+        "summary": "塞尔维亚举行大选，武契奇面对学生运动挑战其12年执政，投票率受关注。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-        "publishedAt": "2026-10-25T06:41:17Z"
+        "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+        "publishedAt": "2026-10-25T10:48:28Z"
       },
       {
         "id": "89f8e64e94107612c16e",
         "title": "Early reports suggest record high turnout in Serbia elections",
-        "summary": "塞尔维亚议会选举初步报告显示投票率创新高，学生运动挑战武契奇长期执政。",
+        "summary": "初步报告显示塞尔维亚选举投票率创新高，学生运动试图撼动长期执政格局。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-25T08:05:15Z"
-      },
-      {
-        "id": "6595d3cb2eb8e12b6b4c",
-        "title": "Israelis have changed. Will they change their leadership?",
-        "summary": "以色列本周举行大选，经历多年战争后选民关注领导层是否更替。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-        "publishedAt": "2026-10-25T08:00:00Z"
       },
       {
         "id": "62b82c3d16cbd171d096",
@@ -108,12 +100,28 @@
         "publishedAt": "2026-10-25T04:07:05Z"
       },
       {
-        "id": "478b7fedc491d5a1c63f",
-        "title": "Seven killed in Gaza as Israel targets university campus and other sites",
-        "summary": "加沙多地遭以色列空袭，一所大学校区遇袭致三名警卫死亡，共七人丧生。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-        "publishedAt": "2026-10-25T07:40:25Z"
+        "id": "c2c9fc4cd23e8d9bc4f1",
+        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+        "summary": "法国连日大规模抗议后冲突不断，超1300人被捕，多国出现声援示威。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-25T02:38:15Z"
+      },
+      {
+        "id": "5ee77717c32f019ee57c",
+        "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+        "summary": "巴西总统选举进入决选，卢拉与博索纳罗家族候选人展开高度不确定的对决。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+        "publishedAt": "2026-10-25T06:41:17Z"
+      },
+      {
+        "id": "66f7f97dc506a6a8e18d",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "summary": "委内瑞拉反对派领袖马查多流亡数月后回国，政治局势走向受关注。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-25T10:29:00Z"
       },
       {
         "id": "23b2717f5480b0486bed",
@@ -124,20 +132,12 @@
         "publishedAt": "2026-10-23T08:48:28Z"
       },
       {
-        "id": "0a029e3c18ad31929acd",
-        "title": "UN official warns AI could ‘deepen’ global inequality",
-        "summary": "联合国官员警告人工智能可能“加深”全球不平等，呼吁加强治理。",
+        "id": "72431702832ad1da9b5e",
+        "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+        "summary": "联合国官员警告AI“机会鸿沟”可能加深全球不平等，呼吁缩小接入差距。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
-        "publishedAt": "2026-10-25T07:38:52Z"
-      },
-      {
-        "id": "81299bd57d485539332a",
-        "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-        "summary": "奥迪将在美国佐治亚州投资40亿美元建厂，创造4500个岗位，大众本土裁员同步进行。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-        "publishedAt": "2026-10-25T05:43:19Z"
+        "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+        "publishedAt": "2026-10-25T09:26:22Z"
       }
     ]
   }
