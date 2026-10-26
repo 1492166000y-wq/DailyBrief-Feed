@@ -1,100 +1,92 @@
 {
   "version": 1,
   "date": "2026-10-27",
-  "generatedAt": "2026-10-26T19:55:48Z",
+  "generatedAt": "2026-10-26T23:51:26Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在党的二十届五中全会召开与中央巡视部署，宏观政策面央行设立债市非银大额赎回互换便利，产业科技领域宇树科技、药明康德、广汽埃安等热点受关注，同时巴西大选与塞尔维亚政局等国际事件引发国内舆论关注。",
+    "overview": "国内重点关注二十届五中全会召开、央行设立债市非银大额赎回互换便利、Anthropic提交IPO申请、卢拉连任巴西总统及其市场影响、武契奇败选与外交部回应等。",
     "items": [
       {
         "id": "d145303d1a37a5ad492a",
         "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
-        "summary": "党的二十届五中全会在北京开始举行，为期至29日，聚焦中长期发展与改革部署。",
+        "summary": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34332996",
-        "publishedAt": "2026-10-26T19:55:48Z"
-      },
-      {
-        "id": "f1935a00ed6f43914882",
-        "title": "15个中央巡视组组长公布",
-        "summary": "15个中央巡视组组长名单公布，新一轮巡视工作正式展开，覆盖多个重点单位。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7700187555274194987/",
-        "publishedAt": "2026-10-26T19:55:48Z"
+        "publishedAt": "2026-10-26T23:51:26Z"
       },
       {
         "id": "60e8132afb560b347939",
         "title": "防范“赎回潮”再现 央行设立债市非银大额赎回互换便利 打破赎回到被动抛售的负面循环",
-        "summary": "央行设立债市非银大额赎回互换便利，防范赎回潮再现，打破被动抛售负循环。",
+        "summary": "央行设立债市非银大额赎回互换便利，防范赎回潮再现，打破被动抛售循环。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2515605",
-        "publishedAt": "2026-10-26T19:55:48Z"
+        "publishedAt": "2026-10-26T23:51:26Z"
       },
       {
-        "id": "29acb4867312b35e658b",
-        "title": "王兴兴两次认错 宇树暴涨1100亿",
-        "summary": "宇树科技估值暴涨1100亿元，创始人王兴兴两度认错，引发市场对人形机器人热度关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7700928117778419250/",
-        "publishedAt": "2026-10-26T19:55:48Z"
+        "id": "fa42fbf77ee7063471f2",
+        "title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”",
+        "summary": "Anthropic正式提交IPO申请，股票代码ANT，上半年净亏807亿美元并警示生存危机。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784495",
+        "publishedAt": "2026-10-26T23:51:26Z"
       },
       {
-        "id": "9038e627ac02e3f49d69",
-        "title": "前三季度营收已超去年全年 药明康德再度上调全年业绩指引 | 财报解读",
-        "summary": "药明康德前三季度营收已超去年全年，再度上调全年业绩指引，CRO龙头业绩回暖。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2515439",
-        "publishedAt": "2026-10-26T19:55:48Z"
+        "id": "266e22e8df6456203c88",
+        "title": "震惊市场！巴西总统卢拉在二轮选举中意外逆袭，创纪录赢得第四任期",
+        "summary": "巴西总统卢拉在二轮选举中意外逆袭，创纪录赢得第四任期。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784425",
+        "publishedAt": "2026-10-26T23:51:26Z"
+      },
+      {
+        "id": "bc3ae9d0a2ef9971b256",
+        "title": "外交部回应武契奇败选",
+        "summary": "外交部就塞尔维亚总统武契奇败选一事作出回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xXmR9HIQ61",
+        "publishedAt": "2026-10-26T23:51:26Z"
+      },
+      {
+        "id": "9aeee68367841ba33a0a",
+        "title": "卢拉逆袭吓坏巴西市场：股指跌超10%、部分个股跌60%，雷亚尔跌幅21世纪最大，60亿美元股权融资搁浅",
+        "summary": "卢拉逆袭吓坏巴西市场：股指跌超10%，雷亚尔跌幅创21世纪最大。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784490",
+        "publishedAt": "2026-10-26T23:51:26Z"
+      },
+      {
+        "id": "5e659436d676545ef3ea",
+        "title": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%",
+        "summary": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人板块爆发。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784435",
+        "publishedAt": "2026-10-26T23:51:26Z"
       },
       {
         "id": "89c2e6e3a53695c186e5",
         "title": "广汽埃安陷“香蕉电池”风波：客服称在走召回流程，三名车主投诉遭“只修不换”后获回应",
-        "summary": "广汽埃安陷“香蕉电池”风波，客服称正走召回流程，三名车主投诉“只修不换”后获回应。",
+        "summary": "广汽埃安陷香蕉电池风波，客服称在走召回流程，三名车主投诉获回应。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34334623",
-        "publishedAt": "2026-10-26T19:55:48Z"
-      },
-      {
-        "id": "3315a04c9097b95683a3",
-        "title": "卢拉成功连任，当选巴西新一任总统",
-        "summary": "卢拉成功连任巴西总统，中方表示尊重巴西人民选择，关注双边关系走向。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34331765",
-        "publishedAt": "2026-10-26T19:55:48Z"
-      },
-      {
-        "id": "e8dce81d781ae0de2aad",
-        "title": "直击寒武纪业绩会：陈天石回应存货与市场传言",
-        "summary": "寒武纪业绩会直击，陈天石回应存货与市场传言，回应外界对AI芯片龙头的关切。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2515601",
-        "publishedAt": "2026-10-26T19:55:48Z"
+        "publishedAt": "2026-10-26T23:51:26Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点为巴西总统卢拉二轮逆袭赢得第四任期并引发市场震荡，塞尔维亚武契奇败选、学生运动崛起，以色列与美国大选临近牵动地缘格局，AI企业Anthropic递交IPO申请成科技财经焦点，另有中东局势、苏丹制裁与欧洲能源价格等议题。",
+    "overview": "国际焦点包括卢拉连任巴西总统及巴西资产暴跌、武契奇败选后塞尔维亚政局转向、Anthropic提交IPO申请、约旦空袭叙利亚、法国抗议活动、特朗普相关诉讼与中期选举动态等。",
     "items": [
       {
         "id": "b301318b33adcf166af8",
         "title": "Lula wins fourth term in dramatic Brazil election comeback",
-        "summary": "卢拉在巴西大选二轮戏剧性逆袭，击败博索纳罗赢得第四个任期，创历史性回归。",
+        "summary": "卢拉在巴西大选中戏剧性逆转，赢得第四个总统任期。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-26T10:26:19Z"
-      },
-      {
-        "id": "80cd68f8b7c85049c336",
-        "title": "Brazil’s real sinks after Lula’s re-election victory",
-        "summary": "卢拉胜选后巴西雷亚尔大跌，市场担忧财政支出扩大与债务挑战，股指期货一度跌停。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
-        "publishedAt": "2026-10-26T10:27:23Z"
+        "publishedAt": "2026-10-26T13:02:47Z"
       },
       {
         "id": "813a1a64f12d82b04b19",
         "title": "Students topple Vucic’s government in Serbia",
-        "summary": "塞尔维亚学生主导运动以明显多数赢得议会选举，武契奇承认败选，政局转向。",
+        "summary": "塞尔维亚学生主导运动赢得议会选举，武契奇承认败选，政局转向。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/aje-onl-nf_music-dnrexp-261026-kopcicn-serbian_elections-261026?traffic_source=rss",
         "publishedAt": "2026-10-26T08:35:58Z"
@@ -108,36 +100,44 @@
         "publishedAt": "2026-10-26T10:22:00Z"
       },
       {
-        "id": "9c3fc4b23f680c8e2582",
-        "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
-        "summary": "内塔尼亚胡被指在以色列大选前施压军方对伊朗采取行动，民调显示其联盟略落后。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-        "publishedAt": "2026-10-26T11:21:36Z"
+        "id": "80cd68f8b7c85049c336",
+        "title": "Brazil’s real sinks after Lula’s re-election victory",
+        "summary": "卢拉胜选后巴西雷亚尔大跌，市场担忧财政支出扩大与债务挑战。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+        "publishedAt": "2026-10-26T10:27:23Z"
       },
       {
-        "id": "426240c03cf43af6478a",
-        "title": "European gas prices soar to four-year high over winter supply fears",
-        "summary": "欧洲天然气价格升至四年高位，市场担忧冬季供应及中东局势扰动能源市场。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-        "publishedAt": "2026-10-26T02:35:24Z"
+        "id": "379daf96554dc29167e3",
+        "title": "'Maxxing' selected as Dictionary.com word of the year",
+        "summary": "约旦空袭叙利亚武装分子藏身处，报复上周教堂袭击事件。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-26T13:31:53Z"
       },
       {
-        "id": "efe95f3d61c5a9507675",
-        "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-        "summary": "英国制裁涉法希尔“强奸运动”的苏丹军方高层，实施旅行禁令与资产冻结。",
+        "id": "b8eed6a43e10b65fdfbc",
+        "title": "Protest leaders urge French pupils to keep barricading their schools",
+        "summary": "法国学生工会呼吁继续封锁学校并参与街头抗议，要求解决教师短缺等问题。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-        "publishedAt": "2026-10-26T07:07:23Z"
+        "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+        "publishedAt": "2026-10-26T12:17:16Z"
       },
       {
-        "id": "f6a9c9b6ade27f716702",
-        "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-        "summary": "澳大利亚网络安全机构警告，威胁上升，民众应做好在线服务意外中断准备。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-        "publishedAt": "2026-10-26T03:30:40Z"
+        "id": "3388eb994ca6dd1abfad",
+        "title": "Former FBI director James Comey hit with third set of charges under Trump",
+        "summary": "前FBI局长科米在特朗普任内第三次被起诉，被控非法泄露国家安全信息。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
+        "publishedAt": "2026-10-26T14:03:26Z"
+      },
+      {
+        "id": "d719cd73b78c9246a459",
+        "title": "US midterm elections 2026 in maps and charts",
+        "summary": "2026年美国中期选举将于11月3日举行，决定国会控制权归属。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
+        "publishedAt": "2026-10-26T10:00:07Z"
       }
     ]
   }
