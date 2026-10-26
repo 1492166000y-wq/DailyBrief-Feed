@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T04:43:00Z",
+  "generatedAt": "2026-10-26T12:56:57Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦二十届五中全会开幕、卢拉连任巴西总统、A股指数调整及消费市场动态，同时涵盖全面从严治党、进博会与AI产业等议题。",
+    "overview": "国内聚焦内存与半导体产业博弈、数字人民币发薪、A股与机器人行情等；卢拉胜选、武契奇败选及进博会报名亦受关注。",
     "items": [
       {
-        "id": "2dca30d9036f64587adc",
-        "title": "二十届五中全会开始举行",
-        "summary": "二十届五中全会开始举行，聚焦全面从严治党等重大议题。",
+        "id": "d90b5e821dd55ddc184f",
+        "title": "长鑫存储硬气拒绝苹果",
+        "summary": "长鑫存储据报拒绝苹果压价要求，内存供需紧张下国产存储厂商议价能力提升。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7698680775600128562/",
-        "publishedAt": "2026-10-26T04:43:00Z"
+        "url": "https://www.toutiao.com/trending/7700013630267572250/",
+        "publishedAt": "2026-10-26T12:56:57Z"
       },
       {
-        "id": "207a3aa46fbab726d2d0",
-        "title": "【早报】A股指数重要调整，今起实施；A股存储龙头，Q3净利猛增超2900%；国际油价，开盘下挫",
-        "summary": "A股指数重要调整今起实施，存储龙头Q3净利猛增超2900%。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514546",
-        "publishedAt": "2026-10-26T04:43:00Z"
-      },
-      {
-        "id": "3315a04c9097b95683a3",
-        "title": "卢拉成功连任，当选巴西新一任总统",
-        "summary": "卢拉成功连任巴西总统，击败右翼候选人博索纳罗。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34331765",
-        "publishedAt": "2026-10-26T04:43:00Z"
+        "id": "65ba3602ded2b5bfea57",
+        "title": "多所高校将通过数字人民币发工资",
+        "summary": "多所高校将通过数字人民币发放工资，数字人民币在公共机构薪酬场景加速落地。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E9%80%9A%E8%BF%87%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E5%B7%A5%E8%B5%84%23",
+        "publishedAt": "2026-10-26T12:56:57Z"
       },
       {
         "id": "a0b6d580786c0b930bc9",
         "title": "人民日报任仲平文章：在新征程上持之以恒推进全面从严治党",
-        "summary": "人民日报任仲平文章：在新征程上持之以恒推进全面从严治党。",
+        "summary": "人民日报任仲平发文，强调在新征程上持之以恒推进全面从严治党。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34329842",
-        "publishedAt": "2026-10-26T04:43:00Z"
+        "publishedAt": "2026-10-26T12:56:57Z"
       },
       {
-        "id": "acf65725a54ac323a2ba",
-        "title": "住房公积金更好用了",
-        "summary": "住房公积金政策优化，使用更加便利惠及更多缴存职工。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%9B%B4%E5%A5%BD%E7%94%A8%E4%BA%86%23",
-        "publishedAt": "2026-10-26T04:43:00Z"
+        "id": "3315a04c9097b95683a3",
+        "title": "卢拉成功连任，当选巴西新一任总统",
+        "summary": "巴西总统选举结果公布，卢拉成功连任，中国外交部表示尊重巴西人民的选择。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34331765",
+        "publishedAt": "2026-10-26T12:56:57Z"
       },
       {
-        "id": "874ad4f9fe99f0a34f1d",
-        "title": "多地幼儿园改为养老院",
-        "summary": "多地幼儿园改为养老院，反映人口结构变化下的资源调整。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B9%E4%B8%BA%E5%85%BB%E8%80%81%E9%99%A2",
-        "publishedAt": "2026-10-26T04:43:00Z"
+        "id": "bc3ae9d0a2ef9971b256",
+        "title": "外交部回应武契奇败选",
+        "summary": "外交部就塞尔维亚总统武契奇在选举中败选作出回应，称尊重相关国家人民选择。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xXmR9HIQ61",
+        "publishedAt": "2026-10-26T12:56:57Z"
+      },
+      {
+        "id": "a6569e3457a09c99b9b8",
+        "title": "宽基ETF再现尾盘放量：A500ETF首次加入，15天连续净流入3200亿",
+        "summary": "宽基ETF尾盘再度放量，中证A500ETF首次加入，15天连续净流入达3200亿元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2515294",
+        "publishedAt": "2026-10-26T12:56:57Z"
       },
       {
         "id": "ef32ac05e7ec83e0ecde",
         "title": "六大议题、90余场活动，2026进博会上海会议活动开放报名",
-        "summary": "2026进博会上海会议活动开放报名，设六大议题90余场活动。",
+        "summary": "2026进博会上海会议活动开放报名，设六大议题、90余场活动，聚焦经贸合作。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34329840",
-        "publishedAt": "2026-10-26T04:43:00Z"
+        "publishedAt": "2026-10-26T12:56:57Z"
       },
       {
-        "id": "8a41bfd122883366c1ee",
-        "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
-        "summary": "多家科创板龙头企业晒账本，AI产业链景气正变成利润。",
+        "id": "0225af0c5ecded0607df",
+        "title": "股价创18年来新高、融资余额近12年新低！中石油市值跃居A股第四",
+        "summary": "中石油股价创18年新高，融资余额降至近12年低位，市值跃居A股第四。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2514496",
-        "publishedAt": "2026-10-26T04:43:00Z"
+        "url": "https://www.cls.cn/detail/2515308",
+        "publishedAt": "2026-10-26T12:56:57Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，巴西总统卢拉历史性连任引发全球反应，塞尔维亚大选武契奇承认败选，欧洲多国遭遇风暴袭击，中东局势持续紧张。",
+    "overview": "国际上巴西卢拉逆袭连任、塞尔维亚武契奇败选、欧洲风暴与能源价格、加沙与也门局势、委内瑞拉反对派回国等为主要焦点。",
     "items": [
       {
-        "id": "d4c0d1ad07c84742f891",
-        "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
-        "summary": "卢拉历史性赢得巴西总统第四任期，博索纳罗称无法承认结果。",
+        "id": "2e7b0e82fd8338a746da",
+        "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+        "summary": "卢拉在巴西总统选举二轮投票中逆转获胜，开启第四个任期，多国领导人致贺，博索纳罗一方拒绝承认结果。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-        "publishedAt": "2026-10-25T20:14:28Z"
+        "publishedAt": "2026-10-26T04:44:30Z"
       },
       {
-        "id": "117332a0ace1bdc61f10",
-        "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
-        "summary": "塞尔维亚总统武契奇承认败选，学生运动赢得议会选举。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-        "publishedAt": "2026-10-25T15:42:32Z"
-      },
-      {
-        "id": "ea63179ba83de869401e",
-        "title": "Two storms slam northern Europe, cut power to 150,000 homes",
-        "summary": "两场风暴袭击北欧，导致15万户家庭断电，苏格兰一人死亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
-        "publishedAt": "2026-10-25T18:04:31Z"
-      },
-      {
-        "id": "66f7f97dc506a6a8e18d",
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "summary": "委内瑞拉反对派领袖马查多结束流亡回国，称与人民同在。",
+        "id": "eec10d0041da52e99c46",
+        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+        "summary": "塞尔维亚总统武契奇承认败选，学生主导的抗议运动赢得议会选举，民众上街庆祝。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-25T19:05:22Z"
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-26T04:52:16Z"
       },
       {
-        "id": "4cecef85940ee5c5f54f",
-        "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-        "summary": "以色列大选前内塔尼亚胡对手埃森科特举行最后竞选集会。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
-        "publishedAt": "2026-10-25T17:02:57Z"
+        "id": "ae3e65c05512d005faa8",
+        "title": "Stunning photos capture October's Hunter's Moon around the world",
+        "summary": "全球多地拍摄到十月“猎人之月”满月景象，天文摄影作品引发关注。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-26T03:27:39Z"
       },
       {
-        "id": "321238ab3ee30d3f6b9f",
-        "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
-        "summary": "沙特联军袭击也门萨那，回应胡塞武装袭击利雅得机场。",
+        "id": "6097849b209c8bd213ca",
+        "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+        "summary": "武契奇败选后塞尔维亚政局待定，新总理人选与政府组建时间仍存不确定性。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-        "publishedAt": "2026-10-25T16:00:00Z"
+        "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
+        "publishedAt": "2026-10-26T03:28:25Z"
       },
       {
-        "id": "5c20d280e07301bc3498",
-        "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-        "summary": "美军称协助海湾国家出口15亿桶石油，超3000艘商船通过霍尔木兹海峡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-        "publishedAt": "2026-10-25T20:05:44Z"
+        "id": "426240c03cf43af6478a",
+        "title": "European gas prices soar to four-year high over winter supply fears",
+        "summary": "欧洲天然气价格升至四年高位，市场担忧冬季供应及中东局势可能进一步扰动能源市场。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+        "publishedAt": "2026-10-26T02:35:24Z"
       },
       {
-        "id": "3a58489171c50c992c52",
-        "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-        "summary": "法国极右翼领袖勒庞启动总统竞选，承诺实现法国“复兴”。",
+        "id": "24ee54869fa43f954227",
+        "title": "If Netanyahu loses, what changes for Palestinians?",
+        "summary": "以色列大选前分析指出，若内塔尼亚胡落败，巴勒斯坦人面临的处境是否改变仍待观察。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
-        "publishedAt": "2026-10-25T13:50:36Z"
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+        "publishedAt": "2026-10-26T02:16:39Z"
+      },
+      {
+        "id": "0b39e0116e964ac7bee8",
+        "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+        "summary": "委内瑞拉反对派领袖马查多结束近一年流亡返回加拉加斯，受到大批支持者欢迎。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+        "publishedAt": "2026-10-25T21:27:12Z"
+      },
+      {
+        "id": "f6a9c9b6ade27f716702",
+        "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+        "summary": "澳大利亚网络安全机构警告，随着威胁上升，民众应做好在线服务意外中断的准备。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+        "publishedAt": "2026-10-26T03:30:40Z"
       }
     ]
   }
