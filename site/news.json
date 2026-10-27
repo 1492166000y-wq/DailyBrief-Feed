@@ -1,87 +1,87 @@
 {
   "version": 1,
   "date": "2026-10-28",
-  "generatedAt": "2026-10-27T17:58:38Z",
+  "generatedAt": "2026-10-27T22:11:07Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内舆情聚焦法国球星姆巴佩涉华不当言论引发的外交交涉、企业解约与媒体批评，同时涉及Anthropic IPO等科技金融动态、产业升级与反腐进展。",
+    "overview": "国内关注姆巴佩涉华不当言论引发的外交与商业连锁反应，企业终止合作、央视停播相关赛事；同时宏观数据与产业动态受关注，前9月工业企业利润较快增长，A股科技板块回调、千元股仅剩茅台。",
     "items": [
       {
-        "id": "5b6f8c558391c5c4c6e8",
-        "title": "外交部回应“姆巴佩遭中国公司解约”",
-        "summary": "外交部就姆巴佩涉华不当言论及中国公司解约一事作出回应。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D",
-        "publishedAt": "2026-10-27T17:58:38Z"
-      },
-      {
-        "id": "a0bcbd1236c81c7b2dab",
-        "title": "中国足协回应姆巴佩涉华错误言论：要求涉事球员和皇马俱乐部公开正式道歉",
-        "summary": "中国足协要求姆巴佩和皇马俱乐部就涉华错误言论公开正式道歉。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34344391",
-        "publishedAt": "2026-10-27T17:58:38Z"
+        "id": "769fe3c1034582dcbe0e",
+        "title": "外交部回应姆巴佩发表不当言论",
+        "summary": "外交部就姆巴佩涉华不当言论作出回应，事件持续升温。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7701273730273513023/",
+        "publishedAt": "2026-10-27T22:11:07Z"
       },
       {
         "id": "85715610af3e5a678f9f",
         "title": "央视已经全面叫停涉及姆巴佩的赛事和广告播出",
-        "summary": "央视全面叫停涉及姆巴佩的赛事和广告播出。",
+        "summary": "央视全面叫停涉及姆巴佩的赛事转播和广告播出。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34341996",
-        "publishedAt": "2026-10-27T17:58:38Z"
+        "publishedAt": "2026-10-27T22:11:07Z"
+      },
+      {
+        "id": "9d4816c03a3477cdc78d",
+        "title": "蒙牛：终止与姆巴佩的全部合作，对伤害中国人民感情的言行坚决抵制",
+        "summary": "蒙牛宣布终止与姆巴佩全部合作，抵制伤害中国人民感情的言行。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34341057",
+        "publishedAt": "2026-10-27T22:11:07Z"
+      },
+      {
+        "id": "04831c25e5ad7f9ad62e",
+        "title": "东鹏饮料集团：零容忍伤害民族感情行为，终止与姆巴佩全部合作",
+        "summary": "东鹏饮料终止与姆巴佩全部合作，称对伤害民族感情行为零容忍。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34340340",
+        "publishedAt": "2026-10-27T22:11:07Z"
+      },
+      {
+        "id": "a0bcbd1236c81c7b2dab",
+        "title": "中国足协回应姆巴佩涉华错误言论：要求涉事球员和皇马俱乐部公开正式道歉",
+        "summary": "中国足协要求涉事球员和皇马俱乐部公开正式道歉。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34344391",
+        "publishedAt": "2026-10-27T22:11:07Z"
       },
       {
         "id": "0de213d8e830de45b5cb",
         "title": "欧盟计划减少从中国进口部分产品？中方回应",
-        "summary": "中方回应欧盟计划减少从中国进口部分产品的相关表态。",
+        "summary": "欧盟计划减少从中国进口部分产品，中方作出回应。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xZ71fKF9C9",
-        "publishedAt": "2026-10-27T17:58:38Z"
-      },
-      {
-        "id": "7f3ea0d4c915f33bc7b5",
-        "title": "中国公民被英国边境执法人员扣留、盘查，中方表态",
-        "summary": "中国公民被英国边境执法人员扣留盘查，中方就此表态。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xZ5px0nrgH",
-        "publishedAt": "2026-10-27T17:58:38Z"
-      },
-      {
-        "id": "fa42fbf77ee7063471f2",
-        "title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”",
-        "summary": "Anthropic正式提交IPO申请，股票代码ANT，上半年净亏807亿美元。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784495",
-        "publishedAt": "2026-10-27T17:58:38Z"
+        "publishedAt": "2026-10-27T22:11:07Z"
       },
       {
         "id": "18192892c8df3c34a06f",
         "title": "前9月规上工业企业利润较快增长",
-        "summary": "前9月规模以上工业企业利润较快增长，产业结构向新向优。",
+        "summary": "前9月规模以上工业企业利润较快增长，工业经济延续恢复态势。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7701305657386896950/",
-        "publishedAt": "2026-10-27T17:58:38Z"
+        "publishedAt": "2026-10-27T22:11:07Z"
       },
       {
-        "id": "8a434cb2be2b0b0b4569",
-        "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
-        "summary": "证监会原党委委员王会民受贿4.36亿余元一审被判死缓。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34343115",
-        "publishedAt": "2026-10-27T17:58:38Z"
+        "id": "7ec830b41e92b26076fa",
+        "title": "科创50跌4%，千元股仅剩贵州茅台，工行建行再创新高，30年期国债创年内新高，恒科指跌超1%，智谱涨9%",
+        "summary": "科创50跌4%，千元股仅剩贵州茅台，工行建行再创新高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784531",
+        "publishedAt": "2026-10-27T22:11:07Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括巴西博索纳罗家族在选举失利后外逃、以色列大选投票率创新高、俄乌局部停火与领导人通话，以及美国在太平洋的军事行动等。",
+    "overview": "国际焦点为以色列大选投票率创纪录、出口民调显示无明确赢家；巴西博索纳罗家族成员在选举失利后赴美；特朗普就中期选举与委内瑞拉石油表态；乌克兰局部停火与俄乌局势仍受关注。",
     "items": [
       {
-        "id": "824133c8150cba77c94f",
-        "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-        "summary": "巴西总统选举失利后，博索纳罗家族成员弗拉维奥据报飞往美国。",
+        "id": "ff07b2df6e4aa5e681a5",
+        "title": "Israel election live: exit polls project no clear winner, as anti-Netanyahu bloc leads but Likud remains biggest party",
+        "summary": "以色列大选出口民调显示无明确赢家，反内塔尼亚胡阵营领先但利库德仍为最大党。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-        "publishedAt": "2026-10-27T09:44:26Z"
+        "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+        "publishedAt": "2026-10-27T13:52:46Z"
       },
       {
         "id": "9aa5d9eb8789f760230e",
@@ -92,52 +92,52 @@
         "publishedAt": "2026-10-27T09:39:57Z"
       },
       {
-        "id": "de03252e8d3f046a8ad1",
-        "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-        "summary": "乌克兰南部奥列什基局部停火似已维持，欧洲领导人与普京通话。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
-        "publishedAt": "2026-10-27T09:43:02Z"
-      },
-      {
-        "id": "e76450d48cf127c5b22d",
-        "title": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
-        "summary": "美军称在太平洋东部打击涉嫌贩毒船只，致5人死亡。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
-        "publishedAt": "2026-10-27T09:35:50Z"
-      },
-      {
-        "id": "27dc6393af5b45ac81e5",
-        "title": "EU proposes giving Frontex border agency new major powers",
-        "summary": "欧盟提议赋予边境机构Frontex新权力，以加强遣返非正规移民。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-27T09:44:00Z"
-      },
-      {
-        "id": "c325e08085d74ed22638",
-        "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-        "summary": "俄罗斯在奥列什基局部停火生效前对基辅发动多次空袭。",
+        "id": "725599586af61b570036",
+        "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+        "summary": "巴西选举失利后弗拉维奥·博索纳罗离境赴美，美方称将发放签证。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
-        "publishedAt": "2026-10-27T05:34:07Z"
+        "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+        "publishedAt": "2026-10-27T13:47:34Z"
       },
       {
-        "id": "59bd761011e74ce448da",
-        "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
-        "summary": "尼日利亚东北部武装袭击死亡人数升至62人，村庄遭纵火。",
+        "id": "824133c8150cba77c94f",
+        "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+        "summary": "报道称弗拉维奥·博索纳罗在总统选举失利后未交护照即飞往美国。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+        "publishedAt": "2026-10-27T10:27:32Z"
+      },
+      {
+        "id": "5aa27a08aa8b16733f8f",
+        "title": "‘If they’re honest’: Trump casts latest suspicion on US midterm elections",
+        "summary": "特朗普称若中期选举“诚实”将尊重结果，同时政府就选举诚信起诉民主党州。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
-        "publishedAt": "2026-10-27T07:53:35Z"
+        "url": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss",
+        "publishedAt": "2026-10-27T10:24:13Z"
       },
       {
-        "id": "55d86b0de28b2a40570d",
-        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-        "summary": "姆巴佩就涉毛泽东言论道歉，此前言论在中国引发强烈反弹。",
+        "id": "6267e0261824a25e040b",
+        "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+        "summary": "特朗普在得州为共和党助选，借委内瑞拉石油与伊朗战事拉拢选民。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+        "publishedAt": "2026-10-27T13:28:33Z"
+      },
+      {
+        "id": "43cefbece1e0cdd8141d",
+        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "summary": "乌克兰赫尔松地区局部停火延长，俄乌双方称未报告违反停火情况。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-27T05:25:54Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T12:19:53Z"
+      },
+      {
+        "id": "636243e610d63b9748ce",
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "summary": "芬兰与挪威领导人罕见与普京通话，讨论乌克兰冲突结束途径。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T10:28:23Z"
       }
     ]
   }
