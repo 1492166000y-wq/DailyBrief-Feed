@@ -1,103 +1,95 @@
 {
   "version": 1,
   "date": "2026-10-27",
-  "generatedAt": "2026-10-26T23:51:26Z",
+  "generatedAt": "2026-10-27T05:00:31Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重点关注二十届五中全会召开、央行设立债市非银大额赎回互换便利、Anthropic提交IPO申请、卢拉连任巴西总统及其市场影响、武契奇败选与外交部回应等。",
+    "overview": "今日国内重点关注党的二十届五中全会在京召开，宏观层面聚焦人工智能产业动态与资本市场表现，多家企业宣布终止与姆巴佩合作引发广泛关注。",
     "items": [
       {
         "id": "d145303d1a37a5ad492a",
         "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
-        "summary": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行。",
+        "summary": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行，会议将持续至29日。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34332996",
-        "publishedAt": "2026-10-26T23:51:26Z"
+        "publishedAt": "2026-10-27T05:00:31Z"
       },
       {
-        "id": "60e8132afb560b347939",
-        "title": "防范“赎回潮”再现 央行设立债市非银大额赎回互换便利 打破赎回到被动抛售的负面循环",
-        "summary": "央行设立债市非银大额赎回互换便利，防范赎回潮再现，打破被动抛售循环。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2515605",
-        "publishedAt": "2026-10-26T23:51:26Z"
+        "id": "d0b601649f58066ed8c1",
+        "title": "外媒聚焦二十届五中全会",
+        "summary": "外媒聚焦二十届五中全会，关注中国未来政策走向与经济部署。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%E8%81%9A%E7%84%A6%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A",
+        "publishedAt": "2026-10-27T05:00:31Z"
+      },
+      {
+        "id": "02219386bfa7d2347c94",
+        "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+        "summary": "Anthropic提交IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债与油价回落。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784464",
+        "publishedAt": "2026-10-27T05:00:31Z"
       },
       {
         "id": "fa42fbf77ee7063471f2",
         "title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”",
-        "summary": "Anthropic正式提交IPO申请，股票代码ANT，上半年净亏807亿美元并警示生存危机。",
+        "summary": "Anthropic正式提交IPO申请，股票代码ANT，上半年净亏807亿美元并警示AI生存危机。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784495",
-        "publishedAt": "2026-10-26T23:51:26Z"
+        "publishedAt": "2026-10-27T05:00:31Z"
       },
       {
-        "id": "266e22e8df6456203c88",
-        "title": "震惊市场！巴西总统卢拉在二轮选举中意外逆袭，创纪录赢得第四任期",
-        "summary": "巴西总统卢拉在二轮选举中意外逆袭，创纪录赢得第四任期。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784425",
-        "publishedAt": "2026-10-26T23:51:26Z"
-      },
-      {
-        "id": "bc3ae9d0a2ef9971b256",
-        "title": "外交部回应武契奇败选",
-        "summary": "外交部就塞尔维亚总统武契奇败选一事作出回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xXmR9HIQ61",
-        "publishedAt": "2026-10-26T23:51:26Z"
-      },
-      {
-        "id": "9aeee68367841ba33a0a",
-        "title": "卢拉逆袭吓坏巴西市场：股指跌超10%、部分个股跌60%，雷亚尔跌幅21世纪最大，60亿美元股权融资搁浅",
-        "summary": "卢拉逆袭吓坏巴西市场：股指跌超10%，雷亚尔跌幅创21世纪最大。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784490",
-        "publishedAt": "2026-10-26T23:51:26Z"
+        "id": "4b819098a3c731681219",
+        "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
+        "summary": "美股收盘：Anthropic招股书点燃AI行情，三大指数集体上涨。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2515881",
+        "publishedAt": "2026-10-27T05:00:31Z"
       },
       {
         "id": "5e659436d676545ef3ea",
         "title": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%",
-        "summary": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人板块爆发。",
+        "summary": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人板块爆发，宇树科技6天涨60%。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784435",
-        "publishedAt": "2026-10-26T23:51:26Z"
+        "publishedAt": "2026-10-27T05:00:31Z"
       },
       {
-        "id": "89c2e6e3a53695c186e5",
-        "title": "广汽埃安陷“香蕉电池”风波：客服称在走召回流程，三名车主投诉遭“只修不换”后获回应",
-        "summary": "广汽埃安陷香蕉电池风波，客服称在走召回流程，三名车主投诉获回应。",
+        "id": "04831c25e5ad7f9ad62e",
+        "title": "东鹏饮料集团：零容忍伤害民族感情行为，终止与姆巴佩全部合作",
+        "summary": "东鹏饮料集团称对伤害民族感情行为零容忍，终止与姆巴佩全部合作。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34334623",
-        "publishedAt": "2026-10-26T23:51:26Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34340340",
+        "publishedAt": "2026-10-27T05:00:31Z"
+      },
+      {
+        "id": "9d4816c03a3477cdc78d",
+        "title": "蒙牛：终止与姆巴佩的全部合作，对伤害中国人民感情的言行坚决抵制",
+        "summary": "蒙牛宣布终止与姆巴佩全部合作，称坚决抵制伤害中国人民感情的言行。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34341057",
+        "publishedAt": "2026-10-27T05:00:31Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括卢拉连任巴西总统及巴西资产暴跌、武契奇败选后塞尔维亚政局转向、Anthropic提交IPO申请、约旦空袭叙利亚、法国抗议活动、特朗普相关诉讼与中期选举动态等。",
+    "overview": "国际方面，巴西大选卢拉逆袭连任及其引发的市场震荡持续发酵，以色列大选与美中期选举临近，AI公司Anthropic递交IPO申请成为科技财经焦点。",
     "items": [
       {
         "id": "b301318b33adcf166af8",
         "title": "Lula wins fourth term in dramatic Brazil election comeback",
-        "summary": "卢拉在巴西大选中戏剧性逆转，赢得第四个总统任期。",
+        "summary": "卢拉在巴西大选中戏剧性逆转，击败弗拉维奥·博索纳罗，赢得第四个总统任期。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-26T13:02:47Z"
       },
       {
-        "id": "813a1a64f12d82b04b19",
-        "title": "Students topple Vucic’s government in Serbia",
-        "summary": "塞尔维亚学生主导运动赢得议会选举，武契奇承认败选，政局转向。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/aje-onl-nf_music-dnrexp-261026-kopcicn-serbian_elections-261026?traffic_source=rss",
-        "publishedAt": "2026-10-26T08:35:58Z"
-      },
-      {
-        "id": "2fbdb16571bbe75f5ab5",
-        "title": "AI company Anthropic files its IPO in hopes of raising $100 billion",
-        "summary": "AI公司Anthropic递交IPO申请，拟募资千亿美元级别，或成史上最大规模上市之一。",
+        "id": "d5dd44fc1d05a64832c0",
+        "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
+        "summary": "多国领导人祝贺卢拉胜选，博索纳罗所属政党承认选举结果。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-26T10:22:00Z"
+        "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-26T20:46:00Z"
       },
       {
         "id": "80cd68f8b7c85049c336",
@@ -108,36 +100,44 @@
         "publishedAt": "2026-10-26T10:27:23Z"
       },
       {
-        "id": "379daf96554dc29167e3",
-        "title": "'Maxxing' selected as Dictionary.com word of the year",
-        "summary": "约旦空袭叙利亚武装分子藏身处，报复上周教堂袭击事件。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-26T13:31:53Z"
-      },
-      {
-        "id": "b8eed6a43e10b65fdfbc",
-        "title": "Protest leaders urge French pupils to keep barricading their schools",
-        "summary": "法国学生工会呼吁继续封锁学校并参与街头抗议，要求解决教师短缺等问题。",
+        "id": "493972eddee7293a93e8",
+        "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+        "summary": "败选的弗拉维奥·博索纳罗被禁止离境并须交出护照，涉及洗钱案调查。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
-        "publishedAt": "2026-10-26T12:17:16Z"
+        "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+        "publishedAt": "2026-10-26T15:02:17Z"
       },
       {
-        "id": "3388eb994ca6dd1abfad",
-        "title": "Former FBI director James Comey hit with third set of charges under Trump",
-        "summary": "前FBI局长科米在特朗普任内第三次被起诉，被控非法泄露国家安全信息。",
+        "id": "1977aa98c5b692354a6c",
+        "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
+        "summary": "以色列举行高风险大选，内塔尼亚胡面临严峻考验，结果或影响地区格局。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
-        "publishedAt": "2026-10-26T14:03:26Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+        "publishedAt": "2026-10-26T20:30:00Z"
       },
       {
-        "id": "d719cd73b78c9246a459",
-        "title": "US midterm elections 2026 in maps and charts",
-        "summary": "2026年美国中期选举将于11月3日举行，决定国会控制权归属。",
+        "id": "dcfd3266aed975e3df7b",
+        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+        "summary": "外媒称中美AI竞赛拖累中国股市，数月内蒸发数万亿美元市值。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "publishedAt": "2026-10-26T20:42:50Z"
+      },
+      {
+        "id": "d5a9f3384673632421cb",
+        "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+        "summary": "俄乌在奥列什基实施局部停火，以便开展人道援助与人员撤离。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-26T19:52:00Z"
+      },
+      {
+        "id": "a2a208328a3614ccb769",
+        "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+        "summary": "罗马尼亚称俄罗斯操控的破坏网络在武器工厂附近纵火，系针对援乌国家的行动。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
-        "publishedAt": "2026-10-26T10:00:07Z"
+        "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
+        "publishedAt": "2026-10-26T16:33:06Z"
       }
     ]
   }
