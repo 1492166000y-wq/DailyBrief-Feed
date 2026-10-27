@@ -1,100 +1,92 @@
 {
   "version": 1,
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T05:00:31Z",
+  "generatedAt": "2026-10-27T12:07:24Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内重点关注党的二十届五中全会在京召开，宏观层面聚焦人工智能产业动态与资本市场表现，多家企业宣布终止与姆巴佩合作引发广泛关注。",
+    "overview": "今日国内焦点集中于姆巴佩涉华不当言论引发的外交回应与企业解约潮，同时涉及证监会原官员受贿案、A股分化及Anthropic提交IPO等科技财经动态。",
     "items": [
       {
-        "id": "d145303d1a37a5ad492a",
-        "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
-        "summary": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行，会议将持续至29日。",
+        "id": "0de213d8e830de45b5cb",
+        "title": "欧盟计划减少从中国进口部分产品？中方回应",
+        "summary": "外交部就欧盟计划减少从中国进口部分产品作出回应，表明中方立场。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xZ71fKF9C9",
+        "publishedAt": "2026-10-27T12:07:24Z"
+      },
+      {
+        "id": "8a434cb2be2b0b0b4569",
+        "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
+        "summary": "证监会原党委委员王会民受贿4.36亿余元，一审被判死缓。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34332996",
-        "publishedAt": "2026-10-27T05:00:31Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34343115",
+        "publishedAt": "2026-10-27T12:07:24Z"
       },
       {
-        "id": "d0b601649f58066ed8c1",
-        "title": "外媒聚焦二十届五中全会",
-        "summary": "外媒聚焦二十届五中全会，关注中国未来政策走向与经济部署。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%E8%81%9A%E7%84%A6%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A",
-        "publishedAt": "2026-10-27T05:00:31Z"
-      },
-      {
-        "id": "02219386bfa7d2347c94",
-        "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-        "summary": "Anthropic提交IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债与油价回落。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784464",
-        "publishedAt": "2026-10-27T05:00:31Z"
-      },
-      {
-        "id": "fa42fbf77ee7063471f2",
-        "title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”",
-        "summary": "Anthropic正式提交IPO申请，股票代码ANT，上半年净亏807亿美元并警示AI生存危机。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784495",
-        "publishedAt": "2026-10-27T05:00:31Z"
-      },
-      {
-        "id": "4b819098a3c731681219",
-        "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
-        "summary": "美股收盘：Anthropic招股书点燃AI行情，三大指数集体上涨。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2515881",
-        "publishedAt": "2026-10-27T05:00:31Z"
-      },
-      {
-        "id": "5e659436d676545ef3ea",
-        "title": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%",
-        "summary": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人板块爆发，宇树科技6天涨60%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784435",
-        "publishedAt": "2026-10-27T05:00:31Z"
+        "id": "178449377e0147c646e1",
+        "title": "外交部回应姆巴佩涉华不当言论",
+        "summary": "外交部就姆巴佩涉华不当言论作出回应，事件持续发酵。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B6%89%E5%8D%8E%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23",
+        "publishedAt": "2026-10-27T12:07:24Z"
       },
       {
         "id": "04831c25e5ad7f9ad62e",
         "title": "东鹏饮料集团：零容忍伤害民族感情行为，终止与姆巴佩全部合作",
-        "summary": "东鹏饮料集团称对伤害民族感情行为零容忍，终止与姆巴佩全部合作。",
+        "summary": "东鹏饮料宣布零容忍伤害民族感情行为，终止与姆巴佩全部合作。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34340340",
-        "publishedAt": "2026-10-27T05:00:31Z"
+        "publishedAt": "2026-10-27T12:07:24Z"
       },
       {
-        "id": "9d4816c03a3477cdc78d",
-        "title": "蒙牛：终止与姆巴佩的全部合作，对伤害中国人民感情的言行坚决抵制",
-        "summary": "蒙牛宣布终止与姆巴佩全部合作，称坚决抵制伤害中国人民感情的言行。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34341057",
-        "publishedAt": "2026-10-27T05:00:31Z"
+        "id": "fa42fbf77ee7063471f2",
+        "title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”",
+        "summary": "Anthropic正式提交IPO申请，代码“ANT”，上半年净亏807亿美元。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784495",
+        "publishedAt": "2026-10-27T12:07:24Z"
+      },
+      {
+        "id": "02219386bfa7d2347c94",
+        "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+        "summary": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784464",
+        "publishedAt": "2026-10-27T12:07:24Z"
+      },
+      {
+        "id": "3cbc262da2e49d352a41",
+        "title": "【每日收评】创业板指震荡走低跌超3%，全市场超4900股收绿，大消费、银行板块逆势走强",
+        "summary": "A股创业板指跌超3%，超4900股收绿，大消费与银行板块逆势走强。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2516585",
+        "publishedAt": "2026-10-27T12:07:24Z"
+      },
+      {
+        "id": "068d27bf2f26b51c9deb",
+        "title": "姆巴佩致歉",
+        "summary": "姆巴佩致歉",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7701312231488818715/",
+        "publishedAt": "2026-10-27T12:07:24Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，巴西大选卢拉逆袭连任及其引发的市场震荡持续发酵，以色列大选与美中期选举临近，AI公司Anthropic递交IPO申请成为科技财经焦点。",
+    "overview": "国际方面，以色列大选投票展开、巴西卢拉胜选后的市场震荡与人选司法动作受关注，另有乌克兰局部停火、刚果（金）埃博拉疫情及姆巴佩失言事件的海外报道。",
     "items": [
       {
         "id": "b301318b33adcf166af8",
         "title": "Lula wins fourth term in dramatic Brazil election comeback",
-        "summary": "卢拉在巴西大选中戏剧性逆转，击败弗拉维奥·博索纳罗，赢得第四个总统任期。",
+        "summary": "卢拉在巴西大选中戏剧性逆转胜出，赢得第四个总统任期。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-26T13:02:47Z"
       },
       {
-        "id": "d5dd44fc1d05a64832c0",
-        "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
-        "summary": "多国领导人祝贺卢拉胜选，博索纳罗所属政党承认选举结果。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-26T20:46:00Z"
-      },
-      {
         "id": "80cd68f8b7c85049c336",
         "title": "Brazil’s real sinks after Lula’s re-election victory",
-        "summary": "卢拉胜选后巴西雷亚尔大跌，市场担忧财政支出扩大与债务挑战。",
+        "summary": "卢拉胜选后巴西雷亚尔大跌，市场担忧财政支出扩大与债务压力。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
         "publishedAt": "2026-10-26T10:27:23Z"
@@ -102,42 +94,50 @@
       {
         "id": "493972eddee7293a93e8",
         "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-        "summary": "败选的弗拉维奥·博索纳罗被禁止离境并须交出护照，涉及洗钱案调查。",
+        "summary": "败选的弗拉维奥·博索纳罗被禁止离境并须交出护照，涉洗钱调查。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
         "publishedAt": "2026-10-26T15:02:17Z"
       },
       {
-        "id": "1977aa98c5b692354a6c",
-        "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
-        "summary": "以色列举行高风险大选，内塔尼亚胡面临严峻考验，结果或影响地区格局。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
-        "publishedAt": "2026-10-26T20:30:00Z"
+        "id": "d5c05ea5213905299246",
+        "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+        "summary": "以色列大选投票率创数十年新高，选举被视为对内塔尼亚胡的公投。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T03:11:33Z"
       },
       {
-        "id": "dcfd3266aed975e3df7b",
-        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-        "summary": "外媒称中美AI竞赛拖累中国股市，数月内蒸发数万亿美元市值。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-        "publishedAt": "2026-10-26T20:42:50Z"
+        "id": "6911c347852f6c35ff22",
+        "title": "What does Israel's election mean for Gaza and the wider world?",
+        "summary": "分析以色列大选对加沙局势及更广泛国际格局的潜在影响。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T02:17:36Z"
       },
       {
-        "id": "d5a9f3384673632421cb",
-        "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
-        "summary": "俄乌在奥列什基实施局部停火，以便开展人道援助与人员撤离。",
+        "id": "caa003fcf60b5165e37e",
+        "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+        "summary": "乌克兰奥列什基开始停火，以便人道援助进入与平民撤离。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T03:53:57Z"
+      },
+      {
+        "id": "ccd8d830a07d9896827b",
+        "title": "DR Congo reports over 10,000 Ebola cases as the outbreak spreads abroad, with no approved vaccine or specific treatment for the Bundibugyo virus",
+        "summary": "刚果（金）埃博拉病例超万例，该病毒株无获批疫苗或特效疗法。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-26T19:52:00Z"
+        "url": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-27T03:15:00Z"
       },
       {
-        "id": "a2a208328a3614ccb769",
-        "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-        "summary": "罗马尼亚称俄罗斯操控的破坏网络在武器工厂附近纵火，系针对援乌国家的行动。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
-        "publishedAt": "2026-10-26T16:33:06Z"
+        "id": "55d86b0de28b2a40570d",
+        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+        "summary": "姆巴佩就涉华不当言论致歉，此前称前中国领导人引发中国舆论反弹。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T04:02:20Z"
       }
     ]
   }
