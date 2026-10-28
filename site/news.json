@@ -1,42 +1,34 @@
 {
   "version": 1,
   "date": "2026-10-29",
-  "generatedAt": "2026-10-28T16:37:10Z",
+  "generatedAt": "2026-10-28T22:32:59Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦刘延东逝世、从严治党、新质生产力、资本市场动态、科技产业进展及社会公共议题。",
+    "overview": "国内新闻聚焦刘延东同志逝世、美联储利率决议、以色列大选、西班牙列车事故及科技产业动态。",
     "items": [
       {
-        "id": "88da51b9704ab2bd9d33",
-        "title": "国务院原副总理刘延东逝世",
-        "summary": "国务院原副总理刘延东逝世，多家主流媒体发布讣告。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7701651687387332662/",
-        "publishedAt": "2026-10-28T16:37:10Z"
+        "id": "c0f8484a674a5f7dc3e7",
+        "title": "刘延东同志逝世",
+        "summary": "国务院原副总理刘延东同志逝世，享年81岁。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34351680",
+        "publishedAt": "2026-10-28T22:32:59Z"
       },
       {
-        "id": "d0551b89aa164e2fce16",
-        "title": "新征程上持之以恒推进全面从严治党",
-        "summary": "新征程上持之以恒推进全面从严治党，引发广泛关注。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%23",
-        "publishedAt": "2026-10-28T16:37:10Z"
-      },
-      {
-        "id": "1e6f975ce05d0b8720ce",
-        "title": "找准发展新质生产力的着力点",
-        "summary": "找准发展新质生产力的着力点，政策方向受关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7701548836980047923/",
-        "publishedAt": "2026-10-28T16:37:10Z"
-      },
-      {
-        "id": "2572796e7b1a52d16613",
-        "title": "多家A股公司抛出回购计划，两只龙头股披露回购进展",
-        "summary": "多家A股公司抛出回购计划，两只龙头股披露回购进展。",
+        "id": "d54e4f5f3e5b7879f6fe",
+        "title": "美联储如期维持基准利率不变 两名票委主张加息25个基点",
+        "summary": "美联储维持基准利率不变，两名票委主张加息25个基点。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2518264",
-        "publishedAt": "2026-10-28T16:37:10Z"
+        "url": "https://www.cls.cn/detail/2518477",
+        "publishedAt": "2026-10-28T22:32:59Z"
+      },
+      {
+        "id": "7783cd7e73d5ccf86e5e",
+        "title": "华尔街见闻早餐FM-Radio | 2026年10月28日",
+        "summary": "华尔街见闻早餐：关注美联储决议、全球市场及科技产业动态。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784617",
+        "publishedAt": "2026-10-28T22:32:59Z"
       },
       {
         "id": "8460d8362efa2e36d539",
@@ -44,84 +36,84 @@
         "summary": "SK海力士三季度营业利润同比暴增7倍，存储芯片供应短缺持续至2030年。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784619",
-        "publishedAt": "2026-10-28T16:37:10Z"
+        "publishedAt": "2026-10-28T22:32:59Z"
       },
       {
-        "id": "5435a904d963736880af",
-        "title": "宇树科技上市后首份季报出炉：Q3净利环比下降49.55%，人形机器人商业化进程迎关键验证期",
-        "summary": "宇树科技上市后首份季报出炉，Q3净利环比下降49.55%，人形机器人商业化迎关键验证期。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2518195",
-        "publishedAt": "2026-10-28T16:37:10Z"
+        "id": "50545ff61808463c412a",
+        "title": "如果共和党中期选举输了怎么办？特朗普回应",
+        "summary": "特朗普回应共和党中期选举若失利将如何应对。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xabEL09CAG",
+        "publishedAt": "2026-10-28T22:32:59Z"
       },
       {
-        "id": "cc22f95881c732c8ee2d",
-        "title": "国台办回应蔡康永发文称“没有支持过‘台独’”",
-        "summary": "国台办回应蔡康永发文称“没有支持过‘台独’”。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34349079",
-        "publishedAt": "2026-10-28T16:37:10Z"
+        "id": "ee2a8cf3a63af2e3b7cc",
+        "title": "西班牙列车相撞已致68死",
+        "summary": "西班牙高铁列车相撞事故已致68人死亡，举国哀悼。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B468%E6%AD%BB%23",
+        "publishedAt": "2026-10-28T22:32:59Z"
       },
       {
         "id": "3b03112031da7c656de1",
         "title": "巴基斯坦对台湾地区航司关闭领空",
-        "summary": "巴基斯坦对台湾地区航司关闭领空，引发区域关注。",
+        "summary": "巴基斯坦对台湾地区航空公司关闭领空，引发关注。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
-        "publishedAt": "2026-10-28T16:37:10Z"
+        "publishedAt": "2026-10-28T22:32:59Z"
+      },
+      {
+        "id": "5435a904d963736880af",
+        "title": "宇树科技上市后首份季报出炉：Q3净利环比下降49.55%，人形机器人商业化进程迎关键验证期",
+        "summary": "宇树科技上市后首份季报出炉：Q3净利环比下降49.55%。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2518195",
+        "publishedAt": "2026-10-28T22:32:59Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻涵盖西班牙列车相撞、以色列选举僵局、美国中期选举、英国预算案及全球科技产业动态。",
+    "overview": "国际新闻关注巴西博索纳罗家族流亡、以色列选举僵局、西班牙列车相撞事故及美欧政治经济动态。",
     "items": [
       {
-        "id": "b16da5f523765b4762ab",
-        "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
-        "summary": "西班牙高速列车相撞已致68死，初步调查指向调度失误。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-        "publishedAt": "2026-10-28T08:10:23Z"
+        "id": "a3aabb16a376b46114fb",
+        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+        "summary": "博索纳罗否认逃离巴西，自称是政变和迫害的受害者，抵达迈阿密。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-28T14:13:35Z"
       },
       {
-        "id": "f1a827f44741b88981ce",
-        "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-        "summary": "以色列大选计票近尾声，内塔尼亚胡阵营与反对派均未过半，组阁谈判艰难。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-        "publishedAt": "2026-10-28T08:04:10Z"
+        "id": "babb8ab090acbf70bdb4",
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "summary": "西班牙高速列车相撞致至少68人死亡，交通大臣称由“莫名错误”导致。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-28T13:38:54Z"
       },
       {
-        "id": "7e6b4da18fed7318e419",
-        "title": "Trump and Vance rally for Republicans in final midterms push; Alaska’s Murkowski backs Democrat in governor’s race – live",
-        "summary": "特朗普与万斯为中期选举最后冲刺，阿拉斯加参议员跨党背书民主党。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-        "publishedAt": "2026-10-28T08:19:01Z"
+        "id": "573a140d6b329fc2cef1",
+        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "summary": "以色列选举部分结果显示内塔尼亚胡阵营领先但未过半，组阁谈判艰难。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-28T12:24:39Z"
       },
       {
-        "id": "0537bffb71f2b33c9ae5",
-        "title": "Budget 2026 live: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards",
-        "summary": "英国2026预算案公布：百万家庭获100英镑能源补贴，银行税上调，生活水平预期下调。",
+        "id": "f3fd5fe3ec376be58756",
+        "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
+        "summary": "英国2026年预算案：财相宣布对银行和房东增税，向2000万家庭发放100英镑补贴。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
-        "publishedAt": "2026-10-28T08:16:16Z"
+        "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+        "publishedAt": "2026-10-28T12:09:34Z"
       },
       {
-        "id": "e0eecbb4afc6f136b46f",
-        "title": "Kremlin says European countries not included in next Ukraine talks",
-        "summary": "克里姆林宫称欧洲国家未获邀参加下一轮乌克兰会谈，英荷承诺追加军援。",
+        "id": "93cbcab2fc2eda54a892",
+        "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+        "summary": "普京在俄非峰会上称俄罗斯是非洲最佳伙伴，而非“殖民”西方。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-        "publishedAt": "2026-10-28T08:12:02Z"
-      },
-      {
-        "id": "8220f0e46821c28f0691",
-        "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
-        "summary": "巴西总统大选落败的弗拉维奥·博索纳罗飞抵迈阿密，面临洗钱指控。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-        "publishedAt": "2026-10-28T05:39:01Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+        "publishedAt": "2026-10-28T11:13:32Z"
       },
       {
         "id": "43ed066524b085667e37",
@@ -132,12 +124,20 @@
         "publishedAt": "2026-10-28T03:54:23Z"
       },
       {
-        "id": "4b702fad0e9efba3b6ec",
-        "title": "Experts defer to AI in decision-making, Anthropic study finds",
-        "summary": "Anthropic研究显示，专业分析师决策时86%的情况下选择与AI建议一致。",
+        "id": "9bd9e84772bfac2589db",
+        "title": "Bank of Canada raises interest rates for the first time in three years",
+        "summary": "加拿大央行三年来首次加息，因能源价格推高通胀，基准利率上调25个基点。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss",
-        "publishedAt": "2026-10-27T22:33:19Z"
+        "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
+        "publishedAt": "2026-10-28T08:44:44Z"
+      },
+      {
+        "id": "797439665aa032f57e9f",
+        "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+        "summary": "普京称赞马斯克是天才，俄罗斯计划打造本国版星链用于军事。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
+        "publishedAt": "2026-10-28T10:32:38Z"
       }
     ]
   }
