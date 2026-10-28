@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T01:19:00Z",
+  "generatedAt": "2026-10-28T08:26:29Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内时政财经焦点集中于姆巴佩涉华言论引发多方回应，足协交涉、品牌解约与央视叫停并行；同时，美股AI反弹、存储芯片业绩强劲、工业利润增长及欧盟贸易表态等宏观产业信息亦受关注。",
+    "overview": "今日国内焦点集中于姆巴佩涉华言论引发的外交与商业连锁反应、存储芯片巨头SK海力士的亮眼财报、以及美联储决议前夕的全球市场动态。",
     "items": [
       {
-        "id": "a0bcbd1236c81c7b2dab",
-        "title": "中国足协回应姆巴佩涉华错误言论：要求涉事球员和皇马俱乐部公开正式道歉",
-        "summary": "中国足协就姆巴佩涉华错误言论提出交涉，要求球员和皇马俱乐部公开正式道歉。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34344391",
-        "publishedAt": "2026-10-28T01:19:00Z"
+        "id": "89943cdb6e745f65fdd4",
+        "title": "外交部回应“姆巴佩道歉”",
+        "summary": "外交部就姆巴佩涉华错误言论作出回应，要求其及皇马俱乐部公开道歉。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89%E2%80%9D",
+        "publishedAt": "2026-10-28T08:26:29Z"
       },
       {
-        "id": "85715610af3e5a678f9f",
-        "title": "央视已经全面叫停涉及姆巴佩的赛事和广告播出",
-        "summary": "央视全面叫停涉及姆巴佩的赛事和广告播出，回应其涉华不当言论。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34341996",
-        "publishedAt": "2026-10-28T01:19:00Z"
+        "id": "b6a970314ba8494996e6",
+        "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
+        "summary": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌金价涨1%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784535",
+        "publishedAt": "2026-10-28T08:26:29Z"
       },
       {
-        "id": "04831c25e5ad7f9ad62e",
-        "title": "东鹏饮料集团：零容忍伤害民族感情行为，终止与姆巴佩全部合作",
-        "summary": "东鹏饮料宣布终止与姆巴佩全部合作，称零容忍伤害民族感情行为。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34340340",
-        "publishedAt": "2026-10-28T01:19:00Z"
-      },
-      {
-        "id": "d594341262aea25b007f",
-        "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
-        "summary": "美股AI反弹延续，费城半导体指数大涨3.6%，纳指涨超1%。",
+        "id": "973139a5a13ab97d0ec0",
+        "title": "今夜不加息？美联储决议日来袭：华尔街紧盯沃什表态！",
+        "summary": "美联储决议日来袭，市场关注沃什表态，预计今夜或维持利率不变。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2517192",
-        "publishedAt": "2026-10-28T01:19:00Z"
+        "url": "https://www.cls.cn/detail/2517294",
+        "publishedAt": "2026-10-28T08:26:29Z"
       },
       {
-        "id": "f542a6a801d4b9620f4e",
-        "title": "SK海力士三季报营收超预期、营业利润同比暴增7倍创历史新高，祭出百万亿韩元史诗级股东回报",
-        "summary": "SK海力士三季报营收超预期，营业利润同比暴增7倍创历史新高。",
+        "id": "855d5d7875f07c221e52",
+        "title": "国台办回应特朗普涉台言论",
+        "summary": "国台办就特朗普涉台言论作出回应，重申一个中国原则立场。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7701604359507608091/",
+        "publishedAt": "2026-10-28T08:26:29Z"
+      },
+      {
+        "id": "ee510ea2d224c2c076df",
+        "title": "SK海力士财报会实录：未来三年存储产能几近售罄 预计供需紧张延续至2030年",
+        "summary": "SK海力士称未来三年存储产能几近售罄，预计供需紧张延续至2030年。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2517443",
+        "publishedAt": "2026-10-28T08:26:29Z"
+      },
+      {
+        "id": "8460d8362efa2e36d539",
+        "title": "SK海力士三季度营业利润同比暴增7倍，祭出百万亿韩元史诗级股东回报，存储芯片供应短缺持续至2030年",
+        "summary": "SK海力士三季度营业利润同比暴增7倍，祭出百万亿韩元股东回报计划。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784619",
-        "publishedAt": "2026-10-28T01:19:00Z"
+        "publishedAt": "2026-10-28T08:26:29Z"
       },
       {
-        "id": "0de213d8e830de45b5cb",
-        "title": "欧盟计划减少从中国进口部分产品？中方回应",
-        "summary": "欧盟计划减少从中国进口部分产品，中方就此作出回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xZ71fKF9C9",
-        "publishedAt": "2026-10-28T01:19:00Z"
-      },
-      {
-        "id": "18192892c8df3c34a06f",
-        "title": "前9月规上工业企业利润较快增长",
-        "summary": "前9月规上工业企业利润较快增长，产业结构向新向优升级。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7701305657386896950/",
-        "publishedAt": "2026-10-28T01:19:00Z"
-      },
-      {
-        "id": "8a434cb2be2b0b0b4569",
-        "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
-        "summary": "证监会原党委委员王会民受贿4.36亿余元，一审被判死缓。",
+        "id": "096dd2bbb157b75bf686",
+        "title": "苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线",
+        "summary": "苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34343115",
-        "publishedAt": "2026-10-28T01:19:00Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34342933",
+        "publishedAt": "2026-10-28T08:26:29Z"
+      },
+      {
+        "id": "5d51fca61b580c52978a",
+        "title": "中方强烈要求美国立即停止封锁古巴",
+        "summary": "中方强烈要求美国立即停止对古巴的封锁，敦促美方改变错误政策。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7701568987024526898/",
+        "publishedAt": "2026-10-28T08:26:29Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻以以色列大选胶着、内塔尼亚胡阵营未获多数为核心，阿拉伯政党席位创新高；美国特朗普竞选活动聚焦能源与环境政策，巴西博索纳罗之子赴美、埃及封堵独立媒体等亦受关注。",
+    "overview": "全球方面，以色列大选出口民调显示无阵营获多数，组阁前景不明；美国中期选举临近，其外交影响受关注；巴西政治动荡持续。",
     "items": [
       {
-        "id": "c8845db1b9a50771e679",
-        "title": "Israel election: Anti-Netanyahu bloc ahead, but no majority",
-        "summary": "以色列大选出口民调显示反内塔尼亚胡阵营领先，但无阵营获明确多数。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-27T12:21:00Z"
+        "id": "8e653ba09b50e49fc881",
+        "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
+        "summary": "以色列大选出口民调显示无明确赢家，反内塔尼亚胡阵营领先但未获多数，组阁谈判在即。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+        "publishedAt": "2026-10-28T00:01:47Z"
       },
       {
-        "id": "83f8544c7670a68bcfde",
-        "title": "Arab parties could win 18 Israeli parliament seats",
-        "summary": "阿拉伯政党有望赢得18个以色列议会席位，巴勒斯坦公民投票率创新高。",
+        "id": "687140ac6f9a93919aad",
+        "title": "Why the US midterms matter even if you don’t live in America",
+        "summary": "美国中期选举临近，其结果可能影响军事援助、制裁、贸易和关税等全球决策。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-        "publishedAt": "2026-10-27T16:43:56Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
+        "publishedAt": "2026-10-28T00:15:19Z"
+      },
+      {
+        "id": "7e7fab80dd58785ceb8b",
+        "title": "Cyclone Arnab makes landfall in India’s Andhra Pradesh",
+        "summary": "气旋“阿尔纳布”登陆印度安得拉邦，当局疏散18万人，航班和铁路受影响。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh?traffic_source=rss",
+        "publishedAt": "2026-10-28T00:07:26Z"
+      },
+      {
+        "id": "d32c42acd54bf7910110",
+        "title": "Israel election: Netanyahu-led bloc in slight lead with half of votes counted",
+        "summary": "以色列大选计票过半，内塔尼亚胡阵营略领先，但最终结果或需数日，联合谈判艰难。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-half-of-votes-counted/live-79713839?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-27T23:45:00Z"
+      },
+      {
+        "id": "4b702fad0e9efba3b6ec",
+        "title": "Experts defer to AI in decision-making, Anthropic study finds",
+        "summary": "Anthropic研究显示，专业分析师决策时86%的情况下选择与AI建议一致的选项。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss",
+        "publishedAt": "2026-10-27T22:33:19Z"
+      },
+      {
+        "id": "14ff2877a48bcb5882d8",
+        "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+        "summary": "查尔斯国王将在英联邦峰会上与领导人讨论奴隶制遗留问题，开始加勒比之行。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+        "publishedAt": "2026-10-27T22:55:35Z"
       },
       {
         "id": "824133c8150cba77c94f",
         "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-        "summary": "巴西参议员弗拉维奥·博索纳罗在选举失利后赴美，美国称将发放签证。",
+        "summary": "巴西总统大选失利后，参议员弗拉维奥·博索纳罗据报已乘私人飞机离开巴西前往美国。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-        "publishedAt": "2026-10-27T14:03:00Z"
-      },
-      {
-        "id": "394a6c80db77e4eae719",
-        "title": "Trump tells Texas campaign rally crowd he’s rolling back environmental rules to curb methane pollution – live",
-        "summary": "特朗普在得州竞选集会上称将撤销环境法规以限制甲烷污染。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-        "publishedAt": "2026-10-27T17:13:32Z"
-      },
-      {
-        "id": "1b5f413b8a7af747ea40",
-        "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
-        "summary": "特朗普在得州集会上展示委内瑞拉石油，并提议委成为美国第51州。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-        "publishedAt": "2026-10-27T15:07:06Z"
-      },
-      {
-        "id": "85c89e56ebbb07888f20",
-        "title": "Egypt orders closure of independent news site Mada Masr",
-        "summary": "埃及法院下令关闭独立新闻网站Mada Masr，主编被短暂拘留并罚款。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-27T15:16:00Z"
+        "publishedAt": "2026-10-27T22:36:14Z"
       },
       {
         "id": "636243e610d63b9748ce",
         "title": "Norway and Finland leaders hold rare call with Putin",
-        "summary": "芬兰与挪威领导人罕见与普京通话，讨论结束乌克兰冲突的途径。",
+        "summary": "挪威和芬兰领导人罕见与普京通话，讨论结束乌克兰冲突的途径。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-27T10:28:23Z"
-      },
-      {
-        "id": "605407a8bce101923aaa",
-        "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
-        "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposi",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-        "publishedAt": "2026-10-27T17:13:44Z"
       }
     ]
   }
