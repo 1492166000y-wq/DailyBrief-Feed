@@ -1,95 +1,103 @@
 {
   "version": 1,
   "date": "2026-10-29",
-  "generatedAt": "2026-10-28T22:32:59Z",
+  "generatedAt": "2026-10-29T05:44:47Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内新闻聚焦刘延东同志逝世、美联储利率决议、以色列大选、西班牙列车事故及科技产业动态。",
+    "overview": "国内关注宏观政策与产业动向：前三季度海洋生产总值增长、海南自贸港贸易便利化新政、上海推动自动驾驶出租车应用；国际方面聚焦美联储按兵不动、美股财报与AI投资回报、西班牙列车相撞事故及以色列选举僵局。",
     "items": [
+      {
+        "id": "20591e93cf2077af3f19",
+        "title": "国内最长地铁环线全线开通",
+        "summary": "国内最长地铁环线全线开通，城市轨道交通网络进一步加密，便利沿线通勤。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7701768397696008755/",
+        "publishedAt": "2026-10-29T05:44:47Z"
+      },
+      {
+        "id": "4f82a93cd36f1fa1b58d",
+        "title": "GDP十强城市出炉 又一轮大洗牌要来了",
+        "summary": "GDP十强城市榜单出炉，排名出现新一轮洗牌，反映区域经济格局调整。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=GDP%E5%8D%81%E5%BC%BA%E5%9F%8E%E5%B8%82%E5%87%BA%E7%82%89+%E5%8F%88%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B4%97%E7%89%8C%E8%A6%81%E6%9D%A5%E4%BA%86",
+        "publishedAt": "2026-10-29T05:44:47Z"
+      },
       {
         "id": "c0f8484a674a5f7dc3e7",
         "title": "刘延东同志逝世",
-        "summary": "国务院原副总理刘延东同志逝世，享年81岁。",
+        "summary": "刘延东同志逝世，澎湃新闻发布相关消息，政界人士表达哀悼。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34351680",
-        "publishedAt": "2026-10-28T22:32:59Z"
+        "publishedAt": "2026-10-29T05:44:47Z"
       },
       {
-        "id": "d54e4f5f3e5b7879f6fe",
-        "title": "美联储如期维持基准利率不变 两名票委主张加息25个基点",
-        "summary": "美联储维持基准利率不变，两名票委主张加息25个基点。",
+        "id": "68b14756c1da2b58168c",
+        "title": "前三季度我国海洋生产总值增长4.9%",
+        "summary": "前三季度我国海洋生产总值同比增长4.9%，海洋经济延续恢复态势。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7701920585005272586/",
+        "publishedAt": "2026-10-29T05:44:47Z"
+      },
+      {
+        "id": "b065df0f34eca9d030ef",
+        "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
+        "summary": "四部门出台措施，进一步提高海南自由贸易港贸易自由化便利化水平。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2518477",
-        "publishedAt": "2026-10-28T22:32:59Z"
+        "url": "https://www.cls.cn/detail/2518865",
+        "publishedAt": "2026-10-29T05:44:47Z"
       },
       {
-        "id": "7783cd7e73d5ccf86e5e",
-        "title": "华尔街见闻早餐FM-Radio | 2026年10月28日",
-        "summary": "华尔街见闻早餐：关注美联储决议、全球市场及科技产业动态。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784617",
-        "publishedAt": "2026-10-28T22:32:59Z"
+        "id": "b8fb3fb2c75b3e8c52f4",
+        "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+        "summary": "上海拟依法有序推动自动驾驶技术在出租汽车行业应用，完善相关规则。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2518747",
+        "publishedAt": "2026-10-29T05:44:47Z"
       },
       {
-        "id": "8460d8362efa2e36d539",
-        "title": "SK海力士三季度营业利润同比暴增7倍，祭出百万亿韩元史诗级股东回报，存储芯片供应短缺持续至2030年",
-        "summary": "SK海力士三季度营业利润同比暴增7倍，存储芯片供应短缺持续至2030年。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784619",
-        "publishedAt": "2026-10-28T22:32:59Z"
-      },
-      {
-        "id": "50545ff61808463c412a",
-        "title": "如果共和党中期选举输了怎么办？特朗普回应",
-        "summary": "特朗普回应共和党中期选举若失利将如何应对。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xabEL09CAG",
-        "publishedAt": "2026-10-28T22:32:59Z"
-      },
-      {
-        "id": "ee2a8cf3a63af2e3b7cc",
-        "title": "西班牙列车相撞已致68死",
-        "summary": "西班牙高铁列车相撞事故已致68人死亡，举国哀悼。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B468%E6%AD%BB%23",
-        "publishedAt": "2026-10-28T22:32:59Z"
-      },
-      {
-        "id": "3b03112031da7c656de1",
-        "title": "巴基斯坦对台湾地区航司关闭领空",
-        "summary": "巴基斯坦对台湾地区航空公司关闭领空，引发关注。",
+        "id": "8dfaf63799cd8664a6d2",
+        "title": "商务部回应“美将中企列入实体清单”",
+        "summary": "商务部回应美国将中企列入实体清单，表明有关立场。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
-        "publishedAt": "2026-10-28T22:32:59Z"
+        "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E5%B0%86%E4%B8%AD%E4%BC%81%E5%88%97%E5%85%A5%E5%AE%9E%E4%BD%93%E6%B8%85%E5%8D%95%E2%80%9D",
+        "publishedAt": "2026-10-29T05:44:47Z"
       },
       {
-        "id": "5435a904d963736880af",
-        "title": "宇树科技上市后首份季报出炉：Q3净利环比下降49.55%，人形机器人商业化进程迎关键验证期",
-        "summary": "宇树科技上市后首份季报出炉：Q3净利环比下降49.55%。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2518195",
-        "publishedAt": "2026-10-28T22:32:59Z"
+        "id": "0ed4d1191c93fcdd339f",
+        "title": "宇树科技Q3营收同比增长69.93%，净利润同比下降17.42%、环比降49%，研发费用激增249.58% | 财报见闻",
+        "summary": "宇树科技第三季度营收同比增长69.93%，净利润下降17.42%，研发费用激增。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784681",
+        "publishedAt": "2026-10-29T05:44:47Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻关注巴西博索纳罗家族流亡、以色列选举僵局、西班牙列车相撞事故及美欧政治经济动态。",
+    "overview": "国际焦点集中在西班牙高铁相撞致68人死亡并引发抗议、以色列大选组阁僵局、俄乌无人机与空袭升级、美国DHS大规模数据泄露，以及巴西博索纳罗家族出逃等政治事件。",
     "items": [
       {
-        "id": "a3aabb16a376b46114fb",
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "summary": "博索纳罗否认逃离巴西，自称是政变和迫害的受害者，抵达迈阿密。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-28T14:13:35Z"
+        "id": "9d428c73f23fb03bd71b",
+        "title": "Spain begins mourning period after deadly train crash",
+        "summary": "西班牙列车相撞致68人死亡，全国进入三天哀悼期，家属提供DNA样本辨认遇难者。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+        "publishedAt": "2026-10-28T21:31:16Z"
       },
       {
         "id": "babb8ab090acbf70bdb4",
         "title": "High-speed train crash kills at least 68 people in Spain",
-        "summary": "西班牙高速列车相撞致至少68人死亡，交通大臣称由“莫名错误”导致。",
+        "summary": "西班牙高速列车相撞造成至少68人死亡，交通大臣称事故由“莫名错误”导致。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-28T13:38:54Z"
+      },
+      {
+        "id": "6f44a089488733355427",
+        "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+        "summary": "马德里因列车相撞事故爆发抗议，防暴警察出动，极右翼示威者与警方冲突。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+        "publishedAt": "2026-10-28T16:36:33Z"
       },
       {
         "id": "573a140d6b329fc2cef1",
@@ -100,44 +108,36 @@
         "publishedAt": "2026-10-28T12:24:39Z"
       },
       {
-        "id": "f3fd5fe3ec376be58756",
-        "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
-        "summary": "英国2026年预算案：财相宣布对银行和房东增税，向2000万家庭发放100英镑补贴。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
-        "publishedAt": "2026-10-28T12:09:34Z"
-      },
-      {
-        "id": "93cbcab2fc2eda54a892",
-        "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-        "summary": "普京在俄非峰会上称俄罗斯是非洲最佳伙伴，而非“殖民”西方。",
+        "id": "609aa78c5fda19029db5",
+        "title": "Russia says more than 600 drones launched towards Moscow overnight",
+        "summary": "俄罗斯称夜间有超过600架无人机飞向莫斯科，为近期系列大规模袭击之一。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-        "publishedAt": "2026-10-28T11:13:32Z"
+        "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss",
+        "publishedAt": "2026-10-28T21:22:21Z"
       },
       {
-        "id": "43ed066524b085667e37",
-        "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
-        "summary": "亚马逊以115.7亿美元收购卫星公司Globalstar，挑战星链。",
-        "source": "Hacker News",
-        "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
-        "publishedAt": "2026-10-28T03:54:23Z"
+        "id": "272bad278a1cdb955ad5",
+        "title": "North Korea fires around 10 ballistic missiles into sea",
+        "summary": "朝鲜向海上发射约10枚弹道导弹，正值朝韩边境紧张与对美核谈前景不明之际。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-28T20:57:00Z"
       },
       {
-        "id": "9bd9e84772bfac2589db",
-        "title": "Bank of Canada raises interest rates for the first time in three years",
-        "summary": "加拿大央行三年来首次加息，因能源价格推高通胀，基准利率上调25个基点。",
+        "id": "80129e7668122f2d52d7",
+        "title": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
+        "summary": "美国国土安全部发生数据泄露，逾4万名员工姓名、电话和邮箱等信息外泄。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-28T19:21:00Z"
+      },
+      {
+        "id": "b324f85b2fcc8b4212fd",
+        "title": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
+        "summary": "美国参议院选战围绕宗教议题升温，民主党候选人回击对其穆斯林信仰的攻击。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
-        "publishedAt": "2026-10-28T08:44:44Z"
-      },
-      {
-        "id": "797439665aa032f57e9f",
-        "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
-        "summary": "普京称赞马斯克是天才，俄罗斯计划打造本国版星链用于军事。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
-        "publishedAt": "2026-10-28T10:32:38Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss",
+        "publishedAt": "2026-10-28T18:42:22Z"
       }
     ]
   }
