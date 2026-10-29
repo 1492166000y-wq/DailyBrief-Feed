@@ -1,116 +1,108 @@
 {
   "version": 1,
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T05:44:47Z",
+  "generatedAt": "2026-10-29T12:56:33Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注宏观政策与产业动向：前三季度海洋生产总值增长、海南自贸港贸易便利化新政、上海推动自动驾驶出租车应用；国际方面聚焦美联储按兵不动、美股财报与AI投资回报、西班牙列车相撞事故及以色列选举僵局。",
+    "overview": "国内要闻聚焦党的二十届五中全会及中共中央新闻发布会，同时涵盖医保、国防、外交、金融监管及产业科技动态。",
     "items": [
       {
-        "id": "20591e93cf2077af3f19",
-        "title": "国内最长地铁环线全线开通",
-        "summary": "国内最长地铁环线全线开通，城市轨道交通网络进一步加密，便利沿线通勤。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7701768397696008755/",
-        "publishedAt": "2026-10-29T05:44:47Z"
-      },
-      {
-        "id": "4f82a93cd36f1fa1b58d",
-        "title": "GDP十强城市出炉 又一轮大洗牌要来了",
-        "summary": "GDP十强城市榜单出炉，排名出现新一轮洗牌，反映区域经济格局调整。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=GDP%E5%8D%81%E5%BC%BA%E5%9F%8E%E5%B8%82%E5%87%BA%E7%82%89+%E5%8F%88%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B4%97%E7%89%8C%E8%A6%81%E6%9D%A5%E4%BA%86",
-        "publishedAt": "2026-10-29T05:44:47Z"
-      },
-      {
-        "id": "c0f8484a674a5f7dc3e7",
-        "title": "刘延东同志逝世",
-        "summary": "刘延东同志逝世，澎湃新闻发布相关消息，政界人士表达哀悼。",
+        "id": "68ab8f8f9a18e36fd8ea",
+        "title": "中国共产党第二十届中央委员会第五次全体会议公报",
+        "summary": "党的二十届五中全会公报发布，审议通过全面从严治党重大决定。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34351680",
-        "publishedAt": "2026-10-29T05:44:47Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34360376",
+        "publishedAt": "2026-10-29T12:56:33Z"
       },
       {
-        "id": "68b14756c1da2b58168c",
-        "title": "前三季度我国海洋生产总值增长4.9%",
-        "summary": "前三季度我国海洋生产总值同比增长4.9%，海洋经济延续恢复态势。",
+        "id": "47a5b78300e4d12242c5",
+        "title": "中共中央30日上午举行新闻发布会",
+        "summary": "中共中央将于30日上午举行新闻发布会，解读五中全会精神。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7701920585005272586/",
-        "publishedAt": "2026-10-29T05:44:47Z"
+        "url": "https://www.toutiao.com/trending/7702023711893651995/",
+        "publishedAt": "2026-10-29T12:56:33Z"
+      },
+      {
+        "id": "ba73ff2fa9f5efe5ee1e",
+        "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+        "summary": "五中全会审议通过持之以恒推进全面从严治党若干重大问题的决定。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34360377",
+        "publishedAt": "2026-10-29T12:56:33Z"
+      },
+      {
+        "id": "c7b1fbd9fc95e21a4fae",
+        "title": "医保局公布住院人次第一的疾病",
+        "summary": "国家医保局公布住院人次第一的疾病，提示相关防治重点。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%85%AC%E5%B8%83%E4%BD%8F%E9%99%A2%E4%BA%BA%E6%AC%A1%E7%AC%AC%E4%B8%80%E7%9A%84%E7%96%BE%E7%97%85",
+        "publishedAt": "2026-10-29T12:56:33Z"
+      },
+      {
+        "id": "82a1df7bf2feb556ed37",
+        "title": "美日大规模军演，重点是“夺岛”，国防部回应",
+        "summary": "美日大规模军演重点演练夺岛，国防部就此作出回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xcRH1C0srh",
+        "publishedAt": "2026-10-29T12:56:33Z"
+      },
+      {
+        "id": "4660c70cd19447f8fd7a",
+        "title": "国防部：菲方不能任由一小撮人肆意妄为在南海挑衅生事",
+        "summary": "国防部敦促菲方停止在南海挑衅生事，勿任由一小撮人肆意妄为。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xcWBfcc78y",
+        "publishedAt": "2026-10-29T12:56:33Z"
+      },
+      {
+        "id": "9f35fa4fdff6966e3a30",
+        "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
+        "summary": "商务部警告若欧方对华产品采取歧视性限制，中方将采取必要措施。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2519101",
+        "publishedAt": "2026-10-29T12:56:33Z"
       },
       {
         "id": "b065df0f34eca9d030ef",
         "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
-        "summary": "四部门出台措施，进一步提高海南自由贸易港贸易自由化便利化水平。",
+        "summary": "四部门发文进一步提高海南自由贸易港贸易自由化便利化水平。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2518865",
-        "publishedAt": "2026-10-29T05:44:47Z"
-      },
-      {
-        "id": "b8fb3fb2c75b3e8c52f4",
-        "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
-        "summary": "上海拟依法有序推动自动驾驶技术在出租汽车行业应用，完善相关规则。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2518747",
-        "publishedAt": "2026-10-29T05:44:47Z"
-      },
-      {
-        "id": "8dfaf63799cd8664a6d2",
-        "title": "商务部回应“美将中企列入实体清单”",
-        "summary": "商务部回应美国将中企列入实体清单，表明有关立场。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E5%B0%86%E4%B8%AD%E4%BC%81%E5%88%97%E5%85%A5%E5%AE%9E%E4%BD%93%E6%B8%85%E5%8D%95%E2%80%9D",
-        "publishedAt": "2026-10-29T05:44:47Z"
-      },
-      {
-        "id": "0ed4d1191c93fcdd339f",
-        "title": "宇树科技Q3营收同比增长69.93%，净利润同比下降17.42%、环比降49%，研发费用激增249.58% | 财报见闻",
-        "summary": "宇树科技第三季度营收同比增长69.93%，净利润下降17.42%，研发费用激增。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784681",
-        "publishedAt": "2026-10-29T05:44:47Z"
+        "publishedAt": "2026-10-29T12:56:33Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在西班牙高铁相撞致68人死亡并引发抗议、以色列大选组阁僵局、俄乌无人机与空袭升级、美国DHS大规模数据泄露，以及巴西博索纳罗家族出逃等政治事件。",
+    "overview": "国际方面关注以色列选举僵局、西班牙高铁事故、欧洲央行行长提前卸任、俄乌冲突及多国经济与企业动态。",
     "items": [
       {
-        "id": "9d428c73f23fb03bd71b",
-        "title": "Spain begins mourning period after deadly train crash",
-        "summary": "西班牙列车相撞致68人死亡，全国进入三天哀悼期，家属提供DNA样本辨认遇难者。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-        "publishedAt": "2026-10-28T21:31:16Z"
+        "id": "573a140d6b329fc2cef1",
+        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "summary": "以色列选举部分计票显示内塔尼亚胡阵营领先但未过半，组阁陷僵局。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-29T03:22:18Z"
       },
       {
         "id": "babb8ab090acbf70bdb4",
         "title": "High-speed train crash kills at least 68 people in Spain",
-        "summary": "西班牙高速列车相撞造成至少68人死亡，交通大臣称事故由“莫名错误”导致。",
+        "summary": "西班牙高速列车相撞致至少68人死亡，交通大臣称由莫名错误导致。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-10-28T13:38:54Z"
       },
       {
-        "id": "6f44a089488733355427",
-        "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
-        "summary": "马德里因列车相撞事故爆发抗议，防暴警察出动，极右翼示威者与警方冲突。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
-        "publishedAt": "2026-10-28T16:36:33Z"
-      },
-      {
-        "id": "573a140d6b329fc2cef1",
-        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-        "summary": "以色列选举部分结果显示内塔尼亚胡阵营领先但未过半，组阁谈判艰难。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-28T12:24:39Z"
+        "id": "42c0c0c19fd56beba03f",
+        "title": "Europe’s central bank chief Christine Lagarde to step down nine months early",
+        "summary": "欧洲央行行长拉加德宣布提前九个月卸任，欧元区经济承压。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+        "publishedAt": "2026-10-29T02:56:12Z"
       },
       {
         "id": "609aa78c5fda19029db5",
         "title": "Russia says more than 600 drones launched towards Moscow overnight",
-        "summary": "俄罗斯称夜间有超过600架无人机飞向莫斯科，为近期系列大规模袭击之一。",
+        "summary": "俄方称夜间有超600架无人机飞向莫斯科，为近期大规模袭击之一。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss",
         "publishedAt": "2026-10-28T21:22:21Z"
@@ -118,26 +110,34 @@
       {
         "id": "272bad278a1cdb955ad5",
         "title": "North Korea fires around 10 ballistic missiles into sea",
-        "summary": "朝鲜向海上发射约10枚弹道导弹，正值朝韩边境紧张与对美核谈前景不明之际。",
+        "summary": "朝鲜向海上发射约10枚弹道导弹，半岛紧张与对美核谈前景不明。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-28T20:57:00Z"
       },
       {
+        "id": "513cc54718186458f66d",
+        "title": "Volkswagen logs Q3 operating loss of €5.86 billion on Porsche writedown",
+        "summary": "大众汽车三季度营业亏损58.6亿欧元，受保时捷资产减记拖累。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-29T04:54:00Z"
+      },
+      {
         "id": "80129e7668122f2d52d7",
         "title": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
-        "summary": "美国国土安全部发生数据泄露，逾4万名员工姓名、电话和邮箱等信息外泄。",
+        "summary": "美国国土安全部数据泄露，逾4万名员工姓名电话邮箱外泄。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-10-28T19:21:00Z"
       },
       {
-        "id": "b324f85b2fcc8b4212fd",
-        "title": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
-        "summary": "美国参议院选战围绕宗教议题升温，民主党候选人回击对其穆斯林信仰的攻击。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss",
-        "publishedAt": "2026-10-28T18:42:22Z"
+        "id": "48d3314445c8803f9f00",
+        "title": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
+        "summary": "三丽鸥因中国舆论压力终止与日剧《VIVANT》联名并道歉。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
+        "publishedAt": "2026-10-29T00:03:00Z"
       }
     ]
   }
