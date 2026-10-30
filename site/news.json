@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T12:50:36Z",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-30T19:20:25Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦党的二十届五中全会精神解读与稳市场政策，证监会、央行密集发声提振信心；资本市场三季报密集披露，科技巨头海外暴跌传导至A股。",
+    "overview": "国内聚焦党的二十届五中全会精神解读、央行宽松货币政策与证监会稳市场表态，同时关注黄金铜价分化、美股科技股暴跌外溢及币安史上最大盗窃案等财经科技事件。",
     "items": [
       {
         "id": "60d1c8e14bc9cebe62ff",
@@ -12,23 +12,7 @@
         "summary": "中共中央举行新闻发布会，介绍和解读党的二十届五中全会精神。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34361191",
-        "publishedAt": "2026-10-30T12:50:36Z"
-      },
-      {
-        "id": "771e3f99b01d716dbdd4",
-        "title": "中国共产党第二十一次全国代表大会于2027年下半年在北京召开",
-        "summary": "二十届五中全会决定，党的二十一次全国代表大会于2027年下半年在北京召开。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34362083",
-        "publishedAt": "2026-10-30T12:50:36Z"
-      },
-      {
-        "id": "3b755f46ce6fee24b16f",
-        "title": "证监会：全力稳市场稳预期 持续提升资本市场韧性和信心",
-        "summary": "证监会表示全力稳市场稳预期，持续提升资本市场韧性和信心，相关表态获多源转载。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2520784",
-        "publishedAt": "2026-10-30T12:50:36Z"
+        "publishedAt": "2026-10-30T19:20:25Z"
       },
       {
         "id": "b2aa5939ef1001ca31c4",
@@ -36,45 +20,77 @@
         "summary": "央行表示继续实施适度宽松货币政策，综合运用多种工具保持流动性充裕。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2521002",
-        "publishedAt": "2026-10-30T12:50:36Z"
+        "publishedAt": "2026-10-30T19:20:25Z"
       },
       {
-        "id": "9a11f7ed07ad1dbcffa7",
-        "title": "外交部：美方无理打压中国企业 中方坚决反对、强烈不满",
-        "summary": "外交部就美方无理打压中国企业表态，称中方坚决反对、强烈不满。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2520522",
-        "publishedAt": "2026-10-30T12:50:36Z"
+        "id": "3fb11fb9e2adf2b4c7c3",
+        "title": "证监会：全力稳市场稳预期，持续提升资本市场韧性和信心",
+        "summary": "证监会称全力稳市场稳预期，持续提升资本市场韧性和信心。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34369285",
+        "publishedAt": "2026-10-30T19:20:25Z"
       },
       {
-        "id": "8e27f235f1bce73e7796",
-        "title": "两天12家公司公告大股东“不减持” 锁定1700亿元筹码 稳盘效果如何？",
-        "summary": "两天内12家公司公告大股东不减持，锁定约1700亿元筹码，稳盘效果受关注。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2520326",
-        "publishedAt": "2026-10-30T12:50:36Z"
-      },
-      {
-        "id": "39597dcc421edefbf142",
-        "title": "全球科技股“惨遭血洗”！纳指期货跌2%，英特尔美股盘前暴跌23%，韩股收跌3.5%，黄金跌破4000美元",
-        "summary": "全球科技股大跌，纳指期货跌2%，黄金跌破4000美元，外围波动波及境内市场。",
+        "id": "a136b0f33f28f97a1e6d",
+        "title": "美股跌幅持续扩大，科技股抛售加剧，费半跌9%，英特尔暴跌30%，美债上涨，黄金创一年新低",
+        "summary": "美股跌幅扩大，科技股遭抛售，英特尔暴跌30%，黄金创一年新低。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784816",
-        "publishedAt": "2026-10-30T12:50:36Z"
+        "publishedAt": "2026-10-30T19:20:25Z"
       },
       {
-        "id": "5ed40fa66f36f380410c",
-        "title": "【每日收评】创业板指放量跌超4%，全市场超4600股收绿，大消费板块逆势爆发",
-        "summary": "A股收评：创业板指放量跌超4%，全市场超4600股收绿，大消费板块逆势爆发。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2520667",
-        "publishedAt": "2026-10-30T12:50:36Z"
+        "id": "70badc04c2097083b259",
+        "title": "黄金大跌 铜价为何创新高",
+        "summary": "黄金大跌之际铜价为何创新高，市场关注大宗商品走势分化。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7701487346830557220/",
+        "publishedAt": "2026-10-30T19:20:25Z"
+      },
+      {
+        "id": "8b186a78e2f14b5e9547",
+        "title": "63亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失",
+        "summary": "币安遭史上最大黑客洗劫63亿美元，暂停存取功能并承诺承担全部损失。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784815",
+        "publishedAt": "2026-10-30T19:20:25Z"
+      },
+      {
+        "id": "d706f4673ffed646e88a",
+        "title": "外交部：美方无理打压中国企业，中方坚决反对、强烈不满",
+        "summary": "外交部就美方无理打压中国企业表示坚决反对和强烈不满。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xe4gIlxB98",
+        "publishedAt": "2026-10-30T19:20:25Z"
+      },
+      {
+        "id": "814a7a6e3fc55a6072f7",
+        "title": "今年全国实现生娃基本不花钱",
+        "summary": "今年全国实现生娃基本不花钱，生育支持政策持续落地。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7701865571654258218/",
+        "publishedAt": "2026-10-30T19:20:25Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，以色列大选无多数政党、组阁僵局待解；币安遭史上最大规模黑客攻击疑与朝鲜有关；谷歌市值蒸发、西班牙高铁事故与欧洲央行人事变动受关注。",
+    "overview": "国际关注加拿大与欧盟组建新联盟、巴基斯坦对美伊调解表态、以色列大选无多数及加沙与约旦河西岸局势，以及币安黑客案牵出朝鲜、全球科技股抛售与欧洲生活成本抗议。",
     "items": [
+      {
+        "id": "0a450eda01881aabaea0",
+        "title": "‘Deepest possible partnership’: Canada and EU announce new alliance",
+        "summary": "加拿大与欧盟在蒙特利尔峰会宣布组建新联盟，称构建抵御风暴的保护伞。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+        "publishedAt": "2026-10-30T10:54:51Z"
+      },
+      {
+        "id": "2df4a3ca6c2f245f43eb",
+        "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+        "summary": "巴基斯坦军方对美伊调解努力持谨慎乐观，警告仍有强大破坏者。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+        "publishedAt": "2026-10-30T10:55:36Z"
+      },
       {
         "id": "c8e82b2d0821ef066110",
         "title": "Israel election result shows no overall majority as vote count complete",
@@ -84,60 +100,44 @@
         "publishedAt": "2026-10-29T12:22:04Z"
       },
       {
-        "id": "53b5b118013afd739ea7",
-        "title": "Binance says $6.3bn stolen in biggest crypto heist in history",
-        "summary": "币安称约63亿美元资产被盗，为史上最大加密货币窃案。",
+        "id": "aa3c3298654cf9fd9ce2",
+        "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+        "summary": "联合国人权高专办警告加沙空间遭挤压，种族清洗担忧上升。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-        "publishedAt": "2026-10-29T16:29:24Z"
+        "url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+        "publishedAt": "2026-10-30T06:18:07Z"
       },
       {
-        "id": "d157bacca585f28d721c",
-        "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
-        "summary": "币安因涉朝鲜关联黑客攻击暂停交易，用户暂无法在平台操作。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-30T03:47:00Z"
+        "id": "c7df3d9b333e9994853c",
+        "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+        "summary": "以色列拆除被指袭击士兵的巴勒斯坦人住宅，近五千人流离失所。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+        "publishedAt": "2026-10-30T10:35:44Z"
       },
       {
-        "id": "b50f886556db945a68b0",
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "summary": "谷歌AI搜索摘要冲击广告收入，市值蒸发约5000亿美元，股价创半年新低。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-30T04:04:02Z"
-      },
-      {
-        "id": "78fd236b166feade49a8",
-        "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
-        "summary": "西班牙高铁相撞已确认69人死亡，桑切斯称涉27国人员，事故调查持续。",
+        "id": "ecbb0b8bddc5e8eb6a1d",
+        "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+        "summary": "币安63亿美元黑客案疑为朝鲜所为，公司称将覆盖客户损失。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-        "publishedAt": "2026-10-30T04:32:21Z"
+        "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+        "publishedAt": "2026-10-30T08:35:44Z"
       },
       {
-        "id": "46859f201fa0e602a139",
-        "title": "European Central Bank President Lagarde to step down early",
-        "summary": "欧洲央行行长拉加德宣布提前卸任，距任期结束尚有九个月。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss",
-        "publishedAt": "2026-10-29T08:34:55Z"
-      },
-      {
-        "id": "d1eeaaeda918fe86bfeb",
-        "title": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
-        "summary": "俄罗斯独立报纸《新报》宣布停刊，称因当局压力被迫关闭。",
+        "id": "766dc673b40925766195",
+        "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+        "summary": "科技股财报不佳引发抛售，美股单日市值蒸发近1万亿美元。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
-        "publishedAt": "2026-10-30T01:05:21Z"
+        "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+        "publishedAt": "2026-10-30T10:27:51Z"
       },
       {
-        "id": "646363fec2d2b0d7802b",
-        "title": "US judge blocks Trump’s Medicaid rule forcing ill to prove impairment",
-        "summary": "美国法官叫停特朗普政府要求病患自证残障方可获医疗补助的新规。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-blocks-trumps-medicaid-rule-forcing-ill-to-prove-impairment?traffic_source=rss",
-        "publishedAt": "2026-10-29T20:38:24Z"
+        "id": "e8dd6602d93c9edfc946",
+        "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+        "summary": "欧洲生活成本抗议蔓延，德国与法国万圣节期间将再掀示威浪潮。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+        "publishedAt": "2026-10-30T06:42:46Z"
       }
     ]
   }
