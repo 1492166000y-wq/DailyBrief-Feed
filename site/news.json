@@ -1,42 +1,50 @@
 {
   "version": 1,
   "date": "2026-10-30",
-  "generatedAt": "2026-10-29T23:56:02Z",
+  "generatedAt": "2026-10-30T05:43:38Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "本期国内焦点集中在党的二十届五中全会及全面从严治党决定，同时全球科技股大幅波动，谷歌创纪录暴跌、英特尔盘后重挫，A股算力硬件板块亦受拖累。国防部就南海、美日军演等议题作出回应。",
+    "overview": "今日国内重点集中在党的二十届五中全会成果与公报、全会后新闻发布会及2027年召开二十一大的安排；经济与产业方面，美股科技股暴跌、ETF与上市公司财报受关注；社会层面涉及大体老师摆拍事件、油价调整等。",
     "items": [
+      {
+        "id": "9f7c3a9edc5822e617be",
+        "title": "官方介绍五中全会最重要成果",
+        "summary": "官方发布会介绍二十届五中全会最重要成果，解读全会精神与部署。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7702105020681994779/",
+        "publishedAt": "2026-10-30T05:43:38Z"
+      },
       {
         "id": "68ab8f8f9a18e36fd8ea",
         "title": "中国共产党第二十届中央委员会第五次全体会议公报",
-        "summary": "党的二十届五中全会公报发布，审议通过关于持之以恒推进全面从严治党的重大决定。",
+        "summary": "二十届五中全会公报发布，全会审议通过多项重大决定。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34360376",
-        "publishedAt": "2026-10-29T23:56:02Z"
+        "publishedAt": "2026-10-30T05:43:38Z"
       },
       {
-        "id": "82a1df7bf2feb556ed37",
-        "title": "美日大规模军演，重点是“夺岛”，国防部回应",
-        "summary": "国防部就美日大规模军演回应，强调维护地区和平稳定。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xcRH1C0srh",
-        "publishedAt": "2026-10-29T23:56:02Z"
+        "id": "ba73ff2fa9f5efe5ee1e",
+        "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+        "summary": "全会审议通过关于持之以恒推进全面从严治党若干重大问题的决定。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34360377",
+        "publishedAt": "2026-10-30T05:43:38Z"
       },
       {
-        "id": "4660c70cd19447f8fd7a",
-        "title": "国防部：菲方不能任由一小撮人肆意妄为在南海挑衅生事",
-        "summary": "国防部敦促菲方停止南海挑衅生事，不能任由一小撮人肆意妄为。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xcWBfcc78y",
-        "publishedAt": "2026-10-29T23:56:02Z"
+        "id": "771e3f99b01d716dbdd4",
+        "title": "中国共产党第二十一次全国代表大会于2027年下半年在北京召开",
+        "summary": "全会决定党的二十一次全国代表大会于2027年下半年在北京召开。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34362083",
+        "publishedAt": "2026-10-30T05:43:38Z"
       },
       {
-        "id": "11c4d8879235fe1c8ba8",
-        "title": "谷歌创纪录暴跌，美股指终结三连涨，云服务股普跌，盘后英特尔狂泻20%、亚马逊重挫",
-        "summary": "谷歌创纪录暴跌拖累美股终结三连涨，云服务股普跌，英特尔盘后重挫20%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784748",
-        "publishedAt": "2026-10-29T23:56:02Z"
+        "id": "c434cf66d61dc072148f",
+        "title": "中国第一个15万亿经济大省要来了吗",
+        "summary": "中国首个15万亿元级经济大省或将出现，引发区域经济格局关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7702315150556007974/",
+        "publishedAt": "2026-10-30T05:43:38Z"
       },
       {
         "id": "3151664d53760691eed1",
@@ -44,100 +52,92 @@
         "summary": "美股三大指数集体收跌，纳指跌超1%，谷歌创上市以来最大单日跌幅。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2519945",
-        "publishedAt": "2026-10-29T23:56:02Z"
+        "publishedAt": "2026-10-30T05:43:38Z"
       },
       {
-        "id": "cfbac8484c9df9092542",
-        "title": "A股双创指数均跌超4%，算力硬件集体调整，四大行总市值突破10万亿元，恒科指跌近3%，科网股普跌",
-        "summary": "A股双创指数均跌超4%，算力硬件集体调整，四大行总市值突破10万亿元。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784738",
-        "publishedAt": "2026-10-29T23:56:02Z"
+        "id": "078ba9695ee285b7d4c7",
+        "title": "【早报】谷歌跌12%，英特尔盘后跌超20%；沪市9只主动ETF全部完成募集；中际旭创、新易盛、胜宏科技等披露三季报",
+        "summary": "早报：谷歌跌12%、英特尔盘后跌超20%，沪市9只主动ETF完成募集。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2519971",
+        "publishedAt": "2026-10-30T05:43:38Z"
       },
       {
-        "id": "dd313a6027f70eb0b2a7",
-        "title": "养老金要崩盘？用三本账穿越认知迷雾",
-        "summary": "养老金“崩盘”论引发关注，分析指出需理性看待养老保障体系可持续性。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E9%87%91%E8%A6%81%E5%B4%A9%E7%9B%98%EF%BC%9F%E7%94%A8%E4%B8%89%E6%9C%AC%E8%B4%A6%E7%A9%BF%E8%B6%8A%E8%AE%A4%E7%9F%A5%E8%BF%B7%E9%9B%BE",
-        "publishedAt": "2026-10-29T23:56:02Z"
-      },
-      {
-        "id": "6a868216e8edf326437f",
-        "title": "暴雷！新易盛三季度净利润38.43亿元同比增长61.15%、环比下降19%，存货大增141% | 财报见闻",
-        "summary": "新易盛三季度净利润38.43亿元同比增61.15%，但环比下降19%，存货大增141%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784769",
-        "publishedAt": "2026-10-29T23:56:02Z"
+        "id": "ae53f3eb9e1c230c8016",
+        "title": "今日24时，油价调整！",
+        "summary": "国内成品油价格于今日24时调整，油价变动影响民生与物流成本。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xcRQlC8szN",
+        "publishedAt": "2026-10-30T05:43:38Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，以色列大选结果出炉，内塔尼亚胡联盟失去多数并指控舞弊；西班牙高铁相撞事故致至少69人死亡，举国哀悼；欧洲央行行长拉加德宣布提前卸任；美国阿拉斯加选举调查与政坛风波持续。",
+    "overview": "国际焦点包括币安遭史上最大规模黑客攻击、以色列大选计票无多数、西班牙高铁事故后续、谷歌因AI担忧市值暴跌、拉加德提前卸任欧央行行长，以及特朗普政府与美联储、中期选举相关动态。",
     "items": [
+      {
+        "id": "cbf40de1b5639bf136fc",
+        "title": "Crypto giant Binance hit by 'largest hack in history'",
+        "summary": "币安遭史上最大规模黑客攻击，分析机构指认朝鲜相关黑客组织。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-29T21:15:16Z"
+      },
+      {
+        "id": "53b5b118013afd739ea7",
+        "title": "Binance says $6.3bn stolen in biggest crypto heist in history",
+        "summary": "币安称约63亿美元资产被盗，为史上最大加密货币窃案。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+        "publishedAt": "2026-10-29T16:29:24Z"
+      },
       {
         "id": "c8e82b2d0821ef066110",
         "title": "Israel election result shows no overall majority as vote count complete",
-        "summary": "以色列大选计票完成，无政党获得议会多数，反对派探索组阁可能。",
+        "summary": "以色列大选计票完成，无政党获议会多数，组阁谈判前景复杂。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
         "publishedAt": "2026-10-29T12:22:04Z"
       },
       {
-        "id": "aca0a80b9b091873aa62",
-        "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-        "summary": "内塔尼亚胡被指抹黑阿拉伯选民以图保住权力，其联盟已失多数。",
+        "id": "c2927fa2ee8ae968064b",
+        "title": "Manosphere and online misogyny should be treated as public health issues, say UK experts",
+        "summary": "西班牙高铁相撞事故后进入哀悼期，搜救与责任调查持续进行。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-        "publishedAt": "2026-10-29T15:14:53Z"
+        "url": "https://www.theguardian.com/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
+        "publishedAt": "2026-10-29T15:30:37Z"
       },
       {
-        "id": "72463cf6d48be517eabf",
-        "title": "Spain begins mourning period as search continues for train crash victims",
-        "summary": "西班牙高铁相撞事故后进入哀悼期，至少69人死亡，搜救与追责持续。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-        "publishedAt": "2026-10-29T09:59:03Z"
+        "id": "bc8040be58c2872b8646",
+        "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+        "summary": "谷歌市值单日蒸发约5000亿美元，AI搜索影响广告收入引发担忧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-29T14:17:52Z"
       },
       {
         "id": "46859f201fa0e602a139",
         "title": "European Central Bank President Lagarde to step down early",
-        "summary": "欧洲央行行长拉加德宣布提前卸任，距任期结束还有九个月。",
+        "summary": "欧洲央行行长拉加德宣布提前卸任，距任期结束尚有九个月。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss",
         "publishedAt": "2026-10-29T08:34:55Z"
       },
       {
-        "id": "cc628619784db085fc0d",
-        "title": "Does Russia offer African countries an equal partnership?",
-        "summary": "普京在莫斯科主持非洲峰会，非洲多国领导人出席讨论合作。",
+        "id": "646363fec2d2b0d7802b",
+        "title": "US judge blocks Trump’s Medicaid rule forcing ill to prove impairment",
+        "summary": "美国法官叫停特朗普政府要求病患自证残障的医疗补助新规。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
-        "publishedAt": "2026-10-29T12:34:28Z"
+        "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-blocks-trumps-medicaid-rule-forcing-ill-to-prove-impairment?traffic_source=rss",
+        "publishedAt": "2026-10-29T20:38:24Z"
       },
       {
-        "id": "c11d7280373c0c6dfc31",
-        "title": "Hegseth reportedly fires high-ranking army strategist over alleged leaks",
-        "summary": "美防长赫格塞思据报解职陆军高级将领，涉泄密指控已转司法部调查。",
+        "id": "90f84c547dba6d133341",
+        "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
+        "summary": "外媒关注中共全会期间创纪录开除党员，称反腐力度持续加大。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
-        "publishedAt": "2026-10-29T14:01:56Z"
-      },
-      {
-        "id": "f91fee90a0984c76d283",
-        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-        "summary": "币安据报遭黑客攻击，约56亿美元资产被盗，引发加密市场安全担忧。",
-        "source": "Hacker News",
-        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-        "publishedAt": "2026-10-29T13:38:59Z"
-      },
-      {
-        "id": "5640e21627a4232f5c52",
-        "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
-        "summary": "特朗普呼吁起诉阿拉斯加民主党人佩尔托拉，该州州长下令调查其竞选活动。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-        "publishedAt": "2026-10-29T15:43:01Z"
+        "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+        "publishedAt": "2026-10-29T18:56:46Z"
       }
     ]
   }
