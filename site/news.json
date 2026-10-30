@@ -1,87 +1,87 @@
 {
   "version": 1,
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T05:43:38Z",
+  "generatedAt": "2026-10-30T12:50:36Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内重点集中在党的二十届五中全会成果与公报、全会后新闻发布会及2027年召开二十一大的安排；经济与产业方面，美股科技股暴跌、ETF与上市公司财报受关注；社会层面涉及大体老师摆拍事件、油价调整等。",
+    "overview": "国内聚焦党的二十届五中全会精神解读与稳市场政策，证监会、央行密集发声提振信心；资本市场三季报密集披露，科技巨头海外暴跌传导至A股。",
     "items": [
       {
-        "id": "9f7c3a9edc5822e617be",
-        "title": "官方介绍五中全会最重要成果",
-        "summary": "官方发布会介绍二十届五中全会最重要成果，解读全会精神与部署。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7702105020681994779/",
-        "publishedAt": "2026-10-30T05:43:38Z"
-      },
-      {
-        "id": "68ab8f8f9a18e36fd8ea",
-        "title": "中国共产党第二十届中央委员会第五次全体会议公报",
-        "summary": "二十届五中全会公报发布，全会审议通过多项重大决定。",
+        "id": "60d1c8e14bc9cebe62ff",
+        "title": "中共中央新闻发布会丨介绍和解读党的二十届五中全会精神",
+        "summary": "中共中央举行新闻发布会，介绍和解读党的二十届五中全会精神。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34360376",
-        "publishedAt": "2026-10-30T05:43:38Z"
-      },
-      {
-        "id": "ba73ff2fa9f5efe5ee1e",
-        "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
-        "summary": "全会审议通过关于持之以恒推进全面从严治党若干重大问题的决定。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34360377",
-        "publishedAt": "2026-10-30T05:43:38Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34361191",
+        "publishedAt": "2026-10-30T12:50:36Z"
       },
       {
         "id": "771e3f99b01d716dbdd4",
         "title": "中国共产党第二十一次全国代表大会于2027年下半年在北京召开",
-        "summary": "全会决定党的二十一次全国代表大会于2027年下半年在北京召开。",
+        "summary": "二十届五中全会决定，党的二十一次全国代表大会于2027年下半年在北京召开。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34362083",
-        "publishedAt": "2026-10-30T05:43:38Z"
+        "publishedAt": "2026-10-30T12:50:36Z"
       },
       {
-        "id": "c434cf66d61dc072148f",
-        "title": "中国第一个15万亿经济大省要来了吗",
-        "summary": "中国首个15万亿元级经济大省或将出现，引发区域经济格局关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7702315150556007974/",
-        "publishedAt": "2026-10-30T05:43:38Z"
-      },
-      {
-        "id": "3151664d53760691eed1",
-        "title": "美股收盘：三大指数集体收跌 纳指跌超1% 谷歌创上市以来最大单日跌幅",
-        "summary": "美股三大指数集体收跌，纳指跌超1%，谷歌创上市以来最大单日跌幅。",
+        "id": "3b755f46ce6fee24b16f",
+        "title": "证监会：全力稳市场稳预期 持续提升资本市场韧性和信心",
+        "summary": "证监会表示全力稳市场稳预期，持续提升资本市场韧性和信心，相关表态获多源转载。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2519945",
-        "publishedAt": "2026-10-30T05:43:38Z"
+        "url": "https://www.cls.cn/detail/2520784",
+        "publishedAt": "2026-10-30T12:50:36Z"
       },
       {
-        "id": "078ba9695ee285b7d4c7",
-        "title": "【早报】谷歌跌12%，英特尔盘后跌超20%；沪市9只主动ETF全部完成募集；中际旭创、新易盛、胜宏科技等披露三季报",
-        "summary": "早报：谷歌跌12%、英特尔盘后跌超20%，沪市9只主动ETF完成募集。",
+        "id": "b2aa5939ef1001ca31c4",
+        "title": "央行：继续实施适度宽松的货币政策，综合运用多种货币政策工具，保持流动性充裕",
+        "summary": "央行表示继续实施适度宽松货币政策，综合运用多种工具保持流动性充裕。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2519971",
-        "publishedAt": "2026-10-30T05:43:38Z"
+        "url": "https://www.cls.cn/detail/2521002",
+        "publishedAt": "2026-10-30T12:50:36Z"
       },
       {
-        "id": "ae53f3eb9e1c230c8016",
-        "title": "今日24时，油价调整！",
-        "summary": "国内成品油价格于今日24时调整，油价变动影响民生与物流成本。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xcRQlC8szN",
-        "publishedAt": "2026-10-30T05:43:38Z"
+        "id": "9a11f7ed07ad1dbcffa7",
+        "title": "外交部：美方无理打压中国企业 中方坚决反对、强烈不满",
+        "summary": "外交部就美方无理打压中国企业表态，称中方坚决反对、强烈不满。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2520522",
+        "publishedAt": "2026-10-30T12:50:36Z"
+      },
+      {
+        "id": "8e27f235f1bce73e7796",
+        "title": "两天12家公司公告大股东“不减持” 锁定1700亿元筹码 稳盘效果如何？",
+        "summary": "两天内12家公司公告大股东不减持，锁定约1700亿元筹码，稳盘效果受关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2520326",
+        "publishedAt": "2026-10-30T12:50:36Z"
+      },
+      {
+        "id": "39597dcc421edefbf142",
+        "title": "全球科技股“惨遭血洗”！纳指期货跌2%，英特尔美股盘前暴跌23%，韩股收跌3.5%，黄金跌破4000美元",
+        "summary": "全球科技股大跌，纳指期货跌2%，黄金跌破4000美元，外围波动波及境内市场。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784816",
+        "publishedAt": "2026-10-30T12:50:36Z"
+      },
+      {
+        "id": "5ed40fa66f36f380410c",
+        "title": "【每日收评】创业板指放量跌超4%，全市场超4600股收绿，大消费板块逆势爆发",
+        "summary": "A股收评：创业板指放量跌超4%，全市场超4600股收绿，大消费板块逆势爆发。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2520667",
+        "publishedAt": "2026-10-30T12:50:36Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括币安遭史上最大规模黑客攻击、以色列大选计票无多数、西班牙高铁事故后续、谷歌因AI担忧市值暴跌、拉加德提前卸任欧央行行长，以及特朗普政府与美联储、中期选举相关动态。",
+    "overview": "国际方面，以色列大选无多数政党、组阁僵局待解；币安遭史上最大规模黑客攻击疑与朝鲜有关；谷歌市值蒸发、西班牙高铁事故与欧洲央行人事变动受关注。",
     "items": [
       {
-        "id": "cbf40de1b5639bf136fc",
-        "title": "Crypto giant Binance hit by 'largest hack in history'",
-        "summary": "币安遭史上最大规模黑客攻击，分析机构指认朝鲜相关黑客组织。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-29T21:15:16Z"
+        "id": "c8e82b2d0821ef066110",
+        "title": "Israel election result shows no overall majority as vote count complete",
+        "summary": "以色列大选计票完成，无政党获议会多数，组阁谈判前景复杂。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+        "publishedAt": "2026-10-29T12:22:04Z"
       },
       {
         "id": "53b5b118013afd739ea7",
@@ -92,28 +92,28 @@
         "publishedAt": "2026-10-29T16:29:24Z"
       },
       {
-        "id": "c8e82b2d0821ef066110",
-        "title": "Israel election result shows no overall majority as vote count complete",
-        "summary": "以色列大选计票完成，无政党获议会多数，组阁谈判前景复杂。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-        "publishedAt": "2026-10-29T12:22:04Z"
+        "id": "d157bacca585f28d721c",
+        "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+        "summary": "币安因涉朝鲜关联黑客攻击暂停交易，用户暂无法在平台操作。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-30T03:47:00Z"
       },
       {
-        "id": "c2927fa2ee8ae968064b",
-        "title": "Manosphere and online misogyny should be treated as public health issues, say UK experts",
-        "summary": "西班牙高铁相撞事故后进入哀悼期，搜救与责任调查持续进行。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
-        "publishedAt": "2026-10-29T15:30:37Z"
-      },
-      {
-        "id": "bc8040be58c2872b8646",
-        "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-        "summary": "谷歌市值单日蒸发约5000亿美元，AI搜索影响广告收入引发担忧。",
+        "id": "b50f886556db945a68b0",
+        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+        "summary": "谷歌AI搜索摘要冲击广告收入，市值蒸发约5000亿美元，股价创半年新低。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-29T14:17:52Z"
+        "publishedAt": "2026-10-30T04:04:02Z"
+      },
+      {
+        "id": "78fd236b166feade49a8",
+        "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
+        "summary": "西班牙高铁相撞已确认69人死亡，桑切斯称涉27国人员，事故调查持续。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+        "publishedAt": "2026-10-30T04:32:21Z"
       },
       {
         "id": "46859f201fa0e602a139",
@@ -124,20 +124,20 @@
         "publishedAt": "2026-10-29T08:34:55Z"
       },
       {
+        "id": "d1eeaaeda918fe86bfeb",
+        "title": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
+        "summary": "俄罗斯独立报纸《新报》宣布停刊，称因当局压力被迫关闭。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+        "publishedAt": "2026-10-30T01:05:21Z"
+      },
+      {
         "id": "646363fec2d2b0d7802b",
         "title": "US judge blocks Trump’s Medicaid rule forcing ill to prove impairment",
-        "summary": "美国法官叫停特朗普政府要求病患自证残障的医疗补助新规。",
+        "summary": "美国法官叫停特朗普政府要求病患自证残障方可获医疗补助的新规。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-blocks-trumps-medicaid-rule-forcing-ill-to-prove-impairment?traffic_source=rss",
         "publishedAt": "2026-10-29T20:38:24Z"
-      },
-      {
-        "id": "90f84c547dba6d133341",
-        "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
-        "summary": "外媒关注中共全会期间创纪录开除党员，称反腐力度持续加大。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
-        "publishedAt": "2026-10-29T18:56:46Z"
       }
     ]
   }
