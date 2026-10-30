@@ -1,10 +1,10 @@
 {
   "version": 1,
   "date": "2026-10-31",
-  "generatedAt": "2026-10-30T19:20:25Z",
+  "generatedAt": "2026-10-30T23:44:11Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦党的二十届五中全会精神解读、央行宽松货币政策与证监会稳市场表态，同时关注黄金铜价分化、美股科技股暴跌外溢及币安史上最大盗窃案等财经科技事件。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
         "id": "60d1c8e14bc9cebe62ff",
@@ -12,108 +12,92 @@
         "summary": "中共中央举行新闻发布会，介绍和解读党的二十届五中全会精神。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34361191",
-        "publishedAt": "2026-10-30T19:20:25Z"
+        "publishedAt": "2026-10-30T23:44:11Z"
       },
       {
         "id": "b2aa5939ef1001ca31c4",
         "title": "央行：继续实施适度宽松的货币政策，综合运用多种货币政策工具，保持流动性充裕",
-        "summary": "央行表示继续实施适度宽松货币政策，综合运用多种工具保持流动性充裕。",
+        "summary": "央行表示继续实施适度宽松货币政策，综合运用工具保持流动性充裕。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2521002",
-        "publishedAt": "2026-10-30T19:20:25Z"
+        "publishedAt": "2026-10-30T23:44:11Z"
       },
       {
-        "id": "3fb11fb9e2adf2b4c7c3",
+        "id": "eda0f0a8297e9d5235e3",
         "title": "证监会：全力稳市场稳预期，持续提升资本市场韧性和信心",
         "summary": "证监会称全力稳市场稳预期，持续提升资本市场韧性和信心。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34369285",
-        "publishedAt": "2026-10-30T19:20:25Z"
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784860",
+        "publishedAt": "2026-10-30T23:44:11Z"
       },
       {
         "id": "a136b0f33f28f97a1e6d",
         "title": "美股跌幅持续扩大，科技股抛售加剧，费半跌9%，英特尔暴跌30%，美债上涨，黄金创一年新低",
-        "summary": "美股跌幅扩大，科技股遭抛售，英特尔暴跌30%，黄金创一年新低。",
+        "summary": "美股跌幅扩大，科技股抛售加剧，费半跌9%，英特尔暴跌30%，黄金创一年新低。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784816",
-        "publishedAt": "2026-10-30T19:20:25Z"
-      },
-      {
-        "id": "70badc04c2097083b259",
-        "title": "黄金大跌 铜价为何创新高",
-        "summary": "黄金大跌之际铜价为何创新高，市场关注大宗商品走势分化。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7701487346830557220/",
-        "publishedAt": "2026-10-30T19:20:25Z"
+        "publishedAt": "2026-10-30T23:44:11Z"
       },
       {
         "id": "8b186a78e2f14b5e9547",
         "title": "63亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失",
-        "summary": "币安遭史上最大黑客洗劫63亿美元，暂停存取功能并承诺承担全部损失。",
+        "summary": "币安遭史上最大黑客攻击，63亿美元资产被盗，暂停存取并承诺承担损失。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784815",
-        "publishedAt": "2026-10-30T19:20:25Z"
+        "publishedAt": "2026-10-30T23:44:11Z"
+      },
+      {
+        "id": "05ea945b4347ab46c11c",
+        "title": "长鑫科技Q3营收同比增长6倍 归母净利扭亏",
+        "summary": "长鑫科技第三季度营收同比增长6倍，归母净利润扭亏为盈。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2521095",
+        "publishedAt": "2026-10-30T23:44:11Z"
       },
       {
         "id": "d706f4673ffed646e88a",
         "title": "外交部：美方无理打压中国企业，中方坚决反对、强烈不满",
-        "summary": "外交部就美方无理打压中国企业表示坚决反对和强烈不满。",
+        "summary": "外交部回应美方无理打压中国企业，表示坚决反对、强烈不满。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xe4gIlxB98",
-        "publishedAt": "2026-10-30T19:20:25Z"
+        "publishedAt": "2026-10-30T23:44:11Z"
       },
       {
-        "id": "814a7a6e3fc55a6072f7",
-        "title": "今年全国实现生娃基本不花钱",
-        "summary": "今年全国实现生娃基本不花钱，生育支持政策持续落地。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7701865571654258218/",
-        "publishedAt": "2026-10-30T19:20:25Z"
+        "id": "de0439f10b494256e25c",
+        "title": "菲方设障阻中方参加东盟防长扩大会，更多内幕披露",
+        "summary": "菲方设障阻中方参加东盟防长扩大会，更多内幕披露。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xeVAsAgdP7",
+        "publishedAt": "2026-10-30T23:44:11Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注加拿大与欧盟组建新联盟、巴基斯坦对美伊调解表态、以色列大选无多数及加沙与约旦河西岸局势，以及币安黑客案牵出朝鲜、全球科技股抛售与欧洲生活成本抗议。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "0a450eda01881aabaea0",
-        "title": "‘Deepest possible partnership’: Canada and EU announce new alliance",
-        "summary": "加拿大与欧盟在蒙特利尔峰会宣布组建新联盟，称构建抵御风暴的保护伞。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-        "publishedAt": "2026-10-30T10:54:51Z"
+        "id": "e822c10bd1451c4c820f",
+        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+        "summary": "G20因俄外长出席引发抗议取消全家福，英外相当面指责俄方。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-30T14:11:52Z"
       },
       {
-        "id": "2df4a3ca6c2f245f43eb",
-        "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-        "summary": "巴基斯坦军方对美伊调解努力持谨慎乐观，警告仍有强大破坏者。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-        "publishedAt": "2026-10-30T10:55:36Z"
+        "id": "98d265954801fff16dc5",
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "summary": "美国批准向乌克兰出售500枚爱国者导弹，系拦截俄弹道导弹唯一有效武器。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-30T14:20:52Z"
       },
       {
-        "id": "c8e82b2d0821ef066110",
-        "title": "Israel election result shows no overall majority as vote count complete",
-        "summary": "以色列大选计票完成，无政党获议会多数，组阁谈判前景复杂。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-        "publishedAt": "2026-10-29T12:22:04Z"
-      },
-      {
-        "id": "aa3c3298654cf9fd9ce2",
-        "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-        "summary": "联合国人权高专办警告加沙空间遭挤压，种族清洗担忧上升。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-        "publishedAt": "2026-10-30T06:18:07Z"
-      },
-      {
-        "id": "c7df3d9b333e9994853c",
-        "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-        "summary": "以色列拆除被指袭击士兵的巴勒斯坦人住宅，近五千人流离失所。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-        "publishedAt": "2026-10-30T10:35:44Z"
+        "id": "315b28e47f813964d233",
+        "title": "Poland: Protesters clash with police over sacked court chief",
+        "summary": "波兰抗议者与警察冲突，因政府解雇最高法院院长引发司法争议。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-30T15:22:00Z"
       },
       {
         "id": "ecbb0b8bddc5e8eb6a1d",
@@ -132,12 +116,28 @@
         "publishedAt": "2026-10-30T10:27:51Z"
       },
       {
-        "id": "e8dd6602d93c9edfc946",
-        "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
-        "summary": "欧洲生活成本抗议蔓延，德国与法国万圣节期间将再掀示威浪潮。",
+        "id": "d812eee7d84ade4f76d8",
+        "title": "Canada and EU announce new alliance open to like-minded countries",
+        "summary": "加拿大与欧盟宣布成立新联盟，开放给志同道合国家加入。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-        "publishedAt": "2026-10-30T06:42:46Z"
+        "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+        "publishedAt": "2026-10-30T11:42:15Z"
+      },
+      {
+        "id": "66f24206492f65704bcf",
+        "title": "Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure",
+        "summary": "俄独立媒体《新报》宣布下月永久关闭，称受到当局不可容忍压力。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+        "publishedAt": "2026-10-30T07:52:51Z"
+      },
+      {
+        "id": "c8e82b2d0821ef066110",
+        "title": "Israel election result shows no overall majority as vote count complete",
+        "summary": "以色列大选计票完成，无政党获议会多数，组阁谈判前景复杂。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+        "publishedAt": "2026-10-29T12:22:04Z"
       }
     ]
   }
