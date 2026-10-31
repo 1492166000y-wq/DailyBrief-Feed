@@ -1,95 +1,127 @@
 {
   "version": 1,
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T05:37:03Z",
+  "generatedAt": "2026-10-31T12:22:18Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内要闻聚焦原中石化董事长傅成玉被查、10月制造业PMI跌破荣枯线、中国首次载人登月任务乘组披露、华尔街科技股暴跌与全球市场连锁反应，以及12345热线规范诉求等公共治理议题。",
     "items": [
       {
-        "id": "1f6c1070530ee56c49d5",
-        "title": "党的二十届五中全会学习手账来了",
-        "summary": "党的二十届五中全会学习手账发布，梳理全会要点，便于各界学习贯彻。",
+        "id": "c6c83cdce5e114335b22",
+        "title": "75岁傅成玉被查",
+        "summary": "原中国石化董事长傅成玉被查，系能源领域重要反腐进展，多源报道。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7702652256877756425/",
-        "publishedAt": "2026-10-31T05:37:03Z"
+        "url": "https://www.toutiao.com/trending/7702761634955214902/",
+        "publishedAt": "2026-10-31T12:22:18Z"
       },
       {
-        "id": "3fb11fb9e2adf2b4c7c3",
-        "title": "证监会：全力稳市场稳预期，持续提升资本市场韧性和信心",
-        "summary": "证监会表态全力稳市场稳预期，持续提升资本市场韧性和信心。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34369285",
-        "publishedAt": "2026-10-31T05:37:03Z"
-      },
-      {
-        "id": "72984be21cf0c811de0d",
-        "title": "中国央行：继续实施适度宽松的货币政策，综合运用多种货币政策工具，保持流动性充裕",
-        "summary": "央行重申继续实施适度宽松货币政策，综合运用多种工具保持流动性充裕。",
+        "id": "790ca4b5cfd379cdf592",
+        "title": "中国10月官方制造业PMI 49.3，非制造业PMI 49.7",
+        "summary": "10月官方制造业PMI为49.3，连续处于收缩区间，非制造业PMI回落至49.7。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784876",
-        "publishedAt": "2026-10-31T05:37:03Z"
+        "url": "https://wallstreetcn.com/articles/3784901",
+        "publishedAt": "2026-10-31T12:22:18Z"
       },
       {
-        "id": "f0d317b12e1ded522968",
-        "title": "国家统计局：10月份制造业采购经理指数（PMI）为49.3%",
-        "summary": "国家统计局：10月制造业PMI为49.3%，降至荣枯线以下，景气水平回落。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2521444",
-        "publishedAt": "2026-10-31T05:37:03Z"
+        "id": "6f00991e43d00457f481",
+        "title": "中国首次载人月球探测任务乘组计划由3人组成，其中两人着陆月球表面",
+        "summary": "中国首次载人月球探测任务乘组计划由3人组成，其中两人将着陆月球表面。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34375545",
+        "publishedAt": "2026-10-31T12:22:18Z"
       },
       {
-        "id": "0cb94b3a7efd357b2917",
-        "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
-        "summary": "美股三大指数全线收跌，纳指跌近3%，英特尔创52年来最大单日跌幅。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2521391",
-        "publishedAt": "2026-10-31T05:37:03Z"
+        "id": "9e0da8d2ef8ca4cb13b8",
+        "title": "英特尔跌幅创四十年之最，纳指跌近3%，苹果市值超越英伟达，黄金一年新低，原油连涨四个月",
+        "summary": "英特尔创四十年最大跌幅，纳指跌近3%，苹果市值超越英伟达，黄金创一年新低。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784816",
+        "publishedAt": "2026-10-31T12:22:18Z"
       },
       {
         "id": "4cbab18ab41adf8b437b",
         "title": "12345便民热线不能成为许愿池！有地方明确不再接这几类诉求",
-        "summary": "有地方明确12345热线不再受理几类诉求，强调便民热线不能成为许愿池。",
+        "summary": "12345便民热线明确不再受理部分诉求，防止其成为“许愿池”，引发治理边界讨论。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34370849",
-        "publishedAt": "2026-10-31T05:37:03Z"
-      },
-      {
-        "id": "155d1985938f801135bf",
-        "title": "长鑫科技Q3归母净利润544.35亿元，同比扭亏、环比增长3.01%，拟最高20亿元回购公司股份 | 财报见闻",
-        "summary": "长鑫科技三季度归母净利润544.35亿元，同比扭亏，拟最高20亿元回购股份。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784870",
-        "publishedAt": "2026-10-31T05:37:03Z"
+        "publishedAt": "2026-10-31T12:22:18Z"
       },
       {
         "id": "c2a08c73e91831f76807",
         "title": "阿里宣布与苹果合作，将千问集成至Apple智能",
-        "summary": "阿里宣布与苹果合作，将千问大模型集成至Apple智能，深化AI领域联手。",
+        "summary": "阿里宣布与苹果合作，将千问集成至Apple智能，跨国科技合作影响受关注。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34374626",
-        "publishedAt": "2026-10-31T05:37:03Z"
+        "publishedAt": "2026-10-31T12:22:18Z"
+      },
+      {
+        "id": "0d16018fb9906a380591",
+        "title": "美俄互相否定对方草案，中方对美国强推的草案表示遗憾",
+        "summary": "美俄在联合国互相否定对方草案，中方对美国强推的草案表示遗憾。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xfeSxEKO5c",
+        "publishedAt": "2026-10-31T12:22:18Z"
+      },
+      {
+        "id": "016dccbafb3a1e5e4e8e",
+        "title": "新疆发现特大型锆砂矿！大幅提高我国锆矿自给能力",
+        "summary": "新疆发现特大型锆砂矿，大幅提高我国锆矿自给能力，具产业战略意义。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2521466",
+        "publishedAt": "2026-10-31T12:22:18Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际要闻围绕美国批准对乌出售爱国者导弹、伊朗与西方互相威慑、G20外长会因俄遭抵制、欧洲多国生活成本抗议、波兰司法危机、联合国驻索马里任务结束及币安巨额黑客案疑指向朝鲜等展开。",
     "items": [
+      {
+        "id": "54c8207ee35715090fb7",
+        "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+        "summary": "美国批准向乌克兰出售约21亿美元爱国者导弹，系特朗普任内重大军援步骤。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+        "publishedAt": "2026-10-30T20:51:25Z"
+      },
+      {
+        "id": "7ff3ac3bf75d9adf4ad3",
+        "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+        "summary": "伊朗最高领袖警告若遭攻击报复将不受地理限制，调解方试图推动和平。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+        "publishedAt": "2026-10-31T04:13:42Z"
+      },
       {
         "id": "7166942b4d1526a73001",
         "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
-        "summary": "美国取消G20外长会传统全家福，因澳英等多国拒绝与俄外长拉夫罗夫同框。",
+        "summary": "G20外长会传统全家福遭取消，因澳英等多国拒绝与俄外长拉夫罗夫同框。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
         "publishedAt": "2026-10-30T16:29:28Z"
       },
       {
-        "id": "54c8207ee35715090fb7",
-        "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-        "summary": "美国批准向乌克兰出售约21亿美元爱国者导弹，为特朗普任内重大军援步骤。",
+        "id": "e8dd6602d93c9edfc946",
+        "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+        "summary": "欧洲生活成本抗议蔓延至德国并再燃法国，多国在万圣节当天部署警力防骚乱。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+        "publishedAt": "2026-10-31T01:13:22Z"
+      },
+      {
+        "id": "25cdd982c160adf36185",
+        "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+        "summary": "波兰宪法法院法官被停职后警力进驻，总统到场抗议，司法控制权争端升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+        "publishedAt": "2026-10-30T20:27:25Z"
+      },
+      {
+        "id": "4200af667c7b55532b5b",
+        "title": "UN closes Somalia mission, ending three decades of political engagement",
+        "summary": "联合国关闭驻索马里政治任务，结束近三十年政治接触，索马里称其为里程碑。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
-        "publishedAt": "2026-10-30T20:51:25Z"
+        "url": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss",
+        "publishedAt": "2026-10-31T03:37:21Z"
       },
       {
         "id": "ecbb0b8bddc5e8eb6a1d",
@@ -100,44 +132,12 @@
         "publishedAt": "2026-10-30T08:35:44Z"
       },
       {
-        "id": "25cdd982c160adf36185",
-        "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
-        "summary": "波兰宪法法院法官被停职后警力进驻，总统到场抗议，司法争议升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
-        "publishedAt": "2026-10-30T20:27:25Z"
-      },
-      {
-        "id": "c08610d0080ad4093688",
-        "title": "UN peacekeeping mission in Western Sahara to expire amid US, Russia vetoes",
-        "summary": "联合国西撒哈拉维和任务因美俄否决未获延期，授权将于10月31日到期。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-30T20:24:00Z"
-      },
-      {
-        "id": "9649e0bb79d28f034172",
-        "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz",
-        "summary": "一艘载27名印度船员的油轮在霍尔木兹海峡遭吸附水雷袭击起火，为美伊战争后首次。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/india-news-oil-tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz/live-79814329?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-30T21:06:00Z"
-      },
-      {
-        "id": "e939d26776b8f9cacb86",
-        "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-        "summary": "俄独立媒体《新报》在当局压力下宣布关闭，创始人称遭到系统性扼杀。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-30T12:41:51Z"
-      },
-      {
-        "id": "860c0bc0076d612a5fd4",
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "summary": "AI支出逼近万亿美元引发科技股大跌，英特尔续跌，纳指开盘创逾两月新低。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-30T12:34:46Z"
+        "id": "cf16de32ddc456173533",
+        "title": "US midterms: 3 days to go – What latest polls say as early voting surges",
+        "summary": "美国中期选举投票日临近，超4300万人提前投票，民主党在民调中领先。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss",
+        "publishedAt": "2026-10-30T22:59:55Z"
       }
     ]
   }
