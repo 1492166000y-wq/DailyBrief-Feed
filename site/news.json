@@ -1,74 +1,74 @@
 {
   "version": 1,
   "date": "2026-10-31",
-  "generatedAt": "2026-10-30T23:44:11Z",
+  "generatedAt": "2026-10-31T05:37:03Z",
   "generationMode": "ai",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "60d1c8e14bc9cebe62ff",
-        "title": "中共中央新闻发布会丨介绍和解读党的二十届五中全会精神",
-        "summary": "中共中央举行新闻发布会，介绍和解读党的二十届五中全会精神。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34361191",
-        "publishedAt": "2026-10-30T23:44:11Z"
+        "id": "1f6c1070530ee56c49d5",
+        "title": "党的二十届五中全会学习手账来了",
+        "summary": "党的二十届五中全会学习手账发布，梳理全会要点，便于各界学习贯彻。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7702652256877756425/",
+        "publishedAt": "2026-10-31T05:37:03Z"
       },
       {
-        "id": "b2aa5939ef1001ca31c4",
-        "title": "央行：继续实施适度宽松的货币政策，综合运用多种货币政策工具，保持流动性充裕",
-        "summary": "央行表示继续实施适度宽松货币政策，综合运用工具保持流动性充裕。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2521002",
-        "publishedAt": "2026-10-30T23:44:11Z"
-      },
-      {
-        "id": "eda0f0a8297e9d5235e3",
+        "id": "3fb11fb9e2adf2b4c7c3",
         "title": "证监会：全力稳市场稳预期，持续提升资本市场韧性和信心",
-        "summary": "证监会称全力稳市场稳预期，持续提升资本市场韧性和信心。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784860",
-        "publishedAt": "2026-10-30T23:44:11Z"
+        "summary": "证监会表态全力稳市场稳预期，持续提升资本市场韧性和信心。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34369285",
+        "publishedAt": "2026-10-31T05:37:03Z"
       },
       {
-        "id": "a136b0f33f28f97a1e6d",
-        "title": "美股跌幅持续扩大，科技股抛售加剧，费半跌9%，英特尔暴跌30%，美债上涨，黄金创一年新低",
-        "summary": "美股跌幅扩大，科技股抛售加剧，费半跌9%，英特尔暴跌30%，黄金创一年新低。",
+        "id": "72984be21cf0c811de0d",
+        "title": "中国央行：继续实施适度宽松的货币政策，综合运用多种货币政策工具，保持流动性充裕",
+        "summary": "央行重申继续实施适度宽松货币政策，综合运用多种工具保持流动性充裕。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784816",
-        "publishedAt": "2026-10-30T23:44:11Z"
+        "url": "https://wallstreetcn.com/articles/3784876",
+        "publishedAt": "2026-10-31T05:37:03Z"
       },
       {
-        "id": "8b186a78e2f14b5e9547",
-        "title": "63亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失",
-        "summary": "币安遭史上最大黑客攻击，63亿美元资产被盗，暂停存取并承诺承担损失。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784815",
-        "publishedAt": "2026-10-30T23:44:11Z"
-      },
-      {
-        "id": "05ea945b4347ab46c11c",
-        "title": "长鑫科技Q3营收同比增长6倍 归母净利扭亏",
-        "summary": "长鑫科技第三季度营收同比增长6倍，归母净利润扭亏为盈。",
+        "id": "f0d317b12e1ded522968",
+        "title": "国家统计局：10月份制造业采购经理指数（PMI）为49.3%",
+        "summary": "国家统计局：10月制造业PMI为49.3%，降至荣枯线以下，景气水平回落。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2521095",
-        "publishedAt": "2026-10-30T23:44:11Z"
+        "url": "https://www.cls.cn/detail/2521444",
+        "publishedAt": "2026-10-31T05:37:03Z"
       },
       {
-        "id": "d706f4673ffed646e88a",
-        "title": "外交部：美方无理打压中国企业，中方坚决反对、强烈不满",
-        "summary": "外交部回应美方无理打压中国企业，表示坚决反对、强烈不满。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xe4gIlxB98",
-        "publishedAt": "2026-10-30T23:44:11Z"
+        "id": "0cb94b3a7efd357b2917",
+        "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
+        "summary": "美股三大指数全线收跌，纳指跌近3%，英特尔创52年来最大单日跌幅。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2521391",
+        "publishedAt": "2026-10-31T05:37:03Z"
       },
       {
-        "id": "de0439f10b494256e25c",
-        "title": "菲方设障阻中方参加东盟防长扩大会，更多内幕披露",
-        "summary": "菲方设障阻中方参加东盟防长扩大会，更多内幕披露。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xeVAsAgdP7",
-        "publishedAt": "2026-10-30T23:44:11Z"
+        "id": "4cbab18ab41adf8b437b",
+        "title": "12345便民热线不能成为许愿池！有地方明确不再接这几类诉求",
+        "summary": "有地方明确12345热线不再受理几类诉求，强调便民热线不能成为许愿池。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34370849",
+        "publishedAt": "2026-10-31T05:37:03Z"
+      },
+      {
+        "id": "155d1985938f801135bf",
+        "title": "长鑫科技Q3归母净利润544.35亿元，同比扭亏、环比增长3.01%，拟最高20亿元回购公司股份 | 财报见闻",
+        "summary": "长鑫科技三季度归母净利润544.35亿元，同比扭亏，拟最高20亿元回购股份。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784870",
+        "publishedAt": "2026-10-31T05:37:03Z"
+      },
+      {
+        "id": "c2a08c73e91831f76807",
+        "title": "阿里宣布与苹果合作，将千问集成至Apple智能",
+        "summary": "阿里宣布与苹果合作，将千问大模型集成至Apple智能，深化AI领域联手。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34374626",
+        "publishedAt": "2026-10-31T05:37:03Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "e822c10bd1451c4c820f",
-        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-        "summary": "G20因俄外长出席引发抗议取消全家福，英外相当面指责俄方。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-30T14:11:52Z"
+        "id": "7166942b4d1526a73001",
+        "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+        "summary": "美国取消G20外长会传统全家福，因澳英等多国拒绝与俄外长拉夫罗夫同框。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+        "publishedAt": "2026-10-30T16:29:28Z"
       },
       {
-        "id": "98d265954801fff16dc5",
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "summary": "美国批准向乌克兰出售500枚爱国者导弹，系拦截俄弹道导弹唯一有效武器。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-30T14:20:52Z"
-      },
-      {
-        "id": "315b28e47f813964d233",
-        "title": "Poland: Protesters clash with police over sacked court chief",
-        "summary": "波兰抗议者与警察冲突，因政府解雇最高法院院长引发司法争议。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-10-30T15:22:00Z"
+        "id": "54c8207ee35715090fb7",
+        "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+        "summary": "美国批准向乌克兰出售约21亿美元爱国者导弹，为特朗普任内重大军援步骤。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+        "publishedAt": "2026-10-30T20:51:25Z"
       },
       {
         "id": "ecbb0b8bddc5e8eb6a1d",
         "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
-        "summary": "币安63亿美元黑客案疑为朝鲜所为，公司称将覆盖客户损失。",
+        "summary": "币安63亿美元黑客案疑为朝鲜所为，公司称将覆盖客户损失，为史上最大窃案。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
         "publishedAt": "2026-10-30T08:35:44Z"
       },
       {
-        "id": "766dc673b40925766195",
-        "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-        "summary": "科技股财报不佳引发抛售，美股单日市值蒸发近1万亿美元。",
+        "id": "25cdd982c160adf36185",
+        "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+        "summary": "波兰宪法法院法官被停职后警力进驻，总统到场抗议，司法争议升级。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
-        "publishedAt": "2026-10-30T10:27:51Z"
+        "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+        "publishedAt": "2026-10-30T20:27:25Z"
       },
       {
-        "id": "d812eee7d84ade4f76d8",
-        "title": "Canada and EU announce new alliance open to like-minded countries",
-        "summary": "加拿大与欧盟宣布成立新联盟，开放给志同道合国家加入。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-        "publishedAt": "2026-10-30T11:42:15Z"
+        "id": "c08610d0080ad4093688",
+        "title": "UN peacekeeping mission in Western Sahara to expire amid US, Russia vetoes",
+        "summary": "联合国西撒哈拉维和任务因美俄否决未获延期，授权将于10月31日到期。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-30T20:24:00Z"
       },
       {
-        "id": "66f24206492f65704bcf",
-        "title": "Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure",
-        "summary": "俄独立媒体《新报》宣布下月永久关闭，称受到当局不可容忍压力。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
-        "publishedAt": "2026-10-30T07:52:51Z"
+        "id": "9649e0bb79d28f034172",
+        "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz",
+        "summary": "一艘载27名印度船员的油轮在霍尔木兹海峡遭吸附水雷袭击起火，为美伊战争后首次。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/india-news-oil-tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz/live-79814329?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-10-30T21:06:00Z"
       },
       {
-        "id": "c8e82b2d0821ef066110",
-        "title": "Israel election result shows no overall majority as vote count complete",
-        "summary": "以色列大选计票完成，无政党获议会多数，组阁谈判前景复杂。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-        "publishedAt": "2026-10-29T12:22:04Z"
+        "id": "e939d26776b8f9cacb86",
+        "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+        "summary": "俄独立媒体《新报》在当局压力下宣布关闭，创始人称遭到系统性扼杀。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-30T12:41:51Z"
+      },
+      {
+        "id": "860c0bc0076d612a5fd4",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "summary": "AI支出逼近万亿美元引发科技股大跌，英特尔续跌，纳指开盘创逾两月新低。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-30T12:34:46Z"
       }
     ]
   }
