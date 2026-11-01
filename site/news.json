@@ -1,80 +1,104 @@
 {
   "version": 1,
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T05:58:40Z",
+  "generatedAt": "2026-11-01T13:17:11Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注点集中于人事反腐、外交安全、经济数据与民生政策。原中石化董事长傅成玉被查、中国海警在台湾岛以东巡查、10月PMI偏弱等议题影响力较大。",
+    "overview": "今日国内要闻聚焦全面从严治党重大决定、金融政策与市场监管，同时涉及资本市场、科技产业和安全事件。",
     "items": [
       {
-        "id": "008a3204bae0e5772e19",
-        "title": "原中国石油化工集团公司党组书记、董事长傅成玉被查",
-        "summary": "原中国石油化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法被查。",
+        "id": "8c63005e71155e56de85",
+        "title": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
+        "summary": "习近平就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》作说明。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34377447",
-        "publishedAt": "2026-11-01T05:58:40Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34381972",
+        "publishedAt": "2026-11-01T13:17:11Z"
       },
       {
-        "id": "e288033ba3f91baff96e",
-        "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
-        "summary": "中国海警在中国台湾岛以东海域依法开展常态化执法巡查。",
+        "id": "a968a59a0973048485f8",
+        "title": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
+        "summary": "中共中央发布关于持之以恒推进全面从严治党若干重大问题的决定。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34378084",
-        "publishedAt": "2026-11-01T05:58:40Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34381970",
+        "publishedAt": "2026-11-01T13:17:11Z"
       },
       {
-        "id": "8627123863e4d67fece2",
-        "title": "为何10月PMI偏弱？",
-        "summary": "10月制造业PMI偏弱，分析认为受需求不足与季节性因素影响。",
+        "id": "abd6bb770b5de7aa2ed7",
+        "title": "金融管理部门明日将召开会议，研究推动支持资本市场工具使用",
+        "summary": "金融管理部门明日召开会议，研究推动支持资本市场工具使用。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784920",
-        "publishedAt": "2026-11-01T05:58:40Z"
+        "url": "https://wallstreetcn.com/articles/3784941",
+        "publishedAt": "2026-11-01T13:17:11Z"
       },
       {
-        "id": "5cbd9a273205688d09fa",
-        "title": "【早报】阿里巴巴、苹果，达成合作；金饰克价，年内暴跌近550元",
-        "summary": "阿里巴巴与苹果达成合作；金饰克价年内暴跌近550元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2521670",
-        "publishedAt": "2026-11-01T05:58:40Z"
+        "id": "53488bba45f6d39c6bdd",
+        "title": "贷款利率尺子要变了",
+        "summary": "贷款利率定价基准将调整，市场关注新“尺子”如何影响融资成本。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E5%B0%BA%E5%AD%90%E8%A6%81%E5%8F%98%E4%BA%86",
+        "publishedAt": "2026-11-01T13:17:11Z"
       },
       {
-        "id": "792fb7e0d5a68e420e7a",
-        "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
-        "summary": "分析称AI发展面临最紧迫瓶颈：支撑算力扩张的廉价资金正在枯竭。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784910",
-        "publishedAt": "2026-11-01T05:58:40Z"
-      },
-      {
-        "id": "4aba59b259333a43e089",
-        "title": "官方披露：将有两名中国人登陆月球",
-        "summary": "官方披露中国载人登月计划，将有两名航天员登陆月球。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2521497",
-        "publishedAt": "2026-11-01T05:58:40Z"
-      },
-      {
-        "id": "b5d69c70c02634201047",
-        "title": "朝鲜进行重要武器系统威力评估试验",
-        "summary": "朝鲜进行重要武器系统威力评估试验，地区安全态势受关注。",
+        "id": "76c6fba662834af006b5",
+        "title": "央视曝光2388元蜜丸成本仅40元",
+        "summary": "央视曝光2388元蜜丸成本仅40元，折射保健品虚假宣传与价格欺诈问题。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7703012435896139826/",
-        "publishedAt": "2026-11-01T05:58:40Z"
+        "url": "https://www.toutiao.com/trending/7702778990288879658/",
+        "publishedAt": "2026-11-01T13:17:11Z"
       },
       {
-        "id": "ec69dd35ab2257183bc5",
-        "title": "持之以恒推进全面从严治党",
-        "summary": "中央会议强调持之以恒推进全面从严治党，深化反腐败斗争。",
+        "id": "8de4c788ea3435c5270c",
+        "title": "AI的“火” PCB三季报接住了",
+        "summary": "AI需求带动PCB行业景气，三季报显示相关企业业绩明显受益。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2521696",
+        "publishedAt": "2026-11-01T13:17:11Z"
+      },
+      {
+        "id": "6977b9e3034043e7f5a7",
+        "title": "央视罕见披露歼-20战斗机战力",
+        "summary": "央视罕见披露歼-20战斗机战力，引发对空军装备发展的关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%95%E8%A7%81%E6%8A%AB%E9%9C%B2%E6%AD%BC-20%E6%88%98%E6%96%97%E6%9C%BA%E6%88%98%E5%8A%9B",
+        "publishedAt": "2026-11-01T13:17:11Z"
+      },
+      {
+        "id": "7685cb0f4416c352f84f",
+        "title": "一条红色预警信息 9名公职人员被查",
+        "summary": "一条红色预警信息牵出问责，9名公职人员被查，凸显应急与履职监管。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7703016554501344778/",
-        "publishedAt": "2026-11-01T05:58:40Z"
+        "url": "https://www.toutiao.com/trending/7703029264865772041/",
+        "publishedAt": "2026-11-01T13:17:11Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括美国中期选举临近、美伊谈判与军事威胁并存、欧洲多国生活成本抗议持续，以及币安巨额黑客案与AI投资风险。",
+    "overview": "国际焦点集中在美伊对峙与外交博弈、美国中期选举、德国与法国大规模抗议、币安巨额黑客案及欧洲多地政治动态。",
     "items": [
+      {
+        "id": "7d17abc9f3217bf36793",
+        "title": "Iran security chief says US letter signals ‘positive’ shift",
+        "summary": "伊朗安全高官称美方来信释放“积极”信号，美伊重启谈判现转机。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
+        "publishedAt": "2026-11-01T00:14:00Z"
+      },
+      {
+        "id": "7a3d01ab10a1b0ec1ab1",
+        "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+        "summary": "调解方继续推动美伊谈判，特朗普称会谈进展顺利，伊方愿谈亦备战。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+        "publishedAt": "2026-11-01T03:14:27Z"
+      },
+      {
+        "id": "7ff3ac3bf75d9adf4ad3",
+        "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+        "summary": "伊朗警告若遭攻击报复将不受地理限制，调解方仍在推动和平。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+        "publishedAt": "2026-10-31T04:13:42Z"
+      },
       {
         "id": "261feb80a2f1322b818f",
         "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
@@ -82,38 +106,6 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
         "publishedAt": "2026-10-31T08:13:17Z"
-      },
-      {
-        "id": "849552b36a322abfb536",
-        "title": "What we know about latest efforts to end US war on Iran",
-        "summary": "美伊外长均表示外交结束战争仍有可能，但军事威胁同步升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
-        "publishedAt": "2026-10-31T19:24:02Z"
-      },
-      {
-        "id": "7ff3ac3bf75d9adf4ad3",
-        "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-        "summary": "伊朗最高领袖警告若遭攻击报复将不受地理限制，调解方推动和平。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
-        "publishedAt": "2026-10-31T04:13:42Z"
-      },
-      {
-        "id": "b4e8482c7d844a9d99a1",
-        "title": "Police clash with masked rioters after largely peaceful protests across France",
-        "summary": "法国生活成本抗议进入第三周，巴黎等地警民冲突，多人被捕。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
-        "publishedAt": "2026-10-31T17:43:02Z"
-      },
-      {
-        "id": "45b8fc50e9390ba04439",
-        "title": "Shops looted as German cost of living protests turn violent",
-        "summary": "德国多地生活成本抗议演变为暴力，法兰克福发生抢劫事件。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T17:59:57Z"
       },
       {
         "id": "42907118ca1cc87a901a",
@@ -124,20 +116,28 @@
         "publishedAt": "2026-10-31T18:28:38Z"
       },
       {
-        "id": "a603d467f91891c68730",
-        "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-        "summary": "数据显示中心债务达数百亿英镑，加剧市场对AI泡沫破裂的担忧。",
+        "id": "45b8fc50e9390ba04439",
+        "title": "Shops looted as German cost of living protests turn violent",
+        "summary": "德国多地生活成本抗议演变为暴力，商店遭洗劫，同日法国亦有大游行。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T17:37:26Z"
+        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-01T03:57:48Z"
       },
       {
-        "id": "d0acafb8d3ad8e7093c8",
-        "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
-        "summary": "联合国工作人员在也门胡塞武装拘押期间死亡，联合国要求调查。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
-        "publishedAt": "2026-10-31T20:49:15Z"
+        "id": "b4e8482c7d844a9d99a1",
+        "title": "Police clash with masked rioters after largely peaceful protests across France",
+        "summary": "法国生活成本抗议进入第三周，巴黎等地警民冲突，多人被捕。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+        "publishedAt": "2026-10-31T17:43:02Z"
+      },
+      {
+        "id": "f75a2f4bd7dc10242d49",
+        "title": "Germany news: Gen Z group calls for new protests",
+        "summary": "德国Z世代团体呼吁继续抗议向政府施压，金属工会因薪资谈判破裂发起警告性罢工。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-01T04:26:00Z"
       }
     ]
   }
