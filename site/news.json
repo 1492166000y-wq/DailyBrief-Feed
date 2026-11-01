@@ -1,10 +1,10 @@
 {
   "version": 1,
   "date": "2026-11-02",
-  "generatedAt": "2026-11-01T18:54:53Z",
+  "generatedAt": "2026-11-01T23:34:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦金融监管部门将召集座谈会研究支持资本市场工具使用，A股及全球资产波动受关注；同时中共中央发布推进全面从严治党重大决定。产业与科技领域，AI带动PCB三季报业绩，长鑫科技与英伟达披露存储和光通信进展。",
+    "overview": "国内聚焦党建文件与金融监管动向，同时涵盖行业协会解散、AI产业链业绩及地缘安全议题。",
     "items": [
       {
         "id": "8c63005e71155e56de85",
@@ -12,7 +12,7 @@
         "summary": "习近平就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》作说明。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34381972",
-        "publishedAt": "2026-11-01T18:54:53Z"
+        "publishedAt": "2026-11-01T23:34:20Z"
       },
       {
         "id": "a968a59a0973048485f8",
@@ -20,77 +20,61 @@
         "summary": "中共中央发布关于持之以恒推进全面从严治党若干重大问题的决定。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34381970",
-        "publishedAt": "2026-11-01T18:54:53Z"
-      },
-      {
-        "id": "abd6bb770b5de7aa2ed7",
-        "title": "金融管理部门明日将召开会议，研究推动支持资本市场工具使用",
-        "summary": "金融管理部门明日召开会议，研究推动支持资本市场工具使用。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784941",
-        "publishedAt": "2026-11-01T18:54:53Z"
+        "publishedAt": "2026-11-01T23:34:20Z"
       },
       {
         "id": "20c4f836b8bc2f189958",
         "title": "A股迎利好！金融监管部门将开座谈会",
-        "summary": "金融监管部门将开会研究资本市场工具，A股被视为迎利好。",
+        "summary": "金融监管部门将召开座谈会，A股迎政策利好。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%8E%E5%88%A9%E5%A5%BD%EF%BC%81%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B0%86%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A",
-        "publishedAt": "2026-11-01T18:54:53Z"
+        "publishedAt": "2026-11-01T23:34:20Z"
       },
       {
-        "id": "ed0f304a6e9eeb7627c9",
-        "title": "与资本市场有关！金融监管部门明日将开会",
-        "summary": "金融监管部门明日开会，议题与资本市场相关，市场高度关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34382675",
-        "publishedAt": "2026-11-01T18:54:53Z"
+        "id": "abd6bb770b5de7aa2ed7",
+        "title": "金融管理部门明日将召开会议，研究推动支持资本市场工具使用",
+        "summary": "金融管理部门将召开会议，研究推动支持资本市场工具使用。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3784941",
+        "publishedAt": "2026-11-01T23:34:20Z"
+      },
+      {
+        "id": "aad9c2bf4c7fe1c87d25",
+        "title": "多个地方行业协会宣布自行解散",
+        "summary": "多个地方行业协会宣布自行解散。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E5%9C%B0%E6%96%B9%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E5%AE%A3%E5%B8%83%E8%87%AA%E8%A1%8C%E8%A7%A3%E6%95%A3",
+        "publishedAt": "2026-11-01T23:34:20Z"
       },
       {
         "id": "8de4c788ea3435c5270c",
         "title": "AI的“火” PCB三季报接住了",
-        "summary": "AI需求带动PCB行业景气，相关上市公司三季报业绩接住增长红利。",
+        "summary": "AI需求带动PCB产业景气，多家公司三季报业绩向好。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2521696",
-        "publishedAt": "2026-11-01T18:54:53Z"
+        "publishedAt": "2026-11-01T23:34:20Z"
       },
       {
-        "id": "7b01c306fd779596d428",
-        "title": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位",
-        "summary": "英伟达披露下一代CPO技术，光引擎绕开有机基板，原型样品已就位。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2521558",
-        "publishedAt": "2026-11-01T18:54:53Z"
+        "id": "927ca1c7b0a1207507c0",
+        "title": "成都就销售熏硫白芷相关问题依法立案调查",
+        "summary": "成都就销售熏硫白芷问题依法立案调查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34383099",
+        "publishedAt": "2026-11-01T23:34:20Z"
       },
       {
-        "id": "87f4d734721339ac3bf4",
-        "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定",
-        "summary": "长鑫科技称已与多家头部客户协商长期供货协议，预计四季度毛利率稳定。",
+        "id": "5cbd9a273205688d09fa",
+        "title": "【早报】阿里巴巴、苹果，达成合作；金饰克价，年内暴跌近550元",
+        "summary": "阿里巴巴与苹果达成合作；金饰克价年内跌近550元。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2521594",
-        "publishedAt": "2026-11-01T18:54:53Z"
+        "url": "https://www.cls.cn/detail/2521670",
+        "publishedAt": "2026-11-01T23:34:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际层面，美国中期选举临近，提前投票超五千万人，特朗普干预阿拉斯加参议院选举遭法官驳回；美伊就重开霍尔木兹海峡进行间接谈判，伊朗强硬表态。科技领域，英国推进蒂赛德AI数据中心供电，币安63亿美元黑客案FBI指朝鲜所为。",
+    "overview": "国际关注美国中期选举、美伊冲突风险与霍尔木兹海峡谈判，以及俄乌局势、欧洲抗议和AI监管案件。",
     "items": [
-      {
-        "id": "edc283451c11bd4c321b",
-        "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
-        "summary": "美法官驳回特朗普阻止阿拉斯加参议院选举结果认证的诉讼。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
-        "publishedAt": "2026-11-01T10:33:23Z"
-      },
-      {
-        "id": "5675fc1718bbbd534a1f",
-        "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-        "summary": "参议员沙利文承诺尊重阿拉斯加选举结果，与特朗普政府立场形成对比。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-        "publishedAt": "2026-11-01T10:37:37Z"
-      },
       {
         "id": "261feb80a2f1322b818f",
         "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
@@ -100,17 +84,17 @@
         "publishedAt": "2026-10-31T08:13:17Z"
       },
       {
-        "id": "1734682e9bae00e96ac0",
-        "title": "Three key takeaways from early voting in midterm elections",
-        "summary": "中期选举提前投票人数创新高，选情紧张州投票率尤其高。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
-        "publishedAt": "2026-11-01T10:19:54Z"
+        "id": "397eff21ac8f616a0c28",
+        "title": "Why governors’ races are important in the 2026 US midterms",
+        "summary": "美国中期选举州长选情受关注，多州将改选领导层。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+        "publishedAt": "2026-11-01T15:24:56Z"
       },
       {
         "id": "5200a5f00bb9af960d12",
         "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
-        "summary": "调解方称美伊就重开霍尔木兹海峡的间接谈判已进行第三天，卡塔尔推动资产解冻。",
+        "summary": "美伊就重开霍尔木兹海峡间接谈判进入第三天，调解方称已做最坏准备。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
         "publishedAt": "2026-11-01T09:49:28Z"
@@ -118,26 +102,42 @@
       {
         "id": "7d17abc9f3217bf36793",
         "title": "Iran security chief says US letter signals ‘positive’ shift",
-        "summary": "伊朗安全高官称美方来信释放积极信号，美伊重启谈判现转机。",
+        "summary": "伊朗安全高官称美方来信释放积极信号，美伊谈判现转机。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
         "publishedAt": "2026-11-01T00:14:00Z"
       },
       {
-        "id": "42907118ca1cc87a901a",
-        "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
-        "summary": "币安遭63亿美元黑客攻击，FBI指朝鲜所为，币安称已覆盖九成损失。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
-        "publishedAt": "2026-10-31T18:28:38Z"
+        "id": "4c9289a5098b04b1fe97",
+        "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+        "summary": "海湾国家领导人在卡塔尔会晤，力避美伊冲突再度升级。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+        "publishedAt": "2026-11-01T14:19:13Z"
       },
       {
-        "id": "cb447d67a4f775aaf0fe",
-        "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
-        "summary": "英国国家电网拟在蒂赛德建设最大变电站，为规划中的大型AI数据中心供电。",
+        "id": "ff9c77934c5e54772a78",
+        "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+        "summary": "女子因ChatGPT错误用药建议癫痫发作身亡，其父母起诉OpenAI。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-        "publishedAt": "2026-11-01T10:37:42Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+        "publishedAt": "2026-11-01T14:37:36Z"
+      },
+      {
+        "id": "53edb03ce927ff88c4e9",
+        "title": "Ukraine news: Oleshky ceasefire ends as Russian attacks leave tens of thousands without power",
+        "summary": "赫尔松局部停火结束，俄袭击致乌克兰多地数万人断电。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ukraine-news-oleshky-ceasefire-ends-as-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-01T06:13:00Z"
+      },
+      {
+        "id": "bc11611948bed74de4bd",
+        "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+        "summary": "印度反对派在德里大规模抗议莫迪政府，反对移除1.3亿选民名单。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+        "publishedAt": "2026-11-01T08:11:50Z"
       }
     ]
   }
