@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T13:17:11Z",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-01T18:54:53Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦全面从严治党重大决定、金融政策与市场监管，同时涉及资本市场、科技产业和安全事件。",
+    "overview": "国内聚焦金融监管部门将召集座谈会研究支持资本市场工具使用，A股及全球资产波动受关注；同时中共中央发布推进全面从严治党重大决定。产业与科技领域，AI带动PCB三季报业绩，长鑫科技与英伟达披露存储和光通信进展。",
     "items": [
       {
         "id": "8c63005e71155e56de85",
@@ -12,7 +12,7 @@
         "summary": "习近平就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》作说明。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34381972",
-        "publishedAt": "2026-11-01T13:17:11Z"
+        "publishedAt": "2026-11-01T18:54:53Z"
       },
       {
         "id": "a968a59a0973048485f8",
@@ -20,7 +20,7 @@
         "summary": "中共中央发布关于持之以恒推进全面从严治党若干重大问题的决定。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34381970",
-        "publishedAt": "2026-11-01T13:17:11Z"
+        "publishedAt": "2026-11-01T18:54:53Z"
       },
       {
         "id": "abd6bb770b5de7aa2ed7",
@@ -28,116 +28,116 @@
         "summary": "金融管理部门明日召开会议，研究推动支持资本市场工具使用。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784941",
-        "publishedAt": "2026-11-01T13:17:11Z"
+        "publishedAt": "2026-11-01T18:54:53Z"
       },
       {
-        "id": "53488bba45f6d39c6bdd",
-        "title": "贷款利率尺子要变了",
-        "summary": "贷款利率定价基准将调整，市场关注新“尺子”如何影响融资成本。",
+        "id": "20c4f836b8bc2f189958",
+        "title": "A股迎利好！金融监管部门将开座谈会",
+        "summary": "金融监管部门将开会研究资本市场工具，A股被视为迎利好。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E5%B0%BA%E5%AD%90%E8%A6%81%E5%8F%98%E4%BA%86",
-        "publishedAt": "2026-11-01T13:17:11Z"
+        "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%8E%E5%88%A9%E5%A5%BD%EF%BC%81%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B0%86%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A",
+        "publishedAt": "2026-11-01T18:54:53Z"
       },
       {
-        "id": "76c6fba662834af006b5",
-        "title": "央视曝光2388元蜜丸成本仅40元",
-        "summary": "央视曝光2388元蜜丸成本仅40元，折射保健品虚假宣传与价格欺诈问题。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7702778990288879658/",
-        "publishedAt": "2026-11-01T13:17:11Z"
+        "id": "ed0f304a6e9eeb7627c9",
+        "title": "与资本市场有关！金融监管部门明日将开会",
+        "summary": "金融监管部门明日开会，议题与资本市场相关，市场高度关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34382675",
+        "publishedAt": "2026-11-01T18:54:53Z"
       },
       {
         "id": "8de4c788ea3435c5270c",
         "title": "AI的“火” PCB三季报接住了",
-        "summary": "AI需求带动PCB行业景气，三季报显示相关企业业绩明显受益。",
+        "summary": "AI需求带动PCB行业景气，相关上市公司三季报业绩接住增长红利。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2521696",
-        "publishedAt": "2026-11-01T13:17:11Z"
+        "publishedAt": "2026-11-01T18:54:53Z"
       },
       {
-        "id": "6977b9e3034043e7f5a7",
-        "title": "央视罕见披露歼-20战斗机战力",
-        "summary": "央视罕见披露歼-20战斗机战力，引发对空军装备发展的关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%95%E8%A7%81%E6%8A%AB%E9%9C%B2%E6%AD%BC-20%E6%88%98%E6%96%97%E6%9C%BA%E6%88%98%E5%8A%9B",
-        "publishedAt": "2026-11-01T13:17:11Z"
+        "id": "7b01c306fd779596d428",
+        "title": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位",
+        "summary": "英伟达披露下一代CPO技术，光引擎绕开有机基板，原型样品已就位。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2521558",
+        "publishedAt": "2026-11-01T18:54:53Z"
       },
       {
-        "id": "7685cb0f4416c352f84f",
-        "title": "一条红色预警信息 9名公职人员被查",
-        "summary": "一条红色预警信息牵出问责，9名公职人员被查，凸显应急与履职监管。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7703029264865772041/",
-        "publishedAt": "2026-11-01T13:17:11Z"
+        "id": "87f4d734721339ac3bf4",
+        "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定",
+        "summary": "长鑫科技称已与多家头部客户协商长期供货协议，预计四季度毛利率稳定。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2521594",
+        "publishedAt": "2026-11-01T18:54:53Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在美伊对峙与外交博弈、美国中期选举、德国与法国大规模抗议、币安巨额黑客案及欧洲多地政治动态。",
+    "overview": "国际层面，美国中期选举临近，提前投票超五千万人，特朗普干预阿拉斯加参议院选举遭法官驳回；美伊就重开霍尔木兹海峡进行间接谈判，伊朗强硬表态。科技领域，英国推进蒂赛德AI数据中心供电，币安63亿美元黑客案FBI指朝鲜所为。",
     "items": [
       {
-        "id": "7d17abc9f3217bf36793",
-        "title": "Iran security chief says US letter signals ‘positive’ shift",
-        "summary": "伊朗安全高官称美方来信释放“积极”信号，美伊重启谈判现转机。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
-        "publishedAt": "2026-11-01T00:14:00Z"
+        "id": "edc283451c11bd4c321b",
+        "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
+        "summary": "美法官驳回特朗普阻止阿拉斯加参议院选举结果认证的诉讼。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+        "publishedAt": "2026-11-01T10:33:23Z"
       },
       {
-        "id": "7a3d01ab10a1b0ec1ab1",
-        "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-        "summary": "调解方继续推动美伊谈判，特朗普称会谈进展顺利，伊方愿谈亦备战。",
+        "id": "5675fc1718bbbd534a1f",
+        "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+        "summary": "参议员沙利文承诺尊重阿拉斯加选举结果，与特朗普政府立场形成对比。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
-        "publishedAt": "2026-11-01T03:14:27Z"
-      },
-      {
-        "id": "7ff3ac3bf75d9adf4ad3",
-        "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-        "summary": "伊朗警告若遭攻击报复将不受地理限制，调解方仍在推动和平。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
-        "publishedAt": "2026-10-31T04:13:42Z"
+        "url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+        "publishedAt": "2026-11-01T10:37:37Z"
       },
       {
         "id": "261feb80a2f1322b818f",
         "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
-        "summary": "美国中期选举提前投票人数超过5000万，距投票日仅剩三天。",
+        "summary": "美国中期选举提前投票人数超5000万，距投票日仅剩三天。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
         "publishedAt": "2026-10-31T08:13:17Z"
       },
       {
+        "id": "1734682e9bae00e96ac0",
+        "title": "Three key takeaways from early voting in midterm elections",
+        "summary": "中期选举提前投票人数创新高，选情紧张州投票率尤其高。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+        "publishedAt": "2026-11-01T10:19:54Z"
+      },
+      {
+        "id": "5200a5f00bb9af960d12",
+        "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+        "summary": "调解方称美伊就重开霍尔木兹海峡的间接谈判已进行第三天，卡塔尔推动资产解冻。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+        "publishedAt": "2026-11-01T09:49:28Z"
+      },
+      {
+        "id": "7d17abc9f3217bf36793",
+        "title": "Iran security chief says US letter signals ‘positive’ shift",
+        "summary": "伊朗安全高官称美方来信释放积极信号，美伊重启谈判现转机。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
+        "publishedAt": "2026-11-01T00:14:00Z"
+      },
+      {
         "id": "42907118ca1cc87a901a",
         "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
-        "summary": "币安63亿美元黑客案，FBI指朝鲜所为，币安称已覆盖90%损失。",
+        "summary": "币安遭63亿美元黑客攻击，FBI指朝鲜所为，币安称已覆盖九成损失。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
         "publishedAt": "2026-10-31T18:28:38Z"
       },
       {
-        "id": "45b8fc50e9390ba04439",
-        "title": "Shops looted as German cost of living protests turn violent",
-        "summary": "德国多地生活成本抗议演变为暴力，商店遭洗劫，同日法国亦有大游行。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-01T03:57:48Z"
-      },
-      {
-        "id": "b4e8482c7d844a9d99a1",
-        "title": "Police clash with masked rioters after largely peaceful protests across France",
-        "summary": "法国生活成本抗议进入第三周，巴黎等地警民冲突，多人被捕。",
+        "id": "cb447d67a4f775aaf0fe",
+        "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+        "summary": "英国国家电网拟在蒂赛德建设最大变电站，为规划中的大型AI数据中心供电。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
-        "publishedAt": "2026-10-31T17:43:02Z"
-      },
-      {
-        "id": "f75a2f4bd7dc10242d49",
-        "title": "Germany news: Gen Z group calls for new protests",
-        "summary": "德国Z世代团体呼吁继续抗议向政府施压，金属工会因薪资谈判破裂发起警告性罢工。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-01T04:26:00Z"
+        "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+        "publishedAt": "2026-11-01T10:37:42Z"
       }
     ]
   }
