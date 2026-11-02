@@ -1,80 +1,88 @@
 {
   "version": 1,
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T15:44:38Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-02T23:29:30Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦央行稳市场组合拳：第三次互换便利操作申报超千亿、股票回购增持再贷款利率降至1%并转为长期制度，A股放量上涨。同时党的二十届五中全会《决定》发布，外交斡旋与民生新规亦受关注。",
+    "overview": "国内重点聚焦央行大额流动性操作与证监会稳市场部署，政策面持续释放呵护信号；外交方面，中方特使赴中东劝和促谈、中国公务团组在瑞典被拘押等事件值得关注。产业科技领域，AI眼镜隐私风险、进博会与乌镇峰会筹备等议题具有公共价值。",
     "items": [
       {
         "id": "16a80dd3442849e8d63a",
         "title": "央行明日开展证券、基金、保险公司互换便利操作，申报额度超1000亿元、远超前两次",
-        "summary": "央行明日开展第三次证券、基金、保险公司互换便利操作，申报额度超1000亿元，远超前两次。",
+        "summary": "央行明日开展第三次证券、基金、保险公司互换便利操作，申报额度超1000亿元，远超前两次，释放流动性呵护信号。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3784992",
-        "publishedAt": "2026-11-02T15:44:38Z"
+        "publishedAt": "2026-11-02T23:29:30Z"
       },
       {
         "id": "98a5d619ccbc84205fe5",
         "title": "三部门：股票回购增持再贷款政策由阶段性安排转为长期制度性安排，再贷款利率由1.25%降至1%",
-        "summary": "三部门将股票回购增持再贷款由阶段性安排转为长期制度，利率由1.25%降至1%。",
+        "summary": "三部门将股票回购增持再贷款政策由阶段性安排转为长期制度性安排，利率由1.25%降至1%，旨在稳定市场预期。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2522877",
-        "publishedAt": "2026-11-02T15:44:38Z"
+        "publishedAt": "2026-11-02T23:29:30Z"
       },
       {
-        "id": "02ca3a995950e70a9ab7",
-        "title": "党的二十届五中全会《决定》诞生记",
-        "summary": "党的二十届五中全会《决定》诞生记发布，披露文件起草过程与核心部署。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34387414",
-        "publishedAt": "2026-11-02T15:44:38Z"
+        "id": "7dfafe97b44c76600b9d",
+        "title": "中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问",
+        "summary": "证监会有关部门负责人就近期稳市场稳预期工作答记者问，明确增量资金入市等政策安排。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2522918",
+        "publishedAt": "2026-11-02T23:29:30Z"
       },
       {
         "id": "cab98ff881e54cba42ac",
         "title": "外交部：中方多位特使特代分赴中东等地劝和促谈",
-        "summary": "外交部表示中方多位特使特代分赴中东等地劝和促谈，推动局势降温。",
+        "summary": "外交部表示中方多位特使特代分赴中东等地劝和促谈，推动地区局势降温。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xj3iqbyEbD",
-        "publishedAt": "2026-11-02T15:44:38Z"
+        "publishedAt": "2026-11-02T23:29:30Z"
       },
       {
-        "id": "352837081f1742ed06e9",
-        "title": "加油新规来了！11月起全国推行",
-        "summary": "11月起全国推行加油新规，涉及加油站管理与消费规范，引发广泛关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%8111%E6%9C%88%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E8%A1%8C",
-        "publishedAt": "2026-11-02T15:44:38Z"
-      },
-      {
-        "id": "25bc2257a2b188e2c900",
-        "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
-        "summary": "A股三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2522567",
-        "publishedAt": "2026-11-02T15:44:38Z"
-      },
-      {
-        "id": "49169393095b6bf68ad8",
-        "title": "武汉警方通报网约车被围堵事件",
-        "summary": "武汉警方通报网约车被围堵事件，回应社会关切并说明处置情况。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E5%9B%B4%E5%A0%B5%E4%BA%8B%E4%BB%B6%23",
-        "publishedAt": "2026-11-02T15:44:38Z"
-      },
-      {
-        "id": "58ea3a4bce57137c657d",
-        "title": "一批重大工程建设正酣",
-        "summary": "一批重大工程建设正酣，交通、能源等领域项目加快推进。",
+        "id": "a0e075ced73349326f58",
+        "title": "中国公务团组人员被瑞典警方拘押",
+        "summary": "中国公务团组人员被瑞典警方拘押，中使馆已发布提醒，事件引发外交关注。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7702652501526531625/",
-        "publishedAt": "2026-11-02T15:44:38Z"
+        "url": "https://www.toutiao.com/trending/7703489065979084809/",
+        "publishedAt": "2026-11-02T23:29:30Z"
+      },
+      {
+        "id": "02ca3a995950e70a9ab7",
+        "title": "党的二十届五中全会《决定》诞生记",
+        "summary": "党的二十届五中全会《决定》诞生记发布，披露文件起草过程与核心决策背景。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34387414",
+        "publishedAt": "2026-11-02T23:29:30Z"
+      },
+      {
+        "id": "84010cbe941a24738f62",
+        "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
+        "summary": "不到10元的AI眼镜秒变偷拍神器，一张遮光贴即突破隐私红线，引发科技伦理与监管讨论。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34248283",
+        "publishedAt": "2026-11-02T23:29:30Z"
+      },
+      {
+        "id": "178454371343ed207538",
+        "title": "数说进博会新亮点",
+        "summary": "数说进博会新亮点，展示本届进博会在展商规模、交易成果等方面的关键数据。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%96%B0%E4%BA%AE%E7%82%B9%23",
+        "publishedAt": "2026-11-02T23:29:30Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国中期选举进入最后倒计时，两党激烈角逐；欧洲多国超市冷柜遭网络攻击，乌克兰和俄罗斯警报应用被黑；伊朗局势与美伊谈判动向持续牵动能源市场。",
+    "overview": "国际焦点集中在美国中期选举最后冲刺与特朗普政府相关司法争议，最高法院驳回其加州选票请求；欧洲方面，多国超市冷柜疑遭网络攻击、法国学生抗议持续；俄乌冲突中，俄军袭击乌援助中心致重大伤亡，伊朗核谈与美伊接触出现新动向。科技领域关注Anthropic增长放缓与韩国AI预算。",
     "items": [
+      {
+        "id": "390a8ceb46a98711068a",
+        "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+        "summary": "美国最高法院驳回特朗普政府要求搁置加州2万张选票的请求，中期选举前司法争议升级。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-02T15:18:00Z"
+      },
       {
         "id": "6f74c8c7e8797a4d32fe",
         "title": "US midterms 2026 live: Trump, Democrats make final push amid Michigan rift",
@@ -86,18 +94,18 @@
       {
         "id": "29b39a24a1e00b2eb3df",
         "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-        "summary": "瑞典、比利时、卢森堡多国超市冷柜疑遭第二轮网络攻击，温度夜间异常上升。",
+        "summary": "瑞典、比利时、卢森堡多国超市冷柜疑遭第二轮网络攻击，温度夜间异常上升，引发供应链安全担忧。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
         "publishedAt": "2026-11-02T07:07:54Z"
       },
       {
-        "id": "fb6f6f43ec321d83dc6d",
-        "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-        "summary": "乌克兰和俄罗斯空袭警报应用遭黑客攻击，发布虚假核威胁信息，两国未确认责任方。",
+        "id": "62ff74aaf5606f531661",
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "summary": "俄军炸弹袭击乌克兰南部村庄援助中心，造成至少26人死亡，乌总统称袭击“极其恐怖”。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-02T06:35:01Z"
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-02T13:10:04Z"
       },
       {
         "id": "e46bbe516d5018ebceba",
@@ -108,20 +116,12 @@
         "publishedAt": "2026-11-02T05:04:42Z"
       },
       {
-        "id": "00496e038d952427d51e",
-        "title": "Trump, US midterms, Tehran: 8 key factors driving Iran war",
-        "summary": "分析指美国中期选举、德黑兰立场等八大因素将决定伊朗战争与和平走向。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/trump-us-midterms-tehran-8-key-factors-driving-iran-war/a-79831816?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-02T07:41:00Z"
-      },
-      {
-        "id": "c62dc1396d25b619218d",
-        "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
-        "summary": "美国佛州一架商务喷气机坠毁，机上9人全部遇难，州长称地面无伤亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
-        "publishedAt": "2026-11-01T16:34:22Z"
+        "id": "1b75460ec7fbac5b5784",
+        "title": "French pupils resume school blockades as country braces for more protests",
+        "summary": "法国多所高中复课即遭封锁，工会计划周四全国罢工，抗议教育条件与生活成本。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
+        "publishedAt": "2026-11-02T10:17:33Z"
       },
       {
         "id": "8d6d6c79a8d45b11b55f",
@@ -132,12 +132,12 @@
         "publishedAt": "2026-11-01T21:01:00Z"
       },
       {
-        "id": "6a3f97235f683733e590",
-        "title": "UK making up China policy ‘as it goes along’, MPs warn",
-        "summary": "英国议会报告批评政府对华政策缺乏连贯战略，令商业与安全承压。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
-        "publishedAt": "2026-11-01T21:00:33Z"
+        "id": "fc0827d12aeca331adc1",
+        "title": "Anthropic's growth just flattened",
+        "summary": "Anthropic增长据报趋于平缓，引发市场对AI企业高估值与盈利前景的重新审视。",
+        "source": "Hacker News",
+        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+        "publishedAt": "2026-11-02T14:33:20Z"
       }
     ]
   }
