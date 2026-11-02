@@ -1,80 +1,120 @@
 {
   "version": 1,
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T05:58:03Z",
+  "generatedAt": "2026-11-02T15:44:38Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内聚焦央行稳市场组合拳：第三次互换便利操作申报超千亿、股票回购增持再贷款利率降至1%并转为长期制度，A股放量上涨。同时党的二十届五中全会《决定》发布，外交斡旋与民生新规亦受关注。",
     "items": [
       {
-        "id": "abd6bb770b5de7aa2ed7",
-        "title": "金融管理部门明日将召开会议，研究推动支持资本市场工具使用",
-        "summary": "金融管理部门11月3日召开会议，研究推动支持资本市场工具使用，市场关注政策利好。",
+        "id": "16a80dd3442849e8d63a",
+        "title": "央行明日开展证券、基金、保险公司互换便利操作，申报额度超1000亿元、远超前两次",
+        "summary": "央行明日开展第三次证券、基金、保险公司互换便利操作，申报额度超1000亿元，远超前两次。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3784941",
-        "publishedAt": "2026-11-02T05:58:03Z"
+        "url": "https://wallstreetcn.com/articles/3784992",
+        "publishedAt": "2026-11-02T15:44:38Z"
       },
       {
-        "id": "8c63005e71155e56de85",
-        "title": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
-        "summary": "习近平就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》作说明。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34381972",
-        "publishedAt": "2026-11-02T05:58:03Z"
-      },
-      {
-        "id": "a968a59a0973048485f8",
-        "title": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
-        "summary": "中共中央发布关于持之以恒推进全面从严治党若干重大问题的决定全文。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34381970",
-        "publishedAt": "2026-11-02T05:58:03Z"
-      },
-      {
-        "id": "f2360452bdba5be8ac4a",
-        "title": "电诈团伙已转移到非洲",
-        "summary": "电诈团伙转移至非洲，跨境电信诈骗治理面临新挑战。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7703111473890951218/",
-        "publishedAt": "2026-11-02T05:58:03Z"
-      },
-      {
-        "id": "d23bd50897214f1c2eeb",
-        "title": "河北省邢台市委书记杨猛被查",
-        "summary": "河北省邢台市委书记杨猛被查，地方反腐持续深入。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7703394145175359030/",
-        "publishedAt": "2026-11-02T05:58:03Z"
-      },
-      {
-        "id": "5cf57bff0de5e70117ec",
-        "title": "2026年世界互联网大会乌镇峰会",
-        "summary": "2026年世界互联网大会乌镇峰会举行，聚焦互联网治理与数字合作。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23",
-        "publishedAt": "2026-11-02T05:58:03Z"
-      },
-      {
-        "id": "927ca1c7b0a1207507c0",
-        "title": "成都就销售熏硫白芷相关问题依法立案调查",
-        "summary": "成都就销售熏硫白芷问题依法立案调查，回应食品药品安全关切。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34383099",
-        "publishedAt": "2026-11-02T05:58:03Z"
-      },
-      {
-        "id": "9055ee8c4010ac0ee485",
-        "title": "金融法草案二审稿充实金融消费者、投资者保护相关内容",
-        "summary": "金融法草案二审稿充实金融消费者和投资者保护相关内容。",
+        "id": "98a5d619ccbc84205fe5",
+        "title": "三部门：股票回购增持再贷款政策由阶段性安排转为长期制度性安排，再贷款利率由1.25%降至1%",
+        "summary": "三部门将股票回购增持再贷款由阶段性安排转为长期制度，利率由1.25%降至1%。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2522256",
-        "publishedAt": "2026-11-02T05:58:03Z"
+        "url": "https://www.cls.cn/detail/2522877",
+        "publishedAt": "2026-11-02T15:44:38Z"
+      },
+      {
+        "id": "02ca3a995950e70a9ab7",
+        "title": "党的二十届五中全会《决定》诞生记",
+        "summary": "党的二十届五中全会《决定》诞生记发布，披露文件起草过程与核心部署。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34387414",
+        "publishedAt": "2026-11-02T15:44:38Z"
+      },
+      {
+        "id": "cab98ff881e54cba42ac",
+        "title": "外交部：中方多位特使特代分赴中东等地劝和促谈",
+        "summary": "外交部表示中方多位特使特代分赴中东等地劝和促谈，推动局势降温。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xj3iqbyEbD",
+        "publishedAt": "2026-11-02T15:44:38Z"
+      },
+      {
+        "id": "352837081f1742ed06e9",
+        "title": "加油新规来了！11月起全国推行",
+        "summary": "11月起全国推行加油新规，涉及加油站管理与消费规范，引发广泛关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%8111%E6%9C%88%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E8%A1%8C",
+        "publishedAt": "2026-11-02T15:44:38Z"
+      },
+      {
+        "id": "25bc2257a2b188e2c900",
+        "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
+        "summary": "A股三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2522567",
+        "publishedAt": "2026-11-02T15:44:38Z"
+      },
+      {
+        "id": "49169393095b6bf68ad8",
+        "title": "武汉警方通报网约车被围堵事件",
+        "summary": "武汉警方通报网约车被围堵事件，回应社会关切并说明处置情况。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E5%9B%B4%E5%A0%B5%E4%BA%8B%E4%BB%B6%23",
+        "publishedAt": "2026-11-02T15:44:38Z"
+      },
+      {
+        "id": "58ea3a4bce57137c657d",
+        "title": "一批重大工程建设正酣",
+        "summary": "一批重大工程建设正酣，交通、能源等领域项目加快推进。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7702652501526531625/",
+        "publishedAt": "2026-11-02T15:44:38Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "国际方面，美国中期选举进入最后倒计时，两党激烈角逐；欧洲多国超市冷柜遭网络攻击，乌克兰和俄罗斯警报应用被黑；伊朗局势与美伊谈判动向持续牵动能源市场。",
     "items": [
+      {
+        "id": "6f74c8c7e8797a4d32fe",
+        "title": "US midterms 2026 live: Trump, Democrats make final push amid Michigan rift",
+        "summary": "美国中期选举倒计时一天，特朗普与民主党在密歇根州裂痕背景下做最后冲刺。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/us-midterms-2026-live-trump-democrats-make-final-push-amid-michigan-rift?traffic_source=rss",
+        "publishedAt": "2026-11-02T06:10:31Z"
+      },
+      {
+        "id": "29b39a24a1e00b2eb3df",
+        "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+        "summary": "瑞典、比利时、卢森堡多国超市冷柜疑遭第二轮网络攻击，温度夜间异常上升。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+        "publishedAt": "2026-11-02T07:07:54Z"
+      },
+      {
+        "id": "fb6f6f43ec321d83dc6d",
+        "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+        "summary": "乌克兰和俄罗斯空袭警报应用遭黑客攻击，发布虚假核威胁信息，两国未确认责任方。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-02T06:35:01Z"
+      },
+      {
+        "id": "e46bbe516d5018ebceba",
+        "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
+        "summary": "伊朗表示若条件满足，与美国的间接谈判可能在短期内恢复，卡塔尔居中协调。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss",
+        "publishedAt": "2026-11-02T05:04:42Z"
+      },
+      {
+        "id": "00496e038d952427d51e",
+        "title": "Trump, US midterms, Tehran: 8 key factors driving Iran war",
+        "summary": "分析指美国中期选举、德黑兰立场等八大因素将决定伊朗战争与和平走向。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/trump-us-midterms-tehran-8-key-factors-driving-iran-war/a-79831816?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-02T07:41:00Z"
+      },
       {
         "id": "c62dc1396d25b619218d",
         "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
@@ -84,44 +124,12 @@
         "publishedAt": "2026-11-01T16:34:22Z"
       },
       {
-        "id": "677c02a178cfa9a4f5f8",
-        "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
-        "summary": "特朗普在艾奥瓦集会针对民主党参议员候选人发表争议言论，选前极化加剧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
-        "publishedAt": "2026-11-01T17:07:23Z"
-      },
-      {
-        "id": "68bdca3cff776d06e6a0",
-        "title": "Bulgaria has its first elected female president",
-        "summary": "保加利亚总统决选初步结果出炉，约托娃成为该国首位民选女总统。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
-        "publishedAt": "2026-11-01T20:25:56Z"
-      },
-      {
-        "id": "0c4dfac793d3845b8c6b",
-        "title": "US midterms: What to know about independent voters and candidates",
-        "summary": "美国中期选举临近，独立选民与第三党候选人仍难突破两党格局。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-what-to-know-about-independent-voters-and-candidates?traffic_source=rss",
-        "publishedAt": "2026-11-01T19:53:42Z"
-      },
-      {
-        "id": "6be17d7124688e8b1f4b",
-        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-        "summary": "乌克兰防空警报应用疑遭黑客攻击，用户收到虚假辐射威胁信息。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-01T17:18:27Z"
-      },
-      {
-        "id": "7d17abc9f3217bf36793",
-        "title": "Iran security chief says US letter signals ‘positive’ shift",
-        "summary": "伊朗安全高官称美方来信释放积极信号，美伊谈判出现转机。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
-        "publishedAt": "2026-11-01T00:14:00Z"
+        "id": "8d6d6c79a8d45b11b55f",
+        "title": "South Korea to pour billions into AI",
+        "summary": "韩国总统李在明提出2027年创纪录预算案，重点投入人工智能等领域。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-01T21:01:00Z"
       },
       {
         "id": "6a3f97235f683733e590",
@@ -130,14 +138,6 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
         "publishedAt": "2026-11-01T21:00:33Z"
-      },
-      {
-        "id": "8d6d6c79a8d45b11b55f",
-        "title": "South Korea to pour billions into AI",
-        "summary": "韩国总统李在明提出2027年创纪录预算案，重点投入人工智能等领域。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-01T21:01:00Z"
       }
     ]
   }
