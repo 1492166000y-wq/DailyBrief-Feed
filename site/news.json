@@ -1,58 +1,34 @@
 {
   "version": 1,
   "date": "2026-11-04",
-  "generatedAt": "2026-11-03T16:13:08Z",
+  "generatedAt": "2026-11-03T21:46:17Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦刘延东同志逝世、资本市场稳市政策与ETF资金动向、苹果与新能源车企财报销量，以及王毅就中菲关系表态等。",
+    "overview": "国内时政聚焦刘延东同志逝世与王毅对菲表态，财经关注资本市场稳市工具与ETF资金动向，新能源汽车销量排名变化；产业科技涉及6G进展与手机依赖健康话题。",
     "items": [
       {
         "id": "1ffbbae8c5f44cd414ed",
         "title": "刘延东同志遗体在京火化",
-        "summary": "刘延东同志遗体在北京火化，各界人士前往送别。",
+        "summary": "刘延东同志遗体在京火化，党和国家领导人参加悼念。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7702985726727766059/",
-        "publishedAt": "2026-11-03T16:13:08Z"
-      },
-      {
-        "id": "022def0e096a49b80efd",
-        "title": "券商集体出手！数百亿资金集结，正待入市",
-        "summary": "券商集体出手，数百亿资金集结待入市，市场关注增量资金动向。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2524088",
-        "publishedAt": "2026-11-03T16:13:08Z"
-      },
-      {
-        "id": "52a1943ded13644d85ed",
-        "title": "两大稳市工具同日部署，政策组合拳密集落地，券商如何解读这场座谈会？",
-        "summary": "两大稳市工具同日部署，政策组合拳密集落地，券商解读座谈会信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2524163",
-        "publishedAt": "2026-11-03T16:13:08Z"
+        "publishedAt": "2026-11-03T21:46:17Z"
       },
       {
         "id": "53c953b264f4bc22762d",
         "title": "王毅：菲少数政客抹黑中国，这种恶行不可容忍",
-        "summary": "王毅就中菲关系表态，指菲少数政客抹黑中国，恶行不可容忍。",
+        "summary": "王毅指出菲少数政客抹黑中国，称此类恶行不可容忍。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xl9WByGdoq",
-        "publishedAt": "2026-11-03T16:13:08Z"
+        "publishedAt": "2026-11-03T21:46:17Z"
       },
       {
-        "id": "e27843a1c314efb276c2",
-        "title": "10月新能源汽车销量榜：特斯拉跌至第8",
-        "summary": "10月新能源汽车销量榜出炉，特斯拉排名跌至第8位。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8",
-        "publishedAt": "2026-11-03T16:13:08Z"
-      },
-      {
-        "id": "81e0dfdd67e785ba171a",
-        "title": "临近2.3万亿元关口！A股融资余额继续回落，电子、通信仍遭减持，这些方向有所回升",
-        "summary": "A股融资余额继续回落逼近2.3万亿元关口，电子通信遭减持。",
+        "id": "52a1943ded13644d85ed",
+        "title": "两大稳市工具同日部署，政策组合拳密集落地，券商如何解读这场座谈会？",
+        "summary": "两大稳市工具同日部署，政策组合拳密集落地，券商解读座谈会。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2523928",
-        "publishedAt": "2026-11-03T16:13:08Z"
+        "url": "https://www.cls.cn/detail/2524163",
+        "publishedAt": "2026-11-03T21:46:17Z"
       },
       {
         "id": "88fafa2db22fb7be0e49",
@@ -60,84 +36,108 @@
         "summary": "宽基ETF逆势天量，21天吸金4720亿元，机构称多指标近历史底部。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2524018",
-        "publishedAt": "2026-11-03T16:13:08Z"
+        "publishedAt": "2026-11-03T21:46:17Z"
       },
       {
-        "id": "9810d3469db95ee689d4",
-        "title": "苹果上季营收盈利均超预期，但内存成本高企、毛利率收窄、在华业绩逊色、服务增速放缓 | 财报见闻",
-        "summary": "苹果上季营收盈利超预期，但内存成本高企、在华业绩逊色。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785024",
-        "publishedAt": "2026-11-03T16:13:08Z"
+        "id": "e27843a1c314efb276c2",
+        "title": "10月新能源汽车销量榜：特斯拉跌至第8",
+        "summary": "10月新能源汽车销量榜显示特斯拉排名跌至第8位。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8",
+        "publishedAt": "2026-11-03T21:46:17Z"
+      },
+      {
+        "id": "db480583f8911435fda3",
+        "title": "6G来了 离我们还有多远",
+        "summary": "6G技术进展引发关注，距离商用应用仍有多远成讨论焦点。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+        "publishedAt": "2026-11-03T21:46:17Z"
+      },
+      {
+        "id": "9f23b6346dd0e7842327",
+        "title": "DeepSeek又崩了",
+        "summary": "DeepSeek服务再次崩溃，引发用户对平台稳定性的关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2524036",
+        "publishedAt": "2026-11-03T21:46:17Z"
+      },
+      {
+        "id": "1dcfbb4ebadbbedcfaf3",
+        "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
+        "summary": "东航原董事长刘绍勇受贿6750万余元，一审被判十四年。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34395921",
+        "publishedAt": "2026-11-03T21:46:17Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点为美国中期选举投票、多国航班炸弹威胁、欧洲超市冷库网络攻击、俄乌冲突与中东局势及能源市场波动。",
+    "overview": "国际焦点为美国中期选举投票与投票日事件，欧洲多国航班遭炸弹威胁，西班牙交通部长因列车事故辞职，格陵兰通过美安全协议，以及乌克兰与中东局势持续。",
     "items": [
       {
-        "id": "c22922e32e8be3f9aafe",
-        "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
-        "summary": "美国中期选举投票开始，国会控制权归属将决定特朗普余下任期走向。",
+        "id": "61a37eac941f22a638e8",
+        "title": "US midterm elections 2026 live: turnout surges across country as voters decide control of Congress",
+        "summary": "美国中期选举投票日，全国投票率激增，选民决定国会控制权。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-        "publishedAt": "2026-11-03T08:00:20Z"
+        "publishedAt": "2026-11-03T13:38:05Z"
       },
       {
-        "id": "1584faaccbbe9404777f",
-        "title": "Bulgaria confirms bomb threats against flights from Bergamo and Dublin – Europe live",
-        "summary": "保加利亚确认飞往贝加莫和都柏林航班遭炸弹威胁，欧洲多起威胁均为虚惊。",
+        "id": "620a5532a278e224ccd6",
+        "title": "Trump claims US will end military aid to Israel by end of this year",
+        "summary": "特朗普称美国将在年底前停止对以色列军事援助。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-        "publishedAt": "2026-11-03T08:01:09Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+        "publishedAt": "2026-11-03T09:17:11Z"
       },
       {
-        "id": "b1397e619dcd12b6680f",
-        "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-        "summary": "欧洲10国超市冷库遭网络攻击，多地食品被迫丢弃，安全部门介入调查。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-03T05:55:47Z"
-      },
-      {
-        "id": "2963080737b11cd54f05",
-        "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-        "summary": "乌克兰称俄军轰炸援助中心致31人死亡，多枚重型炸弹击中南部村庄。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-03T05:26:19Z"
-      },
-      {
-        "id": "724ace6ea7aba78948ae",
-        "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-        "summary": "美国在中期选举前夕对伊朗格什姆岛发动有限打击，称属防御性质。",
+        "id": "f6427db254b66a81e19d",
+        "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+        "summary": "欧洲七架航班遭恶意炸弹威胁，多国机场进行搜查或改道。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-        "publishedAt": "2026-11-03T05:52:34Z"
+        "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+        "publishedAt": "2026-11-03T09:32:45Z"
       },
       {
-        "id": "814c021f6d5d22c10831",
-        "title": "Merz sees no sign Russia is serious about a ceasefire as he and Zelenskyy call for Europe to help shape a peace deal",
-        "summary": "德国总理默茨称未见俄方认真停火迹象，与泽连斯基呼吁欧洲参与和平方案。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/merz-sees-no-sign-russia-is-serious-about-a-ceasefire-as-he-and-zelenskyy-call-for-europe-to-help-shape-a-peace-deal/a-79836026?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-03T07:04:00Z"
-      },
-      {
-        "id": "52c216a7ad1236fa421c",
-        "title": "Trump says US will stop giving Israel aid after year-end",
-        "summary": "特朗普称美国将在年底后停止对以色列提供援助，引发中东政策讨论。",
+        "id": "97112f7d131e981ea478",
+        "title": "US astronauts vote from space in 2026 midterm elections",
+        "summary": "美国宇航员在太空中为2026年中期选举投票。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-        "publishedAt": "2026-11-03T05:42:05Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
+        "publishedAt": "2026-11-03T13:03:24Z"
       },
       {
-        "id": "ac15c0e41f01f2bb1c3c",
-        "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – UK politics live",
-        "summary": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeti",
+        "id": "2a1fce9e9ba2adfc3da2",
+        "title": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
+        "summary": "AI教父辛顿警告，人工智能或临近引发重大事故，人类或更糟。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-        "publishedAt": "2026-11-03T07:55:40Z"
+        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "publishedAt": "2026-11-03T13:35:42Z"
+      },
+      {
+        "id": "a72a0be274fde5abb56d",
+        "title": "Spanish transport minister resigns days after deadly train crash",
+        "summary": "西班牙交通部长在致命列车事故后数日宣布辞职。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-03T13:40:42Z"
+      },
+      {
+        "id": "b6d226328a524af620aa",
+        "title": "Greenland's parliament ratifies Trump's US security agreement",
+        "summary": "格陵兰议会批准与美国的安全协议，允许扩大美军足迹。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-03T12:08:00Z"
+      },
+      {
+        "id": "3e8679dc2b8332e90d4b",
+        "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+        "summary": "乌克兰称俄军袭击援助中心、医院等地，24小时内至少38人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-03T08:57:41Z"
       }
     ]
   }
