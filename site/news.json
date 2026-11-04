@@ -1,92 +1,116 @@
 {
   "version": 1,
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T12:04:53Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-04T19:43:19Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内方面，A股科技板块强势反弹，成交额重返2万亿；潘功胜强调维护金融市场平稳运行；长鑫科技大幅上调回购金额至最高50亿元；多地机关单位厕所对外开放补充公共资源；国台办回应两岸议题。",
+    "overview": "国内舆论聚焦美国中期选举民主党大胜及市场反应，同时关注A股科技股大幅反弹、产业政策与AI治理等议题。",
     "items": [
-      {
-        "id": "b2775af7af76db4f2d74",
-        "title": "潘功胜：维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险底线",
-        "summary": "央行行长潘功胜表示维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险底线。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34398550",
-        "publishedAt": "2026-11-04T12:04:53Z"
-      },
-      {
-        "id": "9ac91c150039da164519",
-        "title": "最高50亿元！长鑫科技大幅上调拟回购金额 为科创板史上最高单次回购金额",
-        "summary": "长鑫科技将回购金额上限大幅上调至50亿元，成为科创板史上最高单次回购金额。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2524619",
-        "publishedAt": "2026-11-04T12:04:53Z"
-      },
-      {
-        "id": "546dd1330a920be7b9a8",
-        "title": "【每日收评】科技赛道集体反攻！科创50指数大涨近10%，两市成交额重回2万亿",
-        "summary": "科技赛道集体反攻，科创50指数大涨近10%，两市成交额时隔多日重回2万亿元。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2525056",
-        "publishedAt": "2026-11-04T12:04:53Z"
-      },
-      {
-        "id": "af3b091a8d8ddcc209da",
-        "title": "多地机关单位内部厕所常态化对外开放，进一步补充公共资源",
-        "summary": "多地机关单位内部厕所常态化对外开放，进一步补充城市公共资源。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34397296",
-        "publishedAt": "2026-11-04T12:04:53Z"
-      },
       {
         "id": "8a8dc5ba660ebd082523",
         "title": "中期选举是否会让中美关系出现新可能性？中方回应",
-        "summary": "针对美国中期选举是否会给中美关系带来新可能性，中方作出回应。",
+        "summary": "中方回应美国中期选举后中美关系是否出现新可能性。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xmNGoIz5nt",
-        "publishedAt": "2026-11-04T12:04:53Z"
+        "publishedAt": "2026-11-04T19:43:19Z"
       },
       {
-        "id": "5da9806039dd724622fe",
-        "title": "国台办：大陆是世界最安全地区之一",
-        "summary": "国台办表示大陆是世界最安全地区之一，强调保障台湾同胞权益。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704206905631146027/",
-        "publishedAt": "2026-11-04T12:04:53Z"
+        "id": "9b837c9da9e0123b2433",
+        "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%",
+        "summary": "A股午后爆发，创业板大涨6%，科创50暴涨超9%，半导体涨停潮。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785133",
+        "publishedAt": "2026-11-04T19:43:19Z"
       },
       {
-        "id": "67c743e5cce6866c374f",
-        "title": "股票回购增持再贷款今起加力，多家银行加大上市公司对接力度，贷款利率预计跟随下调",
-        "summary": "股票回购增持再贷款政策加力，多家银行加大上市公司对接力度，贷款利率预计跟随下调。",
+        "id": "851e851529c21de05d7a",
+        "title": "今日为何大涨？多家公募共识：前期调整已较为充分",
+        "summary": "多家公募称前期调整充分，解释A股今日大涨原因。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2525126",
-        "publishedAt": "2026-11-04T12:04:53Z"
+        "url": "https://www.cls.cn/detail/2525158",
+        "publishedAt": "2026-11-04T19:43:19Z"
       },
       {
-        "id": "3fdeb277a6a320896be2",
-        "title": "9图看中国互联网发展最新成就",
-        "summary": "九张图展示中国互联网发展最新成就，涵盖基础设施、用户规模和应用创新等方面。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7699376583278169634/",
-        "publishedAt": "2026-11-04T12:04:53Z"
+        "id": "6f9297366ffb34c23dd2",
+        "title": "近20家A股公司掀“回购潮”，最高拟回购10亿元",
+        "summary": "近20家A股公司掀起回购潮，最高拟回购10亿元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2525406",
+        "publishedAt": "2026-11-04T19:43:19Z"
+      },
+      {
+        "id": "e01c850dc66e4e81213d",
+        "title": "中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为",
+        "summary": "信通院与华为腾讯阿里等联合发布公约，抵制AI算法压榨和黑灰产。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34405097",
+        "publishedAt": "2026-11-04T19:43:19Z"
+      },
+      {
+        "id": "4ca9dac1db0291d08fa0",
+        "title": "央视曝光新型兼职骗局",
+        "summary": "央视曝光新型兼职骗局，提醒公众警惕。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%B0%E5%9E%8B%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80",
+        "publishedAt": "2026-11-04T19:43:19Z"
+      },
+      {
+        "id": "ee537f97cdb31b7a9c1d",
+        "title": "南京大学回应“智慧教室”争议：否认到课率挂钩成绩，称已不再统计抬头率",
+        "summary": "南京大学回应智慧教室争议，否认到课率挂钩成绩，已不再统计抬头率。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34401814",
+        "publishedAt": "2026-11-04T19:43:19Z"
+      },
+      {
+        "id": "665102a5bc7eefd09a17",
+        "title": "西南交大通报“硕士论文被指抄袭”：属实，撤销王某硕士学位",
+        "summary": "西南交大通报硕士论文抄袭属实，撤销王某硕士学位。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34405254",
+        "publishedAt": "2026-11-04T19:43:19Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美国中期选举民主党赢下国会两院，引发全球市场波动；多国关注中美关系走向；南非地方选举执政党ANC面临压力；欧洲多国航班遭炸弹威胁；俄乌冲突相关外交斡旋持续。",
+    "overview": "国际焦点为美国中期选举民主党夺回国会控制权，特朗普承认伊朗战争因素影响选情，全球市场波动加剧。",
     "items": [
       {
-        "id": "29c6a450cc44553b737e",
-        "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
-        "summary": "美国中期选举民主党赢下国会参众两院，选民以选票惩罚特朗普，多州出现历史性翻转。",
+        "id": "403b31b96cb7a63845d0",
+        "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+        "summary": "美国中期选举民主党赢下国会控制权，选民对特朗普作出强烈否定。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-        "publishedAt": "2026-11-04T03:47:56Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+        "publishedAt": "2026-11-04T11:22:04Z"
+      },
+      {
+        "id": "3eb8fed6902557617e1f",
+        "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
+        "summary": "民主党领袖杰弗里斯承诺中期选举胜利后聚焦 affordability。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
+        "publishedAt": "2026-11-04T11:30:41Z"
+      },
+      {
+        "id": "110c834e91b08df1e1ae",
+        "title": "How US midterm results could reshape Trump’s foreign policy",
+        "summary": "分析称美国中期选举结果可能重塑特朗普外交政策并加强国会审查。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
+        "publishedAt": "2026-11-04T11:15:50Z"
+      },
+      {
+        "id": "845b628f1abd9d6567db",
+        "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+        "summary": "加拿大视美国中期选举结果为关税减免希望，贸易谈判重启。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-04T10:01:31Z"
       },
       {
         "id": "724edd67748c3f8f4c00",
         "title": "US dollar slides after Democrats’ midterm election win as growth fears rise",
-        "summary": "民主党中期选举获胜后美元大幅下跌，市场担忧美国经济增长放缓及AI监管加强。",
+        "summary": "民主党中期选举获胜后美元大幅下跌，市场担忧经济增长放缓。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
         "publishedAt": "2026-11-04T01:55:22Z"
@@ -94,50 +118,26 @@
       {
         "id": "0d47c1d22ee87dbed231",
         "title": "‘Seismic shift’: World reacts to US midterm election results",
-        "summary": "国际社会对美国中期选举结果反应强烈，伊朗谈判代表称美国选民发出了“不要战争”的信号。",
+        "summary": "国际社会对美国中期选举结果反应强烈，伊朗称选民发出不要战争信号。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
         "publishedAt": "2026-11-04T03:24:50Z"
       },
       {
-        "id": "c6256e7cecda9f4c9018",
-        "title": "Why Democrats may struggle to rein in Trump’s foreign policy",
-        "summary": "分析认为民主党在中期选举获胜后，可能难以有效制约特朗普的外交政策议程。",
+        "id": "2a79c8e148fe6caa6111",
+        "title": "WHO approves trials for two new Ebola vaccines",
+        "summary": "世卫组织批准两种新埃博拉疫苗试验，针对本迪布焦型病毒。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss",
-        "publishedAt": "2026-11-04T03:16:40Z"
+        "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+        "publishedAt": "2026-11-04T11:22:09Z"
       },
       {
-        "id": "71bcd18e045274ef546e",
-        "title": "ANC under pressure to reverse South Africa decline",
-        "summary": "南非地方选举投票，执政党非洲人国民大会因服务质量差面临选民压力。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-04T03:47:44Z"
-      },
-      {
-        "id": "cf3d956f76bdd7d4a229",
-        "title": "ANC faces anger over poor services as South Africans vote in local elections",
-        "summary": "南非地方选举中非国大因停水断电和基础设施破败引发民怨，预计得票率不足三分之一。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-        "publishedAt": "2026-11-03T20:00:23Z"
-      },
-      {
-        "id": "c8d70ebc156f492eed4a",
-        "title": "Seven flights across Europe targeted by suspected bomb threats",
-        "summary": "欧洲七架航班遭疑似炸弹威胁，波兰、西班牙、保加利亚和意大利分别展开搜查。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-03T12:42:47Z"
-      },
-      {
-        "id": "fb81f80866c81808cbec",
-        "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
-        "summary": "欧盟将牵头与美国、北约等伙伴就支持乌克兰举行会谈，协调对乌援助立场。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-        "publishedAt": "2026-11-04T03:45:41Z"
+        "id": "137ef03f0360b738ff94",
+        "title": "French blood banks targeted by refrigerator cyberattack",
+        "summary": "法国血库遭冰箱网络攻击，黑客试图升高温度破坏血浆。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-04T09:57:00Z"
       }
     ]
   }
