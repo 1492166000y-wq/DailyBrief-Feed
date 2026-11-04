@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-04",
-  "generatedAt": "2026-11-03T21:46:17Z",
+  "generatedAt": "2026-11-04T02:18:26Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内时政聚焦刘延东同志逝世与王毅对菲表态，财经关注资本市场稳市工具与ETF资金动向，新能源汽车销量排名变化；产业科技涉及6G进展与手机依赖健康话题。",
+    "overview": "国内方面，央行行长潘功胜发声维护金融市场平稳运行，两大稳市工具同日部署；多地机关单位内部厕所常态化对外开放；东航原董事长刘绍勇受贿案一审宣判。市场层面，沪指尾盘险守3600点，科创50跌近4%。",
     "items": [
       {
-        "id": "1ffbbae8c5f44cd414ed",
-        "title": "刘延东同志遗体在京火化",
-        "summary": "刘延东同志遗体在京火化，党和国家领导人参加悼念。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7702985726727766059/",
-        "publishedAt": "2026-11-03T21:46:17Z"
-      },
-      {
-        "id": "53c953b264f4bc22762d",
-        "title": "王毅：菲少数政客抹黑中国，这种恶行不可容忍",
-        "summary": "王毅指出菲少数政客抹黑中国，称此类恶行不可容忍。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xl9WByGdoq",
-        "publishedAt": "2026-11-03T21:46:17Z"
+        "id": "e2f66cccc34092da236e",
+        "title": "【早报】潘功胜发声！维护金融市场平稳运行；美芯片股，全线反弹；原油黄金，双双下跌；新易盛、美的集团、五粮液披露回购进展",
+        "summary": "央行行长潘功胜发声维护金融市场平稳运行，两大稳市工具同日部署，政策组合拳密集落地。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2524406",
+        "publishedAt": "2026-11-04T02:18:26Z"
       },
       {
         "id": "52a1943ded13644d85ed",
         "title": "两大稳市工具同日部署，政策组合拳密集落地，券商如何解读这场座谈会？",
-        "summary": "两大稳市工具同日部署，政策组合拳密集落地，券商解读座谈会。",
+        "summary": "两大稳市工具同日部署，政策组合拳密集落地，券商解读座谈会释放的信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2524163",
-        "publishedAt": "2026-11-03T21:46:17Z"
+        "publishedAt": "2026-11-04T02:18:26Z"
       },
       {
-        "id": "88fafa2db22fb7be0e49",
-        "title": "宽基ETF逆势天量，21天吸金4720亿，机构共识：多指标近历史底部",
-        "summary": "宽基ETF逆势天量，21天吸金4720亿元，机构称多指标近历史底部。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2524018",
-        "publishedAt": "2026-11-03T21:46:17Z"
-      },
-      {
-        "id": "e27843a1c314efb276c2",
-        "title": "10月新能源汽车销量榜：特斯拉跌至第8",
-        "summary": "10月新能源汽车销量榜显示特斯拉排名跌至第8位。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8",
-        "publishedAt": "2026-11-03T21:46:17Z"
-      },
-      {
-        "id": "db480583f8911435fda3",
-        "title": "6G来了 离我们还有多远",
-        "summary": "6G技术进展引发关注，距离商用应用仍有多远成讨论焦点。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
-        "publishedAt": "2026-11-03T21:46:17Z"
-      },
-      {
-        "id": "9f23b6346dd0e7842327",
-        "title": "DeepSeek又崩了",
-        "summary": "DeepSeek服务再次崩溃，引发用户对平台稳定性的关注。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2524036",
-        "publishedAt": "2026-11-03T21:46:17Z"
+        "id": "af3b091a8d8ddcc209da",
+        "title": "多地机关单位内部厕所常态化对外开放，进一步补充公共资源",
+        "summary": "多地机关单位内部厕所常态化对外开放，进一步补充公共资源。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34397296",
+        "publishedAt": "2026-11-04T02:18:26Z"
       },
       {
         "id": "1dcfbb4ebadbbedcfaf3",
         "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
-        "summary": "东航原董事长刘绍勇受贿6750万余元，一审被判十四年。",
+        "summary": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34395921",
-        "publishedAt": "2026-11-03T21:46:17Z"
+        "publishedAt": "2026-11-04T02:18:26Z"
+      },
+      {
+        "id": "f820e5cc04c146d17698",
+        "title": "沪指尾盘险守3600点，多只宽基ETF尾盘“爆量”，科创50跌近4%，“易中天”集体大跌，电池产业链逆势拉升",
+        "summary": "沪指尾盘险守3600点，多只宽基ETF尾盘爆量，科创50跌近4%，电池产业链逆势拉升。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785042",
+        "publishedAt": "2026-11-04T02:18:26Z"
+      },
+      {
+        "id": "33856bf83ffbe3d3bd35",
+        "title": "长鑫科技盘前释放利好：公司董事长提议增加回购股份金额 增至25亿元-50亿元",
+        "summary": "长鑫科技董事长提议增加回购股份金额，增至25亿元至50亿元。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2524445",
+        "publishedAt": "2026-11-04T02:18:26Z"
+      },
+      {
+        "id": "f4f99a27b6ac834c5599",
+        "title": "上汽奥迪“买一赠一”宣传已被立案",
+        "summary": "上汽奥迪“买一赠一”宣传已被立案调查。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E2%80%9C%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80%E2%80%9D%E5%AE%A3%E4%BC%A0%E5%B7%B2%E8%A2%AB%E7%AB%8B%E6%A1%88",
+        "publishedAt": "2026-11-04T02:18:26Z"
+      },
+      {
+        "id": "6e4d47be6ef1e9defc15",
+        "title": "失联清华毕业留学生已安全回家",
+        "summary": "失联清华毕业留学生已安全回家。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7703449594369166911/",
+        "publishedAt": "2026-11-04T02:18:26Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点为美国中期选举投票与投票日事件，欧洲多国航班遭炸弹威胁，西班牙交通部长因列车事故辞职，格陵兰通过美安全协议，以及乌克兰与中东局势持续。",
+    "overview": "国际方面，美国2026年中期选举投票展开，民主党在北卡、佐治亚等关键参议院选战中表现强劲；特朗普宣布将终止对以色列每年约40亿美元军援；伊朗就霍尔木兹海峡重开提出条件，美伊谈判仍存分歧；欧洲多架航班遭炸弹威胁，均为虚惊。",
     "items": [
       {
-        "id": "61a37eac941f22a638e8",
-        "title": "US midterm elections 2026 live: turnout surges across country as voters decide control of Congress",
-        "summary": "美国中期选举投票日，全国投票率激增，选民决定国会控制权。",
+        "id": "8c27041086cadb7a7890",
+        "title": "US midterm elections 2026 live updates: Democrats show strength in key Senate and House races in battle for control of Congress",
+        "summary": "美国中期选举投票，民主党在关键参议院和众议院选战中显现优势，北卡、佐治亚等州结果受关注。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-        "publishedAt": "2026-11-03T13:38:05Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+        "publishedAt": "2026-11-03T18:09:54Z"
+      },
+      {
+        "id": "ddd045d88214225bde19",
+        "title": "US midterm voters deliver verdict on Trump’s second term",
+        "summary": "美国中期选举投票日，选民就特朗普第二任期表现作出裁决，结果将决定国会归属。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-voters-republican-democrats-trump-second-term",
+        "publishedAt": "2026-11-03T17:49:12Z"
+      },
+      {
+        "id": "436f2bdd34c944eb18e7",
+        "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+        "summary": "民主党人罗伊·库珀赢得北卡罗来纳州联邦参议院席位，击败共和党对手。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+        "publishedAt": "2026-11-03T17:36:33Z"
       },
       {
         "id": "620a5532a278e224ccd6",
         "title": "Trump claims US will end military aid to Israel by end of this year",
-        "summary": "特朗普称美国将在年底前停止对以色列军事援助。",
+        "summary": "特朗普称美国将在年底前停止对以色列的军事援助，但仍将继续出售武器。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
         "publishedAt": "2026-11-03T09:17:11Z"
       },
       {
-        "id": "f6427db254b66a81e19d",
-        "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
-        "summary": "欧洲七架航班遭恶意炸弹威胁，多国机场进行搜查或改道。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-        "publishedAt": "2026-11-03T09:32:45Z"
-      },
-      {
-        "id": "97112f7d131e981ea478",
-        "title": "US astronauts vote from space in 2026 midterm elections",
-        "summary": "美国宇航员在太空中为2026年中期选举投票。",
+        "id": "e7378c884984f9a9ebff",
+        "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+        "summary": "伊朗称已准备好“最大威慑”方案应对任何新的美国攻击，警告将立即回应。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
-        "publishedAt": "2026-11-03T13:03:24Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+        "publishedAt": "2026-11-03T16:00:00Z"
       },
       {
-        "id": "2a1fce9e9ba2adfc3da2",
-        "title": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
-        "summary": "AI教父辛顿警告，人工智能或临近引发重大事故，人类或更糟。",
+        "id": "c8d70ebc156f492eed4a",
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
+        "summary": "欧洲七架航班遭疑似炸弹威胁，波兰、西班牙、保加利亚和意大利分别展开搜查。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-03T12:42:47Z"
+      },
+      {
+        "id": "4f72aa7e4fed2c880c39",
+        "title": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
+        "summary": "英国律师达波·阿坎德当选联合国国际法院法官，被视为英国外交胜利。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-        "publishedAt": "2026-11-03T13:35:42Z"
+        "url": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
+        "publishedAt": "2026-11-03T13:09:39Z"
       },
       {
-        "id": "a72a0be274fde5abb56d",
-        "title": "Spanish transport minister resigns days after deadly train crash",
-        "summary": "西班牙交通部长在致命列车事故后数日宣布辞职。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-03T13:40:42Z"
-      },
-      {
-        "id": "b6d226328a524af620aa",
-        "title": "Greenland's parliament ratifies Trump's US security agreement",
-        "summary": "格陵兰议会批准与美国的安全协议，允许扩大美军足迹。",
+        "id": "e1f48f71cf8b956be97f",
+        "title": "Spain transport minister offers resignation in wake of train accident",
+        "summary": "西班牙交通大臣因两起致命列车事故宣布辞职。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-03T12:08:00Z"
-      },
-      {
-        "id": "3e8679dc2b8332e90d4b",
-        "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-        "summary": "乌克兰称俄军袭击援助中心、医院等地，24小时内至少38人死亡。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-03T08:57:41Z"
+        "url": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-03T12:41:00Z"
       }
     ]
   }
