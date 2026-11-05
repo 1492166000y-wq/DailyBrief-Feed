@@ -1,79 +1,79 @@
 {
   "version": 1,
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T00:53:35Z",
+  "generatedAt": "2026-11-05T09:27:33Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "美国中期选举民主党大胜引发全球市场剧烈波动，国内聚焦A股反弹与监管动向；科技领域关注智能体治理与存储芯片涨价。",
+    "overview": "国内焦点集中于美国中期选举对市场与外交的连锁影响，以及春节假期、金融稳市、反腐和科技治理等议题。",
     "items": [
+      {
+        "id": "d3f511e4bb30eb43b35d",
+        "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
+        "summary": "民主党横扫国会，美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785134",
+        "publishedAt": "2026-11-05T09:27:33Z"
+      },
+      {
+        "id": "70c5949a5ba1e0a5fab2",
+        "title": "特朗普丢掉国会后 全球贸易战将何去何从？一文读懂！",
+        "summary": "特朗普丢掉国会后，全球贸易战走向成焦点，一文解读关税与外交政策可能变化。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2525872",
+        "publishedAt": "2026-11-05T09:27:33Z"
+      },
+      {
+        "id": "eb75d0db65fc00baa1a8",
+        "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
+        "summary": "国务院金融工作报告提出支持中央汇金发挥类平准基金作用，巩固资本市场稳市机制。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2525944",
+        "publishedAt": "2026-11-05T09:27:33Z"
+      },
       {
         "id": "e01c850dc66e4e81213d",
         "title": "中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为",
-        "summary": "中国信通院、华为、腾讯、阿里等联合发布公约，共同抵制利用智能体实施算法压榨和黑灰产行为。",
+        "summary": "中国信通院、华为、腾讯、阿里等联合发布公约，共同抵制智能体算法压榨和黑灰产。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34405097",
-        "publishedAt": "2026-11-05T00:53:35Z"
+        "publishedAt": "2026-11-05T09:27:33Z"
       },
       {
-        "id": "9b837c9da9e0123b2433",
-        "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%",
-        "summary": "A股午后强势反弹，创业板大涨6%，科创50涨超9%，半导体板块现20CM涨停潮，恒指同步走高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785133",
-        "publishedAt": "2026-11-05T00:53:35Z"
-      },
-      {
-        "id": "80403399f5ac41d60cf6",
-        "title": "【早报】深夜巨震，油价重挫超8%，黄金大涨超3%；美股剧烈分化，中概股集体爆发；亨通光电、凯莱英、三环集团拟回购公司股份",
-        "summary": "隔夜油价重挫超8%、黄金大涨超3%，美股剧烈分化中概股爆发，亨通光电等多家公司拟回购股份。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2525668",
-        "publishedAt": "2026-11-05T00:53:35Z"
-      },
-      {
-        "id": "6f9297366ffb34c23dd2",
-        "title": "近20家A股公司掀“回购潮”，最高拟回购10亿元",
-        "summary": "近20家A股公司掀起回购潮，最高拟回购金额达10亿元，释放稳定市场预期信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2525406",
-        "publishedAt": "2026-11-05T00:53:35Z"
-      },
-      {
-        "id": "8a8dc5ba660ebd082523",
-        "title": "中期选举是否会让中美关系出现新可能性？中方回应",
-        "summary": "就美国中期选举是否会让中美关系出现新可能性，中方作出回应。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xmNGoIz5nt",
-        "publishedAt": "2026-11-05T00:53:35Z"
-      },
-      {
-        "id": "34d01a33229e50a9b500",
-        "title": "10月DRAM价格再创新高！机构：四季度涨价态势延续",
-        "summary": "10月DRAM价格再创新高，机构预计四季度涨价态势将延续，产业链成本压力持续。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2525143",
-        "publishedAt": "2026-11-05T00:53:35Z"
-      },
-      {
-        "id": "92f60be90094f18b2cde",
-        "title": "硫磺熏笋乱象曝光后，多地发通告：严禁工业硫磺用于任何食用农产品",
-        "summary": "硫磺熏笋乱象曝光后多地发布通告，严禁工业硫磺用于任何食用农产品。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34405716",
-        "publishedAt": "2026-11-05T00:53:35Z"
-      },
-      {
-        "id": "a69d1b968f6f44c14a91",
-        "title": "美股科技上演“次贷危机”",
-        "summary": "美股科技上演“次贷危机”",
+        "id": "35130f193cbef796c940",
+        "title": "马兴瑞被提起公诉",
+        "summary": "检察机关依法对马兴瑞涉嫌受贿案提起公诉。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704443460459171337/",
-        "publishedAt": "2026-11-05T00:53:35Z"
+        "url": "https://www.toutiao.com/trending/7704501062417268787/",
+        "publishedAt": "2026-11-05T09:27:33Z"
+      },
+      {
+        "id": "b8ae8dedb3a3c0d1c8c4",
+        "title": "春节连休9天",
+        "summary": "2027年春节连休9天，假期安排引发公众广泛关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7704173233691901978/",
+        "publishedAt": "2026-11-05T09:27:33Z"
+      },
+      {
+        "id": "f973cf87373286ed8661",
+        "title": "外交部回应美国中期选举之后的中美关系",
+        "summary": "外交部回应美国中期选举后的中美关系，强调保持沟通与稳定。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xo2kpJhXm0",
+        "publishedAt": "2026-11-05T09:27:33Z"
+      },
+      {
+        "id": "3392cc6f5d39d4e96a39",
+        "title": "覆铜板龙头工厂失火 或影响全球高端多层板约4%供给",
+        "summary": "覆铜板龙头工厂失火，或影响全球高端多层板约4%供给，产业链受关注。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2526080",
+        "publishedAt": "2026-11-05T09:27:33Z"
       }
     ]
   },
   "global": {
-    "overview": "美国中期选举民主党夺回国会两院，特朗普承认伊朗战争拖累选情；多国反应分化，同时关注俄乌、埃博拉疫情及法国血库遭网络攻击等事件。",
+    "overview": "全球方面，美国民主党横扫国会成最大变量，牵动贸易、能源与科技政策；香港国安案判决、法国罢工和欧洲安全事件亦受关注。",
     "items": [
       {
         "id": "5bcdb610f0a3eea0404d",
@@ -84,60 +84,60 @@
         "publishedAt": "2026-11-04T15:04:00Z"
       },
       {
-        "id": "a1e022f42620b204aa65",
-        "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
-        "summary": "特朗普承认伊朗战争很大程度上导致共和党选举惨败，但坚称他不得不这么做。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-        "publishedAt": "2026-11-04T16:00:00Z"
-      },
-      {
-        "id": "0d47c1d22ee87dbed231",
-        "title": "‘Seismic shift’: World reacts to US midterm election results",
-        "summary": "国际社会对美中期选举结果反应强烈，伊朗称美国选民发出了不要战争的信号。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
-        "publishedAt": "2026-11-04T03:24:50Z"
-      },
-      {
-        "id": "724edd67748c3f8f4c00",
-        "title": "US dollar slides after Democrats’ midterm election win as growth fears rise",
-        "summary": "民主党中期选举获胜后美元大幅下跌，市场对经济增长放缓的担忧上升。",
+        "id": "0cbfd775d3cfc523445d",
+        "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+        "summary": "美中期选举实时：民主党有望在密西西比参议院选战爆冷，共和党内部开始相互追责。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
-        "publishedAt": "2026-11-04T01:55:22Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+        "publishedAt": "2026-11-05T01:08:39Z"
       },
       {
-        "id": "110c834e91b08df1e1ae",
-        "title": "How US midterm results could reshape Trump’s foreign policy",
-        "summary": "分析认为美国中期选举结果可能重塑特朗普外交政策，并加强国会的审查力度。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
-        "publishedAt": "2026-11-04T11:15:50Z"
-      },
-      {
-        "id": "0f1fb309fe87c719227c",
-        "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-        "summary": "乌克兰称俄军对扎波罗热地区发动袭击，死亡人数升至40人，救援工作仍在持续。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-        "publishedAt": "2026-11-04T12:31:56Z"
-      },
-      {
-        "id": "2a79c8e148fe6caa6111",
-        "title": "WHO approves trials for two new Ebola vaccines",
-        "summary": "世卫组织批准两种针对本迪布焦型病毒的新埃博拉疫苗进入试验阶段。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-        "publishedAt": "2026-11-04T11:22:09Z"
-      },
-      {
-        "id": "80a7525a9816c11af71f",
-        "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-        "summary": "法国血液储存机构冷库遭黑客攻击，引发对关键基础设施网络安全的广泛担忧。",
+        "id": "1cb1de4e8a347a885c38",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "summary": "香港民主人士黄之锋因国安法案件被判监10年，多国媒体关注。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-04T08:26:15Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-05T00:07:22Z"
+      },
+      {
+        "id": "718093cc5b15598bbb6c",
+        "title": "Protesters to join nationwide march as France braces for day of strike action",
+        "summary": "法国工会发起全国罢工，医院、铁路和航空员工参与，抗议薪资与生活成本。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+        "publishedAt": "2026-11-04T21:00:54Z"
+      },
+      {
+        "id": "b1903674c642ac9592be",
+        "title": "Trump accepts midterm results as system holds up against election interference efforts",
+        "summary": "特朗普接受中期选举结果，政府此前对选举的质疑未能改变最终局面。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
+        "publishedAt": "2026-11-05T01:00:01Z"
+      },
+      {
+        "id": "98fd3096e1fec89b6954",
+        "title": "A Democratic-controlled Congress will likely try to constrain Trump’s foreign adventures",
+        "summary": "民主党掌控国会后可能试图约束特朗普的对外军事与关税行动，但总统仍握否决权。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
+        "publishedAt": "2026-11-04T23:00:57Z"
+      },
+      {
+        "id": "ae14c0fc7cc5f9b3a68d",
+        "title": "What the Democrats' midterms win means for the US economy and Trump",
+        "summary": "分析指高油价、数据中心、关税与债务等经济议题是共和党惨败关键，民主党能否改变政策受关注。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-04T23:03:00Z"
+      },
+      {
+        "id": "7cda024f151fbd13f40c",
+        "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
+        "summary": "德国巴伐利亚政治人物艾万格被发现死于柏林酒店，警方已展开调查。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+        "publishedAt": "2026-11-04T16:53:19Z"
       }
     ]
   }
