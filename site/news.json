@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-05",
-  "generatedAt": "2026-11-04T19:43:19Z",
+  "generatedAt": "2026-11-05T00:53:35Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内舆论聚焦美国中期选举民主党大胜及市场反应，同时关注A股科技股大幅反弹、产业政策与AI治理等议题。",
+    "overview": "美国中期选举民主党大胜引发全球市场剧烈波动，国内聚焦A股反弹与监管动向；科技领域关注智能体治理与存储芯片涨价。",
     "items": [
       {
-        "id": "8a8dc5ba660ebd082523",
-        "title": "中期选举是否会让中美关系出现新可能性？中方回应",
-        "summary": "中方回应美国中期选举后中美关系是否出现新可能性。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xmNGoIz5nt",
-        "publishedAt": "2026-11-04T19:43:19Z"
+        "id": "e01c850dc66e4e81213d",
+        "title": "中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为",
+        "summary": "中国信通院、华为、腾讯、阿里等联合发布公约，共同抵制利用智能体实施算法压榨和黑灰产行为。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34405097",
+        "publishedAt": "2026-11-05T00:53:35Z"
       },
       {
         "id": "9b837c9da9e0123b2433",
         "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%",
-        "summary": "A股午后爆发，创业板大涨6%，科创50暴涨超9%，半导体涨停潮。",
+        "summary": "A股午后强势反弹，创业板大涨6%，科创50涨超9%，半导体板块现20CM涨停潮，恒指同步走高。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785133",
-        "publishedAt": "2026-11-04T19:43:19Z"
+        "publishedAt": "2026-11-05T00:53:35Z"
       },
       {
-        "id": "851e851529c21de05d7a",
-        "title": "今日为何大涨？多家公募共识：前期调整已较为充分",
-        "summary": "多家公募称前期调整充分，解释A股今日大涨原因。",
+        "id": "80403399f5ac41d60cf6",
+        "title": "【早报】深夜巨震，油价重挫超8%，黄金大涨超3%；美股剧烈分化，中概股集体爆发；亨通光电、凯莱英、三环集团拟回购公司股份",
+        "summary": "隔夜油价重挫超8%、黄金大涨超3%，美股剧烈分化中概股爆发，亨通光电等多家公司拟回购股份。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2525158",
-        "publishedAt": "2026-11-04T19:43:19Z"
+        "url": "https://www.cls.cn/detail/2525668",
+        "publishedAt": "2026-11-05T00:53:35Z"
       },
       {
         "id": "6f9297366ffb34c23dd2",
         "title": "近20家A股公司掀“回购潮”，最高拟回购10亿元",
-        "summary": "近20家A股公司掀起回购潮，最高拟回购10亿元。",
+        "summary": "近20家A股公司掀起回购潮，最高拟回购金额达10亿元，释放稳定市场预期信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2525406",
-        "publishedAt": "2026-11-04T19:43:19Z"
+        "publishedAt": "2026-11-05T00:53:35Z"
       },
       {
-        "id": "e01c850dc66e4e81213d",
-        "title": "中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为",
-        "summary": "信通院与华为腾讯阿里等联合发布公约，抵制AI算法压榨和黑灰产。",
+        "id": "8a8dc5ba660ebd082523",
+        "title": "中期选举是否会让中美关系出现新可能性？中方回应",
+        "summary": "就美国中期选举是否会让中美关系出现新可能性，中方作出回应。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xmNGoIz5nt",
+        "publishedAt": "2026-11-05T00:53:35Z"
+      },
+      {
+        "id": "34d01a33229e50a9b500",
+        "title": "10月DRAM价格再创新高！机构：四季度涨价态势延续",
+        "summary": "10月DRAM价格再创新高，机构预计四季度涨价态势将延续，产业链成本压力持续。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2525143",
+        "publishedAt": "2026-11-05T00:53:35Z"
+      },
+      {
+        "id": "92f60be90094f18b2cde",
+        "title": "硫磺熏笋乱象曝光后，多地发通告：严禁工业硫磺用于任何食用农产品",
+        "summary": "硫磺熏笋乱象曝光后多地发布通告，严禁工业硫磺用于任何食用农产品。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34405097",
-        "publishedAt": "2026-11-04T19:43:19Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34405716",
+        "publishedAt": "2026-11-05T00:53:35Z"
       },
       {
-        "id": "4ca9dac1db0291d08fa0",
-        "title": "央视曝光新型兼职骗局",
-        "summary": "央视曝光新型兼职骗局，提醒公众警惕。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%B0%E5%9E%8B%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80",
-        "publishedAt": "2026-11-04T19:43:19Z"
-      },
-      {
-        "id": "ee537f97cdb31b7a9c1d",
-        "title": "南京大学回应“智慧教室”争议：否认到课率挂钩成绩，称已不再统计抬头率",
-        "summary": "南京大学回应智慧教室争议，否认到课率挂钩成绩，已不再统计抬头率。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34401814",
-        "publishedAt": "2026-11-04T19:43:19Z"
-      },
-      {
-        "id": "665102a5bc7eefd09a17",
-        "title": "西南交大通报“硕士论文被指抄袭”：属实，撤销王某硕士学位",
-        "summary": "西南交大通报硕士论文抄袭属实，撤销王某硕士学位。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34405254",
-        "publishedAt": "2026-11-04T19:43:19Z"
+        "id": "a69d1b968f6f44c14a91",
+        "title": "美股科技上演“次贷危机”",
+        "summary": "美股科技上演“次贷危机”",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7704443460459171337/",
+        "publishedAt": "2026-11-05T00:53:35Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点为美国中期选举民主党夺回国会控制权，特朗普承认伊朗战争因素影响选情，全球市场波动加剧。",
+    "overview": "美国中期选举民主党夺回国会两院，特朗普承认伊朗战争拖累选情；多国反应分化，同时关注俄乌、埃博拉疫情及法国血库遭网络攻击等事件。",
     "items": [
       {
-        "id": "403b31b96cb7a63845d0",
-        "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
-        "summary": "美国中期选举民主党赢下国会控制权，选民对特朗普作出强烈否定。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
-        "publishedAt": "2026-11-04T11:22:04Z"
+        "id": "5bcdb610f0a3eea0404d",
+        "title": "Democrats take House and Senate from Republicans in US midterm rout",
+        "summary": "美国中期选举民主党翻转多个共和党票仓，夺回国会两院控制权，被视为对特朗普的否定。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-04T15:04:00Z"
       },
       {
-        "id": "3eb8fed6902557617e1f",
-        "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
-        "summary": "民主党领袖杰弗里斯承诺中期选举胜利后聚焦 affordability。",
+        "id": "a1e022f42620b204aa65",
+        "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+        "summary": "特朗普承认伊朗战争很大程度上导致共和党选举惨败，但坚称他不得不这么做。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
-        "publishedAt": "2026-11-04T11:30:41Z"
-      },
-      {
-        "id": "110c834e91b08df1e1ae",
-        "title": "How US midterm results could reshape Trump’s foreign policy",
-        "summary": "分析称美国中期选举结果可能重塑特朗普外交政策并加强国会审查。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
-        "publishedAt": "2026-11-04T11:15:50Z"
-      },
-      {
-        "id": "845b628f1abd9d6567db",
-        "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-        "summary": "加拿大视美国中期选举结果为关税减免希望，贸易谈判重启。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-04T10:01:31Z"
-      },
-      {
-        "id": "724edd67748c3f8f4c00",
-        "title": "US dollar slides after Democrats’ midterm election win as growth fears rise",
-        "summary": "民主党中期选举获胜后美元大幅下跌，市场担忧经济增长放缓。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
-        "publishedAt": "2026-11-04T01:55:22Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+        "publishedAt": "2026-11-04T16:00:00Z"
       },
       {
         "id": "0d47c1d22ee87dbed231",
         "title": "‘Seismic shift’: World reacts to US midterm election results",
-        "summary": "国际社会对美国中期选举结果反应强烈，伊朗称选民发出不要战争信号。",
+        "summary": "国际社会对美中期选举结果反应强烈，伊朗称美国选民发出了不要战争的信号。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
         "publishedAt": "2026-11-04T03:24:50Z"
       },
       {
+        "id": "724edd67748c3f8f4c00",
+        "title": "US dollar slides after Democrats’ midterm election win as growth fears rise",
+        "summary": "民主党中期选举获胜后美元大幅下跌，市场对经济增长放缓的担忧上升。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+        "publishedAt": "2026-11-04T01:55:22Z"
+      },
+      {
+        "id": "110c834e91b08df1e1ae",
+        "title": "How US midterm results could reshape Trump’s foreign policy",
+        "summary": "分析认为美国中期选举结果可能重塑特朗普外交政策，并加强国会的审查力度。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
+        "publishedAt": "2026-11-04T11:15:50Z"
+      },
+      {
+        "id": "0f1fb309fe87c719227c",
+        "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+        "summary": "乌克兰称俄军对扎波罗热地区发动袭击，死亡人数升至40人，救援工作仍在持续。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+        "publishedAt": "2026-11-04T12:31:56Z"
+      },
+      {
         "id": "2a79c8e148fe6caa6111",
         "title": "WHO approves trials for two new Ebola vaccines",
-        "summary": "世卫组织批准两种新埃博拉疫苗试验，针对本迪布焦型病毒。",
+        "summary": "世卫组织批准两种针对本迪布焦型病毒的新埃博拉疫苗进入试验阶段。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
         "publishedAt": "2026-11-04T11:22:09Z"
       },
       {
-        "id": "137ef03f0360b738ff94",
-        "title": "French blood banks targeted by refrigerator cyberattack",
-        "summary": "法国血库遭冰箱网络攻击，黑客试图升高温度破坏血浆。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-04T09:57:00Z"
+        "id": "80a7525a9816c11af71f",
+        "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+        "summary": "法国血液储存机构冷库遭黑客攻击，引发对关键基础设施网络安全的广泛担忧。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-04T08:26:15Z"
       }
     ]
   }
