@@ -1,42 +1,26 @@
 {
   "version": 1,
   "date": "2026-11-06",
-  "generatedAt": "2026-11-05T18:00:40Z",
+  "generatedAt": "2026-11-05T23:37:24Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注2027年放假安排、医保参保人数回应、美中期选举后美股科技板块调整及进博会芯片动态。",
+    "overview": "国内焦点涵盖美股AI监管担忧引发的历史性抛售、2027年放假安排、美国中期选举后政局变动、检察机关对马兴瑞提起公诉，以及世界互联网大会乌镇峰会闭幕等议题。",
     "items": [
       {
-        "id": "77838d5b0b148516ad94",
-        "title": "2027年放假安排出炉：调休减少，9天超长春节假期即将回归",
-        "summary": "2027年放假安排出炉，调休减少，春节将迎来9天超长假期。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34412735",
-        "publishedAt": "2026-11-05T18:00:40Z"
-      },
-      {
-        "id": "0fe5c99c147d8a09c392",
-        "title": "参保人数减少8300万？医保局回应",
-        "summary": "针对参保人数减少8300万的说法，医保局作出回应。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E5%87%8F%E5%B0%918300%E4%B8%87%EF%BC%9F%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94",
-        "publishedAt": "2026-11-05T18:00:40Z"
-      },
-      {
-        "id": "97547db7df345ac1cef3",
-        "title": "民主党大胜引发芯片股抛售狂潮，纳斯达克100跌超5%，费半重挫10%，英伟达大跌8%，黄金站上4100",
-        "summary": "民主党大胜引发芯片股抛售，纳指跌超5%，英伟达大跌8%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785235",
-        "publishedAt": "2026-11-05T18:00:40Z"
-      },
-      {
-        "id": "3392cc6f5d39d4e96a39",
-        "title": "覆铜板龙头工厂失火 或影响全球高端多层板约4%供给",
-        "summary": "覆铜板龙头工厂失火，或影响全球高端多层板约4%供给。",
+        "id": "3406f2554bbd08be31e6",
+        "title": "美股收盘：AI监管担忧引爆历史性抛售！纳指暴跌5.5% 七巨头市值蒸发1万亿美元",
+        "summary": "美股因AI监管担忧遭历史性抛售，纳指暴跌5.5%，科技七巨头市值蒸发1万亿美元。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2526080",
-        "publishedAt": "2026-11-05T18:00:40Z"
+        "url": "https://www.cls.cn/detail/2526796",
+        "publishedAt": "2026-11-05T23:37:24Z"
+      },
+      {
+        "id": "3cf290114df0ddeb7b10",
+        "title": "2027年放假安排出炉：9天超长春节假期点燃旅游市场，已有旅客下单除夕前一日机票",
+        "summary": "2027年放假安排出炉：春节假期长达9天，调休减少，旅游市场迅速升温。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34414459",
+        "publishedAt": "2026-11-05T23:37:24Z"
       },
       {
         "id": "136d9ef8acdbca1fda8c",
@@ -44,100 +28,116 @@
         "summary": "检察机关依法对马兴瑞涉嫌受贿案提起公诉。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34410162",
-        "publishedAt": "2026-11-05T18:00:40Z"
+        "publishedAt": "2026-11-05T23:37:24Z"
       },
       {
-        "id": "42679034ead557da5b00",
-        "title": "进博探“芯”：三星、SK海力士、英特尔、AMD等同台亮相 算力跳出“参数比拼”转向“可部署系统”",
-        "summary": "进博会芯片展区多巨头同台，算力从参数比拼转向可部署系统。",
+        "id": "d7ef76e464f9b3d0b272",
+        "title": "世界互联网大会乌镇峰会今天闭幕",
+        "summary": "世界互联网大会乌镇峰会今日闭幕，聚焦数字经济与科技合作。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7703728356663050249/",
+        "publishedAt": "2026-11-05T23:37:24Z"
+      },
+      {
+        "id": "26b345a06ab3e49138b2",
+        "title": "普京签令临时接管日本烟草在俄工厂",
+        "summary": "普京签令临时接管日本烟草在俄工厂，日俄关系再添变数。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7704680493241090611/",
+        "publishedAt": "2026-11-05T23:37:24Z"
+      },
+      {
+        "id": "b6c5364773eff8450b26",
+        "title": "参保人数减少8300万？医保局回应",
+        "summary": "针对参保人数减少8300万的说法，国家医保局回应称统计口径变化所致。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7704612422140641843/",
+        "publishedAt": "2026-11-05T23:37:24Z"
+      },
+      {
+        "id": "f973cf87373286ed8661",
+        "title": "外交部回应美国中期选举之后的中美关系",
+        "summary": "外交部回应美国中期选举后的中美关系，强调愿推动两国关系健康稳定发展。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xo2kpJhXm0",
+        "publishedAt": "2026-11-05T23:37:24Z"
+      },
+      {
+        "id": "8d6375fb600c375932a9",
+        "title": "东风-61，已列装火箭军",
+        "summary": "东风-61导弹已列装火箭军，提升战略威慑能力。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2526575",
-        "publishedAt": "2026-11-05T18:00:40Z"
-      },
-      {
-        "id": "96d18d636d9075b965d7",
-        "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
-        "summary": "多所高校引入AI教学督导巡课系统，可识别到课率与抬头率。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34411188",
-        "publishedAt": "2026-11-05T18:00:40Z"
-      },
-      {
-        "id": "e098b52e5b16f4bfeec2",
-        "title": "商务部回应扩大自美采购农产品：持开放态度 对等降税落地是前提",
-        "summary": "商务部称对扩大自美采购农产品持开放态度，对等降税是前提。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2526177",
-        "publishedAt": "2026-11-05T18:00:40Z"
+        "url": "https://www.cls.cn/detail/2526637",
+        "publishedAt": "2026-11-05T23:37:24Z"
       }
     ]
   },
   "global": {
-    "overview": "国际聚焦美国中期选举民主党大胜、法国大规模抗议、欧洲多起航班炸弹威胁及多国政经要闻。",
+    "overview": "国际焦点包括民主党中期选举夺回两院多数、全球科技股暴跌、欧洲多国航班遭炸弹威胁、法国大规模抗议、巴拉圭总统因银行危机辞职，以及加州州长减刑死囚等事件。",
     "items": [
-      {
-        "id": "cdac19fec3c1645d9d48",
-        "title": "US elections 2026 live: Democrats flip four more House seats as Republicans look for blame in brutal midterms losses",
-        "summary": "美国中期选举民主党再翻转四个众议院席位，共和党苦寻败因。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-        "publishedAt": "2026-11-05T09:48:03Z"
-      },
       {
         "id": "5bcdb610f0a3eea0404d",
         "title": "Democrats take House and Senate from Republicans in US midterm rout",
-        "summary": "民主党中期选举夺回国会两院控制权，被视为对特朗普的否定。",
+        "summary": "民主党在中期选举中夺回国会两院控制权，被视为对特朗普的否定。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-11-04T15:04:00Z"
       },
       {
-        "id": "57c474dc7fb13afd7c5b",
-        "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-        "summary": "欧洲多架商业航班遭炸弹威胁，被迫改道或紧急降落。",
+        "id": "7a7c2f67c129d9b9bd84",
+        "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+        "summary": "纳斯达克指数暴跌5.5%，创18个月最大跌幅，AI监管担忧引发科技股抛售。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-        "publishedAt": "2026-11-05T09:54:06Z"
+        "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+        "publishedAt": "2026-11-05T13:23:18Z"
       },
       {
-        "id": "c57cd81be38506f4d533",
-        "title": "French protests see numbers surge as unions join strikes over high cost of living",
-        "summary": "法国抗议规模激增，工会加入反对生活成本高涨的罢工。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-05T09:59:53Z"
+        "id": "94d278703aec70f718e2",
+        "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+        "summary": "欧洲至少25架航班遭炸弹威胁，被迫紧急降落或改道，引发混合战争担忧。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+        "publishedAt": "2026-11-05T10:17:36Z"
       },
       {
-        "id": "1c55ffd0e51a9cb3e2db",
-        "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-        "summary": "英国央行三年多来首次加息至4%，并暗示或再上调。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-        "publishedAt": "2026-11-05T09:46:15Z"
+        "id": "47cdf57f0987d72f76ee",
+        "title": "France: More than 600,000 protest as anger grows over cost of living",
+        "summary": "法国超60万人抗议生活成本高涨，工会组织全国罢工，多地示威。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-05T09:51:00Z"
       },
       {
         "id": "204bce23f0792403caf8",
         "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "summary": "巴拉圭总统培尼亚因银行倒闭及弹劾压力辞职。",
+        "summary": "巴拉圭总统培尼亚因银行倒闭危机辞职，随后遭议会弹劾。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-11-05T09:40:40Z"
       },
       {
-        "id": "1cb1de4e8a347a885c38",
-        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-        "summary": "香港民主派人士黄之锋因国安案被判监禁10年。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-05T05:51:03Z"
+        "id": "0c93a8f7aa36df8313dd",
+        "title": "Gavin Newsom commutes sentences of all death row inmates in California",
+        "summary": "加州州长纽森赦免该州548名死囚的死刑，改判终身监禁不得假释。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-05T12:04:00Z"
       },
       {
-        "id": "6618c1cee9fe22549ae3",
-        "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-        "summary": "菲律宾调查将梅根公爵夫人同父异母兄长列为儿童性侵案关注对象。",
+        "id": "1c55ffd0e51a9cb3e2db",
+        "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+        "summary": "英国央行三年多来首次加息，将基准利率上调至4%，并暗示可能进一步收紧。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-        "publishedAt": "2026-11-05T09:37:27Z"
+        "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+        "publishedAt": "2026-11-05T09:46:15Z"
+      },
+      {
+        "id": "f73123f02a1e40e2229f",
+        "title": "Eisenkot backed by more than half of Knesset but Herzog still unsure who should be prime minister",
+        "summary": "以色列总统赫尔佐格称尚不确定谁应出任总理，尽管反对派候选人获议会多数支持。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+        "publishedAt": "2026-11-05T10:13:01Z"
       }
     ]
   }
