@@ -1,100 +1,124 @@
 {
   "version": 1,
   "date": "2026-11-06",
-  "generatedAt": "2026-11-05T23:37:24Z",
+  "generatedAt": "2026-11-06T06:38:38Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点涵盖美股AI监管担忧引发的历史性抛售、2027年放假安排、美国中期选举后政局变动、检察机关对马兴瑞提起公诉，以及世界互联网大会乌镇峰会闭幕等议题。",
+    "overview": "美股AI概念股遭历史性抛售，纳指重挫逾5%，芯片指数大跌，拖累亚太与欧美市场；2027年放假安排出炉，春节连休9天；余艳红主动投案被查；进博会聚焦养老与未来生活；存款利率、宽基ETF等资金动向受关注。",
     "items": [
       {
-        "id": "3406f2554bbd08be31e6",
-        "title": "美股收盘：AI监管担忧引爆历史性抛售！纳指暴跌5.5% 七巨头市值蒸发1万亿美元",
-        "summary": "美股因AI监管担忧遭历史性抛售，纳指暴跌5.5%，科技七巨头市值蒸发1万亿美元。",
+        "id": "d12336648b94579f37f5",
+        "title": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指数”飙升",
+        "summary": "美股AI概念遭历史性抛售，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，恐慌指数飙升。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785235",
+        "publishedAt": "2026-11-06T06:38:38Z"
+      },
+      {
+        "id": "e5a13cc249b7d6761611",
+        "title": "【早报】深夜闪崩，美股现史诗级抛售；费城半导体指数重挫12%，创2020年来最大跌幅；国际油价，大幅走高",
+        "summary": "美股深夜闪崩现史诗级抛售，费城半导体指数重挫12%创2020年来最大跌幅，国际油价大幅走高。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2526796",
-        "publishedAt": "2026-11-05T23:37:24Z"
+        "url": "https://www.cls.cn/detail/2526813",
+        "publishedAt": "2026-11-06T06:38:38Z"
+      },
+      {
+        "id": "f96a81fb8442a2cfeaa7",
+        "title": "科技股抛售潮席卷亚太股市，韩股暴跌近9%触发熔断，日经跌破6万点、步入技术性熊市",
+        "summary": "科技股抛售潮席卷亚太，韩股暴跌近9%触发熔断，日经跌破6万点步入技术性熊市。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785315",
+        "publishedAt": "2026-11-06T06:38:38Z"
       },
       {
         "id": "3cf290114df0ddeb7b10",
         "title": "2027年放假安排出炉：9天超长春节假期点燃旅游市场，已有旅客下单除夕前一日机票",
-        "summary": "2027年放假安排出炉：春节假期长达9天，调休减少，旅游市场迅速升温。",
+        "summary": "2027年放假安排出炉，9天超长春节假期点燃旅游市场，已有旅客下单除夕前一日机票。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34414459",
-        "publishedAt": "2026-11-05T23:37:24Z"
+        "publishedAt": "2026-11-06T06:38:38Z"
       },
       {
-        "id": "136d9ef8acdbca1fda8c",
-        "title": "检察机关依法对马兴瑞涉嫌受贿案提起公诉",
-        "summary": "检察机关依法对马兴瑞涉嫌受贿案提起公诉。",
+        "id": "77838d5b0b148516ad94",
+        "title": "2027年放假安排出炉：调休减少，9天超长春节假期即将回归",
+        "summary": "2027年放假安排公布：调休减少，9天超长春节假期回归，公众获得更连贯休假。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34410162",
-        "publishedAt": "2026-11-05T23:37:24Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34412735",
+        "publishedAt": "2026-11-06T06:38:38Z"
       },
       {
-        "id": "d7ef76e464f9b3d0b272",
-        "title": "世界互联网大会乌镇峰会今天闭幕",
-        "summary": "世界互联网大会乌镇峰会今日闭幕，聚焦数字经济与科技合作。",
+        "id": "77d6baf1331b678cefdb",
+        "title": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案",
+        "summary": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案，接受审查调查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34418620",
+        "publishedAt": "2026-11-06T06:38:38Z"
+      },
+      {
+        "id": "aa440892ad79216ae944",
+        "title": "“女老虎”余艳红主动投案被查",
+        "summary": "“女老虎”余艳红主动投案被查，曾任国家卫健委党组成员、国家中医药管理局局长。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7703728356663050249/",
-        "publishedAt": "2026-11-05T23:37:24Z"
+        "url": "https://www.toutiao.com/trending/7704541934211104831/",
+        "publishedAt": "2026-11-06T06:38:38Z"
       },
       {
-        "id": "26b345a06ab3e49138b2",
-        "title": "普京签令临时接管日本烟草在俄工厂",
-        "summary": "普京签令临时接管日本烟草在俄工厂，日俄关系再添变数。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704680493241090611/",
-        "publishedAt": "2026-11-05T23:37:24Z"
-      },
-      {
-        "id": "b6c5364773eff8450b26",
-        "title": "参保人数减少8300万？医保局回应",
-        "summary": "针对参保人数减少8300万的说法，国家医保局回应称统计口径变化所致。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704612422140641843/",
-        "publishedAt": "2026-11-05T23:37:24Z"
-      },
-      {
-        "id": "f973cf87373286ed8661",
-        "title": "外交部回应美国中期选举之后的中美关系",
-        "summary": "外交部回应美国中期选举后的中美关系，强调愿推动两国关系健康稳定发展。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xo2kpJhXm0",
-        "publishedAt": "2026-11-05T23:37:24Z"
-      },
-      {
-        "id": "8d6375fb600c375932a9",
-        "title": "东风-61，已列装火箭军",
-        "summary": "东风-61导弹已列装火箭军，提升战略威慑能力。",
+        "id": "cf3d9c35ef083f733d9b",
+        "title": "宽基ETF规模持续飙升，6只触顶千亿，哪些资金在跑步入场？",
+        "summary": "宽基ETF规模持续飙升，6只产品规模触顶千亿，市场关注哪些资金正在跑步入场。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2526637",
-        "publishedAt": "2026-11-05T23:37:24Z"
+        "url": "https://www.cls.cn/detail/2527075",
+        "publishedAt": "2026-11-06T06:38:38Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括民主党中期选举夺回两院多数、全球科技股暴跌、欧洲多国航班遭炸弹威胁、法国大规模抗议、巴拉圭总统因银行危机辞职，以及加州州长减刑死囚等事件。",
+    "overview": "美国中期选举民主党夺回国会两院，被视为对特朗普的否定，并波及AI与数据中心政策预期；巴拉圭总统因银行危机辞职并遭弹劾；欧洲多地航班遭炸弹威胁；法国大规模抗议生活成本；英国央行三年多来首次加息。",
     "items": [
       {
         "id": "5bcdb610f0a3eea0404d",
         "title": "Democrats take House and Senate from Republicans in US midterm rout",
-        "summary": "民主党在中期选举中夺回国会两院控制权，被视为对特朗普的否定。",
+        "summary": "民主党在中期选举中夺回国会两院控制权，被视为选民对特朗普的否定。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-11-04T15:04:00Z"
       },
       {
-        "id": "7a7c2f67c129d9b9bd84",
-        "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
-        "summary": "纳斯达克指数暴跌5.5%，创18个月最大跌幅，AI监管担忧引发科技股抛售。",
+        "id": "2b955078a3a4bbeda764",
+        "title": "Did a data centre revolt affect the US mid-term election results?",
+        "summary": "BBC核查数据中心争议是否影响美国中期选举结果，以及反AI情绪对行业的冲击。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-05T22:01:13Z"
+      },
+      {
+        "id": "b65eda6a0053197fc130",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "summary": "受美国中期选举及AI监管趋严预期影响，全球科技股大跌，市场担忧数据中心建设放缓。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-05T22:00:59Z"
+      },
+      {
+        "id": "73fd96f446b6e83dd7df",
+        "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+        "summary": "巴拉圭总统培尼亚因银行危机致民众储蓄冻结而辞职，该国金融体系近日崩溃。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-        "publishedAt": "2026-11-05T13:23:18Z"
+        "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+        "publishedAt": "2026-11-05T22:16:22Z"
+      },
+      {
+        "id": "3f610c2f511426545c2c",
+        "title": "Paraguay’s president impeached amid bank collapse crisis",
+        "summary": "巴拉圭议会在银行倒闭危机中投票弹劾总统培尼亚，该国金融动荡持续发酵。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+        "publishedAt": "2026-11-05T19:49:33Z"
       },
       {
         "id": "94d278703aec70f718e2",
         "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
-        "summary": "欧洲至少25架航班遭炸弹威胁，被迫紧急降落或改道，引发混合战争担忧。",
+        "summary": "欧洲至少25架航班遭炸弹威胁，被迫紧急降落或改道，引发对混合战争的担忧。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
         "publishedAt": "2026-11-05T10:17:36Z"
@@ -102,42 +126,18 @@
       {
         "id": "47cdf57f0987d72f76ee",
         "title": "France: More than 600,000 protest as anger grows over cost of living",
-        "summary": "法国超60万人抗议生活成本高涨，工会组织全国罢工，多地示威。",
+        "summary": "法国超60万人抗议生活成本高涨，工会组织全国罢工，多地爆发示威。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-11-05T09:51:00Z"
       },
       {
-        "id": "204bce23f0792403caf8",
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "summary": "巴拉圭总统培尼亚因银行倒闭危机辞职，随后遭议会弹劾。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-05T09:40:40Z"
-      },
-      {
-        "id": "0c93a8f7aa36df8313dd",
-        "title": "Gavin Newsom commutes sentences of all death row inmates in California",
-        "summary": "加州州长纽森赦免该州548名死囚的死刑，改判终身监禁不得假释。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-05T12:04:00Z"
-      },
-      {
         "id": "1c55ffd0e51a9cb3e2db",
         "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-        "summary": "英国央行三年多来首次加息，将基准利率上调至4%，并暗示可能进一步收紧。",
+        "summary": "英国央行三年多来首次加息，基准利率上调至4%，并暗示可能进一步收紧。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
         "publishedAt": "2026-11-05T09:46:15Z"
-      },
-      {
-        "id": "f73123f02a1e40e2229f",
-        "title": "Eisenkot backed by more than half of Knesset but Herzog still unsure who should be prime minister",
-        "summary": "以色列总统赫尔佐格称尚不确定谁应出任总理，尽管反对派候选人获议会多数支持。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
-        "publishedAt": "2026-11-05T10:13:01Z"
       }
     ]
   }
