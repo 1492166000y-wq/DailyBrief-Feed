@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T06:38:38Z",
-  "generationMode": "ai",
+  "generatedAt": "2026-11-06T15:55:11Z",
+  "generationMode": "rules_fallback",
   "domestic": {
-    "overview": "美股AI概念股遭历史性抛售，纳指重挫逾5%，芯片指数大跌，拖累亚太与欧美市场；2027年放假安排出炉，春节连休9天；余艳红主动投案被查；进博会聚焦养老与未来生活；存款利率、宽基ETF等资金动向受关注。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
+      {
+        "id": "25631192221be99ae530",
+        "title": "女子带娃仅点6元豆芽连吃7碗米饭",
+        "summary": "女子带娃仅点6元豆芽连吃7碗米饭",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7704842467703570953/",
+        "publishedAt": "2026-11-06T15:55:11Z"
+      },
+      {
+        "id": "8cf39e4467c9e7530bbd",
+        "title": "残疾人证怎么成了生意",
+        "summary": "残疾人证怎么成了生意",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%AE%8B%E7%96%BE%E4%BA%BA%E8%AF%81%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E7%94%9F%E6%84%8F",
+        "publishedAt": "2026-11-06T15:55:11Z"
+      },
       {
         "id": "d12336648b94579f37f5",
         "title": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指数”飙升",
-        "summary": "美股AI概念遭历史性抛售，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，恐慌指数飙升。",
+        "summary": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指数”飙升",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785235",
-        "publishedAt": "2026-11-06T06:38:38Z"
-      },
-      {
-        "id": "e5a13cc249b7d6761611",
-        "title": "【早报】深夜闪崩，美股现史诗级抛售；费城半导体指数重挫12%，创2020年来最大跌幅；国际油价，大幅走高",
-        "summary": "美股深夜闪崩现史诗级抛售，费城半导体指数重挫12%创2020年来最大跌幅，国际油价大幅走高。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2526813",
-        "publishedAt": "2026-11-06T06:38:38Z"
-      },
-      {
-        "id": "f96a81fb8442a2cfeaa7",
-        "title": "科技股抛售潮席卷亚太股市，韩股暴跌近9%触发熔断，日经跌破6万点、步入技术性熊市",
-        "summary": "科技股抛售潮席卷亚太，韩股暴跌近9%触发熔断，日经跌破6万点步入技术性熊市。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785315",
-        "publishedAt": "2026-11-06T06:38:38Z"
-      },
-      {
-        "id": "3cf290114df0ddeb7b10",
-        "title": "2027年放假安排出炉：9天超长春节假期点燃旅游市场，已有旅客下单除夕前一日机票",
-        "summary": "2027年放假安排出炉，9天超长春节假期点燃旅游市场，已有旅客下单除夕前一日机票。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34414459",
-        "publishedAt": "2026-11-06T06:38:38Z"
-      },
-      {
-        "id": "77838d5b0b148516ad94",
-        "title": "2027年放假安排出炉：调休减少，9天超长春节假期即将回归",
-        "summary": "2027年放假安排公布：调休减少，9天超长春节假期回归，公众获得更连贯休假。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34412735",
-        "publishedAt": "2026-11-06T06:38:38Z"
+        "publishedAt": "2026-11-06T15:55:11Z"
       },
       {
         "id": "77d6baf1331b678cefdb",
         "title": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案",
-        "summary": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案，接受审查调查。",
+        "summary": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34418620",
-        "publishedAt": "2026-11-06T06:38:38Z"
+        "publishedAt": "2026-11-06T15:55:11Z"
       },
       {
-        "id": "aa440892ad79216ae944",
-        "title": "“女老虎”余艳红主动投案被查",
-        "summary": "“女老虎”余艳红主动投案被查，曾任国家卫健委党组成员、国家中医药管理局局长。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704541934211104831/",
-        "publishedAt": "2026-11-06T06:38:38Z"
-      },
-      {
-        "id": "cf3d9c35ef083f733d9b",
-        "title": "宽基ETF规模持续飙升，6只触顶千亿，哪些资金在跑步入场？",
-        "summary": "宽基ETF规模持续飙升，6只产品规模触顶千亿，市场关注哪些资金正在跑步入场。",
+        "id": "25485111e6af91a435a9",
+        "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+        "summary": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2527075",
-        "publishedAt": "2026-11-06T06:38:38Z"
+        "url": "https://www.cls.cn/detail/2527772",
+        "publishedAt": "2026-11-06T15:55:11Z"
+      },
+      {
+        "id": "b0a024e1ffb51a2aee23",
+        "title": "美以已做好打击准备，伊朗外长紧急连线6国",
+        "summary": "美以已做好打击准备，伊朗外长紧急连线6国",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8xpoaSSvEl8",
+        "publishedAt": "2026-11-06T15:55:11Z"
+      },
+      {
+        "id": "403113f2d3ca4234190a",
+        "title": "后会友期综史一",
+        "summary": "后会友期综史一",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BB%BC%E5%8F%B2%E4%B8%80%23",
+        "publishedAt": "2026-11-06T15:55:11Z"
+      },
+      {
+        "id": "eb6ff85517776ab21968",
+        "title": "上海原市长龚正等12名正部履新职",
+        "summary": "上海原市长龚正等12名正部履新职",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7704959725117210662/",
+        "publishedAt": "2026-11-06T15:55:11Z"
       }
     ]
   },
   "global": {
-    "overview": "美国中期选举民主党夺回国会两院，被视为对特朗普的否定，并波及AI与数据中心政策预期；巴拉圭总统因银行危机辞职并遭弹劾；欧洲多地航班遭炸弹威胁；法国大规模抗议生活成本；英国央行三年多来首次加息。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "5bcdb610f0a3eea0404d",
-        "title": "Democrats take House and Senate from Republicans in US midterm rout",
-        "summary": "民主党在中期选举中夺回国会两院控制权，被视为选民对特朗普的否定。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-04T15:04:00Z"
-      },
-      {
-        "id": "2b955078a3a4bbeda764",
-        "title": "Did a data centre revolt affect the US mid-term election results?",
-        "summary": "BBC核查数据中心争议是否影响美国中期选举结果，以及反AI情绪对行业的冲击。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-05T22:01:13Z"
-      },
-      {
-        "id": "b65eda6a0053197fc130",
-        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-        "summary": "受美国中期选举及AI监管趋严预期影响，全球科技股大跌，市场担忧数据中心建设放缓。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-05T22:00:59Z"
-      },
-      {
-        "id": "73fd96f446b6e83dd7df",
-        "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-        "summary": "巴拉圭总统培尼亚因银行危机致民众储蓄冻结而辞职，该国金融体系近日崩溃。",
+        "id": "2adc1a5efbb4c8402a84",
+        "title": "Police chief condemns ‘terrifying’ Bonfire Night violence across Scotland",
+        "summary": "Multiple arrests, emergency services targeted and police van set alight while di",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-        "publishedAt": "2026-11-05T22:16:22Z"
+        "url": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
+        "publishedAt": "2026-11-06T07:38:33Z"
       },
       {
-        "id": "3f610c2f511426545c2c",
-        "title": "Paraguay’s president impeached amid bank collapse crisis",
-        "summary": "巴拉圭议会在银行倒闭危机中投票弹劾总统培尼亚，该国金融动荡持续发酵。",
+        "id": "548003bfaca334c1a15d",
+        "title": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – UK politics live",
+        "summary": "Health secretary Yvette Cooper has faced calls to axe US tech firm’s contract to",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
+        "publishedAt": "2026-11-06T07:38:22Z"
+      },
+      {
+        "id": "578c19a2a472f8ff9ea1",
+        "title": "Two dead after bus crashes in France, officials say",
+        "summary": "One child and one young adult were killed in the crash, local authorities say, w",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-06T07:33:52Z"
+      },
+      {
+        "id": "d00e99de6f1f207baf28",
+        "title": "Fact check: Three viral Iran war posts debunked",
+        "summary": "In the wake of the new US attack on Iran, social media is awash with dramatic im",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-06T07:29:00Z"
+      },
+      {
+        "id": "e24d3c29d956ded37c79",
+        "title": "‘I feel free now’: Shabana Mahmood’s immigration shake-up provokes mixed emotions",
+        "summary": "Some relatives of British citizens say they feel left behind, but announcement h",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/06/shabana-mahmood-uk-immigration-shakeup-reaction",
+        "publishedAt": "2026-11-06T07:28:18Z"
+      },
+      {
+        "id": "120fb4784521c32facea",
+        "title": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
+        "summary": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blu",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+        "publishedAt": "2026-11-06T07:27:32Z"
+      },
+      {
+        "id": "ff2f49ee60801ded8714",
+        "title": "New wave of bomb threats hit European airlines",
+        "summary": "No link has been established between the threats against the airlines and those ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-06T07:25:35Z"
+      },
+      {
+        "id": "692d3410a410f4c863dd",
+        "title": "New bomb threats target European broadcasters, air traffic",
+        "summary": "A string of hoax alerts causing flight diversions across Europe this week has br",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
-        "publishedAt": "2026-11-05T19:49:33Z"
-      },
-      {
-        "id": "94d278703aec70f718e2",
-        "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
-        "summary": "欧洲至少25架航班遭炸弹威胁，被迫紧急降落或改道，引发对混合战争的担忧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-        "publishedAt": "2026-11-05T10:17:36Z"
-      },
-      {
-        "id": "47cdf57f0987d72f76ee",
-        "title": "France: More than 600,000 protest as anger grows over cost of living",
-        "summary": "法国超60万人抗议生活成本高涨，工会组织全国罢工，多地爆发示威。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-05T09:51:00Z"
-      },
-      {
-        "id": "1c55ffd0e51a9cb3e2db",
-        "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-        "summary": "英国央行三年多来首次加息，基准利率上调至4%，并暗示可能进一步收紧。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-        "publishedAt": "2026-11-05T09:46:15Z"
+        "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
+        "publishedAt": "2026-11-06T07:24:54Z"
       }
     ]
   }
