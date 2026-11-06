@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T15:55:11Z",
-  "generationMode": "rules_fallback",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T21:29:10Z",
+  "generationMode": "ai",
   "domestic": {
-    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
+    "overview": "国内外市场巨震：美股科技股遭抛售，A股与政策面同步发力。国常会部署资本市场稳市机制，多名省部级干部调整，医药领域反腐持续推进。进博会与消费、存款数据折射经济运行态势。",
     "items": [
       {
-        "id": "25631192221be99ae530",
-        "title": "女子带娃仅点6元豆芽连吃7碗米饭",
-        "summary": "女子带娃仅点6元豆芽连吃7碗米饭",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704842467703570953/",
-        "publishedAt": "2026-11-06T15:55:11Z"
-      },
-      {
-        "id": "8cf39e4467c9e7530bbd",
-        "title": "残疾人证怎么成了生意",
-        "summary": "残疾人证怎么成了生意",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%AE%8B%E7%96%BE%E4%BA%BA%E8%AF%81%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E7%94%9F%E6%84%8F",
-        "publishedAt": "2026-11-06T15:55:11Z"
+        "id": "25485111e6af91a435a9",
+        "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+        "summary": "国常会部署完善资本市场稳市机制，旨在增强股市内在稳定性，释放政策托底信号。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2527772",
+        "publishedAt": "2026-11-06T21:29:10Z"
       },
       {
         "id": "d12336648b94579f37f5",
         "title": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指数”飙升",
-        "summary": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指数”飙升",
+        "summary": "美股科技股遭大幅抛售，纳指重挫超5%，芯片指数跌12%，恐慌指数飙升。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785235",
-        "publishedAt": "2026-11-06T15:55:11Z"
+        "publishedAt": "2026-11-06T21:29:10Z"
       },
       {
         "id": "77d6baf1331b678cefdb",
         "title": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案",
-        "summary": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案",
+        "summary": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案，接受审查调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34418620",
-        "publishedAt": "2026-11-06T15:55:11Z"
-      },
-      {
-        "id": "25485111e6af91a435a9",
-        "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
-        "summary": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2527772",
-        "publishedAt": "2026-11-06T15:55:11Z"
-      },
-      {
-        "id": "b0a024e1ffb51a2aee23",
-        "title": "美以已做好打击准备，伊朗外长紧急连线6国",
-        "summary": "美以已做好打击准备，伊朗外长紧急连线6国",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8xpoaSSvEl8",
-        "publishedAt": "2026-11-06T15:55:11Z"
-      },
-      {
-        "id": "403113f2d3ca4234190a",
-        "title": "后会友期综史一",
-        "summary": "后会友期综史一",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BB%BC%E5%8F%B2%E4%B8%80%23",
-        "publishedAt": "2026-11-06T15:55:11Z"
+        "publishedAt": "2026-11-06T21:29:10Z"
       },
       {
         "id": "eb6ff85517776ab21968",
         "title": "上海原市长龚正等12名正部履新职",
-        "summary": "上海原市长龚正等12名正部履新职",
+        "summary": "上海原市长龚正等12名正部级干部履新，涉及多个中央和地方重要岗位调整。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7704959725117210662/",
-        "publishedAt": "2026-11-06T15:55:11Z"
+        "publishedAt": "2026-11-06T21:29:10Z"
+      },
+      {
+        "id": "70f9a387ff6ea7beef71",
+        "title": "李乐成被免去工信部部长职务",
+        "summary": "全国人大常委会决定免去李乐成工业和信息化部部长职务，人事调整落地。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7705011144318026249/",
+        "publishedAt": "2026-11-06T21:29:10Z"
+      },
+      {
+        "id": "6d37f23b62aea0530afa",
+        "title": "券商开启“买买买”模式，第三批互换便利带动700亿资金入市",
+        "summary": "券商启动第三批互换便利操作，带动约700亿元资金入市，资本市场流动性获补充。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2527741",
+        "publishedAt": "2026-11-06T21:29:10Z"
+      },
+      {
+        "id": "563dd4af8782edabc589",
+        "title": "A股回购队伍再扩容，洛阳钼业拟最高20亿元回购股份",
+        "summary": "A股回购队伍扩容，洛阳钼业拟最高20亿元回购股份，上市公司维稳动作增多。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2527708",
+        "publishedAt": "2026-11-06T21:29:10Z"
+      },
+      {
+        "id": "d1dc53b0e83ef56a4567",
+        "title": "一组数据感受中国经济强劲脉动",
+        "summary": "一组经济数据发布，显示中国经济运行保持强劲脉动，产业与消费指标受关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7704831444698484259/",
+        "publishedAt": "2026-11-06T21:29:10Z"
       }
     ]
   },
   "global": {
-    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
+    "overview": "美国中期选举后全球市场震荡，AI股先跌后反弹，民主党拟加强调查与数据中心监管。特朗普任命斯蒂芬·米勒为白宫幕僚长，欧洲多国遭炸弹威胁，巴拉圭银行业危机引发政治动荡。",
     "items": [
       {
-        "id": "2adc1a5efbb4c8402a84",
-        "title": "Police chief condemns ‘terrifying’ Bonfire Night violence across Scotland",
-        "summary": "Multiple arrests, emergency services targeted and police van set alight while di",
+        "id": "741b4e4cdc2f17bbddf1",
+        "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+        "summary": "民主党中期选举大胜后，市场对AI前景担忧加剧，欧美亚股市普遍下挫。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
-        "publishedAt": "2026-11-06T07:38:33Z"
+        "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+        "publishedAt": "2026-11-06T13:23:54Z"
       },
       {
-        "id": "548003bfaca334c1a15d",
-        "title": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – UK politics live",
-        "summary": "Health secretary Yvette Cooper has faced calls to axe US tech firm’s contract to",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-        "publishedAt": "2026-11-06T07:38:22Z"
-      },
-      {
-        "id": "578c19a2a472f8ff9ea1",
-        "title": "Two dead after bus crashes in France, officials say",
-        "summary": "One child and one young adult were killed in the crash, local authorities say, w",
+        "id": "b1300f3c21cd0b19b9fc",
+        "title": "AI stocks climb after trillions wiped from market values",
+        "summary": "此前市值蒸发数万亿美元后，AI相关股票出现反弹，投资者情绪有所修复。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-06T07:33:52Z"
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-06T13:06:25Z"
       },
       {
-        "id": "d00e99de6f1f207baf28",
-        "title": "Fact check: Three viral Iran war posts debunked",
-        "summary": "In the wake of the new US attack on Iran, social media is awash with dramatic im",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-06T07:29:00Z"
-      },
-      {
-        "id": "e24d3c29d956ded37c79",
-        "title": "‘I feel free now’: Shabana Mahmood’s immigration shake-up provokes mixed emotions",
-        "summary": "Some relatives of British citizens say they feel left behind, but announcement h",
+        "id": "bb9898d9cba7f086abb7",
+        "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+        "summary": "特朗普任命移民强硬派斯蒂芬·米勒为白宫幕僚长，接替苏茜·怀尔斯。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/06/shabana-mahmood-uk-immigration-shakeup-reaction",
-        "publishedAt": "2026-11-06T07:28:18Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+        "publishedAt": "2026-11-06T12:06:11Z"
       },
       {
-        "id": "120fb4784521c32facea",
-        "title": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
-        "summary": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blu",
+        "id": "06824090ef7c71fe001d",
+        "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+        "summary": "民主党人批评特朗普任命米勒，舒默称其未从期中选举失败中吸取教训。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-        "publishedAt": "2026-11-06T07:27:32Z"
+        "publishedAt": "2026-11-06T13:03:08Z"
       },
       {
-        "id": "ff2f49ee60801ded8714",
-        "title": "New wave of bomb threats hit European airlines",
-        "summary": "No link has been established between the threats against the airlines and those ",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-06T07:25:35Z"
+        "id": "ce966e824b8af39bc679",
+        "title": "Several Democrats renew calls for datacenter pauses after blue wave",
+        "summary": "中期选举后多名民主党人及桑德斯再呼吁暂停数据中心建设，AI基建或受阻。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
+        "publishedAt": "2026-11-06T13:14:46Z"
       },
       {
-        "id": "692d3410a410f4c863dd",
-        "title": "New bomb threats target European broadcasters, air traffic",
-        "summary": "A string of hoax alerts causing flight diversions across Europe this week has br",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
-        "publishedAt": "2026-11-06T07:24:54Z"
+        "id": "8ff897b32cf2b6405de3",
+        "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+        "summary": "活动人士闯入阿姆斯特丹微软数据中心工地，欧洲反对AI能耗与用水扩张抗议蔓延。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+        "publishedAt": "2026-11-06T10:51:37Z"
+      },
+      {
+        "id": "ced0f6d8561c76047d7d",
+        "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+        "summary": "欧洲再遭新一轮炸弹威胁，至少18个航班受影响，爱尔兰和英国媒体机构亦受波及。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+        "publishedAt": "2026-11-06T09:14:31Z"
+      },
+      {
+        "id": "735d216c1c1e063fa25e",
+        "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+        "summary": "巴拉圭Ueno银行倒闭引发金融与政治危机，总统培尼亚面临弹劾程序。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-06T12:23:00Z"
       }
     ]
   }
