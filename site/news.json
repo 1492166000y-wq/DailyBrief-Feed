@@ -1,26 +1,34 @@
 {
   "version": 1,
   "date": "2026-11-07",
-  "generatedAt": "2026-11-06T21:29:10Z",
+  "generatedAt": "2026-11-07T01:54:50Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内外市场巨震：美股科技股遭抛售，A股与政策面同步发力。国常会部署资本市场稳市机制，多名省部级干部调整，医药领域反腐持续推进。进博会与消费、存款数据折射经济运行态势。",
+    "overview": "今日国内要闻聚焦中美经贸摩擦、资本市场稳市机制及多项产业与科技进展，同时涉及反腐、金融监管和公共安全等议题。",
     "items": [
+      {
+        "id": "15edc1b7cab078294e17",
+        "title": "中方就美对华经贸限制表达严正关切",
+        "summary": "中方就美对华经贸限制表达严正关切，要求美方纠正错误做法，维护双边经贸关系稳定。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7705213174345109002/",
+        "publishedAt": "2026-11-07T01:54:50Z"
+      },
       {
         "id": "25485111e6af91a435a9",
         "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
-        "summary": "国常会部署完善资本市场稳市机制，旨在增强股市内在稳定性，释放政策托底信号。",
+        "summary": "国常会部署完善资本市场稳市机制，增强股市内在稳定性，释放政策托底信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2527772",
-        "publishedAt": "2026-11-06T21:29:10Z"
+        "publishedAt": "2026-11-07T01:54:50Z"
       },
       {
-        "id": "d12336648b94579f37f5",
-        "title": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指数”飙升",
-        "summary": "美股科技股遭大幅抛售，纳指重挫超5%，芯片指数跌12%，恐慌指数飙升。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785235",
-        "publishedAt": "2026-11-06T21:29:10Z"
+        "id": "1621768453960c94841d",
+        "title": "美国先减关税、中国再履行农产品采购承诺？外交部回应",
+        "summary": "外交部回应美方先减关税、中方再履行农产品采购承诺的说法，阐明中方立场。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xpiCKtKfgT",
+        "publishedAt": "2026-11-07T01:54:50Z"
       },
       {
         "id": "77d6baf1331b678cefdb",
@@ -28,116 +36,108 @@
         "summary": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案，接受审查调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34418620",
-        "publishedAt": "2026-11-06T21:29:10Z"
-      },
-      {
-        "id": "eb6ff85517776ab21968",
-        "title": "上海原市长龚正等12名正部履新职",
-        "summary": "上海原市长龚正等12名正部级干部履新，涉及多个中央和地方重要岗位调整。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704959725117210662/",
-        "publishedAt": "2026-11-06T21:29:10Z"
-      },
-      {
-        "id": "70f9a387ff6ea7beef71",
-        "title": "李乐成被免去工信部部长职务",
-        "summary": "全国人大常委会决定免去李乐成工业和信息化部部长职务，人事调整落地。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7705011144318026249/",
-        "publishedAt": "2026-11-06T21:29:10Z"
+        "publishedAt": "2026-11-07T01:54:50Z"
       },
       {
         "id": "6d37f23b62aea0530afa",
         "title": "券商开启“买买买”模式，第三批互换便利带动700亿资金入市",
-        "summary": "券商启动第三批互换便利操作，带动约700亿元资金入市，资本市场流动性获补充。",
+        "summary": "券商启动第三批互换便利操作，带动约700亿元资金入市，助力资本市场流动性。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2527741",
-        "publishedAt": "2026-11-06T21:29:10Z"
+        "publishedAt": "2026-11-07T01:54:50Z"
       },
       {
-        "id": "563dd4af8782edabc589",
-        "title": "A股回购队伍再扩容，洛阳钼业拟最高20亿元回购股份",
-        "summary": "A股回购队伍扩容，洛阳钼业拟最高20亿元回购股份，上市公司维稳动作增多。",
+        "id": "b0d82dd53643e92d6340",
+        "title": "深交所优化创业板指编制方案，采用“分级靠档”机制设置权重上限",
+        "summary": "深交所优化创业板指编制方案，采用分级靠档机制设置权重上限，提升指数代表性。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2527708",
-        "publishedAt": "2026-11-06T21:29:10Z"
+        "url": "https://www.cls.cn/detail/2527713",
+        "publishedAt": "2026-11-07T01:54:50Z"
       },
       {
-        "id": "d1dc53b0e83ef56a4567",
-        "title": "一组数据感受中国经济强劲脉动",
-        "summary": "一组经济数据发布，显示中国经济运行保持强劲脉动，产业与消费指标受关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704831444698484259/",
-        "publishedAt": "2026-11-06T21:29:10Z"
+        "id": "cc2e04dc0dfe852cd5be",
+        "title": "讲武谈兵｜四川舰首次起降无人机，无人机航母时代来了？",
+        "summary": "四川舰首次起降无人机，引发对无人机航母作战模式及海军装备发展的关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34413980",
+        "publishedAt": "2026-11-07T01:54:50Z"
+      },
+      {
+        "id": "5298837ee56b5dd2d73f",
+        "title": "先创业后离职，口述配方指导生产，新宙邦前高管侵犯商业秘密：赔偿2000万后被判刑",
+        "summary": "新宙邦前高管侵犯商业秘密，口述配方指导生产，赔偿2000万元后被判刑。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34422851",
+        "publishedAt": "2026-11-07T01:54:50Z"
       }
     ]
   },
   "global": {
-    "overview": "美国中期选举后全球市场震荡，AI股先跌后反弹，民主党拟加强调查与数据中心监管。特朗普任命斯蒂芬·米勒为白宫幕僚长，欧洲多国遭炸弹威胁，巴拉圭银行业危机引发政治动荡。",
+    "overview": "国际方面，美国白宫人事变动与中期选举后续影响持续发酵，欧洲AI投资与航班安全风险、巴拉圭银行危机等事件值得关注。",
     "items": [
+      {
+        "id": "bb9898d9cba7f086abb7",
+        "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+        "summary": "特朗普任命移民强硬派斯蒂芬·米勒为新任白宫办公厅主任，接替离任的威尔斯。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+        "publishedAt": "2026-11-06T17:38:06Z"
+      },
+      {
+        "id": "06824090ef7c71fe001d",
+        "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+        "summary": "民主党批评特朗普任命米勒，称其未从中期选举惨败中吸取教训，预示党争升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+        "publishedAt": "2026-11-06T17:08:08Z"
+      },
+      {
+        "id": "d181e47de0cc531d02df",
+        "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+        "summary": "白宫办公厅主任威尔斯离任，特朗普核心团队再失一名女性高层，领导层性别失衡引关注。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+        "publishedAt": "2026-11-06T14:35:09Z"
+      },
+      {
+        "id": "dc0ccdf015aaadae0fb5",
+        "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+        "summary": "巴拉圭总统培尼亚因Ueno银行倒闭危机被参议院解职，新总统阿利亚纳宣誓就职。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+        "publishedAt": "2026-11-06T16:31:41Z"
+      },
       {
         "id": "741b4e4cdc2f17bbddf1",
         "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-        "summary": "民主党中期选举大胜后，市场对AI前景担忧加剧，欧美亚股市普遍下挫。",
+        "summary": "民主党中期选举大胜引发AI泡沫担忧，全球股市下挫，科技股遭抛售。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
         "publishedAt": "2026-11-06T13:23:54Z"
       },
       {
-        "id": "b1300f3c21cd0b19b9fc",
-        "title": "AI stocks climb after trillions wiped from market values",
-        "summary": "此前市值蒸发数万亿美元后，AI相关股票出现反弹，投资者情绪有所修复。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-06T13:06:25Z"
-      },
-      {
-        "id": "bb9898d9cba7f086abb7",
-        "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-        "summary": "特朗普任命移民强硬派斯蒂芬·米勒为白宫幕僚长，接替苏茜·怀尔斯。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-        "publishedAt": "2026-11-06T12:06:11Z"
-      },
-      {
-        "id": "06824090ef7c71fe001d",
-        "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-        "summary": "民主党人批评特朗普任命米勒，舒默称其未从期中选举失败中吸取教训。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-        "publishedAt": "2026-11-06T13:03:08Z"
+        "id": "2fa4bdec61d92a67ad96",
+        "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+        "summary": "欧盟指控TikTok算法危害用户心理健康，要求整改并威胁处以罚款。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+        "publishedAt": "2026-11-06T15:33:28Z"
       },
       {
         "id": "ce966e824b8af39bc679",
         "title": "Several Democrats renew calls for datacenter pauses after blue wave",
-        "summary": "中期选举后多名民主党人及桑德斯再呼吁暂停数据中心建设，AI基建或受阻。",
+        "summary": "中期选举后多名民主党人呼吁暂停数据中心建设，美国AI基础设施扩张或受阻。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
         "publishedAt": "2026-11-06T13:14:46Z"
       },
       {
-        "id": "8ff897b32cf2b6405de3",
-        "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-        "summary": "活动人士闯入阿姆斯特丹微软数据中心工地，欧洲反对AI能耗与用水扩张抗议蔓延。",
+        "id": "78dfa6be1fc2799201f0",
+        "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+        "summary": "三名外籍人士被控利用AI冒充企业高管和律师诈骗逾亿美元，遭美国检方起诉。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-        "publishedAt": "2026-11-06T10:51:37Z"
-      },
-      {
-        "id": "ced0f6d8561c76047d7d",
-        "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-        "summary": "欧洲再遭新一轮炸弹威胁，至少18个航班受影响，爱尔兰和英国媒体机构亦受波及。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-        "publishedAt": "2026-11-06T09:14:31Z"
-      },
-      {
-        "id": "735d216c1c1e063fa25e",
-        "title": "Ueno Bank scandal plunges Paraguay into political crisis",
-        "summary": "巴拉圭Ueno银行倒闭引发金融与政治危机，总统培尼亚面临弹劾程序。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-06T12:23:00Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+        "publishedAt": "2026-11-06T13:20:49Z"
       }
     ]
   }
