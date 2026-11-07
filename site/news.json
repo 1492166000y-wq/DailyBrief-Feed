@@ -1,50 +1,42 @@
 {
   "version": 1,
   "date": "2026-11-08",
-  "generatedAt": "2026-11-07T16:25:05Z",
+  "generatedAt": "2026-11-07T21:47:27Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注强冷空气引发8省份大到暴雪及多地调整上学时间，同时货币政策与资本市场动态活跃：外汇储备连续7个月站稳3.4万亿美元，多家券商启动互换便利买入，美股AI概念股剧烈波动。此外，党的二十一大代表选举部署、航天成就、进博会及社会民生事件亦受关注。",
+    "overview": "国内聚焦极端天气预警、航天担当、金融与AI产业动态，以及政治议程和民生政策调整。",
     "items": [
       {
-        "id": "14f675810ec97fbd46c1",
-        "title": "8省份有大到暴雪 局地特大暴雪",
-        "summary": "强冷空气来袭，8省份出现大到暴雪、局地特大暴雪，需防范交通与农业影响。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=8%E7%9C%81%E4%BB%BD%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA+%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA",
-        "publishedAt": "2026-11-07T16:25:05Z"
-      },
-      {
-        "id": "a63edb192bbfdee1cc85",
-        "title": "多地官宣调整中小学上学时间",
-        "summary": "多地官宣调整中小学上学时间，涉及学生作息与家长接送安排。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704669314460271155/",
-        "publishedAt": "2026-11-07T16:25:05Z"
-      },
-      {
-        "id": "3097df0c8165358018cf",
-        "title": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备24连增",
-        "summary": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备实现24连增。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528084",
-        "publishedAt": "2026-11-07T16:25:05Z"
-      },
-      {
-        "id": "702e4c770fdf51150e33",
-        "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
-        "summary": "多家券商启动第三批互换便利首批股票买入，美股芯片股与中概股走强。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2527975",
-        "publishedAt": "2026-11-07T16:25:05Z"
+        "id": "daf50a76d0d76d0e3cda",
+        "title": "大风寒潮暴雪暴雨四预警齐发！8省份有大到暴雪，局地特大暴雪",
+        "summary": "大风寒潮暴雪暴雨四预警齐发，8省份有大到暴雪，局地特大暴雪。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34428591",
+        "publishedAt": "2026-11-07T21:47:27Z"
       },
       {
         "id": "4ab2484dd265218bab59",
         "title": "5.7万亿美元“灰飞烟灭”！一场“应已计价”的中选却引爆了“科技股灾”",
-        "summary": "中选结果触发科技股抛售，约5.7万亿美元市值蒸发，AI板块剧烈波动。",
+        "summary": "中期选举引科技股灾，5.7万亿美元市值蒸发，市场担忧AI泡沫。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785423",
-        "publishedAt": "2026-11-07T16:25:05Z"
+        "publishedAt": "2026-11-07T21:47:27Z"
+      },
+      {
+        "id": "99cad831677778a45eeb",
+        "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
+        "summary": "OpenAI融资与估值双双缩水，110亿美元首期款项据悉已到账。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2528016",
+        "publishedAt": "2026-11-07T21:47:27Z"
+      },
+      {
+        "id": "d93a531bca63e4ef473d",
+        "title": "微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌",
+        "summary": "微软收缩AI算力租赁，逐步退出甲骨文云协议，CoreWeave股价闪跌。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785404",
+        "publishedAt": "2026-11-07T21:47:27Z"
       },
       {
         "id": "33a824f48ab43e2f1913",
@@ -52,57 +44,65 @@
         "summary": "中共中央发出通知，部署党的二十一大代表选举工作。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34425774",
-        "publishedAt": "2026-11-07T16:25:05Z"
+        "publishedAt": "2026-11-07T21:47:27Z"
+      },
+      {
+        "id": "a63edb192bbfdee1cc85",
+        "title": "多地官宣调整中小学上学时间",
+        "summary": "多地官宣调整中小学上学时间，优化学生作息安排。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7704669314460271155/",
+        "publishedAt": "2026-11-07T21:47:27Z"
+      },
+      {
+        "id": "3097df0c8165358018cf",
+        "title": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备24连增",
+        "summary": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备24连增。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2528084",
+        "publishedAt": "2026-11-07T21:47:27Z"
       },
       {
         "id": "5e75e053f8fe780c76f3",
         "title": "马上评｜从这个“首次”看中国航天的大国担当",
-        "summary": "澎湃评论聚焦中国航天“首次”突破，强调大国担当与国际合作价值。",
+        "summary": "澎湃评中国航天“首次”突破，彰显大国担当与科技实力。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34426536",
-        "publishedAt": "2026-11-07T16:25:05Z"
-      },
-      {
-        "id": "d93a531bca63e4ef473d",
-        "title": "微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌",
-        "summary": "微软收缩AI算力租赁，据称逐步退出甲骨文云协议，CoreWeave股价闪跌。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785404",
-        "publishedAt": "2026-11-07T16:25:05Z"
+        "publishedAt": "2026-11-07T21:47:27Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在波兰克拉科夫枪击案致5死多伤、新西兰大选结果胶着难定组阁、美国中期选举后民主党大胜重塑政治版图，以及美伊冲突升级与谈判并行。特朗普任命强硬派米勒为白宫办公厅主任、全球AI泡沫担忧引发股市下挫、俄乌能源设施遭袭等事件持续发酵。",
+    "overview": "国际关注波兰枪击案、以色列组阁、法国抗议、美伊博弈及全球经济与科技局势。",
     "items": [
       {
-        "id": "6b1506873bfec2fcdbc4",
-        "title": "Poland: At least 5 killed in shooting in Krakow, police say",
-        "summary": "波兰克拉科夫集市广场发生枪击，至少5死约十余人伤，总理称警方正调查。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-07T07:38:00Z"
-      },
-      {
-        "id": "a5bbaa250e3b166a0c47",
-        "title": "No clear winner after tight New Zealand general election",
-        "summary": "新西兰大选初步计票胶着，无阵营过半，组阁谈判或持续数周。",
+        "id": "520eab092c1fa5b89233",
+        "title": "What we know so far after Krakow gun attack",
+        "summary": "波兰克拉科夫集市广场发生枪击，致6死16伤，嫌犯已被捕。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-07T07:56:28Z"
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-07T13:13:24Z"
       },
       {
-        "id": "741b4e4cdc2f17bbddf1",
-        "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-        "summary": "民主党中期选举大胜引发AI泡沫担忧，全球股市下挫，科技股遭抛售。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-        "publishedAt": "2026-11-06T13:23:54Z"
+        "id": "15a95ef819089f7240f0",
+        "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+        "summary": "以色列总统授权反对派领袖艾森科特组阁，内塔尼亚胡面临下台。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+        "publishedAt": "2026-11-07T12:26:58Z"
+      },
+      {
+        "id": "cff519a675e6b7c172d0",
+        "title": "More than 140,000 rally as new protests against rising costs sweep France",
+        "summary": "法国超14万人抗议生活成本上升，巴黎等地警民冲突。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+        "publishedAt": "2026-11-07T12:12:22Z"
       },
       {
         "id": "818f764f8cd3cf6eed9d",
         "title": "Trump confirms new US strikes on Iran’s Qeshm island",
-        "summary": "特朗普证实美军再次打击伊朗格什姆岛，同时称与德黑兰谈判有进展。",
+        "summary": "特朗普证实美军再次打击伊朗格什姆岛，同时称谈判有进展。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
         "publishedAt": "2026-11-06T19:53:01Z"
@@ -116,6 +116,14 @@
         "publishedAt": "2026-11-06T17:38:06Z"
       },
       {
+        "id": "7edc1387e2ba9cbfff93",
+        "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+        "summary": "俄军袭击乌能源设施，基辅等地停电停水，泽连斯基谴责。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+        "publishedAt": "2026-11-07T05:03:03Z"
+      },
+      {
         "id": "2fa4bdec61d92a67ad96",
         "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
         "summary": "欧盟指TikTok推荐算法危害用户心理健康，要求整改并威胁罚款。",
@@ -124,20 +132,12 @@
         "publishedAt": "2026-11-06T15:33:28Z"
       },
       {
-        "id": "7edc1387e2ba9cbfff93",
-        "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-        "summary": "俄军以无人机和导弹袭击乌能源设施，基辅等地停电停水，泽连斯基谴责。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-        "publishedAt": "2026-11-07T05:03:03Z"
-      },
-      {
-        "id": "dc0ccdf015aaadae0fb5",
-        "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-        "summary": "巴拉圭总统培尼亚因银行倒闭危机被解职，新总统阿利亚纳宣誓就职。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-        "publishedAt": "2026-11-06T16:31:41Z"
+        "id": "a5bbaa250e3b166a0c47",
+        "title": "No clear winner after tight New Zealand general election",
+        "summary": "新西兰大选初步计票胶着，无阵营过半，组阁谈判或持续数周。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-07T07:56:28Z"
       }
     ]
   }
