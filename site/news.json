@@ -1,87 +1,95 @@
 {
   "version": 1,
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T01:25:56Z",
+  "generatedAt": "2026-11-08T08:57:45Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注寒潮暴雪天气、中国航天担当、外汇储备与黄金增持、AI与科技股波动、以及华人骑手在澳遇害等事件。",
+    "overview": "今日国内要闻涵盖外资储备、进博会及恶劣天气等议题。",
     "items": [
-      {
-        "id": "daf50a76d0d76d0e3cda",
-        "title": "大风寒潮暴雪暴雨四预警齐发！8省份有大到暴雪，局地特大暴雪",
-        "summary": "大风寒潮暴雪暴雨四预警齐发，8省份有大到暴雪，局地特大暴雪。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34428591",
-        "publishedAt": "2026-11-08T01:25:56Z"
-      },
-      {
-        "id": "5e75e053f8fe780c76f3",
-        "title": "马上评｜从这个“首次”看中国航天的大国担当",
-        "summary": "澎湃评论从“首次”看中国航天的大国担当，肯定航天国际合作贡献。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34426536",
-        "publishedAt": "2026-11-08T01:25:56Z"
-      },
       {
         "id": "3097df0c8165358018cf",
         "title": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备24连增",
-        "summary": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备实现24连增。",
+        "summary": "我国外储规模连续7个月超3.4万亿美元，黄金储备实现24连增。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2528084",
-        "publishedAt": "2026-11-08T01:25:56Z"
+        "publishedAt": "2026-11-08T08:57:45Z"
       },
       {
-        "id": "4ab2484dd265218bab59",
-        "title": "5.7万亿美元“灰飞烟灭”！一场“应已计价”的中选却引爆了“科技股灾”",
-        "summary": "美国中期选举后科技股大跌，市值蒸发5.7万亿美元，市场震动。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785423",
-        "publishedAt": "2026-11-08T01:25:56Z"
-      },
-      {
-        "id": "d93a531bca63e4ef473d",
-        "title": "微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌",
-        "summary": "微软收缩AI算力租赁，据称逐步退出甲骨文云协议，CoreWeave股价闪跌。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785404",
-        "publishedAt": "2026-11-08T01:25:56Z"
-      },
-      {
-        "id": "99cad831677778a45eeb",
-        "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
-        "summary": "OpenAI融资与估值双双缩水，110亿美元首期款项据悉已到账。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528016",
-        "publishedAt": "2026-11-08T01:25:56Z"
-      },
-      {
-        "id": "19c575d2d08a241c19bc",
-        "title": "华人骑手在墨尔本遇害，中方与当地州长紧急通话要求公正处理此案",
-        "summary": "华人骑手在墨尔本遇害，中方与当地州长紧急通话要求公正处理。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34428369",
-        "publishedAt": "2026-11-08T01:25:56Z"
+        "id": "15ae0ff45077d23aac98",
+        "title": "新老朋友集中亮相进博会",
+        "summary": "第八届进博会新老朋友集中亮相，展示开放合作新机遇。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%80%81%E6%9C%8B%E5%8F%8B%E9%9B%86%E4%B8%AD%E4%BA%AE%E7%9B%B8%E8%BF%9B%E5%8D%9A%E4%BC%9A",
+        "publishedAt": "2026-11-08T08:57:45Z"
       },
       {
         "id": "d2a9cf819d41a44ff1a0",
         "title": "中方回应加美英等国发表涉黄之锋案所谓联合声明",
-        "summary": "中方回应加美英等国涉黄之锋案联合声明，表明严正立场。",
+        "summary": "中方回应加美英等国涉黄之锋案联合声明，阐明严正立场。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xsW6zjyjAH",
-        "publishedAt": "2026-11-08T01:25:56Z"
+        "publishedAt": "2026-11-08T08:57:45Z"
+      },
+      {
+        "id": "ef99d8f59a9d2b0d7f25",
+        "title": "月薪过万 社保缴费基数却是4000元",
+        "summary": "月薪过万社保缴费基数仅4000元现象引热议，凸显社保规范问题。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87+%E7%A4%BE%E4%BF%9D%E7%BC%B4%E8%B4%B9%E5%9F%BA%E6%95%B0%E5%8D%B4%E6%98%AF4000%E5%85%83",
+        "publishedAt": "2026-11-08T08:57:45Z"
+      },
+      {
+        "id": "6bf7793fbc98c9afb1a6",
+        "title": "平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证",
+        "summary": "苹果披露机器人“大脑”研究进展，平均成功率达91%，调用千问模型验证。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34427916",
+        "publishedAt": "2026-11-08T08:57:45Z"
+      },
+      {
+        "id": "3aa9485ccbf2eff4b159",
+        "title": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金",
+        "summary": "美制裁中国企业，商务部回应；央行连续24个月增持黄金。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2528174",
+        "publishedAt": "2026-11-08T08:57:45Z"
+      },
+      {
+        "id": "59d188c05c4cd1c1b1dc",
+        "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
+        "summary": "九年来首次，美股科技股估值迈入“比大盘便宜”时代。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2528180",
+        "publishedAt": "2026-11-08T08:57:45Z"
+      },
+      {
+        "id": "99cad831677778a45eeb",
+        "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
+        "summary": "OpenAI融资与估值双双大幅缩水，110亿美元首期款已到账。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2528016",
+        "publishedAt": "2026-11-08T08:57:45Z"
       }
     ]
   },
   "global": {
-    "overview": "国际聚焦波兰克拉科夫枪击案、以色列组阁变局、新西兰选举胶着、美伊局势及法国抗议等。",
+    "overview": "国际焦点包括波兰枪击案、中东冲突升级及以色列组阁动向。",
     "items": [
       {
-        "id": "e1eb6ab05a1233fbbc4f",
-        "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-        "summary": "波兰克拉科夫市场广场枪击致6死16伤，嫌犯受极右思想影响。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-        "publishedAt": "2026-11-07T13:19:01Z"
+        "id": "520eab092c1fa5b89233",
+        "title": "What we know so far after Krakow gun attack",
+        "summary": "波兰克拉科夫枪击案致6死16伤，枪手行凶画面曝光，案件定性为恐怖主义。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-07T23:52:33Z"
+      },
+      {
+        "id": "88e839be82af92e3600f",
+        "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+        "summary": "沙特拦截针对首都及东部省的胡塞导弹，也门空袭致33死。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+        "publishedAt": "2026-11-07T23:40:07Z"
       },
       {
         "id": "a481fad1e229d5914f79",
@@ -92,52 +100,44 @@
         "publishedAt": "2026-11-07T15:45:45Z"
       },
       {
-        "id": "a5bbaa250e3b166a0c47",
-        "title": "No clear winner after tight New Zealand general election",
-        "summary": "新西兰大选计票胶着，无阵营过半，组阁谈判或持续数周。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-07T07:56:28Z"
+        "id": "dfd1f0a33824e225238e",
+        "title": "US military attacks cargo ship in the Gulf of Oman",
+        "summary": "美军在阿曼湾向一艘货船开火并使其瘫痪，地区紧张升级。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+        "publishedAt": "2026-11-08T00:24:37Z"
       },
       {
-        "id": "680bd884a35e6ed27ae9",
-        "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-        "summary": "伊朗格什姆岛等地传出爆炸，美国采取措施阻断陆路武器运输。",
+        "id": "49511bf37fb5ad3d0e95",
+        "title": "US launches task force to disrupt Iran’s land-based supply routes",
+        "summary": "美国成立特遣队，旨在阻断伊朗陆路武器运输通道。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
-        "publishedAt": "2026-11-07T16:00:56Z"
-      },
-      {
-        "id": "cff519a675e6b7c172d0",
-        "title": "More than 140,000 rally as new protests against rising costs sweep France",
-        "summary": "法国超14万人抗议生活成本上升，巴黎等地发生警民冲突。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
-        "publishedAt": "2026-11-07T12:12:22Z"
-      },
-      {
-        "id": "2fa4bdec61d92a67ad96",
-        "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
-        "summary": "欧盟指TikTok推荐算法危害用户心理健康，要求整改并威胁罚款。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
-        "publishedAt": "2026-11-06T15:33:28Z"
+        "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+        "publishedAt": "2026-11-07T18:34:04Z"
       },
       {
         "id": "7edc1387e2ba9cbfff93",
         "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-        "summary": "俄军袭击乌克兰能源设施，基辅等地停电停水，泽连斯基谴责。",
+        "summary": "俄军袭击乌克兰能源设施，基辅等多地停电停水，泽连斯基谴责。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
         "publishedAt": "2026-11-07T05:03:03Z"
       },
       {
-        "id": "bb9898d9cba7f086abb7",
-        "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-        "summary": "特朗普任命移民强硬派米勒为白宫办公厅主任，接替离任的威尔斯。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-        "publishedAt": "2026-11-06T17:38:06Z"
+        "id": "78e6987833e14520eacf",
+        "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+        "summary": "COP31气候大会在土耳其安塔利亚开幕，各方呼吁超越承诺落实行动。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-07T21:55:00Z"
+      },
+      {
+        "id": "6f5fd38e60765688fc35",
+        "title": "Mapping how France’s protest wave spread across Europe",
+        "summary": "法国抗议浪潮蔓延欧洲31国，累计生活成本示威超1700场。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
+        "publishedAt": "2026-11-08T00:18:38Z"
       }
     ]
   }
