@@ -1,50 +1,66 @@
 {
   "version": 1,
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T08:57:45Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-08T16:39:31Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻涵盖外资储备、进博会及恶劣天气等议题。",
+    "overview": "国内要闻聚焦资本市场部署、油价暴跌、科技突破与外交回应；产业方面关注数据中心争议、芯片安全及消费趋势。",
     "items": [
       {
-        "id": "3097df0c8165358018cf",
-        "title": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备24连增",
-        "summary": "我国外储规模连续7个月超3.4万亿美元，黄金储备实现24连增。",
+        "id": "7223ac38b6adf01ace1a",
+        "title": "周末要闻汇总：国常会就资本市场平稳健康发展作出部署；新一轮微短剧专项治理工作启动",
+        "summary": "国常会就资本市场平稳健康发展作出部署，新一轮微短剧专项治理工作同步启动。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528084",
-        "publishedAt": "2026-11-08T08:57:45Z"
+        "url": "https://www.cls.cn/detail/2528259",
+        "publishedAt": "2026-11-08T16:39:31Z"
       },
       {
-        "id": "15ae0ff45077d23aac98",
-        "title": "新老朋友集中亮相进博会",
-        "summary": "第八届进博会新老朋友集中亮相，展示开放合作新机遇。",
+        "id": "70f7fc525d9e4d687897",
+        "title": "油价一周暴跌超16%",
+        "summary": "国际油价一周暴跌超16%，市场关注供需变化与后续走势。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%80%81%E6%9C%8B%E5%8F%8B%E9%9B%86%E4%B8%AD%E4%BA%AE%E7%9B%B8%E8%BF%9B%E5%8D%9A%E4%BC%9A",
-        "publishedAt": "2026-11-08T08:57:45Z"
+        "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25",
+        "publishedAt": "2026-11-08T16:39:31Z"
+      },
+      {
+        "id": "2f984c6d0fc32e617972",
+        "title": "大连主帅被泼啤酒滑倒光速变脸",
+        "summary": "大连主帅被泼啤酒滑倒后光速变脸，相关视频引发舆论关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7705772355208908326/",
+        "publishedAt": "2026-11-08T16:39:31Z"
+      },
+      {
+        "id": "040263668a92d0768a2a",
+        "title": "“反对数据中心”浪潮不止在美国，欧洲多国爆发抗议",
+        "summary": "“反对数据中心”浪潮蔓延欧洲多国，民众抗议数据中心建设。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785465",
+        "publishedAt": "2026-11-08T16:39:31Z"
       },
       {
         "id": "d2a9cf819d41a44ff1a0",
         "title": "中方回应加美英等国发表涉黄之锋案所谓联合声明",
-        "summary": "中方回应加美英等国涉黄之锋案联合声明，阐明严正立场。",
+        "summary": "中方回应加美英等国发表涉黄之锋案所谓联合声明，表明严正立场。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8xsW6zjyjAH",
-        "publishedAt": "2026-11-08T08:57:45Z"
+        "publishedAt": "2026-11-08T16:39:31Z"
       },
       {
-        "id": "ef99d8f59a9d2b0d7f25",
-        "title": "月薪过万 社保缴费基数却是4000元",
-        "summary": "月薪过万社保缴费基数仅4000元现象引热议，凸显社保规范问题。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87+%E7%A4%BE%E4%BF%9D%E7%BC%B4%E8%B4%B9%E5%9F%BA%E6%95%B0%E5%8D%B4%E6%98%AF4000%E5%85%83",
-        "publishedAt": "2026-11-08T08:57:45Z"
+        "id": "4d5c07740d7f4b79d641",
+        "title": "千公里仅3.43毫秒！我国新一代通信网技术取得新突破",
+        "summary": "我国新一代通信网技术取得突破，千公里传输仅需3.43毫秒。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2528242",
+        "publishedAt": "2026-11-08T16:39:31Z"
       },
       {
-        "id": "6bf7793fbc98c9afb1a6",
-        "title": "平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证",
-        "summary": "苹果披露机器人“大脑”研究进展，平均成功率达91%，调用千问模型验证。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34427916",
-        "publishedAt": "2026-11-08T08:57:45Z"
+        "id": "3097df0c8165358018cf",
+        "title": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备24连增",
+        "summary": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备实现24连增。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2528084",
+        "publishedAt": "2026-11-08T16:39:31Z"
       },
       {
         "id": "3aa9485ccbf2eff4b159",
@@ -52,76 +68,36 @@
         "summary": "美制裁中国企业，商务部回应；央行连续24个月增持黄金。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2528174",
-        "publishedAt": "2026-11-08T08:57:45Z"
-      },
-      {
-        "id": "59d188c05c4cd1c1b1dc",
-        "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
-        "summary": "九年来首次，美股科技股估值迈入“比大盘便宜”时代。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528180",
-        "publishedAt": "2026-11-08T08:57:45Z"
-      },
-      {
-        "id": "99cad831677778a45eeb",
-        "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
-        "summary": "OpenAI融资与估值双双大幅缩水，110亿美元首期款已到账。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528016",
-        "publishedAt": "2026-11-08T08:57:45Z"
+        "publishedAt": "2026-11-08T16:39:31Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括波兰枪击案、中东冲突升级及以色列组阁动向。",
+    "overview": "国际要闻包括以色列组阁、波兰恐袭调查、俄乌能源战、COP31气候峰会及中东局势升级。",
     "items": [
       {
-        "id": "520eab092c1fa5b89233",
-        "title": "What we know so far after Krakow gun attack",
-        "summary": "波兰克拉科夫枪击案致6死16伤，枪手行凶画面曝光，案件定性为恐怖主义。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-07T23:52:33Z"
+        "id": "d4fd7cadca08bc442a75",
+        "title": "Israel: Eisenkot officially tasked with forming a government",
+        "summary": "以色列总统正式授权艾森科特组建政府，内塔尼亚胡未获授权。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-08T07:18:00Z"
       },
       {
-        "id": "88e839be82af92e3600f",
-        "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
-        "summary": "沙特拦截针对首都及东部省的胡塞导弹，也门空袭致33死。",
+        "id": "8bfc19a56688f2aefce0",
+        "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+        "summary": "波兰为克拉科夫枪击案六名遇难者哀悼，当局启动恐怖主义调查。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-        "publishedAt": "2026-11-07T23:40:07Z"
+        "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
+        "publishedAt": "2026-11-08T04:40:12Z"
       },
       {
-        "id": "a481fad1e229d5914f79",
-        "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-        "summary": "以色列总统授权反对党领袖艾森科特组阁，内塔尼亚胡未获授权。",
+        "id": "e2c752f2ed6f666e297b",
+        "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+        "summary": "俄军袭击乌克兰能源设施，约85万人断电，多地停电停水。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
-        "publishedAt": "2026-11-07T15:45:45Z"
-      },
-      {
-        "id": "dfd1f0a33824e225238e",
-        "title": "US military attacks cargo ship in the Gulf of Oman",
-        "summary": "美军在阿曼湾向一艘货船开火并使其瘫痪，地区紧张升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-        "publishedAt": "2026-11-08T00:24:37Z"
-      },
-      {
-        "id": "49511bf37fb5ad3d0e95",
-        "title": "US launches task force to disrupt Iran’s land-based supply routes",
-        "summary": "美国成立特遣队，旨在阻断伊朗陆路武器运输通道。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
-        "publishedAt": "2026-11-07T18:34:04Z"
-      },
-      {
-        "id": "7edc1387e2ba9cbfff93",
-        "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-        "summary": "俄军袭击乌克兰能源设施，基辅等多地停电停水，泽连斯基谴责。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-        "publishedAt": "2026-11-07T05:03:03Z"
+        "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+        "publishedAt": "2026-11-08T04:20:17Z"
       },
       {
         "id": "78e6987833e14520eacf",
@@ -132,12 +108,36 @@
         "publishedAt": "2026-11-07T21:55:00Z"
       },
       {
-        "id": "6f5fd38e60765688fc35",
-        "title": "Mapping how France’s protest wave spread across Europe",
-        "summary": "法国抗议浪潮蔓延欧洲31国，累计生活成本示威超1700场。",
+        "id": "88e839be82af92e3600f",
+        "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+        "summary": "沙特拦截针对首都及东部省的胡塞导弹，也门空袭致33人死亡。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
-        "publishedAt": "2026-11-08T00:18:38Z"
+        "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+        "publishedAt": "2026-11-07T23:40:07Z"
+      },
+      {
+        "id": "dfd1f0a33824e225238e",
+        "title": "US military attacks cargo ship in the Gulf of Oman",
+        "summary": "美军在阿曼湾向一艘货船开火并使其瘫痪，地区紧张局势升级。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+        "publishedAt": "2026-11-08T00:24:37Z"
+      },
+      {
+        "id": "94a4f242affdf0351782",
+        "title": "At least 21 killed after migrant boat sinks off Senegal",
+        "summary": "塞内加尔近海移民船倾覆，至少21人死亡，搜救仍在进行。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-08T05:48:00Z"
+      },
+      {
+        "id": "fd1ee0bfa7a4e4bc8089",
+        "title": "South Africa’s ANC suffers setback in local elections",
+        "summary": "南非地方选举非国大遇挫，全国得票率约31%，执政地位受挑战。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+        "publishedAt": "2026-11-08T04:19:14Z"
       }
     ]
   }
