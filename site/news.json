@@ -1,18 +1,18 @@
 {
   "version": 1,
   "date": "2026-11-09",
-  "generatedAt": "2026-11-08T16:39:31Z",
+  "generatedAt": "2026-11-08T22:00:41Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦资本市场部署、油价暴跌、科技突破与外交回应；产业方面关注数据中心争议、芯片安全及消费趋势。",
+    "overview": "国内候选聚焦资本市场部署、油价波动、数据中心争议、科技突破与外交军事动态，兼顾公共安全与产业政策。",
     "items": [
       {
         "id": "7223ac38b6adf01ace1a",
         "title": "周末要闻汇总：国常会就资本市场平稳健康发展作出部署；新一轮微短剧专项治理工作启动",
-        "summary": "国常会就资本市场平稳健康发展作出部署，新一轮微短剧专项治理工作同步启动。",
+        "summary": "国常会部署资本市场平稳健康发展，新一轮微短剧专项治理同步启动。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2528259",
-        "publishedAt": "2026-11-08T16:39:31Z"
+        "publishedAt": "2026-11-08T22:00:41Z"
       },
       {
         "id": "70f7fc525d9e4d687897",
@@ -20,124 +20,124 @@
         "summary": "国际油价一周暴跌超16%，市场关注供需变化与后续走势。",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25",
-        "publishedAt": "2026-11-08T16:39:31Z"
-      },
-      {
-        "id": "2f984c6d0fc32e617972",
-        "title": "大连主帅被泼啤酒滑倒光速变脸",
-        "summary": "大连主帅被泼啤酒滑倒后光速变脸，相关视频引发舆论关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7705772355208908326/",
-        "publishedAt": "2026-11-08T16:39:31Z"
+        "publishedAt": "2026-11-08T22:00:41Z"
       },
       {
         "id": "040263668a92d0768a2a",
         "title": "“反对数据中心”浪潮不止在美国，欧洲多国爆发抗议",
-        "summary": "“反对数据中心”浪潮蔓延欧洲多国，民众抗议数据中心建设。",
+        "summary": "欧洲多国爆发反对数据中心抗议，浪潮从美国蔓延至欧洲。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785465",
-        "publishedAt": "2026-11-08T16:39:31Z"
-      },
-      {
-        "id": "d2a9cf819d41a44ff1a0",
-        "title": "中方回应加美英等国发表涉黄之锋案所谓联合声明",
-        "summary": "中方回应加美英等国发表涉黄之锋案所谓联合声明，表明严正立场。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xsW6zjyjAH",
-        "publishedAt": "2026-11-08T16:39:31Z"
+        "publishedAt": "2026-11-08T22:00:41Z"
       },
       {
         "id": "4d5c07740d7f4b79d641",
         "title": "千公里仅3.43毫秒！我国新一代通信网技术取得新突破",
-        "summary": "我国新一代通信网技术取得突破，千公里传输仅需3.43毫秒。",
+        "summary": "我国新一代通信网技术取得突破，千公里传输时延仅3.43毫秒。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2528242",
-        "publishedAt": "2026-11-08T16:39:31Z"
+        "publishedAt": "2026-11-08T22:00:41Z"
       },
       {
         "id": "3097df0c8165358018cf",
         "title": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备24连增",
-        "summary": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备实现24连增。",
+        "summary": "我国外储规模连续7个月站稳3.4万亿美元，黄金储备24连增。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2528084",
-        "publishedAt": "2026-11-08T16:39:31Z"
+        "publishedAt": "2026-11-08T22:00:41Z"
       },
       {
-        "id": "3aa9485ccbf2eff4b159",
-        "title": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金",
-        "summary": "美制裁中国企业，商务部回应；央行连续24个月增持黄金。",
+        "id": "b56ba3ae5d654aed9743",
+        "title": "英伟达超7600万元货物离奇失踪",
+        "summary": "英伟达超7600万元AI芯片及硬件离奇失踪，嫌疑人尚未抓获。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528174",
-        "publishedAt": "2026-11-08T16:39:31Z"
+        "url": "https://www.cls.cn/detail/2528247",
+        "publishedAt": "2026-11-08T22:00:41Z"
+      },
+      {
+        "id": "e2a771ea7c07a3bead5f",
+        "title": "高市早苗：我十分想见金正恩",
+        "summary": "日本首相高市早苗表示十分想见金正恩，引发外界关注。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xtQgVRAQyi",
+        "publishedAt": "2026-11-08T22:00:41Z"
+      },
+      {
+        "id": "99c8918f2e94160c6cff",
+        "title": "沙特首都金融区遭袭，目击者称阿美石油大楼受损",
+        "summary": "沙特首都金融区遭袭，目击者称阿美石油大楼受损，地区局势紧张。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xt0Iqb2bTj",
+        "publishedAt": "2026-11-08T22:00:41Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻包括以色列组阁、波兰恐袭调查、俄乌能源战、COP31气候峰会及中东局势升级。",
+    "overview": "国际候选涵盖美国中期选举余波、以黎政府组阁、伊朗局势、埃及列车事故、欧洲防务与气候大会等重大议题。",
     "items": [
       {
-        "id": "d4fd7cadca08bc442a75",
-        "title": "Israel: Eisenkot officially tasked with forming a government",
-        "summary": "以色列总统正式授权艾森科特组建政府，内塔尼亚胡未获授权。",
+        "id": "bb0c9b5a276fd9d7639e",
+        "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+        "summary": "特朗普称美国在选举中“大倒退”，拟进一步右转并强化移民执法。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+        "publishedAt": "2026-11-08T09:58:43Z"
+      },
+      {
+        "id": "dab39f21d0819e610af8",
+        "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+        "summary": "以色列总统授权艾森科特组阁，内塔尼亚胡未获授权，政局走向待观察。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+        "publishedAt": "2026-11-08T06:26:14Z"
+      },
+      {
+        "id": "449706c30370c12c96d2",
+        "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
+        "summary": "特朗普称若和平谈判推进，美方不太可能对伊朗发动新打击。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-08T07:18:00Z"
+        "url": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-08T12:55:00Z"
       },
       {
-        "id": "8bfc19a56688f2aefce0",
-        "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-        "summary": "波兰为克拉科夫枪击案六名遇难者哀悼，当局启动恐怖主义调查。",
+        "id": "19a6dadb8eefcd135a0c",
+        "title": "Seven killed, 112 injured in train collision in Egypt",
+        "summary": "埃及开罗附近两列火车相撞，致7死112伤，总统下令彻查。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-        "publishedAt": "2026-11-08T04:40:12Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+        "publishedAt": "2026-11-08T08:31:54Z"
       },
       {
-        "id": "e2c752f2ed6f666e297b",
-        "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-        "summary": "俄军袭击乌克兰能源设施，约85万人断电，多地停电停水。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-        "publishedAt": "2026-11-08T04:20:17Z"
+        "id": "9d74ea507dc8d1798b6d",
+        "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+        "summary": "英伟达启动独立调查，此前报道称CEO黄仁勋或为外国情报目标。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+        "publishedAt": "2026-11-08T13:00:58Z"
+      },
+      {
+        "id": "76a65f35ef7f7f872217",
+        "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+        "summary": "欧洲官员将出席阿布扎比美俄乌三方会谈，系2月以来首次。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+        "publishedAt": "2026-11-08T11:25:30Z"
+      },
+      {
+        "id": "29ae1a86459e29953d5c",
+        "title": "South Africa elections: ANC marks its worst-ever performance",
+        "summary": "南非地方选举非国大遭遇史上最差表现，得票率约31%。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-08T09:35:00Z"
       },
       {
         "id": "78e6987833e14520eacf",
         "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
-        "summary": "COP31气候大会在土耳其安塔利亚开幕，各方呼吁超越承诺落实行动。",
+        "summary": "COP31气候大会在土耳其安塔利亚开幕，各方呼吁落实行动。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-11-07T21:55:00Z"
-      },
-      {
-        "id": "88e839be82af92e3600f",
-        "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
-        "summary": "沙特拦截针对首都及东部省的胡塞导弹，也门空袭致33人死亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-        "publishedAt": "2026-11-07T23:40:07Z"
-      },
-      {
-        "id": "dfd1f0a33824e225238e",
-        "title": "US military attacks cargo ship in the Gulf of Oman",
-        "summary": "美军在阿曼湾向一艘货船开火并使其瘫痪，地区紧张局势升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-        "publishedAt": "2026-11-08T00:24:37Z"
-      },
-      {
-        "id": "94a4f242affdf0351782",
-        "title": "At least 21 killed after migrant boat sinks off Senegal",
-        "summary": "塞内加尔近海移民船倾覆，至少21人死亡，搜救仍在进行。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-08T05:48:00Z"
-      },
-      {
-        "id": "fd1ee0bfa7a4e4bc8089",
-        "title": "South Africa’s ANC suffers setback in local elections",
-        "summary": "南非地方选举非国大遇挫，全国得票率约31%，执政地位受挑战。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-        "publishedAt": "2026-11-08T04:19:14Z"
       }
     ]
   }
