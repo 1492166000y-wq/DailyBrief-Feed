@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T01:43:36Z",
+  "generatedAt": "2026-11-09T09:45:27Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注国常会资本市场部署、新一代通信网技术突破、进博会先进制造创新，以及人口结构、科研生态和胖东来经营原则等议题。",
+    "overview": "国内焦点：10月CPI、PPI数据发布，油价预计大幅下调；英伟达CEO黄仁勋绯闻引发中方驳斥与市场波动；太原火灾致5人遇难，国自然副主任批科研套路化。",
     "items": [
       {
-        "id": "7223ac38b6adf01ace1a",
-        "title": "周末要闻汇总：国常会就资本市场平稳健康发展作出部署；新一轮微短剧专项治理工作启动",
-        "summary": "国常会就资本市场平稳健康发展作出部署，新一轮微短剧专项治理同步启动。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528259",
-        "publishedAt": "2026-11-09T01:43:36Z"
+        "id": "d889468f7d1b8b15503a",
+        "title": "中国10月CPI同比增0.7%，数据存储设备涨45.4%，10月PPI同比增5.7%，创2022年6月以来最高",
+        "summary": "中国10月CPI同比增0.7%，数据存储设备涨45.4%；PPI同比增5.7%，创2022年6月以来最高。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785509",
+        "publishedAt": "2026-11-09T09:45:27Z"
       },
       {
-        "id": "4d5c07740d7f4b79d641",
-        "title": "千公里仅3.43毫秒！我国新一代通信网技术取得新突破",
-        "summary": "我国新一代通信网技术取得突破，千公里传输时延仅3.43毫秒。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528242",
-        "publishedAt": "2026-11-09T01:43:36Z"
-      },
-      {
-        "id": "5f0b03a14b92696a5b98",
-        "title": "从进博会看先进制造业汇聚创新动能",
-        "summary": "进博会展示先进制造业汇聚创新动能，凸显产业升级与开放合作。",
+        "id": "067ab169f144188b0687",
+        "title": "油价预计将大幅下调",
+        "summary": "国内油价预计将大幅下调，具体调整幅度待官方公布。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7704519294998171177/",
-        "publishedAt": "2026-11-09T01:43:36Z"
+        "url": "https://www.toutiao.com/trending/7705083710051222043/",
+        "publishedAt": "2026-11-09T09:45:27Z"
       },
       {
-        "id": "97e3751b02039aae5fd7",
-        "title": "老人数量第一次比孩子多",
-        "summary": "我国老人数量首次超过孩子，人口结构变化引发养老与公共服务关注。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%95%B0%E9%87%8F%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E5%AD%A9%E5%AD%90%E5%A4%9A",
-        "publishedAt": "2026-11-09T01:43:36Z"
-      },
-      {
-        "id": "6ae4506f4322d99eee0d",
-        "title": "国自然副主任批生命科学研究“套路化”倾向：如“流水线”批量生产科技“八股文”",
-        "summary": "国自然副主任批评生命科学研究套路化，警示批量生产科技“八股文”。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34434136",
-        "publishedAt": "2026-11-09T01:43:36Z"
-      },
-      {
-        "id": "3cb3243e5c4e8f17f1f9",
-        "title": "胖东来深夜发文：“哪怕赔付到破产也必须坚守原则！”",
-        "summary": "胖东来深夜发文称哪怕赔付到破产也要坚守原则，引发企业责任讨论。",
+        "id": "8d5cee9fb47ffcf18a21",
+        "title": "美官员称与黄仁勋婚外情女子为中国情报机构工作，外交部：纯属捕风捉影",
+        "summary": "美官员称与黄仁勋婚外情女子为中国情报机构工作，外交部驳斥：纯属捕风捉影。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528409",
-        "publishedAt": "2026-11-09T01:43:36Z"
+        "url": "https://www.cls.cn/detail/2528958",
+        "publishedAt": "2026-11-09T09:45:27Z"
+      },
+      {
+        "id": "7af476e299c1b144de80",
+        "title": "黄仁勋丑闻搅动市场，英伟达美股盘前跌近5%，亚洲股市强势反弹，油价下跌",
+        "summary": "黄仁勋丑闻搅动市场，英伟达美股盘前跌近5%，亚洲股市强势反弹，油价下跌。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785518",
+        "publishedAt": "2026-11-09T09:45:27Z"
       },
       {
         "id": "8cd00cb7fdf6926a3584",
         "title": "山西太原一建筑发生火灾致5人遇难",
-        "summary": "山西太原一建筑发生火灾致5人遇难，消防安全再受关注。",
+        "summary": "山西太原一建筑发生火灾，已致5人遇难，另有9人伤势较重，救援和调查进行中。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34434844",
-        "publishedAt": "2026-11-09T01:43:36Z"
+        "publishedAt": "2026-11-09T09:45:27Z"
       },
       {
-        "id": "d3e8b07e3ee1ace975ed",
-        "title": "具身智能数据赛道“变天” 百万小时供给难解上亿小时需求",
-        "summary": "具身智能数据赛道生变，百万小时供给仍难解上亿小时需求缺口。",
+        "id": "6ae4506f4322d99eee0d",
+        "title": "国自然副主任批生命科学研究“套路化”倾向：如“流水线”批量生产科技“八股文”",
+        "summary": "国自然副主任批生命科学研究“套路化”倾向，称如“流水线”批量生产科技“八股文”。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34434136",
+        "publishedAt": "2026-11-09T09:45:27Z"
+      },
+      {
+        "id": "517c36711ded7a0834fc",
+        "title": "财联社C50风向指数调查：10月新增信贷或同比少增，社融有望同比多增",
+        "summary": "财联社C50风向指数调查：10月新增信贷或同比少增，社融有望同比多增。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2528331",
-        "publishedAt": "2026-11-09T01:43:36Z"
+        "url": "https://www.cls.cn/detail/2528866",
+        "publishedAt": "2026-11-09T09:45:27Z"
+      },
+      {
+        "id": "e65d6428eb28969503e5",
+        "title": "外交部：中方在美国输华芯片问题上的立场是一贯的",
+        "summary": "外交部表示，中方在美国输华芯片问题上的立场是一贯的，反对美方无理打压。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2528975",
+        "publishedAt": "2026-11-09T09:45:27Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点包括英伟达CEO黄仁勋绯闻与外国情报调查、以色列组阁变局、埃及火车相撞、沙特遭胡塞袭击及欧洲数据中心抗议等。",
+    "overview": "国际焦点：特朗普承认驱逐政策过严，民主党弹劾防长；波兰克拉科夫枪击嫌犯死亡；英伟达黄仁勋遭外国情报指控，COP31开幕前土耳其推动能源转型。",
     "items": [
+      {
+        "id": "a84a72951cf1d697b861",
+        "title": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
+        "summary": "特朗普承认驱逐政策“过于严厉”，并提议与民主党达成移民协议，此前共和党中期选举惨败。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+        "publishedAt": "2026-11-09T00:32:32Z"
+      },
+      {
+        "id": "1235534998e43b00e35f",
+        "title": "US top Democrat backs impeachment of Pete Hegseth",
+        "summary": "美国民主党高层支持弹劾防长赫格塞思，称“赫格塞思必须下台”。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss",
+        "publishedAt": "2026-11-09T00:26:50Z"
+      },
+      {
+        "id": "9530dbf69e193aeb4b99",
+        "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+        "summary": "波兰克拉科夫枪击案嫌犯在医院死亡，事件造成至少6人死亡，警方按恐怖主义调查。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-08T22:53:00Z"
+      },
       {
         "id": "9d74ea507dc8d1798b6d",
         "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-        "summary": "英伟达启动独立调查，此前报道称CEO黄仁勋疑为外国情报目标。",
+        "summary": "英伟达启动独立调查，此前报道称CEO黄仁勋疑为外国情报目标，引发国家安全担忧。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
         "publishedAt": "2026-11-08T16:25:28Z"
       },
       {
-        "id": "57d3a89f316fec471a84",
-        "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
-        "summary": "黄仁勋承认婚外情并道歉，英伟达承诺调查涉华间谍传闻。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-08T15:07:00Z"
-      },
-      {
-        "id": "dab39f21d0819e610af8",
-        "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-        "summary": "以色列总统授权艾森科特组阁，内塔尼亚胡未获授权，政局待观察。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-        "publishedAt": "2026-11-08T06:26:14Z"
-      },
-      {
-        "id": "19a6dadb8eefcd135a0c",
-        "title": "Seven killed, 112 injured in train collision in Egypt",
-        "summary": "埃及开罗附近两列火车相撞，致7死112伤，总统下令彻查。",
+        "id": "2c2b3f807fcb65dd3062",
+        "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+        "summary": "COP31开幕前，土耳其推动电气化议程，目标2035年电力占全球能源需求35%。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
-        "publishedAt": "2026-11-08T08:31:54Z"
-      },
-      {
-        "id": "8e5f19de80a27ba32a47",
-        "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-        "summary": "胡塞武装袭击沙特首都金融区，阿美石油大楼受损。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-08T13:37:36Z"
+        "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+        "publishedAt": "2026-11-08T21:02:19Z"
       },
       {
         "id": "76a65f35ef7f7f872217",
         "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-        "summary": "欧洲官员将出席阿布扎比美俄乌三方会谈，系2月以来首次。",
+        "summary": "欧洲官员将出席阿布扎比美俄乌三方会谈，系2月以来首次，无视克里姆林宫反对。",
         "source": "NPR World",
         "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
         "publishedAt": "2026-11-08T11:25:30Z"
       },
       {
+        "id": "8e5f19de80a27ba32a47",
+        "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+        "summary": "胡塞武装袭击沙特首都金融区，阿美石油大楼受损，地区紧张局势升级。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-08T13:37:36Z"
+      },
+      {
         "id": "29ae1a86459e29953d5c",
         "title": "South Africa elections: ANC marks its worst-ever performance",
-        "summary": "南非地方选举非国大遭遇史上最差表现，得票率约31%。",
+        "summary": "南非地方选举非国大遭遇史上最差表现，得票率约31%，政治格局生变。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-11-08T09:35:00Z"
-      },
-      {
-        "id": "ee6fcd36600917088b15",
-        "title": "Pope Leo urges Argentina's Milei to put people before the economy",
-        "summary": "Pope Leo XIV has urged Argentina to protect democracy and ensure economic growth",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-08T17:35:00Z"
       }
     ]
   }
