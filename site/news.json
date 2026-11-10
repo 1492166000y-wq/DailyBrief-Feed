@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T04:06:07Z",
+  "generatedAt": "2026-11-10T12:36:29Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于美伊和谈信号引发的全球市场连锁反应、进博会与健康中国议题，以及华为新品、宇树科技等科技产业动态；社会民生方面，零元面馆争议、反腐与司法案件仍受关注。",
+    "overview": "国内要闻聚焦国务院修订基金会管理条例、进博会意向成交额创新高、A股与AI产业动态，以及乌克兰问题中方立场和美伊和谈对市场的影响。",
     "items": [
       {
-        "id": "e5ba86dff2ac4e5054f4",
-        "title": "关于乌克兰问题，中方谈了三点",
-        "summary": "中方就乌克兰问题阐述三点立场，涉及政治解决与对话谈判方向。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xvvkPKiVjQ",
-        "publishedAt": "2026-11-10T04:06:07Z"
+        "id": "ca593ee49639dd68a969",
+        "title": "李强签署国务院令 公布修订后的《基金会管理条例》",
+        "summary": "李强签署国务院令，公布修订后的《基金会管理条例》，规范公益慈善组织管理。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2530370",
+        "publishedAt": "2026-11-10T12:36:29Z"
+      },
+      {
+        "id": "e768e4fc109649df3171",
+        "title": "第九届进博会按年计意向成交额突破854亿美元",
+        "summary": "第九届进博会按年计意向成交额突破854亿美元，显示中国扩大开放与国际采购需求。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%8C%89%E5%B9%B4%E8%AE%A1%E6%84%8F%E5%90%91%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B4854%E4%BA%BF%E7%BE%8E%E5%85%83%23",
+        "publishedAt": "2026-11-10T12:36:29Z"
       },
       {
         "id": "aef82cf318e447e3a644",
         "title": "美伊和谈信号重创原油，黄仁勋风波未阻AI交易回暖，纳指涨近3%，英伟达逆市跌超4%",
-        "summary": "美伊和谈信号重创原油，纳指涨近3%，英伟达逆市跌超4%。",
+        "summary": "美伊和谈信号重创原油价格，纳指涨近3%，英伟达逆市跌超4%，市场风险偏好分化。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785518",
-        "publishedAt": "2026-11-10T04:06:07Z"
+        "publishedAt": "2026-11-10T12:36:29Z"
       },
       {
-        "id": "b3075f9d3a9a658145ea",
-        "title": "美股收盘：纳指欢腾大涨近3% 英伟达市值独自缩水12800亿元",
-        "summary": "美股纳指大涨近3%，英伟达市值单日缩水约1.28万亿元。",
+        "id": "03fb767aa71fe22d6f04",
+        "title": "纳指期货跳水！沃勒释放美联储“最鹰信号”：若通胀居高不下，12月应加息50基点，需收回此前“三次预防性降息”",
+        "summary": "美联储理事沃勒释放最鹰信号，称若通胀居高不下12月应加息50基点，纳指期货跳水。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785652",
+        "publishedAt": "2026-11-10T12:36:29Z"
+      },
+      {
+        "id": "e5ba86dff2ac4e5054f4",
+        "title": "关于乌克兰问题，中方谈了三点",
+        "summary": "中方就乌克兰问题阐述三点立场，强调劝和促谈与政治解决危机。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xvvkPKiVjQ",
+        "publishedAt": "2026-11-10T12:36:29Z"
+      },
+      {
+        "id": "2a9f1b454158deb6d863",
+        "title": "一图看懂｜500→600→700→800：宇树科技股价不到1个月连闯四道整数关口",
+        "summary": "宇树科技股价不到一个月连闯四道整数关口，从500元突破800元，引发市场关注。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2529594",
-        "publishedAt": "2026-11-10T04:06:07Z"
+        "url": "https://www.cls.cn/detail/2529933",
+        "publishedAt": "2026-11-10T12:36:29Z"
       },
       {
-        "id": "f213f083f18093ecee5b",
-        "title": "宇树科技市值重回3000亿元",
-        "summary": "宇树科技市值重回3000亿元，人形机器人板块热度回升。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7706375400275840548/",
-        "publishedAt": "2026-11-10T04:06:07Z"
-      },
-      {
-        "id": "2dd538f86725530ef114",
-        "title": "华为小折叠电脑来了",
-        "summary": "华为发布小折叠电脑新品，折叠屏PC形态再引行业关注。",
+        "id": "a5eca35782be859a2833",
+        "title": "学龄人口达峰 幼儿园小学初中资源优化",
+        "summary": "学龄人口达峰背景下，幼儿园、小学、初中教育资源优化配置成为政策重点。",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%E6%9D%A5%E4%BA%86%23",
-        "publishedAt": "2026-11-10T04:06:07Z"
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%A6%E9%BE%84%E4%BA%BA%E5%8F%A3%E8%BE%BE%E5%B3%B0+%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E8%B5%84%E6%BA%90%E4%BC%98%E5%8C%96",
+        "publishedAt": "2026-11-10T12:36:29Z"
       },
       {
-        "id": "f60ab0fbdb5d65886178",
-        "title": "分析｜10月CPI同比涨幅回落至0.7%，下阶段走势如何？",
-        "summary": "10月CPI同比涨幅回落至0.7%，机构分析下阶段物价走势。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34439524",
-        "publishedAt": "2026-11-10T04:06:07Z"
-      },
-      {
-        "id": "4b63621d4581aadedb26",
-        "title": "“零元面馆” 排长队、有周边商户生意下降，当地市监局：多部门正牵头处理",
-        "summary": "零元面馆排长队致周边商户生意下滑，当地多部门正牵头处理。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34440882",
-        "publishedAt": "2026-11-10T04:06:07Z"
-      },
-      {
-        "id": "072b6928ee369ebae1f8",
-        "title": "中央网信办整治科普健康类网络谣言",
-        "summary": "中央网信办部署整治科普健康类网络谣言，规范网络信息传播。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7705644967859126315/",
-        "publishedAt": "2026-11-10T04:06:07Z"
+        "id": "de2a269a4cca71791ffc",
+        "title": "Anthropic、英伟达同日上新 机器人真的要“长脑子”了？",
+        "summary": "Anthropic与英伟达同日发布机器人AI新品，推动具身智能与机器人“长脑子”趋势。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2530127",
+        "publishedAt": "2026-11-10T12:36:29Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美伊战事出现结束信号并牵动油价与气候议题，英伟达CEO黄仁勋涉疑似间谍婚外情风波持续发酵，同时美防长面临弹劾动议、乌克兰三方会谈重启、法国指控伊朗网络攻击等事件受到多方关注。",
+    "overview": "国际要闻涵盖俄乌阿布扎比和谈、美伊冲突与核谈判进展、英伟达CEO涉间谍调查、以色列政局变动及COP31气候峰会。",
     "items": [
       {
-        "id": "b9acb3482682b17f646d",
-        "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
-        "summary": "特朗普称对伊战争军事上“事实上结束”，进一步打击可能性降低。",
+        "id": "39cf7ddff31b1ea139c6",
+        "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+        "summary": "美俄乌在阿布扎比启动首次实质性三方和谈，美方寻求以长期安全架构终结俄乌战争。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+        "publishedAt": "2026-11-10T03:23:34Z"
+      },
+      {
+        "id": "8202603708fce3c0b475",
+        "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+        "summary": "俄军在阿布扎比会谈前数小时对乌克兰发动致命袭击，欧盟准备迅速统一回应。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+        "publishedAt": "2026-11-10T04:28:11Z"
+      },
+      {
+        "id": "1d039f14510bcdda347f",
+        "title": "Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing",
+        "summary": "特朗普宣称对伊朗战争“即将结束”，油价应声回落，但美方仍保持“锁定待发”状态。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/first-thing-oil-price-relief-trump-us-war-iran-ending-fairly-soon",
+        "publishedAt": "2026-11-10T03:36:00Z"
+      },
+      {
+        "id": "31fb2e28ada2ab9cadfc",
+        "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+        "summary": "英伟达及CEO黄仁勋因涉嫌与中国间谍有婚外情遭股东起诉，特朗普称FBI正调查。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+        "publishedAt": "2026-11-10T03:44:15Z"
+      },
+      {
+        "id": "995d3e51710fb2fac9fa",
+        "title": "Pete Hegseth to hold news briefing as he faces possible impeachment – US politics live",
+        "summary": "美国防长赫格塞思因伊朗战争面临弹劾动议，众议院可能投票，但罢免难度大。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+        "publishedAt": "2026-11-10T04:21:59Z"
+      },
+      {
+        "id": "d0da084f93820de8d617",
+        "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+        "summary": "以色列新议会宣誓就职，反对派领导人艾森科特首次获得组阁机会，内塔尼亚胡面临下台压力。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-09T18:38:00Z"
+        "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-10T04:25:48Z"
       },
       {
-        "id": "8ce6c68b7ad084eb574f",
-        "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
-        "summary": "特朗普称FBI正调查英伟达CEO黄仁勋与疑似中国间谍的婚外情。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-        "publishedAt": "2026-11-09T16:44:28Z"
+        "id": "5cebbff96014a2fb36f4",
+        "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
+        "summary": "COP31气候峰会在土耳其进入第二天，全球碳排放今年持平，逾90国领导人将参会。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+        "publishedAt": "2026-11-10T04:24:38Z"
       },
       {
-        "id": "5a635a180ace7f264a0a",
-        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-        "summary": "英伟达股价因调查黄仁勋涉疑似间谍婚外情大跌，市值显著蒸发。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-09T11:58:01Z"
-      },
-      {
-        "id": "eeec2017816717e2731b",
-        "title": "Nvidia shareholders sue Jensen Huang over alleged spy ties",
-        "summary": "英伟达股东就黄仁勋涉疑似间谍关系起诉公司与CEO。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-09T15:55:00Z"
-      },
-      {
-        "id": "787ce34ba88e0d1cb475",
-        "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-        "summary": "美官员称乌俄美三方将在阿联酋重启会谈，为2月以来首次。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-09T16:09:49Z"
-      },
-      {
-        "id": "e3b1e9dc215abe68b431",
-        "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
-        "summary": "美防长赫格塞思因伊朗战争面临共和党议员弹劾动议。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-09T12:15:00Z"
-      },
-      {
-        "id": "19269e9e66129b5613a3",
-        "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-        "summary": "法国指控伊朗黑客攻击约700处超市冷柜，致大量食品变质。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-        "publishedAt": "2026-11-09T14:30:49Z"
-      },
-      {
-        "id": "1af5edf1d3764c8db3d3",
-        "title": "Explosion at Turkish steel plant kills at least 16 people",
-        "summary": "土耳其伊兹密尔钢厂爆炸致至少16人死亡，当局展开调查。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
-        "publishedAt": "2026-11-09T11:58:40Z"
+        "id": "8b37b8b3c1bbe14dbb49",
+        "title": "‘Double amputees run marathons,’ says Badenoch as she proposes £36bn cuts to disability and other benefits – UK politics live",
+        "summary": "Conservative leader launches Welfare That Works policy documentBadenoch and What",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+        "publishedAt": "2026-11-10T04:28:38Z"
       }
     ]
   }
