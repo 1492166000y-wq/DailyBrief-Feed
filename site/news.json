@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T09:20:27Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-11T17:52:55Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦美联储加息预期升温引发的市场波动、中日APEC会晤表态及产业科技动态；政策面涉及“十五五”民生部署、油价调整与AI芯片管制回应。",
+    "overview": "今日国内要闻聚焦央行货币政策报告与资本市场支持工具、A股回购潮、中美高层外交互动及APEC相关筹备；产业科技方面关注AI、人形机器人与算力等动态。",
     "items": [
       {
-        "id": "03fb767aa71fe22d6f04",
-        "title": "纳指期货跳水！沃勒释放美联储“最鹰信号”：若通胀居高不下，12月应加息50基点，需收回此前“三次预防性降息”",
-        "summary": "沃勒称若通胀居高不下，12月应加息50基点，收回此前三次预防性降息预期，纳指期货跳水。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785652",
-        "publishedAt": "2026-11-11T09:20:27Z"
-      },
-      {
-        "id": "c97534b26df8f17d4ec8",
-        "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
-        "summary": "美国10月核心CPI环比涨0.3%超预期，市场对12月加息50基点预期骤然升温。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785664",
-        "publishedAt": "2026-11-11T09:20:27Z"
-      },
-      {
-        "id": "887662a000f545b8b705",
-        "title": "中方回应中日领导人APEC是否会晤",
-        "summary": "中方就中日领导人是否在APEC会晤作出回应，相关表态受到关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7706808711805633051/",
-        "publishedAt": "2026-11-11T09:20:27Z"
-      },
-      {
-        "id": "3c455c01a31a13d8284c",
-        "title": "美官员呼吁收紧对中国获取先进AI芯片的限制，外交部回应",
-        "summary": "美官员呼吁收紧对中国获取先进AI芯片的限制，外交部就此作出回应。",
+        "id": "ef8a235bb548196e046c",
+        "title": "央行：加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行",
+        "summary": "央行提出加力实施支持资本市场两项货币政策工具，用好债市非银大额赎回互换便利，维护股债汇市场平稳运行。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2531438",
-        "publishedAt": "2026-11-11T09:20:27Z"
+        "url": "https://www.cls.cn/detail/2531695",
+        "publishedAt": "2026-11-11T17:52:55Z"
       },
       {
-        "id": "cdf1c45827d7cf69018f",
-        "title": "“十五五”增进民生福祉这么干",
-        "summary": "“十五五”规划公布增进民生福祉具体举措，涉及公共服务与保障等领域。",
+        "id": "8cab761ef682a8c09d0b",
+        "title": "央行三季度货币政策执行报告：传统金融模式难适配服务业要求 机构应创新机制和产品",
+        "summary": "央行三季度货币政策执行报告指出，传统金融模式难适配服务业要求，机构应创新机制和产品。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2531861",
+        "publishedAt": "2026-11-11T17:52:55Z"
+      },
+      {
+        "id": "6dfbd1e5913ceaf92ef1",
+        "title": "A股回购阵容继续扩大，10余家公司密集公告回购情况，江西铜业拟最高5亿元回购股份",
+        "summary": "A股回购阵容继续扩大，十余家公司密集公告回购情况，江西铜业拟最高5亿元回购股份。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2531762",
+        "publishedAt": "2026-11-11T17:52:55Z"
+      },
+      {
+        "id": "4cbc727cbffa3d9fb410",
+        "title": "王毅同美国国务卿鲁比奥通电话",
+        "summary": "王毅同美国国务卿鲁比奥通电话，就双边关系及相关议题交换意见。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E5%A2%9E%E8%BF%9B%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89%E8%BF%99%E4%B9%88%E5%B9%B2",
-        "publishedAt": "2026-11-11T09:20:27Z"
+        "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D",
+        "publishedAt": "2026-11-11T17:52:55Z"
       },
       {
-        "id": "0627f98ea99400a9c46b",
-        "title": "阿里巴巴：拟分拆平头哥在港股独立上市",
-        "summary": "阿里巴巴宣布拟分拆平头哥在港股独立上市，推进芯片业务资本化。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785661",
-        "publishedAt": "2026-11-11T09:20:27Z"
-      },
-      {
-        "id": "ed83581c10cd93f0e104",
-        "title": "泽连斯基：我的职责不是取悦特朗普",
-        "summary": "泽连斯基表示其职责不是取悦特朗普，就美方调停角色作出表态。",
+        "id": "d7b0d3f1a5cb20bdb595",
+        "title": "贝森特：将在APEC会议期间同中方重点磋商“超级智能”",
+        "summary": "美方称贝森特将在APEC会议期间同中方重点磋商“超级智能”议题。",
         "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8xxe1wEAm2a",
-        "publishedAt": "2026-11-11T09:20:27Z"
+        "url": "https://original.ifeng.com/c/8xy6azHF4S9",
+        "publishedAt": "2026-11-11T17:52:55Z"
       },
       {
-        "id": "8e7ecaf38cbceb582009",
-        "title": "马斯克光伏布局加速：特斯拉百亿美元新厂正式动工 SpaceX新签设备订单",
-        "summary": "特斯拉百亿美元光伏新厂动工，SpaceX新签设备订单，马斯克光伏布局提速。",
+        "id": "08138bc02b63c218759e",
+        "title": "中方领导人APEC期间是否会与日本首相举行会晤？外交部回应",
+        "summary": "外交部回应中方领导人是否将在APEC期间与日本首相举行会晤。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34452494",
+        "publishedAt": "2026-11-11T17:52:55Z"
+      },
+      {
+        "id": "14c201eb8235c86942e7",
+        "title": "摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账",
+        "summary": "摩根士丹利最新人形机器人调查显示，企业态度从赶潮流转向明算账，更关注投入产出实效。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2531089",
-        "publishedAt": "2026-11-11T09:20:27Z"
+        "url": "https://www.cls.cn/detail/2531587",
+        "publishedAt": "2026-11-11T17:52:55Z"
+      },
+      {
+        "id": "38482371b21aa3d5a861",
+        "title": "中国船舶子公司签下超172亿元VLCC大单 预计于2029年至2030年交付 | 速读公告",
+        "summary": "中国船舶子公司签下超172亿元VLCC大单，预计2029年至2030年交付。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2531881",
+        "publishedAt": "2026-11-11T17:52:55Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注美国CPI超预期推升12月加息押注、乌克兰阿布扎比和谈进展、英国风电与气候大会，以及伊朗相关安全事件和西班牙住房危机。",
+    "overview": "国际方面，美俄乌阿布扎比三方会谈达成大规模换俘但和平无突破，西班牙14年来首次全国大罢工，美国中期选举后政治博弈持续，以及伊朗相关安全与封锁议题受到关注。",
     "items": [
       {
-        "id": "b35d89fa4e1e86c89124",
-        "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-        "summary": "美媒报道财政部长贝森特因伊朗威胁迁往军事基地居住，系又一名特朗普官员转移。",
+        "id": "f2294f19c78dfead54b5",
+        "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+        "summary": "美俄乌阿布扎比会谈达成开战以来最大规模换俘，但在更广泛和平协议上进展有限，美特使将分别会晤普京与泽连斯基。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-        "publishedAt": "2026-11-11T01:11:31Z"
+        "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+        "publishedAt": "2026-11-11T09:03:43Z"
       },
       {
-        "id": "a20f8213bbaab5080395",
-        "title": "Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live",
-        "summary": "泽连斯基称对美方特使做法感到满意，俄乌美三方阿布扎比谈判进入第二天。",
+        "id": "3d82b06cae5391cfaf77",
+        "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
+        "summary": "俄乌在阿联酋经两天美方斡旋会谈后同意大规模换俘，和平议题仍未取得突破。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
+        "publishedAt": "2026-11-11T08:58:32Z"
+      },
+      {
+        "id": "551a61f441b4c9be459b",
+        "title": "Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
+        "summary": "西班牙举行14年来首次全国大罢工，数百万人参与抗议房租与住房成本飙升，罢工在议会选举前三周展开。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-        "publishedAt": "2026-11-11T01:07:38Z"
+        "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+        "publishedAt": "2026-11-11T05:54:36Z"
       },
       {
-        "id": "69f9dd9500448de4b00e",
-        "title": "Spain: Housing crisis prompts general strike",
-        "summary": "西班牙房租飙升引发住房危机，各行业工人发起大罢工，成为11月29日大选核心议题。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-11T01:11:00Z"
-      },
-      {
-        "id": "c72591c0b39635e5e03a",
-        "title": "Burnham hails approval for two huge windfarm projects as ‘power under British control’ – UK politics live",
-        "summary": "英国首相批准两个大型海上风电项目，称电力将由英国掌控，并赴COP31参会。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
-        "publishedAt": "2026-11-11T01:14:50Z"
-      },
-      {
-        "id": "33ee7dfef65779efeb49",
-        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-        "summary": "美国众议院暂时否决弹劾防长赫格塞思动议，特朗普称其为“伟大的爱国者”。",
+        "id": "30917cb9fd8fd7850e8e",
+        "title": "Spain sees widespread disruption in first general strike for 14 years",
+        "summary": "西班牙大罢工造成广泛交通与公共服务中断，距议会选举不足三周，极右翼或受益。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-10T17:14:40Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-11T09:44:32Z"
       },
       {
-        "id": "f164d1fee54801a82230",
-        "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-        "summary": "中期选举失利后，共和党推选吉姆·乔丹任众议院少数党领袖，图恩任参院领袖。",
+        "id": "3b41180ba818b81b9b2f",
+        "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
+        "summary": "特朗普在弹劾赫格塞思失败后再表支持，并在退伍军人节讲话中否认美国挑起对伊战争。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-        "publishedAt": "2026-11-10T14:42:43Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+        "publishedAt": "2026-11-11T09:39:13Z"
       },
       {
-        "id": "080739727566787c2471",
-        "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-        "summary": "伊朗否认与美谈判，称霍尔木兹海峡将保持关闭直至要求得到满足，海峡多船触雷起火。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
-        "publishedAt": "2026-11-11T00:21:56Z"
+        "id": "065e8a4922b1630850f0",
+        "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
+        "summary": "白宫威胁对民主党计划调查总统采取刑事追责，民主党监督委员会主席称特朗普“有事要隐瞒”。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
+        "publishedAt": "2026-11-11T08:54:36Z"
       },
       {
-        "id": "6eb2cc1b2cf23c4605c1",
-        "title": "Trump administration seeks to cut food aid for more than six million people",
-        "summary": "特朗普政府提议削减粮食援助，或影响超600万低收入美国人。",
+        "id": "9e1467a0de2e336df7cd",
+        "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+        "summary": "美财长贝森特因所谓伊朗威胁被转移安置，成为又一名因安全顾虑居于军事基地的特朗普政府官员。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-11T08:45:11Z"
+      },
+      {
+        "id": "620e3ca316b17aebe0ec",
+        "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+        "summary": "若美国封锁持续，伊朗“零石油”预算面临考验，外界预计多数伊朗人生活将更趋贫困。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
-        "publishedAt": "2026-11-10T12:00:18Z"
+        "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+        "publishedAt": "2026-11-11T07:40:17Z"
       }
     ]
   }
