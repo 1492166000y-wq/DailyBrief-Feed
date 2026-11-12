@@ -1,95 +1,119 @@
 {
   "version": 1,
   "date": "2026-11-12",
-  "generatedAt": "2026-11-12T00:39:17Z",
+  "generatedAt": "2026-11-12T09:47:20Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦央行稳市场政策、英伟达高层动荡、A股回购潮与外贸开放；同时关注地方治理与民生事件。",
+    "overview": "今日国内要闻聚焦中方对七国集团的回应、英伟达CEO黄仁勋面临董事会问责及AI产业震荡，同时涵盖A股波动、油价下调、食品安全执法等经济民生议题。",
     "items": [
       {
-        "id": "ef8a235bb548196e046c",
-        "title": "央行：加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行",
-        "summary": "央行称将加力实施支持资本市场两项货币政策工具，并维护股债汇市场平稳运行。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2531695",
-        "publishedAt": "2026-11-12T00:39:17Z"
+        "id": "2c8b4076d8157f57f6a8",
+        "title": "中方奉劝七国集团管好自己的事情",
+        "summary": "中方奉劝七国集团管好自己的事情，就G7涉华言论表明立场。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7707063162683768895/",
+        "publishedAt": "2026-11-12T09:47:20Z"
       },
       {
-        "id": "43a89f628971bf370ce5",
-        "title": "黄仁勋再曝新婚外情，董事会准备罢免！英伟达盘后跌幅达8%",
-        "summary": "英伟达CEO黄仁勋再曝婚外情，董事会准备罢免，公司盘后股价大跌8%。",
+        "id": "4188c319eabf76114f07",
+        "title": "今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
+        "summary": "英伟达董事会开会决定黄仁勋去留，并已开始遴选新CEO，考虑任命过渡CEO。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785765",
-        "publishedAt": "2026-11-12T00:39:17Z"
+        "url": "https://wallstreetcn.com/articles/3785773",
+        "publishedAt": "2026-11-12T09:47:20Z"
       },
       {
-        "id": "6dfbd1e5913ceaf92ef1",
-        "title": "A股回购阵容继续扩大，10余家公司密集公告回购情况，江西铜业拟最高5亿元回购股份",
-        "summary": "A股回购阵容扩大，10余家公司密集公告回购，江西铜业拟最高5亿元回购股份。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2531762",
-        "publishedAt": "2026-11-12T00:39:17Z"
+        "id": "0b2aeb2a61521411963c",
+        "title": "黄仁勋出轨对象现在在北京？外交部回应",
+        "summary": "外交部回应黄仁勋出轨对象现在北京的相关提问。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8xzfJZQJ1fl",
+        "publishedAt": "2026-11-12T09:47:20Z"
       },
       {
-        "id": "8a9d51857061ec7dbade",
-        "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
-        "summary": "AI交易重燃推动美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000美元。",
+        "id": "b76eb181d510db3840ae",
+        "title": "创业板冲高回落跌超2%，算力硬件龙头午后下跌，GPU活跃、寒武纪一度重返千元，恒科指跌超2%，阿里大跌逾6%",
+        "summary": "创业板冲高回落跌超2%，算力硬件龙头午后下跌，恒科指跌超2%，阿里大跌逾6%。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785732",
-        "publishedAt": "2026-11-12T00:39:17Z"
+        "url": "https://wallstreetcn.com/articles/3785781",
+        "publishedAt": "2026-11-12T09:47:20Z"
       },
       {
-        "id": "38482371b21aa3d5a861",
-        "title": "中国船舶子公司签下超172亿元VLCC大单 预计于2029年至2030年交付 | 速读公告",
-        "summary": "中国船舶子公司签下超172亿元VLCC大单，预计2029至2030年交付。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2531881",
-        "publishedAt": "2026-11-12T00:39:17Z"
+        "id": "2ccaa0a77e98fd89de8a",
+        "title": "油价13日起下调",
+        "summary": "国内油价13日起下调，加满一箱油将少花25.5元。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7707120376169431059/",
+        "publishedAt": "2026-11-12T09:47:20Z"
       },
       {
         "id": "b560b02f732d7fa442e8",
         "title": "澎湃回声｜山东临沂回应“非标农用地膜”涉嫌违法产销问题：已依法立案调查",
-        "summary": "山东临沂回应非标农用地膜涉嫌违法产销，已依法立案调查。",
+        "summary": "山东临沂回应非标农用地膜涉嫌违法产销问题，已依法立案调查。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34453548",
-        "publishedAt": "2026-11-12T00:39:17Z"
+        "publishedAt": "2026-11-12T09:47:20Z"
       },
       {
-        "id": "d7367914d74b40d317af",
-        "title": "为世界经济注入更多确定性和正能量",
-        "summary": "官方媒体称中国为世界经济注入更多确定性和正能量，强调开放合作。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7706690418313871396/",
-        "publishedAt": "2026-11-12T00:39:17Z"
+        "id": "52a3285d9d930f7b42da",
+        "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了",
+        "summary": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，中国模型寻求突破。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2532124",
+        "publishedAt": "2026-11-12T09:47:20Z"
       },
       {
-        "id": "7d167240f99aa2ad956d",
-        "title": "15分钟内限次免费停！时隔21年上海全面调整道路停车收费政策",
-        "summary": "上海时隔21年全面调整道路停车收费政策，实行15分钟内限次免费停车。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34450560",
-        "publishedAt": "2026-11-12T00:39:17Z"
+        "id": "b68a4173edb6bf9ed1ae",
+        "title": "德芙广告宣扬错误婚恋观 被罚80万",
+        "summary": "德芙广告因宣扬错误婚恋观被罚80万元。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E8%8A%99%E5%B9%BF%E5%91%8A%E5%AE%A3%E6%89%AC%E9%94%99%E8%AF%AF%E5%A9%9A%E6%81%8B%E8%A7%82+%E8%A2%AB%E7%BD%9A80%E4%B8%87",
+        "publishedAt": "2026-11-12T09:47:20Z"
       }
     ]
   },
   "global": {
-    "overview": "国际热点包括英伟达CEO去留、美民主党历史性胜选、西班牙全国大罢工、俄美乌会谈与加沙局势。",
+    "overview": "国际方面，以色列空袭加沙医院致多人死亡，美俄乌在阿布扎比会谈后继续磋商，英伟达董事会考虑罢免黄仁勋引发市场关注，英国经济受AI推动加速增长。",
     "items": [
       {
-        "id": "3844acddcf03f19f6854",
-        "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
-        "summary": "英伟达董事会据报考虑罢免黄仁勋，因其与高管及疑似中国间谍有不当关系。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-11T16:01:00Z"
+        "id": "30bef479cc4e55cb70d8",
+        "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+        "summary": "以色列空袭加沙纳赛尔医院，造成至少6人死亡，包括一名外科医生。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+        "publishedAt": "2026-11-12T01:29:30Z"
       },
       {
-        "id": "93438f66b0b9cefbe4a0",
-        "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-        "summary": "民主党人斯科特·科洛姆赢得密西西比州参议院席位，系140多年来该州首位非裔参议员。",
+        "id": "c88ec8787b35348e70a6",
+        "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
+        "summary": "美俄乌阿布扎比会谈结束，达成换俘协议，美特使将分别会见普京和泽连斯基。",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
+        "publishedAt": "2026-11-12T01:38:46Z"
+      },
+      {
+        "id": "5e6d8240811ec503bc4c",
+        "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+        "summary": "英伟达董事会据报开会决定CEO黄仁勋去留，公司股价盘后大跌。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+        "publishedAt": "2026-11-12T01:11:33Z"
+      },
+      {
+        "id": "0cadba8c51f54b6c7bc0",
+        "title": "AI helps UK economy grow at fastest pace for more than two years",
+        "summary": "英国第三季度GDP增长0.7%，创两年多来最快增速，AI服务推广提振经济。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+        "publishedAt": "2026-11-12T01:12:52Z"
+      },
+      {
+        "id": "8096c83f2f6bd35b0239",
+        "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+        "summary": "印尼副总统因教育资格争议辞职，执政联盟出现裂痕。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-11T15:52:30Z"
+        "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-12T00:46:57Z"
       },
       {
         "id": "f1c45a3670f4f85abb13",
@@ -100,44 +124,20 @@
         "publishedAt": "2026-11-11T14:07:37Z"
       },
       {
-        "id": "f2294f19c78dfead54b5",
-        "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-        "summary": "美俄乌阿布扎比会谈达成开战以来最大规模换俘，但和平协议进展有限。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
-        "publishedAt": "2026-11-11T09:03:43Z"
-      },
-      {
-        "id": "e6a836673e038654bfa9",
-        "title": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
-        "summary": "伊朗警告将扩大报复，以色列加强攻击伊朗准备，加沙冲突持续。",
+        "id": "90e6e26742890c96ee14",
+        "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+        "summary": "巴基斯坦西北部袭击事件致10名警察和18名武装分子死亡。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-        "publishedAt": "2026-11-11T16:00:44Z"
+        "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+        "publishedAt": "2026-11-12T00:35:20Z"
       },
       {
-        "id": "2bb65e3e68c6275680bf",
-        "title": "Brooklyn building collapse kills at least one and traps others in wreckage",
-        "summary": "纽约布鲁克林一栋三层建筑倒塌，至少1人死亡、多人被困。",
+        "id": "08f4be1722c5f330128b",
+        "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
+        "summary": "阿根廷政府威胁英国石油公司CEO，因福克兰群岛钻探项目面临监禁。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
-        "publishedAt": "2026-11-11T16:06:10Z"
-      },
-      {
-        "id": "a240e6c498c5fb6dc79e",
-        "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
-        "summary": "马绍尔群岛总统在COP31警告，若不紧急应对气候危机，“我们所知的世界将终结”。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
-        "publishedAt": "2026-11-11T10:52:08Z"
-      },
-      {
-        "id": "ec9a7a48355f2a57d970",
-        "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-        "summary": "意大利、苏格兰和北爱尔兰数千所学校收到虚假炸弹威胁，当局称无公共风险。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-11T10:38:45Z"
+        "url": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
+        "publishedAt": "2026-11-12T01:11:09Z"
       }
     ]
   }
