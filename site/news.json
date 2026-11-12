@@ -1,26 +1,26 @@
 {
   "version": 1,
   "date": "2026-11-13",
-  "generatedAt": "2026-11-12T18:16:51Z",
+  "generatedAt": "2026-11-12T23:40:51Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中于英伟达CEO黄仁勋辞职及其引发的全球AI板块震荡，同时纪念孙中山诞辰160周年大会在京举行，习近平发表重要讲话。宏观层面，证监会强调维护市场平稳运行，A股回购潮延续；产业科技方面，长鑫科技、中芯国际等半导体企业动态值得关注。",
+    "overview": "国内要闻聚焦英伟达CEO黄仁勋辞职引发的AI与资本市场震荡、纪念孙中山诞辰160周年大会、证监会维稳表态及中芯国际等科技企业动态。",
     "items": [
+      {
+        "id": "8b1a45d4ec77a5b94c66",
+        "title": "英伟达宣布CEO黄仁勋辞职",
+        "summary": "英伟达宣布CEO黄仁勋辞职，全球AI芯片行业震动。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8y04rOsPfwl",
+        "publishedAt": "2026-11-12T23:40:51Z"
+      },
       {
         "id": "95f3d27e8020561b4f63",
         "title": "详讯丨纪念孙中山先生诞辰160周年大会在京举行，习近平发表重要讲话",
         "summary": "纪念孙中山先生诞辰160周年大会在京举行，习近平发表重要讲话。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34458812",
-        "publishedAt": "2026-11-12T18:16:51Z"
-      },
-      {
-        "id": "8b1a45d4ec77a5b94c66",
-        "title": "英伟达宣布CEO黄仁勋辞职",
-        "summary": "英伟达宣布CEO黄仁勋辞职，CFO兼任临时CEO，全球AI板块承压。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8y04rOsPfwl",
-        "publishedAt": "2026-11-12T18:16:51Z"
+        "publishedAt": "2026-11-12T23:40:51Z"
       },
       {
         "id": "535a6a25a54226c0c7d2",
@@ -28,57 +28,57 @@
         "summary": "证监会表示将汇聚各方合力，全力维护市场平稳运行。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34458880",
-        "publishedAt": "2026-11-12T18:16:51Z"
+        "publishedAt": "2026-11-12T23:40:51Z"
       },
       {
         "id": "f9b3551e9d99063b00d3",
         "title": "A股回购潮延续！天孚通信、华虹宏力、海光信息等热门公司集体公告回购事项",
-        "summary": "A股回购潮延续，天孚通信、华虹宏力、海光信息等热门公司集体公告回购。",
+        "summary": "A股回购潮延续，天孚通信、华虹宏力、海光信息等集体公告回购。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2532958",
-        "publishedAt": "2026-11-12T18:16:51Z"
+        "publishedAt": "2026-11-12T23:40:51Z"
       },
       {
-        "id": "9b0c72b039af39605576",
-        "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
-        "summary": "长鑫科技称计算超级周期进入分层时代，首展三大AI场景存储矩阵。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2532837",
-        "publishedAt": "2026-11-12T18:16:51Z"
+        "id": "4188c319eabf76114f07",
+        "title": "今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
+        "summary": "英伟达董事会遴选新CEO，考虑任命过渡CEO接替黄仁勋。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785773",
+        "publishedAt": "2026-11-12T23:40:51Z"
+      },
+      {
+        "id": "c4f1328b510af56dabe1",
+        "title": "华尔街疯狂抛售黄金意味着什么",
+        "summary": "华尔街大规模抛售黄金，市场避险逻辑引发关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7707281242000985663/",
+        "publishedAt": "2026-11-12T23:40:51Z"
       },
       {
         "id": "713564bee37661a62388",
         "title": "中芯国际Q3营收及毛利率超过指引 净利环比降8.35% 产能利用率进一步爬升",
-        "summary": "中芯国际Q3营收及毛利率超指引，净利环比降8.35%，产能利用率爬升。",
+        "summary": "中芯国际三季度营收及毛利率超指引，产能利用率进一步爬升。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2532908",
-        "publishedAt": "2026-11-12T18:16:51Z"
+        "publishedAt": "2026-11-12T23:40:51Z"
       },
       {
-        "id": "e5afc7501f967dcd4861",
-        "title": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办",
-        "summary": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34459136",
-        "publishedAt": "2026-11-12T18:16:51Z"
-      },
-      {
-        "id": "0ebb5a381a04174151e7",
-        "title": "乌方代表：是自2022年以来最艰难的一次谈判",
-        "summary": "乌方代表称此次谈判是自2022年以来最艰难的一次。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8xzEBg3PmVK",
-        "publishedAt": "2026-11-12T18:16:51Z"
+        "id": "9b0c72b039af39605576",
+        "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
+        "summary": "长鑫科技称计算超级周期进入分层时代，首展三大AI存储矩阵。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2532837",
+        "publishedAt": "2026-11-12T23:40:51Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，英伟达CEO黄仁勋辞职持续占据头条，其涉及婚外情及间谍指控引发市场巨震。美俄乌在阿布扎比举行三方会谈并达成换俘协议，美特使将分别会见普京与泽连斯基。此外，华盛顿特区健身房枪击案、以色列空袭加沙医院、COP31气候峰会等事件也受到广泛关注。",
+    "overview": "国际要闻主要围绕黄仁勋丑闻辞职及国会作证、俄乌和谈新进展、加沙医院遇袭、华盛顿枪击案及微软全球服务中断等事件。",
     "items": [
       {
         "id": "4fb4ba1545c9bc656567",
         "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-        "summary": "英伟达CEO黄仁勋因丑闻辞职，CFO临时接任，将赴美国国会作证。",
+        "summary": "黄仁勋因丑闻辞职，CFO临时接任，并将赴美国国会作证。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
         "publishedAt": "2026-11-12T09:54:15Z"
@@ -86,18 +86,10 @@
       {
         "id": "a0f4d9787866fb8ec4c3",
         "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
-        "summary": "美方称与俄罗斯、乌克兰及欧洲国家同意举行新会谈，阿布扎比会谈达成换俘协议。",
+        "summary": "美方称与俄、乌及欧洲国家同意举行新会谈，阿布扎比达成换俘。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
         "publishedAt": "2026-11-12T09:17:55Z"
-      },
-      {
-        "id": "41c8af998afcabc3a30c",
-        "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
-        "summary": "华盛顿特区健身房发生枪击案，嫌疑人自杀，造成1死4伤。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-        "publishedAt": "2026-11-12T09:42:35Z"
       },
       {
         "id": "86340d5280aa8268c249",
@@ -108,36 +100,44 @@
         "publishedAt": "2026-11-12T08:54:12Z"
       },
       {
-        "id": "31a75cc9b14517dec36c",
-        "title": "Putin says Russia would target foreign troops deployed to Ukraine",
-        "summary": "普京称俄罗斯将打击部署到乌克兰的外国军队，并警告美方谈判代表。",
+        "id": "2505c49a4ed6dd97c59f",
+        "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
+        "summary": "华盛顿健身房枪击案致1死4伤，警方确认嫌犯与受害者身份。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+        "publishedAt": "2026-11-12T14:13:36Z"
+      },
+      {
+        "id": "0352152dfe6e965e0cff",
+        "title": "Global Microsoft outage affects Outlook and Teams as company says fixes not providing ‘anticipated relief’",
+        "summary": "微软全球服务中断，Outlook和Teams受影响，修复未达预期。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+        "publishedAt": "2026-11-12T13:51:47Z"
+      },
+      {
+        "id": "51aadc5f1f0dc7c3e451",
+        "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+        "summary": "普京在美俄会谈中强硬表态，乌克兰称星链服务再遭干扰。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-        "publishedAt": "2026-11-12T09:26:51Z"
-      },
-      {
-        "id": "bda6f9b7bb7d1d0a731f",
-        "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
-        "summary": "格蕾塔·通贝里在COP31气候峰会上指责各国政府导致环境崩溃。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
-        "publishedAt": "2026-11-12T08:39:47Z"
-      },
-      {
-        "id": "e2b11775a7fd545141f5",
-        "title": "Mississippi makes history with Democrat senate win - The Latest",
-        "summary": "民主党人斯科特·科洛姆赢得密西西比州参议员席位，成为该州1875年以来首位黑人参议员。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest",
-        "publishedAt": "2026-11-12T09:42:03Z"
+        "publishedAt": "2026-11-12T14:26:37Z"
       },
       {
         "id": "0cadba8c51f54b6c7bc0",
         "title": "AI helps UK economy grow at fastest pace for more than two years",
-        "summary": "英国第三季度GDP增长0.7%，创两年多来最快增速，AI服务推广提振经济。",
+        "summary": "英国三季度GDP增长0.7%，AI服务推广提振经济创两年多最快。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
         "publishedAt": "2026-11-12T01:12:52Z"
+      },
+      {
+        "id": "5a8c341cd62e467c1b45",
+        "title": "China rules out hosting Cop33 climate summit in 2028",
+        "summary": "中国排除主办2028年COP33气候峰会，令气候人士失望。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+        "publishedAt": "2026-11-12T14:00:15Z"
       }
     ]
   }
