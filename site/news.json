@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-12",
-  "generatedAt": "2026-11-11T17:52:55Z",
+  "generatedAt": "2026-11-12T00:39:17Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦央行货币政策报告与资本市场支持工具、A股回购潮、中美高层外交互动及APEC相关筹备；产业科技方面关注AI、人形机器人与算力等动态。",
+    "overview": "国内聚焦央行稳市场政策、英伟达高层动荡、A股回购潮与外贸开放；同时关注地方治理与民生事件。",
     "items": [
       {
         "id": "ef8a235bb548196e046c",
         "title": "央行：加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行",
-        "summary": "央行提出加力实施支持资本市场两项货币政策工具，用好债市非银大额赎回互换便利，维护股债汇市场平稳运行。",
+        "summary": "央行称将加力实施支持资本市场两项货币政策工具，并维护股债汇市场平稳运行。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2531695",
-        "publishedAt": "2026-11-11T17:52:55Z"
+        "publishedAt": "2026-11-12T00:39:17Z"
       },
       {
-        "id": "8cab761ef682a8c09d0b",
-        "title": "央行三季度货币政策执行报告：传统金融模式难适配服务业要求 机构应创新机制和产品",
-        "summary": "央行三季度货币政策执行报告指出，传统金融模式难适配服务业要求，机构应创新机制和产品。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2531861",
-        "publishedAt": "2026-11-11T17:52:55Z"
+        "id": "43a89f628971bf370ce5",
+        "title": "黄仁勋再曝新婚外情，董事会准备罢免！英伟达盘后跌幅达8%",
+        "summary": "英伟达CEO黄仁勋再曝婚外情，董事会准备罢免，公司盘后股价大跌8%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785765",
+        "publishedAt": "2026-11-12T00:39:17Z"
       },
       {
         "id": "6dfbd1e5913ceaf92ef1",
         "title": "A股回购阵容继续扩大，10余家公司密集公告回购情况，江西铜业拟最高5亿元回购股份",
-        "summary": "A股回购阵容继续扩大，十余家公司密集公告回购情况，江西铜业拟最高5亿元回购股份。",
+        "summary": "A股回购阵容扩大，10余家公司密集公告回购，江西铜业拟最高5亿元回购股份。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2531762",
-        "publishedAt": "2026-11-11T17:52:55Z"
+        "publishedAt": "2026-11-12T00:39:17Z"
       },
       {
-        "id": "4cbc727cbffa3d9fb410",
-        "title": "王毅同美国国务卿鲁比奥通电话",
-        "summary": "王毅同美国国务卿鲁比奥通电话，就双边关系及相关议题交换意见。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D",
-        "publishedAt": "2026-11-11T17:52:55Z"
-      },
-      {
-        "id": "d7b0d3f1a5cb20bdb595",
-        "title": "贝森特：将在APEC会议期间同中方重点磋商“超级智能”",
-        "summary": "美方称贝森特将在APEC会议期间同中方重点磋商“超级智能”议题。",
-        "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8xy6azHF4S9",
-        "publishedAt": "2026-11-11T17:52:55Z"
-      },
-      {
-        "id": "08138bc02b63c218759e",
-        "title": "中方领导人APEC期间是否会与日本首相举行会晤？外交部回应",
-        "summary": "外交部回应中方领导人是否将在APEC期间与日本首相举行会晤。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34452494",
-        "publishedAt": "2026-11-11T17:52:55Z"
-      },
-      {
-        "id": "14c201eb8235c86942e7",
-        "title": "摩根士丹利发布最新人形机器人调查：企业从赶潮流进入明算账",
-        "summary": "摩根士丹利最新人形机器人调查显示，企业态度从赶潮流转向明算账，更关注投入产出实效。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2531587",
-        "publishedAt": "2026-11-11T17:52:55Z"
+        "id": "8a9d51857061ec7dbade",
+        "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
+        "summary": "AI交易重燃推动美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000美元。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785732",
+        "publishedAt": "2026-11-12T00:39:17Z"
       },
       {
         "id": "38482371b21aa3d5a861",
         "title": "中国船舶子公司签下超172亿元VLCC大单 预计于2029年至2030年交付 | 速读公告",
-        "summary": "中国船舶子公司签下超172亿元VLCC大单，预计2029年至2030年交付。",
+        "summary": "中国船舶子公司签下超172亿元VLCC大单，预计2029至2030年交付。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2531881",
-        "publishedAt": "2026-11-11T17:52:55Z"
+        "publishedAt": "2026-11-12T00:39:17Z"
+      },
+      {
+        "id": "b560b02f732d7fa442e8",
+        "title": "澎湃回声｜山东临沂回应“非标农用地膜”涉嫌违法产销问题：已依法立案调查",
+        "summary": "山东临沂回应非标农用地膜涉嫌违法产销，已依法立案调查。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34453548",
+        "publishedAt": "2026-11-12T00:39:17Z"
+      },
+      {
+        "id": "d7367914d74b40d317af",
+        "title": "为世界经济注入更多确定性和正能量",
+        "summary": "官方媒体称中国为世界经济注入更多确定性和正能量，强调开放合作。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7706690418313871396/",
+        "publishedAt": "2026-11-12T00:39:17Z"
+      },
+      {
+        "id": "7d167240f99aa2ad956d",
+        "title": "15分钟内限次免费停！时隔21年上海全面调整道路停车收费政策",
+        "summary": "上海时隔21年全面调整道路停车收费政策，实行15分钟内限次免费停车。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34450560",
+        "publishedAt": "2026-11-12T00:39:17Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，美俄乌阿布扎比三方会谈达成大规模换俘但和平无突破，西班牙14年来首次全国大罢工，美国中期选举后政治博弈持续，以及伊朗相关安全与封锁议题受到关注。",
+    "overview": "国际热点包括英伟达CEO去留、美民主党历史性胜选、西班牙全国大罢工、俄美乌会谈与加沙局势。",
     "items": [
+      {
+        "id": "3844acddcf03f19f6854",
+        "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
+        "summary": "英伟达董事会据报考虑罢免黄仁勋，因其与高管及疑似中国间谍有不当关系。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-11T16:01:00Z"
+      },
+      {
+        "id": "93438f66b0b9cefbe4a0",
+        "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+        "summary": "民主党人斯科特·科洛姆赢得密西西比州参议院席位，系140多年来该州首位非裔参议员。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-11T15:52:30Z"
+      },
+      {
+        "id": "f1c45a3670f4f85abb13",
+        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+        "summary": "西班牙14年来首次全国大罢工，数万人参与，巴塞罗那爆发冲突。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-11T14:07:37Z"
+      },
       {
         "id": "f2294f19c78dfead54b5",
         "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-        "summary": "美俄乌阿布扎比会谈达成开战以来最大规模换俘，但在更广泛和平协议上进展有限，美特使将分别会晤普京与泽连斯基。",
+        "summary": "美俄乌阿布扎比会谈达成开战以来最大规模换俘，但和平协议进展有限。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
         "publishedAt": "2026-11-11T09:03:43Z"
       },
       {
-        "id": "3d82b06cae5391cfaf77",
-        "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
-        "summary": "俄乌在阿联酋经两天美方斡旋会谈后同意大规模换俘，和平议题仍未取得突破。",
+        "id": "e6a836673e038654bfa9",
+        "title": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
+        "summary": "伊朗警告将扩大报复，以色列加强攻击伊朗准备，加沙冲突持续。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
-        "publishedAt": "2026-11-11T08:58:32Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+        "publishedAt": "2026-11-11T16:00:44Z"
       },
       {
-        "id": "551a61f441b4c9be459b",
-        "title": "Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
-        "summary": "西班牙举行14年来首次全国大罢工，数百万人参与抗议房租与住房成本飙升，罢工在议会选举前三周展开。",
+        "id": "2bb65e3e68c6275680bf",
+        "title": "Brooklyn building collapse kills at least one and traps others in wreckage",
+        "summary": "纽约布鲁克林一栋三层建筑倒塌，至少1人死亡、多人被困。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-        "publishedAt": "2026-11-11T05:54:36Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+        "publishedAt": "2026-11-11T16:06:10Z"
       },
       {
-        "id": "30917cb9fd8fd7850e8e",
-        "title": "Spain sees widespread disruption in first general strike for 14 years",
-        "summary": "西班牙大罢工造成广泛交通与公共服务中断，距议会选举不足三周，极右翼或受益。",
+        "id": "a240e6c498c5fb6dc79e",
+        "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
+        "summary": "马绍尔群岛总统在COP31警告，若不紧急应对气候危机，“我们所知的世界将终结”。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+        "publishedAt": "2026-11-11T10:52:08Z"
+      },
+      {
+        "id": "ec9a7a48355f2a57d970",
+        "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+        "summary": "意大利、苏格兰和北爱尔兰数千所学校收到虚假炸弹威胁，当局称无公共风险。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-11T09:44:32Z"
-      },
-      {
-        "id": "3b41180ba818b81b9b2f",
-        "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
-        "summary": "特朗普在弹劾赫格塞思失败后再表支持，并在退伍军人节讲话中否认美国挑起对伊战争。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-        "publishedAt": "2026-11-11T09:39:13Z"
-      },
-      {
-        "id": "065e8a4922b1630850f0",
-        "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
-        "summary": "白宫威胁对民主党计划调查总统采取刑事追责，民主党监督委员会主席称特朗普“有事要隐瞒”。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
-        "publishedAt": "2026-11-11T08:54:36Z"
-      },
-      {
-        "id": "9e1467a0de2e336df7cd",
-        "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-        "summary": "美财长贝森特因所谓伊朗威胁被转移安置，成为又一名因安全顾虑居于军事基地的特朗普政府官员。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-11T08:45:11Z"
-      },
-      {
-        "id": "620e3ca316b17aebe0ec",
-        "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-        "summary": "若美国封锁持续，伊朗“零石油”预算面临考验，外界预计多数伊朗人生活将更趋贫困。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
-        "publishedAt": "2026-11-11T07:40:17Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-11T10:38:45Z"
       }
     ]
   }
