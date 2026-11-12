@@ -1,103 +1,135 @@
 {
   "version": 1,
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T09:47:20Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-12T18:16:51Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内要闻聚焦中方对七国集团的回应、英伟达CEO黄仁勋面临董事会问责及AI产业震荡，同时涵盖A股波动、油价下调、食品安全执法等经济民生议题。",
+    "overview": "今日国内焦点集中于英伟达CEO黄仁勋辞职及其引发的全球AI板块震荡，同时纪念孙中山诞辰160周年大会在京举行，习近平发表重要讲话。宏观层面，证监会强调维护市场平稳运行，A股回购潮延续；产业科技方面，长鑫科技、中芯国际等半导体企业动态值得关注。",
     "items": [
       {
-        "id": "2c8b4076d8157f57f6a8",
-        "title": "中方奉劝七国集团管好自己的事情",
-        "summary": "中方奉劝七国集团管好自己的事情，就G7涉华言论表明立场。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707063162683768895/",
-        "publishedAt": "2026-11-12T09:47:20Z"
-      },
-      {
-        "id": "4188c319eabf76114f07",
-        "title": "今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
-        "summary": "英伟达董事会开会决定黄仁勋去留，并已开始遴选新CEO，考虑任命过渡CEO。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785773",
-        "publishedAt": "2026-11-12T09:47:20Z"
-      },
-      {
-        "id": "0b2aeb2a61521411963c",
-        "title": "黄仁勋出轨对象现在在北京？外交部回应",
-        "summary": "外交部回应黄仁勋出轨对象现在北京的相关提问。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8xzfJZQJ1fl",
-        "publishedAt": "2026-11-12T09:47:20Z"
-      },
-      {
-        "id": "b76eb181d510db3840ae",
-        "title": "创业板冲高回落跌超2%，算力硬件龙头午后下跌，GPU活跃、寒武纪一度重返千元，恒科指跌超2%，阿里大跌逾6%",
-        "summary": "创业板冲高回落跌超2%，算力硬件龙头午后下跌，恒科指跌超2%，阿里大跌逾6%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785781",
-        "publishedAt": "2026-11-12T09:47:20Z"
-      },
-      {
-        "id": "2ccaa0a77e98fd89de8a",
-        "title": "油价13日起下调",
-        "summary": "国内油价13日起下调，加满一箱油将少花25.5元。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707120376169431059/",
-        "publishedAt": "2026-11-12T09:47:20Z"
-      },
-      {
-        "id": "b560b02f732d7fa442e8",
-        "title": "澎湃回声｜山东临沂回应“非标农用地膜”涉嫌违法产销问题：已依法立案调查",
-        "summary": "山东临沂回应非标农用地膜涉嫌违法产销问题，已依法立案调查。",
+        "id": "95f3d27e8020561b4f63",
+        "title": "详讯丨纪念孙中山先生诞辰160周年大会在京举行，习近平发表重要讲话",
+        "summary": "纪念孙中山先生诞辰160周年大会在京举行，习近平发表重要讲话。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34453548",
-        "publishedAt": "2026-11-12T09:47:20Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34458812",
+        "publishedAt": "2026-11-12T18:16:51Z"
       },
       {
-        "id": "52a3285d9d930f7b42da",
-        "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了",
-        "summary": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，中国模型寻求突破。",
+        "id": "8b1a45d4ec77a5b94c66",
+        "title": "英伟达宣布CEO黄仁勋辞职",
+        "summary": "英伟达宣布CEO黄仁勋辞职，CFO兼任临时CEO，全球AI板块承压。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8y04rOsPfwl",
+        "publishedAt": "2026-11-12T18:16:51Z"
+      },
+      {
+        "id": "535a6a25a54226c0c7d2",
+        "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
+        "summary": "证监会表示将汇聚各方合力，全力维护市场平稳运行。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34458880",
+        "publishedAt": "2026-11-12T18:16:51Z"
+      },
+      {
+        "id": "f9b3551e9d99063b00d3",
+        "title": "A股回购潮延续！天孚通信、华虹宏力、海光信息等热门公司集体公告回购事项",
+        "summary": "A股回购潮延续，天孚通信、华虹宏力、海光信息等热门公司集体公告回购。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2532124",
-        "publishedAt": "2026-11-12T09:47:20Z"
+        "url": "https://www.cls.cn/detail/2532958",
+        "publishedAt": "2026-11-12T18:16:51Z"
       },
       {
-        "id": "b68a4173edb6bf9ed1ae",
-        "title": "德芙广告宣扬错误婚恋观 被罚80万",
-        "summary": "德芙广告因宣扬错误婚恋观被罚80万元。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E8%8A%99%E5%B9%BF%E5%91%8A%E5%AE%A3%E6%89%AC%E9%94%99%E8%AF%AF%E5%A9%9A%E6%81%8B%E8%A7%82+%E8%A2%AB%E7%BD%9A80%E4%B8%87",
-        "publishedAt": "2026-11-12T09:47:20Z"
+        "id": "9b0c72b039af39605576",
+        "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
+        "summary": "长鑫科技称计算超级周期进入分层时代，首展三大AI场景存储矩阵。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2532837",
+        "publishedAt": "2026-11-12T18:16:51Z"
+      },
+      {
+        "id": "713564bee37661a62388",
+        "title": "中芯国际Q3营收及毛利率超过指引 净利环比降8.35% 产能利用率进一步爬升",
+        "summary": "中芯国际Q3营收及毛利率超指引，净利环比降8.35%，产能利用率爬升。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2532908",
+        "publishedAt": "2026-11-12T18:16:51Z"
+      },
+      {
+        "id": "e5afc7501f967dcd4861",
+        "title": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办",
+        "summary": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34459136",
+        "publishedAt": "2026-11-12T18:16:51Z"
+      },
+      {
+        "id": "0ebb5a381a04174151e7",
+        "title": "乌方代表：是自2022年以来最艰难的一次谈判",
+        "summary": "乌方代表称此次谈判是自2022年以来最艰难的一次。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8xzEBg3PmVK",
+        "publishedAt": "2026-11-12T18:16:51Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，以色列空袭加沙医院致多人死亡，美俄乌在阿布扎比会谈后继续磋商，英伟达董事会考虑罢免黄仁勋引发市场关注，英国经济受AI推动加速增长。",
+    "overview": "国际方面，英伟达CEO黄仁勋辞职持续占据头条，其涉及婚外情及间谍指控引发市场巨震。美俄乌在阿布扎比举行三方会谈并达成换俘协议，美特使将分别会见普京与泽连斯基。此外，华盛顿特区健身房枪击案、以色列空袭加沙医院、COP31气候峰会等事件也受到广泛关注。",
     "items": [
       {
-        "id": "30bef479cc4e55cb70d8",
-        "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-        "summary": "以色列空袭加沙纳赛尔医院，造成至少6人死亡，包括一名外科医生。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-        "publishedAt": "2026-11-12T01:29:30Z"
-      },
-      {
-        "id": "c88ec8787b35348e70a6",
-        "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-        "summary": "美俄乌阿布扎比会谈结束，达成换俘协议，美特使将分别会见普京和泽连斯基。",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-        "publishedAt": "2026-11-12T01:38:46Z"
-      },
-      {
-        "id": "5e6d8240811ec503bc4c",
-        "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-        "summary": "英伟达董事会据报开会决定CEO黄仁勋去留，公司股价盘后大跌。",
+        "id": "4fb4ba1545c9bc656567",
+        "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+        "summary": "英伟达CEO黄仁勋因丑闻辞职，CFO临时接任，将赴美国国会作证。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-        "publishedAt": "2026-11-12T01:11:33Z"
+        "publishedAt": "2026-11-12T09:54:15Z"
+      },
+      {
+        "id": "a0f4d9787866fb8ec4c3",
+        "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
+        "summary": "美方称与俄罗斯、乌克兰及欧洲国家同意举行新会谈，阿布扎比会谈达成换俘协议。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+        "publishedAt": "2026-11-12T09:17:55Z"
+      },
+      {
+        "id": "41c8af998afcabc3a30c",
+        "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
+        "summary": "华盛顿特区健身房发生枪击案，嫌疑人自杀，造成1死4伤。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+        "publishedAt": "2026-11-12T09:42:35Z"
+      },
+      {
+        "id": "86340d5280aa8268c249",
+        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+        "summary": "以色列空袭加沙纳赛尔医院，造成至少6名巴勒斯坦人死亡。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-12T08:54:12Z"
+      },
+      {
+        "id": "31a75cc9b14517dec36c",
+        "title": "Putin says Russia would target foreign troops deployed to Ukraine",
+        "summary": "普京称俄罗斯将打击部署到乌克兰的外国军队，并警告美方谈判代表。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+        "publishedAt": "2026-11-12T09:26:51Z"
+      },
+      {
+        "id": "bda6f9b7bb7d1d0a731f",
+        "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+        "summary": "格蕾塔·通贝里在COP31气候峰会上指责各国政府导致环境崩溃。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+        "publishedAt": "2026-11-12T08:39:47Z"
+      },
+      {
+        "id": "e2b11775a7fd545141f5",
+        "title": "Mississippi makes history with Democrat senate win - The Latest",
+        "summary": "民主党人斯科特·科洛姆赢得密西西比州参议员席位，成为该州1875年以来首位黑人参议员。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest",
+        "publishedAt": "2026-11-12T09:42:03Z"
       },
       {
         "id": "0cadba8c51f54b6c7bc0",
@@ -106,38 +138,6 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
         "publishedAt": "2026-11-12T01:12:52Z"
-      },
-      {
-        "id": "8096c83f2f6bd35b0239",
-        "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-        "summary": "印尼副总统因教育资格争议辞职，执政联盟出现裂痕。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-12T00:46:57Z"
-      },
-      {
-        "id": "f1c45a3670f4f85abb13",
-        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-        "summary": "西班牙14年来首次全国大罢工，数万人参与，巴塞罗那爆发冲突。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-11T14:07:37Z"
-      },
-      {
-        "id": "90e6e26742890c96ee14",
-        "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
-        "summary": "巴基斯坦西北部袭击事件致10名警察和18名武装分子死亡。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
-        "publishedAt": "2026-11-12T00:35:20Z"
-      },
-      {
-        "id": "08f4be1722c5f330128b",
-        "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
-        "summary": "阿根廷政府威胁英国石油公司CEO，因福克兰群岛钻探项目面临监禁。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
-        "publishedAt": "2026-11-12T01:11:09Z"
       }
     ]
   }
