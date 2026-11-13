@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-14",
-  "generatedAt": "2026-11-13T16:18:21Z",
+  "generatedAt": "2026-11-13T23:31:08Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦人事监督、宏观政策与科技产业：高官被查、新型储能方案落地、金融数据与央行操作受关注；黄仁勋辞职引发英伟达及AI算力链连锁反应，和平饭店账单造假谣言被查处。",
+    "overview": "国内聚焦金融数据与货币政策、英伟达换帅引发的AI产业震动、反腐与网络谣言治理，以及APEC中国年等宏观议题。",
     "items": [
-      {
-        "id": "f89bda456e963b0f79bc",
-        "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
-        "summary": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查，中央反腐持续向高层延伸。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34468448",
-        "publishedAt": "2026-11-13T16:18:21Z"
-      },
-      {
-        "id": "4d4a879b6d0964a0c869",
-        "title": "两部门印发《“十五五”新型储能实施方案》",
-        "summary": "两部门印发“十五五”新型储能实施方案，明确未来五年储能产业规模与布局路径。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2533753",
-        "publishedAt": "2026-11-13T16:18:21Z"
-      },
       {
         "id": "663512486ba9983d834b",
         "title": "10月金融数据出炉：今年来企业债净融资3.1万亿，达上年同期增量的1.7倍",
-        "summary": "10月金融数据出炉，企业债净融资3.1万亿元，为上年同期增量的1.7倍。",
+        "summary": "10月金融数据出炉，企业债净融资3.1万亿元，达上年同期增量1.7倍，直接融资支撑实体。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2533957",
-        "publishedAt": "2026-11-13T16:18:21Z"
+        "publishedAt": "2026-11-13T23:31:08Z"
       },
       {
-        "id": "460a30fd2cb812f0ddf4",
-        "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
-        "summary": "央行开展2000亿元买断式逆回购，缩量续作以稳定市场流动性与预期。",
+        "id": "5ceb7c4321f603c3f351",
+        "title": "央行出手！2000亿元买断式逆回购来了",
+        "summary": "央行开展2000亿元买断式逆回购缩量续作，维护流动性合理充裕并稳定市场预期。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B%EF%BC%812000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD%E6%9D%A5%E4%BA%86",
+        "publishedAt": "2026-11-13T23:31:08Z"
+      },
+      {
+        "id": "95e71ba19ff1f49450a1",
+        "title": "前十月新增社融28.61万亿，新增贷款11.42万亿，10月末M2同比增长7.1%",
+        "summary": "前十月新增社融28.61万亿元、新增贷款11.42万亿元，10月末M2同比增长7.1%。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534228",
-        "publishedAt": "2026-11-13T16:18:21Z"
-      },
-      {
-        "id": "83ba2d046f4f8d33241f",
-        "title": "警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓",
-        "summary": "警方通报AI伪造和平饭店天价酒水账单案，15人被抓，造谣者被依法处理。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34466609",
-        "publishedAt": "2026-11-13T16:18:21Z"
+        "url": "https://www.cls.cn/detail/2533937",
+        "publishedAt": "2026-11-13T23:31:08Z"
       },
       {
         "id": "bfc7938919569003d2ab",
         "title": "黄仁勋辞职，特朗普“钦点”接班人：乔布斯也没他做得好",
-        "summary": "黄仁勋辞职后特朗普“钦点”接班人并高调评价，英伟达权力交接政治色彩浓厚。",
+        "summary": "英伟达CEO黄仁勋辞职，特朗普表态接班人，事件牵动中美科技与半导体供应链格局。",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8y1OkYoL2VO",
-        "publishedAt": "2026-11-13T16:18:21Z"
+        "publishedAt": "2026-11-13T23:31:08Z"
       },
       {
         "id": "0c0428d9a1317e62d974",
         "title": "英伟达供应链变数丛生 亚洲半导体厂商担忧长期合作稳定性",
-        "summary": "英伟达供应链变数丛生，亚洲半导体厂商担忧长期合作稳定性与订单风险。",
+        "summary": "英伟达供应链变数丛生，亚洲半导体厂商担忧长期合作稳定性，产业链风险升温。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2533903",
-        "publishedAt": "2026-11-13T16:18:21Z"
+        "publishedAt": "2026-11-13T23:31:08Z"
       },
       {
-        "id": "b287bac387cd29868e0e",
-        "title": "港股收盘 | 恒生科技指数单周大跌6.5% 英伟达突发换帅重创AI算力链",
-        "summary": "港股恒生科技指数单周大跌6.5%，英伟达突发换帅重创AI算力链相关个股。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2533894",
-        "publishedAt": "2026-11-13T16:18:21Z"
+        "id": "f89bda456e963b0f79bc",
+        "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
+        "summary": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查，省委常委会通报。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34468448",
+        "publishedAt": "2026-11-13T23:31:08Z"
+      },
+      {
+        "id": "83ba2d046f4f8d33241f",
+        "title": "警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓",
+        "summary": "警方通报AI伪造和平饭店天价酒水账单造谣案，15人被抓，涉事酒类销售人员组织。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34466609",
+        "publishedAt": "2026-11-13T23:31:08Z"
+      },
+      {
+        "id": "83cca0e33e67fb2cff73",
+        "title": "APEC“中国年”遇见“十五五”开局之年",
+        "summary": "APEC“中国年”与“十五五”开局之年叠加，中国主办国际议程受关注。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7707472649269743145/",
+        "publishedAt": "2026-11-13T23:31:08Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在美国科技与安全议题：英伟达换帅丑闻牵动白宫与国会，微软全球宕机持续发酵；俄乌和谈与欧洲安全博弈、伊朗对美雷达打击及IAEA核查争议同步升温。",
+    "overview": "国际关注美国FAA全国停飞、微软全球宕机、英伟达丑闻牵动白宫与国会、新奥尔良撞船事故及欧洲乌克兰和谈动向。",
     "items": [
+      {
+        "id": "306908bf26c362b0888f",
+        "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+        "summary": "美国FAA因通信故障发布全国地面停飞令，近1.1万架次航班延误或取消，官方排除网络攻击。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+        "publishedAt": "2026-11-13T15:01:06Z"
+      },
+      {
+        "id": "b85e9a6512960c4ae851",
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "summary": "微软全球宕机持续近24小时，Teams与Outlook受影响，公司致歉并称正恢复服务。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-13T13:14:22Z"
+      },
+      {
+        "id": "25f37dbdd02152fff97b",
+        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+        "summary": "英伟达丑闻发酵，美财长指责商务部未限制芯片出口，内阁问责压力上升。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-13T11:53:57Z"
+      },
       {
         "id": "994266b074c1636ef11e",
         "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-        "summary": "前英伟达CEO黄仁勋因涉中国间谍关联传闻被传唤赴国会作证，事件持续发酵。",
+        "summary": "前英伟达CEO黄仁勋因涉中国间谍关联传闻被传唤赴国会作证，事件持续扩大。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-11-12T19:57:01Z"
       },
       {
-        "id": "d6accdf3a29cd7a76d35",
-        "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-        "summary": "英伟达丑闻引发美国国家安全争议，国会呼吁对华采取更强硬芯片出口立场。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-        "publishedAt": "2026-11-12T22:34:59Z"
+        "id": "842fe55376fde8ea76b0",
+        "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+        "summary": "新奥尔良密西西比河货船撞邮轮致其倾覆，130余人全部获救，30余人轻伤送医。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-13T13:31:00Z"
       },
       {
-        "id": "99762edd20d77f913bb7",
-        "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-        "summary": "微软全球宕机影响Teams与Outlook，公司称正恢复服务且无网络攻击迹象。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-        "publishedAt": "2026-11-13T06:56:42Z"
+        "id": "4991122ecd31ee4e07a1",
+        "title": "Ukraine updates: EU to send united front to potential peace talks",
+        "summary": "德法英意波及欧盟将联合代表欧洲参与潜在乌克兰和谈，同时莫斯科连发汽车炸弹。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-13T11:39:00Z"
       },
       {
-        "id": "c28199d69840950641fe",
-        "title": "Microsoft outage live: Outlook, Teams recover as disruptions continue",
-        "summary": "微软宕机后续：部分服务恢复，全球企业与公共服务 disruptions 仍在持续。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
-        "publishedAt": "2026-11-13T03:18:01Z"
-      },
-      {
-        "id": "449de5211600c5c87440",
-        "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-        "summary": "欧盟外交政策负责人卡拉斯警告勿落入俄罗斯在乌克兰谈判中设置的陷阱。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-        "publishedAt": "2026-11-13T06:14:44Z"
-      },
-      {
-        "id": "75a36cd6909d7357a2a9",
-        "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
-        "summary": "欧洲寻求乌克兰和谈席位却缺乏统一声音，担忧美俄主导冲突命运。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
-        "publishedAt": "2026-11-13T07:43:39Z"
-      },
-      {
-        "id": "98788a9cb1879e26cc6f",
-        "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-        "summary": "伊朗称对巴林美军雷达实施报复打击，系数月来首次直接攻击美军设施。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-        "publishedAt": "2026-11-13T05:52:11Z"
-      },
-      {
-        "id": "c64eaf6909e84700aaf3",
-        "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-        "summary": "IAEA称对伊朗未受核查核设施日益担忧，无法核实伊斯法罕浓缩厂情况。",
+        "id": "8b78c3fb4f02980a3085",
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+        "summary": "微软全球宕机为何持续如此之久、邮件是否丢失，成外界追问焦点。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-13T04:28:28Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-13T10:36:57Z"
+      },
+      {
+        "id": "18a92cb7782b50360c72",
+        "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+        "summary": "印度阿萨姆邦卡车与巴士相撞致至少24人死亡，含多名学生，死亡人数或上升。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+        "publishedAt": "2026-11-13T08:01:45Z"
       }
     ]
   }
