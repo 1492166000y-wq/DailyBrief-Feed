@@ -1,80 +1,88 @@
 {
   "version": 1,
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T06:39:46Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-13T16:18:21Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "黄仁勋辞任英伟达CEO引发科技与市场连锁反应，涉及AI产业、国会作证、接班人及美股波动；国内聚焦APEC蓝图、考研人数、食品安全监管与产业科技动态。",
+    "overview": "国内要闻聚焦人事监督、宏观政策与科技产业：高官被查、新型储能方案落地、金融数据与央行操作受关注；黄仁勋辞职引发英伟达及AI算力链连锁反应，和平饭店账单造假谣言被查处。",
     "items": [
       {
-        "id": "61eb3aad047b25e8a84e",
-        "title": "伊朗再次打击美军在中东军事设施",
-        "summary": "伊朗再次打击美军在中东军事设施，地区紧张局势进一步升级，需关注美伊后续反应。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707474373690835482/",
-        "publishedAt": "2026-11-13T06:39:46Z"
-      },
-      {
-        "id": "78b46c9382d866939899",
-        "title": "APEC中长期蓝图锚定合作方向",
-        "summary": "APEC中长期蓝图锚定合作方向，为亚太经贸与供应链协作提供框架指引。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707492000291130907/",
-        "publishedAt": "2026-11-13T06:39:46Z"
-      },
-      {
-        "id": "bb0d403ae7961cb5f0d6",
-        "title": "2027研究生报考人数347万",
-        "summary": "2027年研究生报考人数达347万，反映升学竞争与就业压力持续。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=2027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87",
-        "publishedAt": "2026-11-13T06:39:46Z"
-      },
-      {
-        "id": "51779a6ac98aace26728",
-        "title": "黄仁勋下台有何影响？市场给出答案：博通、AMD大涨，CoreWeave、Nebius承压，费半指数微跌",
-        "summary": "黄仁勋下台后市场分化：博通、AMD大涨，CoreWeave、Nebius承压，费半微跌。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785829",
-        "publishedAt": "2026-11-13T06:39:46Z"
-      },
-      {
-        "id": "63cc6c867ef3b00cc924",
-        "title": "英伟达关于黄仁勋辞职及领导团队调整的声明全文",
-        "summary": "英伟达发布关于黄仁勋辞职及领导团队调整的声明，临时管理层安排受关注。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785832",
-        "publishedAt": "2026-11-13T06:39:46Z"
-      },
-      {
-        "id": "3ba777526bba1b1adaf3",
-        "title": "黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克",
-        "summary": "黄仁勋辞职后接班人猜想升温，CUDA之父领跑，特朗普公开推荐库克。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2533159",
-        "publishedAt": "2026-11-13T06:39:46Z"
-      },
-      {
-        "id": "5cfab1543d745fd81d5d",
-        "title": "【早报】黄仁勋辞职；英伟达市值，一夜蒸发1.2万亿元；多家美股科技硬件巨头，业绩超预期；国际油价，大幅拉升",
-        "summary": "早报：黄仁勋辞职，英伟达市值一夜蒸发1.2万亿元，多家美股科技硬件企业业绩超预期。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2533284",
-        "publishedAt": "2026-11-13T06:39:46Z"
-      },
-      {
-        "id": "e5afc7501f967dcd4861",
-        "title": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办",
-        "summary": "“甲醛白菜”等18起食品安全重大犯罪案件被挂牌督办，监管力度加强。",
+        "id": "f89bda456e963b0f79bc",
+        "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
+        "summary": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查，中央反腐持续向高层延伸。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34459136",
-        "publishedAt": "2026-11-13T06:39:46Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34468448",
+        "publishedAt": "2026-11-13T16:18:21Z"
+      },
+      {
+        "id": "4d4a879b6d0964a0c869",
+        "title": "两部门印发《“十五五”新型储能实施方案》",
+        "summary": "两部门印发“十五五”新型储能实施方案，明确未来五年储能产业规模与布局路径。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2533753",
+        "publishedAt": "2026-11-13T16:18:21Z"
+      },
+      {
+        "id": "663512486ba9983d834b",
+        "title": "10月金融数据出炉：今年来企业债净融资3.1万亿，达上年同期增量的1.7倍",
+        "summary": "10月金融数据出炉，企业债净融资3.1万亿元，为上年同期增量的1.7倍。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2533957",
+        "publishedAt": "2026-11-13T16:18:21Z"
+      },
+      {
+        "id": "460a30fd2cb812f0ddf4",
+        "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
+        "summary": "央行开展2000亿元买断式逆回购，缩量续作以稳定市场流动性与预期。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534228",
+        "publishedAt": "2026-11-13T16:18:21Z"
+      },
+      {
+        "id": "83ba2d046f4f8d33241f",
+        "title": "警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓",
+        "summary": "警方通报AI伪造和平饭店天价酒水账单案，15人被抓，造谣者被依法处理。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34466609",
+        "publishedAt": "2026-11-13T16:18:21Z"
+      },
+      {
+        "id": "bfc7938919569003d2ab",
+        "title": "黄仁勋辞职，特朗普“钦点”接班人：乔布斯也没他做得好",
+        "summary": "黄仁勋辞职后特朗普“钦点”接班人并高调评价，英伟达权力交接政治色彩浓厚。",
+        "source": "凤凰网",
+        "url": "https://news.ifeng.com/c/8y1OkYoL2VO",
+        "publishedAt": "2026-11-13T16:18:21Z"
+      },
+      {
+        "id": "0c0428d9a1317e62d974",
+        "title": "英伟达供应链变数丛生 亚洲半导体厂商担忧长期合作稳定性",
+        "summary": "英伟达供应链变数丛生，亚洲半导体厂商担忧长期合作稳定性与订单风险。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2533903",
+        "publishedAt": "2026-11-13T16:18:21Z"
+      },
+      {
+        "id": "b287bac387cd29868e0e",
+        "title": "港股收盘 | 恒生科技指数单周大跌6.5% 英伟达突发换帅重创AI算力链",
+        "summary": "港股恒生科技指数单周大跌6.5%，英伟达突发换帅重创AI算力链相关个股。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2533894",
+        "publishedAt": "2026-11-13T16:18:21Z"
       }
     ]
   },
   "global": {
-    "overview": "法国启动欧盟对俄新制裁，德法英经济与安全议题持续；美国要求日本增加驻留费，印太同盟成本分担受关注；此外，全球科技与产业政策亦有多项进展值得留意。",
+    "overview": "国际焦点集中在美国科技与安全议题：英伟达换帅丑闻牵动白宫与国会，微软全球宕机持续发酵；俄乌和谈与欧洲安全博弈、伊朗对美雷达打击及IAEA核查争议同步升温。",
     "items": [
+      {
+        "id": "994266b074c1636ef11e",
+        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+        "summary": "前英伟达CEO黄仁勋因涉中国间谍关联传闻被传唤赴国会作证，事件持续发酵。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-12T19:57:01Z"
+      },
       {
         "id": "d6accdf3a29cd7a76d35",
         "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
@@ -84,60 +92,52 @@
         "publishedAt": "2026-11-12T22:34:59Z"
       },
       {
-        "id": "3717b9e3204110546699",
-        "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-        "summary": "黄仁勋预计赴美国国会作证，芯片出口管制与AI产业安全成听证焦点。",
+        "id": "99762edd20d77f913bb7",
+        "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+        "summary": "微软全球宕机影响Teams与Outlook，公司称正恢复服务且无网络攻击迹象。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-        "publishedAt": "2026-11-12T22:29:05Z"
+        "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+        "publishedAt": "2026-11-13T06:56:42Z"
       },
       {
-        "id": "994266b074c1636ef11e",
-        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-        "summary": "美媒称前英伟达CEO黄仁勋因涉中国间谍关联传闻被传唤作证，事件持续发酵。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-12T19:57:01Z"
-      },
-      {
-        "id": "81b18ac54edfdfcae59b",
-        "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
-        "summary": "美国联手FBI打击朝鲜4亿美元加密货币诈骗，并追缴相关资产。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-12T20:19:00Z"
-      },
-      {
-        "id": "55ea21977ade83db2f27",
-        "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-        "summary": "芬兰发现俄军舰遭袭，正值泽连斯基会见美方特使，波罗的海局势受关注。",
+        "id": "c28199d69840950641fe",
+        "title": "Microsoft outage live: Outlook, Teams recover as disruptions continue",
+        "summary": "微软宕机后续：部分服务恢复，全球企业与公共服务 disruptions 仍在持续。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
-        "publishedAt": "2026-11-12T18:35:21Z"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+        "publishedAt": "2026-11-13T03:18:01Z"
       },
       {
-        "id": "d202bfecd1bf54971057",
-        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-        "summary": "泽连斯基欢迎美国将欧洲纳入俄乌和谈，和平进程多边协调或将提速。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-12T18:01:35Z"
-      },
-      {
-        "id": "b6d516d58a3ca108140d",
-        "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preferences squabble puts key seats on the line",
-        "summary": "Greens retaliate against Labor’s move to run an open ticket in Prahran by leavin",
+        "id": "449de5211600c5c87440",
+        "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+        "summary": "欧盟外交政策负责人卡拉斯警告勿落入俄罗斯在乌克兰谈判中设置的陷阱。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
-        "publishedAt": "2026-11-12T22:16:06Z"
+        "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+        "publishedAt": "2026-11-13T06:14:44Z"
       },
       {
-        "id": "2670986ef18f1c32c86f",
-        "title": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
-        "summary": "Cummins says Khawaja was '100 percent wrong' in claiming the whole team knew abo",
+        "id": "75a36cd6909d7357a2a9",
+        "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+        "summary": "欧洲寻求乌克兰和谈席位却缺乏统一声音，担忧美俄主导冲突命运。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/11/13/pat-cummins-australia-usman-khawaja-sandpapergate-test-south-africa?traffic_source=rss",
-        "publishedAt": "2026-11-12T22:13:11Z"
+        "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+        "publishedAt": "2026-11-13T07:43:39Z"
+      },
+      {
+        "id": "98788a9cb1879e26cc6f",
+        "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+        "summary": "伊朗称对巴林美军雷达实施报复打击，系数月来首次直接攻击美军设施。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+        "publishedAt": "2026-11-13T05:52:11Z"
+      },
+      {
+        "id": "c64eaf6909e84700aaf3",
+        "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+        "summary": "IAEA称对伊朗未受核查核设施日益担忧，无法核实伊斯法罕浓缩厂情况。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-13T04:28:28Z"
       }
     ]
   }
