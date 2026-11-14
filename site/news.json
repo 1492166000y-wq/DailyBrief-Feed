@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-14",
-  "generatedAt": "2026-11-13T23:31:08Z",
+  "generatedAt": "2026-11-14T06:16:34Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦金融数据与货币政策、英伟达换帅引发的AI产业震动、反腐与网络谣言治理，以及APEC中国年等宏观议题。",
+    "overview": "国内聚焦医保谈判、极端天气与AI人事风波；王忠林被查、APEC中国年、新型储能方案等宏观政策议题受关注；英伟达人事变动引发连环讨论。",
     "items": [
-      {
-        "id": "663512486ba9983d834b",
-        "title": "10月金融数据出炉：今年来企业债净融资3.1万亿，达上年同期增量的1.7倍",
-        "summary": "10月金融数据出炉，企业债净融资3.1万亿元，达上年同期增量1.7倍，直接融资支撑实体。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2533957",
-        "publishedAt": "2026-11-13T23:31:08Z"
-      },
-      {
-        "id": "5ceb7c4321f603c3f351",
-        "title": "央行出手！2000亿元买断式逆回购来了",
-        "summary": "央行开展2000亿元买断式逆回购缩量续作，维护流动性合理充裕并稳定市场预期。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B%EF%BC%812000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD%E6%9D%A5%E4%BA%86",
-        "publishedAt": "2026-11-13T23:31:08Z"
-      },
-      {
-        "id": "95e71ba19ff1f49450a1",
-        "title": "前十月新增社融28.61万亿，新增贷款11.42万亿，10月末M2同比增长7.1%",
-        "summary": "前十月新增社融28.61万亿元、新增贷款11.42万亿元，10月末M2同比增长7.1%。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2533937",
-        "publishedAt": "2026-11-13T23:31:08Z"
-      },
-      {
-        "id": "bfc7938919569003d2ab",
-        "title": "黄仁勋辞职，特朗普“钦点”接班人：乔布斯也没他做得好",
-        "summary": "英伟达CEO黄仁勋辞职，特朗普表态接班人，事件牵动中美科技与半导体供应链格局。",
-        "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8y1OkYoL2VO",
-        "publishedAt": "2026-11-13T23:31:08Z"
-      },
-      {
-        "id": "0c0428d9a1317e62d974",
-        "title": "英伟达供应链变数丛生 亚洲半导体厂商担忧长期合作稳定性",
-        "summary": "英伟达供应链变数丛生，亚洲半导体厂商担忧长期合作稳定性，产业链风险升温。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2533903",
-        "publishedAt": "2026-11-13T23:31:08Z"
-      },
       {
         "id": "f89bda456e963b0f79bc",
         "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
-        "summary": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查，省委常委会通报。",
+        "summary": "十四届全国人大环资委副主任委员王忠林被查，湖北省委表态坚决拥护中央决定。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34468448",
-        "publishedAt": "2026-11-13T23:31:08Z"
+        "publishedAt": "2026-11-14T06:16:34Z"
       },
       {
-        "id": "83ba2d046f4f8d33241f",
-        "title": "警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓",
-        "summary": "警方通报AI伪造和平饭店天价酒水账单造谣案，15人被抓，涉事酒类销售人员组织。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34466609",
-        "publishedAt": "2026-11-13T23:31:08Z"
-      },
-      {
-        "id": "83cca0e33e67fb2cff73",
-        "title": "APEC“中国年”遇见“十五五”开局之年",
-        "summary": "APEC“中国年”与“十五五”开局之年叠加，中国主办国际议程受关注。",
+        "id": "14e9b9ad5138c5c68cc2",
+        "title": "党的二十届五中全会《决定》高频词",
+        "summary": "党的二十届五中全会《决定》高频词发布，梳理政策重点与发展方向。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707472649269743145/",
-        "publishedAt": "2026-11-13T23:31:08Z"
+        "url": "https://www.toutiao.com/trending/7707596736319111222/",
+        "publishedAt": "2026-11-14T06:16:34Z"
+      },
+      {
+        "id": "21f015c7690cd94569c8",
+        "title": "一组数据读懂APEC“中国年”新机遇",
+        "summary": "数据解读APEC“中国年”新机遇，聚焦经贸合作与区域开放前景。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E6%96%B0%E6%9C%BA%E9%81%87",
+        "publishedAt": "2026-11-14T06:16:34Z"
+      },
+      {
+        "id": "c5d6fe16963af1a957ad",
+        "title": "【早报】新型储能重磅实施方案印发；TCL中环、中国稀土下周一复牌",
+        "summary": "新型储能重磅实施方案印发；TCL中环、中国稀土下周一复牌。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534356",
+        "publishedAt": "2026-11-14T06:16:34Z"
+      },
+      {
+        "id": "663512486ba9983d834b",
+        "title": "10月金融数据出炉：今年来企业债净融资3.1万亿，达上年同期增量的1.7倍",
+        "summary": "10月金融数据出炉，企业债净融资3.1万亿元，达上年同期增量1.7倍。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2533957",
+        "publishedAt": "2026-11-14T06:16:34Z"
+      },
+      {
+        "id": "029c1bc0d395956eaf59",
+        "title": "中国10月新增社融1.15万亿元，人民币贷款减少1000亿元，M2同比增长7.1%",
+        "summary": "10月新增社融1.15万亿元，人民币贷款减少1000亿元，M2同比增7.1%。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785892",
+        "publishedAt": "2026-11-14T06:16:34Z"
+      },
+      {
+        "id": "4e14d72335a1f154e182",
+        "title": "原价129万/支的天价药进医保了",
+        "summary": "原价129万元一支的天价药进入医保目录，大幅减轻患者负担。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7707855337277161526/",
+        "publishedAt": "2026-11-14T06:16:34Z"
+      },
+      {
+        "id": "7b3c9736ea811b8288f3",
+        "title": "大暴雪特大暴雪 断崖式降温来了",
+        "summary": "大暴雪、特大暴雪来袭并伴随断崖式降温，多地需防范低温雨雪影响。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%9A%B4%E9%9B%AA%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A9%E6%9D%A5%E4%BA%86",
+        "publishedAt": "2026-11-14T06:16:34Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注美国FAA全国停飞、微软全球宕机、英伟达丑闻牵动白宫与国会、新奥尔良撞船事故及欧洲乌克兰和谈动向。",
+    "overview": "国际焦点为美国全国航班停飞及解除、微软全球宕机后续；特朗普、习近平、普京拟在中国举行三方峰会；SpaceX星舰试飞回收受挫；英伟达丑闻持续发酵。",
     "items": [
       {
-        "id": "306908bf26c362b0888f",
-        "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-        "summary": "美国FAA因通信故障发布全国地面停飞令，近1.1万架次航班延误或取消，官方排除网络攻击。",
+        "id": "34aabce138115cb2767d",
+        "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
+        "summary": "美国联邦航空管理局解除全国航班地面停飞，此前数千航班延误或取消。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-        "publishedAt": "2026-11-13T15:01:06Z"
+        "publishedAt": "2026-11-13T18:15:53Z"
+      },
+      {
+        "id": "3eba3c55baffac405285",
+        "title": "What we know about the longest ground stop since 9/11",
+        "summary": "美方称最长地面停飞系老旧设备过载所致，非网络攻击或微软故障。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-13T19:45:21Z"
+      },
+      {
+        "id": "e37e1f2f18620adb2e09",
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "summary": "白宫称特朗普、普京与习近平计划下周在中国举行历史性三方会晤。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-13T21:52:31Z"
+      },
+      {
+        "id": "0104c56a2a323daef9fe",
+        "title": "Trump, Xi and Putin to hold first three-way summit in China",
+        "summary": "特朗普拟在APEC期间三方峰会谈伊朗战争与核武议题。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+        "publishedAt": "2026-11-13T20:55:58Z"
+      },
+      {
+        "id": "932d65c82b49d368acb5",
+        "title": "SpaceX launches Starship rocket, fails to recover booster",
+        "summary": "SpaceX星舰试飞升空，超重助推器回收失败，飞船继续入轨。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-13T18:24:00Z"
       },
       {
         "id": "b85e9a6512960c4ae851",
         "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "summary": "微软全球宕机持续近24小时，Teams与Outlook受影响，公司致歉并称正恢复服务。",
+        "summary": "微软为近24小时全球宕机致歉，Teams与Outlook受影响后逐步恢复。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-11-13T13:14:22Z"
       },
       {
-        "id": "25f37dbdd02152fff97b",
-        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-        "summary": "英伟达丑闻发酵，美财长指责商务部未限制芯片出口，内阁问责压力上升。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-13T11:53:57Z"
-      },
-      {
         "id": "994266b074c1636ef11e",
         "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-        "summary": "前英伟达CEO黄仁勋因涉中国间谍关联传闻被传唤赴国会作证，事件持续扩大。",
+        "summary": "前英伟达CEO黄仁勋因涉中国间谍关联传闻被传唤赴国会作证。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-11-12T19:57:01Z"
       },
       {
-        "id": "842fe55376fde8ea76b0",
-        "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
-        "summary": "新奥尔良密西西比河货船撞邮轮致其倾覆，130余人全部获救，30余人轻伤送医。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-13T13:31:00Z"
-      },
-      {
-        "id": "4991122ecd31ee4e07a1",
-        "title": "Ukraine updates: EU to send united front to potential peace talks",
-        "summary": "德法英意波及欧盟将联合代表欧洲参与潜在乌克兰和谈，同时莫斯科连发汽车炸弹。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-13T11:39:00Z"
-      },
-      {
-        "id": "8b78c3fb4f02980a3085",
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "summary": "微软全球宕机为何持续如此之久、邮件是否丢失，成外界追问焦点。",
+        "id": "25f37dbdd02152fff97b",
+        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+        "summary": "英伟达丑闻发酵，美财长指责商务部未限制芯片出口，内阁问责升温。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-13T10:36:57Z"
-      },
-      {
-        "id": "18a92cb7782b50360c72",
-        "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
-        "summary": "印度阿萨姆邦卡车与巴士相撞致至少24人死亡，含多名学生，死亡人数或上升。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
-        "publishedAt": "2026-11-13T08:01:45Z"
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-13T11:53:57Z"
       }
     ]
   }
