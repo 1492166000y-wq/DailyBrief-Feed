@@ -1,84 +1,84 @@
 {
   "version": 1,
   "date": "2026-11-14",
-  "generatedAt": "2026-11-14T06:16:34Z",
+  "generatedAt": "2026-11-14T13:35:25Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦医保谈判、极端天气与AI人事风波；王忠林被查、APEC中国年、新型储能方案等宏观政策议题受关注；英伟达人事变动引发连环讨论。",
+    "overview": "国内板块聚焦反腐、资本市场政策、新型储能与医保目录调整，同时涉及国足冲突等体育争议事件；整体以政策与监管动态为主线。",
     "items": [
       {
-        "id": "f89bda456e963b0f79bc",
-        "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
-        "summary": "十四届全国人大环资委副主任委员王忠林被查，湖北省委表态坚决拥护中央决定。",
+        "id": "0e1ae15d13122fdcf4a2",
+        "title": "王忠林被查，湖北省委：坚决拥护党中央决定",
+        "summary": "王忠林被查，湖北省委表态坚决拥护党中央决定，凸显高层反腐持续加压。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34468448",
-        "publishedAt": "2026-11-14T06:16:34Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34469875",
+        "publishedAt": "2026-11-14T13:35:25Z"
       },
       {
-        "id": "14e9b9ad5138c5c68cc2",
-        "title": "党的二十届五中全会《决定》高频词",
-        "summary": "党的二十届五中全会《决定》高频词发布，梳理政策重点与发展方向。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707596736319111222/",
-        "publishedAt": "2026-11-14T06:16:34Z"
-      },
-      {
-        "id": "21f015c7690cd94569c8",
-        "title": "一组数据读懂APEC“中国年”新机遇",
-        "summary": "数据解读APEC“中国年”新机遇，聚焦经贸合作与区域开放前景。",
+        "id": "177155670e70ea6e35a1",
+        "title": "中纪委罕见通报高官一把手职权腐败",
+        "summary": "中纪委罕见通报高官“一把手”职权腐败问题，释放强化权力监督信号。",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E6%96%B0%E6%9C%BA%E9%81%87",
-        "publishedAt": "2026-11-14T06:16:34Z"
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5",
+        "publishedAt": "2026-11-14T13:35:25Z"
+      },
+      {
+        "id": "c58b79be2aa9e9531d47",
+        "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
+        "summary": "吴清表示深化市场稳定长效机制研究，防范市场异常波动。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534426",
+        "publishedAt": "2026-11-14T13:35:25Z"
+      },
+      {
+        "id": "e7da37c1163d9a7c1a22",
+        "title": "吴清：研究优化量化交易、减持等制度安排，加强科技企业发行上市制度适配性研究",
+        "summary": "吴清称将优化量化交易、减持等制度安排，加强科技企业上市适配性研究。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785937",
+        "publishedAt": "2026-11-14T13:35:25Z"
+      },
+      {
+        "id": "460a30fd2cb812f0ddf4",
+        "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
+        "summary": "央行开展2000亿元买断式逆回购，缩量续作以稳定市场预期。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534228",
+        "publishedAt": "2026-11-14T13:35:25Z"
       },
       {
         "id": "c5d6fe16963af1a957ad",
         "title": "【早报】新型储能重磅实施方案印发；TCL中环、中国稀土下周一复牌",
-        "summary": "新型储能重磅实施方案印发；TCL中环、中国稀土下周一复牌。",
+        "summary": "新型储能重磅实施方案印发，TCL中环、中国稀土下周一复牌。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534356",
-        "publishedAt": "2026-11-14T06:16:34Z"
+        "publishedAt": "2026-11-14T13:35:25Z"
       },
       {
-        "id": "663512486ba9983d834b",
-        "title": "10月金融数据出炉：今年来企业债净融资3.1万亿，达上年同期增量的1.7倍",
-        "summary": "10月金融数据出炉，企业债净融资3.1万亿元，达上年同期增量1.7倍。",
+        "id": "164c5805ea34efd4cb6c",
+        "title": "创新高！51款一类新药纳入新版医保目录释放哪些信号？",
+        "summary": "51款一类新药纳入新版医保目录创新高，释放支持创新药信号。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2533957",
-        "publishedAt": "2026-11-14T06:16:34Z"
-      },
-      {
-        "id": "029c1bc0d395956eaf59",
-        "title": "中国10月新增社融1.15万亿元，人民币贷款减少1000亿元，M2同比增长7.1%",
-        "summary": "10月新增社融1.15万亿元，人民币贷款减少1000亿元，M2同比增7.1%。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785892",
-        "publishedAt": "2026-11-14T06:16:34Z"
+        "url": "https://www.cls.cn/detail/2534469",
+        "publishedAt": "2026-11-14T13:35:25Z"
       },
       {
         "id": "4e14d72335a1f154e182",
         "title": "原价129万/支的天价药进医保了",
-        "summary": "原价129万元一支的天价药进入医保目录，大幅减轻患者负担。",
+        "summary": "原价129万元一支的天价药进入医保，减轻患者负担受关注。",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7707855337277161526/",
-        "publishedAt": "2026-11-14T06:16:34Z"
-      },
-      {
-        "id": "7b3c9736ea811b8288f3",
-        "title": "大暴雪特大暴雪 断崖式降温来了",
-        "summary": "大暴雪、特大暴雪来袭并伴随断崖式降温，多地需防范低温雨雪影响。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%9A%B4%E9%9B%AA%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A9%E6%9D%A5%E4%BA%86",
-        "publishedAt": "2026-11-14T06:16:34Z"
+        "publishedAt": "2026-11-14T13:35:25Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点为美国全国航班停飞及解除、微软全球宕机后续；特朗普、习近平、普京拟在中国举行三方峰会；SpaceX星舰试飞回收受挫；英伟达丑闻持续发酵。",
+    "overview": "国际板块突出美国航班全国停飞、微软全球宕机、中美俄三方会晤筹备及乌克兰局势，兼有以色列政局、匈牙利反腐与全球气候议题。",
     "items": [
       {
         "id": "34aabce138115cb2767d",
         "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
-        "summary": "美国联邦航空管理局解除全国航班地面停飞，此前数千航班延误或取消。",
+        "summary": "美国联邦航空管理局解除全国地面停飞，此前数千航班延误或取消。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
         "publishedAt": "2026-11-13T18:15:53Z"
@@ -86,10 +86,18 @@
       {
         "id": "3eba3c55baffac405285",
         "title": "What we know about the longest ground stop since 9/11",
-        "summary": "美方称最长地面停飞系老旧设备过载所致，非网络攻击或微软故障。",
+        "summary": "美方称史上最长地面停飞系老旧设备过载所致，非网络攻击或微软故障。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-11-13T19:45:21Z"
+      },
+      {
+        "id": "17772a768e3d79c6460c",
+        "title": "Microsoft says services fully restored after global outage hits governments",
+        "summary": "微软称全球宕机影响多国政府与企业后服务已全面恢复。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+        "publishedAt": "2026-11-14T03:54:31Z"
       },
       {
         "id": "e37e1f2f18620adb2e09",
@@ -100,44 +108,36 @@
         "publishedAt": "2026-11-13T21:52:31Z"
       },
       {
-        "id": "0104c56a2a323daef9fe",
-        "title": "Trump, Xi and Putin to hold first three-way summit in China",
-        "summary": "特朗普拟在APEC期间三方峰会谈伊朗战争与核武议题。",
+        "id": "016097308417cd7836aa",
+        "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+        "summary": "泽连斯基称美方首次提出以乌军撤出顿巴斯换取加入北约，俄袭击致三人死亡。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
-        "publishedAt": "2026-11-13T20:55:58Z"
+        "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+        "publishedAt": "2026-11-14T03:43:06Z"
       },
       {
-        "id": "932d65c82b49d368acb5",
-        "title": "SpaceX launches Starship rocket, fails to recover booster",
-        "summary": "SpaceX星舰试飞升空，超重助推器回收失败，飞船继续入轨。",
+        "id": "68ecffa7252334fd82cd",
+        "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+        "summary": "泽连斯基表示乌安全协议可能付诸全民公投。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-13T18:24:00Z"
+        "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-14T03:40:00Z"
       },
       {
-        "id": "b85e9a6512960c4ae851",
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "summary": "微软为近24小时全球宕机致歉，Teams与Outlook受影响后逐步恢复。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-13T13:14:22Z"
+        "id": "8e83d64265285b0c05c6",
+        "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+        "summary": "匈牙利反腐调查查获约1800万美元藏匿现金，涉前欧尔班时期部长。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+        "publishedAt": "2026-11-14T00:39:07Z"
       },
       {
-        "id": "994266b074c1636ef11e",
-        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-        "summary": "前英伟达CEO黄仁勋因涉中国间谍关联传闻被传唤赴国会作证。",
+        "id": "af986893bfef8b710413",
+        "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+        "summary": "匈牙利当局在调查欧尔班时期部长期间发现约2000万美元，总理承诺反腐。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-12T19:57:01Z"
-      },
-      {
-        "id": "25f37dbdd02152fff97b",
-        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-        "summary": "英伟达丑闻发酵，美财长指责商务部未限制芯片出口，内阁问责升温。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-13T11:53:57Z"
+        "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-14T02:42:20Z"
       }
     ]
   }
