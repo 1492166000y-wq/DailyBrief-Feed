@@ -1,50 +1,26 @@
 {
   "version": 1,
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T13:35:25Z",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-14T19:09:40Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内板块聚焦反腐、资本市场政策、新型储能与医保目录调整，同时涉及国足冲突等体育争议事件；整体以政策与监管动态为主线。",
+    "overview": "国内看点聚焦：美国全国停飞波及中国乘客，证监会深化市场稳定机制，新型储能方案落地，医保目录扩容，以及高校作息与雪假调整等民生议题。",
     "items": [
-      {
-        "id": "0e1ae15d13122fdcf4a2",
-        "title": "王忠林被查，湖北省委：坚决拥护党中央决定",
-        "summary": "王忠林被查，湖北省委表态坚决拥护党中央决定，凸显高层反腐持续加压。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34469875",
-        "publishedAt": "2026-11-14T13:35:25Z"
-      },
-      {
-        "id": "177155670e70ea6e35a1",
-        "title": "中纪委罕见通报高官一把手职权腐败",
-        "summary": "中纪委罕见通报高官“一把手”职权腐败问题，释放强化权力监督信号。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5",
-        "publishedAt": "2026-11-14T13:35:25Z"
-      },
       {
         "id": "c58b79be2aa9e9531d47",
         "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
-        "summary": "吴清表示深化市场稳定长效机制研究，防范市场异常波动。",
+        "summary": "证监会主席吴清表示将深化市场稳定长效机制研究，防范市场异常波动。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534426",
-        "publishedAt": "2026-11-14T13:35:25Z"
+        "publishedAt": "2026-11-14T19:09:40Z"
       },
       {
         "id": "e7da37c1163d9a7c1a22",
         "title": "吴清：研究优化量化交易、减持等制度安排，加强科技企业发行上市制度适配性研究",
-        "summary": "吴清称将优化量化交易、减持等制度安排，加强科技企业上市适配性研究。",
+        "summary": "吴清提出研究优化量化交易、减持等制度，加强科技企业上市制度适配。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785937",
-        "publishedAt": "2026-11-14T13:35:25Z"
-      },
-      {
-        "id": "460a30fd2cb812f0ddf4",
-        "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
-        "summary": "央行开展2000亿元买断式逆回购，缩量续作以稳定市场预期。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534228",
-        "publishedAt": "2026-11-14T13:35:25Z"
+        "publishedAt": "2026-11-14T19:09:40Z"
       },
       {
         "id": "c5d6fe16963af1a957ad",
@@ -52,7 +28,7 @@
         "summary": "新型储能重磅实施方案印发，TCL中环、中国稀土下周一复牌。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534356",
-        "publishedAt": "2026-11-14T13:35:25Z"
+        "publishedAt": "2026-11-14T19:09:40Z"
       },
       {
         "id": "164c5805ea34efd4cb6c",
@@ -60,44 +36,76 @@
         "summary": "51款一类新药纳入新版医保目录创新高，释放支持创新药信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534469",
-        "publishedAt": "2026-11-14T13:35:25Z"
+        "publishedAt": "2026-11-14T19:09:40Z"
       },
       {
-        "id": "4e14d72335a1f154e182",
-        "title": "原价129万/支的天价药进医保了",
-        "summary": "原价129万元一支的天价药进入医保，减轻患者负担受关注。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707855337277161526/",
-        "publishedAt": "2026-11-14T13:35:25Z"
+        "id": "460a30fd2cb812f0ddf4",
+        "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
+        "summary": "央行开展2000亿元买断式逆回购，缩量续作以稳定市场预期。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534228",
+        "publishedAt": "2026-11-14T19:09:40Z"
+      },
+      {
+        "id": "123254515941c6b8e852",
+        "title": "连休五天！多地公布雪假时间",
+        "summary": "多地公布雪假安排，最长可连休五天。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34479010",
+        "publishedAt": "2026-11-14T19:09:40Z"
+      },
+      {
+        "id": "52c7abdc230106b45a22",
+        "title": "多地中小学宣布调整作息",
+        "summary": "多地中小学宣布调整作息时间，引发家长与社会关注。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AE%A3%E5%B8%83%E8%B0%83%E6%95%B4%E4%BD%9C%E6%81%AF",
+        "publishedAt": "2026-11-14T19:09:40Z"
+      },
+      {
+        "id": "a50e27fb726ea4e10151",
+        "title": "我国10吨级电动商用飞机有人驾驶首飞成功",
+        "summary": "我国10吨级电动商用飞机完成有人驾驶首飞，标志电动航空进展。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534433",
+        "publishedAt": "2026-11-14T19:09:40Z"
       }
     ]
   },
   "global": {
-    "overview": "国际板块突出美国航班全国停飞、微软全球宕机、中美俄三方会晤筹备及乌克兰局势，兼有以色列政局、匈牙利反腐与全球气候议题。",
+    "overview": "国际看点聚焦：美国FAA全国停飞原因曝光，意大利重罚Meta，欧盟对加沙人道准入发声，特朗普、普京、习近平拟举行三方会晤，以及乌克兰与俄罗斯局势。",
     "items": [
       {
-        "id": "34aabce138115cb2767d",
-        "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
-        "summary": "美国联邦航空管理局解除全国地面停飞，此前数千航班延误或取消。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-        "publishedAt": "2026-11-13T18:15:53Z"
-      },
-      {
-        "id": "3eba3c55baffac405285",
-        "title": "What we know about the longest ground stop since 9/11",
-        "summary": "美方称史上最长地面停飞系老旧设备过载所致，非网络攻击或微软故障。",
+        "id": "633091ed5223866c6c8c",
+        "title": "What we know about the ground stop and what to do if you're affected",
+        "summary": "美国FAA全国地面停飞由老旧设备超载引发，官方排除网络攻击，航班大面积延误。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-13T19:45:21Z"
+        "publishedAt": "2026-11-14T11:00:16Z"
       },
       {
-        "id": "17772a768e3d79c6460c",
-        "title": "Microsoft says services fully restored after global outage hits governments",
-        "summary": "微软称全球宕机影响多国政府与企业后服务已全面恢复。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-        "publishedAt": "2026-11-14T03:54:31Z"
+        "id": "e40274ba73e01fb74eac",
+        "title": "US blames outdated technology for nationwide flight disruption",
+        "summary": "美国交通部门将全国航班中断归咎于陈旧技术，承诺追责。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
+        "publishedAt": "2026-11-14T10:32:40Z"
+      },
+      {
+        "id": "9cc16db656de618f1496",
+        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+        "summary": "意大利以安卓用户照片数据访问问题对Meta处以约8.87亿美元罚款。",
+        "source": "Hacker News",
+        "url": "https://gitlab.com/snipedbywifi/terminactory",
+        "publishedAt": "2026-11-14T06:05:54Z"
+      },
+      {
+        "id": "76b9449be21747483c27",
+        "title": "EU calls for immediate humanitarian access to Gaza",
+        "summary": "欧盟呼吁立即开放加沙人道准入，要求以色列允许联合国机构开展工作。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+        "publishedAt": "2026-11-14T07:57:22Z"
       },
       {
         "id": "e37e1f2f18620adb2e09",
@@ -105,12 +113,12 @@
         "summary": "白宫称特朗普、普京与习近平计划下周在中国举行历史性三方会晤。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-13T21:52:31Z"
+        "publishedAt": "2026-11-14T07:53:55Z"
       },
       {
         "id": "016097308417cd7836aa",
         "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-        "summary": "泽连斯基称美方首次提出以乌军撤出顿巴斯换取加入北约，俄袭击致三人死亡。",
+        "summary": "泽连斯基称美方提出以乌军撤出顿巴斯换取入北约，俄袭击致三人死亡。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
         "publishedAt": "2026-11-14T03:43:06Z"
@@ -118,26 +126,18 @@
       {
         "id": "68ecffa7252334fd82cd",
         "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-        "summary": "泽连斯基表示乌安全协议可能付诸全民公投。",
+        "summary": "泽连斯基表示乌克兰安全协议可能付诸全民公投。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-top-1022-rdf",
         "publishedAt": "2026-11-14T03:40:00Z"
       },
       {
-        "id": "8e83d64265285b0c05c6",
-        "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
-        "summary": "匈牙利反腐调查查获约1800万美元藏匿现金，涉前欧尔班时期部长。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
-        "publishedAt": "2026-11-14T00:39:07Z"
-      },
-      {
-        "id": "af986893bfef8b710413",
-        "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-        "summary": "匈牙利当局在调查欧尔班时期部长期间发现约2000万美元，总理承诺反腐。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-14T02:42:20Z"
+        "id": "17772a768e3d79c6460c",
+        "title": "Microsoft says services fully restored after global outage hits governments",
+        "summary": "微软称全球宕机影响多国政府与企业后，相关服务已全面恢复。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+        "publishedAt": "2026-11-14T03:54:31Z"
       }
     ]
   }
