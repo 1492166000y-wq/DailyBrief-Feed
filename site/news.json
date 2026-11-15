@@ -1,58 +1,26 @@
 {
   "version": 1,
   "date": "2026-11-15",
-  "generatedAt": "2026-11-14T23:54:00Z",
+  "generatedAt": "2026-11-15T06:24:03Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内关注资本市场稳定机制、储能与医保新政、科技产业动向；国际聚焦SpaceX星舰首次筷子夹飞船回收、美国全国航班停飞技术原因及多国政治经济动态。",
+    "overview": "今日国内聚焦APEC峰会、金融监管与产业政策，SpaceX星舰回收引关注；储能方案、医保目录等公共政策动向值得留意。",
     "items": [
       {
-        "id": "16cf1a5a0154f5e121e1",
-        "title": "见证历史+1！SpaceX首次完成“筷子夹飞船”（附现场视频）",
-        "summary": "SpaceX星舰首次实现“筷子”机械臂捕获回收上级飞船，标志火箭复用取得突破。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534588",
-        "publishedAt": "2026-11-14T23:54:00Z"
+        "id": "a7fbd6628a2f03ea8795",
+        "title": "12位APEC经济体领导人将出席峰会",
+        "summary": "12位APEC经济体领导人将出席峰会，区域经贸与科技合作成焦点。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7708217760140821001/",
+        "publishedAt": "2026-11-15T06:24:03Z"
       },
       {
-        "id": "e7da37c1163d9a7c1a22",
-        "title": "吴清：研究优化量化交易、减持等制度安排，加强科技企业发行上市制度适配性研究",
-        "summary": "吴清表示将研究优化量化交易、减持等制度安排，加强科技企业发行上市适配性。",
+        "id": "c8c241b9fd4a26185087",
+        "title": "“坏事全部撞在一起\"，美股却逆势反弹：华尔街上演“无票可卖”式逼空！",
+        "summary": "华尔街遭遇无票可卖式逼空，美股在多重利空下逆势反弹。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785937",
-        "publishedAt": "2026-11-14T23:54:00Z"
-      },
-      {
-        "id": "c58b79be2aa9e9531d47",
-        "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
-        "summary": "吴清称进一步深化市场稳定长效机制研究，防范市场异常波动。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534426",
-        "publishedAt": "2026-11-14T23:54:00Z"
-      },
-      {
-        "id": "c5d6fe16963af1a957ad",
-        "title": "【早报】新型储能重磅实施方案印发；TCL中环、中国稀土下周一复牌",
-        "summary": "新型储能重磅实施方案印发，TCL中环、中国稀土将于下周一复牌。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534356",
-        "publishedAt": "2026-11-14T23:54:00Z"
-      },
-      {
-        "id": "164c5805ea34efd4cb6c",
-        "title": "创新高！51款一类新药纳入新版医保目录释放哪些信号？",
-        "summary": "新版医保目录纳入51款一类新药创新高，释放支持创新药发展信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534469",
-        "publishedAt": "2026-11-14T23:54:00Z"
-      },
-      {
-        "id": "c41415953501c4cff6c0",
-        "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
-        "summary": "OpenAI解散独立机器人团队，称通用大模型GPT-6可直接用于物理AI。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785914",
-        "publishedAt": "2026-11-14T23:54:00Z"
+        "url": "https://wallstreetcn.com/articles/3785940",
+        "publishedAt": "2026-11-15T06:24:03Z"
       },
       {
         "id": "4475b594e7b78447acf2",
@@ -60,84 +28,116 @@
         "summary": "唐山一医院被举报涉嫌虚假住院骗保，当地已成立联合调查组。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34346324",
-        "publishedAt": "2026-11-14T23:54:00Z"
+        "publishedAt": "2026-11-15T06:24:03Z"
       },
       {
-        "id": "460a30fd2cb812f0ddf4",
-        "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
-        "summary": "央行将开展2000亿元买断式逆回购操作，缩量续作以稳定市场预期。",
+        "id": "c5d6fe16963af1a957ad",
+        "title": "【早报】新型储能重磅实施方案印发；TCL中环、中国稀土下周一复牌",
+        "summary": "新型储能重磅实施方案印发，TCL中环、中国稀土下周一复牌。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534228",
-        "publishedAt": "2026-11-14T23:54:00Z"
+        "url": "https://www.cls.cn/detail/2534356",
+        "publishedAt": "2026-11-15T06:24:03Z"
+      },
+      {
+        "id": "c58b79be2aa9e9531d47",
+        "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
+        "summary": "吴清称将进一步深化市场稳定长效机制研究，防范市场异常波动。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534426",
+        "publishedAt": "2026-11-15T06:24:03Z"
+      },
+      {
+        "id": "16cf1a5a0154f5e121e1",
+        "title": "见证历史+1！SpaceX首次完成“筷子夹飞船”（附现场视频）",
+        "summary": "SpaceX首次完成筷子夹飞船式回收，星舰复用迈出关键一步。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534588",
+        "publishedAt": "2026-11-15T06:24:03Z"
+      },
+      {
+        "id": "164c5805ea34efd4cb6c",
+        "title": "创新高！51款一类新药纳入新版医保目录释放哪些信号？",
+        "summary": "51款一类新药进入新版国家医保目录，创新药准入数量创新高。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534469",
+        "publishedAt": "2026-11-15T06:24:03Z"
+      },
+      {
+        "id": "9ac25b8e42b0a45927ee",
+        "title": "时隔五年再捧杯，中国战队夺得英雄联盟全球总决赛冠军",
+        "summary": "中国战队时隔五年再夺英雄联盟全球总决赛冠军。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34483414",
+        "publishedAt": "2026-11-15T06:24:03Z"
       }
     ]
   },
   "global": {
-    "overview": "全球新闻聚焦SpaceX星舰回收里程碑、美国航班大面积停飞归因、意大利重罚Meta、乌克兰和平谈判动向及多国社会抗议。",
+    "overview": "国际看点集中于SpaceX星舰首次机械臂回收、全球多地政治与外交动态，以及AI经济影响等跨来源议题。",
     "items": [
+      {
+        "id": "1190cc930ae4b80cbadb",
+        "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+        "summary": "国际法院将裁决缅甸是否对罗兴亚人实施种族灭绝，具判例意义。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+        "publishedAt": "2026-11-14T22:00:05Z"
+      },
+      {
+        "id": "2cc0903343077f90658d",
+        "title": "Gymshark in trademark battle that threatens future of small fitness business",
+        "summary": "英国运动品牌Gymshark陷商标之争，或威胁小型健身企业生存。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
+        "publishedAt": "2026-11-14T22:00:07Z"
+      },
+      {
+        "id": "b5f3a78905b08d07c4fa",
+        "title": "Could universal basic income be part of the solution in an AI economy?",
+        "summary": "AI冲击就业引发普遍基本收入讨论，经济学家与倡导者看法分歧。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/could-universal-basic-income-be-part-of-the-solution-in-an-ai-economy/a-79941597?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-14T21:36:00Z"
+      },
+      {
+        "id": "7f457ab4e0665e3b156f",
+        "title": "World leaders head to Asia for back-to-back diplomatic summits",
+        "summary": "多国领导人齐聚亚洲参加系列峰会，贸易、科技与地区安全成核心。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+        "publishedAt": "2026-11-14T20:00:02Z"
+      },
+      {
+        "id": "d07159161a853b07be54",
+        "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+        "summary": "法语国家峰会在柬埔寨开幕，卢旺达与刚果（金）就该组织领导权起争执。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+        "publishedAt": "2026-11-14T21:05:02Z"
+      },
+      {
+        "id": "bd7b39948fb0cadec451",
+        "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+        "summary": "英国拟在牛津郡污水泵站旁建寻求庇护者拘留中心，遭水务公司反对。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+        "publishedAt": "2026-11-14T22:00:05Z"
+      },
+      {
+        "id": "32528c7bd68f2635e914",
+        "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+        "summary": "纽约民主社会主义者通过决议，呼吁奥卡西奥-科尔特斯竞选总统。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
+        "publishedAt": "2026-11-14T20:44:57Z"
+      },
       {
         "id": "db8e2cf5b53f0bb1203d",
         "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-        "summary": "SpaceX利用“筷子”机械臂首次在星舰返航时捕获飞船，实现历史性回收。",
+        "summary": "SpaceX星舰返航时首次被发射塔机械臂捕获，实现历史性回收。",
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-11-14T14:09:40Z"
-      },
-      {
-        "id": "dccee00ce00e701ef4f0",
-        "title": "How telecoms upgrade work sparked US flight chaos",
-        "summary": "美国官员称航班大面积中断源于老旧设备升级过载，而非网络攻击。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-14T15:11:27Z"
-      },
-      {
-        "id": "68ecffa7252334fd82cd",
-        "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-        "summary": "泽连斯基表示乌克兰安全协议可能付诸全民公投。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-14T03:40:00Z"
-      },
-      {
-        "id": "494abd7dca6e39e62467",
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "summary": "意大利以未告知2000万用户照片访问权限为由对Meta罚款8.05亿欧元。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-14T10:28:06Z"
-      },
-      {
-        "id": "011b2868ef81f524ffc2",
-        "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-        "summary": "美国特使库什纳称将推动欧洲与俄罗斯就乌克兰问题直接对话。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-        "publishedAt": "2026-11-14T13:10:26Z"
-      },
-      {
-        "id": "b4a22b7019d6df0d3a03",
-        "title": "More than 100,000 rally across France in new Yellow Vest protests",
-        "summary": "法国多地超10万人参与新一轮“黄背心”抗议，反对生活成本上升。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-        "publishedAt": "2026-11-14T11:46:24Z"
-      },
-      {
-        "id": "ac4431fefb8d8a33f686",
-        "title": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
-        "summary": "德国2027年联邦预算提案规模创纪录达5610亿欧元，债务高企。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-14T13:09:00Z"
-      },
-      {
-        "id": "d56d3215c03e220c390a",
-        "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-        "summary": "内塔尼亚胡称唯有联合政府才能保障以色列安全，组阁谈判仍僵持。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-        "publishedAt": "2026-11-14T15:01:30Z"
       }
     ]
   }
