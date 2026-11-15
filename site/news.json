@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T15:39:02Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-15T21:01:53Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内焦点集中在资本市场长效机制、APEC峰会与新版医保目录；SpaceX星舰首次实现“筷子夹飞船”回收引发科技界关注，油价调整与校园举报乱象亦受关注。",
+    "overview": "国内要闻聚焦：证监会主席吴清就市场稳定长效机制与科技企业上市估值发声；新版医保商保目录发布，51个一类创新药纳入；SpaceX星舰首次实现“筷子夹飞船”回收；APEC领导人会议周活动升温；油价与居民存款动向受关注。",
     "items": [
       {
         "id": "c58b79be2aa9e9531d47",
@@ -12,23 +12,39 @@
         "summary": "证监会主席吴清表示将进一步深化市场稳定长效机制研究，防范市场异常波动。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534426",
-        "publishedAt": "2026-11-15T15:39:02Z"
+        "publishedAt": "2026-11-15T21:01:53Z"
       },
       {
         "id": "f9185e6852ac9136915c",
         "title": "解读证监会主席吴清讲话：回应近期部分科技企业上市估值溢价泡沫，“加强科技企业发行上市制度适配性和风险应对机制研究”",
-        "summary": "吴清回应科技企业上市估值溢价泡沫，提出加强发行上市制度适配性与风险应对机制研究。",
+        "summary": "吴清回应科技企业上市估值溢价泡沫，称将加强发行上市制度适配性与风险应对机制研究。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785951",
-        "publishedAt": "2026-11-15T15:39:02Z"
+        "publishedAt": "2026-11-15T21:01:53Z"
+      },
+      {
+        "id": "0a04b2b349c684322fc9",
+        "title": "周末要闻汇总：证监会主席吴清最新发声；新版国家医保商保“双目录”公布",
+        "summary": "周末要闻汇总：吴清最新发声，新版国家医保商保“双目录”公布。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534675",
+        "publishedAt": "2026-11-15T21:01:53Z"
+      },
+      {
+        "id": "15da40ca9bad5a20e6f9",
+        "title": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
+        "summary": "SpaceX成功回收星舰上级，首现“筷子夹飞船”，分析师称是支撑万亿估值最关键一步。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785950",
+        "publishedAt": "2026-11-15T21:01:53Z"
       },
       {
         "id": "164c5805ea34efd4cb6c",
         "title": "创新高！51款一类新药纳入新版医保目录释放哪些信号？",
-        "summary": "新版国家医保目录公布，51款一类创新药纳入，数量创新高并释放支持创新信号。",
+        "summary": "51款一类新药纳入新版医保目录创新高，释放支持创新药与保障患者用药信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534469",
-        "publishedAt": "2026-11-15T15:39:02Z"
+        "publishedAt": "2026-11-15T21:01:53Z"
       },
       {
         "id": "24aa02c76a4ff2a36cef",
@@ -36,52 +52,36 @@
         "summary": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534658",
-        "publishedAt": "2026-11-15T15:39:02Z"
+        "publishedAt": "2026-11-15T21:01:53Z"
       },
       {
-        "id": "e7261f6a4c76b037e2f2",
-        "title": "APEC“中国年”最后一次高官会闭幕",
-        "summary": "APEC“中国年”最后一次高官会闭幕，领导人会议周活动持续升温。",
+        "id": "ccb2918bf3d3e6e0f825",
+        "title": "APEC领导人会议周活动升温",
+        "summary": "APEC领导人会议周活动升温，多国领导人陆续抵达，贸易科技安全成议题。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%91%A8%E6%B4%BB%E5%8A%A8%E5%8D%87%E6%B8%A9",
+        "publishedAt": "2026-11-15T21:01:53Z"
+      },
+      {
+        "id": "1d2b730ef0625bc33fbe",
+        "title": "居民存款搬家放缓",
+        "summary": "居民存款搬家放缓，市场关注资金流向与资本市场流动性变化。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707999107591406090/",
-        "publishedAt": "2026-11-15T15:39:02Z"
-      },
-      {
-        "id": "21c81c9635a8e6373113",
-        "title": "SpaceX星舰完成第15次试飞：首次实现“筷子夹飞船”，此前助推器回收未完全成功",
-        "summary": "SpaceX星舰完成第15次试飞，首次实现发射塔机械臂“筷子夹飞船”回收。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34482883",
-        "publishedAt": "2026-11-15T15:39:02Z"
-      },
-      {
-        "id": "78fc260f995772a8c0cc",
-        "title": "央视曝光校园举报乱象：有家长问“能否保证新老师不怀孕”",
-        "summary": "央视曝光校园举报乱象，有家长询问“能否保证新老师不怀孕”，引发舆论关注。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34483809",
-        "publishedAt": "2026-11-15T15:39:02Z"
-      },
-      {
-        "id": "023f979052009cc7e4eb",
-        "title": "油价11月26日24时将调整",
-        "summary": "国内成品油价将于11月26日24时调整，市场关注本轮涨跌方向。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707809713475519003/",
-        "publishedAt": "2026-11-15T15:39:02Z"
+        "url": "https://www.toutiao.com/trending/7707641499491598874/",
+        "publishedAt": "2026-11-15T21:01:53Z"
       }
     ]
   },
   "global": {
-    "overview": "国际方面，伊朗连续袭击巴林境内美军设施，海湾多国谴责，霍尔木兹海峡对峙升级；加沙遗体安葬、缅甸罗兴亚种族灭绝裁决及欧洲生活成本抗议同样值得关注。",
+    "overview": "国际要闻聚焦：伊朗无人机袭击巴林美军基地，海湾多国谴责，美伊紧张升级；爱沙尼亚因无人机工厂纵火案关闭对俄边境口岸；SpaceX星舰回收成功引发全球科技关注；捷克大规模抗议媒体改革；乌克兰呼吁解除星链限制；德国经济重回增长但隐忧仍存。",
     "items": [
       {
-        "id": "2ddc06de43bf2b75fdf6",
-        "title": "Iran targets US military base in Bahrain with drone attack",
-        "summary": "伊朗以无人机袭击巴林境内美军基地，为三天内第二次，美伊围绕霍尔木兹海峡对峙持续。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-15T05:42:58Z"
+        "id": "886379a978f088ecb05b",
+        "title": "Iran launches drone attacks against US military base in Bahrain",
+        "summary": "伊朗以无人机袭击巴林境内美军基地，为三天内第二次，美伊围绕霍尔木兹海峡对峙升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+        "publishedAt": "2026-11-15T10:03:56Z"
       },
       {
         "id": "b619407bbc57f8eabef3",
@@ -92,44 +92,12 @@
         "publishedAt": "2026-11-15T07:24:35Z"
       },
       {
-        "id": "413f7ee5eb4d3b80bb65",
-        "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-        "summary": "巴林指伊朗袭击其领土以“清算”对美恩怨，德黑兰称此举依国际法有正当性。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
-        "publishedAt": "2026-11-15T04:36:19Z"
-      },
-      {
-        "id": "1190cc930ae4b80cbadb",
-        "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-        "summary": "国际法院将裁决缅甸是否对罗兴亚人实施种族灭绝，裁决具重要判例意义。",
+        "id": "823634e7b24dd0d77f71",
+        "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+        "summary": "爱沙尼亚因无人机工厂纵火案指俄情报机构所为，宣布12月1日起关闭所有对俄边境口岸。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-        "publishedAt": "2026-11-14T22:00:05Z"
-      },
-      {
-        "id": "87af0accc19571f967e7",
-        "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-        "summary": "加沙为70名长期困于废墟下的巴勒斯坦人举行集体葬礼，家属终得安葬亲人。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
-        "publishedAt": "2026-11-15T07:01:54Z"
-      },
-      {
-        "id": "021071de78c6e86b5ae8",
-        "title": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
-        "summary": "东盟同意分阶段接触缅甸，若和平计划有实质进展可恢复峰会完整代表权。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-15T04:26:00Z"
-      },
-      {
-        "id": "692bedb5c48de62a4c6a",
-        "title": "Police confront protesters in clashes across France and Germany",
-        "summary": "法德多城数万人示威抗议生活成本上升，警方与抗议者发生冲突。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
-        "publishedAt": "2026-11-15T03:04:10Z"
+        "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+        "publishedAt": "2026-11-15T10:23:12Z"
       },
       {
         "id": "7f457ab4e0665e3b156f",
@@ -138,6 +106,38 @@
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
         "publishedAt": "2026-11-14T20:00:02Z"
+      },
+      {
+        "id": "893a64e6e2644bcb5a30",
+        "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+        "summary": "捷克约35万人集会抗议政府媒体改革，反对以国家预算替代视听费资助公共媒体。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+        "publishedAt": "2026-11-15T10:20:36Z"
+      },
+      {
+        "id": "9fc64ba883241fa1235f",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "summary": "乌克兰总统泽连斯基呼吁美国与马斯克解除星链限制，称影响拦截俄军攻击。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-15T11:32:39Z"
+      },
+      {
+        "id": "bf04b1a1f39e316d0b2f",
+        "title": "German economy returns to growth, so why is the country still worried?",
+        "summary": "德国经济恢复增长但幅度微弱，经济学家警告缺乏改革将威胁繁荣与债务可持续性。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-15T08:12:00Z"
+      },
+      {
+        "id": "2c1fc6379d05ed084283",
+        "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
+        "summary": "SpaceX星舰成功返回发射场，分析称“筷子夹飞船”技术突破为深空探索关键一步。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
+        "publishedAt": "2026-11-15T06:12:09Z"
       }
     ]
   }
