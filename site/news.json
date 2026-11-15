@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T06:24:03Z",
+  "generatedAt": "2026-11-15T15:39:02Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "今日国内聚焦APEC峰会、金融监管与产业政策，SpaceX星舰回收引关注；储能方案、医保目录等公共政策动向值得留意。",
+    "overview": "今日国内焦点集中在资本市场长效机制、APEC峰会与新版医保目录；SpaceX星舰首次实现“筷子夹飞船”回收引发科技界关注，油价调整与校园举报乱象亦受关注。",
     "items": [
-      {
-        "id": "a7fbd6628a2f03ea8795",
-        "title": "12位APEC经济体领导人将出席峰会",
-        "summary": "12位APEC经济体领导人将出席峰会，区域经贸与科技合作成焦点。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7708217760140821001/",
-        "publishedAt": "2026-11-15T06:24:03Z"
-      },
-      {
-        "id": "c8c241b9fd4a26185087",
-        "title": "“坏事全部撞在一起\"，美股却逆势反弹：华尔街上演“无票可卖”式逼空！",
-        "summary": "华尔街遭遇无票可卖式逼空，美股在多重利空下逆势反弹。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785940",
-        "publishedAt": "2026-11-15T06:24:03Z"
-      },
-      {
-        "id": "4475b594e7b78447acf2",
-        "title": "住院病人去哪儿了？唐山一医院被举报涉嫌“虚假住院骗保”，当地已成立联合调查组",
-        "summary": "唐山一医院被举报涉嫌虚假住院骗保，当地已成立联合调查组。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34346324",
-        "publishedAt": "2026-11-15T06:24:03Z"
-      },
-      {
-        "id": "c5d6fe16963af1a957ad",
-        "title": "【早报】新型储能重磅实施方案印发；TCL中环、中国稀土下周一复牌",
-        "summary": "新型储能重磅实施方案印发，TCL中环、中国稀土下周一复牌。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534356",
-        "publishedAt": "2026-11-15T06:24:03Z"
-      },
       {
         "id": "c58b79be2aa9e9531d47",
         "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
-        "summary": "吴清称将进一步深化市场稳定长效机制研究，防范市场异常波动。",
+        "summary": "证监会主席吴清表示将进一步深化市场稳定长效机制研究，防范市场异常波动。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534426",
-        "publishedAt": "2026-11-15T06:24:03Z"
+        "publishedAt": "2026-11-15T15:39:02Z"
       },
       {
-        "id": "16cf1a5a0154f5e121e1",
-        "title": "见证历史+1！SpaceX首次完成“筷子夹飞船”（附现场视频）",
-        "summary": "SpaceX首次完成筷子夹飞船式回收，星舰复用迈出关键一步。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534588",
-        "publishedAt": "2026-11-15T06:24:03Z"
+        "id": "f9185e6852ac9136915c",
+        "title": "解读证监会主席吴清讲话：回应近期部分科技企业上市估值溢价泡沫，“加强科技企业发行上市制度适配性和风险应对机制研究”",
+        "summary": "吴清回应科技企业上市估值溢价泡沫，提出加强发行上市制度适配性与风险应对机制研究。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785951",
+        "publishedAt": "2026-11-15T15:39:02Z"
       },
       {
         "id": "164c5805ea34efd4cb6c",
         "title": "创新高！51款一类新药纳入新版医保目录释放哪些信号？",
-        "summary": "51款一类新药进入新版国家医保目录，创新药准入数量创新高。",
+        "summary": "新版国家医保目录公布，51款一类创新药纳入，数量创新高并释放支持创新信号。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534469",
-        "publishedAt": "2026-11-15T06:24:03Z"
+        "publishedAt": "2026-11-15T15:39:02Z"
       },
       {
-        "id": "9ac25b8e42b0a45927ee",
-        "title": "时隔五年再捧杯，中国战队夺得英雄联盟全球总决赛冠军",
-        "summary": "中国战队时隔五年再夺英雄联盟全球总决赛冠军。",
+        "id": "24aa02c76a4ff2a36cef",
+        "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
+        "summary": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534658",
+        "publishedAt": "2026-11-15T15:39:02Z"
+      },
+      {
+        "id": "e7261f6a4c76b037e2f2",
+        "title": "APEC“中国年”最后一次高官会闭幕",
+        "summary": "APEC“中国年”最后一次高官会闭幕，领导人会议周活动持续升温。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7707999107591406090/",
+        "publishedAt": "2026-11-15T15:39:02Z"
+      },
+      {
+        "id": "21c81c9635a8e6373113",
+        "title": "SpaceX星舰完成第15次试飞：首次实现“筷子夹飞船”，此前助推器回收未完全成功",
+        "summary": "SpaceX星舰完成第15次试飞，首次实现发射塔机械臂“筷子夹飞船”回收。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34483414",
-        "publishedAt": "2026-11-15T06:24:03Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34482883",
+        "publishedAt": "2026-11-15T15:39:02Z"
+      },
+      {
+        "id": "78fc260f995772a8c0cc",
+        "title": "央视曝光校园举报乱象：有家长问“能否保证新老师不怀孕”",
+        "summary": "央视曝光校园举报乱象，有家长询问“能否保证新老师不怀孕”，引发舆论关注。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34483809",
+        "publishedAt": "2026-11-15T15:39:02Z"
+      },
+      {
+        "id": "023f979052009cc7e4eb",
+        "title": "油价11月26日24时将调整",
+        "summary": "国内成品油价将于11月26日24时调整，市场关注本轮涨跌方向。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7707809713475519003/",
+        "publishedAt": "2026-11-15T15:39:02Z"
       }
     ]
   },
   "global": {
-    "overview": "国际看点集中于SpaceX星舰首次机械臂回收、全球多地政治与外交动态，以及AI经济影响等跨来源议题。",
+    "overview": "国际方面，伊朗连续袭击巴林境内美军设施，海湾多国谴责，霍尔木兹海峡对峙升级；加沙遗体安葬、缅甸罗兴亚种族灭绝裁决及欧洲生活成本抗议同样值得关注。",
     "items": [
+      {
+        "id": "2ddc06de43bf2b75fdf6",
+        "title": "Iran targets US military base in Bahrain with drone attack",
+        "summary": "伊朗以无人机袭击巴林境内美军基地，为三天内第二次，美伊围绕霍尔木兹海峡对峙持续。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-15T05:42:58Z"
+      },
+      {
+        "id": "b619407bbc57f8eabef3",
+        "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
+        "summary": "沙特、卡塔尔、约旦、埃及谴责伊朗袭击巴林，海湾地区紧张局势升级。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+        "publishedAt": "2026-11-15T07:24:35Z"
+      },
+      {
+        "id": "413f7ee5eb4d3b80bb65",
+        "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+        "summary": "巴林指伊朗袭击其领土以“清算”对美恩怨，德黑兰称此举依国际法有正当性。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+        "publishedAt": "2026-11-15T04:36:19Z"
+      },
       {
         "id": "1190cc930ae4b80cbadb",
         "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-        "summary": "国际法院将裁决缅甸是否对罗兴亚人实施种族灭绝，具判例意义。",
+        "summary": "国际法院将裁决缅甸是否对罗兴亚人实施种族灭绝，裁决具重要判例意义。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
         "publishedAt": "2026-11-14T22:00:05Z"
       },
       {
-        "id": "2cc0903343077f90658d",
-        "title": "Gymshark in trademark battle that threatens future of small fitness business",
-        "summary": "英国运动品牌Gymshark陷商标之争，或威胁小型健身企业生存。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
-        "publishedAt": "2026-11-14T22:00:07Z"
+        "id": "87af0accc19571f967e7",
+        "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+        "summary": "加沙为70名长期困于废墟下的巴勒斯坦人举行集体葬礼，家属终得安葬亲人。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+        "publishedAt": "2026-11-15T07:01:54Z"
       },
       {
-        "id": "b5f3a78905b08d07c4fa",
-        "title": "Could universal basic income be part of the solution in an AI economy?",
-        "summary": "AI冲击就业引发普遍基本收入讨论，经济学家与倡导者看法分歧。",
+        "id": "021071de78c6e86b5ae8",
+        "title": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
+        "summary": "东盟同意分阶段接触缅甸，若和平计划有实质进展可恢复峰会完整代表权。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/could-universal-basic-income-be-part-of-the-solution-in-an-ai-economy/a-79941597?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-14T21:36:00Z"
+        "url": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-15T04:26:00Z"
+      },
+      {
+        "id": "692bedb5c48de62a4c6a",
+        "title": "Police confront protesters in clashes across France and Germany",
+        "summary": "法德多城数万人示威抗议生活成本上升，警方与抗议者发生冲突。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+        "publishedAt": "2026-11-15T03:04:10Z"
       },
       {
         "id": "7f457ab4e0665e3b156f",
         "title": "World leaders head to Asia for back-to-back diplomatic summits",
-        "summary": "多国领导人齐聚亚洲参加系列峰会，贸易、科技与地区安全成核心。",
+        "summary": "多国领导人齐聚亚洲参加系列峰会，贸易、科技与地区安全成为核心议题。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
         "publishedAt": "2026-11-14T20:00:02Z"
-      },
-      {
-        "id": "d07159161a853b07be54",
-        "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-        "summary": "法语国家峰会在柬埔寨开幕，卢旺达与刚果（金）就该组织领导权起争执。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-        "publishedAt": "2026-11-14T21:05:02Z"
-      },
-      {
-        "id": "bd7b39948fb0cadec451",
-        "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
-        "summary": "英国拟在牛津郡污水泵站旁建寻求庇护者拘留中心，遭水务公司反对。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
-        "publishedAt": "2026-11-14T22:00:05Z"
-      },
-      {
-        "id": "32528c7bd68f2635e914",
-        "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-        "summary": "纽约民主社会主义者通过决议，呼吁奥卡西奥-科尔特斯竞选总统。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-        "publishedAt": "2026-11-14T20:44:57Z"
-      },
-      {
-        "id": "db8e2cf5b53f0bb1203d",
-        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-        "summary": "SpaceX星舰返航时首次被发射塔机械臂捕获，实现历史性回收。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-14T14:09:40Z"
       }
     ]
   }
