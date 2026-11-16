@@ -1,79 +1,79 @@
 {
   "version": 1,
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T02:02:05Z",
+  "generatedAt": "2026-11-16T09:37:07Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦习近平与普京、特朗普会晤及APEC峰会，医保商保双目录公布，SpaceX星舰回收成功，英伟达高层动荡与出口管制争议。",
+    "overview": "中俄美元首将首次举行面对面会晤，外交部称具开创性意义；10月宏观经济数据发布，消费与工业表现分化；A股科技板块大幅回调，英伟达CEO去留风波持续发酵。",
     "items": [
       {
-        "id": "b17cb61afba55636ec81",
-        "title": "习近平将同普京特朗普会晤",
-        "summary": "习近平将同普京、特朗普会晤，APEC峰会成中美俄高层互动焦点。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7708568403857899574/",
-        "publishedAt": "2026-11-16T02:02:05Z"
+        "id": "05496738e3fe45cb9c58",
+        "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+        "summary": "习近平将同普京、特朗普举行中俄美元首会晤，系三国元首首次面对面会谈。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34488263",
+        "publishedAt": "2026-11-16T09:37:07Z"
       },
       {
-        "id": "2d6dd93ab121d41523e9",
-        "title": "本周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
-        "summary": "本周重磅日程密集：APEC峰会、英伟达与阿里腾讯财报、黄仁勋听证会。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785932",
-        "publishedAt": "2026-11-16T02:02:05Z"
-      },
-      {
-        "id": "5f935dbad85b1e916a0b",
-        "title": "【早报】新版国家医保商保“双目录”公布；美国空管通信故障致逾万架次航班延误或取消",
-        "summary": "新版国家医保商保双目录公布，51个一类创新药进入医保目录。",
+        "id": "de2a515716cab1a27b8e",
+        "title": "外交部谈中俄美元首会晤：具有开创性意义",
+        "summary": "外交部称中俄美元首会晤具有开创性意义，释放推动大国关系稳定信号。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534816",
-        "publishedAt": "2026-11-16T02:02:05Z"
+        "url": "https://www.cls.cn/detail/2535386",
+        "publishedAt": "2026-11-16T09:37:07Z"
       },
       {
-        "id": "0a04b2b349c684322fc9",
-        "title": "周末要闻汇总：证监会主席吴清最新发声；新版国家医保商保“双目录”公布",
-        "summary": "证监会主席吴清发声，研究深化市场稳定长效机制，防范异常波动。",
+        "id": "08b529894de975ec93a0",
+        "title": "国家统计局：10月份一线城市商品房价环比上涨，二三线城市环比下降",
+        "summary": "国家统计局数据显示，10月一线城市商品房价环比上涨，二三线城市环比下降。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34488425",
+        "publishedAt": "2026-11-16T09:37:07Z"
+      },
+      {
+        "id": "ae1d7f3886fb567638c2",
+        "title": "国家统计局：10月规模以上工业增加值同比实际增长4.8%",
+        "summary": "国家统计局：10月规模以上工业增加值同比实际增长4.8%，工业生产保持扩张。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534675",
-        "publishedAt": "2026-11-16T02:02:05Z"
+        "url": "https://www.cls.cn/detail/2534964",
+        "publishedAt": "2026-11-16T09:37:07Z"
       },
       {
-        "id": "15da40ca9bad5a20e6f9",
-        "title": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
-        "summary": "SpaceX成功以筷子夹飞船方式回收星舰上级，被称支撑估值关键一步。",
+        "id": "f0b1c36ae23c578df305",
+        "title": "中国10月社零同比增0.4%，较上月下滑0.7个百分点，剔除汽车拖累后增2.5%",
+        "summary": "10月社零同比增0.4%，较上月回落0.7个百分点，剔除汽车拖累后增2.5%。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785950",
-        "publishedAt": "2026-11-16T02:02:05Z"
+        "url": "https://wallstreetcn.com/articles/3785988",
+        "publishedAt": "2026-11-16T09:37:07Z"
       },
       {
-        "id": "c7dbb9af7307d11921d2",
-        "title": "美股芯片股暗盘大涨 英伟达直线拉升",
-        "summary": "美股芯片股暗盘大涨，英伟达股价直线拉升，市场情绪回暖。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7708559005563489834/",
-        "publishedAt": "2026-11-16T02:02:05Z"
-      },
-      {
-        "id": "40734bb75d806321000a",
-        "title": "创投资本“转向”：撤离具身智能，回流半导体",
-        "summary": "创投资本撤离具身智能回flow半导体，产业投资风向出现明显转向。",
+        "id": "4f5e338f771f0671a22f",
+        "title": "华为云发布具身世界模型 基于国产算力昇腾进行训练",
+        "summary": "华为云发布具身世界模型，基于国产昇腾算力完成训练，推进自主AI生态。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534602",
-        "publishedAt": "2026-11-16T02:02:05Z"
+        "url": "https://www.cls.cn/detail/2535409",
+        "publishedAt": "2026-11-16T09:37:07Z"
       },
       {
-        "id": "b88be820ce0b7406f8a3",
-        "title": "谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？",
-        "summary": "谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？",
+        "id": "a56aef92435cbb658978",
+        "title": "【每日收评】沪指跌近1%险守3600点，全市场超4300股收绿，多只银行股创下新高",
+        "summary": "沪指跌近1%险守3600点，全市场超4300股收绿，多只银行股创下新高。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2535524",
+        "publishedAt": "2026-11-16T09:37:07Z"
+      },
+      {
+        "id": "7fda28173c3f3f16d4fb",
+        "title": "公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”",
+        "summary": "黄仁勋与盟友商讨重返CEO，美财长贝森特敦促英伟达改选外部人士接任。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785952",
-        "publishedAt": "2026-11-16T02:02:05Z"
+        "url": "https://wallstreetcn.com/articles/3785975",
+        "publishedAt": "2026-11-16T09:37:07Z"
       }
     ]
   },
   "global": {
-    "overview": "国际关注美伊霍尔木兹海峡对峙升级、伊朗无人机袭击巴林美军基地，教宗方济各就亚马孙环境与土著领袖遇害发声，以及爱沙尼亚因无人机工厂遭袭关闭对俄边境。",
+    "overview": "伊朗无人机再袭巴林美军基地，多国谴责，海湾局势趋紧；Nvidia前CEO黄仁勋去留引发科技界联署；英国首相就脱欧协议与青年就业问题发表新政。",
     "items": [
       {
         "id": "886379a978f088ecb05b",
@@ -84,17 +84,9 @@
         "publishedAt": "2026-11-15T10:03:56Z"
       },
       {
-        "id": "2ddc06de43bf2b75fdf6",
-        "title": "Iran targets US military base in Bahrain with drone attack",
-        "summary": "伊朗无人机再袭巴林美军基地，美伊围绕霍尔木兹海峡僵局持续。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-15T05:42:58Z"
-      },
-      {
         "id": "b619407bbc57f8eabef3",
         "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
-        "summary": "沙特、卡塔尔、约旦、埃及谴责伊朗袭击巴林，海湾紧张升级。",
+        "summary": "沙特、卡塔尔、约旦、埃及谴责伊朗袭击巴林，海湾地区紧张局势进一步升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
         "publishedAt": "2026-11-15T07:24:35Z"
@@ -102,42 +94,50 @@
       {
         "id": "21f3dd717c35c1471482",
         "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-        "summary": "第三艘美军航母抵达中东，伊朗警告可能先发制人，局势趋紧。",
+        "summary": "第三艘美军航母抵达中东，伊朗警告可能先发制人，地区局势持续趋紧。",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
         "publishedAt": "2026-11-15T16:00:00Z"
       },
       {
-        "id": "d37209a1b2f209523e47",
-        "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-        "summary": "教宗良十四世要求为保护亚马孙遇害的环境捍卫者伸张正义。",
+        "id": "b256d4305d9af6f16f06",
+        "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+        "summary": "马斯克等逾16.5万人联署，要求英伟达让黄仁勋复职，事件持续发酵。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-        "publishedAt": "2026-11-15T17:13:44Z"
+        "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+        "publishedAt": "2026-11-16T00:18:12Z"
       },
       {
-        "id": "a214a2344630f834a4d4",
-        "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-        "summary": "教宗谴责秘鲁土著领袖遇害与亚马孙毁林，支持原住民护地行动。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
-        "publishedAt": "2026-11-15T17:52:12Z"
+        "id": "720ce1c00f6f8a9afdce",
+        "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+        "summary": "与英伟达CEO下台相关的Megaspeed称自身合法经营，涉事高管已于2025年离职。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+        "publishedAt": "2026-11-15T17:17:04Z"
+      },
+      {
+        "id": "7e48b185636d24caae18",
+        "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+        "summary": "英国首相伯纳姆称脱欧未奏效，将于本周与欧盟签新协议，称可提振GDP。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+        "publishedAt": "2026-11-15T23:00:38Z"
       },
       {
         "id": "823634e7b24dd0d77f71",
         "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-        "summary": "爱沙尼亚无人机厂遇袭后将于12月1日关闭全部对俄边境口岸。",
+        "summary": "爱沙尼亚无人机厂遇袭后，将于12月1日关闭全部对俄边境口岸。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
         "publishedAt": "2026-11-15T14:17:09Z"
       },
       {
-        "id": "85b0b1850c7456a75c2e",
-        "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-        "summary": "美国全国航班停飞两天后仍有数千航班取消或延误，空管恢复缓慢。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-15T16:03:29Z"
+        "id": "8ce49c1b022bc5b89b41",
+        "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+        "summary": "波音与洛马合资火箭飞行中异常，未能将40颗亚马逊卫星送入轨道，任务失败。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-15T20:27:00Z"
       }
     ]
   }
