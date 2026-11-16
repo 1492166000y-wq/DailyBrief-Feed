@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-16",
-  "generatedAt": "2026-11-15T21:01:53Z",
+  "generatedAt": "2026-11-16T02:02:05Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内要闻聚焦：证监会主席吴清就市场稳定长效机制与科技企业上市估值发声；新版医保商保目录发布，51个一类创新药纳入；SpaceX星舰首次实现“筷子夹飞船”回收；APEC领导人会议周活动升温；油价与居民存款动向受关注。",
+    "overview": "国内聚焦习近平与普京、特朗普会晤及APEC峰会，医保商保双目录公布，SpaceX星舰回收成功，英伟达高层动荡与出口管制争议。",
     "items": [
       {
-        "id": "c58b79be2aa9e9531d47",
-        "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
-        "summary": "证监会主席吴清表示将进一步深化市场稳定长效机制研究，防范市场异常波动。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534426",
-        "publishedAt": "2026-11-15T21:01:53Z"
+        "id": "b17cb61afba55636ec81",
+        "title": "习近平将同普京特朗普会晤",
+        "summary": "习近平将同普京、特朗普会晤，APEC峰会成中美俄高层互动焦点。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7708568403857899574/",
+        "publishedAt": "2026-11-16T02:02:05Z"
       },
       {
-        "id": "f9185e6852ac9136915c",
-        "title": "解读证监会主席吴清讲话：回应近期部分科技企业上市估值溢价泡沫，“加强科技企业发行上市制度适配性和风险应对机制研究”",
-        "summary": "吴清回应科技企业上市估值溢价泡沫，称将加强发行上市制度适配性与风险应对机制研究。",
+        "id": "2d6dd93ab121d41523e9",
+        "title": "本周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+        "summary": "本周重磅日程密集：APEC峰会、英伟达与阿里腾讯财报、黄仁勋听证会。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785951",
-        "publishedAt": "2026-11-15T21:01:53Z"
+        "url": "https://wallstreetcn.com/articles/3785932",
+        "publishedAt": "2026-11-16T02:02:05Z"
+      },
+      {
+        "id": "5f935dbad85b1e916a0b",
+        "title": "【早报】新版国家医保商保“双目录”公布；美国空管通信故障致逾万架次航班延误或取消",
+        "summary": "新版国家医保商保双目录公布，51个一类创新药进入医保目录。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534816",
+        "publishedAt": "2026-11-16T02:02:05Z"
       },
       {
         "id": "0a04b2b349c684322fc9",
         "title": "周末要闻汇总：证监会主席吴清最新发声；新版国家医保商保“双目录”公布",
-        "summary": "周末要闻汇总：吴清最新发声，新版国家医保商保“双目录”公布。",
+        "summary": "证监会主席吴清发声，研究深化市场稳定长效机制，防范异常波动。",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2534675",
-        "publishedAt": "2026-11-15T21:01:53Z"
+        "publishedAt": "2026-11-16T02:02:05Z"
       },
       {
         "id": "15da40ca9bad5a20e6f9",
         "title": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
-        "summary": "SpaceX成功回收星舰上级，首现“筷子夹飞船”，分析师称是支撑万亿估值最关键一步。",
+        "summary": "SpaceX成功以筷子夹飞船方式回收星舰上级，被称支撑估值关键一步。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3785950",
-        "publishedAt": "2026-11-15T21:01:53Z"
+        "publishedAt": "2026-11-16T02:02:05Z"
       },
       {
-        "id": "164c5805ea34efd4cb6c",
-        "title": "创新高！51款一类新药纳入新版医保目录释放哪些信号？",
-        "summary": "51款一类新药纳入新版医保目录创新高，释放支持创新药与保障患者用药信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534469",
-        "publishedAt": "2026-11-15T21:01:53Z"
-      },
-      {
-        "id": "24aa02c76a4ff2a36cef",
-        "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
-        "summary": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534658",
-        "publishedAt": "2026-11-15T21:01:53Z"
-      },
-      {
-        "id": "ccb2918bf3d3e6e0f825",
-        "title": "APEC领导人会议周活动升温",
-        "summary": "APEC领导人会议周活动升温，多国领导人陆续抵达，贸易科技安全成议题。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%91%A8%E6%B4%BB%E5%8A%A8%E5%8D%87%E6%B8%A9",
-        "publishedAt": "2026-11-15T21:01:53Z"
-      },
-      {
-        "id": "1d2b730ef0625bc33fbe",
-        "title": "居民存款搬家放缓",
-        "summary": "居民存款搬家放缓，市场关注资金流向与资本市场流动性变化。",
+        "id": "c7dbb9af7307d11921d2",
+        "title": "美股芯片股暗盘大涨 英伟达直线拉升",
+        "summary": "美股芯片股暗盘大涨，英伟达股价直线拉升，市场情绪回暖。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7707641499491598874/",
-        "publishedAt": "2026-11-15T21:01:53Z"
+        "url": "https://www.toutiao.com/trending/7708559005563489834/",
+        "publishedAt": "2026-11-16T02:02:05Z"
+      },
+      {
+        "id": "40734bb75d806321000a",
+        "title": "创投资本“转向”：撤离具身智能，回流半导体",
+        "summary": "创投资本撤离具身智能回flow半导体，产业投资风向出现明显转向。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2534602",
+        "publishedAt": "2026-11-16T02:02:05Z"
+      },
+      {
+        "id": "b88be820ce0b7406f8a3",
+        "title": "谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？",
+        "summary": "谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3785952",
+        "publishedAt": "2026-11-16T02:02:05Z"
       }
     ]
   },
   "global": {
-    "overview": "国际要闻聚焦：伊朗无人机袭击巴林美军基地，海湾多国谴责，美伊紧张升级；爱沙尼亚因无人机工厂纵火案关闭对俄边境口岸；SpaceX星舰回收成功引发全球科技关注；捷克大规模抗议媒体改革；乌克兰呼吁解除星链限制；德国经济重回增长但隐忧仍存。",
+    "overview": "国际关注美伊霍尔木兹海峡对峙升级、伊朗无人机袭击巴林美军基地，教宗方济各就亚马孙环境与土著领袖遇害发声，以及爱沙尼亚因无人机工厂遭袭关闭对俄边境。",
     "items": [
       {
         "id": "886379a978f088ecb05b",
         "title": "Iran launches drone attacks against US military base in Bahrain",
-        "summary": "伊朗以无人机袭击巴林境内美军基地，为三天内第二次，美伊围绕霍尔木兹海峡对峙升级。",
+        "summary": "伊朗以无人机袭击巴林境内美军基地，为三天内第二次，霍尔木兹对峙升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
         "publishedAt": "2026-11-15T10:03:56Z"
       },
       {
+        "id": "2ddc06de43bf2b75fdf6",
+        "title": "Iran targets US military base in Bahrain with drone attack",
+        "summary": "伊朗无人机再袭巴林美军基地，美伊围绕霍尔木兹海峡僵局持续。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-15T05:42:58Z"
+      },
+      {
         "id": "b619407bbc57f8eabef3",
         "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
-        "summary": "沙特、卡塔尔、约旦、埃及谴责伊朗袭击巴林，海湾地区紧张局势升级。",
+        "summary": "沙特、卡塔尔、约旦、埃及谴责伊朗袭击巴林，海湾紧张升级。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
         "publishedAt": "2026-11-15T07:24:35Z"
       },
       {
+        "id": "21f3dd717c35c1471482",
+        "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+        "summary": "第三艘美军航母抵达中东，伊朗警告可能先发制人，局势趋紧。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+        "publishedAt": "2026-11-15T16:00:00Z"
+      },
+      {
+        "id": "d37209a1b2f209523e47",
+        "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+        "summary": "教宗良十四世要求为保护亚马孙遇害的环境捍卫者伸张正义。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+        "publishedAt": "2026-11-15T17:13:44Z"
+      },
+      {
+        "id": "a214a2344630f834a4d4",
+        "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+        "summary": "教宗谴责秘鲁土著领袖遇害与亚马孙毁林，支持原住民护地行动。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+        "publishedAt": "2026-11-15T17:52:12Z"
+      },
+      {
         "id": "823634e7b24dd0d77f71",
         "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-        "summary": "爱沙尼亚因无人机工厂纵火案指俄情报机构所为，宣布12月1日起关闭所有对俄边境口岸。",
+        "summary": "爱沙尼亚无人机厂遇袭后将于12月1日关闭全部对俄边境口岸。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-        "publishedAt": "2026-11-15T10:23:12Z"
+        "publishedAt": "2026-11-15T14:17:09Z"
       },
       {
-        "id": "7f457ab4e0665e3b156f",
-        "title": "World leaders head to Asia for back-to-back diplomatic summits",
-        "summary": "多国领导人齐聚亚洲参加系列峰会，贸易、科技与地区安全成为核心议题。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-        "publishedAt": "2026-11-14T20:00:02Z"
-      },
-      {
-        "id": "893a64e6e2644bcb5a30",
-        "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-        "summary": "捷克约35万人集会抗议政府媒体改革，反对以国家预算替代视听费资助公共媒体。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-        "publishedAt": "2026-11-15T10:20:36Z"
-      },
-      {
-        "id": "9fc64ba883241fa1235f",
-        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-        "summary": "乌克兰总统泽连斯基呼吁美国与马斯克解除星链限制，称影响拦截俄军攻击。",
+        "id": "85b0b1850c7456a75c2e",
+        "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+        "summary": "美国全国航班停飞两天后仍有数千航班取消或延误，空管恢复缓慢。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-15T11:32:39Z"
-      },
-      {
-        "id": "bf04b1a1f39e316d0b2f",
-        "title": "German economy returns to growth, so why is the country still worried?",
-        "summary": "德国经济恢复增长但幅度微弱，经济学家警告缺乏改革将威胁繁荣与债务可持续性。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-15T08:12:00Z"
-      },
-      {
-        "id": "2c1fc6379d05ed084283",
-        "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
-        "summary": "SpaceX星舰成功返回发射场，分析称“筷子夹飞船”技术突破为深空探索关键一步。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
-        "publishedAt": "2026-11-15T06:12:09Z"
+        "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-15T16:03:29Z"
       }
     ]
   }
