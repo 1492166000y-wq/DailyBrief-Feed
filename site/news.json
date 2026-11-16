@@ -1,80 +1,96 @@
 {
   "version": 1,
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T09:37:07Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-16T20:26:33Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "中俄美元首将首次举行面对面会晤，外交部称具开创性意义；10月宏观经济数据发布，消费与工业表现分化；A股科技板块大幅回调，英伟达CEO去留风波持续发酵。",
+    "overview": "中俄美元首首次面对面会晤为今日焦点，跨来源报道确认将在深圳举行。国内经济方面，10月一线城市房价环比上涨、A股回购扩容、创业板大跌等受关注。产业科技领域，英伟达CEO黄仁勋去留风波持续发酵，引发市场震荡。",
     "items": [
       {
         "id": "05496738e3fe45cb9c58",
         "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-        "summary": "习近平将同普京、特朗普举行中俄美元首会晤，系三国元首首次面对面会谈。",
+        "summary": "习近平将同普京、特朗普举行中俄美元首会晤，系首次面对面会晤。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34488263",
-        "publishedAt": "2026-11-16T09:37:07Z"
-      },
-      {
-        "id": "de2a515716cab1a27b8e",
-        "title": "外交部谈中俄美元首会晤：具有开创性意义",
-        "summary": "外交部称中俄美元首会晤具有开创性意义，释放推动大国关系稳定信号。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2535386",
-        "publishedAt": "2026-11-16T09:37:07Z"
+        "publishedAt": "2026-11-16T20:26:33Z"
       },
       {
         "id": "08b529894de975ec93a0",
         "title": "国家统计局：10月份一线城市商品房价环比上涨，二三线城市环比下降",
-        "summary": "国家统计局数据显示，10月一线城市商品房价环比上涨，二三线城市环比下降。",
+        "summary": "国家统计局：10月一线城市商品房价环比上涨，二三线城市环比下降。",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34488425",
-        "publishedAt": "2026-11-16T09:37:07Z"
+        "publishedAt": "2026-11-16T20:26:33Z"
       },
       {
-        "id": "ae1d7f3886fb567638c2",
-        "title": "国家统计局：10月规模以上工业增加值同比实际增长4.8%",
-        "summary": "国家统计局：10月规模以上工业增加值同比实际增长4.8%，工业生产保持扩张。",
+        "id": "c20abd54d52c6394b2d7",
+        "title": "A股回购队伍再扩容，胜宏科技、联讯仪器等披露回购事项",
+        "summary": "A股回购队伍扩容，胜宏科技、联讯仪器等多家公司披露回购事项。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2534964",
-        "publishedAt": "2026-11-16T09:37:07Z"
+        "url": "https://www.cls.cn/detail/2535797",
+        "publishedAt": "2026-11-16T20:26:33Z"
       },
       {
-        "id": "f0b1c36ae23c578df305",
-        "title": "中国10月社零同比增0.4%，较上月下滑0.7个百分点，剔除汽车拖累后增2.5%",
-        "summary": "10月社零同比增0.4%，较上月回落0.7个百分点，剔除汽车拖累后增2.5%。",
+        "id": "b53838f9725be16ddee6",
+        "title": "【焦点复盘】创业板指跌4.37%再创年内新低，全市场超250股跌超9%，资金持续逆势抱团红利股",
+        "summary": "创业板指跌4.37%创年内新低，超250股跌超9%，资金抱团红利股。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2535595",
+        "publishedAt": "2026-11-16T20:26:33Z"
+      },
+      {
+        "id": "a376800ff0a28b27dfaf",
+        "title": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低",
+        "summary": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金原油走低。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785988",
-        "publishedAt": "2026-11-16T09:37:07Z"
+        "url": "https://wallstreetcn.com/articles/3785999",
+        "publishedAt": "2026-11-16T20:26:33Z"
       },
       {
-        "id": "4f5e338f771f0671a22f",
-        "title": "华为云发布具身世界模型 基于国产算力昇腾进行训练",
-        "summary": "华为云发布具身世界模型，基于国产昇腾算力完成训练，推进自主AI生态。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2535409",
-        "publishedAt": "2026-11-16T09:37:07Z"
-      },
-      {
-        "id": "a56aef92435cbb658978",
-        "title": "【每日收评】沪指跌近1%险守3600点，全市场超4300股收绿，多只银行股创下新高",
-        "summary": "沪指跌近1%险守3600点，全市场超4300股收绿，多只银行股创下新高。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2535524",
-        "publishedAt": "2026-11-16T09:37:07Z"
-      },
-      {
-        "id": "7fda28173c3f3f16d4fb",
-        "title": "公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”",
-        "summary": "黄仁勋与盟友商讨重返CEO，美财长贝森特敦促英伟达改选外部人士接任。",
+        "id": "954bc84743161d5fbd90",
+        "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重",
+        "summary": "SemiAnalysis大幅下修AI算力预测，2028年资本开支下调近三成。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785975",
-        "publishedAt": "2026-11-16T09:37:07Z"
+        "url": "https://wallstreetcn.com/articles/3786019",
+        "publishedAt": "2026-11-16T20:26:33Z"
+      },
+      {
+        "id": "57ae5b2b13050a3f22f6",
+        "title": "怎样看待当前消费形势？人民日报发文",
+        "summary": "人民日报发文谈当前消费形势，释放政策信号。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3786005",
+        "publishedAt": "2026-11-16T20:26:33Z"
+      },
+      {
+        "id": "3c8dd43c41fc9ece05e9",
+        "title": "北大399元羽绒服走红，访问激增挤崩小程序，门店工作人员：仅线下有售，目前已断货",
+        "summary": "北大399元羽绒服走红挤崩小程序，门店称仅线下有售已断货。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34489554",
+        "publishedAt": "2026-11-16T20:26:33Z"
       }
     ]
   },
   "global": {
-    "overview": "伊朗无人机再袭巴林美军基地，多国谴责，海湾局势趋紧；Nvidia前CEO黄仁勋去留引发科技界联署；英国首相就脱欧协议与青年就业问题发表新政。",
+    "overview": "英伟达黄仁勋复职风波获特朗普、马斯克等支持，成为全球科技焦点。地缘政治方面，伊朗袭击美军基地及霍尔木兹海峡油轮遇袭，中东局势紧张；欧洲多国推出卢旺达移民遣返计划；以色列反对派指控内塔尼亚胡政变。",
     "items": [
+      {
+        "id": "473960331d718475c7ac",
+        "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+        "summary": "特朗普支持黄仁勋重返英伟达任CEO，称其“吸取了大教训”。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+        "publishedAt": "2026-11-16T10:30:57Z"
+      },
+      {
+        "id": "cd5cc9b0a76036527608",
+        "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+        "summary": "中方称中俄美三方会晤将讨论“世界和平”等突破性议题。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+        "publishedAt": "2026-11-16T10:23:02Z"
+      },
       {
         "id": "886379a978f088ecb05b",
         "title": "Iran launches drone attacks against US military base in Bahrain",
@@ -84,60 +100,44 @@
         "publishedAt": "2026-11-15T10:03:56Z"
       },
       {
-        "id": "b619407bbc57f8eabef3",
-        "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
-        "summary": "沙特、卡塔尔、约旦、埃及谴责伊朗袭击巴林，海湾地区紧张局势进一步升级。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-        "publishedAt": "2026-11-15T07:24:35Z"
+        "id": "de49a98bc5cb33d280a5",
+        "title": "Five EU countries announce migrant deportation centre in Rwanda",
+        "summary": "德国等五国宣布在卢旺达设移民遣返中心，安置被拒庇护者。",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-16T08:27:24Z"
       },
       {
-        "id": "21f3dd717c35c1471482",
-        "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-        "summary": "第三艘美军航母抵达中东，伊朗警告可能先发制人，地区局势持续趋紧。",
+        "id": "21194fc9a08a5751ce0d",
+        "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+        "summary": "以色列反对派指控内塔尼亚胡办公室试图陷害阿拉伯政党，称其“政变”。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-        "publishedAt": "2026-11-15T16:00:00Z"
+        "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+        "publishedAt": "2026-11-16T12:00:07Z"
       },
       {
-        "id": "b256d4305d9af6f16f06",
-        "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-        "summary": "马斯克等逾16.5万人联署，要求英伟达让黄仁勋复职，事件持续发酵。",
+        "id": "3a7ab3c0ac0848e58289",
+        "title": "Oil tankers hit sea mines in the Strait of Hormuz",
+        "summary": "霍尔木兹海峡油轮触雷，地区紧张局势加剧。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+        "publishedAt": "2026-11-16T07:37:49Z"
+      },
+      {
+        "id": "32a103fc20547be7b9c8",
+        "title": "Failed UK asylum seekers to lose five-day grace period and face immediate removal",
+        "summary": "英国拟取消失败庇护申请者五天宽限期，面临立即遣返。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-        "publishedAt": "2026-11-16T00:18:12Z"
+        "url": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
+        "publishedAt": "2026-11-16T12:06:24Z"
       },
       {
-        "id": "720ce1c00f6f8a9afdce",
-        "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
-        "summary": "与英伟达CEO下台相关的Megaspeed称自身合法经营，涉事高管已于2025年离职。",
+        "id": "e31647b97c9292dde342",
+        "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
+        "summary": "英国卫生部将于2029年终止Palantir的NHS合同，为本国企业留时间。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
-        "publishedAt": "2026-11-15T17:17:04Z"
-      },
-      {
-        "id": "7e48b185636d24caae18",
-        "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-        "summary": "英国首相伯纳姆称脱欧未奏效，将于本周与欧盟签新协议，称可提振GDP。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-        "publishedAt": "2026-11-15T23:00:38Z"
-      },
-      {
-        "id": "823634e7b24dd0d77f71",
-        "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-        "summary": "爱沙尼亚无人机厂遇袭后，将于12月1日关闭全部对俄边境口岸。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-        "publishedAt": "2026-11-15T14:17:09Z"
-      },
-      {
-        "id": "8ce49c1b022bc5b89b41",
-        "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
-        "summary": "波音与洛马合资火箭飞行中异常，未能将40颗亚马逊卫星送入轨道，任务失败。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-15T20:27:00Z"
+        "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
+        "publishedAt": "2026-11-16T11:59:31Z"
       }
     ]
   }
