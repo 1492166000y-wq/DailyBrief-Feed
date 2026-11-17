@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T04:28:07Z",
+  "generatedAt": "2026-11-17T15:57:05Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内焦点集中在深圳APEC及中俄美首次三方会晤，美股芯片股大跌与英伟达相关动向持续发酵，10月消费投资数据与外贸表现受关注。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "9c84d3c2d51f1d270bfe",
-        "title": "习近平在广东中山考察",
-        "summary": "习近平在广东中山考察，聚焦地方发展与民生工作。",
+        "id": "1274a8d9ce9a773cd925",
+        "title": "圆桌｜中俄美元首历史性首次会晤在即，三国权威学者谈大国关系新契机",
+        "summary": "中俄美元首历史性首次会晤在即，三国权威学者探讨大国关系新契机。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34490277",
-        "publishedAt": "2026-11-17T04:28:07Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490498",
+        "publishedAt": "2026-11-17T15:57:05Z"
       },
       {
-        "id": "f8b74311f23c5d3e78cc",
-        "title": "中俄美三国元首将在深圳会晤，外交部：历史首次面对面会晤，有开创性意义",
-        "summary": "外交部确认中俄美三国元首将在深圳首次面对面会晤，称具开创性意义。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34489919",
-        "publishedAt": "2026-11-17T04:28:07Z"
+        "id": "5674f473147b712a8dd8",
+        "title": "美商务部发布限制远程获取先进半导体相关措施，中方回应",
+        "summary": "美商务部限制远程获取先进半导体，中方回应将采取必要措施维护权益。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2537022",
+        "publishedAt": "2026-11-17T15:57:05Z"
       },
       {
-        "id": "8f7e0f332421a8e19ab8",
-        "title": "特朗普宣布即将访华 将与中俄元首会晤",
-        "summary": "特朗普宣布即将访华，并将与中俄元首在深圳会晤。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7708922337889881642/",
-        "publishedAt": "2026-11-17T04:28:07Z"
-      },
-      {
-        "id": "954bc84743161d5fbd90",
-        "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重",
-        "summary": "SemiAnalysis大幅下修AI算力预测，2028年资本开支下调近三成，英伟达受冲击最大。",
+        "id": "5087feab5a3bafbc1a12",
+        "title": "腾讯内部讲话曝光，马化腾：浪已经杀过来了，远处的浪潮已经在吞没一个个山丘，你不能还坐着欣赏",
+        "summary": "马化腾内部讲话称AI浪潮已至，远处浪潮正吞没山丘，企业不能坐视。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786019",
-        "publishedAt": "2026-11-17T04:28:07Z"
+        "url": "https://wallstreetcn.com/articles/3786059",
+        "publishedAt": "2026-11-17T15:57:05Z"
       },
       {
-        "id": "e483bc87fa6850e68bfd",
-        "title": "俄美运输机已率先抵达深圳",
-        "summary": "俄美运输机已率先抵达深圳，为APEC及三方会晤做准备。",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7708657375682707483/",
-        "publishedAt": "2026-11-17T04:28:07Z"
-      },
-      {
-        "id": "d0e8cf2361882da7075a",
-        "title": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高",
-        "summary": "避险情绪主导市场，芯片股领跌拖累标普与纳指三连跌，美元创18个月新高。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785999",
-        "publishedAt": "2026-11-17T04:28:07Z"
-      },
-      {
-        "id": "cc027f92376a479a707c",
-        "title": "分析｜怎么看10月消费、投资数据有所波动？",
-        "summary": "分析10月消费与投资数据波动，关注内需恢复与政策后续走向。",
+        "id": "176387ae9ffcd01d9553",
+        "title": "澎湃回声｜唐山涉嫌“虚假住院骗保”医院被取消工伤定点资格，省级监管部门已参与调查",
+        "summary": "唐山涉嫌虚假住院骗保医院被取消工伤定点资格，省级监管部门介入调查。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34490327",
-        "publishedAt": "2026-11-17T04:28:07Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34489900",
+        "publishedAt": "2026-11-17T15:57:05Z"
       },
       {
-        "id": "ca7dc4adc11368cb5f0f",
-        "title": "10月货物进出口同比增长31.2%",
-        "summary": "10月货物进出口同比增长31.2%，外贸延续较快增长态势。",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%2310%E6%9C%88%E8%B4%A7%E7%89%A9%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF31.2%25%23",
-        "publishedAt": "2026-11-17T04:28:07Z"
+        "id": "3ab5f9408fcef20ae2cb",
+        "title": "股价跌破“1元”，5家A股公司拉响退市警报",
+        "summary": "5家A股公司股价跌破1元，退市警报拉响，市场风险警示升温。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2537002",
+        "publishedAt": "2026-11-17T15:57:05Z"
+      },
+      {
+        "id": "0b45f720027b2f8f726e",
+        "title": "APEC工商领导人峰会聚焦哪些议题",
+        "summary": "APEC工商领导人峰会聚焦亚太经贸合作与创新增长等核心议题。",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98",
+        "publishedAt": "2026-11-17T15:57:05Z"
+      },
+      {
+        "id": "7e3dc1aa0a2d77a7ebd4",
+        "title": "张升民人民日报撰文：保持惩治腐败高压态势",
+        "summary": "张升民在人民日报撰文，强调保持惩治腐败高压态势，深化反腐斗争。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34491101",
+        "publishedAt": "2026-11-17T15:57:05Z"
+      },
+      {
+        "id": "74dedb63afb63c8ff8af",
+        "title": "网络招聘帖假招聘、真卖课？记者实测被推荐先买课，12家单位均称是虚假招聘信息",
+        "summary": "网络招聘帖假招聘真卖课，记者实测被推荐买课，12家单位称虚假信息。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490252",
+        "publishedAt": "2026-11-17T15:57:05Z"
       }
     ]
   },
   "global": {
-    "overview": "全球要闻包括霍尔木兹海峡油轮触雷与伊朗局势升级、美欧对华AI芯片出口限制、欧盟五国在卢旺达设移民遣返中心，以及英伟达CEO去留风波。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "4dce21d7fc333168a2ec",
-        "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-        "summary": "伊朗称多艘油轮在霍尔木兹海峡触雷，地区紧张局势进一步升级。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
-        "publishedAt": "2026-11-16T19:12:54Z"
-      },
-      {
-        "id": "61fd41b9a788e0f7820c",
-        "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-        "summary": "美国以英伟达事件为由，对马泰印尼新巴西实施AI芯片远程访问出口许可。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-        "publishedAt": "2026-11-16T18:52:56Z"
-      },
-      {
-        "id": "580c1acfddfac3a1339f",
-        "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-        "summary": "德奥荷丹希五国宣布在卢旺达设移民遣返中心，政策料面临法律挑战。",
+        "id": "79426f830a5f19583b80",
+        "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+        "summary": "乌克兰导弹袭击克里米亚大桥致其严重受损，泽连斯基称“前所未有的攻击”。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-        "publishedAt": "2026-11-16T17:10:59Z"
+        "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+        "publishedAt": "2026-11-17T05:25:02Z"
       },
       {
-        "id": "4eb05ed917fd833b3fbb",
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-        "summary": "英伟达否认“让黄仁勋回归”运动，特朗普公开支持其复职。",
+        "id": "1869a3d3a2ecab0b926c",
+        "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+        "summary": "特朗普就伊朗被指计划用“脏弹”袭击华盛顿发出警告，伊方否认指控。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+        "publishedAt": "2026-11-17T07:13:57Z"
+      },
+      {
+        "id": "aa268934d0da472218c1",
+        "title": "How new US chip restrictions on South East Asia will hit China",
+        "summary": "美国对东南亚实施新芯片限制，收紧出口与算力获取，冲击中国AI产业。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-16T18:37:53Z"
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-17T06:25:45Z"
       },
       {
-        "id": "3184a8be70021a3a3d5c",
-        "title": "Ukraine: Russian strikes hit bridges in Kyiv, mayor says",
-        "summary": "乌方称俄军袭击基辅第聂伯河桥梁，此前乌军打击克里米亚大桥。",
+        "id": "8f96023e6cbfe0ea84b4",
+        "title": "APEC summit: What Trump, Xi and Putin want",
+        "summary": "APEC峰会特朗普、习近平、普京将举行首次三边会晤，各方诉求引关注。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/ukraine-russian-strikes-hit-bridges-in-kyiv-mayor-says/live-79964446?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-16T18:28:00Z"
+        "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-17T06:25:00Z"
       },
       {
-        "id": "33d9068f55bacff70104",
-        "title": "Japan scrambles jets to counter suspected Russian aircraft",
-        "summary": "日本紧急升空战机应对疑似俄飞机侵犯领空，并向莫斯科提出严正抗议。",
+        "id": "cd6721846c1794cbb76d",
+        "title": "US Pentagon fails ninth straight audit despite progress in organizing finances",
+        "summary": "美国五角大楼连续第九次未能通过财务审计，尽管部分单位首次达标。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
+        "publishedAt": "2026-11-17T07:43:12Z"
+      },
+      {
+        "id": "3cbcd45512939766f3a8",
+        "title": "Ethiopia-Eritrea border clashes raise fears of regional war",
+        "summary": "埃塞俄比亚与厄立特里亚边境冲突升级，地区战争风险引发担忧。",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-16T19:29:00Z"
+        "url": "https://www.dw.com/en/ethiopia-eritrea-border-clashes-raise-fears-of-regional-war/a-79970353?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-17T07:43:00Z"
       },
       {
-        "id": "a63aada3d951efc13729",
-        "title": "Trump departs for ASEAN on summit with Xi and Putin",
-        "summary": "特朗普启程赴菲律宾出席东盟峰会，将会晤习近平与普京。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
-        "publishedAt": "2026-11-16T15:42:03Z"
+        "id": "0299b05950eabf5c2988",
+        "title": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
+        "summary": "黄仁勋离任英伟达CEO成为美国对华政策政治代理战，科技界呼吁其回归。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
+        "publishedAt": "2026-11-17T06:50:24Z"
       },
       {
-        "id": "0ce7b78d5c502b79772c",
-        "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-        "summary": "加州起诉OpenAI，指其缺乏适当安全防护，Hugging Face攻击本可预见。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
-        "publishedAt": "2026-11-16T13:35:51Z"
+        "id": "8da91bef3d99ecf019d5",
+        "title": "Burnham makes Milburn head of unit to implement new jobs and welfare approach for young people – live",
+        "summary": "Author of Neets report will be in charge of ‘unblocking delivery and driving pro",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+        "publishedAt": "2026-11-17T07:49:29Z"
       }
     ]
   }
