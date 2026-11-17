@@ -1,143 +1,143 @@
 {
   "version": 1,
   "date": "2026-11-17",
-  "generatedAt": "2026-11-16T20:26:33Z",
+  "generatedAt": "2026-11-17T04:28:07Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "中俄美元首首次面对面会晤为今日焦点，跨来源报道确认将在深圳举行。国内经济方面，10月一线城市房价环比上涨、A股回购扩容、创业板大跌等受关注。产业科技领域，英伟达CEO黄仁勋去留风波持续发酵，引发市场震荡。",
+    "overview": "国内焦点集中在深圳APEC及中俄美首次三方会晤，美股芯片股大跌与英伟达相关动向持续发酵，10月消费投资数据与外贸表现受关注。",
     "items": [
       {
-        "id": "05496738e3fe45cb9c58",
-        "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-        "summary": "习近平将同普京、特朗普举行中俄美元首会晤，系首次面对面会晤。",
+        "id": "9c84d3c2d51f1d270bfe",
+        "title": "习近平在广东中山考察",
+        "summary": "习近平在广东中山考察，聚焦地方发展与民生工作。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34488263",
-        "publishedAt": "2026-11-16T20:26:33Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490277",
+        "publishedAt": "2026-11-17T04:28:07Z"
       },
       {
-        "id": "08b529894de975ec93a0",
-        "title": "国家统计局：10月份一线城市商品房价环比上涨，二三线城市环比下降",
-        "summary": "国家统计局：10月一线城市商品房价环比上涨，二三线城市环比下降。",
+        "id": "f8b74311f23c5d3e78cc",
+        "title": "中俄美三国元首将在深圳会晤，外交部：历史首次面对面会晤，有开创性意义",
+        "summary": "外交部确认中俄美三国元首将在深圳首次面对面会晤，称具开创性意义。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34488425",
-        "publishedAt": "2026-11-16T20:26:33Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34489919",
+        "publishedAt": "2026-11-17T04:28:07Z"
       },
       {
-        "id": "c20abd54d52c6394b2d7",
-        "title": "A股回购队伍再扩容，胜宏科技、联讯仪器等披露回购事项",
-        "summary": "A股回购队伍扩容，胜宏科技、联讯仪器等多家公司披露回购事项。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2535797",
-        "publishedAt": "2026-11-16T20:26:33Z"
-      },
-      {
-        "id": "b53838f9725be16ddee6",
-        "title": "【焦点复盘】创业板指跌4.37%再创年内新低，全市场超250股跌超9%，资金持续逆势抱团红利股",
-        "summary": "创业板指跌4.37%创年内新低，超250股跌超9%，资金抱团红利股。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2535595",
-        "publishedAt": "2026-11-16T20:26:33Z"
-      },
-      {
-        "id": "a376800ff0a28b27dfaf",
-        "title": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低",
-        "summary": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金原油走低。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3785999",
-        "publishedAt": "2026-11-16T20:26:33Z"
+        "id": "8f7e0f332421a8e19ab8",
+        "title": "特朗普宣布即将访华 将与中俄元首会晤",
+        "summary": "特朗普宣布即将访华，并将与中俄元首在深圳会晤。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7708922337889881642/",
+        "publishedAt": "2026-11-17T04:28:07Z"
       },
       {
         "id": "954bc84743161d5fbd90",
         "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重",
-        "summary": "SemiAnalysis大幅下修AI算力预测，2028年资本开支下调近三成。",
+        "summary": "SemiAnalysis大幅下修AI算力预测，2028年资本开支下调近三成，英伟达受冲击最大。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786019",
-        "publishedAt": "2026-11-16T20:26:33Z"
+        "publishedAt": "2026-11-17T04:28:07Z"
       },
       {
-        "id": "57ae5b2b13050a3f22f6",
-        "title": "怎样看待当前消费形势？人民日报发文",
-        "summary": "人民日报发文谈当前消费形势，释放政策信号。",
+        "id": "e483bc87fa6850e68bfd",
+        "title": "俄美运输机已率先抵达深圳",
+        "summary": "俄美运输机已率先抵达深圳，为APEC及三方会晤做准备。",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7708657375682707483/",
+        "publishedAt": "2026-11-17T04:28:07Z"
+      },
+      {
+        "id": "d0e8cf2361882da7075a",
+        "title": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高",
+        "summary": "避险情绪主导市场，芯片股领跌拖累标普与纳指三连跌，美元创18个月新高。",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786005",
-        "publishedAt": "2026-11-16T20:26:33Z"
+        "url": "https://wallstreetcn.com/articles/3785999",
+        "publishedAt": "2026-11-17T04:28:07Z"
       },
       {
-        "id": "3c8dd43c41fc9ece05e9",
-        "title": "北大399元羽绒服走红，访问激增挤崩小程序，门店工作人员：仅线下有售，目前已断货",
-        "summary": "北大399元羽绒服走红挤崩小程序，门店称仅线下有售已断货。",
+        "id": "cc027f92376a479a707c",
+        "title": "分析｜怎么看10月消费、投资数据有所波动？",
+        "summary": "分析10月消费与投资数据波动，关注内需恢复与政策后续走向。",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34489554",
-        "publishedAt": "2026-11-16T20:26:33Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490327",
+        "publishedAt": "2026-11-17T04:28:07Z"
+      },
+      {
+        "id": "ca7dc4adc11368cb5f0f",
+        "title": "10月货物进出口同比增长31.2%",
+        "summary": "10月货物进出口同比增长31.2%，外贸延续较快增长态势。",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%2310%E6%9C%88%E8%B4%A7%E7%89%A9%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF31.2%25%23",
+        "publishedAt": "2026-11-17T04:28:07Z"
       }
     ]
   },
   "global": {
-    "overview": "英伟达黄仁勋复职风波获特朗普、马斯克等支持，成为全球科技焦点。地缘政治方面，伊朗袭击美军基地及霍尔木兹海峡油轮遇袭，中东局势紧张；欧洲多国推出卢旺达移民遣返计划；以色列反对派指控内塔尼亚胡政变。",
+    "overview": "全球要闻包括霍尔木兹海峡油轮触雷与伊朗局势升级、美欧对华AI芯片出口限制、欧盟五国在卢旺达设移民遣返中心，以及英伟达CEO去留风波。",
     "items": [
       {
-        "id": "473960331d718475c7ac",
-        "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-        "summary": "特朗普支持黄仁勋重返英伟达任CEO，称其“吸取了大教训”。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-        "publishedAt": "2026-11-16T10:30:57Z"
+        "id": "4dce21d7fc333168a2ec",
+        "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+        "summary": "伊朗称多艘油轮在霍尔木兹海峡触雷，地区紧张局势进一步升级。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+        "publishedAt": "2026-11-16T19:12:54Z"
       },
       {
-        "id": "cd5cc9b0a76036527608",
-        "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
-        "summary": "中方称中俄美三方会晤将讨论“世界和平”等突破性议题。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
-        "publishedAt": "2026-11-16T10:23:02Z"
+        "id": "61fd41b9a788e0f7820c",
+        "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+        "summary": "美国以英伟达事件为由，对马泰印尼新巴西实施AI芯片远程访问出口许可。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+        "publishedAt": "2026-11-16T18:52:56Z"
       },
       {
-        "id": "886379a978f088ecb05b",
-        "title": "Iran launches drone attacks against US military base in Bahrain",
-        "summary": "伊朗以无人机袭击巴林境内美军基地，为三天内第二次，霍尔木兹对峙升级。",
+        "id": "580c1acfddfac3a1339f",
+        "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+        "summary": "德奥荷丹希五国宣布在卢旺达设移民遣返中心，政策料面临法律挑战。",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-        "publishedAt": "2026-11-15T10:03:56Z"
+        "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+        "publishedAt": "2026-11-16T17:10:59Z"
       },
       {
-        "id": "de49a98bc5cb33d280a5",
-        "title": "Five EU countries announce migrant deportation centre in Rwanda",
-        "summary": "德国等五国宣布在卢旺达设移民遣返中心，安置被拒庇护者。",
+        "id": "4eb05ed917fd833b3fbb",
+        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+        "summary": "英伟达否认“让黄仁勋回归”运动，特朗普公开支持其复职。",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-16T08:27:24Z"
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-16T18:37:53Z"
       },
       {
-        "id": "21194fc9a08a5751ce0d",
-        "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-        "summary": "以色列反对派指控内塔尼亚胡办公室试图陷害阿拉伯政党，称其“政变”。",
+        "id": "3184a8be70021a3a3d5c",
+        "title": "Ukraine: Russian strikes hit bridges in Kyiv, mayor says",
+        "summary": "乌方称俄军袭击基辅第聂伯河桥梁，此前乌军打击克里米亚大桥。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/ukraine-russian-strikes-hit-bridges-in-kyiv-mayor-says/live-79964446?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-16T18:28:00Z"
+      },
+      {
+        "id": "33d9068f55bacff70104",
+        "title": "Japan scrambles jets to counter suspected Russian aircraft",
+        "summary": "日本紧急升空战机应对疑似俄飞机侵犯领空，并向莫斯科提出严正抗议。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-16T19:29:00Z"
+      },
+      {
+        "id": "a63aada3d951efc13729",
+        "title": "Trump departs for ASEAN on summit with Xi and Putin",
+        "summary": "特朗普启程赴菲律宾出席东盟峰会，将会晤习近平与普京。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-        "publishedAt": "2026-11-16T12:00:07Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+        "publishedAt": "2026-11-16T15:42:03Z"
       },
       {
-        "id": "3a7ab3c0ac0848e58289",
-        "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-        "summary": "霍尔木兹海峡油轮触雷，地区紧张局势加剧。",
+        "id": "0ce7b78d5c502b79772c",
+        "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+        "summary": "加州起诉OpenAI，指其缺乏适当安全防护，Hugging Face攻击本可预见。",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
-        "publishedAt": "2026-11-16T07:37:49Z"
-      },
-      {
-        "id": "32a103fc20547be7b9c8",
-        "title": "Failed UK asylum seekers to lose five-day grace period and face immediate removal",
-        "summary": "英国拟取消失败庇护申请者五天宽限期，面临立即遣返。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
-        "publishedAt": "2026-11-16T12:06:24Z"
-      },
-      {
-        "id": "e31647b97c9292dde342",
-        "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-        "summary": "英国卫生部将于2029年终止Palantir的NHS合同，为本国企业留时间。",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-        "publishedAt": "2026-11-16T11:59:31Z"
+        "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+        "publishedAt": "2026-11-16T13:35:51Z"
       }
     ]
   }
