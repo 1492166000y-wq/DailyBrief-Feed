@@ -1,111 +1,127 @@
 {
   "version": 1,
   "date": "2026-11-18",
-  "generatedAt": "2026-11-17T23:29:55Z",
+  "generatedAt": "2026-11-18T07:22:39Z",
   "generationMode": "ai",
   "domestic": {
-    "overview": "国内聚焦深圳APEC峰会与中俄美元首会晤，美对华半导体限制引发外交回应，英伟达与腾讯动态受到科技财经界关注。",
+    "overview": "今日国内新闻聚焦APEC深圳峰会，习近平与普京会晤、出席工商领导人峰会，多国领导人抵深；英伟达财报超预期但黄仁勋离任后CEO遴选受关注；A股与美股市场动态及社会民生事件亦受关注。",
     "items": [
       {
-        "id": "bed442ea70ce273b84c7",
-        "title": "普京抵达深圳",
-        "summary": "俄罗斯总统普京抵达深圳，出席亚太经合组织领导人非正式会议。",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
-        "publishedAt": "2026-11-17T23:29:55Z"
-      },
-      {
-        "id": "1274a8d9ce9a773cd925",
-        "title": "圆桌｜中俄美元首历史性首次会晤在即，三国权威学者谈大国关系新契机",
-        "summary": "中俄美元首历史性首次会晤在即，三国权威学者探讨大国关系新契机。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34490498",
-        "publishedAt": "2026-11-17T23:29:55Z"
-      },
-      {
-        "id": "5674f473147b712a8dd8",
-        "title": "美商务部发布限制远程获取先进半导体相关措施，中方回应",
-        "summary": "美商务部发布限制远程获取先进半导体措施，中方就此作出回应。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2537022",
-        "publishedAt": "2026-11-17T23:29:55Z"
-      },
-      {
-        "id": "5087feab5a3bafbc1a12",
-        "title": "腾讯内部讲话曝光，马化腾：浪已经杀过来了，远处的浪潮已经在吞没一个个山丘，你不能还坐着欣赏",
-        "summary": "腾讯内部讲话曝光，马化腾称技术浪潮已至，警示不能坐视被吞没。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786059",
-        "publishedAt": "2026-11-17T23:29:55Z"
-      },
-      {
-        "id": "32a43dd6e97420c2e31c",
-        "title": "APEC工商领导人峰会今天聚焦哪些议题",
-        "summary": "APEC工商领导人峰会聚焦数字经济、供应链韧性等核心议题。",
+        "id": "8d9ccd03607cd7aa280b",
+        "title": "习近平会见普京",
+        "summary": "习近平在深圳会见俄罗斯总统普京，就双边关系与APEC议程交换意见。",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7708221528491658793/",
-        "publishedAt": "2026-11-17T23:29:55Z"
+        "url": "https://www.toutiao.com/trending/7709346040930910235/",
+        "publishedAt": "2026-11-18T07:22:39Z"
+      },
+      {
+        "id": "86ecd600f5106537f140",
+        "title": "详讯丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "summary": "习近平出席APEC工商领导人峰会开幕式并发表主旨演讲，阐述亚太合作主张。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34502089",
+        "publishedAt": "2026-11-18T07:22:39Z"
+      },
+      {
+        "id": "4324aa9365fd5e6a3602",
+        "title": "【早报】英伟达业绩全线超预期，临时CEO最新发声；标普500指数，创9月以来最长连跌；荣盛发展、*ST华幸拉响退市警报",
+        "summary": "英伟达业绩全线超预期，临时CEO发声；标普500创9月以来最长连跌；两家房企拉响退市警报。",
+        "source": "财联社热门",
+        "url": "https://www.cls.cn/detail/2537296",
+        "publishedAt": "2026-11-18T07:22:39Z"
+      },
+      {
+        "id": "9a4e1b87fe0ba55f46ea",
+        "title": "系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨",
+        "summary": "美欧多系统中断密集爆发，标普、纳指四连跌，软件股重挫，美元结束五连涨。",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3786084",
+        "publishedAt": "2026-11-18T07:22:39Z"
       },
       {
         "id": "4bb408ef03a8510def90",
         "title": "英伟达担忧暂缓！本季指引再超预期创新高，Vera Rubin“爆发式开局”，调升下财年指引 | 财报见闻",
-        "summary": "英伟达单季营收首破千亿美元，本季指引再超预期并调升下财年展望。",
+        "summary": "英伟达本季指引再超预期创新高，Vera Rubin开局强劲，并调升下财年指引。",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786135",
-        "publishedAt": "2026-11-17T23:29:55Z"
+        "publishedAt": "2026-11-18T07:22:39Z"
       },
       {
-        "id": "3ab5f9408fcef20ae2cb",
-        "title": "股价跌破“1元”，5家A股公司拉响退市警报",
-        "summary": "5家A股公司股价跌破1元，交易所退市风险警报集中拉响。",
+        "id": "3dfe49197fb6392134d1",
+        "title": "又一癌症疫苗迎来重大突破 美药企股价一度暴涨超200%",
+        "summary": "又一癌症疫苗迎重大突破，美国药企股价一度暴涨超200%。",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2537002",
-        "publishedAt": "2026-11-17T23:29:55Z"
+        "url": "https://www.cls.cn/detail/2537241",
+        "publishedAt": "2026-11-18T07:22:39Z"
       },
       {
-        "id": "61c7d4d393e2128c51b4",
-        "title": "美联储官员Musalem：明年春季前或需“多次”加息，以控制通胀",
-        "summary": "美联储官员Musalem称明年春季前或需多次加息以控制通胀。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786116",
-        "publishedAt": "2026-11-17T23:29:55Z"
+        "id": "9608782c9fd3aef0632d",
+        "title": "美媒曝伊朗拟在华盛顿发动脏弹袭击，白宫回应",
+        "summary": "美媒曝伊朗拟在华盛顿发动脏弹袭击，白宫作出回应。",
+        "source": "凤凰网",
+        "url": "https://original.ifeng.com/c/8y9OKf3GnDz",
+        "publishedAt": "2026-11-18T07:22:39Z"
+      },
+      {
+        "id": "8fbc611622d5ad0866dd",
+        "title": "俄罗斯总统普京抵达深圳，蔡奇前往机场迎接",
+        "summary": "俄罗斯总统普京抵达深圳，蔡奇前往机场迎接，将出席APEC相关活动。",
+        "source": "澎湃新闻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34495697",
+        "publishedAt": "2026-11-18T07:22:39Z"
       }
     ]
   },
   "global": {
-    "overview": "国际焦点集中在中俄美元首深圳会晤、乌克兰袭击克里米亚大桥、美国对东南亚芯片限制及其对华影响。",
+    "overview": "国际新闻关注APEC峰会期间中美俄领导人互动与各自主张；美国中期选举民主党翻转阿拉斯加参议院席位；美国网络中断与科技故障归因；英伟达财报及黄仁勋去职后续；乌克兰袭击克里米亚大桥；以及多国社会与卫生议题。",
     "items": [
+      {
+        "id": "fe9ec7392d0ac26fc02d",
+        "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+        "summary": "APEC峰会直播：习近平与普京开始会谈；鲁比奥称特朗普认真对待与金正恩会面。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+        "publishedAt": "2026-11-17T22:56:14Z"
+      },
       {
         "id": "8f96023e6cbfe0ea84b4",
         "title": "APEC summit: What Trump, Xi and Putin want",
-        "summary": "APEC峰会特朗普、习近平、普京将举行首次三边会晤，各方诉求引关注。",
+        "summary": "APEC峰会前瞻：特朗普、习近平、普京将举行首次三边会晤，各方在贸易、乌克兰等问题上诉求不同。",
         "source": "DW Top Stories",
         "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-17T06:25:00Z"
+        "publishedAt": "2026-11-17T21:39:00Z"
+      },
+      {
+        "id": "2eb3175e3e074430f660",
+        "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race",
+        "summary": "美国中期选举最后一场参议院选战揭晓，民主党人佩尔托拉翻转阿拉斯加席位。",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-17T22:27:00Z"
+      },
+      {
+        "id": "dcdef9d5c4181061e595",
+        "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+        "summary": "鲁比奥称无证据表明近期科技故障相互关联或系网络攻击，微软、银行及国安局均受影响。",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+        "publishedAt": "2026-11-17T22:26:49Z"
+      },
+      {
+        "id": "a53f5d69d2ceb27b668c",
+        "title": "Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings",
+        "summary": "英伟达拒绝重新任命黄仁勋的呼声，并预计第四季度营收达1300亿美元。",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+        "publishedAt": "2026-11-17T19:00:22Z"
       },
       {
         "id": "79426f830a5f19583b80",
         "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-        "summary": "乌克兰导弹袭击克里米亚大桥致其严重受损，泽连斯基称前所未有攻击。",
+        "summary": "乌克兰导弹袭击克里米亚大桥致其严重受损，泽连斯基称这是前所未有的攻击。",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
         "publishedAt": "2026-11-17T05:25:02Z"
-      },
-      {
-        "id": "aa268934d0da472218c1",
-        "title": "How new US chip restrictions on South East Asia will hit China",
-        "summary": "美国对东南亚实施新芯片限制，收紧出口与算力获取，冲击中国AI产业。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-17T06:25:45Z"
-      },
-      {
-        "id": "2d739a4a213dabd6f4a1",
-        "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
-        "summary": "美国国安局将全国网络中断归因于例行维护，此前多起故障未获解释。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
-        "publishedAt": "2026-11-17T11:03:14Z"
       },
       {
         "id": "898808dc504c60f36da3",
@@ -114,22 +130,6 @@
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
         "publishedAt": "2026-11-17T13:04:00Z"
-      },
-      {
-        "id": "53477e2d72644f5901aa",
-        "title": "Solid 2.0",
-        "summary": "Solid 2.0 前端框架正式发布，结束长期停滞并带来多项架构更新。",
-        "source": "Hacker News",
-        "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-        "publishedAt": "2026-11-17T10:56:17Z"
-      },
-      {
-        "id": "6e7cfbab5d0e568cff54",
-        "title": "Deutsche Bank under fire after internal documents made public",
-        "summary": "德意志银行内部文件曝光其与爱泼斯坦、特朗普及俄寡头往来，引发批评。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-17T10:32:00Z"
       },
       {
         "id": "0eb9ab526e4808e8ad16",
