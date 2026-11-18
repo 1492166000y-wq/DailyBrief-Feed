@@ -1,143 +1,143 @@
 {
   "version": 1,
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T07:22:39Z",
-  "generationMode": "ai",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-18T17:14:10Z",
+  "generationMode": "rules_fallback",
   "domestic": {
-    "overview": "今日国内新闻聚焦APEC深圳峰会，习近平与普京会晤、出席工商领导人峰会，多国领导人抵深；英伟达财报超预期但黄仁勋离任后CEO遴选受关注；A股与美股市场动态及社会民生事件亦受关注。",
+    "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "8d9ccd03607cd7aa280b",
-        "title": "习近平会见普京",
-        "summary": "习近平在深圳会见俄罗斯总统普京，就双边关系与APEC议程交换意见。",
+        "id": "bab56c3518774f6480c5",
+        "title": "习近平同APEC各经济体领导人合影",
+        "summary": "习近平同APEC各经济体领导人合影",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709346040930910235/",
-        "publishedAt": "2026-11-18T07:22:39Z"
+        "url": "https://www.toutiao.com/trending/7709445844642250762/",
+        "publishedAt": "2026-11-18T17:14:10Z"
+      },
+      {
+        "id": "fd28567c9460d07953af",
+        "title": "中俄美元首同框",
+        "summary": "中俄美元首同框",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86",
+        "publishedAt": "2026-11-18T17:14:10Z"
+      },
+      {
+        "id": "5f5aa389a02df95e6f35",
+        "title": "英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”",
+        "summary": "英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3786136",
+        "publishedAt": "2026-11-18T17:14:10Z"
       },
       {
         "id": "86ecd600f5106537f140",
         "title": "详讯丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-        "summary": "习近平出席APEC工商领导人峰会开幕式并发表主旨演讲，阐述亚太合作主张。",
+        "summary": "详讯丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34502089",
-        "publishedAt": "2026-11-18T07:22:39Z"
+        "publishedAt": "2026-11-18T17:14:10Z"
       },
       {
-        "id": "4324aa9365fd5e6a3602",
-        "title": "【早报】英伟达业绩全线超预期，临时CEO最新发声；标普500指数，创9月以来最长连跌；荣盛发展、*ST华幸拉响退市警报",
-        "summary": "英伟达业绩全线超预期，临时CEO发声；标普500创9月以来最长连跌；两家房企拉响退市警报。",
+        "id": "71696394a476b515fece",
+        "title": "英伟达停止向中国供应H200芯片，外交部回应",
+        "summary": "英伟达停止向中国供应H200芯片，外交部回应",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2537296",
-        "publishedAt": "2026-11-18T07:22:39Z"
+        "url": "https://www.cls.cn/detail/2537828",
+        "publishedAt": "2026-11-18T17:14:10Z"
       },
       {
-        "id": "9a4e1b87fe0ba55f46ea",
-        "title": "系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨",
-        "summary": "美欧多系统中断密集爆发，标普、纳指四连跌，软件股重挫，美元结束五连涨。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786084",
-        "publishedAt": "2026-11-18T07:22:39Z"
-      },
-      {
-        "id": "4bb408ef03a8510def90",
-        "title": "英伟达担忧暂缓！本季指引再超预期创新高，Vera Rubin“爆发式开局”，调升下财年指引 | 财报见闻",
-        "summary": "英伟达本季指引再超预期创新高，Vera Rubin开局强劲，并调升下财年指引。",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786135",
-        "publishedAt": "2026-11-18T07:22:39Z"
-      },
-      {
-        "id": "3dfe49197fb6392134d1",
-        "title": "又一癌症疫苗迎来重大突破 美药企股价一度暴涨超200%",
-        "summary": "又一癌症疫苗迎重大突破，美国药企股价一度暴涨超200%。",
-        "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2537241",
-        "publishedAt": "2026-11-18T07:22:39Z"
-      },
-      {
-        "id": "9608782c9fd3aef0632d",
-        "title": "美媒曝伊朗拟在华盛顿发动脏弹袭击，白宫回应",
-        "summary": "美媒曝伊朗拟在华盛顿发动脏弹袭击，白宫作出回应。",
+        "id": "a921ea43bae7e87bf087",
+        "title": "“感谢中方特殊安排”，特朗普又带高规格代表团来了",
+        "summary": "“感谢中方特殊安排”，特朗普又带高规格代表团来了",
         "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8y9OKf3GnDz",
-        "publishedAt": "2026-11-18T07:22:39Z"
+        "url": "https://news.ifeng.com/c/8y9zvEpD3u3",
+        "publishedAt": "2026-11-18T17:14:10Z"
       },
       {
-        "id": "8fbc611622d5ad0866dd",
-        "title": "俄罗斯总统普京抵达深圳，蔡奇前往机场迎接",
-        "summary": "俄罗斯总统普京抵达深圳，蔡奇前往机场迎接，将出席APEC相关活动。",
-        "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34495697",
-        "publishedAt": "2026-11-18T07:22:39Z"
+        "id": "106aa112e34125835b55",
+        "title": "APEC会议来宾欢迎宴会大合影",
+        "summary": "APEC会议来宾欢迎宴会大合影",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23APEC%E4%BC%9A%E8%AE%AE%E6%9D%A5%E5%AE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E5%A4%A7%E5%90%88%E5%BD%B1%23",
+        "publishedAt": "2026-11-18T17:14:10Z"
+      },
+      {
+        "id": "27fac21cce1852401311",
+        "title": "普京和特朗普互动握手",
+        "summary": "普京和特朗普互动握手",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7709016121017434153/",
+        "publishedAt": "2026-11-18T17:14:10Z"
       }
     ]
   },
   "global": {
-    "overview": "国际新闻关注APEC峰会期间中美俄领导人互动与各自主张；美国中期选举民主党翻转阿拉斯加参议院席位；美国网络中断与科技故障归因；英伟达财报及黄仁勋去职后续；乌克兰袭击克里米亚大桥；以及多国社会与卫生议题。",
+    "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "fe9ec7392d0ac26fc02d",
-        "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-        "summary": "APEC峰会直播：习近平与普京开始会谈；鲁比奥称特朗普认真对待与金正恩会面。",
+        "id": "0c29082150e204b1a36f",
+        "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+        "summary": "The nomination sets him on the path to become the first black lawmaker to lead t",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-18T09:09:02Z"
+      },
+      {
+        "id": "6790316823c661fe1211",
+        "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – as it happened",
+        "summary": "This blog is now closedIn her speech today, Shabana Mahmood, the home secretary,",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+        "publishedAt": "2026-11-18T09:06:59Z"
+      },
+      {
+        "id": "5c48af7ae486a04ee8d7",
+        "title": "California Republicans won only four of state’s 52 US House seats in midterms",
+        "summary": "California Democrats flipped five seats and will send 48 representatives to DC a",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
+        "publishedAt": "2026-11-18T09:03:46Z"
+      },
+      {
+        "id": "69b417f4915a525c88dc",
+        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+        "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-18T09:00:40Z"
+      },
+      {
+        "id": "65e05e55b034ffdb2551",
+        "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+        "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Khar",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-18T09:00:04Z"
+      },
+      {
+        "id": "3b97079e673a4646165b",
+        "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+        "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting be",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-        "publishedAt": "2026-11-17T22:56:14Z"
+        "publishedAt": "2026-11-18T08:58:02Z"
       },
       {
-        "id": "8f96023e6cbfe0ea84b4",
-        "title": "APEC summit: What Trump, Xi and Putin want",
-        "summary": "APEC峰会前瞻：特朗普、习近平、普京将举行首次三边会晤，各方在贸易、乌克兰等问题上诉求不同。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-17T21:39:00Z"
-      },
-      {
-        "id": "2eb3175e3e074430f660",
-        "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race",
-        "summary": "美国中期选举最后一场参议院选战揭晓，民主党人佩尔托拉翻转阿拉斯加席位。",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-17T22:27:00Z"
-      },
-      {
-        "id": "dcdef9d5c4181061e595",
-        "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-        "summary": "鲁比奥称无证据表明近期科技故障相互关联或系网络攻击，微软、银行及国安局均受影响。",
+        "id": "64789a0feccfa577b7d1",
+        "title": "Brooklyn man sues, saying he warned of cracks before deadly building collapse",
+        "summary": "Dengane Omari Jack filed a lawsuit against his landlord and multiple constructio",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-        "publishedAt": "2026-11-17T22:26:49Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/brooklyn-building-collapse-lawsuit",
+        "publishedAt": "2026-11-18T08:57:26Z"
       },
       {
-        "id": "a53f5d69d2ceb27b668c",
-        "title": "Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings",
-        "summary": "英伟达拒绝重新任命黄仁勋的呼声，并预计第四季度营收达1300亿美元。",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
-        "publishedAt": "2026-11-17T19:00:22Z"
-      },
-      {
-        "id": "79426f830a5f19583b80",
-        "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-        "summary": "乌克兰导弹袭击克里米亚大桥致其严重受损，泽连斯基称这是前所未有的攻击。",
+        "id": "017839d69717f1d530c7",
+        "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+        "summary": "Populations at lowest level on record with 45% of native breeding species in dec",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-        "publishedAt": "2026-11-17T05:25:02Z"
-      },
-      {
-        "id": "898808dc504c60f36da3",
-        "title": "US loses measles elimination status after 26 years amid record case numbers",
-        "summary": "美国连续26年麻疹消除状态被取消，报告超5400例病例及10例死亡。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-17T13:04:00Z"
-      },
-      {
-        "id": "0eb9ab526e4808e8ad16",
-        "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-        "summary": "巴勒斯坦卫生部门称一名72岁妇女在约旦河西岸被以色列定居者枪杀。",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-17T12:30:20Z"
+        "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+        "publishedAt": "2026-11-18T08:56:18Z"
       }
     ]
   }
