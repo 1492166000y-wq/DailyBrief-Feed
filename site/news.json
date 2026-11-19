@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-11-19",
-  "generatedAt": "2026-11-18T17:14:10Z",
+  "generatedAt": "2026-11-19T00:20:03Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
@@ -12,7 +12,7 @@
         "summary": "习近平同APEC各经济体领导人合影",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7709445844642250762/",
-        "publishedAt": "2026-11-18T17:14:10Z"
+        "publishedAt": "2026-11-19T00:20:03Z"
       },
       {
         "id": "fd28567c9460d07953af",
@@ -20,7 +20,7 @@
         "summary": "中俄美元首同框",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86",
-        "publishedAt": "2026-11-18T17:14:10Z"
+        "publishedAt": "2026-11-19T00:20:03Z"
       },
       {
         "id": "5f5aa389a02df95e6f35",
@@ -28,7 +28,7 @@
         "summary": "英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786136",
-        "publishedAt": "2026-11-18T17:14:10Z"
+        "publishedAt": "2026-11-19T00:20:03Z"
       },
       {
         "id": "86ecd600f5106537f140",
@@ -36,15 +36,15 @@
         "summary": "详讯丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34502089",
-        "publishedAt": "2026-11-18T17:14:10Z"
+        "publishedAt": "2026-11-19T00:20:03Z"
       },
       {
-        "id": "71696394a476b515fece",
-        "title": "英伟达停止向中国供应H200芯片，外交部回应",
-        "summary": "英伟达停止向中国供应H200芯片，外交部回应",
+        "id": "49a6f7a44d4178032950",
+        "title": "【早报】深夜巨震，美股芯片股剧烈分化；美联储纪要放鹰，几乎所有官员预计还需加息；字节、微软据悉洽谈扩容云合同",
+        "summary": "【早报】深夜巨震，美股芯片股剧烈分化；美联储纪要放鹰，几乎所有官员预计还需加息；字节、微软据悉洽谈扩容云合同",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2537828",
-        "publishedAt": "2026-11-18T17:14:10Z"
+        "url": "https://www.cls.cn/detail/2538438",
+        "publishedAt": "2026-11-19T00:20:03Z"
       },
       {
         "id": "a921ea43bae7e87bf087",
@@ -52,23 +52,23 @@
         "summary": "“感谢中方特殊安排”，特朗普又带高规格代表团来了",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8y9zvEpD3u3",
-        "publishedAt": "2026-11-18T17:14:10Z"
+        "publishedAt": "2026-11-19T00:20:03Z"
       },
       {
-        "id": "106aa112e34125835b55",
-        "title": "APEC会议来宾欢迎宴会大合影",
-        "summary": "APEC会议来宾欢迎宴会大合影",
+        "id": "5410ae3fc2d8853b3a26",
+        "title": "习近平和彭丽媛为来宾举行欢迎宴会",
+        "summary": "习近平和彭丽媛为来宾举行欢迎宴会",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23APEC%E4%BC%9A%E8%AE%AE%E6%9D%A5%E5%AE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E5%A4%A7%E5%90%88%E5%BD%B1%23",
-        "publishedAt": "2026-11-18T17:14:10Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23",
+        "publishedAt": "2026-11-19T00:20:03Z"
       },
       {
-        "id": "27fac21cce1852401311",
-        "title": "普京和特朗普互动握手",
-        "summary": "普京和特朗普互动握手",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709016121017434153/",
-        "publishedAt": "2026-11-18T17:14:10Z"
+        "id": "e9f5274b7aa071712f18",
+        "title": "习近平彭丽媛欢迎与会嘉宾并集体合影",
+        "summary": "习近平彭丽媛欢迎与会嘉宾并集体合影",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BD%AD%E4%B8%BD%E5%AA%9B%E6%AC%A2%E8%BF%8E%E4%B8%8E%E4%BC%9A%E5%98%89%E5%AE%BE%E5%B9%B6%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1",
+        "publishedAt": "2026-11-19T00:20:03Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "0c29082150e204b1a36f",
-        "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-        "summary": "The nomination sets him on the path to become the first black lawmaker to lead t",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-18T09:09:02Z"
-      },
-      {
-        "id": "6790316823c661fe1211",
-        "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – as it happened",
-        "summary": "This blog is now closedIn her speech today, Shabana Mahmood, the home secretary,",
+        "id": "e8d708eea4fd1bf106f5",
+        "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
+        "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national g",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-        "publishedAt": "2026-11-18T09:06:59Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+        "publishedAt": "2026-11-18T16:04:06Z"
       },
       {
-        "id": "5c48af7ae486a04ee8d7",
-        "title": "California Republicans won only four of state’s 52 US House seats in midterms",
-        "summary": "California Democrats flipped five seats and will send 48 representatives to DC a",
+        "id": "c3b6a89e30f92e988c84",
+        "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
+        "summary": "Bayesian, which sank off Sicily killing seven including tech tycoon, had not bee",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
-        "publishedAt": "2026-11-18T09:03:46Z"
+        "url": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+        "publishedAt": "2026-11-18T16:01:11Z"
       },
       {
-        "id": "69b417f4915a525c88dc",
-        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-        "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-18T09:00:40Z"
+        "id": "67af19f00da0953d70c4",
+        "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+        "summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as ",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+        "publishedAt": "2026-11-18T16:01:02Z"
       },
       {
-        "id": "65e05e55b034ffdb2551",
-        "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-        "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Khar",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-18T09:00:04Z"
+        "id": "ff7c890d176f27796b5d",
+        "title": "Grand Theft Auto VI released as gamers rejoice globally",
+        "summary": "After 13 years of waiting, fans around the world will get to play the latest ins",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-18T15:58:00Z"
       },
       {
-        "id": "3b97079e673a4646165b",
-        "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-        "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting be",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-        "publishedAt": "2026-11-18T08:58:02Z"
+        "id": "ba50748b784b2a78d649",
+        "title": "We Need Smart People Who Give a Shit",
+        "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-gi",
+        "source": "Hacker News",
+        "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+        "publishedAt": "2026-11-18T15:53:49Z"
       },
       {
-        "id": "64789a0feccfa577b7d1",
-        "title": "Brooklyn man sues, saying he warned of cracks before deadly building collapse",
-        "summary": "Dengane Omari Jack filed a lawsuit against his landlord and multiple constructio",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/18/brooklyn-building-collapse-lawsuit",
-        "publishedAt": "2026-11-18T08:57:26Z"
+        "id": "4deb944ee6c5eba4f182",
+        "title": "Israel uses Gaza swimming video to minimise winter hardships",
+        "summary": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter st",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+        "publishedAt": "2026-11-18T15:53:21Z"
       },
       {
-        "id": "017839d69717f1d530c7",
-        "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-        "summary": "Populations at lowest level on record with 45% of native breeding species in dec",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-        "publishedAt": "2026-11-18T08:56:18Z"
+        "id": "e4de3fd38f3f193eb886",
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabiliti",
+        "source": "Hacker News",
+        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "publishedAt": "2026-11-18T15:52:50Z"
+      },
+      {
+        "id": "a16cc38005ce4fa45d95",
+        "title": "Software companies are trying to kill home computing",
+        "summary": "Article URL: https://lateblt.livejournal.com/526188.html Comments URL: https://n",
+        "source": "Hacker News",
+        "url": "https://lateblt.livejournal.com/526188.html",
+        "publishedAt": "2026-11-18T15:49:18Z"
       }
     ]
   }
