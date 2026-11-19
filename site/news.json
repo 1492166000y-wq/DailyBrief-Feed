@@ -1,74 +1,74 @@
 {
   "version": 1,
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T00:20:03Z",
+  "generatedAt": "2026-11-19T10:17:26Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "bab56c3518774f6480c5",
-        "title": "习近平同APEC各经济体领导人合影",
-        "summary": "习近平同APEC各经济体领导人合影",
+        "id": "c93efb67d1f73fc7e09e",
+        "title": "习近平主持中俄美元首会晤",
+        "summary": "习近平主持中俄美元首会晤",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709445844642250762/",
-        "publishedAt": "2026-11-19T00:20:03Z"
+        "url": "https://www.toutiao.com/trending/7709293981284466707/",
+        "publishedAt": "2026-11-19T10:17:26Z"
       },
       {
-        "id": "fd28567c9460d07953af",
-        "title": "中俄美元首同框",
-        "summary": "中俄美元首同框",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86",
-        "publishedAt": "2026-11-19T00:20:03Z"
-      },
-      {
-        "id": "5f5aa389a02df95e6f35",
-        "title": "英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”",
-        "summary": "英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”",
+        "id": "6d839fd783e6def92e37",
+        "title": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功",
+        "summary": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786136",
-        "publishedAt": "2026-11-19T00:20:03Z"
+        "url": "https://wallstreetcn.com/articles/3786214",
+        "publishedAt": "2026-11-19T10:17:26Z"
       },
       {
-        "id": "86ecd600f5106537f140",
-        "title": "详讯丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-        "summary": "详讯丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "id": "310e4fd6116b3978b0bf",
+        "title": "详讯丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+        "summary": "详讯丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34502089",
-        "publishedAt": "2026-11-19T00:20:03Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34509808",
+        "publishedAt": "2026-11-19T10:17:26Z"
       },
       {
-        "id": "49a6f7a44d4178032950",
-        "title": "【早报】深夜巨震，美股芯片股剧烈分化；美联储纪要放鹰，几乎所有官员预计还需加息；字节、微软据悉洽谈扩容云合同",
-        "summary": "【早报】深夜巨震，美股芯片股剧烈分化；美联储纪要放鹰，几乎所有官员预计还需加息；字节、微软据悉洽谈扩容云合同",
+        "id": "ac5695ed80d0a8ae1378",
+        "title": "DeepSeek千亿融资落地：31家出资主体现身，产业资本大集结",
+        "summary": "DeepSeek千亿融资落地：31家出资主体现身，产业资本大集结",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2538438",
-        "publishedAt": "2026-11-19T00:20:03Z"
+        "url": "https://www.cls.cn/detail/2538723",
+        "publishedAt": "2026-11-19T10:17:26Z"
       },
       {
-        "id": "a921ea43bae7e87bf087",
-        "title": "“感谢中方特殊安排”，特朗普又带高规格代表团来了",
-        "summary": "“感谢中方特殊安排”，特朗普又带高规格代表团来了",
+        "id": "054ee82686a0cca4ed8d",
+        "title": "特朗普：美国不支持“台独”",
+        "summary": "特朗普：美国不支持“台独”",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8y9zvEpD3u3",
-        "publishedAt": "2026-11-19T00:20:03Z"
+        "url": "https://news.ifeng.com/c/8yBKGeKfJ9A",
+        "publishedAt": "2026-11-19T10:17:26Z"
       },
       {
-        "id": "5410ae3fc2d8853b3a26",
-        "title": "习近平和彭丽媛为来宾举行欢迎宴会",
-        "summary": "习近平和彭丽媛为来宾举行欢迎宴会",
+        "id": "7e610e772c7d540295dc",
+        "title": "中俄美元首一张圆桌三个座位",
+        "summary": "中俄美元首一张圆桌三个座位",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23",
-        "publishedAt": "2026-11-19T00:20:03Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E5%BC%A0%E5%9C%86%E6%A1%8C%E4%B8%89%E4%B8%AA%E5%BA%A7%E4%BD%8D%23",
+        "publishedAt": "2026-11-19T10:17:26Z"
       },
       {
-        "id": "e9f5274b7aa071712f18",
-        "title": "习近平彭丽媛欢迎与会嘉宾并集体合影",
-        "summary": "习近平彭丽媛欢迎与会嘉宾并集体合影",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BD%AD%E4%B8%BD%E5%AA%9B%E6%AC%A2%E8%BF%8E%E4%B8%8E%E4%BC%9A%E5%98%89%E5%AE%BE%E5%B9%B6%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1",
-        "publishedAt": "2026-11-19T00:20:03Z"
+        "id": "917af249dedbb7cd7530",
+        "title": "中方回应高市早苗礼宾安排",
+        "summary": "中方回应高市早苗礼宾安排",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7709173604782161930/",
+        "publishedAt": "2026-11-19T10:17:26Z"
+      },
+      {
+        "id": "c28d685b3f0ba2504cd7",
+        "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
+        "summary": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
+        "source": "华尔街见闻",
+        "url": "https://wallstreetcn.com/articles/3786169",
+        "publishedAt": "2026-11-19T10:17:26Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "e8d708eea4fd1bf106f5",
-        "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
-        "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national g",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-        "publishedAt": "2026-11-18T16:04:06Z"
+        "id": "c32581a7d936c6d7cf2c",
+        "title": "Anthropic raises $81bn in record-breaking stock market debut",
+        "summary": "The company behind the Claude chatbot will become one of the most valuable firms",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-19T02:12:16Z"
       },
       {
-        "id": "c3b6a89e30f92e988c84",
-        "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
-        "summary": "Bayesian, which sank off Sicily killing seven including tech tycoon, had not bee",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
-        "publishedAt": "2026-11-18T16:01:11Z"
-      },
-      {
-        "id": "67af19f00da0953d70c4",
-        "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-        "summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as ",
+        "id": "d6526687ff2a49517f94",
+        "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+        "summary": "With two million Palestinians confined to an area of less than 130sq km, UN-back",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-        "publishedAt": "2026-11-18T16:01:02Z"
+        "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+        "publishedAt": "2026-11-19T02:05:33Z"
       },
       {
-        "id": "ff7c890d176f27796b5d",
-        "title": "Grand Theft Auto VI released as gamers rejoice globally",
-        "summary": "After 13 years of waiting, fans around the world will get to play the latest ins",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-18T15:58:00Z"
+        "id": "3042f03385a0281e5366",
+        "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
+        "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut bec",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+        "publishedAt": "2026-11-19T02:04:14Z"
       },
       {
-        "id": "ba50748b784b2a78d649",
-        "title": "We Need Smart People Who Give a Shit",
-        "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-gi",
-        "source": "Hacker News",
-        "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-        "publishedAt": "2026-11-18T15:53:49Z"
+        "id": "5861856d56357b0c4272",
+        "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+        "summary": "Assessment of damage is underway, days after two attacks that destroyed road sec",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+        "publishedAt": "2026-11-19T02:03:42Z"
       },
       {
-        "id": "4deb944ee6c5eba4f182",
-        "title": "Israel uses Gaza swimming video to minimise winter hardships",
-        "summary": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter st",
+        "id": "30f2b50667d817c79666",
+        "title": "Trump calls for nuclear arms reduction at APEC summit",
+        "summary": "Trump calls for nuclear arms reduction at APEC summit",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
-        "publishedAt": "2026-11-18T15:53:21Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+        "publishedAt": "2026-11-19T02:03:27Z"
       },
       {
-        "id": "e4de3fd38f3f193eb886",
-        "title": "Multiple vulnerabilities in Regexp and String case conversion",
-        "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabiliti",
-        "source": "Hacker News",
-        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-        "publishedAt": "2026-11-18T15:52:50Z"
+        "id": "1b97f2cdfb3f1010e85f",
+        "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+        "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us fro",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+        "publishedAt": "2026-11-19T02:00:52Z"
       },
       {
-        "id": "a16cc38005ce4fa45d95",
-        "title": "Software companies are trying to kill home computing",
-        "summary": "Article URL: https://lateblt.livejournal.com/526188.html Comments URL: https://n",
-        "source": "Hacker News",
-        "url": "https://lateblt.livejournal.com/526188.html",
-        "publishedAt": "2026-11-18T15:49:18Z"
+        "id": "97375d8158ec413336e5",
+        "title": "Malaysian weightlifting champion Roslin loses arm after motorbike crash",
+        "summary": "Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026,",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
+        "publishedAt": "2026-11-19T01:56:07Z"
+      },
+      {
+        "id": "9607b42b5c4ef19dda37",
+        "title": "EDF snaps up 1.3m more customers after Utilita takeover",
+        "summary": "Great Britain’s fourth-largest energy supplier brings account base up to 6m afte",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
+        "publishedAt": "2026-11-19T01:44:32Z"
       }
     ]
   }
