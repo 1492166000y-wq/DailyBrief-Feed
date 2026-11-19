@@ -1,18 +1,26 @@
 {
   "version": 1,
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T10:17:26Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-19T19:00:54Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "c93efb67d1f73fc7e09e",
-        "title": "习近平主持中俄美元首会晤",
-        "summary": "习近平主持中俄美元首会晤",
+        "id": "df45b030711a68a256d4",
+        "title": "中俄美元首和平宣言",
+        "summary": "中俄美元首和平宣言",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709293981284466707/",
-        "publishedAt": "2026-11-19T10:17:26Z"
+        "url": "https://www.toutiao.com/trending/7709805042211209235/",
+        "publishedAt": "2026-11-19T19:00:54Z"
+      },
+      {
+        "id": "554f9f3be84bfd6b2ee5",
+        "title": "中俄美元首会晤",
+        "summary": "中俄美元首会晤",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+        "publishedAt": "2026-11-19T19:00:54Z"
       },
       {
         "id": "6d839fd783e6def92e37",
@@ -20,7 +28,7 @@
         "summary": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786214",
-        "publishedAt": "2026-11-19T10:17:26Z"
+        "publishedAt": "2026-11-19T19:00:54Z"
       },
       {
         "id": "310e4fd6116b3978b0bf",
@@ -28,47 +36,39 @@
         "summary": "详讯丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509808",
-        "publishedAt": "2026-11-19T10:17:26Z"
+        "publishedAt": "2026-11-19T19:00:54Z"
       },
       {
-        "id": "ac5695ed80d0a8ae1378",
-        "title": "DeepSeek千亿融资落地：31家出资主体现身，产业资本大集结",
-        "summary": "DeepSeek千亿融资落地：31家出资主体现身，产业资本大集结",
+        "id": "b91fc2e0a5458a4e85fd",
+        "title": "APEC时间，中国硬科技踏浪而来",
+        "summary": "APEC时间，中国硬科技踏浪而来",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2538723",
-        "publishedAt": "2026-11-19T10:17:26Z"
+        "url": "https://www.cls.cn/detail/2539221",
+        "publishedAt": "2026-11-19T19:00:54Z"
       },
       {
-        "id": "054ee82686a0cca4ed8d",
-        "title": "特朗普：美国不支持“台独”",
-        "summary": "特朗普：美国不支持“台独”",
+        "id": "53ee0fff844fa20c79b0",
+        "title": "特朗普：今天我们创造了历史",
+        "summary": "特朗普：今天我们创造了历史",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yBKGeKfJ9A",
-        "publishedAt": "2026-11-19T10:17:26Z"
+        "url": "https://news.ifeng.com/c/8yBj2ss25v1",
+        "publishedAt": "2026-11-19T19:00:54Z"
       },
       {
-        "id": "7e610e772c7d540295dc",
-        "title": "中俄美元首一张圆桌三个座位",
-        "summary": "中俄美元首一张圆桌三个座位",
-        "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E5%BC%A0%E5%9C%86%E6%A1%8C%E4%B8%89%E4%B8%AA%E5%BA%A7%E4%BD%8D%23",
-        "publishedAt": "2026-11-19T10:17:26Z"
-      },
-      {
-        "id": "917af249dedbb7cd7530",
-        "title": "中方回应高市早苗礼宾安排",
-        "summary": "中方回应高市早苗礼宾安排",
+        "id": "169ba98b38e7e0a997ce",
+        "title": "王毅到机场送别特朗普",
+        "summary": "王毅到机场送别特朗普",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709173604782161930/",
-        "publishedAt": "2026-11-19T10:17:26Z"
+        "url": "https://www.toutiao.com/trending/7709633676031643199/",
+        "publishedAt": "2026-11-19T19:00:54Z"
       },
       {
-        "id": "c28d685b3f0ba2504cd7",
-        "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
-        "summary": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
-        "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786169",
-        "publishedAt": "2026-11-19T10:17:26Z"
+        "id": "c6490382517d9ba3e6bd",
+        "title": "习主席主持 普京、特朗普先后发言",
+        "summary": "习主席主持 普京、特朗普先后发言",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%BB%E6%8C%81+%E6%99%AE%E4%BA%AC%E3%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E5%90%8E%E5%8F%91%E8%A8%80",
+        "publishedAt": "2026-11-19T19:00:54Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "c32581a7d936c6d7cf2c",
-        "title": "Anthropic raises $81bn in record-breaking stock market debut",
-        "summary": "The company behind the Claude chatbot will become one of the most valuable firms",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-19T02:12:16Z"
+        "id": "496c187b8dc15665fe4d",
+        "title": "Woman raped by strangers after being drugged by husband calls for consent law changes",
+        "summary": "Four men convicted of sexual assault and rape of Joanne Young, whose husband adv",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+        "publishedAt": "2026-11-19T10:54:01Z"
       },
       {
-        "id": "d6526687ff2a49517f94",
-        "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
-        "summary": "With two million Palestinians confined to an area of less than 130sq km, UN-back",
+        "id": "86bda775b5d8d9a92204",
+        "title": "France awaits verdict six years after police beat Black music producer",
+        "summary": "Three officers are accused of assaulting Michel Zecler in an incident that was f",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-        "publishedAt": "2026-11-19T02:05:33Z"
+        "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+        "publishedAt": "2026-11-19T10:51:50Z"
       },
       {
-        "id": "3042f03385a0281e5366",
-        "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
-        "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut bec",
+        "id": "d358520dd7b8c6825b9a",
+        "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+        "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when ",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-        "publishedAt": "2026-11-19T02:04:14Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+        "publishedAt": "2026-11-19T10:51:29Z"
       },
       {
-        "id": "5861856d56357b0c4272",
-        "title": "Crimea bridge has been attacked again, says Russian-installed governor",
-        "summary": "Assessment of damage is underway, days after two attacks that destroyed road sec",
+        "id": "bf8c3f35be059e8074dc",
+        "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
+        "summary": "New report finds that potatoes should be able to grow on moon after they were su",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
-        "publishedAt": "2026-11-19T02:03:42Z"
+        "url": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
+        "publishedAt": "2026-11-19T10:49:54Z"
       },
       {
-        "id": "30f2b50667d817c79666",
-        "title": "Trump calls for nuclear arms reduction at APEC summit",
-        "summary": "Trump calls for nuclear arms reduction at APEC summit",
+        "id": "660213713e3301bfc6cf",
+        "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+        "summary": "Families in Nuseirat spend the night without shelter, while many fear returning ",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
-        "publishedAt": "2026-11-19T02:03:27Z"
+        "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+        "publishedAt": "2026-11-19T10:46:10Z"
       },
       {
-        "id": "1b97f2cdfb3f1010e85f",
-        "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-        "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us fro",
+        "id": "811770567f952ed8d161",
+        "title": "European leaders present united front in push for peace in Ukraine",
+        "summary": "Talks in Berlin end with reaffirmed support for Kyiv and a concerted push for Eu",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-19T10:44:00Z"
+      },
+      {
+        "id": "3b230c6c45adab7b7dc6",
+        "title": "Chile: UFO Sightings by 18th Century Jesuits",
+        "summary": "Article URL: https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18t",
+        "source": "Hacker News",
+        "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html",
+        "publishedAt": "2026-11-19T10:26:28Z"
+      },
+      {
+        "id": "faf6abe3b7c4c530f2eb",
+        "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
+        "summary": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns that pati",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-        "publishedAt": "2026-11-19T02:00:52Z"
-      },
-      {
-        "id": "97375d8158ec413336e5",
-        "title": "Malaysian weightlifting champion Roslin loses arm after motorbike crash",
-        "summary": "Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026,",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
-        "publishedAt": "2026-11-19T01:56:07Z"
-      },
-      {
-        "id": "9607b42b5c4ef19dda37",
-        "title": "EDF snaps up 1.3m more customers after Utilita takeover",
-        "summary": "Great Britain’s fourth-largest energy supplier brings account base up to 6m afte",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
-        "publishedAt": "2026-11-19T01:44:32Z"
+        "url": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
+        "publishedAt": "2026-11-19T10:21:59Z"
       }
     ]
   }
