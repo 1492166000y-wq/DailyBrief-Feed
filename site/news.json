@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-11-20",
-  "generatedAt": "2026-11-19T19:00:54Z",
+  "generatedAt": "2026-11-20T01:46:43Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
@@ -12,7 +12,7 @@
         "summary": "中俄美元首和平宣言",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7709805042211209235/",
-        "publishedAt": "2026-11-19T19:00:54Z"
+        "publishedAt": "2026-11-20T01:46:43Z"
       },
       {
         "id": "554f9f3be84bfd6b2ee5",
@@ -20,15 +20,15 @@
         "summary": "中俄美元首会晤",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-        "publishedAt": "2026-11-19T19:00:54Z"
+        "publishedAt": "2026-11-20T01:46:43Z"
       },
       {
-        "id": "6d839fd783e6def92e37",
-        "title": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功",
-        "summary": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功",
+        "id": "7b6f7db9bb1f200c0d90",
+        "title": "史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%",
+        "summary": "史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786214",
-        "publishedAt": "2026-11-19T19:00:54Z"
+        "url": "https://wallstreetcn.com/articles/3786267",
+        "publishedAt": "2026-11-20T01:46:43Z"
       },
       {
         "id": "310e4fd6116b3978b0bf",
@@ -36,39 +36,39 @@
         "summary": "详讯丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509808",
-        "publishedAt": "2026-11-19T19:00:54Z"
+        "publishedAt": "2026-11-20T01:46:43Z"
       },
       {
-        "id": "b91fc2e0a5458a4e85fd",
-        "title": "APEC时间，中国硬科技踏浪而来",
-        "summary": "APEC时间，中国硬科技踏浪而来",
+        "id": "1ad5ca7c4b8c8a1c9c93",
+        "title": "【早报】高开低走，深夜美股大跳水；Anthropic上市首秀收涨17%；黄金、白银，大幅走弱",
+        "summary": "【早报】高开低走，深夜美股大跳水；Anthropic上市首秀收涨17%；黄金、白银，大幅走弱",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2539221",
-        "publishedAt": "2026-11-19T19:00:54Z"
+        "url": "https://www.cls.cn/detail/2539556",
+        "publishedAt": "2026-11-20T01:46:43Z"
       },
       {
-        "id": "53ee0fff844fa20c79b0",
-        "title": "特朗普：今天我们创造了历史",
-        "summary": "特朗普：今天我们创造了历史",
+        "id": "31efa735e81b3a0b2b7f",
+        "title": "特朗普：我们创造了历史",
+        "summary": "特朗普：我们创造了历史",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8yBj2ss25v1",
-        "publishedAt": "2026-11-19T19:00:54Z"
+        "publishedAt": "2026-11-20T01:46:43Z"
       },
       {
-        "id": "169ba98b38e7e0a997ce",
-        "title": "王毅到机场送别特朗普",
-        "summary": "王毅到机场送别特朗普",
+        "id": "20c1cb4e5cffabfa19fa",
+        "title": "中俄美元首会晤富有成果",
+        "summary": "中俄美元首会晤富有成果",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%AF%8C%E6%9C%89%E6%88%90%E6%9E%9C%23",
+        "publishedAt": "2026-11-20T01:46:43Z"
+      },
+      {
+        "id": "a0ff5f168876024569f4",
+        "title": "王毅给深圳办会打100分",
+        "summary": "王毅给深圳办会打100分",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709633676031643199/",
-        "publishedAt": "2026-11-19T19:00:54Z"
-      },
-      {
-        "id": "c6490382517d9ba3e6bd",
-        "title": "习主席主持 普京、特朗普先后发言",
-        "summary": "习主席主持 普京、特朗普先后发言",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%BB%E6%8C%81+%E6%99%AE%E4%BA%AC%E3%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E5%90%8E%E5%8F%91%E8%A8%80",
-        "publishedAt": "2026-11-19T19:00:54Z"
+        "url": "https://www.toutiao.com/trending/7708984160852901929/",
+        "publishedAt": "2026-11-20T01:46:43Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "496c187b8dc15665fe4d",
-        "title": "Woman raped by strangers after being drugged by husband calls for consent law changes",
-        "summary": "Four men convicted of sexual assault and rape of Joanne Young, whose husband adv",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
-        "publishedAt": "2026-11-19T10:54:01Z"
-      },
-      {
-        "id": "86bda775b5d8d9a92204",
-        "title": "France awaits verdict six years after police beat Black music producer",
-        "summary": "Three officers are accused of assaulting Michel Zecler in an incident that was f",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
-        "publishedAt": "2026-11-19T10:51:50Z"
-      },
-      {
-        "id": "d358520dd7b8c6825b9a",
-        "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-        "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when ",
+        "id": "da3275866da018e2cca3",
+        "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – live",
+        "summary": "Democrat Nancy Peltola was declared winner earlier this week in highly scrutiniz",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-        "publishedAt": "2026-11-19T10:51:29Z"
+        "publishedAt": "2026-11-19T17:38:46Z"
       },
       {
-        "id": "bf8c3f35be059e8074dc",
-        "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
-        "summary": "New report finds that potatoes should be able to grow on moon after they were su",
+        "id": "ac9e558e3b6ab8bd0e6e",
+        "title": "Florida carries out record-breaking 20th execution of the year",
+        "summary": "State executes a man convicted of two counts of first-degree murder while Texas ",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
-        "publishedAt": "2026-11-19T10:49:54Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+        "publishedAt": "2026-11-19T17:27:25Z"
       },
       {
-        "id": "660213713e3301bfc6cf",
-        "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-        "summary": "Families in Nuseirat spend the night without shelter, while many fear returning ",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
-        "publishedAt": "2026-11-19T10:46:10Z"
-      },
-      {
-        "id": "811770567f952ed8d161",
-        "title": "European leaders present united front in push for peace in Ukraine",
-        "summary": "Talks in Berlin end with reaffirmed support for Kyiv and a concerted push for Eu",
+        "id": "d1e42e7e0ddff8786526",
+        "title": "New Ukraine talks including Europe to be held 'soon' — Merz",
+        "summary": "Germany's Chancellor Friedrich Merz says European leaders could take part in fre",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-19T10:44:00Z"
+        "url": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-19T17:27:00Z"
       },
       {
-        "id": "3b230c6c45adab7b7dc6",
-        "title": "Chile: UFO Sightings by 18th Century Jesuits",
-        "summary": "Article URL: https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18t",
-        "source": "Hacker News",
-        "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html",
-        "publishedAt": "2026-11-19T10:26:28Z"
-      },
-      {
-        "id": "faf6abe3b7c4c530f2eb",
-        "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
-        "summary": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns that pati",
+        "id": "dea7893e0ab8926e575e",
+        "title": "White House cyber director ousted after US hit by wave of tech outages",
+        "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD offi",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-        "publishedAt": "2026-11-19T10:21:59Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+        "publishedAt": "2026-11-19T17:25:05Z"
+      },
+      {
+        "id": "cfc56b0d12d627127f47",
+        "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
+        "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official c",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+        "publishedAt": "2026-11-19T17:10:06Z"
+      },
+      {
+        "id": "ae9d2da29b730c215097",
+        "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+        "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+        "publishedAt": "2026-11-19T17:06:15Z"
+      },
+      {
+        "id": "daee16f922b0284e8c4b",
+        "title": "Cincinnati's famous hippo Fiona dies after eating visitor's hat",
+        "summary": "Fiona was a global sensation at the Cincinnati Zoo in the US. The hippo, who was",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-19T17:03:00Z"
+      },
+      {
+        "id": "554d2c4941dd539595a7",
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "summary": "African countries at the UN climate summit in Turkey are demanding more funding ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-19T16:54:50Z"
       }
     ]
   }
