@@ -1,74 +1,74 @@
 {
   "version": 1,
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T01:46:43Z",
+  "generatedAt": "2026-11-20T09:59:20Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "df45b030711a68a256d4",
-        "title": "中俄美元首和平宣言",
-        "summary": "中俄美元首和平宣言",
+        "id": "daac326135f41749ef9b",
+        "title": "特朗普从中国返美途中发帖",
+        "summary": "特朗普从中国返美途中发帖",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709805042211209235/",
-        "publishedAt": "2026-11-20T01:46:43Z"
+        "url": "https://www.toutiao.com/trending/7709481684689240107/",
+        "publishedAt": "2026-11-20T09:59:20Z"
       },
       {
-        "id": "554f9f3be84bfd6b2ee5",
-        "title": "中俄美元首会晤",
-        "summary": "中俄美元首会晤",
+        "id": "57e985c54396d0f174a1",
+        "title": "印尼总统：台湾是中国的一个省",
+        "summary": "印尼总统：台湾是中国的一个省",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-        "publishedAt": "2026-11-20T01:46:43Z"
+        "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9C%81",
+        "publishedAt": "2026-11-20T09:59:20Z"
       },
       {
-        "id": "7b6f7db9bb1f200c0d90",
-        "title": "史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%",
-        "summary": "史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%",
+        "id": "d96348136f854ed9b7f3",
+        "title": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",
+        "summary": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786267",
-        "publishedAt": "2026-11-20T01:46:43Z"
+        "url": "https://wallstreetcn.com/articles/3786269",
+        "publishedAt": "2026-11-20T09:59:20Z"
       },
       {
-        "id": "310e4fd6116b3978b0bf",
-        "title": "详讯丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-        "summary": "详讯丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+        "id": "95b641beea6a54e4405c",
+        "title": "详讯丨习近平主持中俄美元首会晤",
+        "summary": "详讯丨习近平主持中俄美元首会晤",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34509808",
-        "publishedAt": "2026-11-20T01:46:43Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34513086",
+        "publishedAt": "2026-11-20T09:59:20Z"
       },
       {
-        "id": "1ad5ca7c4b8c8a1c9c93",
-        "title": "【早报】高开低走，深夜美股大跳水；Anthropic上市首秀收涨17%；黄金、白银，大幅走弱",
-        "summary": "【早报】高开低走，深夜美股大跳水；Anthropic上市首秀收涨17%；黄金、白银，大幅走弱",
+        "id": "7afea517dc0fa74b0b54",
+        "title": "大宗商品全军覆没、全球股市步履蹒跚！一文读懂：市场在交易什么？",
+        "summary": "大宗商品全军覆没、全球股市步履蹒跚！一文读懂：市场在交易什么？",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2539556",
-        "publishedAt": "2026-11-20T01:46:43Z"
+        "url": "https://www.cls.cn/detail/2539619",
+        "publishedAt": "2026-11-20T09:59:20Z"
       },
       {
-        "id": "31efa735e81b3a0b2b7f",
-        "title": "特朗普：我们创造了历史",
-        "summary": "特朗普：我们创造了历史",
+        "id": "1581fe1283eb0dba11ed",
+        "title": "普京评价中俄美元首会晤",
+        "summary": "普京评价中俄美元首会晤",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yBj2ss25v1",
-        "publishedAt": "2026-11-20T01:46:43Z"
+        "url": "https://original.ifeng.com/c/8yCXaxy8GRy",
+        "publishedAt": "2026-11-20T09:59:20Z"
       },
       {
-        "id": "20c1cb4e5cffabfa19fa",
-        "title": "中俄美元首会晤富有成果",
-        "summary": "中俄美元首会晤富有成果",
+        "id": "8b281ef28234fe561f5d",
+        "title": "BLG或更换ADC",
+        "summary": "BLG或更换ADC",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%AF%8C%E6%9C%89%E6%88%90%E6%9E%9C%23",
-        "publishedAt": "2026-11-20T01:46:43Z"
+        "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%96%E6%9B%B4%E6%8D%A2ADC%23",
+        "publishedAt": "2026-11-20T09:59:20Z"
       },
       {
-        "id": "a0ff5f168876024569f4",
-        "title": "王毅给深圳办会打100分",
-        "summary": "王毅给深圳办会打100分",
+        "id": "96c020f556e36fa1d634",
+        "title": "余承东：L3自动驾驶来了后开车可睡觉",
+        "summary": "余承东：L3自动驾驶来了后开车可睡觉",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7708984160852901929/",
-        "publishedAt": "2026-11-20T01:46:43Z"
+        "url": "https://www.toutiao.com/trending/7709417593496436786/",
+        "publishedAt": "2026-11-20T09:59:20Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "da3275866da018e2cca3",
-        "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – live",
-        "summary": "Democrat Nancy Peltola was declared winner earlier this week in highly scrutiniz",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-        "publishedAt": "2026-11-19T17:38:46Z"
-      },
-      {
-        "id": "ac9e558e3b6ab8bd0e6e",
-        "title": "Florida carries out record-breaking 20th execution of the year",
-        "summary": "State executes a man convicted of two counts of first-degree murder while Texas ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-        "publishedAt": "2026-11-19T17:27:25Z"
-      },
-      {
-        "id": "d1e42e7e0ddff8786526",
-        "title": "New Ukraine talks including Europe to be held 'soon' — Merz",
-        "summary": "Germany's Chancellor Friedrich Merz says European leaders could take part in fre",
+        "id": "e7d33589d1f965e48afb",
+        "title": "COP31: UN Climate summit enters final phase with no deal in sight",
+        "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-19T17:27:00Z"
+        "url": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-20T01:52:00Z"
       },
       {
-        "id": "dea7893e0ab8926e575e",
-        "title": "White House cyber director ousted after US hit by wave of tech outages",
-        "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD offi",
+        "id": "e2600f837fe57335def4",
+        "title": "EU says Brexit reset deal with UK will not come into force without agreement on tuition fees – live",
+        "summary": "EU aims for leverage over UK by making the deals agreed today contingent on futu",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
-        "publishedAt": "2026-11-19T17:25:05Z"
+        "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+        "publishedAt": "2026-11-20T01:50:17Z"
       },
       {
-        "id": "cfc56b0d12d627127f47",
-        "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
-        "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official c",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
-        "publishedAt": "2026-11-19T17:10:06Z"
-      },
-      {
-        "id": "ae9d2da29b730c215097",
-        "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
-        "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
-        "publishedAt": "2026-11-19T17:06:15Z"
-      },
-      {
-        "id": "daee16f922b0284e8c4b",
-        "title": "Cincinnati's famous hippo Fiona dies after eating visitor's hat",
-        "summary": "Fiona was a global sensation at the Cincinnati Zoo in the US. The hippo, who was",
+        "id": "4109fdd41049c786f4ae",
+        "title": "Lufthansa to cut 1,000 jobs, citing ongoing losses — reports",
+        "summary": "According to a letter obtained by the media, Lufthansa's executive board said th",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-19T17:03:00Z"
+        "url": "https://www.dw.com/en/lufthansa-to-cut-1-000-jobs-citing-ongoing-losses-reports/a-80000062?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-20T01:43:00Z"
       },
       {
-        "id": "554d2c4941dd539595a7",
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "summary": "African countries at the UN climate summit in Turkey are demanding more funding ",
+        "id": "dc95a92b2fdd45a7b3b5",
+        "title": "Three Kyiv bridges hit during major Russian missile attack",
+        "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful t",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-19T16:54:50Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-20T01:31:24Z"
+      },
+      {
+        "id": "738fec575ab63acc174b",
+        "title": "Infinite scroll and autoplay are fuelling a global problem",
+        "summary": "Article URL: https://www.scimex.org/newsfeed/internet-related-addictions-are-a-g",
+        "source": "Hacker News",
+        "url": "https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue",
+        "publishedAt": "2026-11-20T01:24:53Z"
+      },
+      {
+        "id": "d4d0753cd967e8e67360",
+        "title": "California investigates Nvidia over whether chip exports ended up in China",
+        "summary": "State attorney says scandal ‘raises bright red flags’ and aims to find out if co",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+        "publishedAt": "2026-11-20T01:18:30Z"
+      },
+      {
+        "id": "0707f1a290d91496de52",
+        "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+        "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 20",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+        "publishedAt": "2026-11-20T01:16:30Z"
+      },
+      {
+        "id": "f9b889916b940b20c438",
+        "title": "The U.K. and EU hold a rare summit to strengthen ties",
+        "summary": "A decade after the people of Britain voted to leave the European Union, top EU o",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+        "publishedAt": "2026-11-20T01:14:41Z"
       }
     ]
   }
