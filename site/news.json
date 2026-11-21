@@ -1,58 +1,58 @@
 {
   "version": 1,
   "date": "2026-11-21",
-  "generatedAt": "2026-11-20T18:36:18Z",
+  "generatedAt": "2026-11-21T01:29:48Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "69704b8ebf32dcae83e6",
-        "title": "胖东来搬离后原址所开新商场几乎倒闭",
-        "summary": "胖东来搬离后原址所开新商场几乎倒闭",
+        "id": "1b11e0c87fca4fc785fe",
+        "title": "金价跌回一年前 金店加价反而涨了",
+        "summary": "金价跌回一年前 金店加价反而涨了",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709314788123525147/",
-        "publishedAt": "2026-11-20T18:36:18Z"
+        "url": "https://www.toutiao.com/trending/7710269782737554982/",
+        "publishedAt": "2026-11-21T01:29:48Z"
       },
       {
-        "id": "d9864ad0df35d24f634e",
-        "title": "“工业母鸡”也被干成白菜价",
-        "summary": "“工业母鸡”也被干成白菜价",
+        "id": "9d8ba1e202ecbe2ed2a5",
+        "title": "人民日报评“老人拆墙让路遭质疑”",
+        "summary": "人民日报评“老人拆墙让路遭质疑”",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B7%A5%E4%B8%9A%E6%AF%8D%E9%B8%A1%E2%80%9D%E4%B9%9F%E8%A2%AB%E5%B9%B2%E6%88%90%E7%99%BD%E8%8F%9C%E4%BB%B7",
-        "publishedAt": "2026-11-20T18:36:18Z"
+        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E8%80%81%E4%BA%BA%E6%8B%86%E5%A2%99%E8%AE%A9%E8%B7%AF%E9%81%AD%E8%B4%A8%E7%96%91%E2%80%9D",
+        "publishedAt": "2026-11-21T01:29:48Z"
       },
       {
-        "id": "993f265baf066ec28049",
-        "title": "黑色星期五！美股跌幅扩大，Anthropic跌11％，黄金跌破3600，美债上涨",
-        "summary": "黑色星期五！美股跌幅扩大，Anthropic跌11％，黄金跌破3600，美债上涨",
+        "id": "29fcaae035010aad9320",
+        "title": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
+        "summary": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786330",
-        "publishedAt": "2026-11-20T18:36:18Z"
+        "publishedAt": "2026-11-21T01:29:48Z"
       },
       {
-        "id": "d37e31e0bc8cc0329b3e",
-        "title": "“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界",
-        "summary": "“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界",
+        "id": "7b3a2a74a7e04c9e40e9",
+        "title": "见微知沪丨两项停车新举措，是对民生难题的探索性解法",
+        "summary": "见微知沪丨两项停车新举措，是对民生难题的探索性解法",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34513875",
-        "publishedAt": "2026-11-20T18:36:18Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34520908",
+        "publishedAt": "2026-11-21T01:29:48Z"
       },
       {
-        "id": "861a0efb2b6c4af243a4",
-        "title": "黄仁勋据称将创办新的半导体公司 或将筹资500亿用于创业",
-        "summary": "黄仁勋据称将创办新的半导体公司 或将筹资500亿用于创业",
+        "id": "7e96aaa606bd055ca4ef",
+        "title": "两部门联合公布4起编造传播资本市场虚假信息典型案例",
+        "summary": "两部门联合公布4起编造传播资本市场虚假信息典型案例",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2540050",
-        "publishedAt": "2026-11-20T18:36:18Z"
+        "url": "https://www.cls.cn/detail/2540166",
+        "publishedAt": "2026-11-21T01:29:48Z"
       },
       {
-        "id": "d71091da5011c4edf4f2",
-        "title": "世卫组织总干事中国候选人宋莉，阐述竞选主张",
-        "summary": "世卫组织总干事中国候选人宋莉，阐述竞选主张",
+        "id": "ddfe13705f6907c4dbdc",
+        "title": "特朗普否认对万斯不满：他的说法完全没问题",
+        "summary": "特朗普否认对万斯不满：他的说法完全没问题",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yD7VuAP2Qn",
-        "publishedAt": "2026-11-20T18:36:18Z"
+        "url": "https://original.ifeng.com/c/8yE5GKtRRtf",
+        "publishedAt": "2026-11-21T01:29:48Z"
       },
       {
         "id": "1c7f39f237ae3e6b8d21",
@@ -60,15 +60,15 @@
         "summary": "DeepSeek付费体验直线上升",
         "source": "微博",
         "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87",
-        "publishedAt": "2026-11-20T18:36:18Z"
+        "publishedAt": "2026-11-21T01:29:48Z"
       },
       {
-        "id": "36c90601363afc0b53f5",
-        "title": "高市早苗拍特朗普试图搭话被无视",
-        "summary": "高市早苗拍特朗普试图搭话被无视",
+        "id": "d851cbcf369d516f9538",
+        "title": "特朗普：中俄美元首会晤史无前例",
+        "summary": "特朗普：中俄美元首会晤史无前例",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709960248785682474/",
-        "publishedAt": "2026-11-20T18:36:18Z"
+        "url": "https://www.toutiao.com/trending/7710391553490947620/",
+        "publishedAt": "2026-11-21T01:29:48Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "5a4e4928e1a38b0e6a47",
-        "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-        "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-        "publishedAt": "2026-11-20T10:24:12Z"
+        "id": "2ba6a9befe960d3fb9fa",
+        "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+        "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-20T17:02:39Z"
       },
       {
-        "id": "c5267fdb68c1e0cd2221",
-        "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
-        "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to econ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-        "publishedAt": "2026-11-20T10:22:50Z"
+        "id": "e7e7969221bf56f7dd2c",
+        "title": "ANC fights to keep control of South Africa's key cities after election setback",
+        "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-20T16:34:51Z"
       },
       {
-        "id": "94753d0883378a66b291",
-        "title": "Two men killed after glider crashes into Loch Leven in Scotland",
-        "summary": "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a ",
+        "id": "c69e4398022778ab4a7e",
+        "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+        "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to v",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
-        "publishedAt": "2026-11-20T10:20:09Z"
+        "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+        "publishedAt": "2026-11-20T16:26:56Z"
       },
       {
-        "id": "30fff7f0ae68962e1645",
-        "title": "Denmark to expel Russian diplomat over attempt to kill US-Ukrainian rapper",
-        "summary": "Moscow suspected of being behind plan to kill Kyivstoner before a performance in",
+        "id": "c8748be4dac8fb3b5465",
+        "title": "Trump turns White House press conference into a 2028 succession audition",
+        "summary": "The president appeared to put Vance and Rubio through their paces as potential s",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-        "publishedAt": "2026-11-20T10:16:12Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+        "publishedAt": "2026-11-20T16:16:26Z"
       },
       {
-        "id": "db8a1b64b1f9aec94691",
-        "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
-        "summary": "Farage issues warning to potential rivals and says he will fight next election a",
+        "id": "c629cc07e58f774b9030",
+        "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+        "summary": "A public vigil and celebration of life honor the civil rights activist and co-fo",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
-        "publishedAt": "2026-11-20T10:11:25Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+        "publishedAt": "2026-11-20T16:03:47Z"
       },
       {
-        "id": "00bda963ec21f8581c3b",
-        "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
-        "summary": "News of vulnerability comes after retailers in at least seven European countries",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-        "publishedAt": "2026-11-20T10:06:52Z"
+        "id": "793c377620fbed537c0d",
+        "title": "US judge approves Bayer's $7.25 billion cancer settlement",
+        "summary": "Bayer could end years of costly lawsuits in the US over claims that its Roundup ",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-20T16:03:00Z"
       },
       {
-        "id": "1b7806c8243912742f6b",
-        "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-        "summary": "President of European Council says EU ‘remains open to have the closest possible",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-        "publishedAt": "2026-11-20T09:59:55Z"
+        "id": "6072de2bd137744fb153",
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "summary": "Plans to shutter the troubled facility date back to 2019, when the city council ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-20T16:01:39Z"
       },
       {
-        "id": "41007b0ea92ed91dbb6b",
-        "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
-        "summary": "Agreements reached on food and drink, emissions and to allow young people to mov",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-        "publishedAt": "2026-11-20T09:57:10Z"
+        "id": "f8e502a9c170d712ad82",
+        "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+        "summary": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalit",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+        "publishedAt": "2026-11-20T16:00:06Z"
       }
     ]
   }
