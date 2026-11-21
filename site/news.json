@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T09:45:19Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-21T17:28:33Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "bf744da8b6914c112a56",
-        "title": "顺丰速运被暂停参加全军采购活动",
-        "summary": "顺丰速运被暂停参加全军采购活动",
+        "id": "8f7b4a578d569792a9c1",
+        "title": "美国人为什么开始反对AI了",
+        "summary": "美国人为什么开始反对AI了",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710366320885334537/",
-        "publishedAt": "2026-11-21T09:45:19Z"
+        "url": "https://www.toutiao.com/trending/7710632433913171494/",
+        "publishedAt": "2026-11-21T17:28:33Z"
       },
       {
-        "id": "8254cd33239d07de50ec",
-        "title": "普京核手提箱成大新闻 俄方发声",
-        "summary": "普京核手提箱成大新闻 俄方发声",
+        "id": "8f61170280f421260ff2",
+        "title": "羽绒服生意变天了",
+        "summary": "羽绒服生意变天了",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E6%88%90%E5%A4%A7%E6%96%B0%E9%97%BB+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0",
-        "publishedAt": "2026-11-21T09:45:19Z"
+        "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
+        "publishedAt": "2026-11-21T17:28:33Z"
       },
       {
         "id": "29fcaae035010aad9320",
@@ -28,47 +28,47 @@
         "summary": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786330",
-        "publishedAt": "2026-11-21T09:45:19Z"
+        "publishedAt": "2026-11-21T17:28:33Z"
       },
       {
-        "id": "7b3a2a74a7e04c9e40e9",
-        "title": "见微知沪丨两项停车新举措，是对民生难题的探索性解法",
-        "summary": "见微知沪丨两项停车新举措，是对民生难题的探索性解法",
+        "id": "72751d10ec7170fc4077",
+        "title": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
+        "summary": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34520908",
-        "publishedAt": "2026-11-21T09:45:19Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34510418",
+        "publishedAt": "2026-11-21T17:28:33Z"
       },
       {
-        "id": "b3d08a9e91533d8d03f2",
-        "title": "【早报】纳指跌5.28%，英伟达暴跌14%；4家银行提示贵金属业务市场风险；通威股份、摩尔线程、兆易创新公告回购相关事项",
-        "summary": "【早报】纳指跌5.28%，英伟达暴跌14%；4家银行提示贵金属业务市场风险；通威股份、摩尔线程、兆易创新公告回购相关事项",
+        "id": "65571fce1e8f9ecc1e84",
+        "title": "英伟达被查",
+        "summary": "英伟达被查",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2540705",
-        "publishedAt": "2026-11-21T09:45:19Z"
+        "url": "https://www.cls.cn/detail/2540777",
+        "publishedAt": "2026-11-21T17:28:33Z"
       },
       {
-        "id": "36b16e01a0838e4598fd",
-        "title": "鲁比奥：这类关于中俄美领导人会晤的言论荒谬又危险",
-        "summary": "鲁比奥：这类关于中俄美领导人会晤的言论荒谬又危险",
+        "id": "fd6aa8d087068634ce6d",
+        "title": "特朗普：中国的活力令人惊叹",
+        "summary": "特朗普：中国的活力令人惊叹",
         "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8yENP4znGFW",
-        "publishedAt": "2026-11-21T09:45:19Z"
+        "url": "https://news.ifeng.com/c/8yEbDQ9RMKO",
+        "publishedAt": "2026-11-21T17:28:33Z"
       },
       {
-        "id": "27e8f952fc53a620b5a3",
-        "title": "黄金为啥突然不香了",
-        "summary": "黄金为啥突然不香了",
+        "id": "1b45ab1c550a45c73eab",
+        "title": "特朗普深圳不拉窗帘原因找到了",
+        "summary": "特朗普深圳不拉窗帘原因找到了",
+        "source": "微博",
+        "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23",
+        "publishedAt": "2026-11-21T17:28:33Z"
+      },
+      {
+        "id": "a7cfc014848bb2c635f8",
+        "title": "还40年房贷和租40年房怎么选",
+        "summary": "还40年房贷和租40年房怎么选",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710508149484031531/",
-        "publishedAt": "2026-11-21T09:45:19Z"
-      },
-      {
-        "id": "514c8d6c58730b963440",
-        "title": "原来特朗普拉开窗帘 是在看深圳的路",
-        "summary": "原来特朗普拉开窗帘 是在看深圳的路",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%BC%80%E7%AA%97%E5%B8%98+%E6%98%AF%E5%9C%A8%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84%E8%B7%AF",
-        "publishedAt": "2026-11-21T09:45:19Z"
+        "url": "https://www.toutiao.com/trending/7710596002696138281/",
+        "publishedAt": "2026-11-21T17:28:33Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "2e21c6c5ee9566747fa7",
-        "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-        "summary": "Brussels sources had previously suggested the bloc might not apply the wider dea",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T01:40:55Z"
+        "id": "987ae1678dba6812b55f",
+        "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+        "summary": "US vice-president says it’s not his place to second-guess the president, but ref",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+        "publishedAt": "2026-11-21T09:24:51Z"
       },
       {
-        "id": "64bb609e44408b69373e",
-        "title": "Fire sprinkler sprays water at flame-covered sign in China",
-        "summary": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flame",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
-        "publishedAt": "2026-11-21T01:20:40Z"
+        "id": "12cebcbac430735f8314",
+        "title": "PostgreSQL Extensions in Go",
+        "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycomb",
+        "source": "Hacker News",
+        "url": "https://jespino.github.io/gopgext/",
+        "publishedAt": "2026-11-21T09:08:04Z"
       },
       {
-        "id": "9f602846d24b1b0d8e59",
-        "title": "'Killer robots' talks at UN end with no legally binding ban",
-        "summary": "Countries have agreed to extend discussions over controls on lethal autonomous w",
+        "id": "7cc6436daf10c77e2cbb",
+        "title": "Russian helicopter suspected of violating Finnish airspace",
+        "summary": "Finland's Defense Ministry thinks the incursion is linked to a drone strike earl",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-21T01:18:00Z"
+        "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-21T09:08:00Z"
       },
       {
-        "id": "f75a8724e4065744f661",
-        "title": "French police officers guilty of Michel Zecler assault: What happens now?",
-        "summary": "Officers dealt more than 30 blows to the Black music producer in what the court ",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
-        "publishedAt": "2026-11-21T01:12:14Z"
+        "id": "80af641ca0b2ace78509",
+        "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+        "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+        "publishedAt": "2026-11-21T08:39:49Z"
       },
       {
-        "id": "e0a07f74a84c6909b915",
-        "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
-        "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
-        "publishedAt": "2026-11-21T01:01:29Z"
+        "id": "b70ed28b2ef1d573f8ed",
+        "title": "International UN talks on controlling use of autonomous weapons collapse",
+        "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russ",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+        "publishedAt": "2026-11-21T08:36:11Z"
       },
       {
-        "id": "201e874fd22d5e8b55c9",
-        "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-        "summary": "Manipur's chief minister orders a probe into the incident, saying those responsi",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-        "publishedAt": "2026-11-21T00:48:54Z"
+        "id": "5ad7bddae6a022eac57c",
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "summary": "The National Crime Information Center database is used by federal and local law ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-21T08:35:15Z"
       },
       {
-        "id": "678eade9db2fba173207",
-        "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-        "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the ",
+        "id": "688801203eec1ec65e42",
+        "title": "India’s opposition stages protests against Meta over account removals",
+        "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant,",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-        "publishedAt": "2026-11-21T00:39:35Z"
+        "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+        "publishedAt": "2026-11-21T08:14:01Z"
       },
       {
-        "id": "1cf4497fdd7150b10a3b",
-        "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-        "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBO",
+        "id": "71e2c6b90af1e4418dd5",
+        "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+        "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-        "publishedAt": "2026-11-21T00:33:52Z"
+        "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+        "publishedAt": "2026-11-21T08:03:16Z"
       }
     ]
   }
