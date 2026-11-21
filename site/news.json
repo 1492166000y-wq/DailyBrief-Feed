@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-11-22",
-  "generatedAt": "2026-11-21T17:28:33Z",
+  "generatedAt": "2026-11-21T23:11:48Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
@@ -12,7 +12,7 @@
         "summary": "美国人为什么开始反对AI了",
         "source": "今日头条",
         "url": "https://www.toutiao.com/trending/7710632433913171494/",
-        "publishedAt": "2026-11-21T17:28:33Z"
+        "publishedAt": "2026-11-21T23:11:48Z"
       },
       {
         "id": "8f61170280f421260ff2",
@@ -20,15 +20,15 @@
         "summary": "羽绒服生意变天了",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
-        "publishedAt": "2026-11-21T17:28:33Z"
+        "publishedAt": "2026-11-21T23:11:48Z"
       },
       {
-        "id": "29fcaae035010aad9320",
-        "title": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
-        "summary": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
+        "id": "187928d8b89d5bcb0baf",
+        "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
+        "summary": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786330",
-        "publishedAt": "2026-11-21T17:28:33Z"
+        "url": "https://wallstreetcn.com/articles/3786423",
+        "publishedAt": "2026-11-21T23:11:48Z"
       },
       {
         "id": "72751d10ec7170fc4077",
@@ -36,7 +36,7 @@
         "summary": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34510418",
-        "publishedAt": "2026-11-21T17:28:33Z"
+        "publishedAt": "2026-11-21T23:11:48Z"
       },
       {
         "id": "65571fce1e8f9ecc1e84",
@@ -44,7 +44,7 @@
         "summary": "英伟达被查",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2540777",
-        "publishedAt": "2026-11-21T17:28:33Z"
+        "publishedAt": "2026-11-21T23:11:48Z"
       },
       {
         "id": "fd6aa8d087068634ce6d",
@@ -52,23 +52,23 @@
         "summary": "特朗普：中国的活力令人惊叹",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8yEbDQ9RMKO",
-        "publishedAt": "2026-11-21T17:28:33Z"
+        "publishedAt": "2026-11-21T23:11:48Z"
       },
       {
-        "id": "1b45ab1c550a45c73eab",
-        "title": "特朗普深圳不拉窗帘原因找到了",
-        "summary": "特朗普深圳不拉窗帘原因找到了",
+        "id": "dbcaeb12c0abbb0df520",
+        "title": "央视揭秘网络女主播真实生态",
+        "summary": "央视揭秘网络女主播真实生态",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23",
-        "publishedAt": "2026-11-21T17:28:33Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81%23",
+        "publishedAt": "2026-11-21T23:11:48Z"
       },
       {
-        "id": "a7cfc014848bb2c635f8",
-        "title": "还40年房贷和租40年房怎么选",
-        "summary": "还40年房贷和租40年房怎么选",
+        "id": "6e961ccd15cb5536a142",
+        "title": "大厂为何忙着把养老搬上线",
+        "summary": "大厂为何忙着把养老搬上线",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710596002696138281/",
-        "publishedAt": "2026-11-21T17:28:33Z"
+        "url": "https://www.toutiao.com/trending/7710557710537723418/",
+        "publishedAt": "2026-11-21T23:11:48Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "987ae1678dba6812b55f",
-        "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
-        "summary": "US vice-president says it’s not his place to second-guess the president, but ref",
+        "id": "4b9ea517eaca9320af2c",
+        "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+        "summary": "Body of a man in his 20s discovered by police who were sent to investigate the s",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
-        "publishedAt": "2026-11-21T09:24:51Z"
+        "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+        "publishedAt": "2026-11-21T14:41:36Z"
       },
       {
-        "id": "12cebcbac430735f8314",
-        "title": "PostgreSQL Extensions in Go",
-        "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycomb",
-        "source": "Hacker News",
-        "url": "https://jespino.github.io/gopgext/",
-        "publishedAt": "2026-11-21T09:08:04Z"
-      },
-      {
-        "id": "7cc6436daf10c77e2cbb",
-        "title": "Russian helicopter suspected of violating Finnish airspace",
-        "summary": "Finland's Defense Ministry thinks the incursion is linked to a drone strike earl",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-21T09:08:00Z"
-      },
-      {
-        "id": "80af641ca0b2ace78509",
-        "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-        "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-        "publishedAt": "2026-11-21T08:39:49Z"
-      },
-      {
-        "id": "b70ed28b2ef1d573f8ed",
-        "title": "International UN talks on controlling use of autonomous weapons collapse",
-        "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-        "publishedAt": "2026-11-21T08:36:11Z"
-      },
-      {
-        "id": "5ad7bddae6a022eac57c",
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "summary": "The National Crime Information Center database is used by federal and local law ",
+        "id": "eac9e34820661d044cc9",
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new globa",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T08:35:15Z"
+        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-21T14:19:43Z"
       },
       {
-        "id": "688801203eec1ec65e42",
-        "title": "India’s opposition stages protests against Meta over account removals",
-        "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant,",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-        "publishedAt": "2026-11-21T08:14:01Z"
+        "id": "02a272be78c1648cede9",
+        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+        "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: http",
+        "source": "Hacker News",
+        "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+        "publishedAt": "2026-11-21T14:09:58Z"
       },
       {
-        "id": "71e2c6b90af1e4418dd5",
-        "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-        "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted",
+        "id": "85d19ea13104c911dace",
+        "title": "Bahrain says Iranian attack hits industrial facility",
+        "summary": "Bahrain says Iranian attack hits industrial facility",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-        "publishedAt": "2026-11-21T08:03:16Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+        "publishedAt": "2026-11-21T14:02:03Z"
+      },
+      {
+        "id": "925d8f01d9d47add1782",
+        "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+        "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China r",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+        "publishedAt": "2026-11-21T14:01:42Z"
+      },
+      {
+        "id": "b8345c56dbe46611bb1e",
+        "title": "Highlights and challenges from covering an historic month in South America",
+        "summary": "NPR's South America Correspondent discusses her work covering an historic electi",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+        "publishedAt": "2026-11-21T14:01:35Z"
+      },
+      {
+        "id": "8164e013b3f5b6135e1f",
+        "title": "A grieving family in Lebanon returns to their village",
+        "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One ",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+        "publishedAt": "2026-11-21T14:01:32Z"
+      },
+      {
+        "id": "a1904620e225cf908cca",
+        "title": "Lock of former US President George Washington's hair sells for $4,000",
+        "summary": "The hair was given as a sign of friendship shortly before Washington's death in ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-21T14:01:19Z"
       }
     ]
   }
