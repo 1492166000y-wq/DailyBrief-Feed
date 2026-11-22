@@ -1,42 +1,34 @@
 {
   "version": 1,
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T06:43:02Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-22T16:15:04Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "72fa449f47df00a1fa1f",
-        "title": "50岁女车迷穿马面裙支持张雪机车",
-        "summary": "50岁女车迷穿马面裙支持张雪机车",
+        "id": "a1d2fe6da3b5de6dcdcb",
+        "title": "亚洲市场集体打响保卫战",
+        "summary": "亚洲市场集体打响保卫战",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7709856236228854282/",
-        "publishedAt": "2026-11-22T06:43:02Z"
+        "url": "https://www.toutiao.com/trending/7710959041299661339/",
+        "publishedAt": "2026-11-22T16:15:04Z"
       },
       {
-        "id": "aa1235c255d65843a98b",
-        "title": "后劲太大 特朗普连发30多张APEC照片",
-        "summary": "后劲太大 特朗普连发30多张APEC照片",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9130%E5%A4%9A%E5%BC%A0APEC%E7%85%A7%E7%89%87",
-        "publishedAt": "2026-11-22T06:43:02Z"
-      },
-      {
-        "id": "efa493fac55b80b551b5",
-        "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
-        "summary": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
+        "id": "dcfa211a1ec552d1bb4f",
+        "title": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”",
+        "summary": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786431",
-        "publishedAt": "2026-11-22T06:43:02Z"
+        "url": "https://wallstreetcn.com/articles/3786447",
+        "publishedAt": "2026-11-22T16:15:04Z"
       },
       {
-        "id": "9ef6b7381c6cdb8b56ed",
-        "title": "国内多家品牌宣布：下调金饰克价",
-        "summary": "国内多家品牌宣布：下调金饰克价",
+        "id": "c7865584e5119e8865e3",
+        "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应",
+        "summary": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34529710",
-        "publishedAt": "2026-11-22T06:43:02Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34532695",
+        "publishedAt": "2026-11-22T16:15:04Z"
       },
       {
         "id": "65571fce1e8f9ecc1e84",
@@ -44,31 +36,39 @@
         "summary": "英伟达被查",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2540777",
-        "publishedAt": "2026-11-22T06:43:02Z"
+        "publishedAt": "2026-11-22T16:15:04Z"
       },
       {
-        "id": "e52800c1aa89be066468",
-        "title": "AI辅助数学家证明黎曼猜想，丘成桐回应",
-        "summary": "AI辅助数学家证明黎曼猜想，丘成桐回应",
+        "id": "6765f9839d4eec057c04",
+        "title": "一些日媒盼着高市早苗被羞辱",
+        "summary": "一些日媒盼着高市早苗被羞辱",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yFwwo4zejU",
-        "publishedAt": "2026-11-22T06:43:02Z"
+        "url": "https://news.ifeng.com/c/8yGRie2tTlj",
+        "publishedAt": "2026-11-22T16:15:04Z"
       },
       {
-        "id": "de388f0987a0389526b7",
-        "title": "主播私闯果园带货糟蹋一千多斤苹果",
-        "summary": "主播私闯果园带货糟蹋一千多斤苹果",
+        "id": "0cfda556cd574c1b14de",
+        "title": "主播糟蹋千斤苹果仅赔6000元",
+        "summary": "主播糟蹋千斤苹果仅赔6000元",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%9F%E8%B9%8B%E4%B8%80%E5%8D%83%E5%A4%9A%E6%96%A4%E8%8B%B9%E6%9E%9C%23",
-        "publishedAt": "2026-11-22T06:43:02Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C%E4%BB%85%E8%B5%946000%E5%85%83%23",
+        "publishedAt": "2026-11-22T16:15:04Z"
       },
       {
-        "id": "53381123413c31ca370f",
-        "title": "特朗普连发30多张照片回味APEC",
-        "summary": "特朗普连发30多张照片回味APEC",
+        "id": "7bef9f357ddb1f9f254e",
+        "title": "黄金这波暴跌割了谁的韭菜",
+        "summary": "黄金这波暴跌割了谁的韭菜",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710201794621849641/",
-        "publishedAt": "2026-11-22T06:43:02Z"
+        "url": "https://www.toutiao.com/trending/7710977855156391474/",
+        "publishedAt": "2026-11-22T16:15:04Z"
+      },
+      {
+        "id": "b901af95e45680d755b9",
+        "title": "600块吃好喝好玩好 年轻人羡慕疯了",
+        "summary": "600块吃好喝好玩好 年轻人羡慕疯了",
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86",
+        "publishedAt": "2026-11-22T16:15:04Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "c04c08118e70f3403a2f",
-        "title": "Dozens missing as deadly fire hits Indonesian candy factory",
-        "summary": "A fire at a confectionery factory in Indonesia's Banten province has killed at l",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-21T22:14:00Z"
-      },
-      {
-        "id": "30b5903efdfc9a62bf6a",
-        "title": "Dozens missing after fire at Indonesian factory",
-        "summary": "At least three people were killed and four injured in a fire at a confectionary ",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T22:05:00Z"
-      },
-      {
-        "id": "8e336aa892e66854145f",
-        "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-        "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed in",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-        "publishedAt": "2026-11-21T22:00:21Z"
-      },
-      {
-        "id": "28f7f226f92ef01155b2",
-        "title": "Labour MPs sign up for leadership course to counter rightwing populism",
-        "summary": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
-        "publishedAt": "2026-11-21T22:00:21Z"
-      },
-      {
-        "id": "5d72c110021267a6c811",
-        "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-        "summary": "The effects of the continent’s coming polls will be felt far and wide – and coul",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-        "publishedAt": "2026-11-21T22:00:18Z"
-      },
-      {
-        "id": "f1d11e1c75b131125799",
-        "title": "COP31: Fossil fuels still missing from draft deal at UN climate summit",
-        "summary": "The climate summit is in its second day of overtime, despite weeks of negotiatio",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-21T21:50:00Z"
-      },
-      {
-        "id": "032fef84ba41bf943184",
-        "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
-        "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surve",
+        "id": "01b7120076e8726186b9",
+        "title": "Canada’s PM appears next to Trump impersonator at press dinner",
+        "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s ",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
-        "publishedAt": "2026-11-21T21:38:52Z"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+        "publishedAt": "2026-11-22T08:06:46Z"
       },
       {
-        "id": "199d6a991d69d99bb262",
-        "title": "New draft deal aims to avert collapse of talks at climate summit",
-        "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries stru",
+        "id": "1b1d1b1df5f018262bf7",
+        "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+        "summary": "Libya's eastern rival government says it is working with Russia to investigate t",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T21:26:10Z"
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T08:05:25Z"
+      },
+      {
+        "id": "4d86e965f25b8b8b3906",
+        "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
+        "summary": "Article URL: https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under",
+        "source": "Hacker News",
+        "url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+        "publishedAt": "2026-11-22T07:54:24Z"
+      },
+      {
+        "id": "b83e7ae8c7651d4d7be9",
+        "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
+        "summary": "Forest Service releases files months after residents in rural Ontario reported e",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+        "publishedAt": "2026-11-22T07:53:24Z"
+      },
+      {
+        "id": "580026e47ba2b638f4d0",
+        "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
+        "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey a",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+        "publishedAt": "2026-11-22T07:43:01Z"
+      },
+      {
+        "id": "1ebf18104ff0603f2add",
+        "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+        "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-inc",
+        "source": "Hacker News",
+        "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+        "publishedAt": "2026-11-22T07:42:40Z"
+      },
+      {
+        "id": "18979d0f5e6dc17af5f2",
+        "title": "Can we build a more ethical AI future?",
+        "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and th",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+        "publishedAt": "2026-11-22T07:30:09Z"
+      },
+      {
+        "id": "524cd842a6a3bbd734b2",
+        "title": "A better internet for everyone is possible. Today",
+        "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator",
+        "source": "Hacker News",
+        "url": "https://osw-alliance.net/en/",
+        "publishedAt": "2026-11-22T07:24:32Z"
       }
     ]
   }
