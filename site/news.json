@@ -1,18 +1,26 @@
 {
   "version": 1,
   "date": "2026-11-23",
-  "generatedAt": "2026-11-22T16:15:04Z",
+  "generatedAt": "2026-11-22T21:46:37Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "a1d2fe6da3b5de6dcdcb",
+        "id": "7bef9f357ddb1f9f254e",
+        "title": "黄金这波暴跌割了谁的韭菜",
+        "summary": "黄金这波暴跌割了谁的韭菜",
+        "source": "今日头条",
+        "url": "https://www.toutiao.com/trending/7710977855156391474/",
+        "publishedAt": "2026-11-22T21:46:37Z"
+      },
+      {
+        "id": "d3da75db21880c66fd23",
         "title": "亚洲市场集体打响保卫战",
         "summary": "亚洲市场集体打响保卫战",
-        "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710959041299661339/",
-        "publishedAt": "2026-11-22T16:15:04Z"
+        "source": "百度热搜",
+        "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98",
+        "publishedAt": "2026-11-22T21:46:37Z"
       },
       {
         "id": "dcfa211a1ec552d1bb4f",
@@ -20,7 +28,7 @@
         "summary": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786447",
-        "publishedAt": "2026-11-22T16:15:04Z"
+        "publishedAt": "2026-11-22T21:46:37Z"
       },
       {
         "id": "c7865584e5119e8865e3",
@@ -28,7 +36,7 @@
         "summary": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34532695",
-        "publishedAt": "2026-11-22T16:15:04Z"
+        "publishedAt": "2026-11-22T21:46:37Z"
       },
       {
         "id": "65571fce1e8f9ecc1e84",
@@ -36,7 +44,7 @@
         "summary": "英伟达被查",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2540777",
-        "publishedAt": "2026-11-22T16:15:04Z"
+        "publishedAt": "2026-11-22T21:46:37Z"
       },
       {
         "id": "6765f9839d4eec057c04",
@@ -44,31 +52,23 @@
         "summary": "一些日媒盼着高市早苗被羞辱",
         "source": "凤凰网",
         "url": "https://news.ifeng.com/c/8yGRie2tTlj",
-        "publishedAt": "2026-11-22T16:15:04Z"
+        "publishedAt": "2026-11-22T21:46:37Z"
       },
       {
-        "id": "0cfda556cd574c1b14de",
-        "title": "主播糟蹋千斤苹果仅赔6000元",
-        "summary": "主播糟蹋千斤苹果仅赔6000元",
+        "id": "41d3242193afbbd15f8a",
+        "title": "樊振东1比3约内斯库",
+        "summary": "樊振东1比3约内斯库",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C%E4%BB%85%E8%B5%946000%E5%85%83%23",
-        "publishedAt": "2026-11-22T16:15:04Z"
+        "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93",
+        "publishedAt": "2026-11-22T21:46:37Z"
       },
       {
-        "id": "7bef9f357ddb1f9f254e",
-        "title": "黄金这波暴跌割了谁的韭菜",
-        "summary": "黄金这波暴跌割了谁的韭菜",
+        "id": "fee43e3ab68afb79857e",
+        "title": "“稳股市”组合拳来了",
+        "summary": "“稳股市”组合拳来了",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710977855156391474/",
-        "publishedAt": "2026-11-22T16:15:04Z"
-      },
-      {
-        "id": "b901af95e45680d755b9",
-        "title": "600块吃好喝好玩好 年轻人羡慕疯了",
-        "summary": "600块吃好喝好玩好 年轻人羡慕疯了",
-        "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86",
-        "publishedAt": "2026-11-22T16:15:04Z"
+        "url": "https://www.toutiao.com/trending/7710944285176106547/",
+        "publishedAt": "2026-11-22T21:46:37Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "01b7120076e8726186b9",
-        "title": "Canada’s PM appears next to Trump impersonator at press dinner",
-        "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s ",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
-        "publishedAt": "2026-11-22T08:06:46Z"
+        "id": "372a1e063e9a704b735b",
+        "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+        "summary": "Get our breaking news email, free app or daily news podcast‘Very difficult to br",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+        "publishedAt": "2026-11-22T13:37:11Z"
       },
       {
-        "id": "1b1d1b1df5f018262bf7",
-        "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
-        "summary": "Libya's eastern rival government says it is working with Russia to investigate t",
+        "id": "25898b8d8cde1ff1e3d5",
+        "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+        "summary": "No one has claimed responsibility for the strike on the vessel, which had docked",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+        "publishedAt": "2026-11-22T13:33:44Z"
+      },
+      {
+        "id": "c795d5ffe3a20326e30f",
+        "title": "Turkey: Thousands protest closure of critical media outlets",
+        "summary": "Protesters gathered in Istanbul to show their support for press freedom in Turke",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-22T13:31:00Z"
+      },
+      {
+        "id": "a631fce06c388c35d9df",
+        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "summary": "The couple have been together for four years and were engaged in 2025.",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-22T08:05:25Z"
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T13:22:40Z"
       },
       {
-        "id": "4d86e965f25b8b8b3906",
-        "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
-        "summary": "Article URL: https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under",
+        "id": "5c4ba07c06f7ff38a76e",
+        "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+        "summary": "Article URL: https://theconversation.com/weight-loss-drugs-could-free-up-an-area",
         "source": "Hacker News",
-        "url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
-        "publishedAt": "2026-11-22T07:54:24Z"
+        "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+        "publishedAt": "2026-11-22T13:07:11Z"
       },
       {
-        "id": "b83e7ae8c7651d4d7be9",
-        "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
-        "summary": "Forest Service releases files months after residents in rural Ontario reported e",
+        "id": "538f356ae21657a9cf21",
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qw",
+        "source": "Hacker News",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "publishedAt": "2026-11-22T13:01:16Z"
+      },
+      {
+        "id": "b8f52857bab2d34d3235",
+        "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+        "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appear",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
-        "publishedAt": "2026-11-22T07:53:24Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+        "publishedAt": "2026-11-22T12:55:33Z"
       },
       {
-        "id": "580026e47ba2b638f4d0",
-        "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
-        "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey a",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
-        "publishedAt": "2026-11-22T07:43:01Z"
-      },
-      {
-        "id": "1ebf18104ff0603f2add",
-        "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-        "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-inc",
+        "id": "ad1d4866b4612a925c94",
+        "title": "AWS got hit by an outage too. You didn't hear about it",
+        "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an",
         "source": "Hacker News",
-        "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-        "publishedAt": "2026-11-22T07:42:40Z"
-      },
-      {
-        "id": "18979d0f5e6dc17af5f2",
-        "title": "Can we build a more ethical AI future?",
-        "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and th",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
-        "publishedAt": "2026-11-22T07:30:09Z"
-      },
-      {
-        "id": "524cd842a6a3bbd734b2",
-        "title": "A better internet for everyone is possible. Today",
-        "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator",
-        "source": "Hacker News",
-        "url": "https://osw-alliance.net/en/",
-        "publishedAt": "2026-11-22T07:24:32Z"
+        "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+        "publishedAt": "2026-11-22T12:50:18Z"
       }
     ]
   }
