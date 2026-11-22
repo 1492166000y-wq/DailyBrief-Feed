@@ -1,42 +1,42 @@
 {
   "version": 1,
   "date": "2026-11-22",
-  "generatedAt": "2026-11-21T23:11:48Z",
+  "generatedAt": "2026-11-22T06:43:02Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "8f7b4a578d569792a9c1",
-        "title": "美国人为什么开始反对AI了",
-        "summary": "美国人为什么开始反对AI了",
+        "id": "72fa449f47df00a1fa1f",
+        "title": "50岁女车迷穿马面裙支持张雪机车",
+        "summary": "50岁女车迷穿马面裙支持张雪机车",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710632433913171494/",
-        "publishedAt": "2026-11-21T23:11:48Z"
+        "url": "https://www.toutiao.com/trending/7709856236228854282/",
+        "publishedAt": "2026-11-22T06:43:02Z"
       },
       {
-        "id": "8f61170280f421260ff2",
-        "title": "羽绒服生意变天了",
-        "summary": "羽绒服生意变天了",
+        "id": "aa1235c255d65843a98b",
+        "title": "后劲太大 特朗普连发30多张APEC照片",
+        "summary": "后劲太大 特朗普连发30多张APEC照片",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
-        "publishedAt": "2026-11-21T23:11:48Z"
+        "url": "https://www.baidu.com/s?wd=%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9130%E5%A4%9A%E5%BC%A0APEC%E7%85%A7%E7%89%87",
+        "publishedAt": "2026-11-22T06:43:02Z"
       },
       {
-        "id": "187928d8b89d5bcb0baf",
-        "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
-        "summary": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
+        "id": "efa493fac55b80b551b5",
+        "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
+        "summary": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786423",
-        "publishedAt": "2026-11-21T23:11:48Z"
+        "url": "https://wallstreetcn.com/articles/3786431",
+        "publishedAt": "2026-11-22T06:43:02Z"
       },
       {
-        "id": "72751d10ec7170fc4077",
-        "title": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
-        "summary": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
+        "id": "9ef6b7381c6cdb8b56ed",
+        "title": "国内多家品牌宣布：下调金饰克价",
+        "summary": "国内多家品牌宣布：下调金饰克价",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34510418",
-        "publishedAt": "2026-11-21T23:11:48Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34529710",
+        "publishedAt": "2026-11-22T06:43:02Z"
       },
       {
         "id": "65571fce1e8f9ecc1e84",
@@ -44,31 +44,31 @@
         "summary": "英伟达被查",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2540777",
-        "publishedAt": "2026-11-21T23:11:48Z"
+        "publishedAt": "2026-11-22T06:43:02Z"
       },
       {
-        "id": "fd6aa8d087068634ce6d",
-        "title": "特朗普：中国的活力令人惊叹",
-        "summary": "特朗普：中国的活力令人惊叹",
+        "id": "e52800c1aa89be066468",
+        "title": "AI辅助数学家证明黎曼猜想，丘成桐回应",
+        "summary": "AI辅助数学家证明黎曼猜想，丘成桐回应",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yEbDQ9RMKO",
-        "publishedAt": "2026-11-21T23:11:48Z"
+        "url": "https://news.ifeng.com/c/8yFwwo4zejU",
+        "publishedAt": "2026-11-22T06:43:02Z"
       },
       {
-        "id": "dbcaeb12c0abbb0df520",
-        "title": "央视揭秘网络女主播真实生态",
-        "summary": "央视揭秘网络女主播真实生态",
+        "id": "de388f0987a0389526b7",
+        "title": "主播私闯果园带货糟蹋一千多斤苹果",
+        "summary": "主播私闯果园带货糟蹋一千多斤苹果",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81%23",
-        "publishedAt": "2026-11-21T23:11:48Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%9F%E8%B9%8B%E4%B8%80%E5%8D%83%E5%A4%9A%E6%96%A4%E8%8B%B9%E6%9E%9C%23",
+        "publishedAt": "2026-11-22T06:43:02Z"
       },
       {
-        "id": "6e961ccd15cb5536a142",
-        "title": "大厂为何忙着把养老搬上线",
-        "summary": "大厂为何忙着把养老搬上线",
+        "id": "53381123413c31ca370f",
+        "title": "特朗普连发30多张照片回味APEC",
+        "summary": "特朗普连发30多张照片回味APEC",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710557710537723418/",
-        "publishedAt": "2026-11-21T23:11:48Z"
+        "url": "https://www.toutiao.com/trending/7710201794621849641/",
+        "publishedAt": "2026-11-22T06:43:02Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "4b9ea517eaca9320af2c",
-        "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
-        "summary": "Body of a man in his 20s discovered by police who were sent to investigate the s",
+        "id": "c04c08118e70f3403a2f",
+        "title": "Dozens missing as deadly fire hits Indonesian candy factory",
+        "summary": "A fire at a confectionery factory in Indonesia's Banten province has killed at l",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-21T22:14:00Z"
+      },
+      {
+        "id": "30b5903efdfc9a62bf6a",
+        "title": "Dozens missing after fire at Indonesian factory",
+        "summary": "At least three people were killed and four injured in a fire at a confectionary ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-21T22:05:00Z"
+      },
+      {
+        "id": "8e336aa892e66854145f",
+        "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+        "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed in",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-        "publishedAt": "2026-11-21T14:41:36Z"
+        "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+        "publishedAt": "2026-11-21T22:00:21Z"
       },
       {
-        "id": "eac9e34820661d044cc9",
-        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-        "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new globa",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T14:19:43Z"
+        "id": "28f7f226f92ef01155b2",
+        "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+        "summary": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+        "publishedAt": "2026-11-21T22:00:21Z"
       },
       {
-        "id": "02a272be78c1648cede9",
-        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-        "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: http",
-        "source": "Hacker News",
-        "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-        "publishedAt": "2026-11-21T14:09:58Z"
+        "id": "5d72c110021267a6c811",
+        "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+        "summary": "The effects of the continent’s coming polls will be felt far and wide – and coul",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+        "publishedAt": "2026-11-21T22:00:18Z"
       },
       {
-        "id": "85d19ea13104c911dace",
-        "title": "Bahrain says Iranian attack hits industrial facility",
-        "summary": "Bahrain says Iranian attack hits industrial facility",
+        "id": "f1d11e1c75b131125799",
+        "title": "COP31: Fossil fuels still missing from draft deal at UN climate summit",
+        "summary": "The climate summit is in its second day of overtime, despite weeks of negotiatio",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-21T21:50:00Z"
+      },
+      {
+        "id": "032fef84ba41bf943184",
+        "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
+        "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surve",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-        "publishedAt": "2026-11-21T14:02:03Z"
+        "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+        "publishedAt": "2026-11-21T21:38:52Z"
       },
       {
-        "id": "925d8f01d9d47add1782",
-        "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
-        "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China r",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
-        "publishedAt": "2026-11-21T14:01:42Z"
-      },
-      {
-        "id": "b8345c56dbe46611bb1e",
-        "title": "Highlights and challenges from covering an historic month in South America",
-        "summary": "NPR's South America Correspondent discusses her work covering an historic electi",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-        "publishedAt": "2026-11-21T14:01:35Z"
-      },
-      {
-        "id": "8164e013b3f5b6135e1f",
-        "title": "A grieving family in Lebanon returns to their village",
-        "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One ",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-        "publishedAt": "2026-11-21T14:01:32Z"
-      },
-      {
-        "id": "a1904620e225cf908cca",
-        "title": "Lock of former US President George Washington's hair sells for $4,000",
-        "summary": "The hair was given as a sign of friendship shortly before Washington's death in ",
+        "id": "199d6a991d69d99bb262",
+        "title": "New draft deal aims to avert collapse of talks at climate summit",
+        "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries stru",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T14:01:19Z"
+        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-21T21:26:10Z"
       }
     ]
   }
