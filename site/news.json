@@ -1,74 +1,74 @@
 {
   "version": 1,
   "date": "2026-11-23",
-  "generatedAt": "2026-11-23T02:43:48Z",
+  "generatedAt": "2026-11-23T14:33:50Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "33409bcf5e1cddb8e61c",
-        "title": "部委干部窃取我国百余份情报获死刑",
-        "summary": "部委干部窃取我国百余份情报获死刑",
+        "id": "7cf277de4a3e3c23192e",
+        "title": "俄对乌发动大规模报复",
+        "summary": "俄对乌发动大规模报复",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7711136767030690330/",
-        "publishedAt": "2026-11-23T02:43:48Z"
+        "url": "https://www.toutiao.com/trending/7710641692205908022/",
+        "publishedAt": "2026-11-23T14:33:50Z"
       },
       {
-        "id": "1efdaa4cd924c264324a",
-        "title": "某部委机关干部因犯间谍罪被判死刑",
-        "summary": "某部委机关干部因犯间谍罪被判死刑",
+        "id": "0a3585852e6caf305723",
+        "title": "英伟达董事会同意恢复黄仁勋CEO职务",
+        "summary": "英伟达董事会同意恢复黄仁勋CEO职务",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E6%9F%90%E9%83%A8%E5%A7%94%E6%9C%BA%E5%85%B3%E5%B9%B2%E9%83%A8%E5%9B%A0%E7%8A%AF%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
-        "publishedAt": "2026-11-23T02:43:48Z"
+        "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E5%90%8C%E6%84%8F%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1",
+        "publishedAt": "2026-11-23T14:33:50Z"
       },
       {
-        "id": "dcfa211a1ec552d1bb4f",
-        "title": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”",
-        "summary": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”",
+        "id": "5a44a4b947d7fd7bb1fc",
+        "title": "局势有变？贝森特“改口”：黄仁勋可能“不知情”",
+        "summary": "局势有变？贝森特“改口”：黄仁勋可能“不知情”",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786447",
-        "publishedAt": "2026-11-23T02:43:48Z"
+        "url": "https://wallstreetcn.com/articles/3786468",
+        "publishedAt": "2026-11-23T14:33:50Z"
       },
       {
-        "id": "6259887a6c286db9448d",
-        "title": "100%降至80%！融资保证金比例下调，预计4000亿增量资金在路上",
-        "summary": "100%降至80%！融资保证金比例下调，预计4000亿增量资金在路上",
+        "id": "1e5f01071e83f497ba16",
+        "title": "大学应有的模样｜我们为什么怀念“曾经的大学”",
+        "summary": "大学应有的模样｜我们为什么怀念“曾经的大学”",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34534889",
-        "publishedAt": "2026-11-23T02:43:48Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34510207",
+        "publishedAt": "2026-11-23T14:33:50Z"
       },
       {
-        "id": "06317a54d0e16f4971f1",
-        "title": "【早报】“稳股市”组合拳来了，三项新政发布；韩国已准备好立即部署市场稳定基金",
-        "summary": "【早报】“稳股市”组合拳来了，三项新政发布；韩国已准备好立即部署市场稳定基金",
+        "id": "aa8c94dc78dc8194596e",
+        "title": "证监会明确两融业务安排，原则与细节都讲清楚了",
+        "summary": "证监会明确两融业务安排，原则与细节都讲清楚了",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2541083",
-        "publishedAt": "2026-11-23T02:43:48Z"
+        "url": "https://www.cls.cn/detail/2542131",
+        "publishedAt": "2026-11-23T14:33:50Z"
       },
       {
-        "id": "6765f9839d4eec057c04",
-        "title": "一些日媒盼着高市早苗被羞辱",
-        "summary": "一些日媒盼着高市早苗被羞辱",
+        "id": "ee44ea337a07747b0543",
+        "title": "辞职成性的蒙古总统，和坐在金山上挨饿的国家",
+        "summary": "辞职成性的蒙古总统，和坐在金山上挨饿的国家",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yGRie2tTlj",
-        "publishedAt": "2026-11-23T02:43:48Z"
+        "url": "https://news.ifeng.com/c/8yI2AFTVFPO",
+        "publishedAt": "2026-11-23T14:33:50Z"
       },
       {
-        "id": "a453d3b2f054984f2ebd",
-        "title": "曝青稚榜一送了38w",
-        "summary": "曝青稚榜一送了38w",
+        "id": "5294de6bc5230f0a8a8f",
+        "title": "黄仁勋恢复英伟达CEO职务",
+        "summary": "黄仁勋恢复英伟达CEO职务",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9D%92%E7%A8%9A%E6%A6%9C%E4%B8%80%E9%80%81%E4%BA%8638w%23",
-        "publishedAt": "2026-11-23T02:43:48Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1%23",
+        "publishedAt": "2026-11-23T14:33:50Z"
       },
       {
-        "id": "18109dbf28c592bd6b79",
-        "title": "特朗普深圳行照片14张是中美元首互动",
-        "summary": "特朗普深圳行照片14张是中美元首互动",
+        "id": "80a5df19b34343c67a91",
+        "title": "中方就以总理等被发逮捕令表态",
+        "summary": "中方就以总理等被发逮捕令表态",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710702493755719721/",
-        "publishedAt": "2026-11-23T02:43:48Z"
+        "url": "https://www.toutiao.com/trending/7711108332878151722/",
+        "publishedAt": "2026-11-23T14:33:50Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "4cb44ebae66f9639e339",
-        "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
-        "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'ent",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
-        "publishedAt": "2026-11-22T18:23:13Z"
-      },
-      {
-        "id": "3cd7310f0ee1577c3df0",
-        "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
-        "summary": "Get our breaking news email, free app or daily news podcast‘Very difficult to br",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-        "publishedAt": "2026-11-22T18:19:04Z"
-      },
-      {
-        "id": "c01ff9933f5827eaf01c",
-        "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
-        "summary": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an I",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
-        "publishedAt": "2026-11-22T18:09:15Z"
-      },
-      {
-        "id": "30d610090071212e6f24",
-        "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
-        "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill ",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
-        "publishedAt": "2026-11-22T17:53:23Z"
-      },
-      {
-        "id": "6b04b38b843a21110aac",
-        "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-        "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
-        "publishedAt": "2026-11-22T17:51:32Z"
-      },
-      {
-        "id": "99ee3bb311c8a8039633",
-        "title": "Israeli forces continue house demolitions in southern Lebanon",
-        "summary": "Israeli forces continue house demolitions in southern Lebanon",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
-        "publishedAt": "2026-11-22T17:43:29Z"
-      },
-      {
-        "id": "74f3710f7d620d97a625",
-        "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-        "summary": "Democrats have now won at least 258 seats in the midterms compared to Republican",
+        "id": "b5af75e2af1b9c7140d9",
+        "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+        "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience",
         "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-22T17:23:43Z"
+        "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T06:26:33Z"
       },
       {
-        "id": "776a8a81656524aef138",
-        "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
-        "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique",
+        "id": "8f3959c41e9d41757bb3",
+        "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+        "summary": "Party says there will be 12 debates to select a candidate from what is expected ",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
-        "publishedAt": "2026-11-22T17:23:07Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+        "publishedAt": "2026-11-23T06:24:50Z"
+      },
+      {
+        "id": "2cb4ed7f31065bb47ee1",
+        "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
+        "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Su",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+        "publishedAt": "2026-11-23T06:20:15Z"
+      },
+      {
+        "id": "b02c83065e17eedbe1f6",
+        "title": "Ian Huntley killed by inmate in ‘cold-blooded murder’ planned weeks in advance, court told",
+        "summary": "Jurors hear Anthony Russell killed Soham murderer by hitting him repeatedly over",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
+        "publishedAt": "2026-11-23T06:19:44Z"
+      },
+      {
+        "id": "8e5d51111be13d7e72a2",
+        "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons in to space",
+        "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, ",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
+        "publishedAt": "2026-11-23T06:18:33Z"
+      },
+      {
+        "id": "647ff369d877e0e0fad3",
+        "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+        "summary": "Nvidia's board voted unanimously to bring back the disgraced CEO, who resigned t",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-23T06:18:00Z"
+      },
+      {
+        "id": "4e35b8f8b4a86d55a2d0",
+        "title": "Jensen Huang reinstated as Nvidia CEO",
+        "summary": "Chipmaker reverses decision it made to remove chief executive after reports of a",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+        "publishedAt": "2026-11-23T06:15:27Z"
+      },
+      {
+        "id": "325abb2ec377ac6709f7",
+        "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
+        "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the deba",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+        "publishedAt": "2026-11-23T06:14:44Z"
       }
     ]
   }
