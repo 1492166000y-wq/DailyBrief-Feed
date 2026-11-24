@@ -1,26 +1,26 @@
 {
   "version": 1,
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T02:53:51Z",
+  "generatedAt": "2026-11-24T14:50:36Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "5bf0999a5fe0c0011748",
-        "title": "首位到访天宫的外籍航天员公布",
-        "summary": "首位到访天宫的外籍航天员公布",
+        "id": "4694eb1a54446638b510",
+        "title": "陈吉宁被查",
+        "summary": "陈吉宁被查",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710908113164386347/",
-        "publishedAt": "2026-11-24T02:53:51Z"
+        "url": "https://www.toutiao.com/trending/7711699195731824155/",
+        "publishedAt": "2026-11-24T14:50:36Z"
       },
       {
-        "id": "b60a003d0fa112088def",
-        "title": "神二十四乘组：外籍航天员首次入选",
-        "summary": "神二十四乘组：外籍航天员首次入选",
+        "id": "f8e83dfca9555d5ba33d",
+        "title": "上海市委书记陈吉宁被查",
+        "summary": "上海市委书记陈吉宁被查",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%EF%BC%9A%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E6%AC%A1%E5%85%A5%E9%80%89",
-        "publishedAt": "2026-11-24T02:53:51Z"
+        "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5",
+        "publishedAt": "2026-11-24T14:50:36Z"
       },
       {
         "id": "f2c8d680b98467dc3813",
@@ -28,47 +28,47 @@
         "summary": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786536",
-        "publishedAt": "2026-11-24T02:53:51Z"
+        "publishedAt": "2026-11-24T14:50:36Z"
       },
       {
-        "id": "ae726cd0eb38c08fea60",
-        "title": "首批18只主动ETF上市，360亿增量资金来了",
-        "summary": "首批18只主动ETF上市，360亿增量资金来了",
+        "id": "fd9f4f69db1a523bab4f",
+        "title": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
+        "summary": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34539385",
-        "publishedAt": "2026-11-24T02:53:51Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34548826",
+        "publishedAt": "2026-11-24T14:50:36Z"
       },
       {
-        "id": "c7b6746ed48b193b2972",
-        "title": "黄仁勋王者归来！董事会一致同意复职，英伟达股价暴涨30%",
-        "summary": "黄仁勋王者归来！董事会一致同意复职，英伟达股价暴涨30%",
+        "id": "cc2b3ebfa05da5e7745d",
+        "title": "中方对黄仁勋重回英伟达有何评论？外交部回应",
+        "summary": "中方对黄仁勋重回英伟达有何评论？外交部回应",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2542222",
-        "publishedAt": "2026-11-24T02:53:51Z"
+        "url": "https://www.cls.cn/detail/2542852",
+        "publishedAt": "2026-11-24T14:50:36Z"
       },
       {
-        "id": "e3562d110542d67ff38e",
-        "title": "英伟达重新任命黄仁勋为首席执行官",
-        "summary": "英伟达重新任命黄仁勋为首席执行官",
+        "id": "86ec7994ddc5da5536ff",
+        "title": "民主党已着手调查万斯",
+        "summary": "民主党已着手调查万斯",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yIN995Cvnz",
-        "publishedAt": "2026-11-24T02:53:51Z"
+        "url": "https://news.ifeng.com/c/8yJlYGcRoJv",
+        "publishedAt": "2026-11-24T14:50:36Z"
       },
       {
-        "id": "33760062b7b1187ac39d",
-        "title": "34米路仅12秒绿灯已调整为28秒",
-        "summary": "34米路仅12秒绿灯已调整为28秒",
+        "id": "d125ac50290eb6126c9a",
+        "title": "陈吉宁被查上海表态",
+        "summary": "陈吉宁被查上海表态",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23",
-        "publishedAt": "2026-11-24T02:53:51Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81%23",
+        "publishedAt": "2026-11-24T14:50:36Z"
       },
       {
-        "id": "029b3c6b9768ce8e511d",
-        "title": "黄仁勋说我犯了一些非常严重的错误",
-        "summary": "黄仁勋说我犯了一些非常严重的错误",
+        "id": "fe73d62912ae2a5336a6",
+        "title": "上海就陈吉宁被查表态",
+        "summary": "上海就陈吉宁被查表态",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710565698434760714/",
-        "publishedAt": "2026-11-24T02:53:51Z"
+        "url": "https://www.toutiao.com/trending/7711698607329804330/",
+        "publishedAt": "2026-11-24T14:50:36Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "c083e23c10f329cd426e",
-        "title": "Australian politics live: Greens secure ‘multibillion dollar fines’ for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
-        "summary": "Get our breaking news email, free app or daily news podcastThe government will s",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-        "publishedAt": "2026-11-23T18:38:56Z"
+        "id": "5cdc32a9c6a2e64a5d67",
+        "title": "CAS reinstates Senegal as 2025 AFCON champions",
+        "summary": "The Court of Arbitration for Sport has reinstated Senegal as 2025 AFCON champion",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-24T06:42:00Z"
       },
       {
-        "id": "9bee5b51c219f2cbcf37",
-        "title": "China sentences official to death for spying for foreign country",
-        "summary": "Accused official leaked national secrets to unnamed country and received payment",
+        "id": "c848ac6434e8d116ab41",
+        "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+        "summary": "Youngest title match in chess history starts TuesdaySindarov, Gukesh open with B",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
-        "publishedAt": "2026-11-23T18:37:36Z"
+        "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+        "publishedAt": "2026-11-24T06:39:54Z"
       },
       {
-        "id": "1cd56cd7433a7b172246",
-        "title": "Excavator threatens sacred alpine lake in the Himalayas",
-        "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has spa",
+        "id": "75da6032eb9342cd7cf3",
+        "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
+        "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as N",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+        "publishedAt": "2026-11-24T06:38:11Z"
+      },
+      {
+        "id": "27d3dae6ef6deb655b42",
+        "title": "Pip assessments are ‘not fit for purpose’, Timms tells MPs as he unveils his review – UK politics live",
+        "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+        "publishedAt": "2026-11-24T06:36:34Z"
+      },
+      {
+        "id": "8108b22b9e6dbadc968d",
+        "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+        "summary": "Users can give agents tasks such as booking travel or buying presents, but glitc",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+        "publishedAt": "2026-11-24T06:36:32Z"
+      },
+      {
+        "id": "bd7599036dd1ce44cc83",
+        "title": "Why Iran's medicine supply chain is seizing up",
+        "summary": "Pharmacies are closing, hospital deliveries have stalled and patients are ration",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/why-iran-s-medicine-supply-chain-is-seizing-up/a-80035268?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-24T06:36:00Z"
+      },
+      {
+        "id": "d3086bec47cf025a46fa",
+        "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+        "summary": "Court of Arbitration for Sport rules in Senegal's favour over in the controversi",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
-        "publishedAt": "2026-11-23T18:35:27Z"
+        "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
+        "publishedAt": "2026-11-24T06:35:56Z"
       },
       {
-        "id": "469c419d3330502cf1d3",
-        "title": "UN chief calls for world to agree on AI oversight within a year",
-        "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-        "publishedAt": "2026-11-23T18:27:19Z"
-      },
-      {
-        "id": "e55916c82f4ba19b1aa3",
-        "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
-        "summary": "Trump, on social media, tried to push responsibility of ‘any and all death or de",
+        "id": "4e04613b7e9ab8ec043b",
+        "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
+        "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-        "publishedAt": "2026-11-23T18:25:49Z"
-      },
-      {
-        "id": "30a1f98d6dbb478a2a65",
-        "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
-        "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-        "publishedAt": "2026-11-23T18:13:02Z"
-      },
-      {
-        "id": "444fc72eea343572af10",
-        "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
-        "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affa",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
-        "publishedAt": "2026-11-23T17:47:15Z"
-      },
-      {
-        "id": "97bac02acdd10bb33032",
-        "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-        "summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between I",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-        "publishedAt": "2026-11-23T17:32:12Z"
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+        "publishedAt": "2026-11-24T06:35:00Z"
       }
     ]
   }
