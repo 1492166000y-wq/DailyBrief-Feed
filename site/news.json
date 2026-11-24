@@ -1,74 +1,74 @@
 {
   "version": 1,
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T14:33:50Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T02:53:51Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "7cf277de4a3e3c23192e",
-        "title": "俄对乌发动大规模报复",
-        "summary": "俄对乌发动大规模报复",
+        "id": "5bf0999a5fe0c0011748",
+        "title": "首位到访天宫的外籍航天员公布",
+        "summary": "首位到访天宫的外籍航天员公布",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7710641692205908022/",
-        "publishedAt": "2026-11-23T14:33:50Z"
+        "url": "https://www.toutiao.com/trending/7710908113164386347/",
+        "publishedAt": "2026-11-24T02:53:51Z"
       },
       {
-        "id": "0a3585852e6caf305723",
-        "title": "英伟达董事会同意恢复黄仁勋CEO职务",
-        "summary": "英伟达董事会同意恢复黄仁勋CEO职务",
+        "id": "b60a003d0fa112088def",
+        "title": "神二十四乘组：外籍航天员首次入选",
+        "summary": "神二十四乘组：外籍航天员首次入选",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E5%90%8C%E6%84%8F%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1",
-        "publishedAt": "2026-11-23T14:33:50Z"
+        "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%EF%BC%9A%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E6%AC%A1%E5%85%A5%E9%80%89",
+        "publishedAt": "2026-11-24T02:53:51Z"
       },
       {
-        "id": "5a44a4b947d7fd7bb1fc",
-        "title": "局势有变？贝森特“改口”：黄仁勋可能“不知情”",
-        "summary": "局势有变？贝森特“改口”：黄仁勋可能“不知情”",
+        "id": "f2c8d680b98467dc3813",
+        "title": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
+        "summary": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786468",
-        "publishedAt": "2026-11-23T14:33:50Z"
+        "url": "https://wallstreetcn.com/articles/3786536",
+        "publishedAt": "2026-11-24T02:53:51Z"
       },
       {
-        "id": "1e5f01071e83f497ba16",
-        "title": "大学应有的模样｜我们为什么怀念“曾经的大学”",
-        "summary": "大学应有的模样｜我们为什么怀念“曾经的大学”",
+        "id": "ae726cd0eb38c08fea60",
+        "title": "首批18只主动ETF上市，360亿增量资金来了",
+        "summary": "首批18只主动ETF上市，360亿增量资金来了",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34510207",
-        "publishedAt": "2026-11-23T14:33:50Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34539385",
+        "publishedAt": "2026-11-24T02:53:51Z"
       },
       {
-        "id": "aa8c94dc78dc8194596e",
-        "title": "证监会明确两融业务安排，原则与细节都讲清楚了",
-        "summary": "证监会明确两融业务安排，原则与细节都讲清楚了",
+        "id": "c7b6746ed48b193b2972",
+        "title": "黄仁勋王者归来！董事会一致同意复职，英伟达股价暴涨30%",
+        "summary": "黄仁勋王者归来！董事会一致同意复职，英伟达股价暴涨30%",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2542131",
-        "publishedAt": "2026-11-23T14:33:50Z"
+        "url": "https://www.cls.cn/detail/2542222",
+        "publishedAt": "2026-11-24T02:53:51Z"
       },
       {
-        "id": "ee44ea337a07747b0543",
-        "title": "辞职成性的蒙古总统，和坐在金山上挨饿的国家",
-        "summary": "辞职成性的蒙古总统，和坐在金山上挨饿的国家",
+        "id": "e3562d110542d67ff38e",
+        "title": "英伟达重新任命黄仁勋为首席执行官",
+        "summary": "英伟达重新任命黄仁勋为首席执行官",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yI2AFTVFPO",
-        "publishedAt": "2026-11-23T14:33:50Z"
+        "url": "https://news.ifeng.com/c/8yIN995Cvnz",
+        "publishedAt": "2026-11-24T02:53:51Z"
       },
       {
-        "id": "5294de6bc5230f0a8a8f",
-        "title": "黄仁勋恢复英伟达CEO职务",
-        "summary": "黄仁勋恢复英伟达CEO职务",
+        "id": "33760062b7b1187ac39d",
+        "title": "34米路仅12秒绿灯已调整为28秒",
+        "summary": "34米路仅12秒绿灯已调整为28秒",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1%23",
-        "publishedAt": "2026-11-23T14:33:50Z"
+        "url": "https://s.weibo.com/weibo?q=%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23",
+        "publishedAt": "2026-11-24T02:53:51Z"
       },
       {
-        "id": "80a5df19b34343c67a91",
-        "title": "中方就以总理等被发逮捕令表态",
-        "summary": "中方就以总理等被发逮捕令表态",
+        "id": "029b3c6b9768ce8e511d",
+        "title": "黄仁勋说我犯了一些非常严重的错误",
+        "summary": "黄仁勋说我犯了一些非常严重的错误",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7711108332878151722/",
-        "publishedAt": "2026-11-23T14:33:50Z"
+        "url": "https://www.toutiao.com/trending/7710565698434760714/",
+        "publishedAt": "2026-11-24T02:53:51Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "b5af75e2af1b9c7140d9",
-        "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
-        "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-23T06:26:33Z"
+        "id": "c083e23c10f329cd426e",
+        "title": "Australian politics live: Greens secure ‘multibillion dollar fines’ for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
+        "summary": "Get our breaking news email, free app or daily news podcastThe government will s",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+        "publishedAt": "2026-11-23T18:38:56Z"
       },
       {
-        "id": "8f3959c41e9d41757bb3",
-        "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
-        "summary": "Party says there will be 12 debates to select a candidate from what is expected ",
+        "id": "9bee5b51c219f2cbcf37",
+        "title": "China sentences official to death for spying for foreign country",
+        "summary": "Accused official leaked national secrets to unnamed country and received payment",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+        "publishedAt": "2026-11-23T18:37:36Z"
+      },
+      {
+        "id": "1cd56cd7433a7b172246",
+        "title": "Excavator threatens sacred alpine lake in the Himalayas",
+        "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has spa",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+        "publishedAt": "2026-11-23T18:35:27Z"
+      },
+      {
+        "id": "469c419d3330502cf1d3",
+        "title": "UN chief calls for world to agree on AI oversight within a year",
+        "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+        "publishedAt": "2026-11-23T18:27:19Z"
+      },
+      {
+        "id": "e55916c82f4ba19b1aa3",
+        "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
+        "summary": "Trump, on social media, tried to push responsibility of ‘any and all death or de",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+        "publishedAt": "2026-11-23T18:25:49Z"
+      },
+      {
+        "id": "30a1f98d6dbb478a2a65",
+        "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+        "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from ",
         "source": "The Guardian World",
         "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-        "publishedAt": "2026-11-23T06:24:50Z"
+        "publishedAt": "2026-11-23T18:13:02Z"
       },
       {
-        "id": "2cb4ed7f31065bb47ee1",
-        "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
-        "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Su",
+        "id": "444fc72eea343572af10",
+        "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+        "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affa",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-        "publishedAt": "2026-11-23T06:20:15Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+        "publishedAt": "2026-11-23T17:47:15Z"
       },
       {
-        "id": "b02c83065e17eedbe1f6",
-        "title": "Ian Huntley killed by inmate in ‘cold-blooded murder’ planned weeks in advance, court told",
-        "summary": "Jurors hear Anthony Russell killed Soham murderer by hitting him repeatedly over",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
-        "publishedAt": "2026-11-23T06:19:44Z"
-      },
-      {
-        "id": "8e5d51111be13d7e72a2",
-        "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons in to space",
-        "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
-        "publishedAt": "2026-11-23T06:18:33Z"
-      },
-      {
-        "id": "647ff369d877e0e0fad3",
-        "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
-        "summary": "Nvidia's board voted unanimously to bring back the disgraced CEO, who resigned t",
-        "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-23T06:18:00Z"
-      },
-      {
-        "id": "4e35b8f8b4a86d55a2d0",
-        "title": "Jensen Huang reinstated as Nvidia CEO",
-        "summary": "Chipmaker reverses decision it made to remove chief executive after reports of a",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-        "publishedAt": "2026-11-23T06:15:27Z"
-      },
-      {
-        "id": "325abb2ec377ac6709f7",
-        "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
-        "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the deba",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-        "publishedAt": "2026-11-23T06:14:44Z"
+        "id": "97bac02acdd10bb33032",
+        "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+        "summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between I",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+        "publishedAt": "2026-11-23T17:32:12Z"
       }
     ]
   }
