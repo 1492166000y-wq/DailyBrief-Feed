@@ -1,26 +1,26 @@
 {
   "version": 1,
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T00:41:00Z",
+  "generatedAt": "2026-11-25T11:14:08Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "fe73d62912ae2a5336a6",
-        "title": "上海就陈吉宁被查表态",
-        "summary": "上海就陈吉宁被查表态",
+        "id": "ae866db7478a38b632f9",
+        "title": "中外航天员实现首次“太空握手”",
+        "summary": "中外航天员实现首次“太空握手”",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7711698607329804330/",
-        "publishedAt": "2026-11-25T00:41:00Z"
+        "url": "https://www.toutiao.com/trending/7711997056860311090/",
+        "publishedAt": "2026-11-25T11:14:08Z"
       },
       {
-        "id": "1008aaae5591aaeec252",
-        "title": "陈吉宁被查 上海表态",
-        "summary": "陈吉宁被查 上海表态",
+        "id": "e72496f60bf1699f828d",
+        "title": "红果 防沉迷",
+        "summary": "红果 防沉迷",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5+%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81",
-        "publishedAt": "2026-11-25T00:41:00Z"
+        "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C+%E9%98%B2%E6%B2%89%E8%BF%B7",
+        "publishedAt": "2026-11-25T11:14:08Z"
       },
       {
         "id": "f2c8d680b98467dc3813",
@@ -28,7 +28,7 @@
         "summary": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786536",
-        "publishedAt": "2026-11-25T00:41:00Z"
+        "publishedAt": "2026-11-25T11:14:08Z"
       },
       {
         "id": "fd9f4f69db1a523bab4f",
@@ -36,39 +36,39 @@
         "summary": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34548826",
-        "publishedAt": "2026-11-25T00:41:00Z"
+        "publishedAt": "2026-11-25T11:14:08Z"
       },
       {
-        "id": "64f8af1813c2b4383011",
-        "title": "【早报】美股一夜“变天”，科技股全线回调；国际原油，大幅反弹；工业富联、胜宏科技公告分红事项",
-        "summary": "【早报】美股一夜“变天”，科技股全线回调；国际原油，大幅反弹；工业富联、胜宏科技公告分红事项",
+        "id": "f86ab46b5ad73fa24a29",
+        "title": "“互联网泡沫+次贷危机”！AI若暴雷 美国经济真伤不起？",
+        "summary": "“互联网泡沫+次贷危机”！AI若暴雷 美国经济真伤不起？",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2543512",
-        "publishedAt": "2026-11-25T00:41:00Z"
+        "url": "https://www.cls.cn/detail/2543982",
+        "publishedAt": "2026-11-25T11:14:08Z"
       },
       {
-        "id": "86ec7994ddc5da5536ff",
-        "title": "民主党已着手调查万斯",
-        "summary": "民主党已着手调查万斯",
+        "id": "9f5d0efa8fec66018e73",
+        "title": "特朗普，还在“回味”",
+        "summary": "特朗普，还在“回味”",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yJlYGcRoJv",
-        "publishedAt": "2026-11-25T00:41:00Z"
+        "url": "https://news.ifeng.com/c/8yL1QzQwZMm",
+        "publishedAt": "2026-11-25T11:14:08Z"
       },
       {
-        "id": "c0ac5b6ac0e221879feb",
-        "title": "演员好像忘记自己中箭了",
-        "summary": "演员好像忘记自己中箭了",
+        "id": "9616bfe60ee57416c021",
+        "title": "T1官宣Zeus回归",
+        "summary": "T1官宣Zeus回归",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E5%A5%BD%E5%83%8F%E5%BF%98%E8%AE%B0%E8%87%AA%E5%B7%B1%E4%B8%AD%E7%AE%AD%E4%BA%86",
-        "publishedAt": "2026-11-25T00:41:00Z"
+        "url": "https://s.weibo.com/weibo?q=T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92",
+        "publishedAt": "2026-11-25T11:14:08Z"
       },
       {
-        "id": "1353cf67576bb224543a",
-        "title": "黄仁勋复职风波留下的考题",
-        "summary": "黄仁勋复职风波留下的考题",
+        "id": "702d328e9354113770d3",
+        "title": "上海三套班子开会 就陈吉宁被查表态",
+        "summary": "上海三套班子开会 就陈吉宁被查表态",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7711783883632545321/",
-        "publishedAt": "2026-11-25T00:41:00Z"
+        "url": "https://www.toutiao.com/trending/7712055880123944475/",
+        "publishedAt": "2026-11-25T11:14:08Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "4fdcad9f379bf642377d",
-        "title": "Alaska ends deal to give voter records to US Justice Department",
-        "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort ",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
-        "publishedAt": "2026-11-24T16:28:28Z"
+        "id": "0e4c620ca86af2b9e5a1",
+        "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+        "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating ",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+        "publishedAt": "2026-11-25T03:00:00Z"
       },
       {
-        "id": "dfda15b0d0e05440d51e",
-        "title": "Australian politics live: Labor exempts pensioners from bill cutting private health rebates for over-65s; Australia and Solomon Islands sign ‘historic’ treaty?",
-        "summary": "Get our daily political email, free app or daily news podcastWells says AI inves",
+        "id": "71a80f84227b961ef46c",
+        "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+        "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massi",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-        "publishedAt": "2026-11-24T16:21:28Z"
+        "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+        "publishedAt": "2026-11-25T02:59:54Z"
       },
       {
-        "id": "ab059a08fa3c33a2ff0c",
-        "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-        "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move t",
+        "id": "bbb5a38f03856c21f1d1",
+        "title": "Previous governments engaged in ‘cover-up’ over harm to nuclear test veterans, says defence secretary – UK politics live",
+        "summary": "Wes Streeting said he believes a review will help ensure that ‘the cover-up is e",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-        "publishedAt": "2026-11-24T16:11:54Z"
+        "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+        "publishedAt": "2026-11-25T02:58:34Z"
       },
       {
-        "id": "1db1c64e46b4e257975d",
-        "title": "Latest review of Met police culture finds little has changed since last one",
-        "summary": "Failure to implement previous reports means institutional racism, misogyny and h",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
-        "publishedAt": "2026-11-24T16:01:02Z"
+        "id": "1005c36859e46d58887c",
+        "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+        "summary": "The verdict follows a months-long trial in New York.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-25T02:52:09Z"
       },
       {
-        "id": "c89e1386606e9e263feb",
-        "title": "UK to launch world’s first licensing scheme for knife sales",
-        "summary": "Exclusive: Measures aimed at tackling grey market sellers known to sell dangerou",
+        "id": "13a9edcf4399c0a30020",
+        "title": "Two charged with burglary and trespass at Prince and Princess of Wales’s home",
+        "summary": "Mirgen Doku and Arilen Ndoci to appear before magistrates over suspected break-i",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
-        "publishedAt": "2026-11-24T16:01:01Z"
+        "url": "https://www.theguardian.com/uk-news/2026/nov/25/two-charged-burglary-trespass-prince-princess-wales-home-norfolk",
+        "publishedAt": "2026-11-25T02:51:50Z"
       },
       {
-        "id": "e64fac321d59c6834518",
-        "title": "England has largest frailty gap out of 31 countries, study finds",
-        "summary": "People from lowest socioeconomic group in all countries studied had higher frail",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
-        "publishedAt": "2026-11-24T16:01:01Z"
+        "id": "be17c33704d83f68ebb7",
+        "title": "Australia, Solomon Islands sign sweeping pact seen as countering China",
+        "summary": "Australia will become the Solomon Islands' primary security partner, while the a",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-25T02:51:00Z"
       },
       {
-        "id": "491264644f70f52fa91d",
-        "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
-        "summary": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to ge",
+        "id": "cafe34f27e3e2f3a33ae",
+        "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
+        "summary": "Private members’ motion comes amid concern about Christian symbols being appropr",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
-        "publishedAt": "2026-11-24T16:01:01Z"
+        "url": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
+        "publishedAt": "2026-11-25T02:40:38Z"
       },
       {
-        "id": "94d01fe1a5c7e8d884fb",
-        "title": "Metropolitan police still institutionally racist and misogynist, says report",
-        "summary": "Independent review finds force has ‘fundamental systemic issues’ three years aft",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
-        "publishedAt": "2026-11-24T16:01:01Z"
+        "id": "272fe2550ffbcbb767ab",
+        "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
+        "summary": "Ahead of local elections, AI-generated falsehoods targeting Democratic Progressi",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-25T02:35:00Z"
       }
     ]
   }
