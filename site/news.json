@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T13:51:48Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-26T22:58:40Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "f7df8c7c1023b589813f",
-        "title": "遭举报的武大女教授已被免职",
-        "summary": "遭举报的武大女教授已被免职",
+        "id": "625c0f2771d19bbbb368",
+        "title": "中纪委连打三“虎”",
+        "summary": "中纪委连打三“虎”",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7712441565330866226/",
-        "publishedAt": "2026-11-26T13:51:48Z"
+        "url": "https://www.toutiao.com/trending/7712428794472284223/",
+        "publishedAt": "2026-11-26T22:58:40Z"
       },
       {
         "id": "36a516ef8d83e6bfe235",
@@ -20,7 +20,7 @@
         "summary": "今晚国内油价下调",
         "source": "百度热搜",
         "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83",
-        "publishedAt": "2026-11-26T13:51:48Z"
+        "publishedAt": "2026-11-26T22:58:40Z"
       },
       {
         "id": "f2c8d680b98467dc3813",
@@ -28,15 +28,15 @@
         "summary": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786536",
-        "publishedAt": "2026-11-26T13:51:48Z"
+        "publishedAt": "2026-11-26T22:58:40Z"
       },
       {
-        "id": "db028ff8dbfaf9a3a137",
-        "title": "现货黄金下破3500美元、白银失守40美元，什么原因？",
-        "summary": "现货黄金下破3500美元、白银失守40美元，什么原因？",
+        "id": "d8740fb690de404476ea",
+        "title": "北大教师右眼被注入工业气体获赔388万：法院顶格适用惩罚性赔偿",
+        "summary": "北大教师右眼被注入工业气体获赔388万：法院顶格适用惩罚性赔偿",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34558960",
-        "publishedAt": "2026-11-26T13:51:48Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34563677",
+        "publishedAt": "2026-11-26T22:58:40Z"
       },
       {
         "id": "be972096965007588477",
@@ -44,31 +44,31 @@
         "summary": "“美联储传声筒”：两周后，沃什或将反对2018年的自己",
         "source": "财联社热门",
         "url": "https://www.cls.cn/detail/2545779",
-        "publishedAt": "2026-11-26T13:51:48Z"
+        "publishedAt": "2026-11-26T22:58:40Z"
       },
       {
-        "id": "84ffde3d2922d9001966",
-        "title": "美方称针对中国产品关税可能会增至40%，中方回应",
-        "summary": "美方称针对中国产品关税可能会增至40%，中方回应",
+        "id": "70ac7fd0c03bb0ba803e",
+        "title": "“默茨的做法是教科书式的敲诈勒索”",
+        "summary": "“默茨的做法是教科书式的敲诈勒索”",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yMsrJry2jF",
-        "publishedAt": "2026-11-26T13:51:48Z"
+        "url": "https://news.ifeng.com/c/8yNS13UkDZk",
+        "publishedAt": "2026-11-26T22:58:40Z"
       },
       {
-        "id": "cf377ae945a9c0319605",
-        "title": "武大教师曾某某被举报事件调查结果",
-        "summary": "武大教师曾某某被举报事件调查结果",
+        "id": "b619314046231332ad64",
+        "title": "三只松鼠致歉声明",
+        "summary": "三只松鼠致歉声明",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23",
-        "publishedAt": "2026-11-26T13:51:48Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23",
+        "publishedAt": "2026-11-26T22:58:40Z"
       },
       {
-        "id": "625c0f2771d19bbbb368",
-        "title": "中纪委连打三“虎”",
-        "summary": "中纪委连打三“虎”",
+        "id": "84ae0b49b51ede5be1b8",
+        "title": "新郎发言落泪 新娘大喊不要哭冷死了",
+        "summary": "新郎发言落泪 新娘大喊不要哭冷死了",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7712428794472284223/",
-        "publishedAt": "2026-11-26T13:51:48Z"
+        "url": "https://www.toutiao.com/trending/7712074897082630666/",
+        "publishedAt": "2026-11-26T22:58:40Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "56aeb3717898c58b3e97",
-        "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
-        "summary": "Latest figure of young people not in education, employment or training remains c",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
-        "publishedAt": "2026-11-26T05:43:51Z"
+        "id": "149c0e865acf3f90108a",
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump ha",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-26T14:49:27Z"
       },
       {
-        "id": "7f9a82248476f34941b9",
-        "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
-        "summary": "Transport committee says policy papers show expanding airport would fall short o",
+        "id": "887a37e2848eff92a23d",
+        "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+        "summary": "After 21 years at Time, Talbott joined the Clinton administration and later head",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
-        "publishedAt": "2026-11-26T05:43:36Z"
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
+        "publishedAt": "2026-11-26T14:36:55Z"
       },
       {
-        "id": "11817c88da69e1787850",
-        "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-        "summary": "Latest figures show difference between number of people arriving and leaving UK ",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-        "publishedAt": "2026-11-26T05:43:16Z"
+        "id": "ca4f19f2653ee26b146f",
+        "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+        "summary": "A New York Times report lends credence to long-held belief that torture method w",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+        "publishedAt": "2026-11-26T14:06:54Z"
       },
       {
-        "id": "96d3902492da1d408460",
-        "title": "EU-Indonesia trade deal opens new markets, but challenges remain",
-        "summary": "The agreement eyes new export and investment opportunities for Jakarta and Bruss",
+        "id": "78fd53d8ebbbfb75773f",
+        "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+        "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-26T14:06:20Z"
+      },
+      {
+        "id": "2f6bd39f245a9f677534",
+        "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+        "summary": "The possible environmental damage is still being assessed by Spain's sea rescue ",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-26T14:01:22Z"
+      },
+      {
+        "id": "cad2989ba2d030cfc62f",
+        "title": "AI made self-hosting fun again",
+        "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://n",
+        "source": "Hacker News",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "publishedAt": "2026-11-26T13:47:45Z"
+      },
+      {
+        "id": "4fc8334970230c5e37a8",
+        "title": "At odds over the EU budget, European leaders cut summit short - DW has more",
+        "summary": "Even before they met, it was clear the gap between European leaders' demands for",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-26T05:41:00Z"
+        "url": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-26T13:47:00Z"
       },
       {
-        "id": "adfe76b4b3965461eeed",
-        "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-        "summary": "A number of leaders hope to agree to a budget before consequential elections aro",
+        "id": "1d9728024dfecf72d2a1",
+        "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+        "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by hi",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-        "publishedAt": "2026-11-26T05:31:39Z"
-      },
-      {
-        "id": "f9d2b19d5f2c07793072",
-        "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-        "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredient",
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-        "publishedAt": "2026-11-26T05:31:28Z"
-      },
-      {
-        "id": "d703153b977877e653d1",
-        "title": "Are we ready to live longer? | Centre Stage",
-        "summary": "Dr Slim Slama of Qatar Foundation's WISH talks to Al Jazeera about the future of",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss",
-        "publishedAt": "2026-11-26T05:29:30Z"
-      },
-      {
-        "id": "0a05c64b24a20a1acdc0",
-        "title": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
-        "summary": "House votes to refer draft amendments to the 2006 Anti-Terrorism Law to its Lega",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
-        "publishedAt": "2026-11-26T05:23:46Z"
+        "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+        "publishedAt": "2026-11-26T13:33:36Z"
       }
     ]
   }
