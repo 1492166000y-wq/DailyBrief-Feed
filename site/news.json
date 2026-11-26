@@ -1,26 +1,26 @@
 {
   "version": 1,
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T04:08:32Z",
+  "generatedAt": "2026-11-26T13:51:48Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "d07b346f1baf119eefe5",
-        "title": "普京爱吃粤菜离开前还打包上飞机",
-        "summary": "普京爱吃粤菜离开前还打包上飞机",
+        "id": "f7df8c7c1023b589813f",
+        "title": "遭举报的武大女教授已被免职",
+        "summary": "遭举报的武大女教授已被免职",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7711992074043818047/",
-        "publishedAt": "2026-11-26T04:08:32Z"
+        "url": "https://www.toutiao.com/trending/7712441565330866226/",
+        "publishedAt": "2026-11-26T13:51:48Z"
       },
       {
-        "id": "e9d14033148df5fda444",
-        "title": "“天下第一财神庙”重新开放",
-        "summary": "“天下第一财神庙”重新开放",
+        "id": "36a516ef8d83e6bfe235",
+        "title": "今晚国内油价下调",
+        "summary": "今晚国内油价下调",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%A5%9E%E5%BA%99%E2%80%9D%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE",
-        "publishedAt": "2026-11-26T04:08:32Z"
+        "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83",
+        "publishedAt": "2026-11-26T13:51:48Z"
       },
       {
         "id": "f2c8d680b98467dc3813",
@@ -28,47 +28,47 @@
         "summary": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786536",
-        "publishedAt": "2026-11-26T04:08:32Z"
+        "publishedAt": "2026-11-26T13:51:48Z"
       },
       {
-        "id": "69a5bbb0d38a9372493a",
-        "title": "上海市人大常委会党组、市政府党组、市政协党组召开会议，坚决拥护党中央决定",
-        "summary": "上海市人大常委会党组、市政府党组、市政协党组召开会议，坚决拥护党中央决定",
+        "id": "db028ff8dbfaf9a3a137",
+        "title": "现货黄金下破3500美元、白银失守40美元，什么原因？",
+        "summary": "现货黄金下破3500美元、白银失守40美元，什么原因？",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34557671",
-        "publishedAt": "2026-11-26T04:08:32Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34558960",
+        "publishedAt": "2026-11-26T13:51:48Z"
       },
       {
-        "id": "d9473e72682e0a888abe",
-        "title": "【早报】深夜，美股坐“过山车”；华尔街“大空头”：清空纳指100看跌期权；珠免集团、山鹰国际，今起复牌",
-        "summary": "【早报】深夜，美股坐“过山车”；华尔街“大空头”：清空纳指100看跌期权；珠免集团、山鹰国际，今起复牌",
+        "id": "be972096965007588477",
+        "title": "“美联储传声筒”：两周后，沃什或将反对2018年的自己",
+        "summary": "“美联储传声筒”：两周后，沃什或将反对2018年的自己",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2544754",
-        "publishedAt": "2026-11-26T04:08:32Z"
+        "url": "https://www.cls.cn/detail/2545779",
+        "publishedAt": "2026-11-26T13:51:48Z"
       },
       {
-        "id": "92543e4dfa4084a5569f",
-        "title": "特朗普为何又要发动全球关税战？",
-        "summary": "特朗普为何又要发动全球关税战？",
+        "id": "84ffde3d2922d9001966",
+        "title": "美方称针对中国产品关税可能会增至40%，中方回应",
+        "summary": "美方称针对中国产品关税可能会增至40%，中方回应",
         "source": "凤凰网",
-        "url": "https://original.ifeng.com/c/8yMXrSFnwcM",
-        "publishedAt": "2026-11-26T04:08:32Z"
+        "url": "https://news.ifeng.com/c/8yMsrJry2jF",
+        "publishedAt": "2026-11-26T13:51:48Z"
       },
       {
-        "id": "fb193e188baf6e5ec0f6",
-        "title": "蔡磊已进渐冻症终末期",
-        "summary": "蔡磊已进渐冻症终末期",
+        "id": "cf377ae945a9c0319605",
+        "title": "武大教师曾某某被举报事件调查结果",
+        "summary": "武大教师曾某某被举报事件调查结果",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%23",
-        "publishedAt": "2026-11-26T04:08:32Z"
+        "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23",
+        "publishedAt": "2026-11-26T13:51:48Z"
       },
       {
-        "id": "5f21f19eab098ac643e7",
-        "title": "陈吉宁落马5天前曾现身",
-        "summary": "陈吉宁落马5天前曾现身",
+        "id": "625c0f2771d19bbbb368",
+        "title": "中纪委连打三“虎”",
+        "summary": "中纪委连打三“虎”",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7712289618116480538/",
-        "publishedAt": "2026-11-26T04:08:32Z"
+        "url": "https://www.toutiao.com/trending/7712428794472284223/",
+        "publishedAt": "2026-11-26T13:51:48Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "e6d3ac00fe0ee0663d03",
-        "title": "Macy's postpones Thanksgiving parade due to severe weather",
-        "summary": "The was the first time ever that the iconic celebration was delayed because of s",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-25T20:04:14Z"
-      },
-      {
-        "id": "b049e4ba78bd89bbd5e6",
-        "title": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
-        "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has re",
+        "id": "56aeb3717898c58b3e97",
+        "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+        "summary": "Latest figure of young people not in education, employment or training remains c",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-        "publishedAt": "2026-11-25T20:04:14Z"
+        "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+        "publishedAt": "2026-11-26T05:43:51Z"
       },
       {
-        "id": "2cf3793d7f2d2364113d",
-        "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-        "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing say",
+        "id": "7f9a82248476f34941b9",
+        "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
+        "summary": "Transport committee says policy papers show expanding airport would fall short o",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-        "publishedAt": "2026-11-25T19:54:24Z"
+        "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+        "publishedAt": "2026-11-26T05:43:36Z"
       },
       {
-        "id": "5d976b303ba69762220e",
-        "title": "Colombian president taunts arrested supermarket hostage-takers",
-        "summary": "Colombia’s president has confronted the men who held 76 people hostage at a Cart",
+        "id": "11817c88da69e1787850",
+        "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+        "summary": "Latest figures show difference between number of people arriving and leaving UK ",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+        "publishedAt": "2026-11-26T05:43:16Z"
+      },
+      {
+        "id": "96d3902492da1d408460",
+        "title": "EU-Indonesia trade deal opens new markets, but challenges remain",
+        "summary": "The agreement eyes new export and investment opportunities for Jakarta and Bruss",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-26T05:41:00Z"
+      },
+      {
+        "id": "adfe76b4b3965461eeed",
+        "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+        "summary": "A number of leaders hope to agree to a budget before consequential elections aro",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+        "publishedAt": "2026-11-26T05:31:39Z"
+      },
+      {
+        "id": "f9d2b19d5f2c07793072",
+        "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+        "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredient",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+        "publishedAt": "2026-11-26T05:31:28Z"
+      },
+      {
+        "id": "d703153b977877e653d1",
+        "title": "Are we ready to live longer? | Centre Stage",
+        "summary": "Dr Slim Slama of Qatar Foundation's WISH talks to Al Jazeera about the future of",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
-        "publishedAt": "2026-11-25T19:23:24Z"
+        "url": "https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss",
+        "publishedAt": "2026-11-26T05:29:30Z"
       },
       {
-        "id": "83d660933eeabd48cd3b",
-        "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-        "summary": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass h",
+        "id": "0a05c64b24a20a1acdc0",
+        "title": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
+        "summary": "House votes to refer draft amendments to the 2006 Anti-Terrorism Law to its Lega",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
-        "publishedAt": "2026-11-25T19:20:23Z"
-      },
-      {
-        "id": "bc89bb3229b123ce13fc",
-        "title": "US announces new tariffs on host of countries including China",
-        "summary": "The new levies would hit many of America's biggest trading partners, including C",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-25T19:01:40Z"
-      },
-      {
-        "id": "05fb9dce8f2c9f197f50",
-        "title": "Minipg: PostgreSQL as a Single Executable",
-        "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycomb",
-        "source": "Hacker News",
-        "url": "https://progrium.github.io/minipg/",
-        "publishedAt": "2026-11-25T19:00:48Z"
-      },
-      {
-        "id": "8ec961fc0188fddb6788",
-        "title": "Spain’s election: the end of a leftwing icon? - podcast",
-        "summary": "Madrid correspondent Sam Jones and European community affairs correspondent Ashi",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
-        "publishedAt": "2026-11-25T19:00:43Z"
+        "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+        "publishedAt": "2026-11-26T05:23:46Z"
       }
     ]
   }
