@@ -1,74 +1,74 @@
 {
   "version": 1,
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T08:23:13Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-27T19:27:48Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "2a1795f6a319ab12a7f6",
-        "title": "A股大爆发",
-        "summary": "A股大爆发",
+        "id": "c90077a81f3165d7dc55",
+        "title": "国家队抄底力度已超“924”",
+        "summary": "国家队抄底力度已超“924”",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7712319974953680950/",
-        "publishedAt": "2026-11-27T08:23:13Z"
+        "url": "https://www.toutiao.com/trending/7712761193228321307/",
+        "publishedAt": "2026-11-27T19:27:48Z"
       },
       {
-        "id": "497014f4b482b78e15de",
-        "title": "爆发！A股迎来大反攻",
-        "summary": "爆发！A股迎来大反攻",
+        "id": "b53e02b89cad26769e89",
+        "title": "“请所有股民 重视A股今天的大涨”",
+        "summary": "“请所有股民 重视A股今天的大涨”",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E7%88%86%E5%8F%91%EF%BC%81A%E8%82%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%8F%8D%E6%94%BB",
-        "publishedAt": "2026-11-27T08:23:13Z"
+        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AF%B7%E6%89%80%E6%9C%89%E8%82%A1%E6%B0%91+%E9%87%8D%E8%A7%86A%E8%82%A1%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%A4%A7%E6%B6%A8%E2%80%9D",
+        "publishedAt": "2026-11-27T19:27:48Z"
       },
       {
-        "id": "f2c8d680b98467dc3813",
-        "title": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
-        "summary": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
+        "id": "61617598953971780631",
+        "title": "国常会：加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能",
+        "summary": "国常会：加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能",
         "source": "华尔街见闻",
-        "url": "https://wallstreetcn.com/articles/3786536",
-        "publishedAt": "2026-11-27T08:23:13Z"
+        "url": "https://wallstreetcn.com/articles/3786824",
+        "publishedAt": "2026-11-27T19:27:48Z"
       },
       {
-        "id": "d8740fb690de404476ea",
-        "title": "北大教师右眼被注入工业气体获赔388万：法院顶格适用惩罚性赔偿",
-        "summary": "北大教师右眼被注入工业气体获赔388万：法院顶格适用惩罚性赔偿",
+        "id": "e9149747cdb8544c9312",
+        "title": "大学应有的模样｜大学，该让青年从容栖居",
+        "summary": "大学应有的模样｜大学，该让青年从容栖居",
         "source": "澎湃新闻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34563677",
-        "publishedAt": "2026-11-27T08:23:13Z"
+        "url": "https://www.thepaper.cn/newsDetail_forward_34554351",
+        "publishedAt": "2026-11-27T19:27:48Z"
       },
       {
-        "id": "67c34efd4a1ca6fa183c",
-        "title": "【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器",
-        "summary": "【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器",
+        "id": "650af61a677ef1292c05",
+        "title": "国常会明确政策底，“三个首次”彰显力度",
+        "summary": "国常会明确政策底，“三个首次”彰显力度",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2545997",
-        "publishedAt": "2026-11-27T08:23:13Z"
+        "url": "https://www.cls.cn/detail/2546692",
+        "publishedAt": "2026-11-27T19:27:48Z"
       },
       {
-        "id": "26af501f7822b02e7e05",
-        "title": "特朗普入住深圳酒店后，留下了这样一个礼物",
-        "summary": "特朗普入住深圳酒店后，留下了这样一个礼物",
+        "id": "0a24ab9823f5e20050d7",
+        "title": "两天内，立陶宛对台表态连升三级",
+        "summary": "两天内，立陶宛对台表态连升三级",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yNvf9cQ1HK",
-        "publishedAt": "2026-11-27T08:23:13Z"
+        "url": "https://news.ifeng.com/c/8yOZindNANy",
+        "publishedAt": "2026-11-27T19:27:48Z"
       },
       {
-        "id": "126944e973dd71ff86ce",
-        "title": "A股史诗级暴涨原因",
-        "summary": "A股史诗级暴涨原因",
+        "id": "502cf3e47a0b20d4bf37",
+        "title": "董明珠现场发火魏建军解围",
+        "summary": "董明珠现场发火魏建军解围",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23",
-        "publishedAt": "2026-11-27T08:23:13Z"
+        "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4",
+        "publishedAt": "2026-11-27T19:27:48Z"
       },
       {
-        "id": "0e5380ca7ed9ae0dc2a4",
-        "title": "三只松鼠就员工宿舍脏乱差致歉",
-        "summary": "三只松鼠就员工宿舍脏乱差致歉",
+        "id": "736bfa02d4db08bb0c0f",
+        "title": "武契奇称一旦绝食将不接受救治",
+        "summary": "武契奇称一旦绝食将不接受救治",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7712378042722697258/",
-        "publishedAt": "2026-11-27T08:23:13Z"
+        "url": "https://www.toutiao.com/trending/7712429326217920555/",
+        "publishedAt": "2026-11-27T19:27:48Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "6ad14fc0ea2cdd4a1fe1",
-        "title": "Banks may pass on £1.5bn tax rise on to customers, warns Bank of England chief",
-        "summary": "Big lenders will aim to ‘protect their earnings’ amid temporary increase in corp",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
-        "publishedAt": "2026-11-27T00:17:13Z"
-      },
-      {
-        "id": "5ee0235f00824edac965",
-        "title": "Heavy rain, wind and flooding hit much of US on Thanksgiving",
-        "summary": "Homes left without power and holiday travel disrupted as storms pound east coast",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
-        "publishedAt": "2026-11-27T00:10:27Z"
-      },
-      {
-        "id": "13eefb69b3a5091c55f6",
-        "title": "New Zealand election results set up tricky talks for conservative incumbent",
-        "summary": "Conservative PM Luxon and populist coalition partners face negotiations with cen",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
-        "publishedAt": "2026-11-26T23:55:32Z"
-      },
-      {
-        "id": "c4d48ba6e5156d9f7907",
-        "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
-        "summary": "Prices are climbing again across Europe as energy costs surge.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
-        "publishedAt": "2026-11-26T23:53:59Z"
-      },
-      {
-        "id": "2cd8e358a6c991d1bb73",
-        "title": "Brazilian footballer arrested in drug trafficking investigation",
-        "summary": "Brazilian footballer David Correa da Fonseca was arrested during a Vasco da Gama",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
-        "publishedAt": "2026-11-26T23:32:12Z"
-      },
-      {
-        "id": "c93dacc695efa6a48672",
-        "title": "Sandpapergate forum to investigate Australia-England Ashes Tests",
-        "summary": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
-        "publishedAt": "2026-11-26T23:24:45Z"
-      },
-      {
-        "id": "aa6c5ed70d7e33237aeb",
-        "title": "India's Modi government calls special sitting of parliament",
-        "summary": "The sitting of the Indian parliament comes after its monsoon session was adjourn",
+        "id": "1d7e5f28334ede738cf4",
+        "title": "Germany news: Lawmakers approve debt-laden 2027 budget",
+        "summary": "German lawmakers voted on a federal budget which foresees €556 billion in spendi",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-26T23:23:00Z"
+        "url": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-27T11:18:00Z"
       },
       {
-        "id": "e5ddb8d03aa3050b3273",
-        "title": "Can the Mecca pact turn its collective defence promise into real support?",
-        "summary": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the ki",
+        "id": "eb4832f77326dfa48bc6",
+        "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+        "summary": "Stormy weather in New York City prompted organisers to push back the Macy's para",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-27T10:52:33Z"
+      },
+      {
+        "id": "f19d7c001f9df8a08610",
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "summary": "Ukraine settles in for another devastating winter as the questions persists: how",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-27T10:42:50Z"
+      },
+      {
+        "id": "f4b62cf8a2a07691419a",
+        "title": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
+        "summary": "Police are working with agencies across Europe after similar incidents occurred ",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+        "publishedAt": "2026-11-27T10:35:45Z"
+      },
+      {
+        "id": "b56efb9f9a9995cba713",
+        "title": "Convex skills send the user's app idea to a remote server without telling them",
+        "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments U",
+        "source": "Hacker News",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64",
+        "publishedAt": "2026-11-27T10:02:45Z"
+      },
+      {
+        "id": "971eb33fe0b469b5bbaa",
+        "title": "Spanish rider Marc Marquez announces MotoGP retirement, days after clinching record 8th world title",
+        "summary": "Marc Marquez took fans and his team by surprise when announcing this weekend's r",
+        "source": "DW Top Stories",
+        "url": "https://www.dw.com/en/spanish-rider-marc-marquez-announces-motogp-retirement-days-after-clinching-record-8th-world-title/a-80079930?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-27T10:01:00Z"
+      },
+      {
+        "id": "078d2272054424c7ab49",
+        "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+        "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-27T10:00:40Z"
+      },
+      {
+        "id": "6108a6230f3cc7252064",
+        "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+        "summary": "Tensions rise over DEA tip line, with Mexico emphasising respect for its soverei",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
-        "publishedAt": "2026-11-26T23:16:30Z"
+        "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+        "publishedAt": "2026-11-27T09:58:36Z"
       }
     ]
   }
