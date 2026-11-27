@@ -1,26 +1,26 @@
 {
   "version": 1,
   "date": "2026-11-27",
-  "generatedAt": "2026-11-26T22:58:40Z",
+  "generatedAt": "2026-11-27T08:23:13Z",
   "generationMode": "rules_fallback",
   "domestic": {
     "overview": "国内重要新闻已按影响范围、时效与来源权重整理。",
     "items": [
       {
-        "id": "625c0f2771d19bbbb368",
-        "title": "中纪委连打三“虎”",
-        "summary": "中纪委连打三“虎”",
+        "id": "2a1795f6a319ab12a7f6",
+        "title": "A股大爆发",
+        "summary": "A股大爆发",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7712428794472284223/",
-        "publishedAt": "2026-11-26T22:58:40Z"
+        "url": "https://www.toutiao.com/trending/7712319974953680950/",
+        "publishedAt": "2026-11-27T08:23:13Z"
       },
       {
-        "id": "36a516ef8d83e6bfe235",
-        "title": "今晚国内油价下调",
-        "summary": "今晚国内油价下调",
+        "id": "497014f4b482b78e15de",
+        "title": "爆发！A股迎来大反攻",
+        "summary": "爆发！A股迎来大反攻",
         "source": "百度热搜",
-        "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83",
-        "publishedAt": "2026-11-26T22:58:40Z"
+        "url": "https://www.baidu.com/s?wd=%E7%88%86%E5%8F%91%EF%BC%81A%E8%82%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%8F%8D%E6%94%BB",
+        "publishedAt": "2026-11-27T08:23:13Z"
       },
       {
         "id": "f2c8d680b98467dc3813",
@@ -28,7 +28,7 @@
         "summary": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
         "source": "华尔街见闻",
         "url": "https://wallstreetcn.com/articles/3786536",
-        "publishedAt": "2026-11-26T22:58:40Z"
+        "publishedAt": "2026-11-27T08:23:13Z"
       },
       {
         "id": "d8740fb690de404476ea",
@@ -36,39 +36,39 @@
         "summary": "北大教师右眼被注入工业气体获赔388万：法院顶格适用惩罚性赔偿",
         "source": "澎湃新闻",
         "url": "https://www.thepaper.cn/newsDetail_forward_34563677",
-        "publishedAt": "2026-11-26T22:58:40Z"
+        "publishedAt": "2026-11-27T08:23:13Z"
       },
       {
-        "id": "be972096965007588477",
-        "title": "“美联储传声筒”：两周后，沃什或将反对2018年的自己",
-        "summary": "“美联储传声筒”：两周后，沃什或将反对2018年的自己",
+        "id": "67c34efd4a1ca6fa183c",
+        "title": "【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器",
+        "summary": "【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器",
         "source": "财联社热门",
-        "url": "https://www.cls.cn/detail/2545779",
-        "publishedAt": "2026-11-26T22:58:40Z"
+        "url": "https://www.cls.cn/detail/2545997",
+        "publishedAt": "2026-11-27T08:23:13Z"
       },
       {
-        "id": "70ac7fd0c03bb0ba803e",
-        "title": "“默茨的做法是教科书式的敲诈勒索”",
-        "summary": "“默茨的做法是教科书式的敲诈勒索”",
+        "id": "26af501f7822b02e7e05",
+        "title": "特朗普入住深圳酒店后，留下了这样一个礼物",
+        "summary": "特朗普入住深圳酒店后，留下了这样一个礼物",
         "source": "凤凰网",
-        "url": "https://news.ifeng.com/c/8yNS13UkDZk",
-        "publishedAt": "2026-11-26T22:58:40Z"
+        "url": "https://news.ifeng.com/c/8yNvf9cQ1HK",
+        "publishedAt": "2026-11-27T08:23:13Z"
       },
       {
-        "id": "b619314046231332ad64",
-        "title": "三只松鼠致歉声明",
-        "summary": "三只松鼠致歉声明",
+        "id": "126944e973dd71ff86ce",
+        "title": "A股史诗级暴涨原因",
+        "summary": "A股史诗级暴涨原因",
         "source": "微博",
-        "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23",
-        "publishedAt": "2026-11-26T22:58:40Z"
+        "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23",
+        "publishedAt": "2026-11-27T08:23:13Z"
       },
       {
-        "id": "84ae0b49b51ede5be1b8",
-        "title": "新郎发言落泪 新娘大喊不要哭冷死了",
-        "summary": "新郎发言落泪 新娘大喊不要哭冷死了",
+        "id": "0e5380ca7ed9ae0dc2a4",
+        "title": "三只松鼠就员工宿舍脏乱差致歉",
+        "summary": "三只松鼠就员工宿舍脏乱差致歉",
         "source": "今日头条",
-        "url": "https://www.toutiao.com/trending/7712074897082630666/",
-        "publishedAt": "2026-11-26T22:58:40Z"
+        "url": "https://www.toutiao.com/trending/7712378042722697258/",
+        "publishedAt": "2026-11-27T08:23:13Z"
       }
     ]
   },
@@ -76,68 +76,68 @@
     "overview": "国际重要新闻已按公共影响、时效与来源权重整理。",
     "items": [
       {
-        "id": "149c0e865acf3f90108a",
-        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-        "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump ha",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-26T14:49:27Z"
-      },
-      {
-        "id": "887a37e2848eff92a23d",
-        "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
-        "summary": "After 21 years at Time, Talbott joined the Clinton administration and later head",
+        "id": "6ad14fc0ea2cdd4a1fe1",
+        "title": "Banks may pass on £1.5bn tax rise on to customers, warns Bank of England chief",
+        "summary": "Big lenders will aim to ‘protect their earnings’ amid temporary increase in corp",
         "source": "The Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
-        "publishedAt": "2026-11-26T14:36:55Z"
+        "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+        "publishedAt": "2026-11-27T00:17:13Z"
       },
       {
-        "id": "ca4f19f2653ee26b146f",
-        "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
-        "summary": "A New York Times report lends credence to long-held belief that torture method w",
+        "id": "5ee0235f00824edac965",
+        "title": "Heavy rain, wind and flooding hit much of US on Thanksgiving",
+        "summary": "Homes left without power and holiday travel disrupted as storms pound east coast",
+        "source": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+        "publishedAt": "2026-11-27T00:10:27Z"
+      },
+      {
+        "id": "13eefb69b3a5091c55f6",
+        "title": "New Zealand election results set up tricky talks for conservative incumbent",
+        "summary": "Conservative PM Luxon and populist coalition partners face negotiations with cen",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
-        "publishedAt": "2026-11-26T14:06:54Z"
+        "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+        "publishedAt": "2026-11-26T23:55:32Z"
       },
       {
-        "id": "78fd53d8ebbbfb75773f",
-        "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-        "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-26T14:06:20Z"
+        "id": "c4d48ba6e5156d9f7907",
+        "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
+        "summary": "Prices are climbing again across Europe as energy costs surge.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+        "publishedAt": "2026-11-26T23:53:59Z"
       },
       {
-        "id": "2f6bd39f245a9f677534",
-        "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-        "summary": "The possible environmental damage is still being assessed by Spain's sea rescue ",
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-26T14:01:22Z"
+        "id": "2cd8e358a6c991d1bb73",
+        "title": "Brazilian footballer arrested in drug trafficking investigation",
+        "summary": "Brazilian footballer David Correa da Fonseca was arrested during a Vasco da Gama",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
+        "publishedAt": "2026-11-26T23:32:12Z"
       },
       {
-        "id": "cad2989ba2d030cfc62f",
-        "title": "AI made self-hosting fun again",
-        "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://n",
-        "source": "Hacker News",
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "publishedAt": "2026-11-26T13:47:45Z"
+        "id": "c93dacc695efa6a48672",
+        "title": "Sandpapergate forum to investigate Australia-England Ashes Tests",
+        "summary": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
+        "publishedAt": "2026-11-26T23:24:45Z"
       },
       {
-        "id": "4fc8334970230c5e37a8",
-        "title": "At odds over the EU budget, European leaders cut summit short - DW has more",
-        "summary": "Even before they met, it was clear the gap between European leaders' demands for",
+        "id": "aa6c5ed70d7e33237aeb",
+        "title": "India's Modi government calls special sitting of parliament",
+        "summary": "The sitting of the Indian parliament comes after its monsoon session was adjourn",
         "source": "DW Top Stories",
-        "url": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-top-1022-rdf",
-        "publishedAt": "2026-11-26T13:47:00Z"
+        "url": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-top-1022-rdf",
+        "publishedAt": "2026-11-26T23:23:00Z"
       },
       {
-        "id": "1d9728024dfecf72d2a1",
-        "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
-        "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by hi",
-        "source": "The Guardian World",
-        "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
-        "publishedAt": "2026-11-26T13:33:36Z"
+        "id": "e5ddb8d03aa3050b3273",
+        "title": "Can the Mecca pact turn its collective defence promise into real support?",
+        "summary": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the ki",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+        "publishedAt": "2026-11-26T23:16:30Z"
       }
     ]
   }
